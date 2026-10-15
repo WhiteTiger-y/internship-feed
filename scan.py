@@ -29,7 +29,10 @@ _host_locks = {}
 _host_last = {}
 _glock = threading.Lock()
 
-def _polite(host, gap=0.4):
+HOST_GAP = {"apply.careers.microsoft.com": 3.0}  # stricter rate limits
+
+def _polite(host, gap=None):
+    gap = HOST_GAP.get(host, 0.4) if gap is None else gap
     with _glock:
         lock = _host_locks.setdefault(host, threading.Lock())
     lock.acquire()
@@ -47,15 +50,19 @@ def http(url, body=None, timeout=25):
         req = urllib.request.Request(url, data=data, headers={
             "User-Agent": UA, "Accept": "application/json",
             **({"Content-Type": "application/json"} if data else {})})
-        for attempt in range(3):
+        for attempt in range(4):
             try:
                 with urllib.request.urlopen(req, timeout=timeout) as r:
                     return json.loads(r.read().decode("utf-8", "replace"))
             except urllib.error.HTTPError as e:
                 if e.code in (404, 410):
                     return None
-                if e.code in (429, 500, 502, 503, 504) and attempt < 2:
-                    time.sleep(2 * (attempt + 1)); continue
+                if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+                    try:
+                        ra = int(e.headers.get("Retry-After") or 0)
+                    except ValueError:
+                        ra = 0
+                    time.sleep(min(60, max(ra, (10 if e.code == 429 else 2) * (attempt + 1)))); continue
                 raise
             except (urllib.error.URLError, TimeoutError):
                 if attempt < 2:

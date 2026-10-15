@@ -170,6 +170,6 @@
     {"name": "Western Digital", "smartrecruiters": "WesternDigital"},
 
     {"name": "Amazon", "amazon": {"queries": ["machine learning intern", "applied scientist intern", "research scientist intern", "data scientist intern", "computer vision intern"]}},
-    {"name": "Microsoft", "microsoft": {"queries": ["research intern", "machine learning intern", "applied scientist intern", "data science intern"]}}
+    {"name": "Microsoft", "microsoft": {"queries": ["intern"]}}
   ]
 }
