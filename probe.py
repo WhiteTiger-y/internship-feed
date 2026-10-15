@@ -47,9 +47,15 @@ def scan_html(html):
     return {k: sorted(v)[:5] for k, v in found.items()}
 
 def try_slug(ats, s):
+    try:
+        return _try_slug(ats, s)
+    except Exception as e:
+        return f"err {type(e).__name__}"
+
+def _try_slug(ats, s):
     if ats == "greenhouse":
         c, b, _ = get(f"https://boards-api.greenhouse.io/v1/boards/{s}/jobs", accept="application/json")
-        return c == 200 and len(json.loads(b).get("jobs", [])) if c == 200 else None
+        return len(json.loads(b).get("jobs", [])) if c == 200 else None
     if ats == "ashby":
         c, b, _ = get(f"https://api.ashbyhq.com/posting-api/job-board/{s}", accept="application/json")
         return len(json.loads(b).get("jobs", [])) if c == 200 else None
@@ -64,6 +70,12 @@ def try_slug(ats, s):
         return json.loads(b).get("totalFound") if c == 200 else None
 
 def try_workday(host_tenant_site):
+    try:
+        return _try_workday(host_tenant_site)
+    except Exception as e:
+        return f"err {type(e).__name__}"
+
+def _try_workday(host_tenant_site):
     tenant, wd, site = host_tenant_site.split("/")
     url = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     c, b, _ = get(url, {"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": "intern"}, "application/json")
@@ -122,5 +134,15 @@ def microsoft():
 
 if __name__ == "__main__":
     targets = json.load(open(sys.argv[1]))
-    results = [probe(t["name"], t.get("domains", []), t.get("slugs", [])) for t in targets]
-    print(json.dumps({"microsoft": microsoft(), "companies": results}, indent=1, default=str))
+    results = []
+    for t in targets:
+        try:
+            results.append(probe(t["name"], t.get("domains", []), t.get("slugs", [])))
+        except Exception as e:
+            results.append({"name": t["name"], "error": f"{type(e).__name__}: {e}"})
+    try:
+        ms = microsoft()
+    except Exception as e:
+        ms = {"error": f"{type(e).__name__}: {e}"}
+    with open(sys.argv[2], "w") as f:
+        json.dump({"microsoft": ms, "companies": results}, f, indent=1, default=str)
