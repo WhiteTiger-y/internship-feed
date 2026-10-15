@@ -1,48 +1,32 @@
-# Scan report: 2026-10-15 06:31 UTC
+# Scan report: 2026-10-15 06:44 UTC
 
-166 companies, 132 scanned OK, 228 open matching roles, 0 recently closed kept.
+163 companies, 146 scanned OK, 231 open matching roles, 0 recently closed kept.
 
 | Company | Status | Detail |
 |---|---|---|
-| Microsoft | error | URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f |
-| Adept | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Aidoc | unresolved | no public Greenhouse/Ashby/Lever board found |
+| Microsoft | error | HTTPError: HTTP Error 429: Too Many Requests |
 | Applied Intuition | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Arterys | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Aurora Innovation | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Boston Dynamics | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Chime | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Cleerly | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Collaborative Robotics | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Contextual AI | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Covariant | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Decart | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Descartes Labs | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Etsy | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Five Rings | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Genesis Therapeutics | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Grammarly | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Hebbia | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Hippocratic AI | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Hugging Face | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Hyperfine | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Lunit | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Matterport | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Paige | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Plus | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Radix Trading | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Skild AI | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Snap | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Tempus | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Unity | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Viz.ai | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Wayfair | unresolved | no public Greenhouse/Ashby/Lever board found |
-| Weights & Biases | unresolved | no public Greenhouse/Ashby/Lever board found |
 | 1X Technologies | ok | Ashby: 100 postings, 0 matching |
 | Abridge | ok | Ashby: 44 postings, 0 matching |
 | Adobe | ok | Workday: 135 postings, 2 matching |
 | Affirm | ok | Greenhouse: 206 postings, 1 matching |
 | Agility Robotics | ok | Greenhouse: 73 postings, 0 matching |
+| Aidoc | ok | Greenhouse: 31 postings, 0 matching |
 | Airbnb | ok | Greenhouse: 164 postings, 0 matching |
 | Amazon | ok | Amazon Jobs: 37 postings, 4 matching |
 | Anduril | ok | Greenhouse: 2527 postings, 1 matching |
@@ -50,20 +34,25 @@
 | Anysphere (Cursor) | ok | Ashby: 134 postings, 0 matching |
 | Apptronik | ok | Greenhouse: 79 postings, 0 matching |
 | Asana | ok | Greenhouse: 105 postings, 0 matching |
-| Autodesk | ok | Workday: 301 postings, 0 matching |
+| Autodesk | ok | Workday: 300 postings, 0 matching |
 | Baseten | ok | Ashby: 106 postings, 0 matching |
 | Betterment | ok | Greenhouse: 24 postings, 0 matching |
 | Black Forest Labs | ok | Ashby: 14 postings, 0 matching |
 | BlackSky | ok | Greenhouse: 30 postings, 0 matching |
 | Bosch | ok | SmartRecruiters: 1000 postings, 14 matching |
+| Boston Dynamics | ok | Workday: 79 postings, 0 matching |
 | Brex | ok | Greenhouse: 261 postings, 0 matching |
 | Butterfly Network | ok | Greenhouse: 21 postings, 0 matching |
 | Capital One | ok | Workday: 400 postings, 0 matching |
 | Cartesia | ok | Ashby: 28 postings, 0 matching |
 | Character.AI | ok | Ashby: 13 postings, 0 matching |
+| Chime | ok | Greenhouse: 69 postings, 0 matching |
+| Cleerly | ok | Greenhouse: 16 postings, 0 matching |
 | Cloudflare | ok | Greenhouse: 445 postings, 0 matching |
 | Cohere | ok | Ashby: 116 postings, 2 matching |
 | Coinbase | ok | Greenhouse: 225 postings, 5 matching |
+| Collaborative Robotics | ok | Ashby: 13 postings, 0 matching |
+| CoreWeave (Weights & Biases) | ok | Greenhouse: 302 postings, 0 matching |
 | Databricks | ok | Greenhouse: 891 postings, 1 matching |
 | Datadog | ok | Greenhouse: 436 postings, 1 matching |
 | Dexterity | ok | Lever: 22 postings, 0 matching |
@@ -80,12 +69,17 @@
 | Figma | ok | Greenhouse: 142 postings, 5 matching |
 | Figure AI | ok | Greenhouse: 97 postings, 0 matching |
 | Fireworks AI | ok | Ashby: 83 postings, 0 matching |
+| Five Rings | ok | Greenhouse: 17 postings, 2 matching |
 | Flatiron Health | ok | Greenhouse: 21 postings, 0 matching |
 | GE HealthCare | ok | Workday: 400 postings, 1 matching |
+| Genesis Therapeutics | ok | Ashby: 11 postings, 0 matching |
 | Glean | ok | Greenhouse: 136 postings, 0 matching |
 | Harvey | ok | Ashby: 344 postings, 0 matching |
+| Hebbia | ok | Ashby: 22 postings, 0 matching |
 | Hudson River Trading | ok | Greenhouse: 89 postings, 3 matching |
+| Hugging Face | ok | Workable: 6 postings, 0 matching |
 | Hume AI | ok | Greenhouse: 5 postings, 0 matching |
+| Hyperfine | ok | Greenhouse: 11 postings, 0 matching |
 | Imbue | ok | Greenhouse: 2 postings, 0 matching |
 | IMC Trading | ok | Greenhouse: 174 postings, 7 matching |
 | Insitro | ok | Ashby: 15 postings, 0 matching |
@@ -97,6 +91,7 @@
 | Kodiak Robotics | ok | Greenhouse: 67 postings, 1 matching |
 | Liquid AI | ok | Ashby: 22 postings, 0 matching |
 | Luma AI | ok | Ashby: 35 postings, 0 matching |
+| Lunit | ok | Workable: 19 postings, 0 matching |
 | Lyft | ok | Greenhouse: 177 postings, 5 matching |
 | Magic | ok | Greenhouse: 0 postings, 0 matching |
 | Mastercard | ok | Workday: 399 postings, 0 matching |
@@ -121,7 +116,7 @@
 | PDT Partners | ok | Greenhouse: 11 postings, 1 matching |
 | Peloton | ok | Greenhouse: 53 postings, 0 matching |
 | Perplexity | ok | Ashby: 130 postings, 3 matching |
-| Pfizer | ok | Workday: 248 postings, 0 matching |
+| Pfizer | ok | Workday: 247 postings, 0 matching |
 | Physical Intelligence | ok | Ashby: 41 postings, 1 matching |
 | Pika | ok | Ashby: 15 postings, 1 matching |
 | Pinterest | ok | Greenhouse: 156 postings, 5 matching |
@@ -131,6 +126,7 @@
 | Poolside | ok | Ashby: 2 postings, 0 matching |
 | Quora | ok | Ashby: 7 postings, 0 matching |
 | Rad AI | ok | Ashby: 19 postings, 0 matching |
+| Radix Trading | ok | Greenhouse: 8 postings, 1 matching |
 | Ramp | ok | Ashby: 162 postings, 1 matching |
 | Recursion | ok | Greenhouse: 13 postings, 0 matching |
 | Reddit | ok | Greenhouse: 147 postings, 0 matching |
@@ -160,6 +156,7 @@
 | Twelve Labs | ok | Ashby: 13 postings, 0 matching |
 | Twilio | ok | Greenhouse: 141 postings, 0 matching |
 | Visa | ok | SmartRecruiters: 0 postings, 0 matching |
+| Viz.ai | ok | Ashby: 18 postings, 0 matching |
 | Voleon | ok | Ashby: 58 postings, 1 matching |
 | Waymo | ok | Greenhouse: 364 postings, 32 matching |
 | Wayve | ok | Ashby: 166 postings, 0 matching |
