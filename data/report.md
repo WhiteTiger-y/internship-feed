@@ -1,10 +1,9 @@
-# Scan report: 2026-10-15 06:44 UTC
+# Scan report: 2026-10-15 06:46 UTC
 
-163 companies, 146 scanned OK, 231 open matching roles, 0 recently closed kept.
+163 companies, 147 scanned OK, 246 open matching roles, 0 recently closed kept.
 
 | Company | Status | Detail |
 |---|---|---|
-| Microsoft | error | HTTPError: HTTP Error 429: Too Many Requests |
 | Applied Intuition | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Aurora Innovation | unresolved | no public Greenhouse/Ashby/Lever board found |
 | Contextual AI | unresolved | no public Greenhouse/Ashby/Lever board found |
@@ -96,6 +95,7 @@
 | Magic | ok | Greenhouse: 0 postings, 0 matching |
 | Mastercard | ok | Workday: 399 postings, 0 matching |
 | May Mobility | ok | Greenhouse: 39 postings, 0 matching |
+| Microsoft | ok | Microsoft Careers: 30 postings, 15 matching |
 | Midjourney | ok | Ashby: 17 postings, 0 matching |
 | Mistral AI | ok | Lever: 0 postings, 0 matching |
 | Modal | ok | Ashby: 42 postings, 1 matching |
