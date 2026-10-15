@@ -1,7 +1,7 @@
 """Daily internship scanner for public company career boards.
 
 Reads companies.json, queries each company's public job-board API
-(Greenhouse, Lever, Ashby, SmartRecruiters, Workday, plus Amazon and
+(Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Workday, plus Amazon and
 Microsoft search endpoints), keeps Summer internship roles in ML / CV /
 research / data, and writes:
 
@@ -235,29 +235,50 @@ def f_amazon(cfg):
     return out
 
 def f_microsoft(cfg):
+    """Microsoft's Eightfold-based careers search (apply.careers.microsoft.com)."""
     out, seen = [], set()
     for q in cfg.get("queries", ["intern"]):
-        for pg in range(1, 6):
-            u = ("https://gcsservices.careers.microsoft.com/search/api/v1/search?" + urllib.parse.urlencode(
-                {"q": q, "lc": "United States", "l": "en_us", "pg": pg, "pgSz": 20, "o": "Recent"}))
-            j = http(u)
-            res = ((j or {}).get("operationResult") or {}).get("result") or {}
-            jobs = res.get("jobs") or []
-            for x in jobs:
-                jid = x.get("jobId")
+        start = 0
+        while start < 300:
+            u = ("https://apply.careers.microsoft.com/api/pcsx/search?" + urllib.parse.urlencode(
+                {"domain": "microsoft.com", "query": q, "location": "United States", "start": start}))
+            j = http(u) or {}
+            data = j.get("data") or {}
+            pos = data.get("positions") or []
+            for x in pos:
+                jid = x.get("displayJobId") or x.get("id")
                 if jid in seen: continue
                 seen.add(jid)
-                locs = (x.get("properties") or {}).get("locations") or []
-                out.append({"jid": jid, "title": x.get("title", ""),
-                            "url": f"https://jobs.careers.microsoft.com/global/en/job/{jid}",
-                            "loc": "; ".join(locs), "posted_ms": iso_ms(x.get("postingDate"))})
-            if len(jobs) < 20: break
+                path = x.get("positionUrl") or f"/careers/job/{x.get('id')}"
+                ts = x.get("postedTs") or x.get("creationTs") or 0
+                out.append({"jid": jid, "title": x.get("name", ""),
+                            "url": "https://apply.careers.microsoft.com" + path,
+                            "loc": "; ".join(x.get("standardizedLocations") or x.get("locations") or []),
+                            "posted_ms": int(ts) * 1000 if ts and ts < 10**11 else int(ts or 0)})
+            start += len(pos)
+            if not pos or start >= (data.get("count") or 0): break
     return out
 
-SIMPLE = {"greenhouse": f_greenhouse, "lever": f_lever, "ashby": f_ashby, "smartrecruiters": f_smartrecruiters}
+def f_workable(tok):
+    j = http(f"https://apply.workable.com/api/v1/widget/accounts/{tok}")
+    if j is None: return None
+    out = []
+    for x in j.get("jobs", []):
+        locs = x.get("locations") or [x]
+        loc = "; ".join(", ".join(v for v in (l.get("city"), l.get("region") or l.get("state"), l.get("country")) if v)
+                        for l in locs)
+        if x.get("telecommuting"): loc += "; Remote"
+        sc = x.get("shortcode", "")
+        out.append({"jid": sc or x.get("url"), "title": x.get("title", ""),
+                    "url": x.get("url") or x.get("shortlink") or f"https://apply.workable.com/{tok}/j/{sc}/",
+                    "loc": loc.strip("; "), "posted_ms": iso_ms(x.get("published_on") or x.get("created_at"))})
+    return out
+
+SIMPLE = {"greenhouse": f_greenhouse, "lever": f_lever, "ashby": f_ashby, "smartrecruiters": f_smartrecruiters,
+          "workable": f_workable}
 CUSTOM = {"workday": f_workday, "amazon": f_amazon, "microsoft": f_microsoft}
 LABEL = {"greenhouse": "Greenhouse", "lever": "Lever", "ashby": "Ashby", "smartrecruiters": "SmartRecruiters",
-         "workday": "Workday", "amazon": "Amazon Jobs", "microsoft": "Microsoft Careers"}
+         "workday": "Workday", "amazon": "Amazon Jobs", "microsoft": "Microsoft Careers", "workable": "Workable"}
 
 # ------------------------------------------------------------ resolving ----
 def slug_variants(name):

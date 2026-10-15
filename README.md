@@ -6,7 +6,7 @@ A daily scan of public company career boards for **Summer internships in ML, com
 
 - **Greenhouse, Ashby and Lever boards.** These are auto-detected from the company name in `companies.json`, and `slugs` gives hints.
 - **Workday career sites** (NVIDIA, Adobe, Salesforce, Intel and others), using the same JSON the public site loads.
-- **SmartRecruiters**, **Amazon Jobs** and **Microsoft Careers** search.
+- **SmartRecruiters**, **Workable**, **Amazon Jobs** and **Microsoft Careers** search.
 
 Only public, unauthenticated job-board endpoints are used. Requests run once a day, with at most one request per host at a time and a short pause between requests.
 
