@@ -29,6 +29,12 @@ For roles that pass the title filter, the scanner reads the job description (fro
 
 Nothing about any resume lives in this repo. The tracker compares the tags with a private skills profile in the browser. SimplifyJobs roles are tagged into `data/tags.json`.
 
+The cleaned description text (up to 7,000 characters) is stored in `data/jd/<key>.txt`, where the key is the first 16 hex characters of the SHA-1 of the role id; `data/jd/index.json` maps role ids to keys. The tracker's daily refresh has Claude read these against a resume kept privately in the tracker (never in this repo) to produce a fit score. Files for roles that are no longer listed are deleted.
+
+## LinkedIn (optional)
+
+When the `APIFY_TOKEN` repository secret is set, the scan also runs the Apify actor [`curious_coder/linkedin-jobs-scraper`](https://apify.com/curious_coder/linkedin-jobs-scraper) on LinkedIn's public job search: US internships posted in the past 24 hours for a handful of ML / vision / research queries. Spending is capped three ways: at most 100 results per run, a $0.30 per-run charge limit sent to Apify, and no run once the month's Apify usage reaches $4.25 (the free plan includes $5 a month). Staffing-agency and data-labelling reposts are dropped, and LinkedIn roles stay in the feed for 30 days after posting. No LinkedIn account is used.
+
 ## Filters
 
 - **Title:** must mention an internship, co-op or student researcher role and an ML / AI / vision / research / data term. Marketing, sales, UX research and similar are excluded, and so are other terms (Fall, Spring, past years) unless the title also mentions Summer 2027.

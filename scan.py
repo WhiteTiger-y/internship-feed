@@ -8,11 +8,14 @@ research / data, and writes:
   data/careers.json   feed items in the tracker's compact format
   data/state.json     first/last-seen dates and resolved boards (persisted)
   data/report.md      per-company results and failures
+  data/tags.json      skill tags for SimplifyJobs roles
+  data/jd/            plain-text job descriptions (for the tracker's Claude fit score)
 
 Only public, unauthenticated job-board endpoints are used, one request at
-a time per host with a short pause, once per day.
+a time per host with a short pause, once per day. LinkedIn roles come from an
+Apify actor when the APIFY_TOKEN secret is set, with a monthly spending stop.
 """
-import json, re, time, os, sys, threading, html as _html, datetime as dt
+import json, re, time, os, sys, threading, hashlib, textwrap, html as _html, datetime as dt
 import urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
@@ -222,6 +225,55 @@ def clean(s):
     s = re.sub(r"<[^>]+>", " ", s)
     return re.sub(r"\s+", " ", _html.unescape(s)).strip()
 
+def clean_lines(s):
+    """HTML or plain text -> readable plain text that keeps paragraph and bullet breaks."""
+    if not s:
+        return ""
+    s = _html.unescape(str(s))
+    s = re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", s)
+    s = re.sub(r"(?i)<\s*li\b[^>]*>", "\n- ", s)
+    s = re.sub(r"(?i)<\s*(br|/p|/li|/h[1-6]|/div|/tr|/ul|/ol|p|h[1-6])\b[^>]*>", "\n", s)
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = _html.unescape(s)
+    out = []
+    for ln in s.splitlines():
+        ln = re.sub(r"[ \t\r\f\v ​]+", " ", ln).strip()
+        if ln and ln != "-":
+            out.extend(textwrap.wrap(ln, 160) or [ln])
+    return "\n".join(out)
+
+# Job description text store: data/jd/<key>.txt, key = sha1(role id)[:16], plus data/jd/index.json.
+JD_DIR = os.path.join(DATA, "jd")
+JD_MAX = 7000
+
+def jd_key(iid):
+    return hashlib.sha1(iid.encode()).hexdigest()[:16]
+
+def jd_path(iid):
+    return os.path.join(JD_DIR, jd_key(iid) + ".txt")
+
+def jd_has(iid):
+    return os.path.exists(jd_path(iid))
+
+def jd_save(iid, text):
+    os.makedirs(JD_DIR, exist_ok=True)
+    t = text[:JD_MAX]
+    p = jd_path(iid)
+    if not os.path.exists(p) or open(p, encoding="utf-8").read() != t:
+        open(p, "w", encoding="utf-8").write(t)
+
+def jd_index(ids, prune=True):
+    """Write index.json for roles that have a stored description; drop files for roles no longer listed."""
+    os.makedirs(JD_DIR, exist_ok=True)
+    idx = {i: jd_key(i) for i in sorted(ids) if jd_has(i)}
+    if prune:
+        keep = set(idx.values())
+        for fn in os.listdir(JD_DIR):
+            if fn.endswith(".txt") and fn[:-4] not in keep:
+                os.remove(os.path.join(JD_DIR, fn))
+    json.dump(idx, open(os.path.join(JD_DIR, "index.json"), "w"), separators=(",", ":"), sort_keys=True)
+    return len(idx)
+
 def jd_degree(text):
     tl = text.lower()
     ms = re.search(r"master|\bm\.?s\.?\b|graduate (student|degree|program)", tl)
@@ -267,16 +319,20 @@ def d_ms(pid):
 def tags_for(iid, title, r, state):
     """Tags for one role: reuse what an earlier run stored, else read the job description."""
     prev = state["items"].get(iid) or {}
-    if "j" in prev:
-        return {k: prev[k] for k in ("j", "f") if k in prev} | ({"dj": prev["dj"]} if "dj" in prev else {})
+    cached = ({k: prev[k] for k in ("j", "f") if k in prev} | ({"dj": prev["dj"]} if "dj" in prev else {})) if "j" in prev else {}
+    if cached and jd_has(iid):
+        return cached
     text = r.get("desc")
     if text is None and callable(r.get("detail")):
         try:
             text = r["detail"]()
         except Exception:
             text = None
-    text = clean(text)
-    return tag_text(title, text) if len(text) >= 200 else {}
+    text = clean_lines(text)
+    if len(text) < 200:
+        return cached
+    jd_save(iid, text)
+    return tag_text(title, text)
 
 # ------------------------------------------------------------ fetchers ----
 # Each fetcher returns a list of dicts: {jid, title, url, loc, posted_ms}
@@ -519,18 +575,18 @@ def page_text(raw):
             continue
         for o in (j if isinstance(j, list) else [j]):
             if isinstance(o, dict) and "JobPosting" in str(o.get("@type")):
-                t = clean(" ".join(str(o.get(k) or "") for k in ("description", "responsibilities", "qualifications", "skills")))
+                t = clean_lines("\n".join(str(o.get(k) or "") for k in ("description", "responsibilities", "qualifications", "skills")))
                 if len(t) >= 200:
                     return t
     m = re.search(r'"descriptionHtml":\s*("(?:[^"\\]|\\.)*")', raw)
     if m:
         try:
-            t = clean(json.loads(m.group(1)))
+            t = clean_lines(json.loads(m.group(1)))
             if len(t) >= 200:
                 return t
         except Exception:
             pass
-    t = clean(re.sub(r"(?is)<(script|style|noscript|nav|footer|header)[^>]*>.*?</\1>", " ", raw))
+    t = clean_lines(re.sub(r"(?is)<(script|style|noscript|nav|footer|header)[^>]*>.*?</\1>", " ", raw))
     return t if len(t) >= 500 and re.search(r"responsibilit|qualification|requirement|what you|you will", t, re.I) else ""
 
 def enrich_simplify(budget_s=600):
@@ -546,16 +602,20 @@ def enrich_simplify(budget_s=600):
         print("simplify listings looked wrong; skipping enrichment")
         return None
     wanted = {x["id"]: x for x in data if sj_wanted(x)}
-    todo = [x for i, x in wanted.items() if i not in tags and NOW - miss.get(i, 0) > REPROBE_DAYS * DAY and x.get("url")]
+    # New roles, plus already-tagged roles whose description text isn't stored yet.
+    todo = [x for i, x in wanted.items() if x.get("url") and (
+        (i not in tags and NOW - miss.get(i, 0) > REPROBE_DAYS * DAY) or (i in tags and not jd_has(i) and NOW - miss.get(i, 0) > REPROBE_DAYS * DAY))]
+    todo.sort(key=lambda x: x["id"] in tags)  # brand-new roles first
     deadline = time.time() + budget_s
-    stats = {"ok": 0, "miss": 0, "skipped": 0}
+    stats = {"ok": 0, "miss": 0, "kept": 0, "skipped": 0}
 
     def one(x):
         if time.time() > deadline:
             return x["id"], "skipped", None
         txt = page_text(fetch_page(x["url"]))
         if len(txt) < 300:
-            return x["id"], "miss", None
+            return x["id"], ("kept" if x["id"] in tags else "miss"), None
+        jd_save(x["id"], txt)
         tg = tag_text(x.get("title") or "", txt)
         return x["id"], "ok", {"j": tg["j"], "f": tg["f"]}
 
@@ -563,12 +623,127 @@ def enrich_simplify(budget_s=600):
         for iid, st, tg in ex.map(one, todo):
             stats[st] += 1
             if st == "ok": tags[iid] = tg; miss.pop(iid, None)
-            elif st == "miss": miss[iid] = NOW
+            elif st in ("miss", "kept"): miss[iid] = NOW
     tags = {i: t for i, t in tags.items() if i in wanted}
     miss = {i: t for i, t in miss.items() if i in wanted}
     json.dump({"generatedAt": NOW, "vocab": VOCAB_OUT, "tags": tags, "miss": miss},
               open(tp, "w"), separators=(",", ":"), sort_keys=True)
-    return {"wanted": len(wanted), "tagged": len(tags), "no_jd": len(wanted) - len(tags), **stats}
+    return {"wanted": len(wanted), "tagged": len(tags), "no_jd": len(wanted) - len(tags), "ids": set(wanted), **stats}
+
+# ------------------------------------------------- LinkedIn via Apify ----
+# Runs only when the APIFY_TOKEN secret is set. Uses LinkedIn's public (logged-out)
+# job search through an Apify actor; no LinkedIn account is involved.
+APIFY_ACTOR = "curious_coder~linkedin-jobs-scraper"
+LI_QUERIES = ["machine learning intern", "computer vision intern", "AI research intern",
+              "research scientist intern", "applied scientist intern", "deep learning intern"]
+LI_MAX_ITEMS = 100          # results paid for per day (pay-per-result actor)
+LI_MAX_CHARGE_USD = 0.30    # per-run hard cap passed to Apify
+APIFY_MONTHLY_STOP = 4.25   # skip runs once this month's Apify usage reaches this (free plan: $5)
+LI_KEEP_DAYS = 30
+LI_SPAM_CO = re.compile(r"lensa|jobs via dice|^dice$|jobright|talentify|outlier|data ?annotation|mercor|"
+                        r"crossing hurdles|jobot|actalent|insight global|robert half|teksystems|wiraa|hirenza|"
+                        r"patterned learning|ladders|ziprecruiter|cybercoders|motion recruitment|jooble|"
+                        r"hiring ?cafe|swooped|remotehunter|joinrs|handshake", re.I)
+LI_SPAM_TITLE = re.compile(r"ai trainer|annotat|\btutor\b|\brater\b|evaluator|freelance", re.I)
+
+def apify(method, path, body=None, timeout=60):
+    req = urllib.request.Request("https://api.apify.com/v2" + path, method=method,
+                                 data=json.dumps(body).encode() if body is not None else None,
+                                 headers={"Authorization": "Bearer " + os.environ.get("APIFY_TOKEN", "").strip(),
+                                          "Content-Type": "application/json", "Accept": "application/json",
+                                          "User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode("utf-8", "replace"))
+
+def apify_usage():
+    d = apify("GET", "/users/me/limits")["data"]
+    return float(d["current"]["monthlyUsageUsd"]), float(d["limits"]["maxMonthlyUsageUsd"])
+
+def li_search_url(q):
+    # US, posted in the past 24 hours, job type = internship
+    return "https://www.linkedin.com/jobs/search/?" + urllib.parse.urlencode(
+        {"keywords": q, "location": "United States", "geoId": "103644278", "f_TPR": "r86400", "f_JT": "I"})
+
+def fetch_linkedin():
+    """Returns (status dict, raw actor items)."""
+    if not os.environ.get("APIFY_TOKEN", "").strip():
+        return {"status": "off", "detail": "APIFY_TOKEN secret not set"}, []
+    try:
+        used, cap = apify_usage()
+    except urllib.error.HTTPError as e:
+        return {"status": "error", "detail": f"Apify rejected the token (HTTP {e.code})" if e.code in (401, 403)
+                else f"Apify usage check failed (HTTP {e.code})"}, []
+    except Exception as e:
+        return {"status": "error", "detail": f"Apify usage check failed: {type(e).__name__}"}, []
+    stop = min(APIFY_MONTHLY_STOP, cap - 0.5)
+    if used >= stop:
+        return {"status": "paused", "detail": f"Apify usage ${used:.2f} of ${cap:.2f} this month; paused until it resets",
+                "usedUsd": round(used, 2), "capUsd": cap}, []
+    inp = {"urls": [li_search_url(q) for q in LI_QUERIES], "count": LI_MAX_ITEMS, "scrapeCompany": False}
+    qs = urllib.parse.urlencode({"maxItems": LI_MAX_ITEMS, "maxTotalChargeUsd": LI_MAX_CHARGE_USD, "timeout": 900})
+    try:
+        run = apify("POST", f"/acts/{APIFY_ACTOR}/runs?{qs}", inp)["data"]
+        deadline = time.time() + 960
+        while run.get("status") in ("READY", "RUNNING") and time.time() < deadline:
+            time.sleep(15)
+            run = apify("GET", f"/actor-runs/{run['id']}")["data"]
+        raw = apify("GET", f"/datasets/{run['defaultDatasetId']}/items?clean=true&format=json&limit=1000", timeout=120)
+    except urllib.error.HTTPError as e:
+        msg = ""
+        try:
+            msg = json.loads(e.read().decode())["error"]["message"][:160]
+        except Exception:
+            pass
+        return {"status": "error", "detail": f"Apify run failed (HTTP {e.code}) {msg}".strip()}, []
+    except Exception as e:
+        return {"status": "error", "detail": f"Apify run failed: {type(e).__name__}: {str(e)[:120]}"}, []
+    try:
+        used2, _ = apify_usage()
+    except Exception:
+        used2 = used
+    st = {"status": "ok" if run.get("status") == "SUCCEEDED" else "partial",
+          "detail": f"run {run.get('status', '?').lower()}, {len(raw)} results",
+          "usedUsd": round(used2, 2), "capUsd": cap, "results": len(raw)}
+    return st, raw if isinstance(raw, list) else []
+
+def li_posted(x):
+    ts = x.get("postedAtTimestamp")
+    if isinstance(ts, (int, float)) and ts > 0:
+        return int(ts if ts > 1e12 else ts * 1000)
+    p = iso_ms(str(x.get("postedAt") or ""))
+    return p if 0 < p <= NOW else NOW
+
+def li_merge(raw, state):
+    """Fold today's LinkedIn results into the persisted LinkedIn set; returns (items, new_count)."""
+    li = state.setdefault("li", {})
+    new = 0
+    for x in raw:
+        jid, title, comp = str(x.get("id") or "").strip(), (x.get("title") or "").strip(), (x.get("companyName") or "").strip()
+        if not jid or not title or not comp:
+            continue
+        if LI_SPAM_CO.search(comp) or LI_SPAM_TITLE.search(title):
+            continue
+        loc = x.get("location") or ""
+        if not relevant(title) or not in_us(loc):
+            continue
+        iid = "linkedin:" + jid
+        item = {"id": iid, "c": comp, "t": title, "l": loc or "Not listed",
+                "u": x.get("link") or f"https://www.linkedin.com/jobs/view/{jid}",
+                "p": li.get(iid, {}).get("p") or li_posted(x), "d": degree(title), "k": kind(title), "a": 1, "s": "LinkedIn"}
+        text = clean_lines(x.get("descriptionText") or x.get("descriptionHtml") or "")
+        if len(text) >= 200:
+            jd_save(iid, text)
+            tg = tag_text(title, text)
+            item["j"], item["f"], item["dj"] = tg["j"], tg["f"], tg["dj"]
+            if item["d"] == "?" and tg["dj"] != "?":
+                item["d"] = tg["dj"]
+        if iid not in li:
+            new += 1
+        li[iid] = item
+    for iid, it in list(li.items()):
+        if NOW - it["p"] > LI_KEEP_DAYS * DAY:
+            li.pop(iid)
+    return sorted(li.values(), key=lambda r: -r["p"]), new
 
 # ---------------------------------------------------------------- main ----
 def scan_company(company, state):
@@ -618,6 +793,11 @@ def main():
     state = json.load(open(sp)) if os.path.exists(sp) else {}
     state.setdefault("seen", {}); state.setdefault("resolved", {}); state.setdefault("items", {})
 
+    # LinkedIn (Apify) runs in the background while the boards are scanned.
+    li_box = {}
+    li_thread = threading.Thread(target=lambda: li_box.update(r=fetch_linkedin()), daemon=True)
+    li_thread.start()
+
     with ThreadPoolExecutor(max_workers=10) as ex:
         results = list(ex.map(lambda c: scan_company(c, state), companies))
 
@@ -643,11 +823,26 @@ def main():
             state["seen"].pop(iid, None)
     feed.sort(key=lambda r: -r["p"])
 
+    try:
+        sj = enrich_simplify()
+    except Exception as e:
+        sj = None
+        print("simplify enrichment failed:", type(e).__name__, str(e)[:120])
+
+    li_thread.join(timeout=1200)
+    li_st, li_raw = li_box.get("r") or ({"status": "error", "detail": "LinkedIn fetch did not finish in time"}, [])
+    li_items, li_new = li_merge(li_raw, state)
+    li_st.update(kept=len(li_items), new=li_new)
+
     ok = sum(1 for r in results if r[1] == "ok")
     out = {"generatedAt": NOW, "count": len(feed), "active": sum(r["a"] for r in feed),
-           "companies": len(companies), "companiesOk": ok, "vocab": VOCAB_OUT, "items": feed}
+           "companies": len(companies), "companiesOk": ok, "vocab": VOCAB_OUT, "linkedin": li_st,
+           # company-board roles first so they win the tracker's duplicate check over LinkedIn copies
+           "items": feed + li_items}
     json.dump(out, open(os.path.join(DATA, "careers.json"), "w"), separators=(",", ":"))
     json.dump(state, open(sp, "w"), separators=(",", ":"), sort_keys=True)
+    n_jd = jd_index({r["id"] for r in feed} | {r["id"] for r in li_items} | (sj["ids"] if sj else set()),
+                    prune=sj is not None)
 
     lines = [f"# Scan report: {dt.datetime.fromtimestamp(NOW / 1000, dt.timezone.utc):%Y-%m-%d %H:%M} UTC", "",
              f"{len(companies)} companies, {ok} scanned OK, {out['active']} open matching roles, "
@@ -656,14 +851,16 @@ def main():
     order = {"error": 0, "unresolved": 1, "ok": 2}
     for name, status, detail, _ in sorted(results, key=lambda r: (order[r[1]], r[0].lower())):
         lines.append(f"| {name} | {status} | {detail} |")
-    try:
-        sj = enrich_simplify()
-    except Exception as e:
-        sj = None
-        print("simplify enrichment failed:", type(e).__name__, str(e)[:120])
     tagged = sum(1 for r in feed if "j" in r)
+    li_line = {"off": "LinkedIn: off (add the APIFY_TOKEN secret to turn it on).",
+               "paused": f"LinkedIn: paused. {li_st.get('detail', '')}.",
+               "error": f"LinkedIn: error. {li_st.get('detail', '')}."}.get(
+        li_st["status"], f"LinkedIn via Apify: {li_st.get('detail', '')}; {li_st['new']} new roles kept, "
+                         f"{li_st['kept']} LinkedIn roles in the feed (last {LI_KEEP_DAYS} days); "
+                         f"Apify usage ${li_st.get('usedUsd', 0):.2f} of ${li_st.get('capUsd', 5):.2f} this month.")
     lines[4:4] = [f"Job descriptions read: {tagged} of {len(feed)} company-board roles"
-                      + (f"; SimplifyJobs roles {sj['tagged']} of {sj['wanted']} ({sj['no_jd']} pages had no readable description)." if sj else "; SimplifyJobs enrichment unavailable this run."), ""]
+                      + (f"; SimplifyJobs roles {sj['tagged']} of {sj['wanted']} ({sj['no_jd']} pages had no readable description)." if sj else "; SimplifyJobs enrichment unavailable this run."),
+                  "", li_line, "", f"Description texts stored for Claude fit scoring: {n_jd}.", ""]
     open(os.path.join(DATA, "report.md"), "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[:4]))
     bad = [r for r in results if r[1] != "ok"]
