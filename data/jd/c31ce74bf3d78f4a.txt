@@ -57,8 +57,4 @@ Join Microsoft's global intern community and turn your aspirations into action. 
 you ready to take the first steps into your career and put your talents to work in the real world? Do you want to play a vital part in the busines... Microsoft
 Aspire MBA is designed to maximize the potential of MBA new hires who join Microsoft from around the world every year. The two-year learning... How do we
 empower every person and every organization to achieve more? Check out our mission in action.
-#Microsoft https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/ Azure Maia 200 now in production;
-Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia
-family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services. The multigenerational...
-The post Microsoft to expand Azure Maia system to multi-gigawatt deployments appeared first on The Official Microsoft Blog . https://blogs.microsoft.com/wp-
-content/uploads/2026/10/OMB-Maia-300-Hero_10
+#Microsoft

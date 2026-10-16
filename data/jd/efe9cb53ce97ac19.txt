@@ -59,5 +59,4 @@ Join Microsoft's global intern community and turn your aspirations into action. 
 you ready to take the first steps into your career and put your talents to work in the real world? Do you want to play a vital part in the busines... Microsoft
 Aspire MBA is designed to maximize the potential of MBA new hires who join Microsoft from around the world every year. The two-year learning... How do we
 empower every person and every organization to achieve more? Check out our mission in action.
-#Microsoft https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/ Azure Maia 200 now in production;
-Azure Maia 300 coming in 2027 As we mo
+#Microsoft

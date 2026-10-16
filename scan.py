@@ -214,7 +214,7 @@ RE_NOSPON = re.compile(
     r"unable to (provide\s+)?(visa\s+)?sponsor|not (able|eligible|available) (to|for) (visa )?sponsor|"
     r"without (requiring |the need for |needing )?(visa |employer |current or future )?sponsorship|"
     r"no (visa )?sponsorship|cannot (provide )?(visa )?sponsor", re.I)
-RE_PHD_ONLY = re.compile(r"(currently|actively)\s+(enrolled in|pursuing|working toward)\s+(a\s+)?(ph\.?d|doctoral)|ph\.?d\.?\s+(student|candidate)s?|(enrolled|pursuing)\s+(in\s+)?(a\s+)?ph\.?d", re.I)
+RE_PHD_ONLY = re.compile(r"(currently|actively)\s+(enrolled in|pursuing|working toward)\s+(a\s+)?(ph\.?d|doctoral|doctorate)|ph\.?d\.?\s+(student|candidate)s?|(enrolled|pursuing)\s+(in\s+)?(a\s+)?(ph\.?d|doctorate|doctoral)", re.I)
 
 def clean(s):
     """HTML (possibly entity-escaped) -> plain text."""
@@ -314,14 +314,18 @@ def d_workday(host, tenant, site, path):
 def d_ms(pid):
     j = http("https://apply.careers.microsoft.com/api/pcsx/position_details?" + urllib.parse.urlencode(
         {"position_id": pid, "domain": "microsoft.com", "hl": "en"})) or {}
-    return " ".join(_strings(j.get("data") or {}, []))
+    t = " ".join(_strings(j.get("data") or {}, []))
+    m = RE_MS_TAIL.search(t)   # the response also carries Microsoft's blog feed; drop it
+    return t[:m.start()] if m else t
+
+RE_MS_TAIL = re.compile(r"\d{2,3},000 employees empowering|https://blogs\.microsoft\.com")
 
 def tags_for(iid, title, r, state):
     """Tags for one role: reuse what an earlier run stored, else read the job description."""
     prev = state["items"].get(iid) or {}
     cached = ({k: prev[k] for k in ("j", "f") if k in prev} | ({"dj": prev["dj"]} if "dj" in prev else {})) if "j" in prev else {}
-    if cached and jd_has(iid):
-        return cached
+    if jd_has(iid):   # re-tag from the stored text so rule changes reach older roles; no network
+        return tag_text(title, open(jd_path(iid), encoding="utf-8").read())
     text = r.get("desc")
     if text is None and callable(r.get("detail")):
         try:
@@ -639,6 +643,10 @@ def enrich_simplify(budget_s=600):
             stats[st] += 1
             if st == "ok": tags[iid] = tg; miss.pop(iid, None)
             elif st in ("miss", "kept"): miss[iid] = NOW
+    for i, x in wanted.items():   # re-tag from stored text so rule changes reach older roles
+        if jd_has(i):
+            tg = tag_text(x.get("title") or "", open(jd_path(i), encoding="utf-8").read())
+            tags[i] = {"j": tg["j"], "f": tg["f"]}
     tags = {i: t for i, t in tags.items() if i in wanted}
     miss = {i: t for i, t in miss.items() if i in wanted}
     json.dump({"generatedAt": NOW, "vocab": VOCAB_OUT, "tags": tags, "miss": miss},
