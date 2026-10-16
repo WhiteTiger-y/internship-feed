@@ -1,0 +1,67 @@
+Always verify and apply to jobs on the official Federal Reserve Board career site or through verified Federal Reserve Board social media channels.
+Minimum Education
+Enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship.
+Minimum Experience
+0
+Summary
+The Federal Reserve Board (Board) provides students opportunities for career success. The Board’s Internship program is designed to provide valuable work
+experience for undergraduate and graduate students considering careers including, but not limited to, economics, finance and accounting, information systems,
+and data analysis. The Board believes that by combining academic endeavors with project-related work experience, qualified and capable college students can gain
+the practical knowledge need in a competitive global job market. Internships are paid positions with salaries commensurate with credit hours; internships may be
+in-person, remote or hybrid, depending on the needs of the team. Employment in the Board’s internship program is granted to U.S. citizens. Applicants must be
+currently enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship. Interns
+receive a syllabus or research project plan outlining their projects and goals for the internship. Interns are assigned a supervisor or mentor to guide them
+through their internship, and regular check-in meetings with their manager to manage performance expectations and assist with learning goals. Interns have
+access to a wide range of training programs and events for professional development purposes.
+The intern will be joining the Office of the Chief AI Officer (“OCAIO”) supporting the AI Engagement & Data Science unit. The AI Engagement & Data Science unit
+delivers high-value proof of concepts to a broad range of customers, from board executives to internal delivery teams with the OCAIO. The team uses cutting edge
+technologies and techniques, partnering closely with Enterprise cloud, AI tooling, and data teams to build solutions that support short- and long-term outcomes.
+Expected Projects: The intern will support a variety of projects, from business-specific applications to internal tools supporting the OCAIO governance team.
+Sample projects could include building retrieval augmented generation (RAG) applications for economic policy topics, exploring process automation using agentic
+techniques, and evaluating the ability of new models and/or tools to support real policy and research outcomes.
+Suggested Major/Minor: Artificial Intelligence, Economics, Applied Mathematics, Applied Sciences (e.g. Physics), Computer Science, Data Science, Econometrics,
+Information Science, Mathematics, Statistics
+Other majors will be considered provided candidates have demonstrable technical skills.
+Required Skills And Knowledge
+- Strong communication skills – Ability to communicate technical concepts to a non-technical audience. Comfortable communicating with executive audience.
+- Strong design thinking skills – With support from senior data scientist, ability to map customer needs to potential solutions.
+- Strong technical skills – Ability to quickly grasp new technologies and techniques and apply them to solve real problems; able to partner effectively with
+senior technologists across application and infrastructure to deliver working POCs
+- Foundational knowledge of programming – Understand high level concepts and best practices.
+Preferred Skills: Strong Python and Linux programming skills; Experience with AI Coding Tools (e.g. Claude Code or Codex); Experience working with economic
+and/or financial data; Experience building customer-facing applications.
+Application Materials
+- Resume (required)
+- Unofficial transcript (required)
+- Optional: cover letter, writing sample
+Location: This position requires an onsite presence at our offices in Washington, D.C. [Summer internships should be onsite, but we encourage flexibility for
+year-round internships]
+Note: U.S. Citizenship is required. Applicants must be current students, graduating from their program August 2027 or later. Proof of enrollment will be
+required.
+Job Type
+Intern (Fixed Term)
+Job Exempt
+No
+Relocation Provided:
+No
+Compensation Grade(s)
+FH Pay Grade 20 - FH Pay Grade 22
+Pay
+$26.68 - $28.37
+Rehabilitation Act
+The Board complies with the Rehabilitation Act of 1973, as amended, and provides job applicants with disabilities reasonable accommodations to assist them in
+applying for jobs at the Board. If you have a disability and would like to request an accommodation in order to apply for a job at the Board, please call
+202-452-3880 or e-mail FRBRecruiting@frb.gov.
+Equal Opportunity Employer
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual
+orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.
+Privacy
+You may review the Federal Reserve Board's Privacy Act Notice at https://www.federalreserve.gov/careers/files/fr1273.pdf.
+Paperwork Reduction Act
+OMB No. 7100-0181
+Approval Expires October 31, 2029
+Public reporting burden for this collection of information is estimated to average 0.26-0.71 hours per response, including the time to gather and maintain data
+in the required form and to review instructions and complete the information collection. Send comments regarding this burden estimate or any other aspect of
+this collection of information, including suggestions for reducing this burden to: Secretary, Board of Governors of the Federal Reserve System, Washington, DC
+20551; and to the Office of Management and Budget, Paperwork Reduction Project (7100–0181), Washington, DC 20503. The Federal Reserve may not conduct or
+sponsor, and an organization (or a person) is not required to respond to a collection of information unless it displays a currently valid OMB control number.

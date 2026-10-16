@@ -1,0 +1,70 @@
+About Wurl, LLC.
+At Wurl, our mission is to create innovative technologies and services that help accelerate the shift to streaming. At our core, we are innovators focused on
+driving the streaming industry forward with technologies that help connect viewers to the right content and ads. Our technology and data-driven solutions help
+companies reach new audiences, engage high-value viewers, and ultimately increase their revenue.
+In 2022, Wurl was acquired by AppLovin (Nasdaq: APP), a leading marketing platform, giving our employees the best of both worlds: the dynamic environment of a
+150+ person startup as well as the stability of a high-growth public tech company. We invest in providing a culture that fosters passion, drives excellence, and
+encourages collaboration to drive innovation. Wurl is a fully-remote company that has been globally recognized for our people and technology, having been named
+a Great Place to Work by Fortune in 2022, 2023, and 2024; an Ad Tech Company of the Year finalist by the UK Business Tech Awards in 2023; a BIG Innovation
+Awards winner in 2024 and 2025; and the “Innovation in Advertising” winner by the StreamTV Awards in 2024.
+About The Role
+Wurl is seeking an intern with proven academic achievements in data analytics related fields for a year long internship. Wurl’s position in the video and ad
+delivery ecosystem generates large quantities of data that needs to be carefully analyzed and normalized. We’re looking for an intern that can become familiar
+with Wurl’s datasets and their usage and support our Data Science and Machine Learning team. The ideal candidate is a PhD / MSc in the field of DataScience,
+AI/ML, Statistics, Physics, Mathematics, or Computer Science.
+Responsibilities
+- Perform analysis tasks to identify anomalies and their root cause as well as propose and put in place validations to programmatically identify such conditions
+- Propose methods to normalize the data, implement them, check accuracy and iterate until sufficient accuracy is achieved
+- Increase the accuracy of derived datasets and data products
+Qualifications
+- Education -
+- PhD / MSC preferred. BSc with high gpa, multiple majors, notable projects is also accepted
+- Field: DataScience, AI/ML, Statistics, Physics, Mathematics, or Computer Science
+- Technical
+- Graph algorithms and network analysis
+- Large-scale data analysis
+- Data quality and anomaly detection
+- Agentic / AI-assisted software development
+- Familiarity with distributed data platforms such as Snowflake / Databricks
+- Strong Python and SQL
+- Applied statistics and probability
+- Machine learning fundamentals
+- Experiment design and causal reasoning
+- Optimization / decision-making under uncertainty
+- Ability to write clean, maintainable analytical code
+- Non agentic development experience is mandatory
+- Nice to have
+- Modeling / Research
+- Comfortable evaluating models beyond headline metrics
+- Experience moving from research idea → prototype → validated result
+- Ability to translate ambiguous problems into mathematical or statistical formulations
+- Strong intuition for uncertainty, bias, variance, and noisy data
+- Strong quantitative reasoning and mathematical knowledge
+- Nice to have
+- Problem Solving
+- Ability to recognize when results look wrong
+- Comfortable working with incomplete, messy, or contradictory data
+- Advanced analytical problem-solving ability
+- Strong debugging and root-cause analysis skills
+- Ability to form and test hypotheses quickly
+- Nice to have
+- Personal Attributes
+- High intellectual curiosity
+- Strong ownership and initiative
+- Rapid learner
+- Independent thinker
+- Comfortable challenging assumptions
+- Willingness to continue digging into 'funny' things until they make sense
+- Effective communication skills and team player.
+What We Offer
+- Paid internship ($30/hr) with flexible scheduling.
+- Remote-first work culture and support.
+- Mentorship from experienced engineers and product experts.
+AppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without
+attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected
+characteristics. Learn more about EEO rights as an applicant here.
+If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at
+jobs@applovin.com
+AppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a
+position in California, learn more here.
+Please read our Global Applicant Privacy Notice to learn more about how AppLovin processes your personal information.

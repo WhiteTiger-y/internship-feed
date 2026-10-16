@@ -1,0 +1,46 @@
+The Integrated Missile Defense Technology Group performs analysis and develops technology to defend America, our military personnel, and our allies from
+missile, air, and drone threats. We support the U.S. Armed Services and the Missile Defense Agency in developing, testing, and improving the defense systems
+that keep us safe.
+Our goal is straightforward - stay ahead of rapidly evolving worldwide threats. We do this by:
+- Identifying critical needs – We analyze emerging missile and drone threats from around the world to identify critically needed defenses
+- Developing solutions – Our team creates new technologies, designs systems, and develop algorithms that advance modern defense capabilities
+- Prototyping and testing – We build prototypes, partner with government and industry to transition them into operational systems, and support testing at every
+scale—from small laboratory experiments to large-scale field demonstrations
+- Deploying capabilities – We transition new technologies to operational systems that defend against actual threats
+From the initial spark of an idea to integration into a fully operational defense system, our team members are driven to innovate and to have impact.
+If you're looking to make a real difference in national security and work on some of the most challenging technical problems of our time, this is the team for
+you.
+Position Description
+The group seeks undergraduate level summer interns to contribute to a number of challenging projects related to our mission. Interns will be partnered with
+technical staff as they work on issues that leverage their competencies. Projects may be worked on individually or in teams depending on the skills of the
+candidates.
+The successful candidates will be pursuing a BS in Applied Mathematics, Computer Science, Engineering, Physics or a similar STEM degree.
+Competencies desired in any combination of the following areas: C++, C, MATLAB, Python, physics, applied math, engineering, computer science, radar, infrared,
+IR, RF, autonomous systems, control systems theory, artificial intelligence, machine learning, data structures, algorithms, signal processing, signal analysis,
+formal methods, neural nets, and sensor fusion.
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Compensation
+Hourly pay rates are based on the highest academic year or degree completed before the internship start date.
+Freshman year completed: $25.00/hour
+Sophomore year completed: $27.00/hour
+Junior year completed: $29.00/hour
+4th year of 5 year program completed, no degree conferred: $32.00/hour
+Bachelors completed: $34.50/hour
+Bachelors + 1, one year of graduate study completed: $36.50/hour
+Bachelors + 2, two years of graduate study completed: $38.00/hour
+MS completed: $39.00/hour
+MS + 1, one year of graduate study completed after the MS: $41.00/hour
+MS + 2, two years of graduate study completed after the MS: $42.50/hour
+MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43465

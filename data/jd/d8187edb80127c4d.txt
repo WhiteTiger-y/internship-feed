@@ -1,0 +1,62 @@
+At MITRE, your passion fuels work that impacts our nation and improves lives. This is where your skills strengthen national security, cybersecurity, health,
+transportation, and citizen services. We’re a nonprofit engineering, applied research, and advanced technology organization working in the public interest. With
+objectivity and integrity at our core, we lead federally funded research and development centers for U.S. government agencies – collaborating with industry and
+academia to deliver integrated, high-impact solutions that advance our nation’s health, security, and prosperity. Our people tackle the toughest technical
+challenges, supported by competitive benefits, meaningful career development, and a culture of innovation, collaboration, and technical excellence. Choose MITRE
+for a career with purpose — and help shape the future.
+MITRE’s Data Science and Engineering department is looking for applicants to bring their data science, data engineering, machine learning, artificial
+intelligence, and applied research skills to bear on solving problems of critical national importance. MITRE’s diverse work program provides opportunities to
+apply your expertise and creative thinking in challenging domains such as national security, intelligence, transportation, and healthcare. Employees may also
+participate in MITRE’s internal research and development program, which provides funding for innovative applied research that addresses our sponsors’ hardest
+problems.
+The successful candidate for this position is a hybrid Data Scientist and Data Engineer who combines foundations in computer science, mathematics, and software
+engineering with experience in data systems and applying machine learning and AI techniques to solve problems. The candidate should be able to operate across
+the full data lifecycle from data modeling and data processing to statistical analysis, machine learning, and experimentation. Our organization values
+innovation and believes that keeping up with the latest research and technologies is essential.
+The candidate should have some experience in several of the areas specified below, however it is not required that a candidate has experience in all of these
+areas.
+Advanced Data Analytics and Artificial Intelligence
+- Machine Learning and Model Evaluation (e.g., supervised, unsupervised, deep learning, reinforcement learning)
+- Statistical Analysis and Exploratory Data Analysis (e.g., descriptive statistics, regression, visualization)
+- Large Language Models and AI-Assisted Workflows
+- Natural Language Processing (e.g., summarization, classification, entity recognition, topic modeling)
+- Anomaly Detection and Predictive Modeling
+- Graph Analytics (e.g. centrality, similarity, link prediction)
+Data Engineering
+- Distributed Data Processing and Big Data Architectures (e.g., Spark, Hadoop, Ray, Dask, Kafka)
+- Data Pipeline/ETL Development and Orchestration (e.g., Airflow, Dagster, NiFi)
+- Data Modeling, Schema Design, and Data Quality Assessment
+- Cloud-based Data Platforms and Storage Architectures
+Software Development
+- Computer Programming and Databases – Proficiency in Python and SQL required
+- Linux-based Development Environments, Git, Containers, and Cloud Platforms
+Basic Qualifications:
+- Sustained excellence in academic performance.
+- Must be a student enrolled full-time in an accredited degree-seeking program in Computer Science, Applied Mathematics, Statistics, Data Science, or a related
+degree and continue to be enrolled full-time the semester following the internship.
+- Hands-on proficiency with advanced Data Science techniques, including Machine Learning (e.g., supervised, unsupervised, deep learning, reinforcement
+learning), anomaly detection, statistical analysis, and/or analysis of very large datasets.
+- Computer programming skills (e.g., Python, R, C/C++, Java, Scala, Julia, Rust, MATLAB).
+- Must be eligible to obtain and maintain a Top Secret U.S. Government issued Security Clearance. Per the U.S. Government’s eligibility requirements, you must
+be a U.S Citizen to be considered for a security clearance.
+Preferred Qualifications:
+- Demonstrated interest in serving the public.
+- Active DoD Top Secret Clearance.
+This requisition requires the candidate to have a minimum of the following clearance(s):
+None
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+None
+Salary compensation range and midpoint:
+$46,500 - $58,000 - $69,500 Annual
+Work Location Type:
+Onsite
+Commitment to Non-Discrimination
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by
+applicable federal, state, local or international law.
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a
+reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org
+for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a
+reply.
+Benefits information may be found here.
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied
+and distributed with permission only.

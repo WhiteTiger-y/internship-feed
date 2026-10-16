@@ -1,0 +1,50 @@
+As a Quantitative Research Intern, you’ll work alongside researchers, engineers, and traders to tackle some of the most challenging quantitative problems in
+global financial markets. You’ll analyze large-scale datasets, develop predictive models and algorithms, and apply statistical and machine learning techniques
+to uncover patterns in market behavior. AI-driven research at Optiver is where competitive advantage is built, transforming ideas, models, and insights into
+trading strategies that operate in live markets.
+This opportunity is also available in our Chicago office.
+What You’ll Do:
+Led by our dedicated Education team, you’ll build a strong foundation in market structure and options theory. This internship follows an apprentice-style
+learning model where you’ll work alongside an experienced researcher and contribute to a project that’s aligned with current business needs. Throughout the
+internship, you’ll gain exposure to the AI tools and technologies that support research and development across the business, with the opportunity to contribute
+to several key areas:
+- Develop predictive models and machine learning systems to better understand market behavior and identify trading opportunities
+- Analyze large-scale market and order-flow data to uncover signals, evaluate hypotheses, and improve trading performance
+- Build and test statistical and stochastic models for pricing, forecasting, and risk management
+- Apply modern research techniques, including deep learning and AI-enabled workflows, to accelerate discovery and improve research efficiency
+What You’ll Get:
+You’ll join a culture of collaboration, continuous improvement, and excellence, surrounded by curious thinkers and creative problem-solvers. Together, you’ll
+tackle some of the toughest challenges in the financial markets by leveraging cutting-edge machine learning research to develop innovative, real-world
+solutions.
+In addition, you’ll receive:
+- The opportunity to work alongside best-in-class professionals from over 40 different countries
+- The opportunity to earn a return internship or full-time offer in Chicago, Austin, or New York City based on performance
+- A highly-competitive internship compensation package
+- Optiver-covered flights, living accommodations, and commuting stipends
+- Extensive office perks, including breakfast, lunch, snacks, regular social events, clubs, sporting leagues, and more
+What To Expect:
+As part of our assessment process, you may be invited to participate in a multi-day, on-site evaluative program. Through hands-on workshops, technical
+discussions, and direct exposure to our researchers and traders, you’ll gain insight into how research is applied at Optiver and how PhD students transition
+successfully into industry. Attendance and successful completion of this program may be required to receive an internship offer.
+Who You Are:
+- Currently enrolled in a PhD program in Statistics, Computer Science, Machine Learning, Mathematics, or a related STEM field with outstanding academic
+performance
+- Expected graduation between December 2027 – June 2029 and available to intern during Summer 2027
+- Open to full-time opportunities upon graduation in 2028 or 2029
+- Solid foundation in mathematics, probability, and statistics
+- Excellent research, analytical, and modeling skills
+- Experience applying machine learning methods to real-world research problems, such as time-series analysis, prediction, forecasting, pattern recognition,
+optimization, or decision-making
+- Proficiency in any programming language
+- Strong interest in working in a fast-paced, collaborative environment
+- Fluent in English with strong written and verbal communication skills
+Who We Are:
+Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop,
+test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we
+combine the scientific rigor of a research institution with the pace of a technology company.
+Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or
+mental disability, or other legally protected characteristics.
+Optiver is supportive of US immigration sponsorship for this role.
+- Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed an online assessment or interviewed for a
+quantitative graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to
+re-apply to after the 8-month cool off period.

@@ -1,0 +1,24 @@
+About
+Corgi is an AI-enabled, full-stack insurance carrier valued at $2.6B and rebuilding insurance from the ground up. We are the fastest growing company in our YC
+batch and are expanding rapidly across the insurance ecosystem. We’re looking for curious, motivated interns who want to explore AI, build useful tools, and
+learn alongside our team.
+What you’ll do
+- Explore how AI can support research, data analysis, and business workflows.
+- Build and test prototypes using AI tools and public data.
+- Turn complex information into clear datasets, reports, and insights.
+- Compare tools and approaches, share findings, and document your work.
+- Collaborate with the team to develop and improve ideas.
+What we’re looking for
+- Current student or recent graduate in computer science, engineering, math, economics, business, or a related field.
+- Interest in AI, technology, and financial services.
+- Experience with Python, data analysis, or AI tools. Class projects and personal projects count.
+- Curiosity, attention to detail, and clear communication.
+- Availability in our New York City office.
+What you’ll gain
+- Hands-on experience applying AI to business problems.
+- Exposure to financial services and how a growing technology company operates.
+- Opportunities to develop technical, analytical, and problem-solving skills.
+Compensation
+This role offers performance-based commissions.
+How to apply
+- Apply with your resume.

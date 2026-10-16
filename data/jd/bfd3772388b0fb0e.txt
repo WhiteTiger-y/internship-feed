@@ -1,0 +1,35 @@
+Are you looking to work in a world-class AI group with over 50 years of experience developing revolutionary technology for critical national missions? We are
+the Artificial Intelligence Technology and Systems group at MIT Lincoln Laboratory. We have a rich history in developing machine-learning (ML) algorithms,
+technologies, and systems for extracting information from multimedia-based data (speech, text, image, and video). The group significantly expanded our mission
+set to include developing impactful ML technologies for cyber with the Nation’s top cyber organizations. We are creating counter-cognitive warfare technologies,
+leveraging our expertise in deepfake, persona, and graph technologies. At the forefront of basic and applied AI/ML, we shape emerging AI fields and are leading
+the Laboratory’s efforts in AI security and AI assurance across the DoD and Intelligence Community.
+Our work stresses the importance of developing, testing, and evaluating AI/ML technologies with operationally relevant metrics and datasets. We are deeply
+connected to many operational communities and have substantial opportunities shoulder-to-shoulder with cyber warfighters and intelligence analysts. Through this
+experience, we emphasize transitioning AI/ML technologies to the Government for their use in operational environments on real, deployed, game-changing systems.
+Our staff members program, architect, and develop ML methods; create speech, natural language processing, multimedia, cyber, and graph algorithms; and present
+results at premiere conferences.
+The AI Technology and Systems group is seeking motivated co-ops to assist with projects addressing a range of national needs with AI and machine learning.
+Assignments may include research on state-of-the-art algorithms in signal processing, natural language processing, graph analytics, and/or adversarial AI
+applied to challenging, real-world problems. The successful candidate will work in a team-oriented development environment. Learn more about what our team does
+here: https://www.ll.mit.edu/ai
+Position Description
+This opportunity is open to undergraduate and gradulate-level candidates, including those in the process of earning a Bachelor's, Master's, or PH.D. degree in a
+technical field such as Electrical or Computer Engineering, Computer Science, Statistics, Mathematics or related field.
+Experience in the following is required:
+- Demonstrated ability to work independently or as part of a team
+- Experience with a high-level programming language such as Python, R, etc.
+Experience in one or more of the following is desired:
+- Data analysis experience
+- Experience applying machine learning techniques
+- Experience with natural language processing, computer vision, and/or adversarial machine learning.
+Must be currently enrolled at a college or university that offers a formal co-op program and be eligible to participate in that program. Students whose schools
+do not offer a co-op program are not eligible for this position.
+Compensation:
+- Technical Co-Op: $25 – $32 per hour (based on year in school)
+- Administrative Co-Op: $23 – $27 per hour (based on year in school)
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43433

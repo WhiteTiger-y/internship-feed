@@ -1,0 +1,48 @@
+Siemens Digital Industries Software
+Strategic Student Program (SSP)
+Discover your career with us at Siemens Digital Industries Software!
+We are a leading global software company dedicated to the world of computer aided design, 3D modeling and simulation— helping innovative global manufacturers
+design better products, faster! With the resources of a large company, and the energy of a software start-up, we have fun together while creating a world class
+software portfolio. Our culture encourages creativity, welcomes fresh thinking and focuses on growth, so our people, our business, and our customers can achieve
+their full potential.
+We’re currently recruiting co-ops and interns for our Spring 2027 Strategic Student Program. Our opportunities will allow you to find a career path that most
+inspires you. Here, you will apply your education to solve real-world problems and turn theory into practice. At Siemens, our goal is to empower our students to
+become the next leaders of our company.
+Baseline Program Requirements:
+- Currently enrolled as an undergraduate student at an accredited university
+- Legally authorized to work in the United States without the need for current or future sponsorship by the company
+- A minimum 3.0 GPA
+Perks:
+- Employee discounts at our top customer sites
+- Networking with our global leaders
+- Mentorship from senior employees
+- Individual career development planning
+- Professional and technical workshops
+- Paid volunteer time off
+- Energetic student community
+- Leadership opportunities
+- Potential for full-time offers after university graduation and completion of the program
+Position Overview:
+Siemens Digital Industries Software is seeking an AI & Engineering Data Intern to support emerging Artificial Intelligence and Digital Thread initiatives within
+the Capital PreSales organization. This role provides hands-on experience applying AI technologies to engineering challenges across aerospace, defense, and
+automotive industries.
+The intern will help create and manage engineering datasets, investigate AI-assisted workflows, and support projects that demonstrate how Digital Threads enable
+intelligent decision-making throughout the product lifecycle. The role combines engineering, software, data management, and AI technologies to develop
+innovative customer-facing demonstrations and internal capabilities.
+Key Responsibilities:
+- Develop and curate engineering datasets for AI, analytics, and demonstration use cases.
+- Support AI and generative AI proof-of-concepts involving engineering and Digital Thread data.
+- Assist in connecting systems, software, and electrical engineering information into reusable data models.
+- Evaluate and document AI-assisted engineering workflows and use cases.
+- Build dashboards, reports, and visualizations that communicate engineering insights.
+- Support technical enablement activities and customer demonstration development.
+Requirements:
+- Pursuing a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Software Engineering, Systems Engineering, or a related discipline.
+- Comfortable working in a fully remote environment within the United States of America.
+- Intelligence, Software Engineering, Systems Engineering, or a related discipline.
+- Experience with Python, data analytics, machine learning, or AI technologies.
+- Familiarity with digital engineering, PLM, or engineering data management concepts is a plus.
+- Strong communication, collaboration, and problem-solving skills.
+- Passion for applying emerging technologies to real-world engineering challenges.
+#SWSaaS
+$18 $50

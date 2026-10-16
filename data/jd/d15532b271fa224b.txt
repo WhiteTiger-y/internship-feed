@@ -1,0 +1,83 @@
+Job Description
+The Future Talent Program features internships that last up to 12 weeks and will include one or more projects. These opportunities in our Research and
+Development Division can provide you with great development and a chance to see if we are the right company for your long-term goals.
+The Quantitative Biosciences department is looking for a highly talented and motivated data science student to join our ranks. Collaborating closely with
+experienced pharmaceutical industry scientists, the chosen candidate will apply their skills in data analysis to contribute to the discovery and advancement of
+novel medicines across multiple therapeutic areas.
+The Successful Candidate Will
+- Perform statistical analyses of data from and/or statistical research related to basic drug research.
+- Help develop novel data pipelines that move, integrate and analyze diverse sources of biological data that aid in the profiling of therapeutic candidates or
+improving the chances of translation.
+- Develop and apply computational methods and machine learning models to foundational data sets to improve drug discovery processes.
+- Help wrangle and analyze unstructured and structured data that will drive new translational strategies for the company.
+- Engineering data pipelines between reporting environments and core databases: design and implement automated data connectors to establish seamless,
+bidirectional or automated data transfer between enterprise databases and reporting platforms
+- Communicate data progress during internal meetings; deliver a verbal presentation at the completion of training; participate in scientific exchange with our
+Company scientists
+- We value open communication, creative-thinking, strong teamwork, and rigorous scientific exploration.
+If you are a highly motivated team player with enthusiasm for learning new techniques who thrives on challenge and has a strong desire to impact drug discovery,
+we invite you to apply.
+Required Education & Experience
+- Candidates must be currently enrolled in a full-time degree program in Data Science / Computer Science or a related Bioscience discipline with substantial
+computational coursework; and have completed at least 2 years of studies toward BS/BA or at least 1 year towards master’s/PhD by the start of the internship
+- Available to work full-time for 10-12 weeks beginning in May or June of 2027
+- Superior verbal and written communication skills and a demonstrated record of strong academic achievement
+Preferred Experience & Skills
+- Database & SQL Proficiency
+- Exposure to cloud data warehouses (Amazon Redshift, AWS S3) and database clients (DBeaver, SQL Workbench).
+- Experience working with large data sets including the use of analytical and visualization software programs (Visual Analytics / BI Tools).
+- Experience in at least one coding language (Python/R/MATLAB).
+- Self-motivated and detail-orientated with excellent record keeping and organizational skills
+Please note that this position may be closed before the posted end date or may remain open longer, at the discretion of the company.
+Salary Range
+The salary range for this role is $39,908 - $111,111
+FTP2027
+RL2027
+Required Skills
+Preferred Skills:
+Current Employees apply HERE
+Current Contingent Workers apply HERE
+US And Puerto Rico Residents Only
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you
+need an accommodation during the application or hiring process.
+Requirements
+As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the
+basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable
+legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with
+disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit:
+EEOC Know Your Rights
+EEOC GINA Supplement
+We are proud to be a company that embraces the value of bringing together, talented, and committed people with diverse experiences, perspectives, skills and
+backgrounds. The fastest way to breakthrough innovation is when people with diverse ideas, broad experiences, backgrounds, and skills come together in an
+inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively.
+Learn more about your rights, including under California, Colorado and other US State Acts
+San Francisco Residents Only: We will consider qualified applicants with arrest and conviction records for employment in compliance with the San Francisco Fair
+Chance Ordinance
+Los Angeles Residents Only: We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the
+requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for
+employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this
+position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral
+where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status
+Intern/Co-op (Fixed Term)
+Relocation:
+No relocation
+VISA Sponsorship
+No
+Travel Requirements
+No Travel Required
+Flexible Work Arrangements
+Not Applicable
+Shift
+1st - Day
+Valid Driving License
+No
+Hazardous Material(s)
+N/A
+Job Posting End Date
+10/23/2026
+- A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day
+BEFORE the job posting end date.
+Requisition ID:R413312

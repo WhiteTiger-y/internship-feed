@@ -1,0 +1,52 @@
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented,
+treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are
+uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health
+for humanity. Learn more at jnj.com.
+As guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where
+each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit.
+Job Function
+Career Programs
+Job Sub Function
+Non-LDP Intern/Co-Op
+Job Category
+Career Program
+All Job Posting Locations:
+Cambridge, Massachusetts, United States of America, La Jolla, California, United States of America, Leiden, Netherlands, Titusville, New Jersey, United States
+of America, Zug, Switzerland
+Job Description
+Summer intern, Digital Signal/ Imaging AI
+Position Components
+In this role, you will work with colleagues in the J&J Innovative Medicine R&D Data, Data Science, and AI (DDSAI) organization and partner with key businesses
+across J&J Innovative Medicine to apply advanced data science and analytics to answer key research questions. As an intern, you will get the opportunity to work
+on cutting-edge problems at the intersection of AI and healthcare. You will be a member of a dynamic team comprising data scientists and subject matter experts
+to create and iterate on data science solutions. Projects include, but are not limited to, processing and analysis of wearable sensor and neuroimaging data,
+development of machine learning models for digital biomarker discovery, validation of digital health endpoints, generation of insights from real-world
+physiological and behavioral data, modeling and prediction of disease severity and progression, and discovering of disease subtypes. Interns could be located
+out of our US locations in San Diego CA, San Francisco CA, Titusville NJ, Raritan NJ, Spring House PA, Cambridge MA, or out of Europe locations in Beerse
+(Belgium), Leiden (The Netherlands), Zug (Switzerland) as well as remote.
+Minimum Qualifications
+- Currently pursuing a PhD degree in Biomedical Engineering, Electrical Engineering, Neuroscience, Applied Mathematics, Statistics, Data Science, or a related
+quantitative discipline.
+- Strong working knowledge of AI and machine learning.
+- Advanced in Python or R
+- Strong skills in predictive modeling, statistics, and analysis of large datasets.
+- Strong technical communication and presentation skills.
+- Basic knowledge of data cleaning and data quality
+Preferred Qualifications
+Experience in one or more of the following:
+- Experience with processing and analyzing sensor, wearable device, clinical records, and/or medical imaging data.
+- Proficiency with pytorch.
+- Experience with semi-supervised and/or self-supervised learning.
+- Experience with Foundation Models
+Permanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the
+future. Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this
+program unless eligible for an alternative long-term status that does not require company sponsorship.
+Johnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion,
+sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or
+local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the
+Rehabilitation Act.
+Johnson & Johnson is committed to providing an interview process that is inclusive of our applicants’ needs. If you are an individual with a disability and
+would like to request an accommodation, external applicants please contact us via https://www.jnj.com/contact-us/careers . Internal employees contact AskGS to
+be directed to your accommodation resource.
+Required Skills
+Preferred Skills:

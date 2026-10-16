@@ -1,0 +1,51 @@
+About Our Group
+The Corporate Development & Strategy team partners across Seagate to shape enterprise strategy, evaluate growth opportunities, and support informed business
+decisions. We are a collaborative team that combines strategic insight, market and competitive intelligence, and technology-enabled ways of working to help
+translate priorities into action.
+As a Strategy AI Intern, you will design and build AI-enabled applications that strengthen how the Corporate Development & Strategy team conducts research,
+analyzes information, communicates strategy, and makes decisions. You will work at the intersection of software engineering, applied AI, data, and business
+strategy, partnering closely with strategy and corporate development professionals to translate business needs into practical, scalable solutions.
+About The Role - You Will
+- Design, develop, test, and deploy Python-based applications that automate research, synthesize competitive and market intelligence, and support strategic
+analysis and communication.
+- Build AI agents that connect with approved internal and external data sources, automate analytical workflows, and improve the speed and quality of decision
+support.
+- Apply technologies such as Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), large language models, and agentic frameworks to relevant
+business use cases.
+- Translate technical concepts, limitations, and recommendations into clear language for technical and non-technical stakeholders.
+- Document solution architecture, data flows, operating procedures, and maintenance requirements to support sustainable adoption and knowledge transfer.
+About You
+- You are a hands-on developer who enjoys solving complex business problems with well-designed technology solutions.
+- You combine strong engineering fundamentals with curiosity about corporate strategy, competitive dynamics, and business decision-making.
+- You can work independently in an evolving environment while building alignment with stakeholders across functions and levels.
+- You apply sound judgment when evaluating AI outputs, data quality, security, privacy, access, and potential failure modes.
+- You communicate clearly and can translate between business requirements and technical design decisions.
+- You are collaborative, accountable, and committed to continuous learning as AI technologies and enterprise standards evolve.
+Your Experience Includes
+- Proficiency in Python and experience developing, testing, and maintaining software applications.
+- Experience with data engineering, APIs, databases, data integration, and structured and unstructured data.
+- Hands-on experience with large language models and applied AI solutions, including prompt design, evaluation, and production-oriented implementation.
+- Experience with one or more AI development approaches or frameworks, such as RAG architectures, LangChain or similar orchestration frameworks, MCP, or agent-
+based applications.
+- Experience applying software development practices such as version control, code review, testing, documentation, monitoring, and issue resolution.
+- Ability to assess AI-generated outputs for accuracy, relevance, reliability, and business risk.
+- Strong analytical, problem-solving, written, and verbal communication skills.
+- Ability to partner effectively with technical and non-technical stakeholders in a global, cross-functional environment.
+- Demonstrated Python capability through professional experience, project work, or a portfolio of relevant applications.
+- Experience building or deploying AI agents, AI-enabled applications, or automation solutions in a professional or project environment.
+- Currently pursuing a PhD, Master's, or Bachelor's degree in Computer Science, Software Engineering, Data Science, Information Systems, or a related technical
+field and must be enrolled in Fall 2027 classes.
+Location:
+Our Normandale campus spans two suburbs, Edina and Bloomington, and serves as the Recording Head development and manufacturing arm of Seagate. Located in the
+heart of a bustling community, Seagate offers an on-site café, or if you prefer, you can drive to one of many restaurants just minutes away. Need to grab a gift
+over lunchtime? Shopping is abundant in the area. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, outdoor
+activities, tournaments, and group workouts. Looking for something more laid back? Reset in one of our meditation rooms, or simply take a walk around our indoor
+walking path. On-site cultural festivals, celebrations, and community volunteer opportunities also abound.
+The estimated base wage range for this position is $27.00-45.00/hr. The individual base wage is based on work location and additional factors, including job-
+related skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to,
+medical, dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid
+sick leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and
+tenure with the Company.
+#internship
+Location: Normandale, United States
+Travel: None

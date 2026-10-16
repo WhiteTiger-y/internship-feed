@@ -1,0 +1,43 @@
+Reports to: Sr. Director of Product
+Department: RMSS – Product Development
+Location: University Park, IL / On-Site
+Schedule: Full-time, 40 hours per week; Summer 2027 (approximately 12 weeks)
+Holland LP provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, citizen status, religion,
+ancestry, national origin, age, disability, sex, marital status, military status, pregnancy, sexual orientation, or any other basis prohibited by applicable
+federal, state or local employment laws or regulations in every location in which the company has facilities.
+Job Summary
+Holland’s Rail Measurement Systems and Services (RMSS) provide railroad track measurement and testing services and technologies since 1995. RMSS Product
+Development Team design, build and deploy track inspection and measurement systems domestically and internationally. The product line includes hi-rail, rail-
+bound and locomotive attended and autonomous measurement systems.
+We are seeking a Computer Vision Engineering Intern for a full-time summer internship (40 hours per week). The intern will develop image processing algorithms
+for our track geometry and rail profile measurement systems, and develop and optimize image recognition algorithms for video recordings. Final-year
+undergraduate and graduate (Master’s or PhD) students are preferred.
+Key Responsibilities
+- Develop image processing algorithms for camera- and laser-based rail profile and track geometry measurement.
+- Develop, train, and optimize image recognition models to detect track features and assets in video recordings.
+- Prepare and label image and video datasets from field recordings.
+- Test algorithm accuracy and speed against reference data, and document results.
+- Work with the software team to integrate prototypes and present final results to the team.
+Basic Qualifications
+- Final-year Bachelor’s, Master’s, or PhD student in Computer Science, Electrical/Computer Engineering, or a related field.
+- Coursework or project experience in computer vision, image processing, or machine learning.
+- Proficiency in Python and OpenCV; experience with PyTorch or TensorFlow.
+- Available to work 40 hours per week on-site for the full summer.
+Preferred Qualifications
+- C++ and/or GPU (CUDA) experience.
+- Experience with object detection on video, camera calibration, or laser/3D measurement.
+- Interest in railway or infrastructure inspection.
+Physical And Environmental Requirements
+- Primarily office and lab work; occasional outdoor field work near railroad tracks with required PPE.
+- Ability to lift up to 25 lbs. with or without reasonable accommodation.
+Disclaimer
+This job description is not intended to be an exhaustive list of all responsibilities, skills, duties, requirements, or working conditions associated with the
+job. Management reserves the right to revise this job description at any time to add or remove tasks as circumstances change (e.g., emergencies, changes in
+personnel, workload, rush jobs, or technical developments).
+About The Company…
+Holland L.P. is a $275mm organization headquartered in University Park, IL. We have over 1,200 employees who provide a variety of contract services within the
+railroad industry in North America. We strive to set industry standards for both our service expertise and our equipment in fulfilling our mission outlined in
+our slogan, A Rail Solutions Partnership Unlike Any Other . In addition, Holland designs and manufactures equipment and products for utilization by our railroad
+customers, both domestically and internationally. Our leadership decisions are guided by our core values, which are: Respect, Family, Partnership, Improvement,
+and Integrity. Holland Company is wholly owned by The Curran Group, a privately held holding company located in Crystal Lake, IL.
+Wage Type: Hourly, non-exempt (temporary summer internship)

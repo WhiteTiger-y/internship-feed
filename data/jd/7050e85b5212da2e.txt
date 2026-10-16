@@ -1,0 +1,70 @@
+Expedition Technology (EXP) leads the way in combining machine learning with digital signal processing. Spend your summer immersing yourself in the fascinating
+world of digital signal processing and deep learning alongside top-tier engineers. Join our mission to tackle the unsolved challenges in the thrilling new field
+of Radio Frequency Machine Learning.
+What will you do as a Signal Processing and Machine Learning Intern?
+- Learn & Develop: Delve into real-time machine learning systems operating on streaming, real-world RF data. Craft novel algorithms for GPU-accelerated digital
+signal analysis across diverse RF domains like communications and radar.
+- Implement: Leverage Python to execute core digital signal processing tasks – from filtering and spectral analysis to waveform generation. Work with the team
+to integrate your solutions to run in real systems to demonstrate their effectiveness. Utilize and deploy modern DevOps and MLOps tools.
+- Collaborate: Engage in data processing pipelines, training ML systems, analyzing outcomes, working alongside a team of developers, and tackling real-world
+issues alongside our esteemed teams.
+Key Details
+- Location: Onsite at Expedition Technology HQ, Herndon, VA.
+- Compensation: $35.00/hr
+- Duration: Full-time (40 hours/week) Summer 2027
+Is an EXP summer internship right for you?
+Eligible Candidates Should Meet The Following Criteria
+- United States citizenship is required for security clearance purposes
+- Currently enrolled student pursuing a college degree in Electrical or Computer Engineering, Computer Science, Software Engineering, data science, AI/ML or
+related major with an emphasis in Digital Signal Processing
+- Entering final year of an undergraduate or graduate program with an anticipated graduation date of December 2027 or May 2028
+- Proficiency in modern programming languages (Python preferred)
+- Familiarity with command line and version control (Git) experience
+- Interest in signal processing (courses, clubs, projects, etc.)
+- Interest in machine learning (RF, audio, computer-vision, LLMs)
+- Interest in working in defense and intelligence post-graduation
+- Must be willing to undergo background investigation for a US-government issued security clearance if not already cleared
+- Experience creating and delivering technical presentations
+Extra Bonus Points If You
+- Have an active Secret, Top Secret, or Top Secret/SCI security clearance
+About Expedition Technology (EXP)
+Expedition Technology (EXP) designs, develops, and delivers innovative solutions with national impact for the defense and intelligence communities. We use
+machine learning, artificial intelligence, and other advanced algorithms, platforms, and technologies to solve our customers' most complex, demanding and urgent
+C4ISR challenges. Our culture promotes individual growth and opportunity, prioritizes a collaborative team spirit, and invites the intellectually curious to
+solve challenging problems creatively. Headquarted in Northern Virginia's high-tech corrdor, EXP is a rapidly growing, privately held company that pushes the
+boundaries of what is possible every day.
+To learn more about EXP and discover why we are an award-winning workplace, visit our web site and follow us on LinkedIn.
+Interested in joining our team? Let’s explore together.
+EXP is proud to be an Equal Opportunity Employer that believes a diverse range of talent creates an environment that fosters creativity and innovation. All
+qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age,
+disability, national origin, genetic information or protected veteran status.
+Who is Expedition Technology?
+Expedition Technology (EXP) designs, develops, and delivers innovative solutions with national impact for the defense and intelligence communities. We use
+machine learning, artificial intelligence, and other advanced algorithms, platforms, and technologies to solve our customers' most complex, demanding and urgent
+C4ISR challenges. Our culture promotes individual growth and opportunity, prioritizes a collaborative team spirit, and invites the intellectually curious to
+solve challenging problems creatively. Headquarted in Northern Virginia's high-tech corrdor, EXP is a rapidly growing, privately held company that pushes the
+boundaries of what is possible every day.
+To learn more about EXP and discover why we are an award-winning workplace, visit our web site and follow us on LinkedIn.
+Interested in joining our team? Let’s explore together.
+Join Our Team and Enjoy Exceptional Benefits!
+Benefits
+Expedition Technology (EXP) offers a flexible, self-directed benefits package that is designed to fit your individual needs. Here’s a glimpse of the outstanding
+benefits you can enjoy when you join our team:
+- Company-paid medical, dental, and vision insurance
+- Generous Time Off: Enjoy 11 paid holidays, up to 34 days of PTO
+- Robust 401(k) Plan: Benefit from up to a 12% company contribution, including a 3% safe harbor, 6% match, and up to 3% additional as a form of profit sharing.
+- Student Loan Repayment: Take advantage of our unique option to reallocate a portion of your 401(k) match funds to repay student loans, helping you achieve
+financial freedom faster.
+- Paid Parental Leave: Six weeks of paid leave for the primary caregiver and 2 weeks of paid leave for the secondary caregiver for you to bond with your new
+family member.
+- Tuition Reimbursement: Pursue further education with up to $5,250/year available to support your continuous learning and growth.
+- Referral Bonus Program: Earn rewards for bringing talented individuals into our team.
+- Exclusive Entertainment Perks: Enjoy free tickets to sporting events, theater, concerts, and more, adding fun and excitement to your life.
+- Onsite Amenities: Stay fit and healthy with our free, onsite fitness center, active workstations featuring treadmill and bike desks, and enjoy our onsite
+cafeteria with reduced-cost options.
+- Inspiring Work Culture: Thrive in a collaborative, creative, and supportive culture where you are encouraged to push boundaries, take risks, and enjoy the
+rewards.
+Join us and be part of a team that values your well-being and professional growth. Apply today and take the first step towards a fulfilling career with us!
+EXP is proud to be an Equal Opportunity Employer that believes a diverse range of talent creates an environment that fosters creativity and innovation. All
+qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age,
+disability, national origin, genetic information, or protected veteran status.

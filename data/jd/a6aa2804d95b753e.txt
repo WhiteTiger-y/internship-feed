@@ -1,0 +1,68 @@
+Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a
+Cisco representative may contact you directly if a relevant position opens.
+Applications accepted until further notice
+Meet the Team
+The Cisco Product Organization is the engine behind the platforms, technologies, and solutions defining the next generation of connectivity. Spanning AI
+Software & Platforms, Core Product Engineering, Collaboration, Security, Networking, Silicon, and Observability, we build the critical infrastructure that
+powers the digital world. Millions of people rely on our platforms every day, and our teams work together to build, refine, and scale products that drive
+meaningful impact. We are a team of passionate innovators, united by our curiosity, collaboration, and dedication to helping one another do our best work. Ready
+to help us build what's next?
+The Cisco Product Internship Program offers a 12-week summer experience designed to welcome early-career talent into this mission. We embed interns within high-
+impact teams, where they collaborate directly on the products, platforms, and architectures shaping Cisco's future and powering the AI era. Throughout the
+program, interns have the opportunity to participate in targeted learning sessions, multi-functional networking, and direct engagement with leaders across the
+organization. By immersing interns in real-world challenges, we help them build the technical skills, confidence, and collaborative approach needed to envision
+a long-term, impactful career at Cisco.
+Your Impact
+You’ll dive into the development and implementation of cutting-edge generative AI applications using large language models like GPT-4, Claude, and Llama. You’ll
+optimize neural networks for natural language processing and machine perception, focusing on performance, scalability, and reliability as you train and fine-
+tune models for deployment. By building and fine-tuning cutting-edge generative AI and transformer-based models to deliver high-impact, intelligent experiences,
+you keep Cisco at the forefront of AI innovation and help us shape the future of intelligent products.
+Minimum Qualifications
+- Currently enrolled in an undergraduate degree program (Associate's or Bachelor's)
+Qualifying education should be in Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics,
+Software Engineering, or a related field.
+Expected to continue enrollment in degree program following completion of the internship.
+- Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic,
+project, or professional capacity.
+- Experience training or fine-tuning a neural network model, including attention to performance or scalability considerations
+Preferred Qualifications
+- Experience with cloud-native solutions, Docker container orchestration, or modern rapid deployment platforms
+- Knowledge of data pipeline design, tools, and maintenance
+- Exposure to AI security, cybersecurity, or AI validation techniques (e.g., Guardrail)
+- Experience with data science toolkits such as Pandas, NumPy, SciPy, or Scikit-learn
+- Understanding of Natural Language Processing (NLP) concepts
+#productintern27
+Why Cisco?
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for
+40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with
+unparalleled security, visibility, and insights across the entire digital footprint.
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and
+you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global
+scale. Because our solutions are everywhere, our impact is everywhere.
+We are Cisco, and our power starts with you.
+Message to applicants applying to work in the U.S. and/or Canada:
+Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications,
+and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about
+compensation for the role in your location during the hiring process.
+U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco
+matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover
+more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for
+defined periods of time.
+U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:
+- 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees
+- 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco
+- Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees
+- Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use
+(subject to availability and some business limitations)
+- 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year
+to the next
+- Additional paid time away may be requested to deal with critical or emergency issues for family members
+- Optional 10 paid days per full calendar year to volunteer
+For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.
+Employees On Sales Plans Earn Performance-based Incentive Pay On Top Of Their Base Salary, Which Is Split Between Quota And Non-quota Components, Subject To The
+Applicable Cisco Plan. For Quota-based Incentive Pay, Cisco Typically Pays As Follows
+- .75% of incentive target for each 1% of revenue attainment up to 50% of quota;
+- 1.5% of incentive target for each 1% of attainment between 50% and 75%;
+- 1% of incentive target for each 1% of attainment between 75% and 100%; and
+- Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.
+For non-quota-based sales performance elements such as strategi

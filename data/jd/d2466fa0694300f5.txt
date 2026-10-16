@@ -1,0 +1,50 @@
+Grow with us
+Ericsson Inc. does not sponsor U.S work authorizations for this job position including U.S. immigration filings for initial and/or change of employer paperwork
+for H-1’s, H-1B1’s, E-3’s, O-1’s, and TN’s. Ericsson also does not hire F-1’s working on CPT or EAD for this position.
+Location: Plano, Texas
+Duration: 12 Weeks
+Start Date: May 25th, 2027
+About this opportunity:
+Join a team at the intersection of data, technology, and human insight. The People Analytics & AI team empowers leaders to make better decisions and shape the
+employee experience through data-driven storytelling and AI-enabled innovation.
+What you will do:
+- Design and consult on AI-powered solutions using platforms such as MS Copilot and Studio, Glean Work AI, Azure AI Foundry, or Snowflake CoWork and Cortex to
+improve how HR teams access insights and make decisions
+- Build and prototype intelligent agents and workflows that help automate analytics, simplify data access, and improve user experience
+- Continuously learn and experiment with new AI and analytics tools to help define what’s next in people analytics
+- Extract, transform, and model data from sources such as Dataflows, Power Query, or Snowflake to build the foundation for analytics and AI solutions
+- Develop visual stories and dashboards in Power BI that turn complex data into meaningful, actionable insights
+- Collaborate across HR and analytics teams, connecting technical possibilities with business value
+Join our Team
+The skills you bring:
+- Actively enrolled full-time in an accredited Bachelor’s or Master’s program in Management Information Systems, Computer Science, Data Science, Statistics,
+Business Administration, or a related field (2.7+ GPA).
+- Courage: A willingness to try new ideas, ask thoughtful questions, and share a point of view, even when the path is not fully defined.
+- Curiosity: A genuine interest in how AI and data can transform how organizations work.
+- Grit: Perseverance and passion for achieving goals and solving problems.
+- AI Agent & Automation: Exposure to or interest in AI tools that can support multi-step tasks, automate workflows, or improve how people access information
+(e.g., using Glean Computer Use, Microsoft Copilot Cowork, or similar automation/agent frameworks).
+- Coding for Analytics & AI: Foundational skills in Python and SQL for analysis, model prototyping, and efficient data handling.
+- Generative AI Application: Hands-on experience with prompt engineering using foundation LLMs (e.g., ChatGPT, Gemini, Claude, etc.) to solve problems.
+- Data & Visualization: Proficiency with data preparation tools (e.g., Power Query, Dataflows, Snowflake and/or SQL) and skills in building actionable
+dashboards, preferably in Power BI.
+- Technical Agility: Ability to quickly learn new AI solutions, analytical tools, and technologies
+Why join Ericsson?
+At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions
+never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all
+driven to go beyond the status quo to craft what comes next.
+What happens once you apply?
+Click Here to find all you need to know about what our typical hiring process looks like.
+Ericsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives
+innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson
+team. Ericsson is proud to be an Equal Opportunity employer, learn more.
+If you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com.
+DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an
+exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.
+Primary country and city: United States (US) || Plano (Country/ City)
+Job details: HR Delivery Specialist
+Compensation And Benefits At Ericsson
+At Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals.
+Your Pay
+The salary range for this position is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related
+knowledge, qualifications, skills, education, training, and experience.

@@ -1,0 +1,42 @@
+Role Description:
+Computational Biology Intern
+Location: Fort Collins, CO (US Remote)
+Internship Summary:
+The intern will assess and integrate methods in a workflow for peptide substrate that includes de novo generation, evaluation of biophysical characteristics
+(charge, hydrophobicity, epitope prediction) as well as ranking and final selection for wet lab generation.
+Internship Job Duties:
+- Independently install, configure and deploy scientific software
+- Parameterize, generate, analyze and report back results
+- Fully document work in detail as well as frequently interface to update project strategies and deliverables. ·
+- Communicate and present data to our internal team.
+- Strong remote work, time management and communications skillset are considered critical.
+Internship Qualifications:
+· The candidate is pursuing a Bachelors, MS or a PhD degree in Biochemistry, Structural Biology, Computational Biology, Chemical Engineering, Chemistry,
+Computational Chemistry, or equivalent field ·
+· Experience in substrate generation pipeline software such as Boltz/BoltzGen, RFDiffusion, Chroma, AbDesign, BindCraft, ProteinMPNN, or an equivalent
+computational method is strongly desired but not required ·
+· Experience in a programming language is preferred but not required ·
+· Is comfortable with possibly being remotely managed and reporting results to an internal team
+The following hourly pay rates reflect the anticipated base pay for this position:
+If the selected candidate is a student pursuing an Associate-level degree: $16.00 per hour
+If the selected candidate is a student pursuing an Undergraduate-level degree: $22.00 per hour
+If the selected candidate is a student pursing a Graduate-level degree: $32.50 per hour
+If the selected candidate is a student pursuing a Doctorate-level degree: $36.00 per hour
+The following hourly pay rates reflect the anticipated base pay for this position if a selected candidate were to be located in California, Connecticut,
+District of Columbia, Illinois (Chicago area), Massachusetts, New Jersey, New York, Washington (Seattle area):
+Student pursuing an Associate-level degree: $17.00 per hour
+Student pursuing an Undergraduate-level degree: $24.20 per hour
+Student pursing a Graduate-level degree: $36.40 per hour
+Student pursuing a Doctorate-level degree: $40.30 per hour
+About Zoetis
+At Zoetis, our purpose is to nurture the world and humankind by advancing care for animals. As a Fortune 500 company and the world leader in animal health, we
+discover, develop, manufacture and commercialize vaccines, medicines, diagnostics and other technologies for companion animals and livestock. We know our people
+drive our success. Our award-winning culture, built around our Core Beliefs, focuses on our colleagues' careers, connection and support. We offer competitive
+healthcare and retirement savings benefits, along with an array of benefits, policies and programs to support employee well-being in every sense, from health
+and financial wellness to family and lifestyle resources.
+Notice: Zoetis Recruiters will contact candidates via email from an address ending in @zoetis.com and may also initially connect with candidates through
+LinkedIn, including LinkedIn InMail. Zoetis does not use Gmail, Outlook, Yahoo, or other web-based/generic email domains to communicate about job opportunities,
+interviews, or offers of employment. If you receive a recruitment-related email message claiming to be from Zoetis that does not come from @zoetis.com, please
+treat it as suspicious. For your security, do not reply, click links, open attachments, share personal or financial information, or send money in response to
+unexpected or questionable recruitment communications.
+Global Job Applicant Privacy Notice

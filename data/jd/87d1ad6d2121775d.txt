@@ -1,0 +1,72 @@
+What Your Job Will Be Like
+We are seeking a Intern Summer - R&D Undergrad
+We are currently hiring R&D Undergrad Interns to join our TITANS: Math & Analytics team for Summer 2027! Qualified candidates will be part of a larger family of
+intern institutes, namely Technical Internships To Advance National Security (TITANS) focused solely on Cybersecurity, Software, and Math and Analytics.
+TITANS: Math & Analytics is seeking students who want to have a career using their math and analytics skills. We are focused on developing the next generation
+of experts in the math and analytics for national security applications. Skills used in the internship are math, analytics and data science, including machine
+learning and artificial intelligence, but work is almost always dedicated to applied research and development in one or more of Sandia's many mission areas. An
+R&D mentality, strong computer science skills, and proficiency in at least one programming language will ensure success in this internship.
+Project Types May Include
+- Computational imaging and processing
+- Natural language processing
+- Multidimensional data modeling
+- Statistical functional data analysis
+Salary Range
+At Sandia, we value the important work done by our interns and its contribution to National Security. Because of this, our interns earn competitive pay rates.
+Our pay structure is based on earned credit hours, classification, and degree level. Your pay rate will be determined during the hire process and included in
+your offer package. You can view the Intern Pay Rate chart here (https://www.sandia.gov/app/uploads/sites/51/2024/12/Student-Rate-Sheet-2025.docx) .
+Qualifications We Require
+You bring the confidence and skills to be eligible for the job by meeting these minimum requirements:
+- Currently attending and enrolled full time in the spring term immediately preceding the internship (or scheduled to graduate in the spring) in an accredited
+undergraduate program
+- Pursuing a science, engineering, or math major
+- Minimum cumulative GPA of 3.0/4.0
+- Ability to work up to 40 hours per week during the summer
+- U.S. citizens, legal permanent residents, asylees or refugees in the U.S.
+Note: If you have not earned a HS diploma or equivalent, please apply to a high school intern position.
+Qualifications We Desire
+- GPA of at least 3.2 on a 4.0 scale
+- Working knowledge and understanding of an engineering or science-related field, such as Computer Science, Computer Engineering, or other relevant SEM
+disciplines
+- R&D experience including project work, technical presentations and/or publications
+Posting Duration
+This posting will be open for application submissions for a minimum of three (3) calendar days, including the 'posting date'. Sandia reserves the right to
+extend the posting date at any time.
+About Our Team
+Sandia's Technical Internships To Advance National Security (TITANS) intern institutes are seeking outstanding undergraduate students to work on vibrant,
+motivated teams. Interns perform work as an entry to mid-level member of the workforce within a science and engineering environment, engaging in R&D assignments
+which focus on applying computer science, computer engineering, or cybersecurity skills to solve complex challenges. Based on your skills and experience, your
+role may include anything from research to software development to malware reverse engineering.
+About Sandia
+Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists
+focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+- Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+- Extraordinary co-workers
+- Some of the best tools, equipment, and research facilities in the world
+- Career advancement and enrichment opportunities
+- Flexible work arrangements for many positions include 9/80 (work 80 hours every two weeks, with every other Friday off) and 4/10 (work 4 ten-hour days each
+week) compressed workweeks, part-time work, and telecommuting (a mix of onsite work and working from home)
+- Generous vacation, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid
+work/life balance*
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov
+- These benefits vary by job classification.
+Security Clearance
+This position does not currently require a Department of Energy (DOE) security clearance.
+Sandia will conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement records, and
+employment/education verifications. Furthermore, employees in New Mexico need to pass a U.S. Air Force background screen for access to Kirtland Air Force Base.
+Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause
+access to be denied or terminated, resulting in the inability to perform the duties assigned and subsequent termination of employment. Under federal law,
+citizens and agents of the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of North Korea, and the Russian Federation
+are generally prohibited from accessing Sandia National Laboratories. Accordingly, such individuals will not be considered for employment unless they are also a
+citizen of the United States.
+If hired without a clearance and it subsequently becomes necessary to obtain and maintain one for the position, or you bid on positions that require a
+clearance, a pre-processing background review may be conducted prior to a required federal background investigation. Applicants for a DOE security clearance
+need to be U.S. citizens. If you hold more than one citizenship (i.e., of the U.S. and another country), your ability to obtain a security clearance may be
+impacted.
+Members of the workforce (MOWs) hired at Sandia who require uncleared access for greater than 179 days during their employment, are required to go through the
+Uncleared Personal Identity Verification (UPIV) process. Access includes physical and/or cyber (logical) access, as well as remote access to any NNSA
+information technology (IT) systems. UPIV requirements are not applicable to individuals who require a DOE personnel security clearance for the performance of
+their SNL employment or to foreign nationals. The UPIV process will include the completion of a USAccess Enrollment, SF-85 (Questionnaire for Non-Sensitive
+Positions) and OF-306 (Declaration of for Federal Employment). An unfavorable UPIV determination will result in immediate retrieval of the SNL issued badge,
+removal of cyber (logical) access and/or removal from SNL subcontract. All MOWs may appeal the unfavorable UPIV determination to DOE/NNSA immediately. If the
+appeal

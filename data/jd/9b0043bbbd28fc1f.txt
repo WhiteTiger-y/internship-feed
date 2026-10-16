@@ -1,0 +1,87 @@
+If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high-performance analog
+semiconductors whose solutions are powering the wireless networking revolution. Through our broad technology expertise and one of the most extensive product
+portfolios in the industry, we are Connecting Everyone and Everything, All the Time.
+At Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, minimal layers of management, and the freedom to make
+meaningful contributions in a setting that encourages creative thinking. We are excited about the opportunity to work with you and glad you want to be part of a
+team of talented individuals who together are changing the way the world communicates.
+Requisition ID: 78595
+Description
+We are seeking a highly motivated AI Engineering Intern to support the development of advanced analytics and machine learning solutions for semiconductor
+manufacturing equipment. The intern will work closely with Manufacturing Engineers, Equipment Engineers, Industrial Engineers, and Operations teams to leverage
+equipment data, fault logs, sensor information, and maintenance records to identify predictive and preventative maintenance opportunities within a high-volume
+semiconductor fabrication environment.
+This role offers a unique opportunity to apply Artificial Intelligence (AI), Machine Learning (ML), and Data Analytics techniques to real-world manufacturing
+challenges, helping improve equipment uptime, yield, reliability, and operational efficiency.
+Learning Opportunities
+During The Internship, You Will Gain Hands-on Experience With
+Semiconductor wafer fabrication operations
+Advanced manufacturing systems
+Industrial AI and machine learning applications
+Equipment reliability engineering
+Predictive maintenance methodologies
+Data engineering and analytics platforms
+Real-world deployment of AI models in production environments
+Success Metrics
+By the end of the internship, the candidate is expected to:
+Develop a proof-of-concept predictive maintenance model.
+Identify key drivers of equipment downtime.
+Demonstrate measurable prediction accuracy for selected failure modes.
+Deliver dashboards and actionable insights to engineering teams.
+Present project outcomes and future recommendations to fab leadership.
+Duration of Internship: May -August 2027
+Responsibilities
+Analyze large volumes of equipment and manufacturing data from semiconductor production tools.
+Develop machine learning models to identify patterns that may indicate impending equipment failures or process degradation.
+Create predictive maintenance algorithms using historical maintenance records, fault logs, alarms, sensor data, and process metrics.
+Evaluate equipment health indicators and recommend preventative maintenance actions.
+Develop dashboards and visualizations that communicate equipment performance and risk trends.
+Collaborate with equipment engineers to validate model predictions against actual tool performance.
+Investigate root causes of recurring equipment failures and identify opportunities for proactive intervention.
+Assist in building automated monitoring systems for critical manufacturing assets.
+Conduct statistical analysis of maintenance effectiveness and equipment reliability metrics.
+Present findings and recommendations to engineering and operations leadership.
+Desired Project Areas The intern may contribute to one or more of the following initiatives:
+Predictive Maintenance
+Forecast equipment failures before they occur.
+Identify early warning indicators from sensor and equipment telemetry data.
+Develop Remaining Useful Life (RUL) estimation models.
+Fault Detection & Classification
+Build anomaly detection models for equipment health monitoring.
+Classify equipment alarms and fault signatures.
+Detect abnormal operating conditions in real time.
+Preventative Maintenance Optimization
+Recommend maintenance intervals based on actual equipment condition.
+Reduce unnecessary preventative maintenance activities.
+Improve maintenance scheduling to minimize production impact.
+Equipment Reliability Analytics
+Analyze Mean Time Between Failure (MTBF).
+Analyze Mean Time To Repair (MTTR).
+Identify chronic tool reliability issues and improvement opportunities.
+Required Experience And Skills
+urrently pursuing a BS, MS, or PhD in:
+Computer Science
+Data Science
+Artificial Intelligence
+Electrical Engineering
+Mechanical Engineering
+Industrial Engineering
+Computer Engineering
+Related technical discipline
+Experience With One Or More Programming Languages
+Python
+R
+MATLAB
+Knowledge Of
+Machine Learning fundamentals
+Statistical data analysis
+Data visualization techniques
+SQL or database querying
+Strong analytical and problem-solving skills.
+Ability to work effectively in a cross-functional engineering environment.
+Desired Experience And Skills
+The typical pay range for an Engineering intern across the U.S. is currently USD $29.00 - $49.00 per hour and for a Non-Engineering intern across the U.S. is
+currently USD $23.00 - $42.00 per hour. Starting pay will depend on level of education, the ultimate job duties and requirements, and work location. Skyworks
+has different pay ranges for different work locations in the U.S.
+Skyworks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex,
+sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Skyworks strives to
+create an accessible workplace; if you need an accommodation due to a disability, please contact us at accommodations@skyworks.com.

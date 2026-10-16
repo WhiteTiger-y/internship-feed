@@ -1,0 +1,45 @@
+Job Description
+FAST Labs™ is a world-class research organization. Our vision, We secure the future through fearless innovation®, fuels our curiosity and propels our technical
+teams to take on ‘never been done before’ challenges. FAST Labs defines the next generation of technology across BAE Systems’ Aerospace & Mission Systems (AMS)
+segment. FAST Labs is seeking interns currently enrolled in undergraduate or graduate programs to support our Research and Development (R&D) programs across
+multiple Technical Areas. These Tech Areas develop novel technologies ranging from the next generation of new RF/cyber algorithms to demonstration of advanced
+EW capabilities in integrated systems at government ranges.
+Roles And Responsibilities May Include
+- Support research focused teams in the design, test, or analysis of capabilities in RF, algorithms, signal processing, artificial intelligence/machine learning
+(AI/ML), or reverse engineering/vulnerability detection/exploitation.
+- Contribute to modeling, simulation, and analysis tasks that help validate prototype performance.
+- Collect and analyze data; produce plots, summaries, or insights for the team.
+- Develop or modify small scripts or tools (often in MATLAB or Python) to automate data processing or simulations.
+- Collaborate with cross-functional teams.
+- Demonstrate curiosity and initiative while staying aligned with mentor guidance.
+In addition to your technical assignment, you will participate in BAE Systems' nationwide LEAP Internship & Co-op Program, where you will Learn, Engage, Apply,
+and Progress within the company. The LEAP Program will provide you with the opportunity to work alongside experienced professionals on impactful projects,
+engage in career development opportunities, and network with our business leaders and the other students in the program.
+This internship will be located onsite in Merrimack NH.
+Required Education, Experience, & Skills
+- Must be currently enrolled in a graduate program for Engineering, Computer Science, Physics, Math, or a related field.
+- Strong interpersonal and written and verbal communication skills.
+- Demonstrated self-motivation and ability to work independently.
+- Ability to close on discrete tasking in a timely manner.
+- Must be eligible for a US DoD security clearance
+Preferred Education, Experience, & Skills
+- Knowledge of RF technologies, algorithms, signal processing, artificial intelligence/machine learning, reverse engineering/vulnerability
+detection/exploitation, performance and data analysis
+- Research and development (R&D) experience
+- Experience with MATLAB, C++, Python
+- Security clearance (secret or higher)
+Pay Information
+Full-Time Salary Range: $58344 - $81128
+Please note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited
+to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.
+Temporary employees generally are not eligible for BAE Systems benefits, but can elect to participate in the 401(k) savings plan. Temporary employees working
+20+ hours per week are eligible for medical benefits, the employee assistance program, and business travel accident insurance.
+About BAE Systems, Inc.
+BAE Systems, Inc. is a defense, aerospace, and security company headquartered in Falls Church, Virginia, with more than 40,000 employees worldwide. We serve,
+supply, and protect those who protect us. As one of the most geographically diverse international defense companies, we deliver a full range of products and
+services spanning air, land, maritime, space, and cyber, including advanced electronics, intelligence solutions, and dedicated customer support.
+Our culture is performance-driven and values-led, built on curiosity, creativity, and collaboration. Purpose isn't a tagline here. It's what drives us. We're
+developing breakthrough technologies that defend national security and make a lasting impact on our communities and our planet. When you join BAE Systems,
+you're not just building a career. You're contributing to a mission that truly matters.
+This position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is
+identified.

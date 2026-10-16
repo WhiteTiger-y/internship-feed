@@ -1,0 +1,64 @@
+Description
+Do you want to apply your technical skills to real-world problems and gain hands-on experience with cyber operations?
+Are you intellectually curious, always seeking to understand how systems work, where they break, and what you can make them do?
+Do you enjoy creating, experimenting, and building something new?
+Are you passionate about cybersecurity, national security, and public service?
+If these questions resonate with you, you may be a great fit for an internship with the Cyber Warfare Systems Group (QCR)!QCR team members apply their skills to
+offensive security operations and non-kinetic mission defeat. We develop innovative cyber capabilities that support the U.S. military's efforts to execute cyber
+missions at scale in support of joint operations. We are a team built around trust, clarity, growth, and mission impact. Our research areas include analysis and
+targeting, cyber layer modeling, cybersecurity, and human systems modeling.
+As a member of our team...
+You Will Gain a Hands-on Engineering Internship Experience. Interns Work Alongside And Learn From Experienced Engineers, Computer Scientists, Researchers,
+Analysts And Cyber Practitioners While Contributing To Real Problems Supporting Cyber Operations. Depending On Your Interests, Background, And Experience, You
+May
+- Explore new technical approaches and rapidly turn promising ideas into prototypes.
+- Experiment with emerging technologies, including AI-enabled approaches, and critically evaluate what they can and cannot do.
+- Develop models, software, scripts, automation, data-analysis methods, or other technical solutions to challenging cyber mission problems.
+- Investigate systems, networks, and technologies to understand how they work, where they may be vulnerable, and how they can support mission needs.
+- Contribute to the design, development, testing, and fielding of capabilities supporting cyber operations missions.
+- Work with government, contractor, and APL teammates as technical ideas move toward operational use.
+- Have opportunities to contribute your own ideas and perspective. Our interns are active members of the team, eager to learn quickly, and make a meaningful
+team impact
+Qualifications
+You meet our minimum qualifications for consideration if you:
+- Are pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, Computer Engineering, Mathematics, Electrical Engineering,
+Cybersecurity, or another engineering or technical field. Students in other disciplines who have demonstrated strong technical skills applicable to QCR's work
+are also encouraged to apply.
+- Have a minimum 3.0 GPA on a 4.0 scale.
+- Have explored technical problems through coursework, research, clubs, competitions, personal projects, internships, open-source contributions, or other hands-
+on experiences. Relevant areas may include vulnerability research, information theory, information security, cybersecurity, cryptography, networking,
+penetration testing, systems engineering, modeling and simulation, software development, or related technical areas.
+- Enjoy creating, experimenting, building, and seeing ideas through to working solutions.
+- Can critically evaluate technical approaches, including AI-enabled technologies, and are curious about both their capabilities and limitations.
+- Can effectively communicate technical information, concepts, and ideas to technical and non-technical audiences.
+- Are able to acquire an Interim Secret level security clearance by your start date and can ultimately acquire a Top Secret with SCI level clearance. If
+selected, you will be subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility
+requirements include U.S. citizenship.
+You'll go above and beyond our minimum requirements if you...
+- Build things outside the classroom, for example software, hardware, homelabs, Capture The Flag (CTF) solutions, automation, data projects, AI experiments, or
+anything else that shows technical curiosity and follow-through.
+- Have experience with open-source intelligence (OSINT), publicly available information (PAI), commercially available information (CAI), intelligence analysis,
+targeting, geopolitical analysis, or other mission-focused analytical methods.
+- Have proficiency in a defense-critical foreign language.
+- Have experimented with AI/ML, large language models, or AI agents and understand the opportunities, limitations, and risks of using AI in mission-critical
+applications.
+- Have demonstrated initiative, leadership, teamwork, or ownership through technical projects, research, student organizations, competitions, employment,
+military/ROTC experience, or other activities.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers.
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu.
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff 

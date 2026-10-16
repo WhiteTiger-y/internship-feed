@@ -1,0 +1,74 @@
+What You Will Do
+This position is for a Graduate Research Assistant (GRA) in the Space Remote Sensing and Data Science Group (ISR-6) at Los Alamos National Laboratory. You will
+work closely with interdisciplinary teams on projects related to remote sensing, data science, image and signal processing, machine learning, and sensor data
+analysis. Responsibilities will be tailored to your background and interests, with opportunities to contribute to innovative research and development.
+As a Graduate Research Assistant, you will be involved in advancing methods and technologies for collecting, processing, analyzing, and interpreting data from
+space, airborne, ground-based, and laboratory remote-sensing systems. Candidates should have broad technical skills and an interest in applying computational
+and analytical techniques to scientific challenges.
+In this role, you may contribute to one or more of the following areas:
+- Developing and applying algorithms to process and analyze sensor data (including images, spectra, time series, or other types)
+- Using statistical, mathematical, or computational methods to address detection and characterization problems
+- Modeling sources, sensors, and measurement uncertainties
+- Analyzing and interpreting experimental or field-collected data
+- Contributing to the design or calibration of sensing systems and instruments
+- Communicating research findings through reports, presentations, publications, and teamwork
+Duration of this position is at least one year, with the intent to support continued multi-year work.
+What You Need
+Minimum Job Requirements:
+Knowledge/Abilities:
+- General experience in scientific computing, data analysis, or algorithm development
+- Ability to work collaboratively with diverse teams and communicate research results effectively
+- Demonstrated strong analytical problem-solving abilities to overcome technical challenges in remote sensing and data science challenges
+Education/Experience:
+- Must be enrolled (6 semester credit hours or full-time equivalent) in an accredited, degree-granting graduate level program (or international equivalent)
+- Must currently have and maintain a cumulative GPA of at least 3.2 on a 4.0 scale (or equivalent).
+Desired Qualifications:
+- Working familiarity with one or more areas such as image/signal processing, machine learning, statistical analysis, sensor systems, or scientific software
+- Experience with programming languages or scientific computing tools
+- Experience with experimental or field research, instrumentation, or data collection
+Work Environment
+Work Location: The work location for this position has the potential for remote work. Remote work is defined as working offsite that is greater than 2 hours of
+the Laboratory location. Reporting onsite may be periodically necessary. All work locations are at the discretion of management.
+Work Schedule:
+Remote/Telework: This position is a remote position. Interns working fully remotely may only work a 5/40 schedule. Interns may not work remotely from Hawaii,
+Minnesota, Santa Moncia, CA or San Francisco, CA. See Current Restrictions for more information.
+Note to Applicants:
+Required Application Materials:
+- Current resume
+- Current official transcripts
+- Personal statement of interest (not to exceed one page)
+Due to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China-including the special
+administrative regions of Hong Kong and Macau-as well as citizens of the Islamic Republic of Iran, the Democratic People's Republic of Korea (North Korea), and
+the Russian Federation, who are not Lawful Permanent Residents ("green card" holders) are prohibited from accessing facilities that support the mission,
+functions, and operations of national security laboratories and nuclear weapons production facilities, which includes Los Alamos National Laboratory.
+Where You Will Work
+Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on
+behalf of national security. Our generous benefits package includes:
+- PPO or High Deductible medical insurance with the same large nationwide network
+- Dental and vision insurance
+- Free basic life and disability insurance
+- Paid childbirth and parental leave
+- Award-winning 401(k) (6% matching plus 3.5% annually)
+- Learning opportunities and tuition assistance
+- Flexible schedules and time off (PTO and holidays)
+- Onsite gyms and wellness programs
+- Extensive relocation packages (outside a 50 mile radius)
+Additional Detail
+Directive 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2. Please
+note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142.3A.
+Clearance: Q (Position will be cleared to this level). Selected applicants will be subject to a background investigation conducted by or on behalf of the
+Federal Government, and must meet eligibility requirements* for access to classified matter. This position requires a Q clearance, and obtaining such clearance
+requires US Citizenship except in extremely rare circumstances. Dependent upon the position, additional authorization to access classified information may be
+required, which may or may not be available to dual citizens. Receipt of a Q clearance and additional access authorization ultimately is a decision of the
+Federal Government and not of Triad.
+- Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited
+circumstances. See DOE Order 472.2 for additional information.
+426.2A: This position is subject to DOE Order 426.2A, Personnel Selection, Training, and Qualification Requirements for DOE Nuclear Facilities, which
+establishes entry-level requirements to ensure candidates selected for specific positions can successfully perform the requirements of the job.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that
+includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under
+federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre-offer.
+Internal Applicants: Regular appointment employees who have served the required period of continuous service in their current position are eligible to apply for
+posted jobs throughout the Laboratory. If an employee has not served the required period of continuous service, they may only apply for Laboratory jobs with the
+documented approval of their Division Leader. Please refer to Policy Policy P701 for applicant eligibility requirements.
+Equal Opportunity: 

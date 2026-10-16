@@ -1,0 +1,43 @@
+Job Description
+Lazard is one of the world’s preeminent financial advisory and asset management firms. Our people and culture make the difference. While global in presence and
+reach, ours is a close, collaborativecommunity of just over 3,000 professionals. Lazard is a place of continuous knowledge sharing, skill development and
+relationship building, where professionals grow and succeed together. Our entrepreneurial culture, flat structure and embrace of individual differences, allow
+creative ideas, original concepts, and unique perspectives to drive our business forward — and for careers to take flight.
+The AI and Transformation team builds the AI and data capabilities used across Lazard Asset Management, with a particular focus on the investment platform:
+research, portfolio management and the data that supports both. We are looking for an AI & Data Intern to work alongside the team on AI products that change how
+investment professionals research companies and make decisions.
+This role sits closer to product than to pure engineering. We are looking for someone who can write code and reason about data, but whose instinct is to ask why
+a tool gets used rather than only whether it runs. You should be comfortable spending time with portfolio managers and research analysts as well as with a
+terminal.
+Eligibility Criteria
+- Ability to start an internship June 7, 2027, and end August 13, 2027
+- Ability to be in NYC for the duration of the internship
+- Authorization to work in the United States without visa sponsorship
+What You'll Do
+- Work with portfolio managers, research analysts and data teams to identify where AI can improve the investment research process
+- Help define requirements and build prototypes for AI-native research tools, including agentic workflows, retrieval over filings, transcripts and broker
+research, and structured extraction of financial data
+- Write working code for data pipelines, evaluation harnesses and agent and prompt iteration
+- Analyze investment and market data to test whether a tool improves a research or investment outcome
+- Translate between investment and engineering audiences, turning an investment workflow into a clear product specification
+You’ll Need To Have
+- Currently pursuing a Bachelors or Advanced Degree in Financial Engineering, Data Science, or a related quantitative field
+- Strong finance background — prior finance internship experience is a plus
+- Solid understanding of data science and engineering principles; comfortable working with data-driven analysis
+- Strong analytical and communication skills; able to translate between technical, financial, and business stakeholders
+- Genuine interest in financial products and how data informs product decisions
+Preferred Qualifications
+- Prior internship experience in finance (banking, fintech, asset management, etc.)
+- Familiarity with financial modeling, statistics, or data engineering tools/concepts
+Does this sound like you?
+Apply! We’ll get in touch and let you know the next steps.
+We expect the prorated salary for this role to be approximately $100,000 USD for the duration of the duration of the internship. The internship will be
+approximately 10 weeks starting in June of 2027 and concluding in August 2027
+Representation at Lazard
+Lazard is an intellectual capital business committed to delivering the best advice and solutions to clients. To achieve these objectives, we focus on
+attracting, developing and retaining the best talent. We believe that a workforce comprised of people who represent a wide array of backgrounds, experiences and
+perspectives creates a rich variety of thought that empowers us to challenge conventional wisdom, solve problems creatively and make better decisions.
+Lazard was built on the premise that a multicultural firm can best serve a global clientele. As a global firm that has grown organically from local roots in
+different countries, we have a deep tradition of respecting and appreciating individual differences. Doing so has been core to our success for over 175 years.
+We are committed to sustaining an environment where every colleague is supported in their professional pursuits, can maximize their individual potential and
+contribute to our collective success.

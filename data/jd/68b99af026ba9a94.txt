@@ -1,0 +1,44 @@
+USNH Employees should apply within Workday through the Jobs Hub app
+The candidate will be working full time in a research study where fully autonomous robots are deployed in the homes of older adults with dementia to offer them
+assistances with activities of daily living.
+Duties/Responsibilities
+- Writing new codes to expand the existing software framework
+- Maintaining the current software
+- Making deployment visits to participants home
+- Troubleshoot the system whenever needed
+- Collect and analyze data for dissemination
+Qualifications
+- The candidate should have a bachelor’s or a master’s degree in robotics or a related discipline
+Preferred Qualifications
+- Some field deployment experiences
+Knowledge, Skills & Abilities
+- Prior experience with robotics
+- Knowledge of ROS2
+- Large scale robot software development
+Applicant Instructions
+Applicants should be prepared to upload the following documents when applying online within the My Experience: Resume/CV section of the application: (Maximum of
+5 Documents)
+- Resume/CV
+- Cover Letter
+- Contact Information for 3 Professional References
+Compensation Pay Range
+$30-$35 /hour
+Please be advised that this position is supported by external sponsor funding. As such, continued employment in this role is contingent upon the availability of
+those external funds. If, for any reason, the sponsor funding is reduced or discontinued, employment may be subject to modification or termination in accordance
+with applicable policies and procedures.
+The University of New Hampshire is an R1 Carnegie classification research institution providing comprehensive, high-quality undergraduate and graduate programs
+of distinction. UNH is located in Durham on a 188-acre campus, 60 miles north of Boston and 8 miles from the Atlantic coast and is convenient to New Hampshire’s
+lakes and mountains. There is a student enrollment of 13,000 students, with a full-time faculty of over 600, offering 90 undergraduate and more than 70 graduate
+programs. The University actively promotes a dynamic learning environment in which qualified individuals of differing perspectives, life experiences, and
+cultural backgrounds pursue academic goals with mutual respect and shared inquiry.
+EEO Statement
+The University System of New Hampshire is an Equal Opportunity/Equal Access employer. The University System is committed to creating an environment that values
+and supports diversity and inclusiveness across our campus communities and encourages applications from qualified individuals who will help us achieve this
+mission. The University System prohibits discrimination on the basis of race, color, religion, sex, age, national origin, sexual orientation, gender identity or
+expression, disability, genetic information, veteran status, or marital status.
+The pay range for this position is listed above. Actual offer will be based on skills, qualifications, experience, and internal equity, in addition to relevant
+business considerations. More information on benefits can be found here: USNH Employee Benefits | Human Resources
+Location:
+Durham
+Salary Grade
+Adjunct Hourly Staff 00
