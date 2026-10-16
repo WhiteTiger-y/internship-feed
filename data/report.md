@@ -1,8 +1,8 @@
-# Scan report: 2026-10-16 20:25 UTC
+# Scan report: 2026-10-16 20:37 UTC
 
 163 companies, 147 scanned OK, 253 open matching roles, 3 recently closed kept.
 
-Job descriptions read: 252 of 256 company-board roles; SimplifyJobs roles 707 of 889 (182 pages had no readable description).
+Job descriptions read: 252 of 256 company-board roles; SimplifyJobs roles 706 of 888 (182 pages had no readable description).
 
 LinkedIn: off (add the APIFY_TOKEN secret to turn it on).
 
@@ -71,7 +71,7 @@ Description texts stored for Claude fit scoring: 933.
 | ElevenLabs | ok | Ashby: 156 postings, 0 matching |
 | Epic Games | ok | Greenhouse: 137 postings, 2 matching |
 | Essential AI | ok | Ashby: 0 postings, 0 matching |
-| Figma | ok | Greenhouse: 140 postings, 5 matching |
+| Figma | ok | Greenhouse: 139 postings, 5 matching |
 | Figure AI | ok | Greenhouse: 99 postings, 0 matching |
 | Fireworks AI | ok | Ashby: 88 postings, 0 matching |
 | Five Rings | ok | Greenhouse: 17 postings, 2 matching |
@@ -122,7 +122,7 @@ Description texts stored for Claude fit scoring: 933.
 | PDT Partners | ok | Greenhouse: 12 postings, 1 matching |
 | Peloton | ok | Greenhouse: 53 postings, 0 matching |
 | Perplexity | ok | Ashby: 132 postings, 3 matching |
-| Pfizer | ok | Workday: 256 postings, 0 matching |
+| Pfizer | ok | Workday: 257 postings, 0 matching |
 | Physical Intelligence | ok | Ashby: 41 postings, 1 matching |
 | Pika | ok | Ashby: 15 postings, 1 matching |
 | Pinterest | ok | Greenhouse: 156 postings, 5 matching |
@@ -148,12 +148,12 @@ Description texts stored for Claude fit scoring: 933.
 | Scale AI | ok | Greenhouse: 183 postings, 0 matching |
 | Schonfeld | ok | Greenhouse: 69 postings, 3 matching |
 | ServiceNow | ok | SmartRecruiters: 172 postings, 2 matching |
-| Shield AI | ok | Lever: 616 postings, 0 matching |
+| Shield AI | ok | Lever: 615 postings, 0 matching |
 | Sierra | ok | Ashby: 186 postings, 0 matching |
 | Skydio | ok | Ashby: 160 postings, 3 matching |
 | Snorkel AI | ok | Greenhouse: 44 postings, 1 matching |
 | Spotify | ok | Lever: 82 postings, 0 matching |
-| Squarespace | ok | Greenhouse: 32 postings, 0 matching |
+| Squarespace | ok | Greenhouse: 30 postings, 0 matching |
 | Stability AI | ok | Greenhouse: 6 postings, 0 matching |
 | Stack AV | ok | Greenhouse: 13 postings, 0 matching |
 | Stripe | ok | Greenhouse: 733 postings, 2 matching |
@@ -164,7 +164,7 @@ Description texts stored for Claude fit scoring: 933.
 | Visa | ok | SmartRecruiters: 0 postings, 0 matching |
 | Viz.ai | ok | Ashby: 21 postings, 0 matching |
 | Voleon | ok | Ashby: 58 postings, 1 matching |
-| Waymo | ok | Greenhouse: 363 postings, 32 matching |
+| Waymo | ok | Greenhouse: 364 postings, 32 matching |
 | Wayve | ok | Ashby: 174 postings, 0 matching |
 | Western Digital | ok | SmartRecruiters: 87 postings, 4 matching |
 | Workday | ok | Workday: 177 postings, 0 matching |
