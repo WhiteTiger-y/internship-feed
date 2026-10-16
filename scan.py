@@ -587,7 +587,22 @@ def page_text(raw):
         except Exception:
             pass
     t = clean_lines(re.sub(r"(?is)<(script|style|noscript|nav|footer|header)[^>]*>.*?</\1>", " ", raw))
-    return t if len(t) >= 500 and re.search(r"responsibilit|qualification|requirement|what you|you will", t, re.I) else ""
+    return trim_to_jd(t) if len(t) >= 500 and re.search(r"responsibilit|qualification|requirement|what you|you will", t, re.I) else ""
+
+RE_JD_START = re.compile(r"^(about (the|this) (role|team|job|position|opportunity)|job (description|summary|overview)|"
+                         r"(key )?responsibilities|what you('|\u2019)?ll do|the role|your role|the opportunity|"
+                         r"(position|role) (overview|summary)|overview|team intro(duction)?)\b", re.I)
+
+def trim_to_jd(t):
+    """Drop site navigation before the posting: start a few lines above the first heading or full sentence."""
+    lines = t.splitlines()
+    for i, ln in enumerate(lines):
+        if RE_JD_START.search(ln.strip()):
+            return "\n".join(lines[max(0, i - 8):])   # keep the title / location block just above
+    for i, ln in enumerate(lines):
+        if len(ln.split()) >= 12 and re.search(r"[.!?:]$", ln.strip()):
+            return "\n".join(lines[max(0, i - 3):])
+    return t
 
 def enrich_simplify(budget_s=600):
     tp = os.path.join(DATA, "tags.json")

@@ -1,30 +1,3 @@
-##
-Company:
-Qualcomm Canada ULC
-## Job Area:
-Interns Group, Interns Group > Interim Engineering Intern - Systems
-## Qualcomm Overview:
-Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform
-industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform
-5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
-General Summary:
-About Qualcomm
-Qualcomm relentlessly innovates transforming businesses, enriching lives and fortifying societies. Our solutions are pivotal in crafting a smarter,
-interconnected world. Building on our nearly 40-year history of era-defining technology breakthroughs, we deliver leading-edge AI, high performance, lower-power
-computing, and unrivaled connectivity. We’re proud to be the partner of choice to many of the world’s largest enterprises. Together with our ecosystem partners,
-we enable next-generation digital transformation. At Qualcomm, we are engineering human progress.
-Join Us in Shaping the Future
-At Qualcomm, we're committed to engineering human progress by delivering intelligent computing everywhere. We're passionate about harnessing the power of
-technology to transform industries and improve lives. Our early career programs offer limitless opportunities for growth, mentorship, and meaningful work. By
-joining our team, you'll be part of a community that's pushing the boundaries of what's possible in AI, computing, and connectivity. With a global footprint
-spanning over 30 countries, you'll have the chance to collaborate with diverse talent and contribute to projects that are shaping the future of technology.
-Our early career programs are designed to attract inventive minds, offering a platform to contribute to our long-term innovation pipeline. You'll be part of a
-community that values collaboration, creativity, and continuous learning. Our programs provide real-world experience, technical skills, and professional
-development opportunities, empowering you to make a meaningful impact and achieve your career goals. Join us for our 2027 intern class in Markham, Canada!
-Maximize Your Opportunities:
-Our internship hiring model routes candidates from this application into multiple project specific roles. Your "Profile Visibility" choice will guide how we
-manage your data across our systems. To be considered for the full breadth of internship opportunities, select the option to use your profile data for "Any
-Roles Globally".
 If you choose to limit your data to "Only The Role I'm Applying For", it will restrict the opportunity for you to be considered across matching internship
 opportunities.
 You can update your profile visibility preferences at any time through the Candidate Home Portal.

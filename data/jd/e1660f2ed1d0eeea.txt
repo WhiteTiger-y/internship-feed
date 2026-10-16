@@ -1,15 +1,3 @@
-Western Digital Spring 2027 Co-Op - AI Systems Strategy | SmartRecruiters
-- Google Chrome
-- Microsoft Edge
-- Apple Safari
-- Mozilla Firefox
-Spring 2027 Co-Op - AI Systems Strategy
-- Intern
-- Job Type (exemption status): Non-Exempt position - Please see related compensation & benefits details below
-- Salary Range: 30.67-40.89
-- Business Function: Engineering Support
-- Work Location: Rochester Office--LOC_HGST_PLR
-Company Description
 WD is building the infrastructure behind the AI-driven data economy.
 As AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s
 where we come in.

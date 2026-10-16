@@ -1,27 +1,3 @@
-Data & AI Engineering Intern (Master's Level) - Summer 2027 - 216238 - Electronic Arts
-Data & AI Engineering Intern (Master's Level) - Summer 2027
-Home
-...
-Open Roles
-Role Detail
-General Information
-Locations : Austin, Texas, United States of America
-Role ID
-216238
-Worker Type
-Intern - Temporary Employee
-Studio/Department
-CT - Data & Insights
-Work Model
-Hybrid
-Description & Requirements
-Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a
-community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play
-happen.
-Data and AI Engineering Intern
-Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a
-community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play
-happen.
 EA's Central Technology Organization is a diverse group of engineering and AI disciplines working closely with teams across the company to power the future of
 interactive entertainment. Our mission is to partner with our global game studios and business units to deliver intelligent player experiences through advanced
 data platforms, agentic AI, and cutting-edge software engineering.
