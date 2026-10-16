@@ -1,0 +1,118 @@
+Data Science PhD Intern, 2027 — Google Careers
+Careers Careers
+home Home
+work_outline Jobs
+expand_more
+noogler_hat Students
+expand_more
+google How we work
+expand_more
+handyman How we hire
+expand_more
+person_outline Your career
+expand_more
+job details
+arrow_back
+Back to jobs search
+Jobs search results
+3,679 jobs matched
+Senior Software Engineer, Ask Google Pay
+Singapore
+NPI Product Quality Technical Program Manager
+New Taipei, Banqiao District, New Taipei City, Taiwan
+Director, Business Planning and Monetization
+Sunnyvale, CA, USA ; Seattle, WA, USA
+Software Engineer, Google Pay, Growth and Communications
+Singapore
+Account Manager, Large Customer Sales, Export
+Sydney NSW, Australia
+Product Manager, Deep Zoom, DeepMind
+Mountain View, CA, USA
+Staff Software Engineer, Reef Intent Engine
+San Jose, CA, USA ; Kirkland, WA, USA ; +2 more ; +1 more
+Account Manager, Engage, GCS
+Gurugram, Haryana, India
+Group Product Manager, Wearables Platform, Wear OS
+Mountain View, CA, USA
+Senior Technical Program Manager, NPI Manufacturing, Pixel Watch
+Hanoi, Ha Noi, Vietnam
+Software Engineering Manager, Cloud and Third-Party Platform Security
+Singapore
+Software Engineer III, Pixel Performance
+New Taipei, Banqiao District, New Taipei City, Taiwan
+Data Center Site Lead, Data Center Operations
+Sterling, VA, USA
+Product Marketing Manager, Developer Programs, Google Cloud
+Singapore
+Senior Product Manager, Search
+Mountain View, CA, USA
+Network Implementation Engineer, Network Delivery Implementation
+Haskell, TX, USA
+Cyber Defense Detection Engineer, Mandiant, Google Cloud
+Ohio, USA ; United States | Remote eligible
+Account Strategist, SBS Scaled, Google Customer Solutions (English, Japanese)
+Tokyo, Japan
+Data Center Technician (Night Shift)
+Haskell, TX, USA
+Senior PCB Layout Engineer, Google Cloud
+Sunnyvale, CA, USA
+Showing 1 to 20 of 3679 rows 1‑20 of 3679
+navigate_next
+Go to next page
+arrow_back
+Back to jobs search
+Data Science PhD Intern, 2027
+share Share Data Science PhD Intern, 2027
+- link Copy link
+- email Email a friend
+corporate_fare Google place London, UK bar_chart Intern & Apprentice
+Apply
+share Share Data Science PhD Intern, 2027
+- link Copy link
+- email Email a friend
+info_outline
+X
+Please complete your application before 23rd October 2026. We encourage you to apply as early as possible as we review applications on a rolling basis.
+This internship is intended for students enrolled in their penultimate/final year of studies in an accredited full-time PhD degree program located in the EMEA
+region. Participation in the internship program requires that you are located in the UK for the duration of the internship program. Interns will be required to
+be available to work full-time for a minimum of 13 weeks over the Summer 2027 (starting in May, June or July) for the duration of the program.
+To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Click on the “Apply” button
+on this page and provide the required materials in the appropriate sections (PDFs preferred):
+1. In the “Resume Section:” attach an updated CV or resume
+2. In the “Education Section:” attach a current or recent unofficial or official transcript in English.
+Under “Degree Status,” select “Now attending” to upload a transcript.
+Please include your expected graduation date (month and year), and availability for the internship on your resume. The specific team and project(s) will be
+determined based on your educational background, interest and skills.
+Minimum qualifications:
+- Currently enrolled in a PhD program in Statistics, Biostatistics, Computer Science, Mathematics, Operations Research, or a related technical field involving
+experimental design and quantitative analysis of experimental data, and in your penultimate year of study.
+- Experience working with datasets using Python, R, SAS, MATLAB, or other statistical software.
+- Experience with methods of statistical data analysis (e.g., linear models, hypothesis testing, multi-level models, Bayesian methods, etc.).
+Preferred qualifications:
+- Experience with causal inference methods.
+- Experience developing intellectual capital such as peer-reviewed publications.
+- Ability to complete a minimum internship 13 weeks in the UK starting between May-July 2027.
+About the job
+Google's data scientists work within our Software Engineering organization, including Search, YouTube, and Google Ads. We analyze sets of data and continually
+run live experiments in order to help drive critical decisions at Google. Specifically, we support the development of innovative, highly scalable, next-
+generation technologies through research and advanced analysis.
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to address some of technology's greatest
+challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive
+scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to
+YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+Responsibilities
+- Provide research on topics including Google's business model and search techniques.
+- Produce quantitative and qualitative modeling of business dynamics, user behavior, and more.
+- Identify areas for further investigation as well as creating innovative methods of analysis.
+Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's Applicant and
+Candidate Privacy Policy .
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we
+serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation,
+gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including
+breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO
+Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire .
+If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles
+unless stated otherwise in the job posting.
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization
+location. Google is not 

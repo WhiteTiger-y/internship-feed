@@ -1,0 +1,20 @@
+About Cubist
+Cubist Systematic Strategies, an affiliate of Point72, is one of the world’s premier investment firms. The firm deploys systematic, computer-driven trading
+strategies across multiple liquid asset classes, including equities, futures, and foreign exchange. The core of our effort is rigorous research into a wide
+range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
+Job Description
+The Central Research Technology team, which builds strategic solutions for research and live trading of quantitative strategies across multiple frequencies and
+products, is seeking a highly talented intern to work with the team in January. This is a unique opportunity to help design and build the next generation of
+research and quant trading systems for Cubist.
+Desirable Candidates
+- Undergraduate or graduate candidates in computer science or engineering
+- Significant experience in Python and/or C++
+- Interest in open source research tools for data science and machine learning
+- Basic knowledge of linux, git, conda, and CI processes
+- Knowledge of cloud, databases and distributed or streaming compute is a plus
+- Reasonable quantitative and statistical skills
+- Experience with Finance preferred
+- Clear, concise, and proactive communicator
+- Detail oriented and quick learner in a fast-paced environment
+- Team player with strong pride of ownership
+- Commitment to the highest ethical standards

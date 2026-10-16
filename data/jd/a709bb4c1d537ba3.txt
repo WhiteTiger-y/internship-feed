@@ -1,0 +1,51 @@
+Summary: Under the general supervision of the Software Services Director and an assigned mentor, the Data Intern will perform a variety of functional and
+administrative duties in accordance with established firm policies and procedures. The intern will collaborate with department team members on specific short-
+and long-term projects related to their field of study and firm priorities. Activities will be assigned based on business needs and learning opportunities for
+the intern.
+Internship Eligibility: The BT RISE Internship Program is designed to introduce students in specified fields of study to the day-to-day operations of a law
+firm. Candidate’s skill, knowledge, aptitude, and education will be considered during the selection process. To be eligible candidates must:
+Entering their sophomore, junior, or senior year in the Fall of 2027.
+Be enrolled in a 2-4 year undergraduate degree program at the time of the internship
+Be available to participate for 10 consecutive weeks
+Be pursuing a degree in data analytics, data science, computer science, information systems, business analytics, technology, or another related field
+Key Responsibilities:
+Support the assigned department in delivering work that advances business initiatives.
+Assist with data preparation, organization, validation, and quality control activities.
+Support data analysis and reporting activities including identifying patterns, trends, inconsistencies, and opportunities for improvement.
+Assist with the development, documentation, and maintenance of data processes, workflows, and procedures.
+Support activities related to the development and implementation of the firm's data lake including data integration, data management, data quality, metadata,
+and data governance.
+Collaborate with team members and business stakeholders to understand project needs and contribute to assigned projects.
+Participate in internal and external meetings to gain an understanding of the firm's business operations, technology, and the role of data in supporting
+business decisions.
+Collaborate with other departments and summer interns, where applicable
+Maintain the confidentiality and security of firm and client information and comply with applicable firm policies and procedures.
+Qualifications:
+Currently enrolled in an accredited college or university and pursuing a degree in data analytics, data science, computer science, information systems,
+technology, or another related field.
+Demonstrated interest in data, technology, analytics, business intelligence, or process improvement.
+Basic understanding of data concepts including data collection, organization, quality, analysis, and interpretation.
+Ability to learn new technologies, systems, processes, and concepts quickly.
+Strong interpersonal skills necessary to communicate in person, by email, phone, and virtually.
+Problem solving skills and the ability to approach unfamiliar challenges.
+Strong analytical and critical thinking skills with the ability to identify patterns, trends, inconsistencies, and opportunities for improvement.
+Strong attention to detail and the ability to produce accurate and timely work.
+Ability to handle confidential information appropriately and follow established firm policies and procedures.
+The following are helpful but are not required:
+Experience with Microsoft Excel and other data analysis or reporting tools.
+Coursework or experience involving statistics, data analysis, databases, or data visualization
+Exposure to tools or technologies used for data analysis, reporting, or business intelligence
+Working Conditions
+Onsite work required.
+Work is performed in a professional office environment.
+Specific work hours for this position will be assigned; generally, core business hours. The requirements may occasionally vary depending on the needs of the
+firm.
+This job description is intended to describe the general nature and level of work performed by individuals in this position. It is not intended to be an
+exhaustive list of all duties, responsibilities, qualifications, or working conditions. Duties and responsibilities may be modified as business needs change.
+Equal Employment and Opportunity Statement:
+Barnes & Thornburg is committed to equal employment opportunity in both principle and as a matter of policy. We will recruit, hire, train, promote, compensate
+and provide benefits to all applicants and employees without regard to ancestry, sex, race, color, ethnicity, national origin, gender, age, religion, religious
+creed, mental and/or physical disability, medical condition, military and/or veteran’s status, genetic information, marital status, sexual orientation, gender
+identity and/or expression, or any other basis protected by applicable federal, state and local laws. This policy applies to all recruiting, hiring, promotions,
+upgrades, layoffs, compensation, benefits, terminations and all other privileges, terms and conditions of employment. The firm complies fully with all federal,
+state and local equal employment opportunity laws.

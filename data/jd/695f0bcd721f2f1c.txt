@@ -1,0 +1,28 @@
+As a team member in Finance at Nationwide, a Fortune 100 company with nearly $70 billion in annual sales, the opportunities are endless! Let Nationwide help
+create your career journey! At Nationwide®, “on your side” goes beyond just words. Our customers are at the center of everything we do and we’re looking for
+associates who are passionate about delivering extraordinary care. Job Description Summary Job Description Nationwide Insurance is seeking candidates for
+Feature Engineer Intern positions to join the Enterprise Analytics Office (EAO) from May to August 2027 in Columbus, Ohio. The Feature Engineer team works with
+Data Scientists to transform AI/ML models into integrated solutions contributing to company success. In this role, you will collaborate closely with data
+scientists to design, build, and maintain robust data pipelines that support machine learning models and advanced analytics. Your role will be to transform raw
+data into reliable, well-documented datasets optimized for analysis and modeling. Candidates should be pursuing a graduate degree in any of the following areas:
+Computer Science, Computer Information Systems, Computer Engineering, Software Engineering, Web Development, Information Technology, or related fields. Required
+Experience: Candidates should demonstrate hands on experience with the following expectations: Knowledge of common Linux/Unix commands and functions
+Accomplished self-learner, demonstrating an awareness of technology trends and ability to learn and teach. Analyzes and resolves moderately complex issues
+related to application support and logging Implement solutions with complex business requirements and systems integrations Collaborate with cross-functional
+teams to understand data requirements and deliver high-quality datasets Prepares detailed specifications, requirements, scope documents, and logic flowcharts
+for the development and implementation of the most complex application programs and modifications Application testing to ensure that the provided solution is
+executable, testable, complete and not ambiguous while meeting all end-user requirements Understanding of data governance principles and best practices
+Experience with or interest in ETL/ELT development and data pipeline architecture Proficiency in SQL and either Python or R Familiarity with statistical and
+machine learning concepts Understanding of data governance principles and best practices Additional Experience: Hands-on experience with cloud data platforms
+such as AWS, Databricks, or Snowflake Exposure to DataOps or MLOps methodologies and tools Generative AI design and implementation Version Control (GitHub) Test
+Automation Technologies (PyTest, jUnit, etc.) API Technology (Apigee, OAS "Swagger", REST/JSON, Splunk, Javascript) Nationwide does not participate in the Stem
+OPT Extension program. At its sole discretion, Nationwide determines whether to offer sponsorship for qualifying positions based on business need and budget.
+However, it is not usually available for entry level roles. Nationwide pays on a geographic-specific salary structure and placement within the actual starting
+salary range for this position will be determined by a number of factors including the skills, education, training, credentials and experience of the candidate;
+the scope, complexity and location of the role as well as the cost of labor in the market; and other conditions of employment. The national hourly pay range for
+Nationwide Internships is: $23 - $50 At Nationwide, we find purpose in protecting people, businesses and futures with extraordinary care – and we’ve been doing
+that since 1926. Our financial strength and caring culture extend beyond our associates into the communities we serve. You really can feel the difference at
+Nationwide, which is why we continue to be named one of the Fortune 100 Best Companies To Work For. Check out why others think we're a great place to work, too,
+and let us know – can you see yourself at Nationwide? Nationwide is an equal opportunity employer. We celebrate diversity and are committed to creating an
+inclusive culture where everyone feels challenged, appreciated, respected and engaged. Nationwide prohibits discrimination and harassment and affords equal
+employment opportunities to employees and applicants without regard to any characteristic (or classification) protected by applicable law.

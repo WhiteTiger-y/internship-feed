@@ -1,0 +1,102 @@
+Job Application for Machine Learning Engineer Intern - Summer 2027 at IMC
+Back to jobs
+Machine Learning Engineer Intern - Summer 2027
+New York, United States
+Apply
+Our 10-week internship is your chance to experience life as a Machine Learning Engineer at IMC. You’ll have the support you need to succeed: educational
+trainings and a mentor who will oversee your work and professional development. We provide a highly competitive compensation package with accommodations
+included. The bar for talent at IMC is high and interns who meet our performance expectations will have the opportunity to secure a graduate position at the end
+of the program. Where you go from here is up to you!
+As a Machine Learning Engineer intern at IMC, you’ll play a pivotal role in building systems that drive the training and deployment of large-scale ML models
+across our global operations. You'll collaborate with leading researchers, hardware experts, and software engineers to build robust solutions that maximize the
+potential of GPU acceleration, distributed computing, and the latest open-source tools. Your work will influence our trading strategies by accelerating
+experimentation cycles that foster continuous innovation and refinement.
+This is a unique opportunity to solve problems at the intersection of advanced machine learning and trading, where your contributions will shape the future of
+IMC's technology and trading capabilities.
+Your Core Responsibilities:
+- Work on meaningful and challenging projects that have the potential to impact our business
+- Participate in classroom-based training covering an overview of financial markets, IMC technology and coding fundamentals
+- Build valuable connections with traders and technologists in an environment that rewards problem solving, innovation and teamwork
+- Engage in professional development sessions aimed at helping you envision your future at IMC
+- Attend a full schedule of events and social activities throughout the summer to get to know your cohort and IMCers
+Your Skills and Experience:
+- Current university student graduating between September 2027 - July 2028 that is pursuing a Computer Science, Engineering, or a related technology degree
+- Strong knowledge of algorithms and data structures is required
+- Must have proficient experience in a programming language (C++ or Python preferred)
+- Strong analytical skills and interest in solving complex problems programmatically
+- Desire to collaborate with technical and non-technical teammates in a dynamic environment
+- Interest in the Financial Markets; previous knowledge is NOT required
+- Must be able to start internship on June 7, 2027
+You may submit one application per role each year. We strongly encourage you to focus on applying to a single role that best matches your skills and interests.
+Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role.
+If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season
+begins in 2027.
+The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible
+for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information.
+Base Salary: $200,000
+#LI-DNP
+About Us
+IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in
+markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology
+and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective,
+combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage.
+Create a Job Alert
+Interested in building your career at IMC? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+Start date month * Select...
+Start date year *
+End date month * Select...
+End date year *
+Add another
+When did you graduate from High School? * Select...
+Select your Standardized Test score type: * Select...
+Provide your best result on SAT: * Select...
+Provide your best result on ACT: * Select...
+When is your anticipated graduation date - please select a Graduation Date range: * Select...
+What is your GPA? * Select...
+Will you require immigration sponsorship to begin working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B, H-4 EAD, L-1,
+L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select...
+Will you require immigration sponsorship in the future to continue working for IMC? Examples of sponsorship would include (but is not limited to) F-1 OPT, H-1B,
+H-4 EAD, L-1, L-2, TN, O-1, J-1, E-1/E-2, and E-3. * Select...
+Is there any other context you’d like to share about your U.S. Immigration sponsorship needs?
+Have you applied to this role or another role @IMC within the last 12-18 months?
+As a reminder, if you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next
+recruitment season begins in 2027. * Select...
+Are you considering or committed to pursuing further education immediately after completing your current academic studies? * Select...
+Do you currently have any offers? * Select...
+If you answered "Yes" above, please specify relevant details (company name, job title, deadline date).
+Please indicate which of the following programming languages you are proficient in (select all that apply): *
+Java
+C++
+Python
+None of the above
+Please provide your university email address. *
+Privacy Statement * Select...
+Please read the terms and conditions of the IMC Privacy Statement .
+Interview Code of Conduct * Select...
+Please review and agree to the IMC Interview Code of Conduct before submitting your application.
+IMC Voluntary Disclosure
+At IMC, we understand the importance of diversity, equity and inclusion, and are committed to continually improving this in our recruitment process. As part of
+our commitment, we have added an additional question below, to better understand our candidates, and focus our marketing, sourcing and interviewing efforts, to
+ensure equitable outcomes. This question is voluntary, and the information you provide will only be used for the purpose stat

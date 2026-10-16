@@ -1,0 +1,31 @@
+By submitting your resume, you’re expressing interest in our 2027 RDSS ( Research and Development Substitute Services ) program . Please confirm your
+eligibility with the local district office before applying for the role.
+NVIDIA has continuously reinvented itself over two decades. NVIDIA’s invention of the GPU in 1999 fueled the growth of the PC gaming market, redefined modern
+computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting
+as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Now, we are now looking for System Software Engineer -
+Silicon (RDSS Intern)! You will work directly in the CPU software fields across various products (Server, Embedded, and Automotive)
+What you’ll be doing:
+Develop and debug system software across pre-silicon simulation/emulation and physical hardware environments, including simulator/emulator/platform bring-up,
+chip-level firmware development, integration, and validation.
+Apply modern GenAI techniques and tools, from prompt engineering to agentic, graph-based workflow orchestration, to debug, improve, and optimize existing
+engineering workflows such as evidence retrieval, debug triage, and root-cause analysis.
+Validate AI-generated results against authoritative engineering evidence, ensuring that engineers retain ownership of final technical decisions.
+Collaborate with senior engineers and global teams, and produce high-quality technical documentation.
+What we need to see:
+MS in CS, CE, EE, Systems Engineering or related software/hardware engineering major.
+Ability to independently break down ambiguous and complex engineering problems into manageable, testable tasks.
+Strong programming skills in C, with working knowledge of Python or another scripting language.
+Solid understanding of embedded systems, computer architecture, and ARM-based platforms.
+Practical familiarity with modern GenAI concepts and tools, along with the ability to evaluate AI-generated results critically against engineering evidence.
+Written and verbal communication skills in English, with the ability to collaborate effectively across global teams.
+Ways to stand out from the crowd:
+Strong system-level debugging and problem-solving skills, including the ability to analyze logs, traces, failures, and complex hardware-software interactions.
+Experience with pre-silicon simulation or emulation, platform bring-up, chip firmware, device drivers, or post-silicon debugging.
+Experience building debug tools, test infrastructure, workflow automation, APIs, or developer productivity solutions.
+Understanding of GenAI evaluation, evidence grounding, data provenance, observability, and failure analysis. Experience using AI-assisted tools to improve a
+real engineering workflow, with measurable improvements in quality, efficiency, or debugging time.
+Curiosity, sound technical judgment, and a strong motivation to learn and grow through practical contributions.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex,
+gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are
+provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits
+and privileges of employment. Please contact us to request accommodation.

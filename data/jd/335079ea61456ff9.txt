@@ -1,0 +1,74 @@
+Job Application for Enterprise Data Intern at The MJ Companies
+Back to jobs
+Enterprise Data Intern
+Carmel, Indiana, United States
+Apply
+Role Overview
+This 12-week internship offers a hands-on, rotational experience within MJ's Enterprise Data team, designed for a curious and motivated student interested in
+software engineering, data, analytics, and technology.
+Interns will rotate across the team's three core disciplines: Software Engineering, Data Engineering, and Business Intelligence (BI) Development , contributing
+to real projects and gaining practical exposure to how modern enterprise applications, data platforms, and analytics solutions are designed, developed, and
+supported.
+Throughout the rotation, interns will work alongside members of each team, gaining experience with software development practices, data engineering and database
+technologies, and reporting and data visualization. The internship culminates in a capstone project and presentation to MJ associates and leadership, allowing
+the intern to apply the technical and professional skills developed throughout the summer to a meaningful business problem.
+Key Responsibilities
+Key Responsibility 1
+- Participate in a rotational experience across Software Engineering, Data Engineering, and BI Development, with opportunities to:
+- Contribute to software development initiatives and gain exposure to enterprise application development practices and technologies
+- Write and work with SQL queries for data extraction, transformation, analysis, and application needs
+- Support data engineering initiatives, including data processing, integration, and pipeline development
+- Build and enhance Power BI reports and dashboards that support internal stakeholders and clients
+- Use programming and scripting languages such as .NET, Python, or similar technologies to support application development, automation, and data processing
+Key Responsibility 2
+- Participate in a capstone project that applies technical and analytical skills to solve a real business problem. The project may involve software development,
+data engineering, process automation, reporting and visualization, or analytics, and will culminate in a presentation to MJ associates and leadership.
+Key Responsibility 3
+- Contribute to the quality and maintainability of MJ's technology and data solutions through activities such as testing, documentation, data validation, code
+review, and adherence to established development and data practices.
+Key Responsibility 4
+- Collaborate with software engineers, data engineers, BI developers, business analysts, and other stakeholders while developing professional skills in problem
+solving, communication, teamwork, and working within an enterprise technology environment.
+Required Qualifications
+- Pursuing a Bachelor's degree in Computer Science, Data Science, Information Systems, Business Analytics, Mathematics, Statistics, or a related technical
+field.
+- Junior or senior standing by Summer 2027, or equivalent academic progress.
+- By Spring 2027, successful completion of coursework in data structures and algorithms and database design , or equivalent academic or practical experience.
+- Coursework or practical exposure to data analysis and/or data visualization .
+- Programming experience through coursework, projects, or other practical experience, with exposure to at least one general-purpose programming language.
+Experience with C#, Java, C++, or another C-like/object-oriented language is preferred.
+- Exposure to SQL and relational database concepts.
+- Exposure to Python, Power BI, or similar data and analytics technologies is preferred but not required.
+- Strong analytical and problem-solving abilities.
+- Effective written and verbal communication skills.
+- Curiosity, adaptability, and eagerness to learn new technologies and work across multiple technical disciplines.
+Create a Job Alert
+Interested in building your career at The MJ Companies? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+LinkedIn Profile
+Website
+Submit application

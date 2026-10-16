@@ -1,0 +1,50 @@
+About Snorkel
+Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We combine technology with
+research-driven AI data development to create datasets, benchmarks, evals, and custom solutions for real-world AI systems. Founded out of the Stanford AI Lab in
+2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.
+Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!
+Research Fellow
+About the Role
+As a Research Fellow at Snorkel, you’ll build open benchmarks and evaluation environments that help shape how AI progress is measured. This fellowship is for
+PhD students and postdocs who want to turn important questions in their fields into new ways to evaluate AI capabilities.
+You’ll own the project from the initial research question through public release, setting its direction and leading its development. A Snorkel researcher will
+serve as your co-advisor, and you’ll have access to Snorkel’s broader resources, including paid time from credentialed domain experts and compute to run
+experiments and evaluate frontier models.
+You’ll retain your academic affiliation while spending at least one day a week with Snorkel’s research team, including in person in our San Francisco or New
+York offices where applicable.
+What you’ll do
+- Scope and lead a new benchmark, dataset, or environment in a domain where current evaluations fall short
+- Define the task specification, rubrics, and reference answers with domain experts from Snorkel's network, and run the expert review process
+- Release the research artifact publicly, with you as lead author.
+- Join weekly research meetings to share progress, receive feedback, and contribute to other researchers’ projects
+What you'll get
+- A Snorkel research co-advisor matched to your project
+- Domain Experts, compute, and engineering support for your project
+- An open-source academic artifact released as a part of your work
+- Time with Snorkel’s research team and other fellows, plus access to research and community events
+- Research communications support to share your findings with the broader community
+- A firsthand view of how a leading data research lab bridges academic research and work with frontier labs and enterprises
+What we’re looking for:
+- You’re excited to advance how AI is evaluated in your field and have the research background to design and build open benchmarks, datasets, or environments.
+- You have demonstrated the ability to turn research ideas into working code, datasets, tools, or other usable research artifacts
+- You work well with domain experts outside your own field and can turn their judgment into a specification
+- You can scope a project to a public release within the fellowship term
+Nice to have:
+- Publications at venues such as NeurIPS, ICML, ICLR, or the top venues in your own discipline
+- Experience with agentic evaluation, RL environments, or LLM evaluation harnesses
+- Deep expertise in a domain where expert-level evaluation is scarce, such as the sciences, medicine, law, finance, or engineering
+Salary range(s) for this role
+Hourly ranges from $85-$165+/hour. Actual compensation will be determined based on factors including skills, qualifications, experience, and geographic
+location.
+Be Your Best at Snorkel
+Joining Snorkel AI means becoming part of a company that has market proven solutions, robust funding, and is scaling rapidly—offering a unique combination of
+stability and the excitement of high growth. As a member of our team, you’ll have meaningful opportunities to shape priorities and initiatives, influence key
+strategic decisions, and directly impact our ongoing success. Whether you’re looking to deepen your technical expertise, explore leadership opportunities, or
+learn new skills across multiple functions, you’re fully supported in building your career in an environment designed for growth, learning, and shared success.
+Snorkel AI is proud to be an Equal Employment Opportunity employer and is committed to building a team that represents a variety of backgrounds, perspectives,
+and skills. Snorkel AI embraces diversity and provides equal employment opportunities to all employees and applicants for employment. Snorkel AI prohibits
+discrimination and harassment of any type on the basis of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran
+status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local law. All employment is decided on
+the basis of qualifications, performance, merit, and business need.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform
+essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

@@ -1,0 +1,40 @@
+To qualify for US internships, you must be currently enrolled in a degree-seeking program with an expected graduation date after the internship/co-op ends. If
+you do not meet this requirement, we invite you to explore other opportunities available on our careers website.
+Intuit internships are 12 weeks throughout the summer. We have fixed start and end dates that are designed to work with various universities’ academic
+calendars.
+- Cohort 1: Monday, May 17 - Friday, August 6, 2027 (12 weeks)
+- Cohort 2: Monday, June 14 - Friday September 3, 2027 (12 weeks)
+About our Emerging Talent Program:
+Intuit invests in Emerging Talent because fresh perspectives strengthen our products and teams. The program is backed by a culture that values curiosity and
+collaboration, and you'll be supported by dedicated managers and mentors who are invested in your growth. As an intern or co-op, you'll work on meaningful
+projects with business impact, many centered on AI and emerging technologies, and contribute to driving decisions. You'll build skills through function-specific
+learning opportunities, connect with a global community of interns and co-ops through dedicated programming and social events, and get exposure to senior
+leadership and cross-functional work across Intuit's product ecosystem. Learn more about our Intern and Co-op Program here .
+We are hiring AI research interns to join a high-caliber team of research scientists, domain experts, data scientists, and machine learning engineers working on
+foundational AI problems that directly influence Intuit's portfolio of fintech offerings to millions of consumers and small businesses. As a research intern,
+you'll work on cutting-edge AI technologies including robust and safe AI, neuro-symbolic AI (knowledge representation and learning, constraint satisfaction),
+reinforcement learning, agents and multi-agent systems, post-training and inference-time scaling in language models, and decision theory — researching and
+applying the latest innovations to develop advanced capabilities, push the state of the art in AI, and improve our customer experience.
+Responsibilities
+- Design and run experiments to explore open research questions in your area of focus (e.g., generative AI, reinforcement learning, neuro-symbolic AI).
+- Develop and prototype novel models, algorithms, or methods, and rigorously evaluate them against relevant baselines.
+- Read, synthesize, and build on current AI research literature to inform your approach and identify promising directions.
+- Partner with research scientists, data scientists, and machine learning engineers to connect research findings to real product and customer impact.
+- Document your methodology, findings, and code clearly, and present your work to both technical and non-technical audiences.
+- Contribute to publication-quality write-ups of your research where applicable.
+Qualifications
+- Current enrollment in a PhD program in Computer Science, Electrical Engineering, Statistics, Applied Mathematics, or a related field, with an expected
+graduation date after the internship ends
+- Must be legally authorized to work in the United States on a full-time basis for the duration of the internship
+- Ability to work in a hybrid environment at an Intuit office location determined by your team and role (Relocation stipend will be provided)
+- Experience in one area of AI (e.g., natural language processing, large language modeling, generative AI, uncertainty quantification, reinforcement learning,
+algorithmic foundations of optimization, or similar).
+- Established track record of publication, ideally with first-author papers at top-tier AI conferences (e.g., NeurIPS, ICML, ACL, AAAI, EMNLP, AISTATS, KDD).
+- Experience developing and debugging in Python with TensorFlow, PyTorch, or similar frameworks.
+- Experience disseminating scientific work in English through paper submissions and conference presentations.
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity
+rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits ). Pay
+offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts
+regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is: $64.20 - $86.68 /hr.
+The expected base pay range for this position is:
+Mountain View $50.5 - $89.5

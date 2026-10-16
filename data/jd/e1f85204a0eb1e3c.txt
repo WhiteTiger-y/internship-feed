@@ -1,0 +1,28 @@
+Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers,
+robots, and self-driving cars that can understand the world. We are the DevTech team serving the robotics ecosystem in China. As NVIDIA DevTechs, we are defined
+as experts in application optimization on NVIDIA platforms — through code optimization, new application architectures, and cutting-edge DL/ML algorithms. Our
+mission spans performance analysis & modeling, applying modern DL/ML techniques to real-world problems, deep-diving on GPU architecture, building
+samples/libraries/SDKs, and collaborating with architecture, software engineering, and product management to improve NVIDIA’s current and future platforms. We
+are looking for a passionate intern to work on Robotics Foundation Model training and inference — powering the next generation of intelligent robotic systems on
+NVIDIA’s platform.
+What You’ll Be Doing:
+Develop and optimize training pipelines for robotics foundation models (e.g., vision-language-action models, world models) on NVIDIA GPU clusters
+Profile, analyze, and optimize model inference performance on NVIDIA platforms
+Apply modern DL/ML techniques to real-world robotics problems
+Collaborate closely with NVIDIA architecture, research, libraries, tools, and system software teams to influence the design of next-generation architectures,
+software platforms, and programming models
+Build samples, reference implementations, and documentation to educate developers on NVIDIA robotics AI technologies
+Discuss your approach and results together with senior DevTech engineers
+What We Need to See:
+Currently pursuing a Master’s or PhD degree in Computer Science, Robotics, AI/ML, Electrical Engineering, or a related technical field
+Strong programming skills in Python; familiarity with C/C++ and CUDA is a plus
+Experience with deep learning frameworks (PyTorch,)
+Understanding of transformer architectures and large-scale model training
+Basic knowledge of robotics concepts (kinematics, control, perception, or simulation)
+Curious, self-motivated, and excited about solving open-ended challenges at NVIDIA
+Ways to Stand Out from the Crowd:
+Experience with distributed training (DeepSpeed, Megatron-LM, FSDP, NeMo)
+Experience with inference optimization (SGlang, vLLM)
+Familiarity with NVIDIA robotics platforms (Isaac Sim, Isaac Lab, GR00T)
+Publications or project experience in embodied AI or robotics foundation models
+Ambitious to grow and learn about building ML applications, optimization, and software engineering

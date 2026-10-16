@@ -1,0 +1,50 @@
+AI Research Scientist - Intern [2027 Summer] - New York - Two Sigma Careers
+AI Research Scientist - Intern [2027 Summer]
+Location
+NY New York
+United States
+Business
+Investment Management
+Function
+Quantitative Research
+Experience Level
+Internship
+Apply
+Share this job
+Email
+LinkedIn
+Position Summary
+Two Sigma is a financial sciences company, combining data analysis, invention, and rigorous inquiry to help solve the toughest challenges in investment
+management, securities, private equity, and venture capital.
+Our team of scientists, technologists, and academics looks beyond the traditional to develop creative solutions to some of the world’s most complex economic
+problems.
+We are looking for creative experts who are interested in applying general Machine Learning and specifically Deep Learning, Large Language Models, and
+Reinforcement Learning techniques to many types of problems in complex systems, and particularly those with large amounts of noisy data.
+This role is only open to MS with work experience and PhDs, both in their penultimate year of study.
+You will take on the following responsibilities:
+- Develop effective techniques and/or infrastructure for a specific project/idea under guidance of an experienced member of the team over a time of roughly 10
+weeks during the summer
+- In our research environment, you will write code, use the latest AI and machine learning tools, run experiments, discuss approaches and results with others,
+and generally develop techniques and processes to help improve our understanding of how financial data influences the world around us
+You should possess the following qualifications:
+- Working towards a degree in Computer Science, Engineering, or other STEM field, preferably in a PhD program, or in a Master’s program with some prior work
+experience
+- Excellent programming skills in Python (familiarity with Rust/Java is a plus) and deep knowledge of Tensorflow and/or PyTorch
+- Internships/work/course experience using Deep Learning, LLMs and/or Reinforcement Learning
+- Preferably practical experience writing and using data pipelines to handle large amounts of noisy data for machine learning problems
+- Preferably some relevant research experience (that may have led to publications at NeurIPS, ICML, ICLR or similar)
+- Understanding of basic statistics
+- Experience with cloud computing environments and multi-machine setups
+- Curiosity and interest in learning about financial data modeling in a collaborative environment
+The weekly base pay for this role will be between $5,000/Week (MS) and $5,500/Week (PhD) based on academic degree conferred. This role may also be eligible for
+other forms of compensation and benefits, such as a discretionary bonus, health, dental and other wellness plans and 401(k) contributions. Actual compensation
+for successful candidates will be carefully determined based on a number of factors, including their skills, qualifications and experience.
+We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender
+identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.
+Back to Open Roles
+Don't see a fit at this time?
+Sign up for job alerts to get notified of new openings!
+Log in and get notified
+Don't see a fit at this time?
+Sign up for job alerts to get notified of new openings!
+Log in and get notified

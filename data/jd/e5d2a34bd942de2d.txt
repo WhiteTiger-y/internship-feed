@@ -1,0 +1,38 @@
+NVIDIA Research is seeking extraordinary networking innovators to join our NVResearch team. As a research intern on this team, you will contribute to the
+development of future high-performance networking and computing systems. We are seeking a balanced background of research excellence in building systems and a
+deep understanding and broad perspective across the fields of computer architecture and communication systems for distributed computation. NVIDIA has pioneered
+programmable GPUs and the CUDA language, and this visionary Research team will take those technologies to the next level with its creative ideas and new
+inventions. This position offers you the opportunity to have a real impact while working with some of the most creative and forward-thinking people in the world
+who are here at this dynamic, technology-focused company.
+What you'll be doing:
+- Develop algorithms and design hardware and software, extending the state of the art in computing, networking, and other technology areas surrounding NVIDIA's
+business.
+- Invent new techniques, technologies, methodologies, processes, and devices, to enable new products or types of products. Deliverable results include
+prototypes, patents, and publications.
+- Contribute to research that informs NVIDIA's technology direction 5-10 years out. Work focuses on long-horizon problems rather than products currently
+shipping or in development, except as to how they can be extended and improved.
+- Projects can include but are not limited to: optimizing communication stacks for AI training and inference, designing network protocols and congestion
+control, co-designing AI systems across software and hardware, developing circuits and microarchitecture for network controllers and switches, and architecting
+networks built on optical switching and silicon photonics.
+What we need to see:
+- Pursuing a PhD degree in CS, CE, EE, Physics, Math, or equivalent program.
+- Relevant industry or university research experience (hardware, software, networking).
+- Background in networking architectures, topologies, routing, and system design.
+- Publications at top-tier conferences (ISCA, HPCA, NSDI, SIGCOMM, etc.), or research clearly on track toward them.
+- Hands-on experience with simulation of networks and high-performance computing systems.
+- Familiarity with inference and training systems for AI models and associated communication patterns.
+- Excellent programming skills in a rapid prototyping environment such as Python; C++ and parallel programming.
+- Experience building or using AI agents to accelerate research — automating experiments, analyzing results, or generating and reviewing code.
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA is an industry leader with groundbreaking developments in High-
+Performance Computing, Artificial Intelligence and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of
+our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery and powers what were once science fiction
+inventions from artificial intelligence to autonomous cars. NVIDIA is looking for great research talent to help us accelerate the next wave of computing!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

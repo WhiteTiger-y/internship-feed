@@ -1,0 +1,105 @@
+Job Application for Data Science Intern - Summer 2027 at WhiteWater Midstream
+Back to jobs
+Data Science Intern - Summer 2027
+Austin, TX
+Apply
+WWM Logistics, LLC is seeking a Data Science Intern to support its natural gas trading desk. This role sits at the intersection of daily market reporting and
+deeper quantitative analysis, providing traders with the timely fundamental data they need to evaluate supply and demand, while also partnering with the Data
+Scientist and Strategist on model development aimed at generating trading signals. This is an ideal opportunity for a detail-oriented, quantitatively skilled
+early-career professional looking to build a career in commodity trading and market analytics.
+This role is the natural next step for graduates of WWM's Natural Gas Analyst / Data Science Internship. Completion of the internship is valued but not required
+– we also hire directly into this role.
+Responsibilities:
+Daily Fundamentals Reporting
+- Build, maintain, and deliver standardized daily reports summarizing natural gas supply and demand fundamentals (production, storage, weather-driven demand,
+pipeline flows, rig counts) used directly by traders to inform positioning
+- Own the rollout of these standardized reports and monitor them on an ongoing basis, troubleshooting data issues and refining processes to reduce manual
+turnaround time and improve reliability
+- Monitor and flag material shifts in fundamental data that could influence price movement, escalating findings to traders and senior analysts in real time
+- Maintain data integrity across multiple third-party and internal data sources (e.g., EIA, pipeline bulletin boards, weather services, production estimates)
+Modeling & Analytics
+- Partner with the Data Scientist and Strategist to develop and refine quantitative models aimed at identifying trading signals from fundamental and market data
+- Support back-testing and validation of new analytical approaches, helping translate research into production-ready tools
+- Assist in building supply/demand balance models and scenario analyses across key basins and pipeline systems
+- Contribute to the automation and scaling of data pipelines that feed both daily reporting and longer-term research projects
+Cross-Functional Support
+- Collaborate with traders to understand evolving information needs and adjust reporting/modeling priorities accordingly
+- Support ad hoc analysis requests tied to specific trading opportunities, contract structuring, or market events
+- Document methodologies and maintain clear version control across reporting and modeling tools
+Qualifications:
+Required
+- Bachelor's degree in Business, Finance, Economics, Mathematics, or a related quantitative field, preferably a May 2028 grad.
+- Working knowledge of SQL and Python or similar language for data analysis
+- Demonstrated interest in commodity markets, trading, or energy fundamentals (coursework, internships, trading simulations/competitions, or independent
+projects)
+- Excellent attention to detail and ability to manage recurring deliverables under time pressure
+- Strong written and verbal communication skills; ability to translate technical analysis for a trading audience
+- WhiteWater does not offer housing. Position is required to be in-office at our Austin location
+Preferred
+- Prior completion of WWM's Data Science Internship, or equivalent internship experience in energy trading, fundamentals, or data analytics
+- Master's degree in Business, Finance, Economics, Mathematics, or a related quantitative field
+- Experience with data visualization tools (Power BI, Tableau)
+- Prior exposure to natural gas or broader energy markets
+- Experience with trading simulations, mock portfolios, or derivatives strategy
+- Ability to think critically and explain technical work to other colleagues
+What Success Looks Like in the First Year :
+- Fully owns and continuously improves the daily fundamentals reporting suite, with traders relying on it as a core input to daily decision-making
+- Has contributed meaningfully to at least one modeling initiative alongside the Data Scientist/Strategist that has been incorporated into trading discussions
+- Demonstrates growing fluency in natural gas market structure, pipeline mechanics, and the specific basins/systems relevant to the desk's positions
+Create a Job Alert
+Interested in building your career at WhiteWater Midstream? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Start date year
+End date year
+Add another
+LinkedIn Profile
+Are you legally authorized to work in the United States? * Select...
+Are you willing to undergo a background check, in accordance with local law/regulations? * Select...
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)? * Select...
+Are you comfortable working in an onsite setting? * Select...
+Do you have housing accommodations in the Austin area? Select...
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in WhiteWater Midstream’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+Gender Select...
+Are you Hispanic/Latino? Select...
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the
+receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged
+or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from act

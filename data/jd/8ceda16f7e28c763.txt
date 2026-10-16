@@ -1,0 +1,34 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people.
+NVIDIA Research is looking for research interns to join the AI-Aided Engineering (AIE) team. We develop novel AI methods for physical simulation and engineering
+design, with a focus on neural operators, geometric representations, and large-scale learning. You will work with experienced mentors on research that advances
+the field and has real-world impact. We tailor internship projects to match interns’ expertise, with opportunities to publish at leading conferences and
+journals.
+What you’ll be doing:
+- Research, design, and implement novel AI methods for physical simulation and engineering design.
+- Work collaboratively with your team, mentor and other researchers.
+- Collaborate with product groups to transfer research into practical applications.
+What we need to see:
+- Pursuing a PhD in Computer Science, Applied Mathematics, Physics, Engineering, or a related field.
+- Strong research track record and the ability to develop and evaluate new ideas.
+- Excellent Python programming skills and experience with PyTorch or a comparable framework.
+- Excellent communication skills and the ability to work independently and collaboratively.
+- Strong expertise in at least one of the following:
+- P hysical simulation and engineering: Deep expertise in areas such as computational fluid dynamics (CFD), including running numerical solvers and analyzing
+simulation results, or CAD/NURBS-based geometric modeling and geometry processing.
+- Large-scale deep learning model training: A proven track record training large language models, vision transformers, or other large-scale neural networks.
+Ways to stand out from the crowd:
+- Experience with geometry encoding and learning from meshes, point clouds, or CAD is a strong plus.
+- Experience developing agentic AI systems, particularly for tool use, automated experimentation, or scientific and engineering workflows.
+If you are creative, autonomous, and excited about advancing AI for science and engineering, we want to hear from you!
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package.
+As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

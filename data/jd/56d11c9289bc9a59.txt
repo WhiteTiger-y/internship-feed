@@ -1,0 +1,45 @@
+Data Engineering Intern (Summer 2027)
+Data Engineering Intern (Summer 2027)
+About Us:
+At apexanalytix, we’re lifelong innovators! Since the date of our founding nearly four decades ago we’ve been consistently growing, profitable, and delivering
+the best procure-to-pay solutions to the world. We’re the perfect balance of established company and start-up. You will find a unique home here.
+And you’ll recognize the names of our clients. Most of them are on The Global 2000. They trust us to give them the latest in controls, audit and analytics
+software every day. Industry analysts consistently rank us as a top supplier management solution, and you’ll be helping build that reputation.
+Read more about apexanalytix - https://www.apexanalytix.com/about/
+Quick Take
+The Data Engineering Intern is responsible for developing and deploying data applications, deploying into Kubernetes clusters, and building data pipelines. This
+role involves working with large datasets, implementing monitoring systems, and optimizing data handling processes. The intern will be part of a dynamic team,
+driving our data-driven culture forward with innovative solutions.
+The Work
+- Design, develop, and deploy containerized applications to our Kubernetes cluster.
+- Ensure scalability, reliability, and performance of deployed applications.
+- Work with Large Language Models (LLMs) to develop and integrate AI-powered features into our products.
+- Collaborate with data scientists to develop and deploy data pipelines, architectures, and tools that support our AI products.
+- Troubleshoot and resolve issues related to data pipelines, architectures, and tools.
+- Build UI applications using Streamlit or a similar framework to create product prototypes and gather feedback from users.
+- Stay up to date with industry trends, best practices, and emerging technologies in AI, data engineering, and cloud computing.
+The Must-Haves
+- Currently pursuing a bachelor's degree or higher in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field or Associate
+degree holders with relevant skills and experience.
+- Strong programming skills in Python , with experience in data engineering, data science, or a related field.
+- Experience with SQL and database management systems.
+- Knowledge of Large Language Models ( LLMs ) and their applications in AI product development.
+- Familiarity with containerization using Docker and Kubernetes.
+- Familiarity with natural language processing, text analysis, and machine learning
+- Excellent problem-solving skills, with the ability to work independently and collaboratively.
+- Strong communication and documentation skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+Over the years, we’ve discovered that the most effective and successful associates at apexanalytix are people who have a specific combination of values, skills,
+and behaviors that we call “The apex Way”. Read more about The apex Way - https://www.apexanalytix.com/careers/
+Benefits
+At apexanalytix we know that our associates are the reason behind our successes. We truly value you as an associate and part of our professional family. Our
+goal is to offer the very best benefits possible to you and your loved ones. When it comes to benefits, whether for yourself or your family the most important
+aspect is choice. And we get that. apexanalytix offers competitive benefits for the countries that we serve, in addition to our BeWell@apex initiative that
+encourages employees’ growth in six key wellness areas: Emotional, Physical, Community, Financial, Social, and Intelligence.
+With resources such as a strong Mentor Program, Internal Training Portal, plus Education, Tuition, and Certification Assistance, we provide tools for our
+associates to grow and develop.
+Apply now
+R&D - Archimedes
+Greensboro, NC
+Share on:
+Apply now
+Terms of service Privacy Cookies Powered by Rippling

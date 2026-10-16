@@ -1,0 +1,21 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team
+and see how you can make a lasting impact on the world.
+What You’ll be doing:
+As an intern, you’ll focus on one of three specialized tracks:
+TensorRT LLM – Inference Optimization (Python / PyTorch): Build and enhance high‑performance LLM inference pipelines. Analyze and optimize model execution,
+scalability, and memory usage. Collaborate across framework and research teams to deliver efficient multi‑GPU model serving.
+TensorRT Compiler – Graph Optimization (C++): Work on the TensorRT compiler backend to improve graph transformations and code generation for NVIDIA GPUs.
+Develop compiler optimization passes, refine operator fusion and memory allocation, and collaborate with CUDA and hardware architecture teams.
+CuTe DSL & CUDA Kernels Development / Optimization (CUDA C++ / Python DSL): Design and tune GPU compute kernels and DSL implementations for core deep learning
+operations such as GEMM, MoE, Attention and Convolution. Profile, analyze and improve CUDA kernel performance to achieve maximum GPU efficiency.
+What We need to see:
+Pursuing an M.S. or Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, Applied Mathematics, or related field.
+Excellent problem‑solving ability, curiosity for cutting‑edge AI systems, and passion for GPU computing and deep learning software performance.
+TensorRT LLM: Strong Python programming and experience with PyTorch; solid understanding of inference and GPU acceleration.
+TensorRT Compiler: Proficient in C++, with experience in compiler or performance optimization.
+CuTe DSL & CUDA Kernels: Skilled in C/C++ and CUDA or parallel programming; familiar with LLVM, MLIR and compiler; understanding of computer architecture and
+performance profiling/analysis/optimization.
+Join us and play a part in building the AI computing platforms that drive innovation across industries worldwide.

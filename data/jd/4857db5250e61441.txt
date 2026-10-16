@@ -1,0 +1,60 @@
+To qualify for US internships, you must be currently enrolled in a degree-seeking program with an expected graduation date after the internship/co-op ends. If
+you do not meet this requirement, we invite you to explore other opportunities available on our careers website.
+Intuit internships are 12 weeks throughout the summer. We have fixed start and end dates that are designed to work with various universities’ academic
+calendars.
+Cohort 1: Monday, May 17 - Friday, August 6, 2027 (12 weeks)
+Cohort 2: Monday, June 14 - Friday September 3, 2027 (12 weeks)
+About our Emerging Talent Program:
+Intuit invests in Emerging Talent because fresh perspectives strengthen our products and teams. The program is backed by a culture that values curiosity and
+collaboration, and you'll be supported by dedicated managers and mentors who are invested in your growth. As an intern or co-op, you'll work on meaningful
+projects with business impact, many centered on AI and emerging technologies, and contribute to driving decisions. You'll build skills through function-specific
+learning opportunities, connect with a global community of interns and co-ops through dedicated programming and social events, and get exposure to senior
+leadership and cross-functional work across Intuit's product ecosystem. Learn more about our Intern and Co-op Program here .
+About the Team:
+Intuit’s Finance team drives business growth and profitability through strategic, financial and operational transformation. At the Financial Integrity,
+Transformation & Governance Data team, we are redesigning how Finance operates — with clear ownership, integrated roadmaps, embedded AI, and disciplined value
+realization at scale. Our interns have opportunities to apply their knowledge into real-world problems such as process optimization, performance, ROI, and
+multiple other areas.
+The primary objective of our summer internship program is to bring highly talented people into the organization and provide them an opportunity to work on
+interesting challenges. Summer internships are a direct pipeline to full time positions in strategic positions with frequent exposure to company leaders, core
+businesses, and technologies – where you can quickly make meaningful contributions.
+Responsibilities
+Dynamic problem solving
+Strategic and analytical mind-set
+Intellectual curiosity + desire to learn
+Comfortable with Excel, GSuite
+While each summer internship is unique, all roles offer the experience of a project which challenges you to apply your knowledge and expertise to real business
+problems. As this role involves deep technical understanding and constant interaction with senior finance stakeholders across the business, you need the
+confidence and emotional intelligence to effectively communicate at all levels. The ideal candidate has worked in the high-tech industry and enjoys operating in
+an extremely fast-paced, entrepreneurial environment.
+Your key responsibilities will include,
+Perform end-to-end analytics using advanced SQL and AI to extract business insights that drive tangible value for our customers and result in business growth.
+Leverage data visualization and dashboarding tools such as QlikSense and Tableau to help uncover key business insights and improve team automation and self-
+service analytics.
+Develop proofs-of-concept for innovative, AI-driven features or solutions.
+Work closely with diverse teams, clearly communicating your findings and progress to both technical and non-technical stakeholders.
+Create clear documentation for your research, model architectures, code, and experimental results.
+You will be part of the Analytics team that rolls up to the Director of Data, Analytics, Automation and AI at Intuit.
+Qualifications
+Current enrollment in a Bachelor’s degree program in Engineering, Data Science, Statistics, Mathematics, Computer Science, Economics or related quantitative
+field; Students pursuing Master’s Degree preferred.
+Familiarity with AI tools and a curiosity about how AI can be applied to solve real-world problems
+Must be legally authorized to work in the United States on a full-time basis for the duration of the internship
+Ability to work in a hybrid environment at an Intuit office location determined by your team and role (Relocation stipend will be provided)
+2+ years relevant experience with a proven track record of leveraging analytics to drive significant business impact.
+Advanced proficiency in SQL, “big data” technologies (e.g., Redshift, Spark, Hive, BigQuery), and BI tools (e.g., Tableau, QlikSense). Qlik certification is a
+big plus
+Passion for uncovering strategic opportunities and and a strong business acumen and the ability to translate business strategy into testable hypotheses and
+insights
+High-level understanding of advanced statistical modeling and ML methodologies such as causal inference techniques with a strategic understanding of their
+application
+Strong programming skills in Python or R; experience building ML and GenAI models, including automation and custom implementations.
+Strong data storytelling skills, with a proven ability to rapidly construct impactful visualization, communicate insights and influence leadership
+Excellent communication and interpersonal skills, with a proven ability to build trust and collaborate seamlessly across technical, business, and cross-
+functional teams.
+Comfortable working in a fast-paced environment and have flexibility to shift priorities when needed
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. Pay offered is based on factors such as job-related
+knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity
+and gender.
+The expected base pay range for this position is:
+Mountain View $37 - $57

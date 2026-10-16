@@ -1,0 +1,45 @@
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine
+connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to
+prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The
+Position The Product Development Data Sciences and Analytics (PDD) department in Roche's Pharmaceutical Division focuses on three core areas: identifying
+evidence needed in bringing our drugs to market, making high-quality data accessible and generating insights through data analysis. This involves leveraging
+diverse datasets from clinical trials, real-world evidence and digital sources to understand patient pathways, disease progression and patient outcomes. Data
+science has become essential for extracting meaningful insights from the growing variety and complexity of data enabled by advances in digital technology. In
+biopharma, each data point represents part of a patient’s journey, contributing to the understanding of disease and the development of better medicines.
+Maximizing the potential of this data allows for groundbreaking analyses and insights. The PDD Department in Welwyn Garden City is seeking 10 industrial
+placement students starting in July 2027 for 13 months to support the advancement of medicines. Successful candidates will be evaluated for one of multiple
+roles across the department, each requiring a diverse range of skills. For further information about all of the available roles please see further down in the
+ad. Candidates will be considered for all roles but please indicate in your cover letter your preferred roles. Our UK Pharmaceutical head office, one of our
+primary global offices, is situated in Welwyn Garden City, Hertfordshire and is surrounded by beautiful countryside. Supported by major motorways and airports,
+as well as being a 25-minute train ride to central London, access is easy. With over 1800 people occupying our site in Welwyn, you can expect interactions with
+Product Development (PD), Early Development (pRED), Commercial (Rx) and our corporate function. The extensive overlap and interaction with other functions means
+Roche provides an unmatched experience as well as ample networking opportunities. Degree Requirements You must be studying for an undergraduate or integrated
+masters degree, and be eligible to work in the UK. If you're passionate about making a difference in patients' lives and possess the teamwork and innovation
+we're looking for, Roche could be the perfect fit for you. In return, we provide a competitive salary and excellent benefits, including a genuine interest in
+your career development and progression. Recruitment process: Phase I: Submission of Cover Letter (including preferred roles) & CV: Evaluation of skills and
+motivations. Phase II: Shortlisted candidates will be invited to an online video interview to assess their motivation and passion. Phase III: Candidates who
+pass the video interview stage will be invited to join us for an in-person assessment centre. This will be held on 25th or 26th November 2026 at our Roche UK
+office in Welwyn Garden City. Please ensure you are available on these dates to proceed with your application. In person Final Assessment Centre: This will
+involve a full day of interviews, group tasks and a technical aptitude test. We’ll be looking at what motivates you and how you work with others, and assessing
+your technical aptitude (for those roles which have a technical component). There is also time set aside for building tours and conversations with PDD members
+of staff. For example, you will be able to get to know PDD members of staff and ask questions on the job and the job environment. If you are interested in any
+of these positions and fulfil the degree requirements please submit your CV & covering letter (including preferred roles) by the application process deadline:
+Sunday 1st November 2026. Please note: Unfortunately visa sponsorship is not available for this role. Candidates must already hold valid authorisation to work
+in the UK. Available roles Function: Data Management Data Management involves the collection, cleaning & storing of clinical trial data, utilizing a variety of
+industry and/or inhouse products and tools. Data Management safeguards data integrity, ensuring patient safety and the quality of data used to support decision-
+making in drug development. We are offering positions in 3 areas within Data Management: Role: Data Quality Lead DQLs oversee the quality, integrity, and
+availability of clinical trial data, ensuring it is fit for purpose and ready for analysis by our statisticians. Working with multiple functions, DQLs manage
+the design and implementation of the study database, and oversee data collection and data cleaning strategies. As a DQL, you will be a key member of the
+clinical study team, and your day to day work will be divided between data and people - solving novel data problems, but also learning to lead & influence
+others. Who You Are Pursuing a degree in Data Science, Life Sciences, or a related field Strong attention to detail and organizational skills and can adhere to
+compliance guardrails and departmental procedures. Demonstrate critical thinking and a willingness to learn. An effective communicator, able to work
+collaboratively and learn to influence others in both technical and non-technical roles. Role: Technical Excellence Specialist Technical Excellence acts as the
+key link between the clinical data management team and technical Informatics (IT) colleagues. Rather than working directly on clinical trials, the focus is on
+understanding user needs and helping to shape the tools, products, and processes that streamline daily work. This role involves listening to business
+challenges, gathering user feedback, and translating ideas into technical solutions. Who you are Pursuing a degree in Data Science, Life Sciences,
+Bioinformatics, Computer Science or a related field Strong communication skills, with the capability to bridge technical and non-technical teams effectively
+Interest in or ability to use digital tools for project/code management (e.g. Github, Jira) and in basic programming (e.g. simple Python or R) Ability to manage
+time and keep projects on track. A logical mindset for identifying process improvements and developing practical solutions to everyday problems. Role:
+Functional Excellence Specialist Functional Excellence Specialists play a key role in helping our Data Management group improve how we manage clinical trial
+data by bridging the gap between new technology and the people who use it. This non-technical role focuses on change management, and making processes more
+efficient, consistent and scalable. You will gain hands-on experience in knowledge management, and learn 

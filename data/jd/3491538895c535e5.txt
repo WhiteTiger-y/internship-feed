@@ -1,0 +1,73 @@
+Job Details:
+Job Description:
+Are you a top-tier university student eager to dive into the world of semiconductor innovation? Intel's Foundry System Technology team is seeking a talented
+intern to help us push the boundaries of semiconductor and packaging manufacturing technologies.
+Our team is dedicated to advancing Moore's Law, exploring new product opportunities, and leading industry-defining packaging development through System
+Technology Co-optimisation (STCO).
+Position Overview: As a Research Engineer Intern, you will play a crucial role in developing STCO methodology and evaluating 3D/2.5D dis-aggregation schemes
+using solder microbumps or hybrid bonding for memory and logic stacking across different product architectures. This internship offers a unique opportunity to
+work on pioneering technologies and contribute to Intel's semiconductor processing and packaging roadmap.
+What You'll Do:
+- Develop and enhance STCO methodologies.
+- Perform system-level evaluations of novel devices, interconnects, patterning, materials, systems, and integration schemes.
+- Collaborate with diverse teams to drive innovation across various applications.
+Who We're Looking For:
+- Driven and Motivated; a self-starter who thrives in a dynamic environment and is committed to delivering high-quality results.
+- Analytical and Problem-Solving Skills: Ability to tackle complex challenges with a strategic approach.
+- Organized and Efficient: Strong prioritization and time management skills to handle a fast-paced workflow.
+- Collaborative and Team-Oriented: Excellent stakeholder management and teamwork ethics.
+- Flexible and Adaptable: Comfortable working in an agile environment with a tolerance for ambiguity.
+- Strong Communicator: Good interpersonal skills to facilitate effective collaboration and communication
+Internship Details: Minimum of 3 months during summer 2026, with potential for extension based on business needs.
+Why Choose Intel?
+- Collaborate with industry leaders and innovators.
+- Gain hands-on experience with cutting-edge technologies.
+- Contribute to projects that shape the future of semiconductor processing.
+If you're ready to embark on a journey of innovation and discovery, apply now to join Intel's Foundry System Technology team. We look forward to welcoming you
+to a transformative internship experience
+Qualifications:
+You must possess the below requirements to be initially considered for this position. Preferred qualifications are in addition to the requirements and are
+considered a plus factor in identifying top candidates.
+Knowledge and/or experience listed below would be obtained through a combination of your schoolwork and/or classes and/or research and/or relevant previous job
+and/or internship experiences.
+Minimum Qualifications:
+- Active Ph.D. candidacy in one of the following areas of study: Electrical Engineering, Electronics Engineering, Computer Architecture and Design or similar.
+- 1-2+ years research experience relevant to one or more of the following areas: System architecture modelling, digital circuit analysis and design, VLSI
+physical layout, electronic design automation, multi-physics modeling of electronic materials or systems.
+- Familiarity with IC design and physical layout tools such Cadence Virtuoso or Synopsis Fusion Compiler.
+Preferred Qualifications:
+- System architecture design and modelling
+- IC design, simulation, physical layout and tapeout experience.
+- Familiar with DRAM and SRAM circuit design and layout
+- Familiar with integrated circuits manufacturing flow and requirements
+- Familiar with different 2.5D and 3D packaging technologies
+- 3DIC design and simulation experience
+- Good programming skills, preferably in Python.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (United States of America)
+Primary Location:
+US, Oregon, Hillsboro
+Additional Locations:
+US, California, Santa Clara, US, Texas, Austin
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+Annual Salary Range for jobs which could be performed in the US: $141,998.00-142,002.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-
+site. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

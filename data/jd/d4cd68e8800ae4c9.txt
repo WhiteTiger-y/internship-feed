@@ -1,0 +1,86 @@
+Medpace has recently developed a new Clinical Informatics team and is looking for qualified students to support this team. Our interns work directly with our
+analysts to develop operational solutions spanning data analytics, visualization, and accessibility. These solutions are launched for Clinical and Medical
+Operations teams at Medpace who work directly with sponsors and sites leading and participating in clinical trials for pharmaceutical development. These data
+products increase operational efficiency and can be categorized into either custom- or enterprise-wide solutions. Interns will work hand-in-hand with our
+software engineering team to bring these solutions to production.
+Interested candidates should at least have introductory experience in R or Python programming. Preference will be given to candidates with additional experience
+in (i) SQL, (ii) application development in Shiny or Streamlit, or (iii) dashboard development in PowerBI, Tableau, or Spotfire. Interns will have daily
+programming responsibilities in R, Python, and SQL (project-specific). They will be trained on Medpace’s relational database architecture to effectively query
+and wrangle data. Interns will be expected to support the development of innovative web applications to help operational teams process, analyze, and visualize
+data.
+The Clinical Informatics team are looking for individuals who thrive in collaborative environments, are able to work effectively in international settings, and
+are flexible to support the development of this new team. If you are an individual with a background in data science, informatics, or clinical analytics, please
+review the following internship opportunity.
+Responsibilities
+- Participate in analysts’ evaluation of data needs for assigned projects;
+- Work alongside analysts to contribute innovative data products;
+- Interact with relational data at both study- and enterprise-level inclusive of actions for query, wrangling, analysis, and reporting;
+- Contribute to algorithm development for descriptive, classification, and predictive operational purposes; and
+- Support departmental process improvement initiatives.
+Qualifications
+- Enrollment in Bachelor’s, Master's, or PhD program for informatics, computer science/engineering, biomedical engineering, health information, statistics, or
+related field;
+- 3.5+ GPA;
+- Analytical thinker with great attention to detail;
+- Ability to work effectively on a sprint schedule;
+- Strong verbal communication skills;
+- Programming experience in R or Python;
+- Clinical research experience is preferred;
+- Experience building web applications is preferred (with either Shiny or Streamlit); and
+- Experience building dashboards is preferred (with either PowerBI, Tableau, or Spotfire).
+Additional Considerations
+We are hiring all levels of experience for our internship. Candidates in Bachelor, Master, or Doctoral programs are encouraged to apply. Interns will be
+required to work full-time, in-person hours during the applied semester.
+Medpace Overview
+Medpace is a full-service clinical contract research organization (CRO) providing phase l-lV clinical development services to the biotechnology, pharmaceutical,
+and medical device industries. Our mission is to accelerate the global development of safe and effective medical therapeutics through the advancement of
+clinical research. We leverage in-country regulatory and therapeutic expertise across all major therapeutic areas including oncology, cardiology, metabolic,
+endocrinology, central nervous system, and anti-viral and anti-infective. Headquartered in Cincinnati, Ohio, we employ more than 6,500 people across 40+
+countries.
+Why Medpace?
+When you join Medpace, you become part of an innovative team that brings cutting-edge therapies to market while building a meaningful and rewarding career
+focused on scientific excellence and improving patient outcomes around the world through continuous learning and cross-functional collaboration.
+Purpose-Driven Work
+- Work alongside physicians, scientists, and industry-leading experts committed to advancing the global development of medical therapeutics through clinical
+research excellence
+Collaborative Culture
+- Contribute to an interactive team environment that empowers decision making, creative thinking, and continuous learning through open communication and mutual
+trust.
+- Leadership throughout Medpace is both accessible and approachable
+Continuous Growth & Development
+- Office based environment with on-site mentors
+- Defined career paths with clear advancement opportunities
+- Industry renowned onboarding and training programs designed to accelerate professional development
+- Ongoing training and continuous learning opportunities throughout your career
+- An environment that encourages employees to influence change, contribute ideas, and grow quickly
+Other Employee Benefits
+- Competitive compensation programs that recognize and reward performance
+- Comprehensive health, wellness, retirement, and PTO benefits
+- Office based culture with occasional WFH that provides flexibility for eligible positions after training
+- Company-sponsored social events and intramural sports
+Cincinnati Headquarters Experience
+- A modern corporate campus designed to support collaboration and productivity
+- Multiple on-site dining options in the heart of Madison Square
+- Free on-site parking
+- Convenient access to on-site 24-7 fitness and wellness facilities
+What to Expect Next
+A Medpace team member will review your application and if your profile matches our current needs, you will be contacted for an interview. While we review all
+applications carefully, we are unable to respond to every applicant, and only candidates selected for interviews will be contacted.
+- Participate in analysts’ evaluation of data needs for assigned projects;
+- Work alongside analysts to contribute innovative data products;
+- Interact with relational data at both study- and enterprise-level inclusive of actions for query, wrangling, analysis, and reporting;
+- Contribute to algorithm development for descriptive, classification, and predictive operational purposes; and
+- Support departmental process improvement initiatives.
+- Enrollment in Bachelor’s, Master's, or PhD program for informatics, computer science/engineering, biomedical engineering, health information, statistics, or
+related field;
+- 3.5+ GPA;
+- Analytical thinker with great attention to detail;
+- Ability to work effectively on a sprint schedule;
+- Strong verbal communication skills;
+- Programming experience in R or Python;
+- Clinical research experience is preferred;
+- Experience building web applications is preferred (with either Shiny or Streamlit); and
+- Experience building dashboards is preferred (with either PowerBI, Tableau, or Spotfire).
+Additional Considerations
+We are hiring all levels of experience for our internship. Candidates in Bachelor, Master, or Doctoral programs are encouraged to apply. Interns will be
+required to work 

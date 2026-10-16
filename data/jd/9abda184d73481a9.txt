@@ -1,0 +1,28 @@
+Perplexity is looking for a Search Machine Learning Engineer Intern to help build the next generation of advanced search technologies, with a focus on retrieval
+and ranking. You will work closely with experienced engineers to improve search quality, experiment with new models, and ship features that directly impact how
+users search and discover information.
+Internship program: 12 - 24 weeks, full-time, part-time, in-person in the Belgrade office.
+Responsibilities:
+- Contribute to experiments that improve search quality through better models, data usage, and evaluation tools, under the guidance of senior engineers.
+- Design and implement components of the search platform and model stack, including retrieval, ranking, and classification models.
+- Train evaluating models (including LLM-based approaches) for retrieval, ranking, and classification tasks.
+- Support deployment and monitoring of search and ranking models in a scalable and performant way.
+- Help build and iterate on RAG pipelines for grounding and answer generation.
+- Collaborate with Data, AI, Infrastructure and Product teams to deliver improvements quickly and learn best practices in production ML.
+Qualifications:
+- Strong foundation in machine learning and statistics, with coursework or projects related to information retrieval, ranking, or recommender systems.
+- Experience with Python and common ML frameworks (e.g. PyTorch, TensorFlow, JAX) through academic, open source, or personal projects.
+- Familiarity with evaluating model quality using offline metrics and/or A/B testing is a plus, but not required.
+- Previous experience (internships, research, or significant projects) working on search, recommendation, or NLP is a plus, but not required.
+- Self-driven and curious, with a strong sense of ownership, willingness to learn, and comfort working in a fast-paced environment
+- Experience with Rust will be a plus
+What we're looking for:
+- You’ve built something you’re proud of: Not just a class assignment - we want to see a project you genuinely cared about and took the initiative to build and
+finish.
+- You’re currently enrolled at a Serbian university: Bachelor’s, Master’s, or PhD program or you’re self-taught with a strong passion for software engineering
+and technology.
+- You’re curious, persistent, and self-driven: you take ownership, work through challenges, and follow through on what you start.
+- You’re eager to learn and improve: you’re willing to put in the work, develop your skills, and get better every week.
+- You’re comfortable working in English: in a collaborative, professional environment.
+- You thrive in a high-performance environment: you’re comfortable with high standards, direct feedback, and a fast pace.
+- You’re willing to challenge and be challenged: You’re comfortable asking questions, sharing your perspective, and pushing back constructively when it matters.

@@ -1,0 +1,57 @@
+About the Role
+Turn your classroom learning into real-world impact with H&R Block’s Embark 2027 Summer Internship Program, open to students studying Computer/Data Science,
+Machine Learning, or Applied/Computational Mathematics . This 11-week paid internship offers meaningful, real-world experience that aligns with your field of
+study while making a valuable impact on our organization.
+The Embark 2027 Summer Internship runs from May 17, 2027 – July 30, 2027.
+You’ll work at our corporate headquarters in the heart of downtown Kansas City’s Power & Light District, where you’re just steps, or a streetcar ride, away from
+incredible restaurants, entertainment, and city energy. Inside our building, you’ll have access to amenities that make work-life balance easy, including an
+onsite Starbucks, a company dining hall with plenty of options, a free fitness center, and free parking!
+Program Highlights:
+- $25/hour compensation
+- Paid PTO during H&R Block’s annual Reboot Week (June 28 – July 2)
+- Housing stipend provided for students whose permanent address is more than 50 miles from the KC metro
+Throughout the 11-week internship, under the guidance of a leader, some of the internship responsibilities will include:
+- Design, build, and deploy machine learning models, including generative AI models, to address complex business problems.
+- Clean, prepare, and analyze data for machine learning projects
+- Tune and optimize models for accuracy, efficiency, and scalability in production environments.
+- Collaborate with AI/ML and engineering teams to support model integration, deployment, and monitoring
+- Explore emerging machine learning, deep learning, and Generative AI technologies
+- Participate in code reviews, technical discussions, and collaborative problem-solving
+- Document findings, share learnings, and present project outcomes and recommendations
+Throughout the 11-week internship, as a part of the Embark program, interns will also participate in workshops and events that align with the program's four
+pillars:
+Professional Development : includes the basics for a professional role, everything from using Microsoft Office to setting up a Teams meeting and giving a
+presentation.
+Giveback : involves participating in Make Every Block Better community service events. The goal is to teach the importance of community, make an impact, and
+provide bonding time for teams.
+Networking : entails meeting various executives with offices at H&R Block’s headquarters, having lunch with directors and vice presidents, spending time with a
+mentor and getting to know people beyond their assigned department.
+Connected Culture : is meant to be fun and teach the importance of working hard and playing hard. H&R Block might take the interns to a Kansas City Royals game
+or facilitate other competitions meant to be fun or instill teamwork.
+Required Qualifications
+Education:
+- High school diploma or equivalent
+- Seeking to obtain a degree in Information Computer/Data Science, Machine Learning, Applied/Computational Mathematics , or some similar discipline with a GPA
+of 3.0 or above
+- Ability to work as part of a diverse team and independently
+- Highly motivated, organized, reliable, and detail-oriented
+- Strong written and verbal communication skills
+- Quick learner and not afraid to work with new computer-based programs and databases
+- Ability to be effective and contribute in a fast-paced corporate environment
+Work Experience:
+- No previous work experience necessary
+Preferred Qualifications
+- Understanding of machine learning fundamentals, including model training, testing, evaluation, and optimization
+- Exposure to ML frameworks or libraries such as PyTorch, TensorFlow, scikit-learn, or similar tools
+- Familiarity with Python and machine learning fundamentals
+- Exposure to PyTorch, TensorFlow, scikit-learn, or similar ML frameworks
+- Familiarity with SQL, data analysis, and data preparation
+- Exposure to Microsoft Azure, Azure Machine Learning, or other cloud-based AI/ML technologies
+- Interest in Generative AI, LLMs, embeddings, vector search, and AI agents
+- Coursework or project experience involving AI, machine learning, data science, or Generative AI is a plus
+Why work for us
+At H&R Block, our purpose is simple: to provide help and inspire confidence in our clients and communities everywhere. For more than 70 years, we’ve led the tax
+industry and we continue to evolve through our Block Next strategy, blending human expertise with digital innovation. That same commitment to care extends to
+our associates. When you join us, you become part of a High Performing, Connected Culture built on strong relationships, continuous learning, and a shared
+commitment to making a meaningful impact. We invest in your well-being through competitive pay, comprehensive benefits, and support for life both in and outside
+of work.

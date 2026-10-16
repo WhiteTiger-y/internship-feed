@@ -1,0 +1,36 @@
+At Blue Cross and Blue Shield of Nebraska, we are a mission-driven organization dedicated to championing the health and well-being of our members and the
+communities we serve. Our team is the power behind that promise. And, as the industry rapidly evolves and we seek ways to optimize business processes and
+customer experiences, there’s no greater time for forward-thinking professionals like you to join us in delivering on it! As a member of Team Blue, you’ll find
+purpose, opportunities and the support you need to build a meaningful career and make a powerful impact in our community. To millions of Americans, Blue Cross
+and Blue Shield means peace of mind when it's needed the most. That's because the Blue Cross and Blue Shield brand represents the nation's largest and most
+experienced health care benefit companies, providing insurance coverage to 1 out of every 3 Americans. As a licensee of the BCBS Association since 1939, BCBSNE
+has celebrated 80+ years of Nebraskans serving Nebraskans. Not only do we provide health insurance coverage to Nebraskans, we are also active members of the
+communities where our customers live and work by giving back through volunteering and our corporate social responsibility efforts. We would love for you to be a
+part of BCBSNE’s journey as an intern where you will gain hands-on experiences solving real-world problems. Blue Cross and Blue Shield of Nebraska is a Partner
+of Choice for the Nebraska University System. Our Interns work a hybrid schedule and spend some days working on-site at our Omaha office located in Aksarben
+Village. Therefore, you will need to live within commuting distance from Wednesday, May 26 – Friday, July 30, 2027. Blue Cross and Blue Shield of Nebraska is
+looking for enthusiastic students with ambition and a passion for Data! These internships serve as a great opportunity for students to get hands-on experience
+in specific areas of interest and learn Agile best practices in a fun and rewarding environment. What You'll Do: Data Science: Our advanced analytics team (Data
+Solutions) is looking for students who have a passion for Data Science to get hands-on experience in advanced data analytics using cloud technology in a fun and
+rewarding environment. If you are passionate about exploring data, building visualizations to provide insights to business leaders and collaborating with teams,
+we want to talk to you! Data Analytics: The Data Analytics intern will serve on a highly collaborative Business Analytics team delivering health data analytics
+and informatics for groups, providers, members and internal leadership. This position will use data to solve puzzles and tell a consistent data story using
+technologies such as Power BI, R, Excel and SQL. Data Governance: Data governance is a control that ensures that the data entry by an operations team member or
+by an automated process meets precise standards, such as a business rule, a data definition and data integrity constraints in the data model. You will have the
+opportunity to enhance your knowledge about Data Governance, Data Quality, Metadata Management and other areas of Data Management, the asset management
+industry, and to cooperate closely with all business lines. To be considered for this position you must have: Be enrolled full-time in college in pursuant of a
+degree (preferably in Management Information Systems, Data Analytics, Computer Science, Mathematics, Statistics, Business Administration). Desire for growth and
+advancement in the area of Data Analytics and Governance. Excellent communication skills. Intellectual curiosity and willingness to learn. A positive attitude
+and desire to have fun at work. The most qualified candidates will also possess some or all of the following: Advanced experience in Microsoft Excel. Knowledge
+of Power BI, R, and/or SQL. Interest in AI/ML concepts such as supervised learning. Familiarity with Python, Databricks, and cloud platforms (Azure, AWS, or
+GCP). Curiosity about ethical AI, model interpretability, and responsible data use. Learn more about what makes BCBSNE such an exceptional place to work by
+visiting NebraskaBlue.com/Careers. We strongly believe that diversity of experience, perspective and background will lead to a better workplace for our
+employees and a better product for our customers and members. Blue Cross and Blue Shield of Nebraska is an Equal Opportunity /Affirmative Action Employer -
+Minorities/Females/Disabled/Veterans #LI-DNI Learn more about what makes BCBSNE such an exceptional place to work by visiting NebraskaBlue.com/Careers. We
+strongly believe that diversity of experience, perspective and background will lead to a better workplace for our employees and a better product for our
+customers and members. On the cutting edge of the health care industry, helping Nebraskans in moments of joy, times of hardship and the steps in between. We are
+Blue Cross and Blue Shield of Nebraska (BCBSNE), and we exist to be there for people when they need us. Our goal is to add more good, healthy years to people’s
+lives by supporting our customers and the Nebraska community at large. We have more than 80 years of experience behind us. And a bright future ahead as we
+continuously innovate to drive health care forward while meeting the needs of our members and state. If you’re passionate about helping people along their
+health journeys, we invite you to explore our career offerings. Here, you will find opportunities to grow personally and professionally while making a
+difference for our customers and greater Nebraska community.

@@ -1,0 +1,32 @@
+Our 10-week internship is your chance to experience life as a Deep Learning Researcher at IMC. You'll have access to rich, large-scale datasets and modern
+training infrastructure, and see firsthand how rigorous research translates into real-world results. No prior financial industry experience is required; we are
+looking for scientific thinkers who are passionate about advancing deep learning research. We provide a highly competitive compensation package with
+accommodations included. The bar for talent at IMC is high, and interns who meet our performance expectations will have the opportunity to secure a full-time
+Graduate Deep Learning Researcher position at the end of the program. Where you go from here is up to you!
+YOUR CORE RESPONSIBILITIES:
+- Team up with Deep Learning Researchers on real projects to build or improve models that have potential to impact our business
+- Explore research areas such as representation learning, transformers, foundation models, generative AI, and reinforcement learning and other emerging deep
+learning techniques
+- Develop your research skills with support and feedback from a dedicated mentor and intern lead
+- Engage in professional development sessions aimed at helping you envision your future at IMC
+- Attend events and social activities to get to know your cohort and current employees
+YOUR SKILLS AND EXPERIENCE:
+- Current university student pursuing a PhD, Master’s or Bachelor’s degree in Computer Science, Machine Learning, Artificial Intelligence, Mathematics,
+Statistics, Engineering, or a related quantitative field, and graduating between September 2027 and July 2028
+- Experience in applying deep learning techniques
+- Publication records at leading ML venues (NeurIPS, ICML, ICLR) or contributions to open source research a plus
+- Strong programming skills in Python and hands-on experience with at least one modern deep learning framework, such as PyTorch, JAX, or TensorFlow
+- A creative problem-solver who is driven, resilient, and able to explain complex ideas clearly to both technical and non-technical audiences
+- Must be able to start the internship in person on June 7, 2027
+You may submit one application per role each year. We strongly encourage you to focus on applying to a single role that best matches your skills and interests.
+Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role.
+If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season
+begins in 2027.
+The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible
+for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information.
+Base Salary: $300,000
+About Us
+IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in
+markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology
+and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective,
+combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage.

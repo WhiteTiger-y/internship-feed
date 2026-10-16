@@ -1,0 +1,45 @@
+ICF is seeking an AI Engineering Intern to support the design, development, testing, and responsible use of AI-enabled solutions. Working with technical, data,
+security, and business or program specialists, you will help translate defined needs into practical, repeatable solutions. Depending on the assignment, your
+work may focus on AI application development, data engineering, cloud and platform services, automation, AI governance, or a combination of these areas. This is
+a hands-on learning opportunity with guidance and feedback from experienced team members. You may write code, prepare and evaluate data, prototype AI-assisted
+workflows, test controls and outputs, document technical processes, and communicate findings to technical and nontechnical audiences. This is a 10-week, full-
+time internship expected to begin in June and end in August.  This role will be hybrid from Reston, VA (2x per week). At this time, we are unable to provide
+housing nor relocation assistance for this position.     Potential Areas of Alignment Applied AI and intelligent automation: Build or enhance workflows that use
+approved large language models, machine learning, APIs, agentic tools, or automation technologies. AI and data engineering: Collect, clean, validate, transform,
+and combine approved structured or unstructured data for AI applications, analytics, databases, or reporting. Enterprise AI platforms and governance: Support
+secure and responsible AI environments, including access controls, data protection, usage oversight, validation, documentation, and lifecycle practices.
+Business- or domain-focused solutions: Apply AI engineering skills to operational, corporate, client, or program needs in collaboration with subject matter
+experts. What You Will Do Collaborate with technical and business or program stakeholders to understand user needs, workflows, requirements, assumptions,
+constraints, and success criteria. Write, test, and maintain code or scripts to support data processing, AI applications, integrations, automation, validation,
+or reporting. Prepare and evaluate approved datasets, investigate missing or inconsistent information, and document data sources and processing steps. Help
+prototype AI-enabled solutions using approved models, APIs, cloud services, low-code tools, or related technologies. Create test cases and evaluate results
+against source data, expected outcomes, control requirements, or established baselines; record errors, risks, and limitations. Support responsible AI, privacy,
+security, and governance practices, including appropriate data access, human review, documentation, and use of approved tools. Use version control and team
+development practices to organize code, configuration, documentation, and incremental changes. Prepare clear technical documentation, runbooks, demonstrations,
+analyses, or presentations so others can understand, reproduce, and build on the work. Participate in project check-ins and reviews, communicate progress and
+blockers, track assigned work, and incorporate feedback. Recommend practical improvements to workflows, tools, controls, data quality, testing, or user
+experience. What You Bring We welcome skills developed through coursework, personal projects, student research, prior internships, employment, or other applied
+learning. You do not need experience with every technology or focus area listed in this description. Basic Qualifications 30-completed college credit hours by
+start date in computer science, data science, information systems, engineering, analytics, cybersecurity, or a related field. Preferred Skills and Experience A
+completed bachelor’s degree and enrollment verification or 9 credit hours completed in a graduate program related to computer science, data science, information
+systems, engineering, analytics, cybersecurity, or a related field. Experience with programming or scripting languages such as Python, PowerShell, JavaScript,
+SQL, or comparable languages, including experience with scripting, data manipulation, querying, analysis, or reusable code development. Experience completing
+technical projects involving coding, data, artificial intelligence, automation, cloud technology, or systems work through coursework, personal projects,
+research, internships, or other applied experience. Familiarity with databases, data schemas, data pipelines, and extract, transform, and load processes, as
+well as structured configuration formats such as JSON and YAML. Exposure to artificial intelligence and machine learning concepts, including large language
+model applications, agentic workflows, computer vision, natural language processing, or model evaluation. Familiarity with APIs, cloud platforms, enterprise
+data tools, low-code platforms, workflow automation, or business intelligence tools such as Azure, Power Platform, or Power BI. Experience using Git, Claude
+Code, or another version-control system, including familiarity with collaborative development, code review, or other review-based workflows. Knowledge of or
+interest in responsible AI, data privacy, information security, identity and access management, data classification, and AI or data governance. Strong
+analytical and problem-solving skills, including the ability to test assumptions, evaluate technical outputs, identify limitations, and review work for accuracy
+and completeness. Strong written and verbal communication skills, including the ability to document technical work, communicate progress or changes, and explain
+technical concepts to both technical and nontechnical audiences. Effective organization and time management skills, with the ability to prioritize work, manage
+defined assignments, meet agreed deadlines, ask thoughtful questions, and seek guidance or communicate blockers when needed. Ability to work independently while
+collaborating effectively with distributed, cross-functional teams. A practical and adaptable approach to learning and problem-solving, including openness to
+feedback, willingness to revise work, and interest in learning unfamiliar tools, technologies, or business domains. Professional judgment when working with
+data, technical tools, documentation, and AI-generated outputs, including an understanding of appropriate review, accuracy, privacy, security, and governance
+considerations. How You Will Work and Learn You will work alongside technical practitioners and business or program specialists, receive feedback on your work,
+and share progress with your team. Assignments will be based on project priorities and may align to specific AI engineering skill areas, technologies, business
+functions, or client and program contexts. You will use approved tools and data, follow applicable privacy, security, and governance requirements, and clearly
+document assumptions and limitations. AI-generated outputs that may inform business or program decisions will remain subject to appropriate human review. Bot
+and Third-Party Applications Please note that thi

@@ -1,0 +1,33 @@
+NVIDIA is seeking exceptional security and privacy researchers to contribute to the development of secure, private, and safe systems. In particular, security,
+privacy, and safety concerns are increasingly limiting the access and use of data in AI as well as the use of AI in critical use cases. In order to enable
+trustworthy AI systems in the future, all layers of AI systems need to be co-designed and co-optimized to provide strong, verifiable protection while still
+maximizing performance and energy efficiency. We are seeking candidates that have a proven track record of research excellence, a broad perspective on
+security/privacy across the full hardware/software stack, and depth in one of the layers such as computer architecture, programming languages, software systems,
+applied cryptography, and AI/ML algorithms.
+NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in accelerated computing and AI systems, with aggressive plans for future
+system developments. This position offers you the opportunity to have a real impact in a dynamic, technology-focused company.
+What you'll be doing:
+Understand and analyze the potential vulnerabilities and risks in future systems for AI and AI-based systems.
+Develop creative hardware, software, and algorithms to enable trustworthy AI systems with strong and verifiable security, privacy, and safety guarantees.
+Collaborate with a diverse set of teams across the company, spanning software, hardware, research, and product groups.
+Publish original research and speak at conferences and events.
+What we need to see:
+You are pursuing a Ph.D. in CE/CS/EE with a strong background in computer architecture, operating systems, programming. languages/compilers, applied
+cryptography, and/or AI/ML.
+Demonstrated expertise in at least one specific security area (applied cryptography, programming languages, software systems, AI/ML algorithms, computer
+architecture, etc) with the ability to become the go-to resource within a team having varied backgrounds.
+Strong publication and research collaboration records.
+Experience with experimental research and development.
+Experience with C, C++, Python, and/or scripting languages.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers! We have some of the most hardworking, resourceful and dedicated people
+in the world working for us. Are you a creative and collaborative security researcher who loves the challenge of exploring and crafting techniques that will
+impact our future products? If so, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 18, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

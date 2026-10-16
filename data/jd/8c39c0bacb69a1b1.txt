@@ -1,0 +1,72 @@
+Job Application for Data Science Co-Op/Intern (Spring/Summer 2027) at MetOx International, Inc.
+Back to jobs
+Data Science Co-Op/Intern (Spring/Summer 2027)
+Houston, TX
+Apply
+Empower Your Future: At MetOx International, we're pioneering the next era of energy security and abundance through breakthrough superconducting technology. As
+a Data Science Co-op/Intern, you'll join a dynamic team committed to strengthening the world's energy systems to make them more resilient, efficient, and
+reliable.
+Based at our global headquarters in Houston, TX, the Data Science Co-op/Intern supports data-driven decision-making across our operations. This intern role
+focuses on collecting, analyzing, and interpreting complex data sets, including process and operational data, to help improve our production processes, optimize
+resource allocation, and enhance product performance. You will use modern data science tools, including AI-assisted development environments and large language
+models, to move faster while still checking that results are accurate and useful. This position reports to the Chief Information Officer.
+Key Responsibilities
+Data Collection & Analysis
+- Assists in gathering, cleaning, and preprocessing data from multiple sources including relational databases, process historians, sensors, and operational
+systems to ensure data accuracy and completeness.
+- Assists in conducting exploratory data analysis (EDA) to identify patterns, trends, and relationships within production and operational data.
+- Assists in troubleshooting data retrieval issues, including network connectivity errors, permission issues, and data access failures from industrial and
+enterprise data sources.
+- Supports data ingestion from industrial protocols such as MQTT and OPC-UA, including a basic understanding of how these protocols communicate process and
+sensor data.
+Modeling, Machine Learning & AI
+- Assists in developing and implementing statistical and machine learning models to solve operational challenges such as predictive maintenance, anomaly
+detection, and process optimization.
+- Uses AI-assisted development tools (for example, Cursor or similar coding assistants) and large language models to accelerate coding, data exploration,
+documentation, and reporting.
+- Supports the application of AI tools and techniques, including generative AI and LLMs, to speed up analysis, automate reporting, and surface insights from
+complex process datasets, while validating model output before it is used in analysis or recommendations.
+- Collaborates with engineering and production teams to deploy data-driven solutions that improve efficiency and quality.
+Reporting & Visualization
+- Creates data visualizations and dashboards to communicate insights and findings to non-technical stakeholders.
+- Prepares reports summarizing data analysis results, with clear recommendations based on data insights.
+- Uses AI-assisted writing and coding tools to draft reports, queries, and visualizations, then reviews and corrects the output before sharing it.
+Collaboration & Continuous Learning
+- Works with cross-functional teams to understand business needs and translate them into data science objectives.
+- Stays current with industry trends, tools, and best practices in data science, AI-assisted development, large language models, and industrial data systems.
+- Other duties as assigned.
+Minimum Qualifications:
+- Actively enrolled in a bachelor's degree (sophomore standing or above) in data science, statistics, computer science, engineering, or a related field.
+- Prior exposure to data science, data engineering, or a related field through coursework, personal projects, or other relevant experience.
+- Actively enrolled in a bachelor's degree in data science, statistics, computer science, engineering, or a related field at an accredited university.
+- Basic understanding of networking concepts, including TCP/IP, DNS, HTTP/HTTPS, and general connectivity troubleshooting.
+- Basic familiarity with relational databases such as PostgreSQL or MySQL, including writing simple queries (SELECT, JOIN, WHERE).
+- Basic understanding of AI-assisted development environments (for example, Cursor or similar coding assistants) and of large language models, including how
+these tools are used to write, review, and debug code and to speed up data analysis.
+- Awareness of AI concepts and how they can be applied to data science and analytics workflows, including the need to check model output for accuracy.
+Preferred Qualifications:
+- Actively enrolled in a master's degree in data science, statistics, computer science, engineering, or a related field.
+- Previous internship or relevant work experience.
+- Hands-on experience using an AI-assisted IDE or coding assistant (for example, Cursor) on coursework, personal projects, or prior work.
+- Experience with industrial communication protocols such as MQTT or OPC-UA.
+- Familiarity with time-series data analysis and process historian platforms (e.g., OSIsoft PI, InfluxDB).
+- Exposure to SCADA systems or industrial IoT environments.
+- Hands-on experience with PostgreSQL, MySQL, or other relational or time-series database platforms.
+Knowledge, Skills, & Abilities:
+- Proficiency or strong working knowledge of programming languages commonly used in data science (Python or R).
+- Familiarity with data visualization concepts and data processing libraries (Pandas, NumPy).
+- Basic understanding of machine learning techniques and model evaluation methods.
+- Familiarity with AI-assisted IDEs and coding assistants (for example, Cursor) and the ability to use LLM-based tools effectively and responsibly in data
+science and analytics work.
+- Ability to prompt, review, and correct AI-generated code, SQL, and analysis so that results are accurate before they are shared or acted on.
+- Awareness of AI and generative AI tools and how they can be applied to data science and operational analytics.
+- Basic knowledge of relational databases (PostgreSQL, MySQL) and the ability to write and interpret SQL queries.
+- Understanding of industrial data protocols such as MQTT and OPC-UA and how they are used to transmit process and sensor data.
+- Ability to independently troubleshoot basic data access issues, including network connectivity, database permissions, and protocol configuration.
+- Analytical mindset with strong problem-solving skills.
+- Excellent communication skills, with the ability to explain technical findings to non-technical stakeholders.
+- Detail-oriented and proactive, with a desire to learn and grow in the field of data science.
+Physical Demands: This position requires sitting at a desk and viewing a computer screen for extended periods while working or performing other office tasks.
+Ability to move around the office, including occasional standing, walking, and bending to retrieve documents, attend meetings, or use office equipment. Some
+light lifting may be required, up to 20 lbs.
+We are an equal opportunity employer and all qualifi

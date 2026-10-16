@@ -1,0 +1,64 @@
+About Pinterest:
+Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime.
+At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace
+the flexibility to do your best work. Creating a career you love? It’s Possible.
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are
+excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with
+AI.
+Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can
+read more about our AI interview philosophy and how we use AI in our recruiting process here .
+As a Machine Learning Intern at Pinterest, you’ll apply machine learning and AI to product and engineering challenges. You’ll work with engineering, product and
+data teams to prototype, evaluate and improve ML-powered features and discovery experiences. Throughout your internship, you’ll contribute to real projects,
+learn how large-scale ML systems are developed and build practical skills with guidance from experienced engineers.
+What you’ll do:
+- Own a scoped machine learning project from problem definition through experimentation, implementation and communication of results, with guidance from your
+manager and team
+- Contribute to applied machine learning and AI research that informs Pinterest product experiences
+- Collect, analyze and synthesize data to develop data-driven machine learning models
+- Write clean, efficient and maintainable code, supported by appropriate documentation and testing
+- Apply relevant machine learning techniques, including natural language processing or graph-based approaches, to modeling and ranking problems across
+discovery, ads and search
+- Break down scoped technical problems, propose approaches and implement solutions with guidance from the team
+- Deliver assigned project milestones, share progress and findings with teammates and seek guidance when needed
+- Experience applying machine learning or AI concepts through research, coursework, projects or internships.
+- Use AI to accelerate analysis and iteration while applying judgment and verification to ensure correctness and quality.
+What we are looking for:
+- Working towards a Master's or PhD degree in Computer Science, ML, NLP, Statistics, Information Sciences or related field
+- Machine Learning (ranking, computer vision, NLP, content recommendations, embedding, information retrieval etc)
+- Experience with big data technologies (e.g., Hadoop/Spark) and scalable realtime systems that process stream data
+- Proficiency in at least one systems language (Java, C++, Python) or one ML framework (Tensorflow, Pytorch, MLFlow)
+- Experience in research and in solving analytical problems
+- Strong communicator and team player with the ability to find solutions for open-ended problems
+This job posting is for an open vacancy. Please note that the company utilizes artificial intelligence to screen applicants for the positions.
+In-Office Requirement Statement:
+- This onsite internship will be based in our Toronto office requiring a few days in office. Our program will run in a full-time capacity during typical
+business hours between Monday-Friday.
+- This role will need to be in the office for in-person collaboration 2-3 weekdays per week and therefore needs to be within a commutable distance of Toronto .
+Relocation Statement:
+- This position may be eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
+- Information regarding the culture at Pinterest and benefits available for this position can be found here .
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are
+sharing the base salary range for this position. Final salary is based on a number of factors including location, travel, relevant prior experience, or
+particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here .
+Canada based applicants only
+The minimum and maximum salary for this position is CA$8000 - CA$8600 monthly.
+#LI-HYBRID
+#LI-AG4
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are
+sharing the base salary range for this position. Final salary is based on a number of factors including location, travel, relevant prior experience, or
+particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here .
+Canada based applicants only
+$8,000 — $8,600 CAD
+Our Commitment to Inclusion:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All
+qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex
+(including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as
+a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other
+consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with
+legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
+By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to
+the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in
+termination if discovered after hire.

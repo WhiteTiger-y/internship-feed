@@ -1,0 +1,76 @@
+Syngenta Group Soil Spectroscopy and Chemometrics Co-op | SmartRecruiters
+- Google Chrome
+- Microsoft Edge
+- Apple Safari
+- Mozilla Firefox
+Soil Spectroscopy and Chemometrics Co-op
+- Intern
+Company Description
+About Syngenta
+At Syngenta Crop Protection, we're pioneering solutions that safeguard global food security while championing sustainable agriculture. As a world market leader
+headquartered in Switzerland, we empower farmers with innovative crop protection technologies that defend against nature's toughest challenges. We unite
+advanced science with digital solutions to develop intelligent crop protection that maximizes yields while minimizing environmental impact. Join our mission of
+revolutionizing plant protection from seed to harvest.
+Job Description
+At Syngenta, our goal is to build the most collaborative and trustworthy team in agriculture, providing top-quality seeds and innovative crop protection
+solutions that improve farmers' success. We invite you to help shape the future of agriculture and play a role in safely feeding the world while caring for our
+planet.
+Syngenta's Seeds Research Portfolio and Project Management Team is seeking a Soil Spectroscopy and Chemometrics Co-op in Des Moines, IA. This internship role
+will work with our soil scientists and data scientists on projects that leverage Fourier-transform infrared (FTIR) spectroscopy and advanced chemometric and
+machine learning methods to rapidly characterize soil properties at scale.
+As a co-op, you will work at the intersection of soil science, spectroscopy, and data science, developing and validating calibration models, exploring novel
+modeling approaches, and helping establish workflows that connect spectral data to actionable agronomic insights.
+As part of Syngenta's Emerging Talent Program, you will gain hands-on experience, exposure to day-to-day business operations, and opportunities to apply your
+academic knowledge to real-world challenges while developing your professional skills.
+Duration: May 2027 – August 2027
+Accountabilities:
+- Build, evaluate, and refine calibration models that predict soil physical and chemical properties (e.g., organic carbon, texture, pH, CEC, nutrients) from
+infrared spectra.
+- Apply spectral preprocessing techniques (e.g., Savitzky-Golay derivatives, scatter correction, baseline correction) and evaluate their impact on model
+performance.
+- Work with large soil spectral libraries, comprising instrument standardization and calibration transfer challenges.
+- Develop and compare chemometric (PLSR) and machine learning (Random Forest, CNN, etc.) approaches for soil property prediction.
+- Collaborate closely with a multidisciplinary team of soil scientists, agronomists, and data scientists.
+- Communicate methods and results clearly to both technical and non-technical stakeholders.
+- The intern will operate in accordance with Syngenta Health, Safety, & Environmental (HSE) standards.
+Qualifications
+- Student must be currently pursuing a Ph.D. in Soil Science, Environmental Science, Chemometrics, Data Science, Agricultural Engineering, Analytical Chemistry,
+or a related field. Advanced Ph.D. students with existing spectroscopy or chemometrics research experience are strongly preferred.
+- Must be a current student continuing their education upon completion of the co-op term (May 2027 through August 2027).
+- All applicants must be eligible to work in the U.S.
+- Demonstrated experience with vibrational spectroscopy data (MIR, NIR, and/or Vis-NIR), such as spectral preprocessing and multivariate calibration.
+- Proficiency in one or more programming languages used in chemometrics and data science (R, Python).
+- Experience accessing and working with soil spectral libraries (e.g., USDA KSSL, OSSL).
+- Experience with chemometric methods (particularly Partial Least Squares Regression) and familiarity with machine learning approaches for spectral data (e.g.,
+Random Forest, CNNs, transformer-based models).
+- Understanding of soil science fundamentals, including soil properties, analytical methods, and the physical basis of spectral absorption features in soils.
+- Scientific curiosity and passion for creative problem-solving.
+- Ability to communicate complex ideas and results in a clear and actionable manner.
+- Comfortable working independently and as part of a team.
+- Familiarity with calibration transfer methods and multi-instrument workflows is a plus.
+Additional Information
+Salary for this position ranges between $20 - $45 hourly.
+What We Offer:
+- A culture that celebrates belonging and collaboration, promotes professional development and strives for a work-life balance that supports the team members.
+- ⁠Competitive wages
+- Ongoing career development resources
+- The opportunity to work on meaningful, innovative projects that solve problems
+Syngenta is committed to creating a culture that celebrates belonging and collaboration, promotes professional development, and strives for a work-life balance
+that supports the team members
+Syngenta has been ranked as a top employer by Science Journal. Learn more about our team and our mission here: https://www.youtube.com/watch?v=OVCN_51GbNI
+Syngenta is an Equal Opportunity Employer and does not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of
+race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.
+#LI-DNI
+By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party
+website's terms and privacy policy apply
+I'm interested I'm interested
+Privacy Notice
+I'm interested Refer a friend
+share this job
+Share to WeChat
+×
+Copy the link and open WeChat to share.
+Copy to clipboard Open WeChat
+Share to WeChat
+×
+Use Scan QR Code in WeChat and click ··· to share.

@@ -1,0 +1,20 @@
+As a Data Scientist Intern at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications.
+By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences
+we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems
+with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data
+and analysis to identify and solve product development’s biggest challenges. You will influence product strategy and investment decisions with data, be focused
+on impact, and collaborate with other teams.
+Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build
+bring value to people, businesses, and Meta.
+Analytics: You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and
+technical approaches to test them.
+Communication and influence: You won’t simply present data, but tell data-driven stories.
+Perform large-scale data analysis to extract useful business insights. Identify actionable insights, suggest recommendations and influence the direction of the
+business by communicating results to cross-functional groups. Work closely with a Product Manager and Engineering team to proactively create metric systems and
+manage decisions. Classify leads so that the teams work on the most valuable cases. Suggest improvements in the tools and techniques to help scale the team
+and/or build 0->1 convictions on new initiatives. Model solutions around what delivers long-run user value to our users
+Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience Currently is in the process of obtaining a PhD
+degree in quantitative field Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during
+employment Curious, self-driven, analytical and excited to play with data Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python),
+and/or statistical/mathematical software (e.g. R) Ability to thrive in a fast paced work environment Intent to return to a degree-program after the completion
+of the internship

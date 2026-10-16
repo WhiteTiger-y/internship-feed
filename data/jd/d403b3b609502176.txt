@@ -1,0 +1,47 @@
+To qualify for US internships, you must be currently enrolled in a degree-seeking program with an expected graduation date after the internship/co-op ends. If
+you do not meet this requirement, we invite you to explore other opportunities available on our careers website.
+Intuit internships are 12 weeks throughout the summer. We have fixed start and end dates that are designed to work with various universities’ academic
+calendars.
+- Cohort 1: Monday, May 17 - Friday, August 6, 2027 (12 weeks)
+- Cohort 2: Monday, June 14 - Friday September 3, 2027 (12 weeks)
+About our Emerging Talent Program:
+Intuit invests in Emerging Talent because fresh perspectives strengthen our products and teams. The program is backed by a culture that values curiosity and
+collaboration, and you'll be supported by dedicated managers and mentors who are invested in your growth. As an intern or co-op, you'll work on meaningful
+projects with business impact, many centered on AI and emerging technologies, and contribute to driving decisions. You'll build skills through function-specific
+learning opportunities, connect with a global community of interns and co-ops through dedicated programming and social events, and get exposure to senior
+leadership and cross-functional work across Intuit's product ecosystem. Learn more about our Intern and Co-op Program here .
+As an AI Scientist Intern at Intuit, you won't just be observing; you'll be on the front lines. You'll work side-by-side with our world-class AI Scientists,
+Researchers and Machine Learning Engineers, collaborating with Data Analysts, Software Engineers, and Product Managers. This is your chance to uncover critical
+insights and develop powerful machine learning models that directly understand and enhance customer experiences across Intuit's products.
+Previous AI Scientist Interns have worked on projects such as improving customer experiences by applying adversarial deep learning to ranking algorithms and
+assessing call quality using transcript data; innovating with NLP and deep learning to link form lines to documentation, build temporal recommendation models,
+and develop unsupervised knowledge acquisition for Q&A systems; forecasting and prediction through transaction time series forecasting, real-time churn
+prediction, and predicting cognitive biases with financial data; and enhancing model training by exploring active learning for event labels and creating
+customer intent classifiers for digital assistants.
+Responsibilities
+- Gather, clean, and explore large, real-world datasets to uncover patterns and prepare them for modeling, including your own data wrangling and ETL.
+- Build, train, and evaluate machine learning and deep learning models using techniques such as classification, regression, clustering, and neural networks.
+- Engineer and refine features from raw data, developing intuition for what drives model performance.
+- Design and run experiments (e.g., A/B tests), perform statistical analysis, and communicate the impact of your models to peers and leaders.
+- Dive into current AI/ML research and methodologies, including generative AI and LLMs, to inform new solutions and stay ahead of the curve.
+- Partner with AI Scientists, Machine Learning Engineers, Data Analysts, Software Engineers, and Product Managers to translate insights into product impact.
+- Develop proofs-of-concept for innovative, AI-driven features or solutions.
+- Create clear documentation of your research, model architectures, code, and experimental results for both technical and non-technical audiences.
+Qualifications
+- Currently enrolled in a PhD program in Computer Science or a related technical field. Alternatively, a Bachelor's or Master's program with prior relevant
+experience and a graduation date after the internship ends.
+- Must be legally authorized to work in the United States on a full-time basis for the duration of the internship.
+- Ability to work in a hybrid environment at an Intuit office location determined by your team and role (relocation stipend provided).
+- Familiarity with core machine learning techniques (regression, classification, clustering, optimization) and their mathematical foundations.
+- Ability to explore, discover, and import data from multiple sources and make it machine-learning ready.
+- Strong programming skills in Python; SQL proficiency.
+- Curiosity about generative AI and large language models, and interest in applying AI tools to accelerate your own work.
+- Excellent communication skills and a learning mindset.
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity
+rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits ). Pay
+offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts
+regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is: $42.69 - $86.68 /hr.
+The expected base pay range for this position is:
+Mountain View $50.5 - $89.5
+New York $49.5- $86.5
+San Diego, CA $45- $82

@@ -1,0 +1,94 @@
+Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A29723
+Apply to this job Share this listing:
+Responsibilities
+About the team
+The TikTok Search team is responsible for delivering a world-class search experience across TikTok’s global ecosystem. Our mission is to connect users with the
+most relevant and high-quality content through advanced technologies in search ranking, recommendation, and multimodal understanding. As a campus hire, you will
+collaborate with top engineers and researchers to solve challenging problems at scale, working across the full stack of search—from content understanding and
+retrieval to ranking and user experience optimization.
+Project Overview, Challenges & Value
+With the rapid evolution of pre-trained large models, TikTok Search is advancing toward a new paradigm of AI-native search. Traditional search systems face
+increasing limitations when handling massive-scale data, multimodal content (video, text, image), and complex user intents. This project focuses on building a
+next-generation generative search system powered by large models to significantly enhance search intelligence and user experience.
+Key focus areas include:
+- Integrating large models with ranking systems to improve personalization and relevance.
+- Developing end-to-end generative search models based on multimodal pretraining.
+- Exploring large model–driven agent frameworks to better support complex, ambiguous, and multi-turn search scenarios.
+Key challenges include:
+- Personalized ranking: Fully leveraging multimodal signals beyond traditional model capacity.
+- Ultra-large-scale retrieval and ranking: Scaling search systems to efficiently handle hundreds of billions of candidates.
+- Complex query understanding: Accurately interpreting long, ambiguous, and multi-turn queries to improve user satisfaction.
+Project Value:
+- Technical Value: Drive innovation in large model–powered search architecture and enable agent-based AI search systems.
+- Business Value: Significantly improve search relevance and user satisfaction, strengthening TikTok’s search engagement and long-term growth.
+We are looking for talented individuals to join us for an internship in 2026. PhD Internships at our Company aim to provide students with the opportunity to
+actively contribute to our products and research, and to the organization's future plans and emerging technologies.
+PhD internships at Our Company provides students with the opportunity to actively contribute to our products and research, and to the organization's future
+plans and emerging technologies. Our dynamic internship experience blends hands-on learning, enriching community-building and development events, and
+collaboration with industry experts.
+Applications will be reviewed on a rolling basis - we encourage you to apply early. Please state your availability clearly in your resume (Start date, End
+date).
+Responsibilities
+- Support the development of AI search systems using large models (LLMs).
+- Assist in improving ranking, personalization, and relevance in search.
+- Contribute to generative and multimodal search models (video, text, image).
+- Explore LLM-based approaches for complex and multi-turn queries.
+- Help optimize retrieval and ranking performance at scale.
+- Collaborate with mentors and cross-functional teams to prototype and evaluate solutions.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a PhD in Computer Science, Machine Learning, Artificial Intelligence, or related fields.
+- Solid foundation in machine learning, deep learning, or information retrieval.
+- Familiarity with at least one of the following: LLMs, NLP, search/recommendation, or multimodal learning.
+- Proficiency in Python and experience with ML frameworks (e.g., PyTorch, TensorFlow).
+- Strong problem-solving skills and willingness to learn in a fast-paced environment.
+Preferred Qualifications
+- Research experience demonstrated through projects, publications, or open-source contributions.
+- Experience with large-scale data, model training, or system implementation.
+- Exposure to search, recommendation, or ads systems.
+- Experience with multimodal models or generative AI applications.
+- Interest in LLMs, agent-based systems, or end-to-end AI applications.
+Previous internship or research experience in industry or labs.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $75- $75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission i

@@ -1,0 +1,87 @@
+Job Application for Summer 2027 Data Science Intern at The Nuclear Company
+Back to jobs
+Summer 2027 Data Science Intern
+Washington, DC
+Apply
+The Nuclear Company is the fastest growing AI tech-startup in the nuclear and energy space, pioneering a fleet-scale approach to building the next generation of
+nuclear reactors. Through our design-once, build-many model, we're accelerating the deployment of safe, reliable, and affordable nuclear energy.
+We operate with an AI-first mindset. Every employee is expected to leverage AI, technology, and the Nuclear Operating System (NOS) as integral components of
+their role to improve the quality, speed, and impact of their work. We expect every team member to continuously identify opportunities to automate workflows,
+enhance decision-making, improve processes, and contribute to the ongoing evolution of NOS as a strategic operating capability that enables The Nuclear Company
+to scale with excellence.
+We hire people who are driven by purpose, thrive in ambiguity, and are energized by building what has never been built before. Our team combines intellectual
+curiosity with high agency, embraces candid feedback and continuous learning, and holds themselves and others to exceptional standards. Our values— Trust,
+Responsibility, Unity, Scrappiness, and Tenacity —guide how we hire, collaborate, and make decisions every day. They are not words on a wall; they are the
+standard by which we operate. Trust is the foundation of our safety culture, fostering intellectual honesty, accountability, and open communication, while our
+values challenge every team member to execute with urgency, humility, resilience, and an unwavering commitment to our mission.
+About the role
+The United States is building nuclear power again, and The Nuclear Company is writing the software that makes it possible. NOS, the Nuclear Operating System,
+runs the regulatory, supply chain, cost, schedule, and field work behind real reactor construction. The work matters for national security, energy independence,
+and the climate.
+You will turn data into decisions that move a nuclear build forward. As a Data Science Intern, you do the full applied data science job on NOS: frame the
+question, wrangle the data, build and validate models, and put the answer in front of the people who act on it. You will work on forecasting and decision
+analysis for megaproject cost and schedule, extend the NOS ontology and data model, and build the analyses and dashboards leaders use to make real calls. You
+work next to full-time data scientists and ship work that reaches production.
+This is a 12-week Summer 2027 internship (May to August), aligned to the academic calendar. Base location is Washington DC, on-site five days a week, with full
+housing and relocation for interns outside the DC metro area.
+Responsibilities
+- Frame business and engineering questions with stakeholders, then source, clean, and explore the data needed to answer them.
+- Build and validate models (forecasting, classification, anomaly detection, decision analysis) for megaproject cost, schedule, and risk.
+- Engineer features and extend the NOS ontology and data model across regulatory, supply chain, cost, and schedule domains.
+- Build data pipelines across Palantir Foundry, AWS GovCloud, and more.
+- Design metrics, dashboards, and analyses that operators, engineers, and executives use to make decisions, and communicate findings clearly.
+Required Experience
+- Currently pursuing a BS or MS in Data Science, Statistics, Computer Science, Applied Math, or a related quantitative field. Expected graduation between
+December 2027 and June 2028, and returning to school after the internship.
+- Strong Python and the data stack (pandas, NumPy, scikit-learn), with working knowledge of SQL.
+- Foundation in statistics and probability, and a track record of completed data analysis (course, personal, research, or prior internships).
+- This position requires access to information and technology subject to U.S. export controls (including DOE 10 CFR Part 810 and NRC requirements). U.S. Person
+status (U.S. citizen or lawful permanent resident) is required, and TNC does not provide visa sponsorship for these roles.
+- Willing and able to work on-site in Washington DC, five days a week, for the full 12-week program.
+Preferred Experience
+- Data visualization and dashboarding; exposure to cloud data warehouses.
+- Forecasting, time-series, or experimental design.
+- Coursework or project experience with Palantir Foundry or AWS.
+- Interest in energy, national security, industrial software, or regulated industries.
+- Familiarity with nuclear engineering concepts (not required, we teach the domain)
+Benefits
+- Competitive compensation packages
+- 401k with company match
+- Medical, dental, vision plans
+- Generous vacation policy, plus holidays
+Estimated Starting Salary Range
+The estimated starting rate for this role is $25.00 an hour plus a $2,000 monthly housing stipend less applicable withholdings and deductions, paid on a bi-
+weekly basis. The actual pay offered may vary based on relevant factors as determined in the Company’s discretion, which may include experience, qualifications,
+tenure, skill set, availability of qualified candidates, geographic location, certifications held, and other criteria deemed pertinent to the particular role.
+EEO Statement
+The Nuclear Company is an equal opportunity employer committed to fostering an environment of inclusion in the workplace. We provide equal employment
+opportunities to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age,
+disability, veteran status, or any other protected characteristic. We prohibit discrimination in all aspects of employment, including hiring, promotion,
+demotion, transfer, compensation, and termination.
+Export Control
+Certain positions at The Nuclear Company may involve access to information and technology subject to export controls under U.S. law. Compliance with these
+export controls may result in The Nuclear Company limiting its consideration of certain applicants.
+Recruiting Fraud Alert
+Your safety is our priority. We want to ensure your job search stays secure. Please note that the team at The Nuclear Company only communicates through official
+@thenuclearcompany.com email addresses. We will never ask for payments or sensitive financial information at any stage of our recruitment process. For your
+peace of mind, please verify all openings and submit your applications directly through our official careers page .
+Create a Job Alert
+Interested in building your career at The Nuclear Company? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types

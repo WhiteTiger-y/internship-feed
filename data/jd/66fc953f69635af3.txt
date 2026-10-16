@@ -1,0 +1,89 @@
+Machine Learning Research Scientist Intern (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)
+Life at ByteDance
+Our Culture Our Philosophy Teams
+Advertising & Sales Corporate Functions Design E-Commerce Global Operations Marketing & Communications Product Technology How We Hire
+Applying to ByteDance Interview Tips Frequently Asked Questions Locations
+Early Careers
+Early Careers at ByteDance Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+EN 日本語
+p:empty]:h-[56px] [&>div:empty]:h-[56px] bd-title"> Join us as we work together to inspire creativity and enrich life around the globe.
+Life at ByteDance
+Early Careers Americas Asia Pacific Europe and Middle East Early Careers FAQ
+Teams Technology Product Design Marketing & Communications Corporate Functions Global Operations Advertising & Sales
+How We Hire FAQ Interview Tips
+Locations
+Blog
+Legal Privacy Policy Cookie Policy
+Other Open Roles Careers @ TikTok Careers in China
+Privacy Policy © 2012-2025 ByteDance
+Machine Learning Research Scientist Intern (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)
+Location :
+Seattle
+Team :
+Technology
+Employment Type :
+Intern
+Job Code :
+A240351
+Apply to this job Share this listing:
+Responsibilities
+About the Team:
+The AI for Science team has been focusing on tackling challenges in natural sciences, including biology, physics, and materials, with computational tools such
+as Machine Learning, Computational Chemistry, High-throughput Computation. Our goal is to create breakthroughs in natural science with new methodology and help
+the world.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+1. Track cutting-edge research developments across the industry and work closely with the team to build deep and broad technical understanding of the field.
+2. Integrate methods from multiple disciplines, including machine learning, quantum chemistry, and molecular dynamics, to explore frontier applications in
+biology and materials science.
+3. Consolidate research outcomes from both the industry and internal teams, and help translate research into practical applications with broad impact.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Ph.D.; preferred majors include Computer Science, Mathematics, Physics, Computational Materials Science, Quantum Chemistry, or related
+fields.
+- Strong communication and teamwork skills, a proactive willingness to learn, and a conscientious, responsible work ethic.
+- Proficiency in at least one programming language, such as Python, C, C++, CUDA, or Triton, with solid engineering capability and the ability to effectively
+orchestrate coding agents in development workflows.
+- Meets at least one of the following criteria: Familiar with quantum chemistry algorithms, with experience in developing or using DFT/Post-HF computational
+tools or algorithms；Familiar with molecular dynamics engine development, with experience modifying the source code of LAMMPS or OpenMM；Familiar with machine
+learning algorithms, with hands-on experience in at least one of the following areas: LLMs, reinforcement learning, agents, or generative models；Familiar with
+solid-state physics, with hands-on experience in materials simulation and MLIP development；Familiar with statistical mechanics and enhanced sampling algorithms,
+with strong domain knowledge and development capability.
+- Candidates with publications in top journals in related fields and/or strong industry experience will be preferred.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here:
+https://jobs.bytedance.com/en/legal/privacy
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $57- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, 

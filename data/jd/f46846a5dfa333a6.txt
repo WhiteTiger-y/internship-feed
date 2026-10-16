@@ -1,0 +1,37 @@
+What You Will Do Partner with experienced team members to understand business challenges and translate them into analytical questions. Learn industry best
+practices for data preparation, exploratory analysis, feature engineering, and model development. Gain exposure to machine learning and AI techniques including
+forecasting, classification, anomaly detection, and emerging generative AI applications. How You Will Do It Use tools and technologies such as Python, SQL,
+Snowflake data lake, Copilot Studio, Open-source LLMs, Vision Language Models, Decision intelligence tools, Azure Data Factory, Matillion, Power BI and Advanced
+Analytics tools to support analytics initiatives. Participate in project discussions, brainstorming sessions, and knowledge-sharing activities with both
+technical and business teams. Present findings, insights, and recommendations while receiving feedback that helps strengthen your analytical and communication
+skills. Attend regular mentorship and development discussions focused on professional growth, career exploration, and continuous learning. Learn how data
+science projects are delivered in a business environment, from problem definition through solution implementation and measurement. What We Look For Currently
+enrolled as a full-time student at an accredited U.S. college or university Pursuing an undergraduate degree in Data Science. Ability to be in the greater
+Milwaukee area in the summer. Duration: Summer 2027. Up to 40 hours per week. Working Arrangements: Hybrid internship – must have a quiet workspace away from
+interruptions, with the option to work in the office. Be able to maintain regular contact with the supervisor/team via virtual methods. PLEASE NOTE that
+applicants must be authorized to work for any employer in the US without the need for sponsorship, now or in the future. #LI-CC1 What you get: Global market
+strength and worldwide market share leadership HQ location earns LEED certification for sustainability plus a full-service cafeteria and workout facility
+Clarios has been recognized as one of 2026's Most Ethical Companies by Ethisphere. This prestigious recognition marks the fourth consecutive year Clarios has
+received this distinction. Who we are: Clarios is the force behind the world’s most recognizable car battery brands, powering vehicles from leading automakers
+like Ford, General Motors, Toyota, Honda, and Nissan. With 18,000 employees worldwide, we develop, manufacture, and distribute energy storage solutions while
+recovering, recycling, and reusing up to 99% of battery materials—setting the standard for sustainability in our industry. At Clarios, we’re not just making
+batteries; we’re shaping the future of sustainable transportation. Join our mission to innovate, push boundaries, and make a real impact. Discover your
+potential at Clarios—where your power meets endless possibilities. Veterans/Military Spouses: We value the leadership, adaptability, and technical expertise
+developed through military service. At Clarios, those capabilities thrive in an environment built on grit, ingenuity, and passion—where you can grow your career
+while helping to power progress worldwide. All qualified applicants will be considered without regard to protected characteristics. Equal Employment
+Opportunity: We recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If your experience is close
+to what you see listed here, please apply. Diversity of experience and skills combined with passion is key to challenging the status quo. Therefore, we
+encourage people from all backgrounds to apply to our positions. All qualified applicants will receive consideration for employment without regard to race,
+color, religion, sex, sexual orientation, gender identity, national origin, disability, age, status as a protected veteran or other protected characteristics
+protected by law. As a federal contractor, we are committed to not discriminating against any applicant or employee based on these protected statuses. We will
+also take affirmative action to ensure equal employment opportunities. Please let us know if you require accommodations during the interview process by emailing
+Special.Accommodations@Clarios.com. We are an Equal Opportunity Employer and value diversity in our teams in terms of work experience, area of expertise, and
+all characteristics protected by laws in the countries where we operate. For more information on our commitment to sustainability, diversity, and equal
+opportunity, please read our latest report. We want you to know your rights because EEO is the law. A Note to Job Applicants: please be aware of scams being
+perpetrated through the Internet and social media platforms. Clarios will never require a job applicant to pay money as part of the application or hiring
+process. To All Recruitment Agencies: Clarios does not accept unsolicited agency resumes/CVs. Please do not forward resumes/CVs to our careers email addresses,
+Clarios employees or any other company location. Clarios is not responsible for any fees related to unsolicited resumes/CVs. Clarios is the creator behind the
+world’s most recognizable car battery brands. We are the car battery found in most new vehicles including leading brands such as Ford, General Motors, Toyota,
+Honda, and Nissan. Our 16,000 employees develop, manufacture, and distribute batteries for virtually every type of vehicle. We recover, recycle, and reuse up to
+99% of our battery materials, leading sustainability practices in our industry. A Note to Job Applicants: Please be aware of scams being perpetrated through the
+Internet and social media platforms. Clarios will never require a job applicant to pay money as part of the application or hiring process.

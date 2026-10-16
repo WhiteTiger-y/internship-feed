@@ -1,0 +1,49 @@
+At Zimmer Biomet, we believe in pushing the boundaries of innovation and driving our mission forward. As a global medical technology leader for nearly 100
+years, a patient’s mobility is enhanced by a Zimmer Biomet product or technology every 8 seconds.
+As a Zimmer Biomet team member, you will share in our commitment to providing mobility and renewed life to people around the world. To support our talent team,
+we focus on development opportunities, robust employee resource groups (ERGs), a flexible working environment, location specific competitive total rewards,
+wellness incentives and a culture of recognition and performance awards. We are committed to creating an environment where every team member feels included,
+respected, empowered and recognised.
+What You Can Expect
+The Data Management Intern supports the data management group which includes Data Engineering, Master Data Management, Data Pipelines, Data Visualization and
+Agentic Based solutions. The role will support Data Engineering in the design, development, and maintenance of reliable data pipelines, transformations, and
+models. These objects support analytics, reporting, and operational workflows. The role will also be involved in creating AI Agents for the department and its
+stakeholders.
+The role works closely with architects, analysts, and business stakeholders to translate requirements into secure, scalable, and high-quality data solutions.
+The intern is expected to partner with team members while owning assigned deliverables. The desired candidate should communicate clearly, bring structure to
+day-to-day technical work, and contribute to timely team outcomes.
+Key technologies will be SQL, Snowflake, Python and Cortex AI.
+The intern will be hands-on in contributing to real world solutions and will build job skills and experience that cannot be achieved in academia alone.
+How You'll Create Impact
+- Design, build, test, and maintain SQL-based data pipelines, transformations, and data models in Snowflake and other approved cloud data environments.
+- Develop Python-based data processing, automation, and integration workflows.
+- Ingest and process structured and semi-structured data from databases, APIs, files, SaaS applications, and cloud storage.
+- Implement ETL/ELT processes using SQL, Python, dbt or equivalent transformation frameworks, Snowflake capabilities, and orchestration tools (such as Dagster
+or similar).
+- Participate actively in Agile ceremonies and deliver assigned sprint commitments with quality and urgency.
+- Use version control and established CI/CD practices to develop, review, test, and deploy data solutions.
+- Apply data-quality, data-governance, security, and privacy practices to the design and operation of data products.
+- Troubleshoot data-pipeline issues, investigate root causes, and make performance and reliability improvements.
+- Maintain clear technical documentation, monitoring, alerting, and operational procedures for supported pipelines.
+- Collaborate with cross-functional partners to clarify requirements, communicate progress and risks, and deliver fit-for-purpose technical solutions.
+This is not an exhaustive list of duties or functions and might not necessarily comprise all of the essential functions for purposes of the Americans with
+Disabilities Act.
+What Makes You Stand Out
+- SQL and data modeling; Snowflake or a comparable cloud data warehouse preferred.
+- Some form of development experience is helpful, Python strongly preferred
+- dbt or comparable SQL-based transformation frameworks is helpful
+- Version control experience, preferably Git-supported
+- Ability to work effectively with cross-functional teams
+- Strong analytical, problem-solving, organizational, and critical-thinking skills.
+- Clear written and verbal communication skills
+- Ability to work independently and deal with ambiguity
+- Ability to collaborate across teams and geographies
+- Curious, proactive and ready to learn
+Your Background
+- Pursuing a degree in Computer Science, Computer Engineering, Information Systems, Mathematics or other highly technical degree
+- Must be actively enrolled in an academic program for the entire duration of the assignment.
+- Must be available to work full-time (40 hours/week) throughout the co-op session
+- Must be authorized to work in the U.S. without requiring employer sponsorship
+Travel Expectations
+None
+EOE/M/F/Vet/Disability

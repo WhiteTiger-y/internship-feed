@@ -1,0 +1,45 @@
+Worker Type Supplemental Job Description Job Description Our Summer Internship Program is meticulously designed to provide students with an immersive and
+dynamic experience within our industry, offering a taste of what it's like to be part of our professional team. We strive to simulate a full-time job, enabling
+our interns to work hands-on with cutting-edge technology, contribute to meaningful projects, build strong relationships with coworkers, and develop strategic
+problem-solving skills. Our program is highly selective, hosting only a handful of interns each year, ensuring personalized attention and ample opportunities to
+work closely with AV team members.  We are hiring for various roles and locations throughout the U.S. During the interview process, we will discuss specific
+details regarding the team and location. Summary As an Autonomy & Robotics Engineering Intern, you will work alongside a team of skilled engineers to support
+the development of autonomous behaviors, machine perception, and robotic control systems for unmanned aerial systems (UAS) and other advanced platforms. You’ll
+gain experience in algorithm development, simulation, and integration on real hardware in a fast-paced, collaborative R&D environment. This internship provides
+a hands-on opportunity to apply your academic knowledge to cutting-edge autonomy applications, with mentorship and support from senior engineers. Position
+Responsibilities Assist in the design, implementation, and testing of algorithms related to: Computer vision, object tracking, and target detection Guidance,
+Navigation, and Control (GNC) integrated with visual sensors State estimation using inertial and visual data Autonomous behavior modeling (e.g., finite-state
+machines, behavior trees) Path planning and multi-vehicle coordination Support the development and debugging of autonomy software on simulation platforms and
+real hardware Collaborate with teammates on testing, data collection, and experimental design Participate in code reviews and integration efforts across
+multidisciplinary teams Document and present findings in internal reports or presentations Perform other duties as assigned Basic Qualifications (Required
+Skills & Experience) Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Aerospace, Electrical Engineering, Robotics, or a related technical
+field Coursework or project experience in areas such as robotics, autonomy, or computer vision Proficiency in C/C++ (modern standards like C++11 or later
+preferred) Familiarity with Python and/or MATLAB for data analysis or prototyping Interest in working with UAS, robotics, or autonomous systems Strong
+analytical, communication, and problem-solving skills Willingness to learn, collaborate, and work in a hands-on environment Preferred Qualifications (Not
+Required but a Plus) Experience with Robot Operating System (ROS) Familiarity with: Vision-based perception (e.g., feature tracking, template matching, visual
+odometry) Trajectory planning, GNC algorithms, or control systems Embedded systems or low size, weight, and power (SWaP) devices Exposure to simulation tools,
+real-time systems, or experimental robotics Involvement in robotics competitions, clubs, or research projects Additional Competencies Team-oriented mindset with
+strong collaboration skills Comfortable asking questions and taking initiative to solve problems Thrives in a dynamic, deadline-driven R&D environment
+Demonstrates accountability and a commitment to continuous learning Able to clearly communicate technical information to diverse audiences Physical Demands
+Ability to work in an office and R&D lab environment (Constant) Required to sit, stand, and use a computer for long periods (Frequent) Occasional hands-on work
+with robotic systems, test setups, and hardware integration Clearance Level No Clearance The salary range for this role is: AeroVironment considers several
+factors when extending an offer, including but not limited to, the location, the role and associated responsibilities, a candidate’s work experience,
+education/training, and key skills. ITAR Requirement: This position requires access to information that is subject to compliance with the International Traffic
+Arms Regulations (“ITAR”) and/or the Export Administration Regulations (“EAR”). In order to comply with the requirements of the ITAR and/or the EAR, applicants
+must qualify as a U.S. person under the ITAR and the EAR, or a person to be approved for an export license by the governing agency whose technology comes under
+its jurisdiction. Please understand that any job offer that requires approval of an export license will be conditional on AeroVironment’s determination that it
+will be able to obtain an export license in a time frame consistent with AeroVironment’s business requirements. A “U.S. person” according to the ITAR definition
+is a U.S. citizen, U.S. lawful permanent resident (green card holder), or protected individual such as a refugee or asylee. See 22 CFR § 120.15. Some positions
+will require current U.S. Citizenship due to contract requirements. Benefits: AV offers an excellent benefits package including medical, dental vision, 401K
+with company matching, a 9/80 work schedule and a paid holiday shutdown. For more information about our company benefit offerings please visit:
+http://www.avinc.com/myavbenefits. We also encourage you to review our company website at http://www.avinc.com to learn more about us. Principals only need
+apply. NO agencies please. About AV: AV isn’t for everyone. We hire the curious, the relentless, the mission-obsessed. The best of the best. We don’t just build
+defense technology—we redefine what’s possible. As the premier autonomous systems company in the U.S., AV delivers breakthrough capabilities across air, land,
+sea, space, and cyber. From AI-powered drones and loitering munitions to integrated autonomy and space resilience, our technologies shape the future of warfare
+and protect those who serve. Founded by legendary innovator Dr. Paul MacCready, AV has spent over 50 years pushing the boundaries of what unmanned systems can
+do. Our heritage includes seven platforms in the Smithsonian—but we’re not building history, we’re building what’s next. If you're ready to build technology
+that matters—with speed, scale, and purpose—there’s no better place to do it than AV. We are proud to be an EEO/AA Equal Opportunity Employer, including
+disability/veterans. AeroVironment, Inc. is an Equal Employment Opportunity (EEO) employer and welcomes all qualified applicants. Qualified applicants will
+receive fair and impartial consideration without regard to race, sex, color, religion, national origin, age, disability, protected veteran status, genetic data,
+sexual orientation, gender identity or other legally protected status. ITAR U.S. Citizen, U.S. Permanent Resident (Green Card holder), asylee/refugee status as
+defined by 8 U.S.C. 1324b(a)(3) or a person approved for an export license fro

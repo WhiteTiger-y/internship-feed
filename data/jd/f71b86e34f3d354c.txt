@@ -1,0 +1,31 @@
+Job Description Summary GE HealthCare is a leading global medical technology and digital solutions innovator. Our purpose is to create a world where healthcare
+has no limits. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every
+difference builds a healthier world. The GE Healthcare Edison Engineering Development Program (EEDP) Internship offers professional development through a
+challenging internship in a dynamic, fast-paced, medical technology business. Interns are embedded in real engineering teams and work on impactful software
+projects under the guidance of experienced technical mentors and participate in professional development activities. Previous Project Examples include: 
+Wireless hands-free peripheral communication development for portable equipment  AWS cloud security landing zone implementation  DevOps automation and AI Agent
+research GenAI-powered chatbot and knowledge base creation Digital Provisioning Service and app Integration Front-end signal visualization for Integrated
+patient monitoring system Job Description Responsibilities: As an EEDP Software intern, you will receive a summer project that pertains to different parts of
+the business at GE HealthCare. Assignments may include:    Designing, testing, and debugging software features for GE HealthCare products  Developing and
+enhancing internal development or testing tools  Performing data analytics and visualization  Creating technical documentation and knowledge resources    Basic
+Qualifications:  Must be enrolled in an accredited undergraduate or master’s degree program and planning to continue studies after Summer 2027.  Pursuing a
+degree in Computer Science, Computer Engineering, Biomedical Engineering (with a focus on software), or a closely related field.   Strong academic performance
+(GPA).  Required Skillset must include: Java, C++, and/or Python.   Excellent communication skills with the ability to articulate technical problems and
+solutions in clear and simple terms.     Demonstrated analytical ability and technical competency in Computer Engineering or Computer Science areas.     Strong
+initiative with the ability to work independently and in teams.    Proven leadership skills and/or experience.    Able to work for a minimum of 10 consecutive
+weeks.   Willing to relocate to Milwaukee/Waukesha, WI or other applicable GE HealthCare site as defined in role selection; relocation assistance and housing
+stipend available.    Preferred Qualifications:  A prior internship or co-op with software and/or firmware design experience.     Overall GPA greater than or
+equal to 3.0 (based on a 4.0 scale).    Proficiency in software languages such as JavaScript, Perl, Shell scripting, C, and/or MATLAB.   Experience with object-
+oriented design methodology, and/or algorithm development.   Experience with agile principles and methodologies.    Experience with Data Analytics, Machine
+Learning, and/or Artificial Intelligence technologies.    Passion for a career in healthcare technology.     It is required that the candidate be legally
+authorized for immediate, unrestricted work in the U.S. We will not sponsor individuals for employment visas, now or in the future, for this job opening.  We
+expect all employees to live and breathe our behaviors: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership
+–always with unyielding integrity.  We will not sponsor individuals for employment visas, now or in the future, for this job opening. GE HealthCare offers a
+great work environment, professional development, challenging careers, and competitive compensation. GE HealthCare is an Equal Opportunity Employer. Employment
+decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability,
+protected veteran status or other characteristics protected by law. GE HealthCare will only employ those who are legally authorized to work in the United States
+for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). While GE HealthCare does not currently
+require U.S. employees to be vaccinated against COVID-19, some GE HealthCare customers have vaccination mandates that may apply to certain GE HealthCare
+employees. Relocation Assistance Provided: Yes At GE HealthCare, we see possibilities through innovation. We’re partnering with our customers to fulfill
+healthcare’s greatest potential through groundbreaking medical technology, intelligent devices, and care solutions. Better tools enabling better patient care.
+Together, we are not only building a healthier future but living our purpose to create a world where healthcare has no limits.

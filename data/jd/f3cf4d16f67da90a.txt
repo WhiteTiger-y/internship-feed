@@ -1,0 +1,40 @@
+Join the team bringing advanced autonomy to the built world
+At Bedrock, we're moving AI out of the lab and into the real world. Our team includes veterans who helped launch Waymo, scaled Segment to a $3.2B acquisition,
+and grew Uber Freight to $5B in revenue. Today, we're deploying autonomous systems on heavy construction equipment across the country, improving safety on job
+sites and accelerating schedules on critical infrastructure projects.
+We're not here debating the future of AI. We're deploying it in the real world. In just two years, we've raised $350M and achieved the first fully autonomous
+excavator deployments in construction.
+This is where algorithms meet steel-toed boots. You'll work alongside construction veterans and world-class engineers to solve physical-world problems that
+simulations can't touch. If you're ready to do meaningful work on hard problems, we'd love to have you join us.
+About the Role & Team
+The Onboard Infrastructure team builds the core engine of Bedrock’s autonomous heavy machinery — where safety, real-time control, and millisecond-level
+responsiveness are non-negotiable. As an Onboard Infrastructure Intern, you will bridge frontier AI and real-time execution by integrating Large Language Models
+(LLMs) and Vision-Language-Action (VLA) models into our core stack, ensuring multi-billion parameter multi-modal models run within strict, deterministic
+deadline budgets on edge compute.
+What You'll Do
+Integrate open-source and proprietary LLM/VLA models into our onboard Rust middleware stack alongside existing perception, planning and control pipelines.
+Profile and optimize model execution using TensorRT, vLLM, ExecuTorch or custom edge inference runtimes tailored for NVIDIA Jetson Thor.
+Streamline sensor tokenization (cameras, LiDAR) to feed real-time streams directly to models without latency spikes in vehicle control loops.
+Identify and eliminate bottlenecks across memory bandwidth, compute, and IPC using tools like Nsight Systems, Nsight Compute and eBPF.
+Validate your performance optimizations directly on heavy autonomous machinery at our test sites.
+What We're Looking For
+Required
+Currently pursuing a BS, MS, or PhD in Computer Science, Electrical/Computer engineering, Robotics or a related field.
+Proficiency in Rust or C++, with supporting experience in Pytorch or JAX.
+Solid foundation in GPU architectures, CUDA, or parallel computing.
+Understanding of modern systems concepts: multithreading, OS and GPU scheduling, memory management, asynchronous programming and IPC.
+Bonus Points
+Practical experience deploying neural networks on constrained hardware using TensorRT, ONNXRuntime or ExecuTorch.
+Experience with LLM/VLA optimization techniques such as KV-cache management, FP8/INT4 quantization, continuous batching or speculative decoding.
+Exposure to multi-modal/VLA models or robotics frameworks.
+About This Internship
+This is a fixed-term, project-based internship designed strictly for students (undergraduate or graduate) seeking resume-building experience, hands-on skill
+development, or industry exposure rather than a direct career launchpad. Candidates will own discrete, short-term projects that can be fully completed within
+the internship timeframe. Please note that while exceptional interns may occasionally be considered if business needs align, opportunities for full-time
+conversion are highly limited ."
+Bedrock Robotics is an Equal Opportunity Employer
+We’re committed to building a diverse and inclusive workplace. We consider all qualified applicants for employment without regard to race, color, religion, sex,
+sexual orientation, gender identity, national origin, ancestry, age, disability, veteran status, genetic information, or any other protected characteristic.
+Reasonable Accommodations
+We want our hiring process to be accessible to everyone. If you need an accommodation to participate in the application or interview process, please let your
+recruiter know so we can support you.

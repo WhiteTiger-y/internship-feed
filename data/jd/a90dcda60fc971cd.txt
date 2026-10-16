@@ -1,0 +1,33 @@
+Program Overview    An internship with Securian Financial means an opportunity to create meaningful connections with established associates and fellow interns
+while exploring professional development in your field of study.  Our interns are connected to work that matters, helping to drive and deliver value for our
+customers with the support of great Securian team members at your side.  You’ll have the opportunity to interact with company leaders and learn from their
+career stories as well as get to know more about who we are as a company and the things we value – like our commitment to community through hands-on volunteer
+activities.  It will be a summer you won’t forget, that lays the foundation for potential careers ahead.  Join the Securian Financial team!       At Securian,
+supportive leaders facilitate an environment where interns are provided mentoring and learning resources to acclimate them into the workspace.  Teams work
+collaboratively to achieve milestones and improvements.  Personal growth and development opportunities are prioritized and recognized.  We encourage and
+celebrate involvement in Associate Resource Groups around various Diversity & Inclusion initiatives.       Summer internships are intended for undergraduate
+students graduating in December ’27 or May ‘28.  We are unable to pursue candidates who would require Visa sponsorship now or in the future.    Applicants who
+apply to this posting will be considered for Data Science and Advanced Analytics internships.        Position Summary:   As an intern on the Enterprise Advanced
+Analytics team at Securian Financial, you will leverage data to drive business outcomes that align with Securian's Enterprise Vision and Operating Principles.
+You’ll work closely with business stakeholders to understand their business problems and apply a variety of data collection, analysis, visualization, and
+modeling techniques to address them.       You will gain valuable experience using industry standard tools and technologies to cleanse, analyze and visualize
+data – and applying those skills to solve real business problems. Responsibilities will vary by role but could include:   · Analyze large quantities of
+structured, semi-structured, and unstructured data to create actionable models and insights that drive business outcomes.  · Communicate insights to business
+stakeholders through data visualization and presentations.   · Work with a variety of internal stakeholder groups to understand their business challenges and
+translate them into data science and analytics products and solutions.  · Design and implement measurement and testing strategies. · Translate business
+requirements to data collection strategies, in compliance with relevant governance and regulatory guidelines. · Utilize GenAI tools to solve business problems
+such as comment/text analysis, data extraction, or summarization.   Qualifications:   · Experience in R, Python, or related technologies. · Demonstrated
+communication and collaboration abilities. · Curiosity and desire to solve problems · Ability to work independently and adapt to change · Strong technical
+proficiency and an ability to learn quickly. · Strong moral and ethical compass, ensuring we provide fair, unbiased solutions that don’t harm our customers,
+associates, or our company/brand.    Preferred Qualifications:   · Pursuing a degree in Mathematics, Statistics, Computer Science, Analytics, Data Science,
+Economics or another relevant technical subject.     Securian Financial believes in hybrid work as an integral part of our culture. Associates get the benefit
+of working both virtually and in our offices. If you’re within a commutable distance (90 minutes) you’ll join us 3 days each week in our offices to collaborate
+and build relationships. Our policy allows flexibility for the reality of business and personal schedules. Preferred Skills: Summer 2027 Internship If you are a
+job seeker with a disability and require an accommodation to apply for one of our jobs, please contact us by email at Employment@Securian.com, by telephone
+651-655-5522 (voice), or 711 (Relay/TTY). To view our privacy statement click here To view our legal statement click here If you don't see a role that fits your
+profile, join our Talent Community to stay informed about news, events and opportunities. Thank you for your interest in Securian Financial. Once you have
+created a Candidate Home account, feel free to create a job alert to stay up to date on Securian opportunities. We also recommend that you periodically check
+our job postings and apply directly for positions that interest you. Securian Financial roles are listed with Job Category beginning SF. Be you. With us. We’re
+a bright-thinking, hard-working team focused on growth with purpose. And with large company resources and a small company feel, it means each of us is a name,
+not a number. Here, every voice matters — bring us your ideas and curiosity. Discover the best you — with us. We are a Great Place to Work-Certified™ company
+for the eighth year in a row, based on company-provided data and the results of the Great Place to Work® Trust Index™ survey administered to our employees.

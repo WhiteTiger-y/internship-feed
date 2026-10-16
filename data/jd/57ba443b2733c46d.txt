@@ -1,0 +1,65 @@
+Find a Career - Textron Go to the main content section.
+| My Account Options
+| Sign In
+This service is set to disconnect automatically after {0} minutes of inactivity. Your session will end in {1} minutes.
+Click OK to reset the timer to {0} minutes.
+You have been signed out.
+This service is set to sign out after {0} minutes of inactivity.
+Job Search
+- My Jobpage
+- Basic Search
+- |
+- Advanced Search
+- |
+- Jobs Matching My Profile
+- |
+- My Submissions
+- |
+- My Job Cart
+- |
+- My Saved Searches
+- |
+Beginning of the main content section. Return to the home page
+Printable Format
+Return to previous position on page
+(
+Job Number:
+)
+Description
+Qualifications
+:
+:
+:
+:
+Primary Location
+:
+Other Locations
+:
+Job Field
+:
+Schedule
+:
+Job Level
+:
+Job Type
+:
+Shift
+:
+Travel
+:
+:
+:
+Job Posting
+:
+Refer a friend for this job
+Refer a friend
+Refer a candidate
+Submit a candidate's profile
+- View our Company's Accessibility statement
+- View our Company's E-Verify statement
+- Family and Medical Leave Act (FMLA)(pdf)
+- Equal Employment Opportunity (EEO)(pdf)
+- Right to Work (pdf)
+- Employee Polygraph Protection Act (EPPA)(pdf)
+- Taleo Registration Page Privacy Statement (pdf)
+- Pay Transparency (PDF)

@@ -1,0 +1,86 @@
+ADVANCE YOUR CAREER. ADVANCE THE WORLD.
+At AMD, we believe technology has the power to solve the world’s most important challenges. From advancing healthcare and scientific discovery to powering AI
+and the technologies people rely on every day, innovation at AMD is shaping the future.
+Whether you’re designing next-gen processors, enabling AI breakthroughs, or bringing leading edge products to market, every role at AMD contributes to something
+bigger — technology that moves the world forward. Join us and, together, we’ll advance your career.
+As an AMD intern , you’ll be placed at the epicenter of the AI ecosystem, working alongside experts and industry pioneers. You’ll do important work, learn new
+skills, expand your network, and gain real-world experience on projects that impact millions of end-users worldwide. Whether you’re an undergrad or a PhD
+student, your contributions matter—and your experience here will be a launchpad for what comes next.
+JOB DETAILS:
+Location: Markham, Ontario, Canada
+Onsite/Hybrid: This role requires the student to work full time 37.5 hrs a week, in a onsite work structure throughout the duration of the co-op/intern term.
+Winter Duration:
+- 4 Months: January 11, 2027 to April 23, 2027
+- 8 Months: January 11, 2027 to August 20, 2027
+Summer Duration:
+- 4 Months: May 3, 2027 to August 20, 2027
+- 8 Months: May 3, 2027 to December 10, 2027
+Fall Duration:
+- 4 Months: September 13, 2027 to December 10, 2027
+WHAT YOU WILL BE DOING:
+We are seeking a highly motivated Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op to join our team and participate in research and development
+of next-generation product differentiation features with extraordinary ML/AI engineers. In this role –
+- We will help you learn innovative new technologies in Machine Learning | AI | High Performance Compute.
+- We will train you to analyze and implement changes to algorithms to improve AI performance and user experiences
+- We may assign you to one or more of the following project work -
+- Work on machine learning techniques to build applications for source code analysis and Image Corruption Detection.
+- Research, development, and deployment in machine learning-based and computer vision products on AMD’s current and future products
+- Fixing and addressing problems with deployed AI to improve user experience
+- Support AI software teams with roadmap planning, collateral development, and customer engagements
+WHO WE ARE LOOKING FOR:
+- Currently enrolled in a Canada based University in a Bachelor's degree program majoring in Computer Science, Computer Engineering, Data Science/Analytics, or
+a related field, preferably in your 3rd or 4th year of education.
+- If you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage
+you to apply –
+- Machine learning, data science, computer vision, statistics, and mathematics
+- Programming in Python, C/C++
+- Relational (SQL) and no-SQL databases.
+- Machine learning algorithms and frameworks
+- Deep learning / AI framework like Tensorflow.
+- Familiarity with compilers
+- Familiarity with cloud (e.g., AWS, GCP, Azure) is a plus
+Note: By submitting your application, you are indicating your interest in AMD intern positions. We are recruiting for multiple positions, and if your experience
+aligns with any of intern opportunities, a recruiter will contact you
+Candidates must hold a valid work authorization to be considered for this role.
+Benefits offered are described: AMD benefits at a glance .
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal
+opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical
+disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran
+status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the
+respective laws throughout all stages of the recruitment and selection process.
+AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.
+This posting is for an existing vacancy.
+As an AMD intern , you’ll be placed at the epicenter of the AI ecosystem, working alongside experts and industry pioneers. You’ll do important work, learn new
+skills, expand your network, and gain real-world experience on projects that impact millions of end-users worldwide. Whether you’re an undergrad or a PhD
+student, your contributions matter—and your experience here will be a launchpad for what comes next.
+JOB DETAILS:
+Location: Markham, Ontario, Canada
+Onsite/Hybrid: This role requires the student to work full time 37.5 hrs a week, in a onsite work structure throughout the duration of the co-op/intern term.
+Winter Duration:
+- 4 Months: January 11, 2027 to April 23, 2027
+- 8 Months: January 11, 2027 to August 20, 2027
+Summer Duration:
+- 4 Months: May 3, 2027 to August 20, 2027
+- 8 Months: May 3, 2027 to December 10, 2027
+Fall Duration:
+- 4 Months: September 13, 2027 to December 10, 2027
+WHAT YOU WILL BE DOING:
+We are seeking a highly motivated Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op to join our team and participate in research and development
+of next-generation product differentiation features with extraordinary ML/AI engineers. In this role –
+- We will help you learn innovative new technologies in Machine Learning | AI | High Performance Compute.
+- We will train you to analyze and implement changes to algorithms to improve AI performance and user experiences
+- We may assign you to one or more of the following project work -
+- Work on machine learning techniques to build applications for source code analysis and Image Corruption Detection.
+- Research, development, and deployment in machine learning-based and computer vision products on AMD’s current and future products
+- Fixing and addressing problems with deployed AI to improve user experience
+- Support AI software teams with roadmap planning, collateral development, and customer engagements
+WHO WE ARE LOOKING FOR:
+- Currently enrolled in a Canada based University in a Bachelor's degree program majoring in Computer Science, Computer Engineering, Data Science/Analytics, or
+a related field, preferably in your 3rd or 4th year of education.
+- If you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage
+you to apply –
+- Machine learning, data science, computer vision, statistics, and mathematics
+- Programming in Python, C/C++
+- Relational (SQL) and no-SQL databases.
+- Machine learning algorithms and frameworks
+-

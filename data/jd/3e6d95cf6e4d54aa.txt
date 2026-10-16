@@ -1,0 +1,25 @@
+ROLE/RESPONSIBILTIES:
+We are seeking a quant research intern to join an NLP quant team within Point72. We believe the significant advances in NLP methods show promise for finance. We
+develop and launch end-to-end signals, from data processing to performance testing.
+The ideal candidate will have strong machine learning, data science and software engineering skills, some experience with modern NLP, and a curiosity about
+finance and trading.
+Responsibilities may include:
+- Using NLP to construct features from varied datasets
+- Formulating research hypotheses to derive alpha
+- Building and testing the performance of trading signals based on NLP and financial features
+- Launching identified signals into production
+REQUIREMENTS:
+- Bachelor’s, Master’s or PhD candidate in computer science or other quantitative discipline
+- Proficient in Python and general software engineering principles (github, testing, dev workflow)
+- Strong understanding of machine learning and statistics
+- Prior research experience preferred
+- Experience with deep learning, specifically NLP (PyTorch, HuggingFace, LLMs, etc.) preferred
+- Data science stack familiarity preferred
+- An interest in financial markets
+- Great attitude
+- A collaborative mindset
+- Commitment to the highest ethical standards
+ABOUT POINT72:
+Point72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver
+superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain
+the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth.

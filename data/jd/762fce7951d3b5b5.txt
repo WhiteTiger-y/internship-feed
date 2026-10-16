@@ -1,0 +1,90 @@
+Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Summer
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A90806
+Apply to this job Share this listing:
+Responsibilities
+The Search team builds the systems that help users find relevant, reliable, and engaging content across TikTok. The team works across search retrieval, ranking,
+recommendation signals, query understanding, relevance, infrastructure, and product experiences. Our work combines large-scale machine learning, data-driven
+product development, and distributed systems to improve search quality for a global user base.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities
+- Support the design, implementation, testing, and iteration of Search features, services, or tools under the guidance of engineers and mentors.
+- Work with large-scale data, logs, metrics, or experiments to understand user search behavior and improve product or system quality.
+- Collaborate with engineering, product, data science, and machine learning partners to define requirements and deliver project milestones.
+- Write clear, maintainable code and documentation for assigned workstreams.
+- Communicate progress, risks, and learnings with mentors and stakeholders throughout the internship.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, Data Science, Statistics, Mathematics,
+or a related technical discipline.
+- Experience with at least one programming language such as Python, Java, C++, Go, or JavaScript through coursework, projects, internships, or equivalent
+practical experience.
+- Familiarity with data structures, algorithms, software engineering fundamentals, and basic system design concepts.
+Preferred Qualifications
+- Experience with search, recommendation, machine learning, information retrieval, natural language processing, ranking, ads, content understanding, or data
+mining projects.
+- Familiarity with databases, distributed systems, data pipelines, experimentation, or large-scale backend services.
+- Experience using data to investigate product, user, or system problems.
+- Ability to communicate technical ideas clearly and collaborate with cross-functional partners.
+- Interest in improving search experiences for large-scale consumer products.
+As a condition of employment, all successful candidates must be able to establish authorization to work in the United States. For this position, the Company
+does not provide sponsorship or any immigration-related benefits.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless.
+Join us.
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued 

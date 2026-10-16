@@ -1,0 +1,48 @@
+Description
+Come Smile with Us!
+Delta Dental of Iowa invites applicants for a Data Analysis Intern for Summer 2027. In this role, you will gain comprehensive exposure to the underwriting and
+actuarial functions of our business. You will learn alongside a talented team that assesses risk, calculates premium pricing and ensures we remain competitive,
+profitable and financially stable. This is an opportunity to work on both production and project assignments and analyze data to support business units. You
+will develop approaches, use data query, calculation and reporting tools. You will learn how our Underwriting and Actuarial team uses data to improve the health
+and smiles of the people we serve.
+We are excited to participate in the Insure Your Future program, an early-stage internship initiative, designed for freshman/sophomore students to explore the
+insurance industry. You will gain hands-on experience, learn from subject matter experts, and collaborate with cross functional teams. This is your chance to
+apply what you’ve learned in the classroom with meaningful work, network with fellow interns, and grow your data analytics career all while making a difference
+in our community.
+This temporary, full-time internship will start on May 19, 2027, and work from our Johnston, Iowa location 8:00 AM – 5:00 PM Monday through Friday.
+Learn why Kiersten enjoyed her Delta Dental Internship.
+Why Delta Dental of Iowa?
+For your smile. For your health. For your community.
+At Delta Dental of Iowa, we’re more than just a dental and vision insurance company. Improving health and wellness is at the center of everything we do. As a
+not-for-profit, we aim to build stronger communities by investing in actions that promote and improve health. Delta Dental of Iowa invests 40% of our dollars
+directly back into the communities we serve.
+Come see why we are passionate about "Bringing Smiles" to our customers. Our team enjoys competitive pay and benefits, an awesome "One Team" approach, and a
+company culture that fosters "Exceptional Quality Service" and "Leadership at All Levels." Together, we can make a difference – not only in Iowa but across the
+country.
+Learning Objectives:
+- Understand data structures and repositories.
+- Learn how to use various data query tools.
+- Manipulate large amounts of data to answer questions and prove/disprove hypotheses.
+- Create and present findings and results.
+- Learn underwriting skills and contribute to day-to-day operations.
+- Interact with cross functional teams and establish and maintain effective working relationships.
+- Complete special projects on time with high quality.
+- Engage in programs and networking opportunities to strengthen business acumen in the insurance industry.
+- Support internship program by motivating and driving participation among intern peers to fully engage with opportunities available throughout the summer.
+- Represent Delta Dental of Iowa as well as the other Delta Dental companies in a professional manner both internally and externally.
+- Maintain strict confidentiality.
+- Perform other duties as assigned.
+Requirements
+Required
+- Freshman or sophomore student working toward a Bachelor’s degree in Data Analytics, Risk Management, Financial Reporting, Statistics, or related field.
+- Minimum 3.0 GPA (verified through transcript).
+- Current enrollment in a college or university.
+- Proficient in Microsoft Office applications and intermediate Excel experience.
+- Excellent written and verbal communication skills.
+- Must be available to participate in Insure Your Future leadership development/networking opportunities.
+Preferred
+- Familiarity with PowerPoint, Python, and R.
+Delta Dental of Iowa is an Equal Opportunity Employer that does not discriminate on the basis of race, sex, national origin, religion, age, disability and any
+other characteristic protected by applicable law. It is also the policy of Delta Dental of Iowa to take affirmative action to employ and to advance in
+employment, all persons regardless of their status as individuals with disabilities or protected veterans, and to base all employment decisions only on valid
+job requirements.

@@ -1,0 +1,64 @@
+It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to
+build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower
+for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster,
+and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.
+Join us to put AI to work for people.
+As a full stack Associate Software Development Engineer Intern , you'll partner with senior level engineers to help design, build, and maintain software across
+the application stack from user-facing interfaces to APIs, data stores, and cloud infrastructure. You'll write well-tested, maintainable code, take part in code
+reviews, and use AI coding assistants to accelerate delivery while critically evaluating AI-generated output for correctness and security. You’ll also
+collaborate with product managers, designers, and peer engineers is essential to create resilient, scalable solutions.
+What you do
+- Full Software Development Lifecycle
+- Build features end-to-end, with guidance from your team, from design through deployment—across front-end (React/Angular/Vue) and back-end (REST/GraphQL,
+microservices) solutions
+- System Design & Architecture
+- Contribute to system design discussions: learn how the team evaluates architectural trade-offs and help define data models, API contracts, and cloud-native
+and persistence approaches for your project
+- Code Quality Testing and Review
+- Write comprehensive tests, follow coding standards, and review code—including AI-generated code—for security, performance, and maintainability.
+- Develop, maintain, and execute automated test suites to validate software functionality, catch defects early,
+- CI/CD, DevOps & Operational Readiness
+- Use and help maintain CI/CD pipelines and infrastructure- as-code, learn to monitor systems in production, and support incident response, including for AI-
+integrated components
+- Cross Functional Collaboration & Technical Communication
+- Partner with product managers, designers, and platform teams to scope and deliver features, document your work clearly, and explain trade-offs to technical
+and non-technical audiences.
+We hire in multiple other locations including, but not limited to: Santa Clara, CA, San Diego, CA, Kirkland, WA, West Palm Beach, FL and other geographical
+areas. Work location will be determined based on team growth strategies.
+Minimum Qualifications:
+- Currently pursuing a Bachelor’s degree in Computer Science, or related field; with a graduation date no earlier than May 2028
+- Must be available to work full-time hours, for a 12-week period, either May – August or June – September in 2027
+- Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-
+powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.
+- Full-stack development skills: Exposure through coursework, personal projects, internships, or hackathons to front-end frameworks (React/Angular/Vue), back-
+end languages (Node.js, Python, Java, Go), databases, REST/GraphQL APIs, and cloud platforms (AWS/Azure/GCP), plus comfort adopting emerging AI/ML tools.
+Preferred Qualifications:
+- Foundational systems thinking: Exposure to software architecture concepts, API design, databases, or distributed systems through coursework or projects
+- Software engineering fundamentals: Familiar with writing clean, secure, well-tested code, along with understanding of how to treat code review as a quality
+practice.
+- AI fluency : Exposure to AI coding assistants (Copilot, Cursor, Codeium, etc) and LLM APIs (OpenAI, Anthropic, open-weight models) to build features, and
+understanding the need for sound judgment when reviewing AI-generated code for correctness and security.
+- Technical communication: Ability to break down requirements into actionable tasks and communicate effectively with technical and non-technical stakeholders.
+We know great candidates may not meet every preferred qualification. If you’re excited about this opportunity and meet the minimum qualifications, we encourage
+you to apply.
+For positions in this location, we offer a base pay of $55.56/hour , plus equity (when applicable), variable/incentive compensation and benefits. Sales
+positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and
+individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans,
+including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs.
+Compensation is based on the geographic location in which the role is located and is subject to change based on work location.
+Work Personas
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned
+to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here . To determine eligibility for a work persona,
+ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+Equal Opportunity Employer
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex,
+sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified
+applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+Accommodations
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application
+process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+Export Control Regulations
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR),
+ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow
+obtaining any export license or other approval that may be required by relevant export control authorities.
+From Fortune. ©2026 Fortune Media IP Limited. All righ

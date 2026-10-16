@@ -1,0 +1,90 @@
+Job Application for Machine Learning Engineer Intern at ATOMS Careers page
+Back to jobs
+Machine Learning Engineer Intern
+San Francisco, CA
+Join Us
+Who we are
+Atoms is building the machines that power the next era of progress.
+Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and
+industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that.
+Atoms builds Physical AI— real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are
+designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more scalable, and
+more productive.
+This work requires more than robotics. It requires deep integration across hardware, software, AI, operations, manufacturing, and real estate. We don’t just
+build machines in a lab. We deploy them into real environments, operate them, learn from them, and improve them until they work at scale.
+We are roboticists, engineers, operators, and builders. We believe the next great technology companies will not only transform information, but the physical
+systems that shape everyday life.
+If you want to work on hard problems with real-world impact, join us.
+What you’ll do
+As an ML Intern on our team, you will help bridge the gap between high-level AI research and real-world physical actuation for our next-generation autonomous
+transport platforms. Working alongside senior engineers, you will contribute directly to production-grade models, real-time edge pipelines, and multi-sensor
+data systems that power our physical machines.
+- Collaborate with research engineers to prototype, evaluate, and test emerging Machine Learning and Deep Learning models for trajectory planning and autonomous
+behavior.
+- Help design and evaluate multimodal systems that integrate raw multi-sensor data (Cameras, LiDAR, Radar) to improve spatial-temporal perception.
+- Assist in developing interactive world models and simulation tools to re-simulate real-world driving logs and analyze vehicle trajectories.
+- Profile and optimize inference pipelines to help run complex models under low latency constraints on vehicle edge hardware.
+- Work with data engineering workflows to identify, curate, and structure rare, complex edge cases and long-tail scenarios from physical operations.
+- Partner with validation and QA teams to run model releases through simulated scenarios to catch performance regressions and track model behavior.
+What we’re looking for
+- Currently pursuing a BS, MS, or PhD in Computer Science, Robotics, Electrical Engineering, Data Science, or a related technical field.
+- Strong foundation in deep learning concepts and experience with modern frameworks like PyTorch or JAX (through coursework, research, or prior internships).
+- Hands-on programming experience in Python; familiarity with C++ is a plus.
+- Academic coursework, project experience, or research in one or more relevant domains: Computer Vision, Spatial-Temporal Modeling, Reinforcement Learning,
+Model Optimization, Model Evaluation, or Data Engineering.
+- Familiarity with robotics data structures or multi-sensor processing (Cameras, LiDAR, or Radar) is highly preferred.
+- A passion for solving complex, messy real-world engineering problems and deploying AI into physical systems.
+Why join us
+At Atoms, you’ll work on one of the defining challenges of our time—bringing automation into the physical world to drive real, lasting impact. We exist to
+uncover valuable unknown truths and turn them into progress, which means constantly pushing beyond what’s known and building what doesn’t yet exist. The work is
+ambitious and often challenging, but it’s grounded in a shared sense of purpose and a team committed to seeing it through together. Our work only matters if it
+serves others, and we know that meaningful progress depends on the trust of the people we serve and the strength of our team—so we invest in both, creating an
+environment where you can do your best work and grow.
+What else you need to know
+This role is based in our San Francisco office. Atoms is a company driven by invention and continuous change - we are constantly reimagining our industries,
+building new products, and refining how we operate. We do our best work together. That’s why all of our office-based teams work onsite, five days a week.
+Program Dates: Our internship is a 12-weeks program. Cohort sessions run as follows:
+- Winter 2027: January – April
+- Summer 2027: Late May – September
+The base salary range for this role is $70.00 per hour.
+Actual compensation will be determined on an individual basis and may vary depending on experience, skills, and qualifications.
+Ready to join us as we serve those who serve others?
+#LI-Onsite
+Apply for this job
+*
+indicates a required field
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country
+Phone
+Resume/CV
+Attach Attach
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+LinkedIn Profile
+Are you currently authorized to work for all employers in the country where this job is based? * Select...
+Do you now or will you in the future require immigration sponsorship by the company for continued work-authorization? * Select...
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in ATOMS Careers page’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+Gender Select...
+Are you Hispanic/Latino? Select...
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the
+receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged
+or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the

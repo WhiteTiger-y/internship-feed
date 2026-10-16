@@ -1,0 +1,55 @@
+About Zipline
+Zipline is the world’s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine
+and essential goods anytime, anywhere. We design, build, and operate the world’s largest autonomous logistics system, delivering critical supplies quickly and
+reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to
+date, including blood, vaccines, medical supplies, food, and retail products.
+Our customers include the world’s largest and most prominent healthcare systems, governments, retailers, restaurants and global businesses who rely on us to
+save lives, reduce emissions, increase economic opportunity, and provide delivery from point A to point B as fast as possible. The drone is only 15% of what
+we’ve built to enable seamless, reliable, global operations.
+Our system strengthens supply chains, reduces congestion, and gives people time back. With more than 140 million commercial autonomous miles safely flown,
+Zipline is redefining access to healthcare, consumer products, and food across the globe.
+We operate at a global scale and are looking for practical problem solvers who thrive on real-world challenges and rapid growth. Our team is motivated by
+building systems that have a direct, meaningful impact on people’s lives and by scaling the future of logistics. We are seeking people who sculpt from first
+principles, enjoy facing adversity, and can do the impossible at record breaking speeds.
+About the Droid Planning Team
+The Droid Autonomy team owns the entire autonomy stack behind droid package pickup and delivery. This includes perception (understanding the world), high-level
+decision making (executing behaviors), and motion planning (navigating through obstacles to deliver packages safely and efficiently). It’s an extremely cross-
+functional team that brings together expertise in robotics, machine learning, planning, and systems engineering—working as one to make the droid a safe,
+reliable, and scalable real-world delivery system.
+The Role
+- Work hands-on with an autonomous robot operating in the real world — to help expand its capabilities for safer and more reliable deliveries.
+- Analyze, validate real-world data to understand system performance and identify failure modes and come up with unique solutions.
+- Design experiments and models that improve the robot’s ability to make reliable decisions in highly variable, unpredictable environments .
+- Translate insights from validation into actionable improvements that directly impacts the speed, accuracy and safety of the robot delivery.
+- Collaborate closely with perception, autonomy, and flight testing teams to see how your work connects across the full robotics stack.
+- Gain experience with the end-to-end process of deploying autonomy at scale —from data collection and model development through validation and live operations
+- Be part of an extremely motivated team that is delivering real-world solutions at scale, not just research prototypes.
+What You'll Do
+- Work with and iterate on a state-of-the-art autonomous system : analyze flight data, extract key features of the droid’s performance, and identify what it
+takes to improve motion planning in difficult and uncertain environments.
+Apply data analysis, statistics, and machine learning techniques to increase the reliability and robustness of the droid’s deliveries.
+Design and run validation experiments to measure success and failure rates under different real-world conditions (e.g., driveway geometry, car presence, time of
+day).
+Develop tools and pipelines to evaluate motion planning models, quantify uncertainty, and connect improvements directly to field performance.
+What You'll Bring
+- Currently pursuing a Master’s in CS, EE, Robotics, or a related field with a familiarity with learning-based planning methods.
+- Software Proficiency and the ability to write safe and performant code; willing to learn new languages and adapt.
+- Statistical reasoning & validation mindset: able to design experiments, account for bias/variance, quantify confidence, and interpret results to guide
+decisions.
+- Structured problem solver: can break ambiguous, real-world problems into hypotheses and executable plans; comfortable making and testing assumptions.
+- Able to work in person at our office and thrive in a collaborative, hands-on environment.
+What Else You Should Know
+The final cash pay for this role will depend on a variety of factors, including a specific candidate's experience, qualifications, skills, and working location.
+The total compensation package for each role may also include: a housing stipend; overtime pay; relocation support; paid sick time; and more.
+Zipline is an equal opportunity employer and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national
+origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by
+federal, state or local laws or our own sensibilities.
+We value diversity at Zipline and welcome applications from those who are traditionally underrepresented in tech. If you like the sound of this position but are
+not sure if you are the perfect fit, please apply!
+Zipline is also committed to providing reasonable accommodations to individuals with disabilities. Please let your point of contact at Zipline know if you
+require any accommodations throughout your interview process.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever
+your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Zipline ’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.

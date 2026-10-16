@@ -1,0 +1,91 @@
+Data Analyst Intern (TikTok-LIVE) - 2027 Start
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Data analysis
+Data Analyst Intern (TikTok-LIVE) - 2027 Start
+Location :
+London
+Employment Type :
+Intern
+Job Code :
+A92346
+Apply to this job Share this listing:
+Responsibilities
+About the Team
+The Regional LIVE Operation Strategy Team leads various cross-functional projects. Our key initiatives include developing strategic plans to drive widespread
+adoption of LIVE at scale among creators, localising new product features, creating user engagement strategies, ensuring a positive creator experience through
+education on the Community Guidelines and best practices, and providing ad hoc analysis and support to cross-functional partners.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Internship Overview
+We're looking for a Data Analyst project intern to join our dynamic LIVE team. In this role, you’ll uncover insights and deliver data-driven recommendations
+that directly impact how we grow and support our creator ecosystem. You'll work cross-functionally with product, strategy, and operations teams to shape our
+growth priorities using data and analytical thinking.
+As a project intern, you will have the opportunity to engage in impactful short-mid term projects that provide you with a glimpse of professional real-world
+experience. You will gain practical skills through on-the-job learning in a fast-paced work environment and develop a deeper understanding of your career
+interests.
+Examples of Problems You’ll Be Solving:
+- What are the best content verticals for us to focus our creator recruitment on?
+- How can we build a predictive model to identify high-potential creators early?
+- What are the right leading and lagging indicators to measure success against our key OKRs?
+- How can we segment creators and users to better personalise support and growth strategies?
+- When and how should we educate creators to maximise their long-term retention and performance?
+- How can we simplify complex data sets using statistical tools to better diagnose issues and recommend scalable solutions?
+Key Responsibilities
+- Analyse local and global content and user trends to identify growth opportunities within the EU LIVE ecosystem.
+- Participate in the growth and exploration of future AI implementation and direction and be responsible for the data analysis of core business modules.
+- Create, automate, and maintain reports and dashboards to track performance, OKRs, and key strategic initiatives.
+- Develop data models and perform in-depth analyses to support content strategy, creator segmentation, and user engagement.
+- Translate complex data into actionable insights for regional teams and leadership.
+- Collaborate closely with cross-functional teams (e.g., Creator Management, Product, Strategy) to inform decision-making.
+- Present findings clearly to both technical and non-technical stakeholders to influence business strategy.
+Qualifications
+Minimum Qualifications
+- Currently pursuing an Undergraduate degree in Statistics, Engineering, Economics, or a related quantitative discipline.
+- Experience with SQL, Python or another related programming language
+- To succeed in the role, you need to be a proactive, self-driven and impact driven person
+- Be able to work with cross-functional teams in a fast speed environment
+- Demonstrated ability to communicate findings clearly to both technical and non-technical audiences
+- Comfortable working with large datasets and drawing actionable conclusions under ambiguity
+- Fast learner with the ability to quickly grasp new tools, concepts, and workflows, then apply them effectively to practical business problems
+- Strong analytical thinking and ability to turn ambiguous business questions into structured analysis
+Preferred Qualifications
+- Experience with visualisation platforms (Tableau, Looker, Power BI) and narrative based story telling with data is a plus
+- Social Media content creation experience and familiarity with live-streaming platforms is strongly preferred
+- Familiarity with statistical concepts such as segmentation, regression, or predictive modelling
+- Previous internship, academic project, or work experience involving data analysis or business analytics
+- Exposure to A/B testing or experimentation frameworks
+- Familiarity with OKR frameworks or performance metric design
+Job Information
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create a

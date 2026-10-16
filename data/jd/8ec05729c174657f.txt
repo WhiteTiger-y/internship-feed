@@ -1,0 +1,61 @@
+Job Details:
+Job Description:
+AI Group Power Delivery Pathfinding team is looking for an experienced power delivery scientist to innovate and develop state-of-the-art technologies and
+solutions in the area of high input voltage (e.g 48V) and high-power density DC-DC Converters to directly power the SOCs. The candidate will be part of a team
+that is chartered to develop and deliver high power density, high efficiency silicon integrated Voltage Regulators to benefit and differentiate our AI SOC
+products. The intern will perform research explorations of new circuit architectures, design these complex mixed signal circuits on advanced Silicon processes
+and PCBs, do simulations/analysis to assess circuit performance and ensure functionality.
+The ideal candidate should exhibit these behavioral traits:
+- Ability to work independently, be self-driven, energetic, and fast learner, and ability to work in ambiguous environments is necessary.
+- Strong verbal and written communication skills are required.
+- Ability to work effectively in a team environment, contributing and collaborating to the overall success of the group and the project is required.
+Qualifications:
+Minimum Qualifications
+- The candidate must be enrolled in a PhD program in Electrical or Computer Engineering with background/experience in low power analog / digital mixed signal
+circuit design.
+- Expertise in Power Electronics, DC-DC voltage converters, power control design and analysis
+- 2+ yrs of experience in high voltage (48V preferred) DC-DC converter design.
+Preferred Qualifications
+- Experience in designing power delivery circuits in advanced silicon process taking from circuit to layout to silicon prototype is highly desirable.
+- Familiarity with post-silicon verification methods, including testing and characterization techniques.
+We invite you to bring your innovative ideas and technical expertise to a team where you will contribute directly to groundbreaking advancements in power
+delivery technologies. Your work will have a lasting impact, shaping the future of AI SOC development.
+Location & Immigration Information
+As you consider the opportunity to join Intel, relocation assistance may be available based on eligibility, current location, and the specifics of the role.
+Job location and modality of work will be communicated at time of offer. This position is not available in the state of Colorado.
+This position is not eligible for employment-based visa/immigration sponsorship.
+Intel sponsors individuals for employment-based visas for positions where we experience a shortage of U.S. workers. These skills shortage roles are typically
+STEM positions requiring a Master's or PhD degree, or a Bachelor's degree with at least three years of post-degree related job experience. This position does
+not qualify for Intel sponsorship because it is either a non-STEM position, or a STEM position that only requires a Bachelor's degree and less than three years'
+experience.
+For information on Intel's immigration sponsorship guidelines, please see: https://www.intel.com/content/www/us/en/jobs/hiring.html
+Additional Information
+This application is for internship starts in Spring and Summer 2027, with consideration also given to candidates interested in year-long internship or co-op
+opportunities. You must be available to start work during this time frame.
+Life at Intel
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (United States of America)
+Primary Location:
+US, Oregon, Hillsboro
+Additional Locations:
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+Annual Salary Range for jobs which could be performed in the US: $141,998.00-142,002.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

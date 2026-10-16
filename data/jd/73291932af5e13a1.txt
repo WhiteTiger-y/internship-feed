@@ -1,0 +1,89 @@
+Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer
+Life at ByteDance
+Our Culture Our Philosophy Teams
+Advertising & Sales Corporate Functions Design E-Commerce Global Operations Marketing & Communications Product Technology How We Hire
+Applying to ByteDance Interview Tips Frequently Asked Questions Locations
+Early Careers
+Early Careers at ByteDance Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+EN 日本語
+p:empty]:h-[56px] [&>div:empty]:h-[56px] bd-title"> Join us as we work together to inspire creativity and enrich life around the globe.
+Life at ByteDance
+Early Careers Americas Asia Pacific Europe and Middle East Early Careers FAQ
+Teams Technology Product Design Marketing & Communications Corporate Functions Global Operations Advertising & Sales
+How We Hire FAQ Interview Tips
+Locations
+Blog
+Legal Privacy Policy Cookie Policy
+Other Open Roles Careers @ TikTok Careers in China
+Privacy Policy © 2012-2025 ByteDance
+Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer
+Location :
+Seattle
+Team :
+Technology
+Employment Type :
+Intern
+Job Code :
+A104846
+Apply to this job Share this listing:
+Responsibilities
+The Applied Machine Learning Ark team combines system engineering and machine learning to develop and operate Large Language Model (LLM) service platforms that
+offer businesses Model-as-a-Service (MaaS) solutions, serving both large model providers and downstream users. The US team drives the design, development, and
+operation of MaaS solutions across the US and international markets outside mainland China. We are building full-stack, end-to-end solutions spanning text and
+multimodal LLM algorithms, LLM training/fine-tuning/inference frameworks, prompt engineering, model alignment, and intelligent agent systems. Beyond model
+serving, we operate large-scale log analytics pipelines that process massive volumes of invocation logs from text models, multimodal models, and agent systems —
+extracting usage patterns, quality signals, and actionable insights to inform model improvement, system optimization, and product decisions through continuous,
+data-driven feedback loops. We are actively seeking talented engineers and researchers specializing in Large Language Models and AI Agent systems to join our
+dynamic team.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities
+- Build and maintain the data lake that powers model and agent development, including storage design, query performance, and cost efficiency.
+- Develop large-scale batch and streaming pipelines that turn raw model and agent logs into analysis-ready datasets.
+- Build analytics and metrics platforms that let algorithm and product teams find actionable insights quickly.
+- Own data quality and governance, and partner with algorithm teams to support the data flywheel behind continuously improving systems.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's in Computer Science, Software Engineering, Data Science, or a related field.
+- Solid fundamentals in data structures, algorithms, and distributed systems.
+- Strong programming skills in at least one mainstream language, plus proficiency in SQL.
+- Hands-on experience with a big data engine or lakehouse storage system.
+- Demonstrated ability through substantial projects, internships, research, or open-source work.
+Preferred Qualifications:
+- Understanding of query engine and lakehouse internals, including columnar storage and query optimization.
+- Experience with streaming pipelines or OLAP systems.
+- Experience analyzing LLM or agent logs and traces.
+- Experience with cloud-native infrastructure and performance tuning at scale.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, 

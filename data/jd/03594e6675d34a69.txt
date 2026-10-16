@@ -1,0 +1,24 @@
+ABOUT US:
+AI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.
+Every era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that
+rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer
+underneath it is open right now.
+Our customers include category-defining companies like Ramp https://modal.com/blog/how-ramp-built-a-full-context-background-coding-agent-on-modal, Cognition,
+DoorDash, and Suno. They rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference,
+fine-tune models, and access production-ready sandboxes at scale.
+We've passed $1B in annualized run rate, up 15x from a year ago. In October 2026 we raised a $750M Series D led by Accel at a $15.75B valuation.
+Our team includes creators of popular open-source projects (e.g.,Seaborn https://github.com/mwaskom/seaborn,Luigi https://github.com/spotify/luigi), academic
+researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.
+THE ROLE:
+We are looking for PhD research interns with strong research experience in reinforcement learning, machine learning, and foundation models, including large
+language and multimodal models, to join our research team. This internship is well suited to candidates interested in improving existing methods and developing
+new techniques for large-scale model training, optimization, and inference, extending models to long-context and long-horizon tasks, and improving inference-
+time efficiency, reliability, and robustness in high-stakes real-world deployments.
+PREFERRED QUALIFICATIONS:
+1. Currently pursuing a PhD in computer science, machine learning, or a related field.
+2. A demonstrated record of research in reinforcement learning, machine learning, foundation models, or related areas.
+3. Experience developing and evaluating large-scale models or machine learning systems.
+4. Familiarity with distributed training, large-scale inference, or multi-GPU environments.
+5. Publications at leading venues such as NeurIPS, ICML, ICLR, CVPR, CoRL, UAI, JMLR, or TMLR.
+6. Strong programming and engineering skills, with the ability to translate research ideas into working implementations.
+7. A collaborative, mission-driven mindset and the ability to work effectively across research and engineering teams.

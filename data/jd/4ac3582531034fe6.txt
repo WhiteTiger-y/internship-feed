@@ -1,0 +1,41 @@
+The Bosch Group is a leading global supplier of technology and services. Its operations are divided into four business sectors: Mobility, Industrial Technology,
+Consumer Goods, and Energy and Building Technology. With technology that is “Invented for life,” Bosch wants to help improve quality of life and conserve
+natural resources.
+The Bosch Group comprises Robert Bosch GmbH and its roughly 490 subsidiary and regional companies in over 60 countries. Including sales and service partners,
+Bosch’s global manufacturing, engineering, and sales network covers nearly every country in the world. Bosch’s innovative strength is key to the company’s
+further development.
+Bosch Global Software Technologies Company Limited (BGSV)  is 100% owned subsidiary of Robert Bosch GmbH, offering end-to-end Engineering, IT, and Business
+Solutions.
+Starting its operation from 2010 at Etown 2 in HCMC, BGSV is the first software development center of Bosch in Southeast Asia. BGSV nowadays have over 4,000
+associates, with a global footprint and presence in the US, Europe, and the Asia Pacific region. With our unique ability to offer end-to-end solutions that
+connect sensors, software, and services, we enable businesses to move from the traditional to digital or improve businesses by introducing a digital element in
+their products and processes.
+About the Role
+We are recruiting motivated interns to design, build, and integrate AI-Agents and automation tools that enhance engineering efficiency across AUTOSAR, embedded
+firmware, and cybersecurity workflows. You will work closely with our project teams to prototype agents, automate developer tasks, and integrate with existing
+toolchains (e.g., Jira, Git/GitHub, CI/CD, Confluence).
+This role is ideal for students or fresh graduates who enjoy solving practical engineering problems with AI and automation, and who want hands-on experience in
+automotive software development.
+Responsibilities
+• Design and implement AI-Agents to streamline tasks such as code review, requirements mapping, test generation and log analysis.
+• Build automation scripts and services that integrate with engineering tools (Jira, Git/GitHub, CI/CD, Confluence) and project workflows.
+• Develop utilities for embedded firmware, AUTOSAR and cybersecurity
+• Collaborate with engineers to define user requirements, success criteria, and evaluation metrics (effort/time savings, adoption readiness, scalability).
+• Document solutions (quick-start guides, examples, contribution templates) to enable cross-team adoption.
+Required Qualifications
+• Currently pursuing a Bachelor’s Electrical/Computer Engineering, or related field.
+• Programming skills in Python or C/C++.
+• Strong problem-solving skills, attention to detail, and ability to write clear documentation.
+• Good communication and teamwork skills; ability to gather requirements and iterate on feedback.
+What You Will Learn
+• How to design AI-Agents that scale across teams.
+• Best practices for integrating agents with enterprise engineering toolchains.
+• Practical AUTOSAR and embedded development workflows.
+• Cybersecurity automation in an automotive context.
+- Monthly Internship Allowance, plus Meal and Parking support.
+- 1 paid leave day + 1 sick leave day for each internship month.
+- 1 birthday leave day if your birthday falls during the internship period.
+- Accident insurance provided throughout the internship.
+- Opportunity to observe and engage in international projects and innovation.
+- Access to our diverse training programs which surely help strengthen both your personal and professionalism.
+- Participation in various company activities such as football, yoga, badminton, and team building.

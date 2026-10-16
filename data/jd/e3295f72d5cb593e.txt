@@ -1,0 +1,98 @@
+Job Application for 2027 AI Initiatives PhD Internship at StepStone Group
+Back to jobs
+2027 AI Initiatives PhD Internship
+La Jolla
+Apply
+We are global private markets specialists delivering tailored investment solutions, advisory services, and impactful, data driven insights to the world’s
+investors. Leveraging the power of our platform and our peerless intelligence across sectors, strategies, and geographies, we help identify the advantages and
+the answers our clients need to succeed.
+The team you'll join
+StepStone's AI Initiatives team focuses on harnessing AI and machine learning to transform private markets investment research. The team spans the entire AI
+project lifecycle—from identifying high-impact use cases to deploying production-ready solutions—integrating cutting-edge technologies like LLMs, NLP, and
+advanced quantitative methods to drive strategic outcomes across portfolio analysis, investment performance, and risk assessment.
+About the role
+StepStone is seeking highly analytical and technically skilled interns to join the AI Initiatives team. This role is best suited for candidates who combine
+strong Python and quantitative skills with hands-on experience in LLM application development. Interns will work on production-oriented projects involving LLM
+pipeline design, structured data extraction, and quantitative modeling to support investment research.
+We are looking for team players with a collaborative mindset and a strong work ethic—candidates who take ownership of their work but remain open to feedback,
+eager to learn from others, and committed to collective success. A low-ego, problem-solving approach is essential for success in this role.
+What you'll do
+Interns will design, build, and iterate on LLM-powered solutions—including structured data extraction pipelines, RAG systems, and AI-assisted investment
+research tools. You’ll work hands-on with large financial datasets, applying quantitative modeling and statistical analysis to support investment performance
+research across StepStone’s private markets portfolio.
+Key responsibilities
+- Design and iterate on LLM-powered pipelines for document processing tasks such as structured data extraction, RAG system design, prompt engineering, and LLM-
+output evaluation.
+- Build and optimize quantitative models and end-to-end data pipelines using Python, and SQL for large-scale financial data extraction and transformation.
+- Analyze large financial datasets and apply quantitative modeling to surface investment insights.
+- Document technical findings, model design decisions, and pipeline architecture; communicate results clearly to both technical teammates and non-technical
+investment stakeholders.
+What we're looking for
+- Pursuing a Ph.D. in Mathematics, Physics, Econometrics, Statistics, Engineering, or a related quantitative field.
+- Ability to work in-person in our La Jolla during the 2027 summer intern program and work part time remotely during the 2028 Fall semester.
+- Strong Python coding skills with experience in data pipelines and quantitative modeling; SQL proficiency required, with demonstrated ability to work with
+large, messy real-world datasets.
+- Experience or coursework in AI/ML (LLMs, NLP, data retrieval, vector embeddings) is highly preferred.
+- Strong problem-solving skills with a detail-oriented, hands-on approach to work.
+- Team-oriented and adaptable—able to balance independent work with collaborative projects.
+- Open to feedback and continuous improvement, with a strong intellectual curiosity.
+- Familiarity with cloud data platforms (e.g. Snowflake, Azure), vector databases, or workflow orchestration tools (e.g. Airflow) is a plus.
+- Willingness to contribute at all levels—whether tackling complex modeling or assisting with data prep, no task is too small.
+Why join us?
+At StepStone, we foster a supportive and inclusive team culture where collaboration and learning are the core of what we do. Our collegial atmosphere encourages
+teamwork, mentorship, and professional development. This summer internship is a great opportunity to gain practical experience and develop critical skills that
+will help you launch a successful career in private markets.
+Click here to learn more about the intern experience.
+Salary: $30 / hour
+The salary is an estimate of pay for this position. Actual pay may vary depending on job-related factors that can include location, education, skill, and
+experience. The salary does not include any benefits or other forms of possible compensation that may be available to employees.
+#LI-Hybrid
+At StepStone, we believe that our people are our most important asset and crucial to our success. We are an Equal Opportunity Employer that strives to create an
+environment that empowers our employees and allows them to be heard, regardless of title or tenure. Our organizational community features multiple Employment
+Resource Groups as well as mentorship programs to enhance the employee experience for all.
+As an Equal Opportunity Employer, StepStone does not discriminate on the basis of race, creed, color, religion, sex, national origin, citizenship status, age,
+disability, marital status, sexual orientation, gender identity, gender expression, genetic information or any other characteristic protected by law.
+Candidates must be at least 18 years old to apply.
+Developing People at StepStone
+Create a Job Alert
+Interested in building your career at StepStone Group? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Discipline Select...
+Add another
+Do you now require employer sponsorship to legally work in the United States? * Select...
+At any time in the future, will you require employer sponsorship to legally work in the United States (e.g. CPT/OPT would require visa; F-1 OPT EAD holders may
+require sponsorship)? * Select...
+Are you currently pursuing a PhD? * Select...
+What is your anticipated month of graduation? * Select...
+What is your anticipated year of graduation? * Select...
+Are you currently participating in the Sponsors for Educational Opportunity (SEO) program? * Select...
+What is your current GPA? * Select...
+How did you hear about this position? * Select...
+If referred by a StepStone employee, please list their full name below. *
+Have you made any political contributions greater than $150 in the last 2 years? * Select...
+United States Demographic Questions
+At StepStone Group, we value fostering an environment where a variety of perspectives, backgrounds, and experiences can thrive and believe that is critical to
+our success. Your responses wil

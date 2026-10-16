@@ -1,0 +1,49 @@
+Responsibilities
+Peraton is seeking Summer 2027 Data Science Interns in support of our Internal Research & Development (IRAD) program which will be conducted in one of our
+Strategic Innovation Centers in Herndon, VA or Blacksburg, VA offices.
+Join one of our Strategic Innovation Centers and support exciting, advanced research projects in areas such as communications, space, cybersecurity, defense,
+public safety, and health. You’ll have the opportunity to work in a collaborative, supportive environment with our full-time staff, allowing you to grow your
+skills and your career while building experience in a variety of different projects and domains. You’ll work in an Agile development environment to identify
+requirements, data, and key insights needed for developing models that derive business value from data science. You’ll develop code to clean data, develop
+complex feature sets, and build models using industry leading technologies and frameworks. And you’ll deploy those models into production environments using
+techniques that continuously evaluate model quality.
+We ask that each intern be available to work the duration of the ten weeks (June to August) and commit to working a minimum of 35-40 hours per week. This
+program is geared toward technical college students, actively enrolled at a four-year university, who will be rising into their junior or senior years. However,
+strong underclassmen may be considered if they have declared their major and have completed qualified coursework.
+#PeratonIntern
+Qualifications
+Required Qualifications:
+- U.S. Citizenship.
+- HS Diploma and some advanced level training.
+- Have completed progress towards a bachelor’s degree in data science, data analytics, computer science, computer engineering, or a related field.
+- Foundational experience in data science technologies such as Python, R, Spark, and SQL.
+- Foundational experience in cleansing and processing data to build features for model development.
+- Hands on experience through coursework and/or prior internships working with data science frameworks such as Tensorflow, Sci-kit learn, Numpy, PyTorch,
+Matplotlib, Shap, and/or similar tools.
+- Strong analytical and problem-solving skills.
+- Ability to quickly adapt and learn new technologies and concepts.
+- Self-motivated, independent, detail-oriented, responsible team-player.
+- Strong written and oral communication skills.
+Desired Qualifications:
+- 3.0 and above GPA.
+- Exposure to Agile development processes and tools.
+- Familiarity developing ETL and data quality pipelines that process vast amounts of data.
+- Prior experience with distributed compute architectures such as Spark, Kubernetes, or Docker containers.
+- Ability to describe complex, technical problems to business stakeholders in a non-technical way.
+- Ability to self-manage day to day tasks independently and communicate collaboratively with leadership and other development teams.
+Peraton Overview
+Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the
+galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and
+technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land,
+sea, space, air, and cyberspace. The company serves as a valued partner to essential government agencies and supports every branch of the U.S. armed forces.
+Each day, our employees do the can’t be done by solving the most daunting challenges facing our customers. Visit peraton.com to learn how we’re keeping people
+around the world safe and secure.
+Target Salary Range
+The rate / range per hour below represents the typical salary range for this position. Salary is determined by various factors, including but not limited to,
+the scope and responsibilities of the position, the individual’s experience, education, knowledge, skills, and competencies, as well as geographic location and
+business and contract considerations. Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in
+addition to base pay.
+SCA / Union / Intern Rate or Range
+$25.00/hour+
+EEO
+EEO: Equal opportunity employer, including disability and protected veterans, or other characteristics protected by law.

@@ -1,0 +1,29 @@
+About the Role
+At Pika, we are shaping the future of creative infrastructure with real-time, multimodal generation and intelligent agentic platforms. We are looking for
+passionate Research Interns at the BS, MS, or PhD level with significant experience working on Videogen to join our team and make an immediate impact. In this
+role, you will directly contribute to mid-training and post-training efforts for Videogen models and support advanced generative systems. Familiarity with
+multimodal large language models (MLLMs) is valued as a bonus.
+This internship is ideal for students and researchers who have hands-on Videogen experience, are excited to work at the intersection of generative AI and
+multimedia, and are eager to make meaningful contributions alongside top AI talent. Flexible part-time and full-time internship terms are available.
+What You’ll Do
+- Work directly on large-scale mid-training, post-training, and optimization efforts for Videogen models.
+- Design, prototype, and refine algorithms for high-throughput video and multimedia data pipelines.
+- Collaborate with experienced researchers and engineers on advanced AI and video generation technology.
+- Apply new research techniques and production-scale workflows to deploy Videogen advancements into real-world applications.
+What We’re Looking For
+- BS, MS, or PhD-level backgrounds, with demonstrated Videogen experience strongly preferred.
+- Expertise in video generation models or frameworks.
+- Proficiency in Python and ML toolkits (such as PyTorch, TensorFlow, etc.).
+- Prior exposure to multimodal LLM inference, generative models, or related areas is a bonus.
+- Fast learner who can adapt to new research and technologies quickly.
+- Excellent communicator and effective team collaborator.
+What We Offer
+- Flexible internship: part-time or full-time roles available
+- Unique opportunity to make an immediate impact with Videogen and generative AI research
+- Mentorship and collaboration with innovative researchers and engineers
+- Competitive compensation and a dynamic, mission-driven environment
+- Onsite work setup, with headquarters in Palo Alto, CA
+About Pika
+Pika empowers creators by building cutting-edge agentic and multimedia platforms. Our mission is to remove technical barriers and make real-time generative and
+intelligent orchestration accessible to everyone. If you are ready to accelerate your AI career, hone your video generation expertise, and contribute to the
+next wave of creative technology, we want to hear from you.

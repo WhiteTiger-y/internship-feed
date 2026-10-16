@@ -1,0 +1,38 @@
+Company Overview
+Recognized as a  Milwaukee Journal Sentinel  Top Workplace for 15 consecutive years, including three years of being honored as number one! Join us at West Bend,
+where we believe that our associates are our greatest asset. We hire talented individuals who are conscientious, dedicated, customer focused, and able to build
+lasting relationships. We create and maintain an environment where you feel a sense of belonging and appreciation. Your diversity of thought, experience, and
+knowledge are valued. We’re committed to fostering a welcoming culture, offering you opportunities for meaningful work and professional growth. More than a
+workplace, we celebrate our successes and take pride in serving our communities.
+Award-Winning Internship Program We’re proud to be named to the RISE Professionals Elite 50 Internships List, a national recognition that honors top internship
+programs in the insurance industry. This award highlights our commitment to providing meaningful, high-impact experiences through mentorship, education,
+leadership development, diversity and inclusion efforts, networking opportunities, and more. Our internship program offers students a dynamic opportunity to
+gain hands-on experience, build valuable relationships, and develop essential skills while contributing to projects that support our mission and values. From
+day one, interns are empowered to make meaningful contributions and participate in professional development programming designed to prepare them for future
+success.
+Job Summary
+As a Data Scientist Intern, you will work collaboratively with the business areas in a fast-paced agile environment to predict risk, optimize customer
+retention, detect anomalies, and enhance process efficiencies using internal and third-party data. You will have the opportunity to have hands-on experience
+with insurance risk, claims and retention models, data visualization, model development using generalized linear models as well as machine learning and AI
+techniques.
+Students enrolled in a Data Scientist related program who have strong written and verbal communication skills, good analytical and problem-solving abilities
+along with a passion for harnessing big data for business insights should consider joining our team!
+Work Location
+This position is an in-office role located in West Bend, WI or Madison, WI. No remote opportunities for this position are available at this time.
+Responsibilities & Qualifications
+Preferred Education:
+- Pursuing a graduate or undergraduate degree in Statistics, Mathematics, Economics, Actuarial Science, Risk Management, or Data Science related major
+- Minimum GPA of 3.0
+Preferred Skills Include:
+- Strong quantitative/analytical skills
+- Excellent programming skills using Python, R, and SQL
+- Strong verbal and written communication skills
+- Strong time management skills
+- Ability to work independently and in a team environment
+- Ability to complete project-related tasks and meet deadlines
+#LI-SB1
+EEO
+West Bend provides equal employment opportunities to all associates and applicants for employment and prohibits discrimination and harassment of any type
+without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity
+or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including
+recruiting, hiring, placement, and promotion.

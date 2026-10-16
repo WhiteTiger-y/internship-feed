@@ -1,0 +1,42 @@
+At Midland States Bank, base salary is one component of our Total Rewards program. Exact compensation is determined by factors such as (but not limited to)
+education, skills, internal equity, and experience. This position offers additional compensation in the form of short-term incentives (i.e. bonus and/or
+commission) and may include long-term incentives (i.e. stock awards). Benefits for this role include comprehensive healthcare, well-being benefits, paid family
+leave as well as generous paid time off. Total Rewards also include banking perks, an Employee Stock Purchase Plan, 401K plan with company match and may include
+the opportunity to participate in our Non-Qualified Deferred Compensation plan. Incentives and benefits are subject to eligibility requirements. Intern –
+Associate Solution Engineer – DW Effingham, IL or St. Louis, MO Rate of Pay: $18 an hour At Midland States Bank, we believe that when we can bring our whole
+selves to work each day, we become happier, more comfortable, more confident, and more excited to do great things for our customers, each other and our company.
+We’re proud to be an Equal Opportunity and Affirmative Action employer. At Midland, we recruit, employ, train, compensate and promote without regard to race,
+color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you are looking
+for a place to grow, we encourage you to apply at Midland States Bank, because you belong here. Position Summary The Associate Solution Engineer – DW Intern
+will provide assistance to the Data Engineering Department with initiatives focused on version control, deployment processes, and preparing data and data models
+for AI-enabled processes. Primary Accountabilities Assist with version controlling Data Engineering code to strengthen auditability and deployment processes.
+Support efforts to enable AI processes within the deployment pipeline and improve deployment processes. Assist with exposing data models for use by AI models.
+Gain hands-on experience with ETL development and scripting languages such as PowerShell and Python. Use SQL and other technical tools while supporting Data
+Engineering work. Support team items that provide opportunities to interface with other IT teams and business units. Participate in shadowing opportunities with
+the Database team and collaborate with Data Engineering team members. Develop an understanding of how data flows through the organization and enables downstream
+reporting and business decision-making. Learn how data quality can impact reporting and downstream processes. Practice translating technical requirements across
+upstream and downstream stakeholders. Perform other duties as assigned. Maintain compliance with all applicable regulations including, but not limited to, the
+Bank Secrecy Act (BSA). Position Qualifications Education/Experience: The internship will run for Summer of 2027 beginning mid-May and ending early August. Able
+to work a 40-hour work week, Monday-Friday, between 8 a.m. and 5 p.m. Must reside local to Effingham, IL or St. Louis, MO and report to the assigned office.
+Enrolled in a degree program with courses of study including Computer Science, Information Technology, Data Analytics, Software Development, or a related field
+at a college or university with at least 2 years completed. Coursework or experience with SQL. Coursework or experience with Python or a similar programming or
+scripting language. Software development coursework. Exposure to or interest in generative AI. Works well in team environment. Excellent written and oral
+communication skills. Proficient in Microsoft Excel and Teams. Demonstrates ability to learn and use new software and programs. Competencies: Business insight
+Cultivates innovation Drives results Makes sound decisions Being a brand champion Collaborates Communicates effectively Customer focus Being Authentic Emotional
+Intelligence Self-development Being flexible and adaptable If you require reasonable accommodation in completing this application, interviewing, completing any
+pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to Midland States Bank Human Resources at
+HR@midlandsb.com. THIS JOB DESCRIPTION DOES NOT CONSTITUTE A CONTRACT FOR EMPLOYMENT At Midland States Bank, we believe that when we can bring our whole selves
+to work each day, we become happier, more comfortable, more confident and more excited to do great things for our customers, each other and our company. We’re
+proud to be an Equal Opportunity and Affirmative Action employer. At Midland, we recruit, employ, train, compensate and promote without regard to race, color,
+religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you are looking for a
+place to grow, we encourage you to apply at Midland States Bank, because you belong here. If you require reasonable accommodation in completing this
+application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to
+Midland States Bank Human Resources at HR@midlandsb.com. Midland States Bank may use automated tools and artificial intelligence (“AI”) to assist with
+recruiting, screening, and hiring decisions. In accordance with the Illinois Human Rights Act (effective January 1, 2026), these tools are designed and
+monitored to be neutral and job-related, and must not be used in a way that discriminates against applicants or employees based on any protected characteristic.
+THIS JOB DESCRIPTION DOES NOT CONSTITUTE A CONTRACT FOR EMPLOYMENT At Midland, we’re proud to be a little different. You can see it in our bright orange
+signs—but there’s more to it than that. With our heartfelt and personalized approach, we’re focused on meeting every customer’s needs with the brightest
+solutions. For more than 140 years, we’ve learned by serving customers skillfully with dedication and follow-through, we can brighten every interaction to drive
+our collective success. And this goes beyond traditional banking. We foster programs that empower our communities, continuously invest in our employees, and
+actively pursue brighter futures for all. Our humble ambition keeps us growing, giving back, and looking ahead. We’re innovating and optimizing our services to
+ensure we stay unique – providing strength you can count on with heart you can feel. You might say we’re unlike any other bank. And you’d be right.

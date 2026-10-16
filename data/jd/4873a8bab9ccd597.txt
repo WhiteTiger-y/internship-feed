@@ -1,0 +1,52 @@
+Job Details:
+Job Description:
+The Role and Impact
+Join Intel as an AI Software Engineering Graduate Intern, where you'll actively contribute to the creation and optimization of AI workload solutions. In this
+role, you will focus on reproducing AI inference workloads, analyzing system performance, identifying bottlenecks, and translating insights to support
+hardware/software co-design. This hands-on opportunity allows you to gain practical experience in shaping the next generation of AI systems while enhancing your
+technical knowledge and skills.
+Business group
+Intel's Data Center Group (DCG) drives innovation in data-centric technologies, delivering solutions that power global data centers and enable advanced
+computing capabilities for enterprise and cloud environments. As part of DCG, you will join a collaborative engineering environment dedicated to accelerating AI
+adoption through cutting-edge hardware and software integration, contributing to Intel's mission of transforming data-driven technologies.
+Key Responsibilities
+- Collaborate on profiling and optimizing AI algorithms, frameworks, and software architectures for performance and accuracy.
+- Reproduce real-world production AI inference workloads and develop representative workload profiles.
+- Conduct performance analysis across software and hardware stacks, identifying system bottlenecks.
+- Translate workload insights to support hardware/software co-design initiatives for AI systems.
+- Assist in applied research and integration of hardware/software solutions for advanced AI systems.
+Qualifications:
+Minimum Qualifications
+- Enrollment in a Bachelor's degree program in Computer Engineering, Electrical Engineering, Computer Science, or a related technical field with 0-1 years of
+hands-on experience in the domain, showcasing skills gained through internships, academic projects, coursework, or hands-on training, OR a Master's degree in a
+relevant field with no prior professional experience.
+- Proficiency in Python programming for experimentation and development.
+- Fundamental knowledge of AI algorithms, models, and workload development.
+- Familiarity with AI frameworks such as PyTorch or TensorFlow.
+- Basic understanding of computer architecture concepts, performance analysis, and profiling techniques.
+Preferred Qualifications
+- Strong analytical and problem-solving skills.
+- Ability to operate effectively in a collaborative, cross-functional engineering environment.
+- Interest in AI systems research and real-world AI applications across diverse domains.
+Bring your creativity, passion, and unique perspective to Intel, and be part of shaping the future of AI technologies. Apply today and take the next step in
+your journey toward innovation.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (China)
+Primary Location:
+PRC, Shanghai
+Additional Locations:
+PRC, Beijing
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

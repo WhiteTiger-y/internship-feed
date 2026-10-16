@@ -1,0 +1,53 @@
+The Bosch Group is a leading global supplier of technology and services. Since the beginning of 2013, its operations have been divided into four business
+sectors: Automotive Technology, Industrial Technology, Consumer Goods, and Energy and Building Technology.
+The Bosch Group comprises Robert Bosch GmbH and its roughly 360 subsidiaries and regional companies in some 50 countries. If its sales and service partners are
+included, then Bosch is represented in roughly 150 countries. This worldwide development, manufacturing, and sales network is the foundation for further growth.
+Bosch Global Software Technologies Company Limited (BGSV) i s 100% owned subsidiary of Robert Bosch GmbH - one of the world’s leading global suppliers of
+technology and services, offering end-to-end Engineering, IT, and Business Solutions.
+Starting its operation from 2010 at Etown 2 in HCMC, BGSV is the first software development center of Bosch in Southeast Asia. BGSV nowadays have over 4,000
+associates, with a global footprint and presence in the US, Europe, and the Asia Pacific region.
+With our unique ability to offer end-to-end solutions that connect sensors, software, and services, we enable businesses to move from the traditional to digital
+or improve businesses by introducing a digital element in their products and processes.
+The Occupant Safety Systems (OSS) team at Bosch is responsible for developing and producing Airbag ECUs used in millions of vehicles worldwide. We combine
+engineering excellence and automation expertise to improve safety and efficiency in airbag development.
+We are looking for a passionate intern to support our Calibration Automation and AI Tool Calibration Tool. You will work at the intersection of software
+automation engineering, AI/ML, and calibration engineering.
+Key Responsibilities
+1. Automation Tool Development
+Develop and enhance Python-based tools to support calibration workflow (data processing, batch automation, reporting, visualization, etc.).
+Maintain existing calibration utilities (GUI tools, batch job tools, file parsers).
+Implement process improvements to reduce manual process
+Make documentation, user guides, and best practices for tool usage.
+2. Tool Maintenance & Enhancement (Boosting Model)
+You will directly support the existing AI Calibration Quality Tool, which uses a Boosting-based ML model to detect abnormal airbag sensor signals
+Maintain and update the Python AI tool used for signal anomaly detection.
+Improve feature extraction logic for sensor and crash signals.
+Analyze false positives/false negatives and propose model refinements.
+Retrain the Boosting model with new datasets under engineer supervision.
+Implement automatic reporting of detected anomalies for calibration engineers.
+Integrate the AI module with existing calibration automation tools.
+Ensure tool stability, accuracy, and performance.
+3. Calibration Engineering Support
+Process and prepare crash test data from vehicle/lab tests.
+- Undergraduate students in Computer Science, IT, Electrical/Automotive Engineering, or related field.
+- Strong Python, C\C++ programming skills.
+- Official university recommendation letter with stamp (mandatory)
+- Commitment: full-time or at least 4 days/week, duration 6 months
+Basic knowledge of:
+- Machine Learning fundamentals
+- Signal processing concepts
+- Data structures & algorithms
+- Logical thinking, curiosity, and willingness to learn automotive systems.
+- Good English communication and teamwork skills.
+Nice to Have
+- Experience with Boosting models (XGBoost, LightGBM, CatBoost).
+- Familiarity with sensor data, time-series, or anomaly detection.
+- Basic understanding of MATLAB/Simulink.
+- GUI development experience (Tkinter, PyQt, PySimpleGUI).
+- Experience with data automation / scripting / tool development.
+- Knowledge of vehicle dynamics or physics.
+- Monthly Internship allowance + Meal & Parking allowance
+- 1 day of paid leave per month
+- Good benefits of Trade Union activities, team building and company trip.
+- Opportunity to work in global projects of fast developing company and being a part of innovation team contributing initiative ideas to the hi-tech world.
+- Engage in our diverse training programs which surely help strengthen both your personal and professional skills

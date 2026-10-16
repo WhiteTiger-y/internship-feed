@@ -1,0 +1,45 @@
+To be considered for this position, applications and resumes are accepted only through our careers site by directly applying to the posted job. We do not accept
+unsolicited resumes or sales solicitations from staffing agencies. Any OCC employee wishing to submit a referral must do so through their Workday account. Any
+resume submitted outside of an active job posting will not be considered for employment. *****INTERNS AND SEASONAL INTERNS ARE ELIGIBLE ONLY FOR PAID SICK LEAVE
+ACCRUED BASED ON HOURS WORKED. NO OTHER BENEFIT INCLUDING TECHNOLOGY STIPEND APPLY TO INTERNS OR SEASONAL INTERNS***** Location: Chicago Internship type:
+Seasonal intern (12 weeks, summer 2027) Hybrid Work Program OCC operates under a Hybrid Work Program which, absent an approved exception, requires employees to
+work from an OCC office at least 3 days per week. To maximize in–person collaboration, Tuesday and Wednesday are considered anchor days, and all employees are
+expected to work in the office both days. Employees meeting performance expectations are generally permitted to select 2 other days per week to work remotely if
+desired. When working remotely, employees are generally expected to work from the state in which they reside, absent an exception approved by Human Resources.
+Additionally, OCC generally does not permit employees to work while traveling internationally. About OCC: A World Class Clearing Organization The Options
+Clearing Corporation (OCC) is the world's largest equity derivatives clearing organization. Founded in 1973, OCC is dedicated to promoting stability and market
+integrity by delivering clearing and settlement services for options, futures and securities lending transactions. As a Systemically Important Financial Market
+Utility (SIFMU), OCC operates under the jurisdiction of the U.S. Securities and Exchange Commission (SEC), the U.S. Commodity Futures Trading Commission (CFTC),
+and the Board of Governors of the Federal Reserve System. OCC has more than 100 clearing members and provides central counterparty (CCP) clearing and settlement
+services to 21 exchanges and trading platforms. OCC also provides free and engaging educational resources about the benefits and risks of options through its
+Options Industry Council (OIC). OCC is building a culture that empowers continued learning, authentic innovation, and constant creativity. About the Intern
+Program: OCC is looking for interns who are eager to learn, humble enough to ask questions, and ready to think critically about complex problems. The OCC
+Internship Program equips students with the real-world skills needed to transition successfully into a career in financial services. As an intern, you will
+contribute to meaningful projects, applying your skills and knowledge to real challenges facing the business. Your time with us is a real opportunity to make a
+genuine impact on the future of OCC! OCC's Summer Internship Program is a 12-week opportunity running either May through August or June through September, and
+is open to undergraduate and graduate students who are actively enrolled at a college or university. Interns work up to 40 hours per week in a hybrid work
+environment, and overtime is not permitted. About the Team & Role In this role, you will create solutions to complex technical challenges while coding, testing,
+troubleshooting, debugging, and documenting the systems you develop. This role will drive a team responsible for expanding OCC’s analytics capabilities by
+making internal corporate data accessible and usable to analysts throughout the organization. This role will drive the design and building of our internal
+analytics data warehouse and the maintenance of the supporting extract, load, and transform processes. This role will also demonstrate expertise in OCC’s
+corporate data sets and support teams across the organization in successfully harnessing this data. This role will drive a team to collaborate with business
+users and technical teams across the organization to facilitate data-driven decision making by enabling exploration and analysis of historical and near real-
+time data access using on premise and cloud-based tools and technologies. Job Summary & Responsibilities Develop and maintain interactive Tableau dashboards to
+visualize key business metrics and support data-driven decision making across departments Write and optimize SQL queries to analyze large datasets from multiple
+data sources to support reporting and analytics initiatives Collaborate with cross-functional teams to gather requirements, troubleshoot data issues, and
+deliver actionable insights through clear data visualizations Leverage AI-assisted development tools, including Claude Code, to accelerate feature development,
+test generation, code review, and documentation while building good engineering habits in a regulated environment. Collaborate with business users and technical
+teams across the organization to understand data needs, gather requirements, and contribute to solutions that make internal data accessible and useful for
+analysts. Candidate Qualifications Rising senior or second-year graduate student, graduating December 2027 or May/August 2028. Desired Majors Computer Science,
+Data Science, Business Analytics Technical Skills/Experience Desired Foundational understanding of distributed systems concepts such as message delivery
+semantics, basic fault-tolerance patterns, and event-driven architecture, with enthusiasm to deepen this knowledge on the job. Strong foundation in SQL, working
+knowledge of Python and hands-on coding with Python; knowledge of cloud concepts, with focus on AWS; working knowledge of business development tools, Tableau is
+preferred. Practical curiosity about AI-assisted development tools such as Claude Code, with readiness to use them for code generation, refactoring, unit test
+authoring, and documentation in a disciplined engineering environment. Exposure to relational database systems such as PostgreSQL, including basic schema design
+and query writing; familiarity with connection pooling and indexing concepts is beneficial but not required. Additional Qualifications Capacity to stay composed
+and focused under pressure in time-sensitive production situations, with a desire to develop operational maturity across SLA adherence, data correctness, and
+system availability. Genuine openness to adopting AI-assisted engineering workflows such as Claude Code as part of daily development, with curiosity about how
+intelligent tooling can improve developer productivity and code quality. Clear written and verbal communication skills, with the ability to ask good questions,
+document work thoroughly, and participate productively in technical discussions with peers and stakeholders. A team-first mindset with the ability to work
+constructively with business, technical, and non-technical professionals in a fast-paced agile environment, and a proactive approach to problem-solving. About
+Us The Options Clearing Corporatio

@@ -1,0 +1,57 @@
+About Zipline
+Zipline is the world’s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine
+and essential goods anytime, anywhere. We design, build, and operate the world’s largest autonomous logistics system, delivering critical supplies quickly and
+reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to
+date, including blood, vaccines, medical supplies, food, and retail products.
+Our customers include the world’s largest and most prominent healthcare systems, governments, retailers, restaurants and global businesses who rely on us to
+save lives, reduce emissions, increase economic opportunity, and provide delivery from point A to point B as fast as possible. The drone is only 15% of what
+we’ve built to enable seamless, reliable, global operations.
+Our system strengthens supply chains, reduces congestion, and gives people time back. With more than 140 million commercial autonomous miles safely flown,
+Zipline is redefining access to healthcare, consumer products, and food across the globe.
+We operate at a global scale and are looking for practical problem solvers who thrive on real-world challenges and rapid growth. Our team is motivated by
+building systems that have a direct, meaningful impact on people’s lives and by scaling the future of logistics. We are seeking people who sculpt from first
+principles, enjoy facing adversity, and can do the impossible at record breaking speeds.
+About the Integration, Quality & Manufacturing Engineering Team
+Zipline's Integration, Quality & Manufacturing Engineering (IQME) team keeps the factory floor running smoothly. We're responsible for making sure the right
+parts and materials are always in the right place at the right time, from receiving and warehouse storage, to staging materials right at the production line, to
+getting finished goods ready to ship.
+We work hand-in-hand with Production, Quality, Supply Chain, and Material Planning to build and improve the drones, and we're currently standing up brand-new
+production lines as we scale fast. We're also focused on using better data from production, inventory, and quality data pulled from systems like our ERP, MES,
+and traceability tools, to help everyone on the floor make smarter, faster decisions.
+About the Data Analytics Intern Role
+As a Data Analytics Intern on the IQME team, you'll dive into the data behind how Zipline actually builds and ships its drones, from inventory and materials to
+production output and quality.
+You'll team up with engineers, production leads, quality stakeholders, and leadership to find insights that keep the factory floor running smoothly. Your main
+focus will be turning data into insights that help people make faster, smarter decisions on the floor.
+This role is ideal for someone passionate about data, problem-solving, and seeing their analysis translate directly into real operational impact. Along the way,
+you'll learn from a fast-scaling manufacturing team, giving you a front-row seat to how data drives decisions in a mission-driven environment.
+What You'll Do
+- Collaborate with production, quality, and supply chain teams to understand what data and insights matter most to the business
+- Partner with engineers to learn how manufacturing and inventory data is generated and transformed so it's ready for analysis
+- Write SQL queries and help streamline reporting using Mode, Streamlit or Sigma.
+- Support data quality efforts by validating datasets and catching issues before they affect reporting
+- Dig into open-ended questions from the floor and leadership, turning raw data into clear, actionable answers
+What You'll Bring
+- Currently pursuing a bachelor’s degree in Data Analytics, Data Science, Computer Science, Engineering, or a related field
+- Comfortable writing SQL queries to calculate metrics and pull insights from data
+- Some experience with Python for data analysis (scripts, cleaning, or automation)
+- Experience working with large datasets and turning them into clear findings
+- Familiarity with a BI/dashboarding tool such as Mode, Sigma, Tableau, Looker, ThoughtSpot, or Power BI
+- Strong communication skills - able to explain data findings simply and tell a clear story with numbers
+- Solid analytical and problem-solving skills, with the ability to translate business questions into technical solutions
+What Else You Should Know
+This internship is a full-time position, in-person at our South San Francisco office. We will host our Spring 2027 interns from January to April. Zipline is
+unable to sponsor work visas for applicants to this position.
+Additional benefits may include relocation support, a housing stipend, overtime pay, paid sick time, and other benefits, where applicable and subject to local
+requirements.
+Candidates are limited to three (3) applications within a 30-day period.
+Zipline is an equal opportunity employer and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national
+origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by
+federal, state or local laws or our own sensibilities.
+Zipline is also committed to providing reasonable accommodations to individuals with disabilities. Please let your point of contact at Zipline know if you
+require any accommodations throughout your interview process.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever
+your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Zipline ’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.

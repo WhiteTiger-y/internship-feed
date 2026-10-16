@@ -1,0 +1,56 @@
+Datadog AI Research — Scholars Program with Carnegie Mellon University
+Datadog AI Research (DAIR) is partnering with Carnegie Mellon University to support a small number of PhD students working on open research problems grounded by
+ongoing efforts at Datadog/DAIR.
+You will frame a problem, run your own experiments, and write up what you find, with compute and data at a scale most academic labs cannot provide. You will
+collaborate with colleagues working on the same questions.
+The Lab And The Research:
+DAIR is an industrial research lab motivated by practical challenges in observability and software operation: detecting and diagnosing failures, understanding
+complex production environments, and helping engineers operate software more effectively. The lab focuses on creating specialized foundation models, post-
+training and evaluating AI agents, and building frontier-scale machine learning systems. By combining fundamental research with Datadog's large-scale, real-
+world data and infrastructure, the lab develops new AI capabilities and translates them into practical systems with meaningful impact.
+Internship projects are shaped with your DAIR mentor and your CMU faculty advisor. You do not need prior experience with observability, monitoring, or
+infrastructure.
+What You'll Do:
+- Own a research project end to end: framing the question, running the experiments, writing it up
+- Work directly with a DAIR mentor engaged in the same problem, and stay connected to your advisor and lab
+- Publish, and use the work toward your dissertation
+- See research reach production, when it works
+Who You Are:
+- Currently enrolled in a PhD program at Carnegie Mellon in machine learning, computer science, statistics, or a related field
+- Depth in at least one area relevant to the research above
+- Comfort running real experiments — training models, working with GPUs, reading and reimplementing recent papers
+- Evidence you can do research: conference or workshop papers, preprints, open-source contributions, or a lab project you can discuss in depth
+- Research taste. You can explain why a problem matters and what would change if it were solved.
+- Honest empiricism. You report the ablation that didn't work.
+- Support from your faculty advisor.
+Not Required:
+- A long publication record. How you think matters more than how much you've published.
+- Observability, monitoring, or SRE background.
+- A perfect match to the areas above.
+Datadog values people from all walks of life. We know not everyone will meet all the above qualifications on day one. That’s okay. If you’re passionate about
+technology and want to grow your experience, we encourage you to apply.
+This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be
+eligible for any required authorizations from the US government.
+If possible, please apply using your personal email address instead of your university email address.
+Students can sign up for a free Datadog Pro account to learn more about our platform and products.
+#LI-Hybrid
+Datadog offers a competitive salary for this role and may include additional compensation elements. Actual compensation is based on factors such as the
+candidate's skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for
+this role including healthcare, paid time off, and benefits related to traveling and relocation, if eligible.
+The reasonably estimated yearly salary for this role at Datadog is:
+$110,000 — $140,000 USD
+About Datadog:
+Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage
+complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact
+customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn
+more about #DatadogLife on Instagram , LinkedIn, and Datadog Learning Center.
+Equal Opportunity at Datadog:
+Datadog is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age,
+citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants
+regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference.
+Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need
+assistance completing the application process, please complete this form . This form is for accommodation requests only and cannot be used to inquire about the
+status of applications.
+Privacy and AI Guidelines:
+Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice . For
+information on our AI policy, please visit Interviewing at Datadog AI Guidelines .

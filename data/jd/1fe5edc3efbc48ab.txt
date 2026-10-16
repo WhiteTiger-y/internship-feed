@@ -1,0 +1,29 @@
+Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific
+boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness,
+creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting
+collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that
+change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems.
+Our trading teams are each comprised of a dynamic group of traders, quantitative researchers, and engineers who work together to examine the global markets,
+seeking to understand the complexities of various traded products and exchanges. They leverage their impeccable statistical analysis and data mining skills,
+using the results of their research to make forecasts and develop profitable predictive trading models.
+What You’ll Do:
+The quant research internship is an intensive 10-week program focused on enhancing your quantitative and programming skills, as well as helping you experience
+what it’s like to be a full-time quant researcher at Jump.
+At Jump, our people contribute to trading teams in the following roles, or a blend of all three: quant researcher, quant trader, and quant developer. During our
+internship you will get training in all of these areas, with a focus on our research process for signal generation, machine learning, trading / market
+mechanics, C++, Python, and statistics.
+You will work with fellow interns to develop your own predictive models and automated trading strategies for live trading. Then you will have the opportunity to
+work with our trading teams on meaningful projects with real impact while receiving daily 1:1 mentorship from experienced quant researchers, traders, and
+developers.
+Other duties as assigned or needed.
+Skills You’ll Need:
+We are seeking the sharpest analytical minds from top undergraduate and graduate programs.
+Ideal candidates will have:
+- Outstanding skills in computer science, machine learning, statistics, and mathematics
+- Competitive spirit and uncommon drive to learn and improve
+- Programming experience
+- Appetite for risk-taking
+- Demonstrated interest in financial markets
+Reliable and predictable availability required.
+INTERNATIONAL STUDENTS are encouraged to apply. We accept students eligible for CPT/OPT and we sponsor work visas for full-time positions.
+The estimated base salary for this role is $300,000 per year.

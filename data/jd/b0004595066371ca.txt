@@ -1,0 +1,21 @@
+JOB DESCRIPTION
+Researchers are responsible for applying, adapting, and extending existing results in the broad field of machine learning, while also conducting novel research
+as required. We are interested in all aspects of ML including: predictive modelling, clustering, time series analysis, natural language processing, and computer
+vision. Successful researchers manage all aspects of the research process including methodology selection, data collection and analysis, implementation and
+testing, prototyping, and performance evaluation.
+Some successful researchers have joined us from similar backgrounds at other firms. Others have joined from related fields or directly from academia and have
+thrived with hands on guidance from our large team of experienced portfolio managers and researchers. Our most exceptional team members combine strong technical
+skills and a passion for problem solving with an intense curiosity about financial markets and human behavior.
+DESIRABLE CANDIDATES
+- Students enrolled in a PhD program in machine learning, computer science, statistics, or a related field.
+- Superb analytical and quantitative skills, along with a healthy streak of creativity.
+- Demonstrated ability to conduct independent research utilizing large data sets.
+- Passion for seeing research through from initial conception to eventual application.
+- Curiosity about financial markets
+- Strong scientific programming in Python, R or Matlab.
+- Empirical, detail-oriented mindset.
+- Sense of ownership of his/her work, working well both independently and within a small collaborative team.
+We’re looking for exceptional colleagues with unparalleled passion. If you’d like your resume to stand out, tell us about your exceptional personal
+achievements, even if they have nothing to do with finance. Of course we love to hear more about specific engineering or data projects that you’ve worked
+outside of school, or as part of your curriculum. If you’re proud of the work you did we want to hear about it. In addition to exceptional statisticians and
+engineers, we work with talented musicians, writers, mathematicians, and founders of non-profits; we’d love to learn more about what excites you.

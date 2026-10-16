@@ -1,0 +1,71 @@
+About OnePay
+OnePay is the consumer fintech trusted by millions of Americans to make money better.
+Our financial system is broken. High fees, low rates, and too few ways to actually grow your money. We’re fixing it. And we’re moving fast.
+We’re an all-in-one financial services platform that brings together banking, high-yield savings, credit cards, point-of-sale lending, investing, and crypto in
+one place. We also partner with employers, HCM providers, gig platforms, and others to deliver embedded financial services to millions of employees and
+frontline workers.
+We’re backed by Walmart, the world’s largest retailer, and Ribbit Capital, one of fintech’s most respected investors, giving us rare scale, distribution, and
+the opportunity to build something truly category-defining.
+But what really sets OnePay apart is how we move. Our customers don’t have time to wait… and neither do we. This place moves fast, and we’re looking for people
+who are:
+Ready to run
+Hungry and driven by urgency
+Exceptional at what they do, with low ego
+Comfortable operating in motion
+The Role
+As an AI Research Intern, your mandate is to research and prototype foundation models, both transformer-based and graph-based, applied to OnePay's customer,
+transaction, and merchant data. You'll work on real modeling problems and build a working prototype that demonstrates the approach. This role will impact
+OnePay's vision by providing a remarkable customer experience, driving positive business outcomes, and improving operational efficiency. You will work closely
+with the product, engineering and applied science team(s) working across all business units. This role reports to the Head of AI/ML.
+This role is responsible for:
+Research, design, and train foundation models on OnePay's data, working with transformer and/or graph-based architectures.
+Run experiments, evaluate results rigorously, and turn promising findings into a working prototype.
+Opportunity to work in an extremely fast paced growing company
+Partner with Product, Engineering and Analytics teams to ensure we are providing a remarkable customer experience.
+Driving significant impact on the company’s bottom line.
+You Bring
+Final-Year Graduate Student: You’re in the final year of a master’s or PhD program, expected to graduate in Fall 2027 or Spring 2028, majoring in Engineering or
+a related field.
+Deep Learning Fundamentals: You have a strong grasp of how neural networks work under the hood, including backpropagation, attention, embeddings, optimization,
+and training dynamics. You've implemented, trained, or fine-tuned models yourself through research, coursework, or personal projects, and you're comfortable
+working in PyTorch or an equivalent framework.
+Prior Experience: You've completed at least one previous internship in research, machine learning, or software engineering, or have built substantial personal
+or academic projects you're excited to talk through.
+Availability: This is a full-time, 8-week program running June 21 - August 13, 2027. You are available to work in our New York City office at least 3-4 days a
+week throughout.
+Proactive & Collaborative Attitude: You have an act-like-an-owner mentality, thrive in a fast-moving environment, and enjoy working with others to achieve
+collective goals.
+Critical Thinking & Problem-Solving Skills: You enjoy tackling complex challenges, analyzing problems, and developing solutions. Clear communication of ideas is
+one of your strengths.
+Organized & Detail-Oriented: You’re a keen listener with strong organizational skills, capable of managing multiple tasks efficiently.
+Excited to Learn & Grow: You are passionate about being part of a rapidly growing start-up and look forward to expanding your skills in a real-world setting.
+Nice to Have
+Familiarity with transformer-based foundation model architectures, including pre-training, fine-tuning, inference, and the tradeoffs between approaches.
+Exposure to graph-based learning or graph foundation models, such as GNNs, message passing, or representation learning on graph-structured data.
+Coursework or projects involving Large Language Models or Generative AI.
+Research output in any of the above: publications, workshop papers, or open-source contributions.
+What We Offer
+Early access to a high potential, high growth fintech
+Hands on experience building product ready to ship
+Beautiful NYC SoHo Office
+Professional development and team social outings
+Program & Application Timeline
+Program runs June 21 - August 13, 2027 (8 weeks, full-time, in our NYC office)
+We review applications and conduct interviews on a rolling basis as they come in
+No offer decisions will be made until the application window closes – all candidates are evaluated together before final decisions go out
+We are targeting a finalized cohort by December 1, 2026
+If there are intern spots still available, we may reopen applications in Spring 2027
+Work Authorization: OnePay will not sponsor applicants who need employment sponsored visas for this position. Future sponsorship will not be considered.
+Standard Interview Process
+Our process varies by role. Most candidates go through:
+AI-assisted initial screen
+Interview with Talent Partner
+Technical or Hiring Manager Interview
+Team Interview
+Executive Interview
+Offer!
+Equal Employment Opportunity
+To build technology and products that are used and loved by people and solve real-world problems, we need to build a team with many different perspectives and
+experiences. We are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation,
+age, marital status, veteran status, or disability status. We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or
+accommodation during the interview process or in accessing our website may contact us at talent@onepay.com.

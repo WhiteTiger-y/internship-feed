@@ -1,0 +1,41 @@
+Job Details:
+Job Description:
+Operations Research Engineers design, develop, and apply engineering, mathematical models, simulation and optimization/machine learning models to drive
+solutions to complex manufacturing and supply chain problems. Identify and solves highly complex problems in factory performance, loading, equipment
+performance, decision science and, supply and distribution network problems. Require a thorough understanding of the factory (Fab and Advanced packaging)
+environment and supply chain knowledge to develop complex engineering models and apply them to identify and drive solutions. Build, develop, validate and apply
+mathematically based decision algorithms, heuristics, optimization and simulation models and AI tools. Work closely with the business units to identify root
+causes, define the strategic and tactical needs and drive the appropriate business and technical solutions. Develop solutions to problems utilizing formal
+technical training, business knowledge and judgment.
+Qualifications:
+The experienced candidate requires a Masters or PhD in Operations Research, Industrial Engineering, Systems Engineering, Computer Science, Management Science or
+related discipline such as Machine Learning or Mathematics with a focus on deterministic/stochastic optimization modelling and programming. Additional
+qualifications include:
+- Solid operation research knowledge, especially Linear programming, etc.
+- Familiarity with Production Scheduling will be a plus
+- Programming experience in C# or Python
+- Knowledge of database management systems, such as SQL Server, would be an added advantage
+- Good understanding on supply chain management/optimization, especially production planning etc.
+- Familiarity with data mining and visualization tools
+- Available to work at least 3 days per week onsite.
+- Able to commit to a minimum 6-month internship.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (China)
+Primary Location:
+PRC, Shanghai
+Additional Locations:
+PRC, Chengdu
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

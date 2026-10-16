@@ -1,0 +1,21 @@
+Description
+Data Science Summer Internship Program It’s a data-driven world. Be part of a growing community of data science professionals that harness the power of data and
+cutting-edge technology to analyze performance trends, identify opportunities, and keep Liberty Mutual moving forward.
+The details
+Calling all aspiring data scientists! Here’s the perfect opportunity to grow your knowledge and skills in key areas such as GenAI, machine learning, and various
+modeling techniques and software, just to name a few.
+In this 11-week Data Science Summer Internship Program, you’ll work both independently and as part of a team to research, gather, and analyze data, build or
+enhance robust models, and recommend solutions that impact business decisions – all while you augment your technical skillset and build business acumen.
+This internship program may be your first step toward pursuing a rewarding career at Liberty Mutual, one of the leading property and casualty insurers in the
+United States and a global Fortune 100 company. Our interns often transition into full-time data scientists at our Boston Headquarters.
+Note: We encourage interested candidates to apply promptly, as the role may be unposted once we’ve received a sufficient number of candidates. We conduct
+interviews and extend offers on a rolling basis.
+Qualifications
+What you’ve got
+- Currently pursuing a master’s degree in Statistics, Data Science, Analytics, Mathematics, Computer Science, or a related discipline
+- 0-2 years of professional experience
+- Intermediate experience with programming languages such as Python or R
+- Foundational knowledge of statistical analysis concepts, techniques, and tools
+- Demonstrated experience with exploratory data analysis, regression analysis, and model development and evaluation through coursework and/or internships
+- Strong communication, analytical, critical thinking, and interpersonal skills
+- Permanent work authorization in the United States

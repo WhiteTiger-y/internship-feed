@@ -1,0 +1,75 @@
+Job Application for Data Science Intern – Summer 2027 at National Life Insurance Company
+Back to jobs tags.new
+Data Science Intern – Summer 2027
+Addison, TX; Montpelier, VT
+Apply
+Come join one of America’s fastest-growing insurance companies. Since 1848, National Life Group has aimed to keep our promises, providing families with
+stability in good times and in bad. Throughout that history, we have provided peace of mind to those families as they plan their futures.
+Our mission extends beyond the insurance and annuities policies that we offer. We strive to make the world a better place through our grants from our charitable
+foundation, paid volunteer time for our employees, environmentally sustainable and healthy workplaces, and events that promote the work of nonprofits in our own
+backyard.
+We foster a collaborative environment with opportunities for growth and encourage our associates to live our values: Do good. Be good. Make good.
+Please note that we do not offer visa sponsorship for this position .
+POSITION SUMMARY:
+At National Life Group, we are unlocking the power of data and AI to transform our business and enhance customer experience. Our AI Center of Excellence (AICoE)
+is leading this effort through innovations in machine learning, advanced analytics, and generative AI.
+As a Data Science Intern, you will contribute to projects within our AI CoE. You’ll gain hands-on experience applying computer science and data science
+techniques to real business challenges. Projects may range from supporting the development of predictive models to testing and enhancing generative AI
+solutions.
+This is a unique opportunity to explore both traditional data science methods and emerging AI technologies while working in a collaborative, mission-driven
+environment.
+RESPONSIBILITIES:
+In this role, you will collaborate with AI and data science practitioners, technical experts, and business partners. You will work primarily in National Life’s
+Databricks environment to develop and evaluate data-driven solutions. Depending on project priorities, responsibilities may include:
+- Prepare, explore, and validate datasets and features for life insurance and annuity use cases such as surrender propensity, premium persistency, and
+policyholder behavioral analysis.
+- Support the development and evaluation of statistical and machine-learning models, comparing results with established baselines and investigating errors and
+limitations.
+- Help design experiments and analyze business outcomes using appropriate comparisons, sound statistical methods, and clear measures of success.
+- Develop reusable Python and SQL workflows, including validation checks and documentation that allow others to review and reproduce the work.
+- Prototype and evaluate generative AI applications, assessing output quality, source support, failure modes, and practical business usefulness.
+- Apply responsible AI and data-handling practices, including appropriate treatment of sensitive information and validation of AI-generated outputs.
+- Communicate findings and recommendations to technical and business audiences.
+QUALIFICATIONS:
+- Currently pursuing a bachelor’s or master’s degree in computer science, data science, mathematics, statistics, or a related field.
+- Strong programming skills in Python, with experience using data analysis or machine-learning libraries such as pandas and scikit-learn. Exposure to Apache
+Spark, PyTorch, or TensorFlow is a plus.
+- Working knowledge of SQL, including querying, joining, and aggregating data to prepare and validate datasets for analysis and modeling.
+- Familiarity with foundational statistical and machine-learning concepts, including regression, classification, model evaluation, and hypothesis testing.
+- Coursework or projects integrating generative AI APIs into software is a plus.
+- Curiosity and eagerness to learn about the real-world application of both modern AI technologies and foundational statistical methods.
+- Strong communication skills and ability to work collaboratively in a team environment.
+AI Proficiency Expectations
+At National Life Group, we view AI as an enabler of human potential. We use AI to help us work smarter, serve more clients, and keep our promises, while
+remaining a relationship-driven business where our people are our greatest strength.
+All associates are expected to:
+- Leverage approved AI tools, where appropriate, to improve the efficiency, quality, and impact of their work.
+- Stay curious and open to new AI-enabled ways of working.
+- Exercise sound judgment by reviewing and validating AI-generated content.
+- Maintain accountability for the accuracy, quality, fairness, and integrity of work products by adhering to National Life's AI guiding principles.
+- Use AI responsibly and in accordance with company policies related to confidentiality, data privacy, security, compliance, retention, and intellectual
+property.
+Core Competencies
+- Service Focus - Demonstrates a client centric focus for satisfying one’s external and/or internal customers; establishes and maintains effective relationships
+with customers and gains their trust and respect.
+- Decision Making - Makes sense of complex information, critically evaluates, and creates solutions.
+- Results Oriented - Sets performance and personal goals; Driven to meet or exceed goals and objectives.
+- Plans and Aligns - Plans and prioritizes work to meet commitments aligned with organizational goals; Aligns people and skills to tasks and assignments;
+Evaluates results of work.
+- Demonstrates Learning Agility - Enhances skills and knowledge through continuous learning; Focuses on personal results by establishing stretch goals; Seeks
+feedback and changes accordingly.
+- Establishes Relationships - Builds partnerships with others to instill trust, collaborate, and meet shared objectives.
+- Communicates Effectively - Actively listens, conveys messages to meet different audience needs, and remains open to new ideas and opinions.
+- Fosters Diversity - Values diversity and difference in thought, experience, and perspective; Promotes an environment that embraces diversity, equity, and
+inclusion; Supports equal and fair treatment for all.
+HOW YOU SHOW UP :
+- Highly reliable, engaged and possess a customer service attitude
+- Demonstrate effective communication to various areas of the organization (technical and non-technical)
+- Bring creativity, thought leadership, and curiosity to the table; actively participate in forums to contribute and learn
+- Strong analytical and critical thinking skills, i.e. a problem solver’s mindset
+- Eager to learn, ask relevant questions, seek new knowledge, and make connections
+- Enjoy taking on challenges and working towards solutions both collaboratively and independently
+PROGRAM HIGHLIGHTS:
+- 10-week paid internship (June 1 - August 6) with formal orientation and onboarding
+- Networking opportunities with peers and leaders throughout the summer
+- Cross-Departmental group project focused on an ent

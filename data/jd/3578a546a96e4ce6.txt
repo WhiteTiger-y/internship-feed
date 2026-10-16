@@ -1,0 +1,26 @@
+Are you looking to be part of a fun, creative company at the forefront of groundbreaking technologies? NVIDIA is leading the way in some of the world's most
+exciting tech areas, including Virtual Reality, Artificial Intelligence, Deep Learning, and Autonomous Vehicles. We are widely recognized as one of the most
+desirable employers, with some of the most forward-thinking individuals in the industry working with us. There has never been a more exciting time to join our
+team!
+We are looking for a highly motivated Applied Deep Learning Algorithm Intern to join our autonomous driving team. You will work with experienced engineers on
+learning-based driving algorithms, supervised fine-tuning, reinforcement learning, data optimization, model evaluation, and multi-carline adaptation.
+What You Will Be Doing:
+- Develop, train, fine-tune, and evaluate learning-based algorithms for autonomous driving decision-making, planning, and driving behavior.
+- Explore Transformer-based approaches, including VLMs and VLAs, for driving-scene understanding, decision-making, and trajectory generation.
+- Build supervised fine-tuning data workflows and Python tools for scenario mining, data cleaning, filtering, labeling, experiment management, visualization,
+and model evaluation.
+- Analyze model failures and vehicle logs, mine hard cases, and improve dataset balance, long-tail coverage, and noise quality.
+- Conduct supervised fine-tuning, reinforcement learning, ablation, and evaluation experiments using offline metrics, open-loop replay, simulation, and vehicle-
+test results.
+- Support model and carline adaptation across multiple autonomous driving programs, including issue analysis, validation, and scaling.
+What We Need to See:
+- Currently pursuing a Master's or PhD in Computer Science, Artificial Intelligence, Robotics, Mathematics, or a related field.
+- Good Python programming skills and hands-on experience with PyTorch or another deep learning framework.
+- Good understanding of machine learning, deep learning, Transformer architectures, model training, optimization, and dataset analysis.
+- Proficient English communication skills, both written and verbal, with the ability to collaborate effectively with global teams.
+- Able to work at least three days per week throughout the internship.
+Ways to Stand Out from the Crowd:
+- Experience with supervised fine-tuning, imitation learning, reinforcement learning, behavior cloning, or learning-based planning.
+- Experience using or fine-tuning VLMs, VLAs, or other multimodal foundation models.
+- Familiarity with autonomous driving datasets, trajectory data, vehicle logs, simulation, or scenario-mining pipelines.
+- Strong C++ skills or relevant research, open-source, publication, or competition experience.

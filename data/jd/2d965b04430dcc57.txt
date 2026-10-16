@@ -1,0 +1,82 @@
+Job Application for Summer 2027 AI Engineer Intern at Datacor
+Back to jobs
+Summer 2027 AI Engineer Intern
+Remote, US
+Apply
+About Us:
+Datacor is the leading provider of software solutions, including ERP, CRM, Asset Tracking, Simulation and Formulation, to the process manufacturing space. We
+are on a mission to better equip the industry with software solutions and move it forward by building thoughtful, intuitive products that solve our customers’
+most difficult problems.
+We are passionate about serving our customers and helping them use data as a competitive advantage. Our customers make products that extend and sustain lives by
+sanitizing, fertilizing, beautifying, cleaning, and recycling the world we live in. We at Datacor help our customers make those products you use every day more
+safely, cost effectively and more efficiently through our technology platforms and applications.
+The Role:
+At our core, we empower our top talent with the autonomy to craft innovative solutions that make a real difference—helping our users become better, faster,
+smarter, and more efficient. In our working team model, you’ll move fast and continuously deliver cutting-edge features by collaborating with a cross functional
+team. This approach gives our AI scientists and engineers full ownership—from ideation and research to experimentation and scaling groundbreaking products and
+services that directly impact our users’ daily operations.
+We seek curious, humble, and driven individuals who embrace learning as a fundamental part of their journey. If you’re passionate about pushing AI boundaries
+and making a meaningful impact alongside a supportive, innovative team, this is the place for you.
+Responsibilities:
+- Collaborate with stakeholders to identify new AI opportunities and create intelligent AI applications.
+- Lead MVP development using a test-and-learn approach with cross-functional teams.
+- Iterate from problem framing to prototyping and deploying production-grade solutions.
+- Deliver reliable, scalable AI features in production.
+- Build prototypes and develop data pipelines for deployment.
+- Experiment with generative LLMs to create and enhance generative applications using prompts and user feedback.
+- Clearly communicate efforts and impact to both technical and business audiences.
+Qualifications:
+- Currently enrolled in a Master’s of PhD program in C omputational Data Science, Computer Science, Electrical/Computer Engineering, or related fields.
+- A self-starter with the ability to work independently and within a team.
+- Experience in a professional environment, including prior internship experience is preferred.
+- Expertise in the latest Large Language Models (LLMs) and AI advancements.
+- Proactive in staying updated with evolving AI trends and new LLM releases.
+- Skilled at diagnosing and solving complex, ambiguous problems with curiosity and a product-focused mindset.
+- Strong communication and presentation skills, able to convey complex analysis clearly and actionably.
+- Results-oriented, creative thinker who takes initiative and delivers practical solutions.
+- Committed to inclusivity, respecting diverse perspectives to foster innovation and build great products.
+- Proven expertise in implementing and fine-tuning generative AI LLMs, with strong NLP knowledge including embeddings, GPT, and Transformer models.
+- Familiarity with cloud computing and AI deployment on AWS or Google Cloud.
+- Solid foundation in deep learning, machine learning, statistics, and optimization from coursework or practical experience.
+- Proficient in Python & C++/Java programming through academic or work experience.
+This is a remote internship with potential travel, depending on location, schedule, and business needs.
+EOE Statement:
+Datacor is an Equal Opportunity Employer and does not discriminate on the basis or race, color, religion, sex, national origin, age, disability, veteran status,
+or any other protected characteristic.
+Use of AI During Interviews:
+At Datacor, we value thoughtful problem-solving and authentic perspectives. To ensure a fair and consistent evaluation process, we ask that candidates do not
+use generative AI tools or outside assistance during live interviews unless explicitly stated otherwise. We're interested in hearing your experience, your
+approach, and how you think through challenges.
+Create a Job Alert
+Interested in building your career at Datacor? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Please include your earliest start date and latest end date. *
+Please include where you will be located during the duration of the internship (city, state). *
+Are you legally authorized to work in the location you currently reside? * Select...
+Will you now, or in the future, require sponsorship for a work permit for the location you currently reside? * Select...
+Please include the university you are currently enrolled in. *
+Please include what degree you are currently pursuing in addition to major(s) and any minor(s). *
+Please include your expected graduation date (month and year). *
+Have you worked for Datacor or a subsidiary (TrackAbout, Chemstations, Format Solutions, AFT, etc) previously? * Select...
+LinkedIn Profile
+How did you hear about this job opening? * Select...
+If you are a referral, please include who referred you.
+If you selected other, please include more details below.
+Please write a few sentences around what you are looking to gain from an internship. *
+Please confirm you are currently enrolled in a Master's or PhD program. * Select...
+Submit application

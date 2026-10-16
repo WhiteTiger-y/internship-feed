@@ -1,0 +1,80 @@
+Wellmark, Inc. Data Analytics & Governance Internship | SmartRecruiters
+- Google Chrome
+- Microsoft Edge
+- Apple Safari
+- Mozilla Firefox
+Data Analytics & Governance Internship
+- Intern
+- Department: Internships
+- Work Environment: Hybrid
+- Pay Grade: 1
+Company Description
+Why choose an internship with Wellmark? We strive to offer meaningful work that assists in your professional development and provides value to the team. You
+will gain valuable experience within the health insurance industry and put the skills and knowledge you’ve acquired in school to practice this summer during our
+2027 Summer Internship Program . You will have the opportunity to learn from subject matter experts and leaders within the industry, network with fellow
+internship program participants, and gain practical, hands-on work experience.
+If you’re eager to learn, collaborate with others, demonstrate your potential, develop customer-focused solutions, and grow into an exciting career, we hope
+you’ll consider an internship with us!
+Job Description
+What’s Data Analytics & Governance at Wellmark? This opportunity is in Data Governance which resides within the broader Business Analytics team and works
+heavily to improve the quality of the data in the data warehouse by influencing data decisions within both Projects and Application Change Requests, as well as
+to help identify and resolve data issues in production. We believe strongly in continuously improving both our processes and our people, and in creating a work
+environment that is both effective and enjoyable to work within.
+What projects might I support? Although subject to change, examples of projects are included below:
+- Support the implementation and enhancement of governance tools like Metadata, Master Data and Reference data (Informatica)
+- Support the implementation and build out of our enterprise Data Quality Management tool (AWS Glue) by setting up rules and building out alerts, scorecards and
+dashboards
+- Support Data Governance reporting through the build out of Power BI dashboards
+- Support the utilization and build out of department level AI use cases (Generative or Agentic)
+- Ancillary benefits of these projects include:
+- Ability to understand Wellmark's approach to data management and governing data quality (SDLC – software development lifecycle)
+- Exposure to working in an Agile work environment (Microsoft DevOps tools)
+- Work with modern data management and data governance tools (Informatica, AWS, Microsoft Azure / Fabric)
+- Gain exposure to business analytics and business intelligence practices
+- Work closely to manage, maintain and enhance data sources behind the scenes from consumption
+I’m interested! What’s next? Review the qualifications below. If the position is a match with your background and interests, please submit an application for
+review.
+This internship can start as a part-time position in the spring then transition into our 2027 Summer Internship Program in May or can start full-time in the
+Summer Internship program and continue as a part-time student in the fall working a hybrid schedule from our corporate office in Des Moines, Iowa.
+Qualifications
+- Current student studying MIS, Data Science, Business Analytics, Computer Science, or related data management or data analytic based programs
+- Familiarity with database systems, ETL tools, Microsoft Excel, and other data manipulation technologies, data visualization platforms and general data
+warehousing such as Microsoft Power BI, AWS, Microsoft Azure/Fabric and Databricks, or similar peer systems
+- Strong problem solving skills, with the ability to develop proactive solutions
+- Excellent communication skills, both written and verbal, with the ability to make recommendations by translating data analysis insights into decisions and
+actions
+- Strong technical aptitude, with the ability to learn new systems quickly
+- Demonstrated analytical skills, with the ability to concisely communicate recommendations to all levels of the organization
+- Proven ability to work in a deadline driven, fast paced environment
+- Available to work 40 hours/week during the formal summer internship program
+- Available to work a hybrid schedule 10-20 hours/week during the academic year; in-office days: Tuesday, Wednesday, Thursday
+Preferred :
+- Prior internship experience and 2+ years of college preferred, but will consider all candidate applications
+Additional Information
+All your information will be kept confidential according to EEO guidelines.
+An Equal Opportunity Employer
+The policy of Wellmark Blue Cross Blue Shield is to recruit, hire, train and promote individuals in all job classifications without regard to race, color,
+religion, sex, national origin, age, veteran status, disability, sexual orientation, gender identity or any other characteristic protected by law.
+Applicants requiring a reasonable accommodation due to a disability at any stage of the employment application process should contact us at [email protected]
+Please inform us if you meet the definition of a " Covered DoD official ".
+At this time, Wellmark is not considering applicants for this position that require any type of immigration sponsorship (additional work authorization or
+permanent work authorization) now or in the future to work in the United States. This includes, but IS NOT LIMITED TO: F1-OPT, F1-CPT, H-1B, TN, L-1, J-1, etc.
+For additional information around work authorization needs please refer to the following resources: Nonimmigrant Workers and Green Card for Employment-Based
+Immigrants
+Wellmark supports and expects the responsible use of AI for our workforce! We welcome the responsible use of these tools by job seekers as well and are
+interested in learning from you; you will have an opportunity in the application process to share which tools you used and how you applied them.
+By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party
+website's terms and privacy policy apply
+I'm interested I'm interested
+Privacy Notice
+I'm interested Refer a friend
+Posted by
+Stacy Lovan
+share this job
+Share to WeChat
+×
+Copy the link and open WeChat to share.
+Copy to clipboard Open WeChat
+Share to WeChat
+×
+Use Scan QR Code in WeChat and click ··· to share.

@@ -1,0 +1,80 @@
+EY | Jobs and Careers Yello Enterprise
+Skip to main content
+Show More
+USA - Tax - Tax Technology and Transformation (TTT) - Data Engineering - Intern - Summer 2027
+1744554 IL-Chicago, NY-New York
+apply
+________
+At EY, we’re all in to shape your future with confidence.
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better
+working world.
+_________
+USA - Tax - Tax Technology and Transformation (TTT) - Data Engineering - Intern - Summer 2027
+Will you shape the future or will the future shape you?
+The Opportunity
+Join our dynamic EY Tax team, where our global expertise and deep technical knowledge across all tax disciplines are enhanced by the latest in innovation and
+cutting-edge technology. We pride ourselves on exceptional client service, strong accountability, and governance, making us the top choice for industry
+executives and the largest revenue-generating US and global tax practice.
+Our Tax Technology and Transformation (TTT) team offers services to enhance the operational efficiency of tax functions and the delivery of technical services,
+supported by a team of over 1,200 professionals. Our core focus areas include transforming tax functions, integrating with finance and business processes, and
+optimizing enterprise systems, all bolstered by strategic alliances. We aim to revolutionize tax and finance operations through strategy development,
+digitalization, and leveraging technology to automate compliance, reporting, and provide valuable insights to our clients.
+Your Key Responsibilities
+As an Intern within the Tax Technology & Transformation Data Team, you'll work alongside tax, technology, and data professionals to leverage analytics, AI, and
+cloud technologies to transform tax operations. You'll gain hands-on experience with enterprise data platforms, business intelligence tools, and real-world
+client engagements while helping deliver innovative business solutions.
+Your day-to-day responsibilities may include:
+- Documenting business requirements, data definitions, process flows, and technical specifications.
+- Supporting data collection, cleansing, validation, and transformation activities across multiple tax and finance data sources.
+- Working with structured and unstructured datasets to identify trends, data quality issues, risks, and opportunities.
+- Helping design and implement data pipelines and automation solutions that improve operational efficiency.
+- Assisting with data migration and integration activities involving ERP, finance, and tax systems.
+- Performing data profiling, reconciliation, and quality analysis to ensure completeness and accuracy.
+- Supporting AI and advanced analytics initiatives, including machine learning and generative AI use cases.
+- Assisting in the development of dashboards, reports, and visualizations using business intelligence tools to support decision-making.
+- Collaborating with cross-functional teams including tax professionals, data engineers, solution architects, and business stakeholders.
+- Researching emerging technologies and industry trends related to Data & Analytics, Microsoft Fabric, Azure Data Platform, Snowflake, Databricks, and AI.
+- Preparing client-ready deliverables, presentations, and project documentation.
+- Taking ownership of assigned workstreams and ensuring timely completion of deliverables.
+Skills and attributes for success
+To qualify for the role, you must have:
+- A predicted undergraduate or graduate degree in Data Science, Computer Science, Information Systems, Business Analytics, Data Engineering, Management
+Information Systems, Accounting Information Systems, or a related field; supported by a strong academic record.
+- 3.0 cumulative college/university GPA.
+- Working knowledge of SQL and data analysis concepts.
+- Data extraction, transformation, and loading (ETL).
+- Database querying and data manipulation
+- Experience with Microsoft Excel and data visualization tools.
+- Familiarity with at least one programming language such as Python, R, or SQL.
+- Interest in cloud data platforms and enterprise technology solutions.
+- An interest working in our team-led and leader-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in
+person 40-60% of the time over the course of an engagement, project or year.
+- Access to reliable transportation to/from the EY office and client sites. A driver’s license is strongly recommended as ride share and public transportation
+options may not be available in all locations.
+- The ability and willingness to travel and work in excess of standard hours when necessary. In certain circumstances, travel may be required beyond your work
+location based on client and project needs.
+- You must reside within a commutable distance of the office location associated with this position.
+- Candidates must be legally authorized to work in the U.S. without the need for employer sponsorship, now and in the future.
+Ideally, you will have:
+- Cumulative college/university GPA of 3.2 or above
+- Experience using Python for data analysis or automation.
+- Familiarity with Power BI, Tableau, or similar visualization tools.
+- Exposure to cloud platforms such as Microsoft Azure, AWS, or Google Cloud.
+- Knowledge of Microsoft Fabric, Azure Data Factory, Databricks, Snowflake, Synapse, or related technologies.
+- Understanding AI, machine learning, or generative AI concepts.
+- Experience working on academic, internship, or research projects involving large datasets.
+- Knowledge of how to leverage firm-approved AI tools in a business setting, including Microsoft Copilot.
+__________
+What we offer you
+At EY, we harness our collective strength to empower you to shape your future with confidence through professional growth, personal fulfillment and an inclusive
+culture. Learn more at ey.com/us/careers.
+- The hourly pay range for this job, in the US, is $36.06 - $45.19 per hour. Individual salaries are based on education, geographic location, and alignment to
+the market data.
+- If you join EY full time after your internship, we offer a competitive compensation and benefits package where you’ll be rewarded based on your performance
+and recognized for the value you bring to the business. In addition, our Total Rewards package for full time hires includes medical and dental coverage, pension
+and 401(k) plans, and a wide range of paid time off options.
+- Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off
+for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and
+emotional well-being.
+Are you ready to shape your future with confidence? Apply today.
+- To make the most of your application experience, please limit yourself to two applications within a six-month 

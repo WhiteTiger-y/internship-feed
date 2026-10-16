@@ -1,0 +1,45 @@
+Job Description GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or
+in the future. This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization
+requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.) To help facilitate administration
+of relocation benefits if you are selected, please apply using the permanent address you would move from. Work Arrangement: On-Site: This internship is
+categorized as on-site. The selected intern is expected to report to the office 5 days a week. Locations: Warren, MI Milford, MI About the Team: The Automated
+Driving Production Technology Team develops and improves the production technologies, hardware processes, and analytical capabilities that support automated
+driving systems. We work across engineering, manufacturing, quality, testing, and operations to improve efficiency, scalability, reliability, and performance.
+Our team combines expertise in hardware systems, production technology, data science, artificial intelligence, process engineering, and analytics to deliver
+data-driven improvements to production processes and engineering productivity. What You Will Do: We are hiring an intern to support AI and hardware process
+efficiency initiatives through data analysis, process optimization, automation, and analytical tool development. AI and Data Science Analyze production,
+quality, equipment, test, and operational data to identify trends, bottlenecks, variation, and improvement opportunities. Apply statistical analysis, machine
+learning, anomaly detection, and other AI techniques to support predictive insights and process optimization. Develop data pipelines, analytical models, and
+automated workflows for engineering and production teams. Hardware and Process Efficiency Evaluate process performance using metrics such as cycle time,
+throughput, first-pass yield, downtime, capacity utilization, and defect rates. Support root-cause investigations by connecting process conditions, equipment
+signals, test results, and quality outcomes. Measure the impact of process changes and recommend improvements that reduce manual effort, improve throughput, or
+increase quality. Analytics and Communication Create dashboards, reports, and visualizations that support technical and operational decisions. Document methods,
+assumptions, findings, and recommendations. Present results clearly to engineers, technical leaders, and cross-functional stakeholders. Required Qualifications:
+Working toward a Bachelor's or Master's degree in Data Science, Computer Science, Statistics, Industrial Engineering, Manufacturing Engineering, Electrical
+Engineering, Mechanical Engineering, or a related field. Coursework or project experience in Python, SQL, MATLAB, statistics, data visualization, or machine
+learning. Able to work full-time, 40 hours per week. Preferred Qualifications: Experience with Python libraries or tools such as pandas, NumPy, scikit-learn,
+PyTorch, or TensorFlow. Familiarity with Power BI, Tableau, time-series analysis, anomaly detection, predictive maintenance, statistical process control,
+optimization, or design of experiments. Basic understanding of manufacturing, hardware development, robotics, automated testing, embedded systems, or production
+operations. Must be graduating between December 2027 and June 2028 Intent to return to degree program after the completion of the internship. Compensation:  The
+monthly salary range for this role is $8,100 – $8,700 per month   GM will provide a one-time lump sum taxable stipend payment to eligible students selected for
+the 2027 Student Program.    What you’ll get from us (Benefits):  Paid US GM Holidays  GM Family First Vehicle Discount Program  Result-based potential for
+growth within GM  Intern events to network with company leaders and peers  About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion
+and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make
+a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee
+to feel they belong to one General Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on
+realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources. Non-Discrimination and Equal
+Employment Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely
+fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop
+better products for our customers. All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin,
+citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or
+any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and
+qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where
+applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we
+Hire. Accommodations General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to
+assist with your job search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific
+accommodation you are requesting as well as the job title and requisition number of the position for which you are applying. We are leading the change to make
+our world better, safer and more equitable for all through our actions and how we behave. Learn more about: Our Company Our Culture How we hire Our diverse team
+of employees bring their collective passion for engineering, technology and design to deliver on our vision of a world with Zero Crashes, Zero Emissions and
+Zero Congestion. We are looking for adventure-seekers and imaginative thought leaders to help us transform mobility. Explore our global locations We are
+determined to lead change for the world through technology, ingenuity and harnessing the creativity of our diverse team. Join us to help lead the change that
+will make our world better, safer and more equitab

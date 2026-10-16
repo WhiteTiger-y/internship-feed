@@ -1,0 +1,73 @@
+Nutanix Careers - Support Analytics & Operations Intern (Summer 2027)
+Support Analytics & Operations Intern (Summer 2027)
+Product Support
+Durham,
+North Carolina
+Req.Num.: 32663
+Apply
+Who are our employees?
+We’re an eclectic group of 5,000+ dreamers, believers and builders, operating in over 40 countries. We’re Hungry. Humble. Honest. With Heart. The 4H’s: these
+are our core values and the DNA of our company. They help drive our employees to succeed, to strive to be better, to learn from every experience. Our employees
+are encouraged to have spirited debates and conversations and to think with a founder’s mindset. This means we’re all CEO’s of the company and, as such, make
+the best decision every day that aligns with our company goals. It’s through our values, our conversations and mindsets that we can continue to disrupt the
+industry and drive innovation in the market.
+Who are we in the market?
+Nutanix is a global leader in cloud software and hyperconverged infrastructure solutions, making infrastructure invisible so that IT can focus on the
+applications and services that power their business. Companies around the world use Nutanix Enterprise Cloud OS software to bring one-click application
+management and mobility across public, private and distributed edge clouds so they can run any application at any scale with a dramatically lower total cost of
+ownership. The result is organizations that can rapidly deliver a high-performance IT environment on demand, giving application owners a true cloud-like
+experience. Learn more about our products at www.nutanix.com or follow us on Twitter @Nutanix .
+removed=====--->
+Hungry, Humble, Honest, with Heart.
+The Opportunity
+- Location: Durham, NC (Hybrid, minimum 3 days/week on-site)
+- Duration: 12 weeks (Start Dates: May 17 or June 21)
+- Pay Range: USD $27.00 – USD $37.00 per hour
+Build on your studies and expand your technical and professional skills while exploring a career at Nutanix. During your internship, you will immerse yourself
+in some of the software industry’s most interesting and cutting-edge technology as you solve complex analytical challenges. Our team is growing, offering you
+limitless opportunities to strengthen your skills beyond the classroom, through hands-on projects and collaboration with a team of experienced professionals.
+About the Team
+At Nutanix, you'll be joining the Support Analytics & Operations team , a dynamic group of talented professionals dedicated to delivering exceptional service
+and support to our customers. Our team culture is built on collaboration and positivity, fostering an environment where everyone’s input is valued and
+encouraged, allowing us to continuously improve and innovate in our approach to customer support.
+You will report to the Manager, Support Analytics and Operations, who is committed to guiding the team towards success through mentorship and clear
+communication. Our work setup is hybrid, requiring you to come into the office three days a week, providing a balanced blend of in-person collaboration and
+remote work flexibility. Additionally, there are no travel requirements for this position, allowing you to focus on providing outstanding support without the
+need for frequent travel.
+Your Role
+- Data Analysis: Apply your analytical and technical skills to analyze real-world support data, identify trends and patterns, and generate insights that improve
+customer experience, operational efficiency, and business performance.
+- Analytics Practices: Work alongside experienced support analysts to strengthen your skills in data exploration, SQL, statistical analysis, data visualization,
+dashboard development, and analytical storytelling.
+- Project Execution: Partner with a mentor to define project objectives, establish key results, analyze data, and deliver measurable insights and
+recommendations that support Global Support initiatives.
+- Technical & Business Growth: Expand your expertise through hands-on training, mentorship, and collaboration with experienced analytics and support
+professionals while developing a deeper understanding of how data drives business decisions.
+What You Will Bring
+- Education: Currently enrolled in a full-time, degree-seeking program at an accredited college or university in Business (Finance, Economics, Analytics) or a
+related field (Statistics, Operations Management)
+- Including: An anticipated graduation date between December 2027 and August 2028.
+- Analytical Toolkit: Solid grasp of data structures alongside proficiency in analytical tools including SQL , some Python skills highly preferred.
+- Data Visualization: Hands-on practice building Tableau dashboards and a genuine passion for translating complex metrics into actionable business insights.
+- Technical Familiarity: Prior exposure to Salesforce and Jira is strongly advantageous, though not required.
+- Work Authorization: Please note that applicants must be legally authorized to work in the United States. Nutanix will not provide visa or work permit
+sponsorship for this position, now or in the future.
+- Logistics: Ability to work from Durham, NC offices a minimum of 3 days per week (Hybrid model).
+Learn More About Nutanix Technology: https://www.nutanixbible.com/
+The Interview Process
+We know you’re balancing classes, exams, and the internship hunt. In the spirit of being transparent, here is what you can expect from our hiring process so you
+can plan ahead.
+- Application Review: If you meet the requirements above, a real human will review your resume to understand your unique talents.
+- Recruiter Screen: A conversation about your background, motivations, and what you hope to gain.
+- Virtual Interview Day: Students who advance to this round will receive preparation prior to the interviews. Expect up to 3 interviews with Nutanix analysts
+and leaders. These are designed to assess your analytical and technical skills, role readiness, and your motivation for the opportunity at Nutanix. Each meeting
+will offer you an opportunity to ask questions and learn more about the team you'll potentially work with.
+- The Finish Line: If you are selected, you’ll receive an offer.
+Pay Transparency
+The pay range for this position at commencement of employment is expected to be between USD $27.00 and USD $37.00 per hour.
+However, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The
+total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in
+addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick
+time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer
+of employment.
+If hired, employee will be in an "at-will position" and the

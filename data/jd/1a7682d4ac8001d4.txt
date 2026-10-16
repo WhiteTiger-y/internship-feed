@@ -1,0 +1,80 @@
+COMPANY PROFILE
+Diversified Gas & Oil Corporation (“DGOC”) is a wholly-owned subsidiary of Diversified Energy Company PLC, a US-based company listed on the New York Stock
+Exchange (NYSE) and London Stock Exchange (LSE) under the ticker symbol “DEC”. Diversified Gas & Oil Corporation (DGOC) is an established owner and operator of
+producing conventional and unconventional natural gas & oil wells and midstream pipelines and compression stations concentrated in the Appalachian Basin in the
+United States. Headquartered in Birmingham, AL, our field operations are located throughout the Appalachian Basin in the states of Tennessee, Kentucky,
+Virginia, West Virginia, Ohio, and Pennsylvania. In 2021, Diversified announced our expansion into our Central Regional Focus Area, which includes producing
+areas within Louisiana, Texas, Oklahoma, and Arkansas.
+POSITION SUMMARY & RESPONSIBILITIES:
+We are seeking a passionate and talented Engineering and Data Science Intern to join our team. This role is ideal for students or recent graduates majoring in
+engineering, computer science, data science, or related fields who are eager to apply their expertise in modern techniques to real-world projects.
+Possible Intern Projects:
+- SCADA alarm management – Million of alarms, prevent flood of alarms and keep up with changing variables that trigger those alarms
+- Asset location Geo Fence efforts – How to Map 100K+ locations with little human interaction
+- Tank Leak detection tuning – How to filter out “noise” of regular business
+- AI agent for customer service knowledgebase
+- Other AI Accounting & Energy projects
+Responsibilities:
+- Research and Implementation: Conduct research on cutting-edge AI technologies, frameworks, and best practices, and help integrate them into existing
+workflows.
+- Exploratory Data Analysis: Work with large datasets to uncover trends, patterns, and actionable insights that drive decision-making.
+- Tool Integration: Assist in the development and integration of AI tools and platforms into internal systems and processes.
+- Code Optimization: Write and optimize code for AI models, ensuring efficiency and scalability.
+- Collaboration: Work closely with cross-functional teams, including data engineers, product managers, and stakeholders, to understand project requirements and
+deliver solutions.
+- Documentation: Prepare detailed documentation of models, pipelines, and workflows for internal use and knowledge sharing.
+POSITION REQUIREMENTS:
+- Must be currently enrolled in a college/university program at the time of internship
+- Self-starter with a passion for learning and a strong work ethic
+- Eagerness to contribute in a team-oriented environment
+- Excellent written and verbal communication skills
+Preferred Skills:
+- Currently pursuing or recently completed a degree in Engineering, Data Science, Computer Science, or a related field.
+- Proficiency in programming languages.
+- Familiarity with machine learning frameworks (e.g., TensorFlow, PyTorch) and/or data visualization tools (e.g., Tableau, Power BI).
+- Knowledge of cloud computing platforms like AWS, Azure, or Google Cloud.
+- Strong problem-solving and communication skills, with an eagerness to learn and apply new concepts in real-world scenarios.
+- Experience with Database technologies.
+- Understanding of big data tools (e.g., Apache Spark, Hadoop).
+We value safety, production, efficiency, and enjoyment in our work. If you are interested in joining us for Summer 2027, please complete an application
+Office Physical Requirements and Working Conditions:
+- Prolonged periods working at a desk in front of a computer.
+Additional Requirements:
+- Must be able to lift up to 15 pounds at a time.
+POSITION SUMMARY & RESPONSIBILITIES:
+We are seeking a passionate and talented Engineering and Data Science Intern to join our team. This role is ideal for students or recent graduates majoring in
+engineering, computer science, data science, or related fields who are eager to apply their expertise in modern techniques to real-world projects.
+Possible Intern Projects:
+- SCADA alarm management – Million of alarms, prevent flood of alarms and keep up with changing variables that trigger those alarms
+- Asset location Geo Fence efforts – How to Map 100K+ locations with little human interaction
+- Tank Leak detection tuning – How to filter out “noise” of regular business
+- AI agent for customer service knowledgebase
+- Other AI Accounting & Energy projects
+Responsibilities:
+- Research and Implementation: Conduct research on cutting-edge AI technologies, frameworks, and best practices, and help integrate them into existing
+workflows.
+- Exploratory Data Analysis: Work with large datasets to uncover trends, patterns, and actionable insights that drive decision-making.
+- Tool Integration: Assist in the development and integration of AI tools and platforms into internal systems and processes.
+- Code Optimization: Write and optimize code for AI models, ensuring efficiency and scalability.
+- Collaboration: Work closely with cross-functional teams, including data engineers, product managers, and stakeholders, to understand project requirements and
+deliver solutions.
+- Documentation: Prepare detailed documentation of models, pipelines, and workflows for internal use and knowledge sharing.
+POSITION REQUIREMENTS:
+- Must be currently enrolled in a college/university program at the time of internship
+- Self-starter with a passion for learning and a strong work ethic
+- Eagerness to contribute in a team-oriented environment
+- Excellent written and verbal communication skills
+Preferred Skills:
+- Currently pursuing or recently completed a degree in Engineering, Data Science, Computer Science, or a related field.
+- Proficiency in programming languages.
+- Familiarity with machine learning frameworks (e.g., TensorFlow, PyTorch) and/or data visualization tools (e.g., Tableau, Power BI).
+- Knowledge of cloud computing platforms like AWS, Azure, or Google Cloud.
+- Strong problem-solving and communication skills, with an eagerness to learn and apply new concepts in real-world scenarios.
+- Experience with Database technologies.
+- Understanding of big data tools (e.g., Apache Spark, Hadoop).
+We value safety, production, efficiency, and enjoyment in our work. If you are interested in joining us for Summer 2027, please complete an application
+Office Physical Requirements and Working Conditions:
+- Prolonged periods working at a desk in front of a computer.
+Additional Requirements:
+- Must be able to lift up to 15 pounds at a time.
+UNAVAILABLE

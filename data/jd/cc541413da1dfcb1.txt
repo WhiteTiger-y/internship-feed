@@ -1,0 +1,40 @@
+A Career with Point72’s Market Intelligence Team
+On our proprietary research team—Market Intelligence—you’ll support Analytics team members as they work with our investment professionals and Compliance team to
+uncover insights about companies, industries, and the broader economy through deep fundamental research and applying data science and engineering techniques to
+alternative data sets. You’ll work alongside a talented team with diverse skills, backgrounds, and perspectives.
+Our industry researchers, product managers, and data scientists and engineers work together to build compliant research products that answer the questions our
+investment professionals care about most. We look for other bright, motivated, and collaborative people to join our team and grow with us.
+About the MS/PhD Data Scientist Internship
+Our data scientists conduct research through data mining and statistical modeling to discover insights from large, complex data sets that are used by our
+investment professionals to make investment decisions.
+During the 10-week program based in our New York office, you will gain exposure to:
+- A highly collegial environment that emphasizes teaching and learning as a team
+- Tackling challenges of featuring and modeling large and unstructured data using machine learning and statistical techniques
+- Managing all aspects of the research and execution process including methodology selection, data collection and quality, modeling and analysis, and
+performance monitoring
+- Working alongside Analytics team members who deliver research findings to investment teams, portfolio managers, and other internal clients
+- Driving technical innovation through a collaborative R&D process
+Summer Internship Program at Point72
+In addition to the learning and development you’ll receive in your day-to-day role with your team, as a part of our summer internship program you will:
+- Work alongside your fellow interns and be mentored by experienced professionals
+- Meet your peers through designated intern programming, volunteer opportunities, and social events
+- Attend sessions with senior leaders discussing their expertise and career paths
+- Get hands on access to the wealth of tools and resources that Point72 employees use every day
+- Gain exposure to groups and functions with unique responsibilities and perspectives on our industry
+- Develop technical, writing, and presentation skills
+- Participate in networking opportunities across the firm, with groups such as Trading, Finance, Trade Support, Compliance, and Technology
+What’s R equired
+- Pursuit of master’s or PhD degree in a quantitative discipline
+- Demonstrated interest in machine learning, statistical models, and data mining tools
+- Strong programming skills in Python, R, Spark, and/or SQL
+- Exceptional understanding of statistics and advanced modeling techniques
+- Ability to communicate complex analyses and results clearly
+- Commitment to the highest ethical standards
+About Point72
+Point72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver
+superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain
+the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth. For more information, visit  
+https://point72.com/ .
+The annual base salary range is $130,000–$175,000 (USD), which will be prorated based on internship start and end date; this does not include overtime
+compensation. Actual compensation offered to the successful candidate may vary from posted hiring based upon geographic location, work experience, education,
+and/or skill level, among other things.

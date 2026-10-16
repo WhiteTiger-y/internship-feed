@@ -1,0 +1,45 @@
+Student Intern - HHSIAN We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working
+here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future. Tech & Data
+Program Summer 2027 – Data Engineer Intern Program Overview At The Hartford, we foster an inclusive and collaborative environment where every voice is valued
+and every idea can make an impact. Our culture is built on integrity, innovation, and a customer-first mindset. We believe in empowering employees to grow
+through continuous learning, mentorship, meaningful work, and opportunities to contribute to solutions that support our customers and business. As a Data
+Engineer Intern, you will help build and support the data pipelines, platforms, and processes that enable analytics, reporting, automation, and AI-driven
+insights across the organization. This role is ideal for students who are interested in building the systems behind the data — transforming raw information into
+reliable, usable data assets that help teams make better decisions. Bring your curiosity, technical mindset, and willingness to learn. Your voice and
+perspective matter here. About the Experience The Hartford’s Technology, Data, AI, and Operations organization offers an immersive summer internship program
+designed to help students explore career paths in technology, data engineering, cybersecurity, AI, analytics, data science, and technology operations within the
+insurance industry. As part of The Hartford’s growing investment in AI and advanced analytics, interns will explore how emerging technologies — including
+generative AI, machine learning, and automation — are transforming business operations, decision-making, and customer experience. In this role, you will gain
+hands-on experience supporting data solutions that help power business insights, analytics products, and future AI capabilities. This role is a hybrid position
+in Hartford, CT. or in the future. Candidate must be authorized to work in the US without company sponsorship. The company will not support the STEM OPT I-983
+Training Plan endorsement for this position. What You'll Gain Hands-on experience designing, building, and supporting data pipelines and data workflows Exposure
+to modern data engineering practices, including ETL/ELT, data transformation, data quality, and cloud-based data platforms Opportunities to work with tools and
+technologies such as Python, SQL, PL/SQL, Snowflake, GitHub, and cloud platforms Exposure to how data engineering enables analytics, reporting, automation,
+machine learning, and AI use cases Mentorship, coaching, feedback, and self-directed learning opportunities Networking, volunteerism, and employee engagement
+experiences with peers and leaders across the organization A stronger understanding of how data supports decision-making within the insurance industry Ways
+You'll Learn, Grow, and Contribute Depending on your role and project assignments, your experience may include: Build and support data pipelines that ingest,
+transform, and prepare data for business and analytical use Work with structured and unstructured data to enable analytics, reporting, and AI-driven solutions
+Apply data engineering tools and techniques (e.g., Python, SQL, ETL processes, cloud technologies) to develop reliable data assets Ensure data quality,
+consistency, and performance through profiling, validation, and monitoring activities Collaborate with cross-functional teams to deliver scalable data solutions
+that address business needs Leverage AI tools (e.g., Copilot) to enhance productivity and support the development of data solutions that power advanced
+analytics and machine learning Required Qualifications Undergraduate or graduate student expecting to graduate in May 2028 with a Bachelor's or Master's degree
+and a GPA of 3.0 or higher. Pursuing a degree in Computer Science, Engineering, IT, Management Information Systems, Data Analytics, Applied Mathematics, or
+another STEM-related field Strong analytical, problem-solving, and critical thinking skills Strong communication, collaboration, and interpersonal skills
+Curiosity and willingness to explore new technologies and challenge assumptions Demonstrated ability to analyze complex problems using structured thinking and
+logical reasoning Commitment to ethical judgment, responsible data use, and understanding how technology decisions affect stakeholders and the business
+Experience and exposure to some or all of the following: Programming & Querying: Python, SQL, PL/SQL Data Engineering: ETL/ELT, data pipelines, data
+transformation, data profiling, data quality, data modeling Data Platforms & Tools: Snowflake, GitHub, relational databases, data warehouse concepts Cloud
+Technologies: AWS, Azure, or Google Cloud Analytics & BI: Tableau, dashboards, reporting, data mining, or business intelligence tools AI & Emerging Technology:
+Familiarity with AI/ML concepts, generative AI tools, LLMs, NLP, or interest in building data foundations that support AI-driven solutions Agile Ways of
+Working: Exposure to Agile teams, sprint delivery, or collaborative product-based work. Our internship program is designed as a pipeline for future full-time
+opportunities. High-performing interns may be considered for full-time roles within The Hartford’s Technology & Data organization. Compensation The listed
+annualized base pay range is primarily based on analysis of similar positions in the external market. Actual base pay could vary and may be above or below the
+listed range based on factors including but not limited to performance, proficiency and demonstration of competencies required for the role. The base pay is
+just one component of The Hartford’s total compensation package for employees. Other rewards may include short-term or annual bonuses, long-term incentives, and
+on-the-spot recognition. The annualized base pay range for this role is: - Equal Opportunity Employer/Sex/Race/Color/Veterans/Disability/Sexual
+Orientation/Gender Identity or Expression/Religion/Age About Us | Our Culture | What It’s Like to Work Here | Perks & Benefits Every day, a day to do right.
+Showing up for people isn’t just what we do. It’s who we are – and have been for more than 200 years. We’re devoted to finding innovative ways to serve our
+customers, communities and employees—continually asking ourselves what more we can do. Is our policy language as simple and inclusive as it can be? Can we
+better help businesses navigate our ever-changing world? What else can we do to destigmatize mental health in the workplace? Can we make our communities more
+equitable? That we can rise to the challenge of these questions is due in no small part to our company values that our employees have shaped and defined. And
+while how we contribute looks different for each of us, it’s these values that drive all of us to do more and to do

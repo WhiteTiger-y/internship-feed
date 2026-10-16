@@ -1,0 +1,67 @@
+Job Application for Summer 2027 AI Applied Research Internship at The Nuclear Company
+Back to jobs
+Summer 2027 AI Applied Research Internship
+Washington, DC
+Apply
+The Nuclear Company is the fastest growing AI tech-startup in the nuclear and energy space, pioneering a fleet-scale approach to building the next generation of
+nuclear reactors. Through our design-once, build-many model, we're accelerating the deployment of safe, reliable, and affordable nuclear energy.
+We operate with an AI-first mindset. Every employee is expected to leverage AI, technology, and the Nuclear Operating System (NOS) as integral components of
+their role to improve the quality, speed, and impact of their work. We expect every team member to continuously identify opportunities to automate workflows,
+enhance decision-making, improve processes, and contribute to the ongoing evolution of NOS as a strategic operating capability that enables The Nuclear Company
+to scale with excellence.
+We hire people who are driven by purpose, thrive in ambiguity, and are energized by building what has never been built before. Our team combines intellectual
+curiosity with high agency, embraces candid feedback and continuous learning, and holds themselves and others to exceptional standards. Our values— Trust,
+Responsibility, Unity, Scrappiness, and Tenacity —guide how we hire, collaborate, and make decisions every day. They are not words on a wall; they are the
+standard by which we operate. Trust is the foundation of our safety culture, fostering intellectual honesty, accountability, and open communication, while our
+values challenge every team member to execute with urgency, humility, resilience, and an unwavering commitment to our mission.
+About the role
+The United States is building nuclear power again, at a scale not attempted in a generation, and The Nuclear Company is leading it. Our Applied Research and AI
+team works on the open problems that decide how a fleet of plants gets built: sequencing construction across many concurrent sites, allocating capital under
+deep uncertainty, and keeping a distributed critical infrastructure secure. These are hard problems with real operational stakes, and the work ships into
+systems that inform real decisions.
+You will put reinforcement learning and optimization to work on problems that decide how a fleet of plants gets built: how to sequence construction across many
+sites, where to place capital under uncertainty, and how to keep a distributed site secure. As a Data Science & Machine Learning Fellow, you formulate the
+problem, build a simulation or optimization model, evaluate it rigorously, and help move it toward a deployed decision system. You work alongside nuclear
+industry experts to deliver solutions that inform real decisions and create business value.
+This is a 12-week Summer 2027 fellowship (May to August), aligned to the academic calendar. Base location is Washington DC, on-site five days a week, with full
+housing and relocation for fellows outside the DC metro area.
+Responsibilities
+- Problem formulation: translate operational processes (construction scheduling, portfolio sequencing, security operations) into well-defined modeling problems
+and make the case for the right approach.
+- Simulation and evaluation: build environments that faithfully represent these processes so models can be trained, evaluated, and iterated on.
+- Modeling: develop reinforcement learning, optimization, or forecasting models for schedule optimization, capital allocation under uncertainty, or anomaly
+detection and alert prioritization.
+- Empirical research: design rigorous experiments, keep reproducible codebases, and communicate results clearly to technical and non-technical stakeholders.
+- Production path: work with engineering on how models are served, monitored, updated, and safely overridden in production.
+Required Experience
+- Currently pursuing an MS or PhD in Computer Science, Machine Learning, Operations Research, Applied Math, Economics, Statistics, or a related quantitative
+field. Returning to your MS or PhD program after the fellowship (expected graduation December 2027 or later).
+- Production-quality Python and PyTorch, with solid machine learning fundamentals.
+- Hands-on experience (coursework, research, or projects) with at least one of: reinforcement learning, mathematical optimization, simulation and modeling, or
+time-series forecasting.
+- Able to translate a messy real-world process into a tractable formulation (an MDP with sensible state, action, and reward, or an optimization model) and
+explain the modeling choice. Running pre-built models on clean benchmarks is not enough.
+- Demonstrated ability to design, implement, and evaluate experiments, with reproducible research practices (version control, testing).
+- This position requires access to information and technology subject to U.S. export controls (including DOE 10 CFR Part 810 and NRC requirements). U.S. Person
+status (U.S. citizen or lawful permanent resident) is required, and TNC does not provide visa sponsorship for these roles.
+- Willing and able to work on-site in Washington DC, five days a week, for the full 12-week program
+Preferred Experience
+- Deep RL: policy gradient (PPO, SAC) or value-based (DQN, IQL) methods; offline / batch RL (CQL, IQL, TD3+BC, Decision Transformer).
+- Combinatorial optimization with ML: graph neural networks for scheduling or routing, or neural combinatorial optimization.
+- Multi-agent RL (MAPPO, QMIX) or stochastic / robust optimization (CVaR-constrained, chance-constrained, distributionally robust).
+- Uncertainty quantification; a game-theory or behavioral-science perspective on decision-making.
+- MLOps for models in production: serving, monitoring, retraining, and distribution-shift detection.
+- Domain exposure: construction or infrastructure operations, energy or electricity markets, industrial control systems, or critical-infrastructure security.
+Benefits
+- Competitive compensation packages
+- 401k with company match
+- Medical, dental, vision plans
+- Generous vacation policy, plus holidays
+Estimated Starting Salary Range
+The estimated starting rate for this role is $25.00 an hour plus a $2,000 monthly housing stipend less applicable withholdings and deductions, paid on a bi-
+weekly basis. The actual pay offered may vary based on relevant factors as determined in the Company’s discretion, which may include experience, qualifications,
+tenure, skill set, availability of qualified candidates, geographic location, certifications held, and other criteria deemed pertinent to the particular role.
+EEO Statement
+The Nuclear Company is an equal opportunity employer committed to fostering an environment of inclusion in the workplace. We provide equal employment
+opportunities to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age,
+disability, veteran status, or any other protected characteristic. We 

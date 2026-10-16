@@ -1,0 +1,30 @@
+Join NVIDIA’s Cosmos Lab Infrastructure team to develop training and post-training systems for advanced Physical AI models, including world foundation models
+and robot policies. Our infrastructure connects training, inference, and evaluation with simulation and real-world robot interaction. You will work with a
+mentor on a focused project scoped to your experience and internship duration, implementing and evaluating systems improvements on real AI workloads using
+NVIDIA’s GPU infrastructure.
+What you’ll be doing:
+Develop and optimize training infrastructure for advanced Physical AI world models, supporting pre-training, supervised fine-tuning (SFT), and reinforcement
+learning (RL). Explore distributed parallelism, sharding, low-precision training, compute–communication overlap, and numerical consistency and efficient weight
+synchronization between training and inference.
+Build Physical AI post-training and RL infrastructure supporting advanced training algorithms. Connect simulation or, where applicable, real-robot interaction
+with experience collection, rollout inference, reward computation, training, and evaluation. Optimize these workflows through partitioning, pipelining, data
+transfer, and synchronization across synchronous, asynchronous, or disaggregated execution.
+Improve efficiency and scalability across training, inference, simulation, and evaluation through scheduling, placement, dynamic resource allocation, and load
+balancing, supporting heterogeneous resources, elasticity, and fault recovery.
+Analyze and optimize system performance, working with researchers to investigate, support, and compare emerging Physical AI models, training workflows, and
+algorithms from a systems perspective. Use profiling, benchmarking, and performance modeling to identify bottlenecks and measure throughput, latency, GPU
+utilization, and policy freshness. Share findings through tested code, documentation, and technical presentations, and contribute to research publications where
+appropriate.
+What we need to see:
+Pursuing a Bachelor’s, Master’s, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field.
+Strong Python and debugging skills, with systems fundamentals in concurrency, distributed execution, memory management, or data movement.
+Practical experience in at least one area: training infrastructure, RL infrastructure, simulation or robotics integration, or inference infrastructure.
+Coursework, research, open-source projects, and internships all count.
+Strong analytical and communication skills, curiosity, and a willingness to learn.
+Experience in every listed area, prior access to large GPU clusters, and model architecture or learning algorithm research are not required.
+Ways to stand out from the crowd:
+Experience optimizing training infrastructure, including distributed parallelism, low-precision training, GPU memory efficiency, or compute–communication
+overlap.
+Experience optimizing scheduling, placement, resource allocation, or data transfer across training, rollout, simulation, and evaluation.
+Experience extending RL pipelines, integrating simulation environments or robot interfaces, or optimizing inference; GPU profiling, C++/CUDA development, and
+open-source contributions or research in ML systems are also valued.

@@ -1,0 +1,45 @@
+Job Description The Role: Conduct original research and develop practical AI/ML methods that accelerate GM’s research, engineering, and product development
+capabilities. This role is intended for a recent or soon-to-be-completed Ph.D. who brings strong depth in one or more advanced AI areas and the ability to work
+across disciplines. The intern will develop proof-of-concepts (POCs), evaluate them on meaningful engineering or scientific problems, communicate findings
+clearly, and collaborate with senior researchers and engineering partners to move promising ideas toward impact. The Team:  GM R&D is seeking an outstanding
+early-career intern to contribute to advanced work in Artificial Intelligence, Machine Learning, and Large Language Models. The role is designed for a fresh
+Ph.D. It emphasizes research depth, originality, experimental rigor, and growth toward independent technical leadership. The successful candidate will work with
+senior researchers, technical fellows, and engineering collaborators to formulate important problems, develop new methods, build research prototypes, and
+validate results. The work may span causal reasoning, neurosymbolic AI, world models, multimodal and generative AI, engineering agents, or related areas. The
+intern will be expected to connect theory and experimentation with real engineering needs while maintaining high standards for reproducibility, explainability,
+uncertainty awareness, and responsible AI. What You’ll Do:    • Conduct original research in one or more advanced AI areas such as causal AI, neurosymbolic AI,
+world models, multimodal or generative AI or engineering agents. • Translate engineering and scientific challenges into well-defined research questions,
+hypotheses, algorithms, and experimental plans. • Design, implement, and evaluate machine learning models and proof-of-concepts using real, simulated,
+experimental, or engineering data. • Develop methods that can reason about physical systems, causal relationships, uncertainty, constraints, temporal evolution,
+or complex interactions among components. • Establish meaningful baselines and evaluation protocols; analyze failure modes, robustness, generalization,
+interpretability, and uncertainty rather than relying only on headline accuracy. • Build reproducible research code, data-processing workflows, and experiment
+pipelines using modern deep learning practices. • Collaborate with GM R&D researchers and engineering partners to understand domain constraints, validate
+research results, and identify pathways from POCs to practical use. • Communicate technical findings through research reports, presentations, publications,
+invention disclosures, demonstrations, and clear documentation. • Contribute to technical discussions and research roadmaps by identifying promising approaches,
+important risks, and high-value experiments. • Participate in a collaborative research culture that values intellectual curiosity, constructive peer review,
+responsible innovation, and continuous learning. More About Who You Are • A curious and intellectually rigorous researcher who enjoys working on difficult,
+open-ended problems. • Deeply grounded in at least one technical area, while eager to learn and collaborate across adjacent AI, computational science, and
+engineering disciplines. • Motivated by research that can create measurable value in real-world engineering workflows, not only benchmark performance. •
+Comfortable moving between mathematical formulation, algorithm development, software implementation, and empirical validation. • Able to explain complex ideas,
+assumptions, limitations, and results to both technical and general audiences. • Independent in driving research tasks to completion while actively seeking
+feedback and working effectively with senior mentors and cross-functional teams. • Committed to careful experimentation, reproducibility, safety,
+explainability, and responsible use of AI. Required Qualifications:     Pursuit of a PhD in one of the following areas: Computer Science, Artificial
+Intelligence, Machine Learning, Applied Mathematics, Statistics, Computational Science, Engineering, Physics, or a related field. Must be a current student Able
+to work fulltime, 40 hours per week during the summer months Demonstrated research depth in at least one relevant area, supported by a dissertation,
+publications, patents, open-source work, research software, or comparable technical contributions. Strong foundations in machine learning and deep learning,
+with working knowledge of optimization, probability/statistics, numerical methods, or scientific computing as appropriate to the research area. Experience
+developing and evaluating models in Python and frameworks such as PyTorch, JAX, TensorFlow, or comparable tools. Ability to formulate experiments, select
+appropriate metrics and baselines, analyze results, and communicate technical conclusions with appropriate caveats. Strong verbal and written communication
+skills and the ability to collaborate effectively with researchers, engineers, and technical stakeholders. Ability to work on-site or in a hybrid research
+environment in accordance with GM work practices and project needs. Preferred Qualifications:    Research experience in causal inference, counterfactual
+reasoning, neurosymbolic methods and world models for engineering applications. Experience with multimodal AI, large language models, agentic systems, retrieval
+and reasoning, or AI-assisted engineering and software development. Evidence of research impact through high-quality publications, patents, invention
+disclosures, open-source contributions, awards, or successful technology demonstrations. Research or internship experience in automotive, mobility, aerospace,
+industrial, energy, defense, national laboratory, or university-industry collaboration settings. GM does not provide immigration-related sponsorship for this
+role. Do not apply for this role if you will need GM immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the
+immigration employer of record on a government form, and any work authorization requiring a written submission or other immigration support from the company
+(e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc). The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person
+(U.S. citizen, U.S. permanent resident, asylee or refugee). Work Arrangement: Hybrid: This role is categorized as hybrid. This means the successful candidate is
+expected to report to Moutain View, CA three times per week, at minimum [or other frequency dictated by the business].  Compensation: The compensation
+information is a good faith estimate only. It is based on what a successful applicant might be paid in accordance with applicable state laws. The actual base
+salary a successful candidate will be offered within this range will vary based on factors relevant to the position, as well as

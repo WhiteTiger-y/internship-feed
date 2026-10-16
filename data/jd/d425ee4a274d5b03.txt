@@ -1,0 +1,31 @@
+DCI Marketing, Inc. As a part of the global industrial organization Marmon Holdings—which is backed by Berkshire Hathaway—you’ll be doing things that matter,
+leading at every level, and winning a better way. We’re committed to making a positive impact on the world, providing you with diverse learning and working
+opportunities, and fostering a culture where everyone’s empowered to be their best. DCI Marketing is reimagining how brands engage with retail customers. We
+design and deliver immersive environments that bring automotive and consumer brands to life, combining physical fixtures with digital experiences backed by
+data. Together, these elements transform retail spaces into powerful drivers of growth. Our people are problem-solvers who turn complex challenges into
+experiences that feel purposeful and built for growth. As part of Marmon Holdings, Inc., a Berkshire Hathaway company, we bring the resources and stability of a
+global organization to our craft-driven, agile team. DCI Marketing develops retail merchandising solutions for global brands and retailers. Using consumer
+insights and a retail science-based methodology. The company specializes in retail environments, merchandising displays, digital merchandising, marketing
+programs, audit solutions, and facility image products. This position is in the DCI Marketing Data Team. We're seeking a highly motivated student intern to work
+in an individual contributor (IC) role for the Data and Analytics team. This role is both hands-on and serves to meet timelines and quality requirements. The
+candidate will assist with building a functional Analytics Center of Excellence practice in both custom and purchased platform environments. WHAT YOU'LL DO:
+Translate functional and non-functional requirements into effective designs and development specifications Responsible for helping transform Data into - >
+Information -> Knowledge - > Business Decisions Responsible for streamlining dataflow pipelines across various programs and products Responsible for identifying
+trends and patterns in data leading to increased effectiveness of digital programs Responsible for Data related documentation and visual communications Actively
+seeks to learn and takes guidance from other delivery and operations team members Support Snowflake services and warehouse WHAT YOU'LL BRING TO THE ROLE:
+Currently pursuing an undergraduate degree in Computer/Software Engineering 2+ years of experience in data-related technologies and architecture Experience with
+Snowflake DB (programming knowledge using Snowflake, SnowSight and Snowpipes) is a plus Experience in the use of machine learning methods - for example, linear
+regression, correlation, and statistical modeling Experience in writing complex, highly optimized SQL queries Experience in managing the Data pipelines Google
+Analytics and Social Media Analytics experience is an advantage Prescriptive/predictive analytics experience is an advantage *** For a rising senior (graduating
+in 2027), the anticipated pay rate for this role is $27.00/hour. *** Following receipt of a conditional offer of employment, candidates will be required to
+complete additional job-related screening processes as permitted or required by applicable law. We are an equal opportunity employer, and all applicants will be
+considered for employment without attention to their membership in any protected class. If you require any reasonable accommodation to complete your application
+or any part of the recruiting process, please email your request to careers@marmon.com, and please be sure to include the title and the location of the position
+for which you are applying. Welcome to the biggest small business you’ll ever find. Part of Berkshire Hathaway, Marmon is a global industrial organization made
+of 11 industry groups with 30K employees and $12 billion in annual revenue. As leaders in their respective industries, our 120+ companies thrive on an
+independent mindset and entrepreneurial spirit. At the same time, they benefit from being part of our industry groups—where they’re able to tap into the
+expertise and insights of other Marmon companies. While we’re all unique, we all share a common commitment to doing things that matter, leading at every level,
+and winning a better way. When you work at Marmon, you're advancing our everyday world and beyond. Our engineering solutions help millions around the world stay
+connected, healthy, and safe. Wherever you're at in your career, our people and resources will help you go further. As you grow your skills, you can also move
+up and around our 120+ companies. Work at a place you can stand behind. We show up to win every day, uphold the highest ethical standards, and always look to
+put each other in the best position to win.

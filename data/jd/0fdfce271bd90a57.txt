@@ -1,0 +1,17 @@
+We are now looking for Compute/DL Architecture Performance Optimization Interns in our group! Are you passionate about exploring computer architectures for deep
+learning? Do you enjoy working at the intersection of hardware and software? NVIDIA is looking for world-class programmers and performance architects who like
+to continuously explore and mine the ultimate performance of each operator (or fusion operator) in deep learning networks, design and develop scalable modular
+infrastructure that can ship these highly optimized operators to different NVIDIA software libraries for training and inference.
+What you'll be doing:
+Develop high performance operators on NVIDIA GPUs for cuBLAS, TensorRT, cuDNN, cuSparse and cuTensor libraries
+Analyze the performance of various GPU kernels on existing/new architecture, identify bottlenecks and propose creative solutions to improve them
+Design and develop software for kernel authoring and shipping
+Adopt cutting-edge AI technologies in GPU kernel or similar development workflow
+What we need to see:
+Pursuing a B.S., M.S., or PhD degree in computer science (or similar)
+Strong programming skills in C/C++ and Python development
+Familiar with GPU programming model and CUDA
+Good understanding about compiler technologies and experience with LLVM and MLIR
+Excellent problem solving skills, good communication and teamwork
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative and autonomous, we want to hear from you!

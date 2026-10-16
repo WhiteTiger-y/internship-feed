@@ -1,0 +1,117 @@
+Job Application for Data Engineering Intern — Summer 2027 at Gallup
+Back to jobs New
+Data Engineering Intern — Summer 2027
+San Francisco
+Apply
+Apply early for priority consideration. Gallup has limited openings for this internship, and the position will be filled quickly.
+As a data engineering intern at Gallup, you’ll help build and modernize the data tools, infrastructure and pipelines that enable teams to work with data at
+scale. Alongside experienced technical leaders, you’ll put your Python and SQL skills to work on meaningful projects while learning best practices,
+experimenting with modern tools and seeing firsthand how strong data engineering supports better decisions.
+What You’ll Do
+During your internship, you will:
+- Build foundational data tooling and infrastructure designed to scale as the volume and frequency of data grow
+- Help modernize legacy data pipelines using Python, SQL and Gallup’s evolving data platform
+- Troubleshoot data quality issues in large, imperfect datasets
+- Apply data engineering practices to move, transform and validate data across systems
+- Help build reliable, efficient data workflows
+- Learn from senior technical leaders who will mentor you on engineering practices, tools and approaches
+- Collaborate with engineers and interact directly with stakeholders to understand needs and deliver useful solutions
+- Use AI-enabled development tools to improve the quality and efficiency of your work
+What You Need
+- Enrollment in an associate, bachelor’s or graduate degree program in computer science, data engineering, information systems, statistics, math or a related
+field required
+- Classroom or work experience writing SQL required, including joins, aggregations and troubleshooting query performance
+- Classroom or work experience coding in Python for data processing, scripting or automation required
+- Working knowledge of relational database and data modeling concepts, including schema design and dimensional or star-schema modeling, required
+- Comfort using AI tools such as Claude, Claude Code or GitHub Copilot to support high-quality, efficient work required
+- Understanding of ETL/ELT concepts and how data are moved, transformed and validated between source systems and a warehouse preferred
+- Familiarity with cloud data platforms and warehouses (e.g., AWS, Snowflake, Redshift) preferred
+- Exposure to pipeline orchestration or transformation tooling such as Apache Airflow, dbt or Apache Spark preferred
+- Familiarity with version control and collaborative development using Git or GitHub preferred
+- Enrollment at a college or university within an 80-mile radius of San Francisco, California, required
+- Anticipated graduation between August 2027 and May 2028 preferred
+- Availability to work 40 hours per week for 12 weeks during the summer of 2027 required
+- A commitment to working on-site at Gallup’s San Francisco office Monday through Thursday required, with the option to work remotely on Friday
+- Eligibility to work in the United States required; this position is not eligible for employment visa sponsorship
+What We Offer
+- A full-time summer 2027 internship that pays $45 to $50 per hour
+- The potential to work up to 20 hours per week during the school year, depending on business demands
+- The potential for a full-time job offer upon graduation, based on Gallup’s business needs and intern performance
+What You’ll Experience
+- Mission-driven work: Make a meaningful difference in the world through work that applies science and technology to important human and organizational
+problems.
+- An empowering culture: Collaborate with smart, passionate people who welcome your ideas, perspectives and technical judgment.
+- Learning and development: Grow your skills through hands-on research, experimentation and exposure to AI systems, extensive data and engineering challenges.
+- Room to challenge assumptions: Work in an environment where curiosity, rigorous thinking and questioning existing approaches are expected.
+- Brand strength, startup energy: Work on emerging technology in a fast-moving environment backed by Gallup’s research, science and global brand.
+- A vibrant workplace: Work from Gallup’s San Francisco office in the heart of the Financial District, steps from the Embarcadero and public transit.
+Our teams produce great work together, inspire each other to deliver exceptional outcomes, grow their potential and celebrate each other along the way. Learn
+more about our work and life at Gallup .
+Gallup is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, national origin, disability,
+protected veteran status, sexual orientation, gender identity, or any other legally protected basis, in accordance with applicable law.
+To review Gallup’s Privacy Statement, please click this link: https://www.gallup.com/privacy . This privacy policy is meant to help you understand what
+information we collect, why we collect it, and how you can update, manage and delete your information. Your application and the information you provide will be
+processed and stored in the United States.
+#LI-Hybrid
+#LI-KR1
+Create a Job Alert
+Interested in building your career at Gallup? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Add another
+LinkedIn Profile
+Country * Select...
+Address Line 1 *
+Address Line 2
+City *
+State * Select...
+If you were referred by a Gallup associate, please provide their name.
+Please indicate which languages you speak in addition to English: Select...
+What led you to apply for this opportunity at Gallup? Select all that apply.
+*
+Career fair
+Gallup presentation or event at my university
+Professor, advisor or career center
+Current Gallup employee
+Gallup alum
+Friend, classmate or family member
+LinkedIn
+Handshake or another university career platform
+Indeed
+Glassdoor
+Gallup Careers website
+Gallup website, article, podcast or other Gallup content
+Gallup social media
+A Gallup recruiter contacted me
+Previous experience with Gallup or CliftonStrengths
+Other
+Have you completed an application for any other opportunities at Gallup within the last 2 years? * Select...
+Have you ever been employed by Gallup before? * Select...
+Please indicate your level of education during the Fall 2026 Semester: * Select...
+What is your projected graduation date? *
+Do you currently attend a college or university within an 80-mile radius of San Francisco, CA? * Select...
+Do you have the availability to work 40 hours per week for 12 weeks during the summer at Gallup’s San Franc

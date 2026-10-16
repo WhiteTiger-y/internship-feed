@@ -1,0 +1,65 @@
+Job Details:
+Job Description:
+The Role and Impact
+Join Intel as a Data Science and Analytics Graduate Intern, where you'll dive into analyzing large datasets to uncover meaningful insights that drive business
+decisions and enhance user experiences across Intel's platforms. In this role, you will contribute to building data models, dashboards, and visualizations while
+collaborating with cross-functional teams to deliver impactful, data-driven solutions. Through hands-on projects, you'll gain valuable knowledge and practical
+skills that will prepare you for future career opportunities in data science and analytics.
+Business group
+Intel Foundry is at the forefront of innovation, delivering cutting-edge solutions that enable Intel's success in the competitive semiconductor industry. Within
+Intel Foundry, the LTD Device PDK and Product team works to optimize products and processes by leveraging advanced technology, analytics, and data-driven
+approaches. This organization plays a key role in supporting Intel's broader mission to shape the future of computing and engineering through collaboration,
+innovation, and teamwork.
+Key Responsibilities
+- Collect, analyze, and interpret large datasets to uncover patterns, trends, and actionable insights.
+- Assist in building predictive models, dashboards, and visualizations that support business objectives and improve user experience.
+- Collaborate with data scientists, analysts, and engineers to contribute to data-driven projects and solutions.
+- Apply statistical techniques and programming skills to support storytelling and decision-making processes.
+- Participate in hands-on learning opportunities, gaining real-world experience relevant to Intel's business goals.
+Qualifications:
+Minimum Qualifications
+- Pursuing a PhD degree in a relevant field, such as data science, computer science, statistics, Electrical Engineering, Physics, Material Science, Computer
+Science or scientific field of study directly related to Semiconductor with 0-1 years of hands-on experience in data analytics or programming, demonstrated
+through internships, academic projects, coursework, or hands-on training.
+- Minimum of 6 months of experience in one or more of the following:
+- Semiconductor materials, fabrication, and device physics
+- Electrical characterization of Semiconductor Devices (transistor, diode, etc.)
+- Familiarity with statistical methods and techniques used for data analysis.
+Preferred Qualifications
+- Advanced Transistor Device Structures and Device Physics.
+- Process monitoring Test structures design and layout experience.
+- Device and circuit simulation.
+- Statistical Process Control (SPC) or Design of Experiments (DOE) principles and engineering analysis tools experience.
+- Expertise in database structures, research methods, analytics packages (i.e., JMP, MATLAB, Octave), scripting languages (i.e., JSL, Perl, TCL), or programming
+languages (i.e., Python, SQL, C/C++).
+- Expertise in agentic AI and orchestrated LLM workflows, machine learning, deep learning, Retrieval-Augmented Generation (RAG), knowledge engineering, and
+dataflow pipeline architectures.
+- Strong communication and collaboration skills to work effectively in a team environment.
+Take this exciting opportunity to kick-start your career in data science and analytics while contributing to Intel's cutting-edge work in technology and
+innovation. Apply today and take the first step toward shaping the future of data-driven solutions.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (United States of America)
+Primary Location:
+US, Oregon, Hillsboro
+Additional Locations:
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+Annual Salary Range for jobs which could be performed in the US: $136,998.00-137,002.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

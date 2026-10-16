@@ -1,0 +1,109 @@
+Job Application for Analytics Internship, Summer 2027 at Perpay - Career's Page
+Analytics Internship, Summer 2027
+Philadelphia, Pennsylvania, United States
+Apply
+About Us:
+Perpay is a certified B Corp and Philadelphia’s most impactful growth-stage startup. We are driven by a mission to significantly improve the financial stability
+of everyday Americans. For the past decade, we have established strong product-market fit and a profitable, efficient operating model across a suite of
+products, positioning Perpay as the premier financial partner for consumers with subprime credit.
+With over 500,000 customers who have utilized more than $1 billion in spending power, we are at a pivotal moment. We are scaling our operations, building new
+offerings, and deepening our impact. We are looking for teammates eager to join us on this journey.
+Our venture partners include First Round Capital and L Catterton.
+Products we’ve built to make an impact:
+- Perpay Marketplace: Combines interest-free payments and modern e-commerce to reduce cost of ownership and promote healthy repayment behavior.
+- Perpay+: Leverages Marketplace repayment history to help members monitor and build credit with all 3 credit bureaus.
+- Perpay Credit Card: Expands access to the flexibility and benefits of a World Mastercard by removing common barriers like high security deposits and low
+approval odds.
+Our team thrives on in-person collaboration, operating from our unique center-city Philadelphia office. This comfortable "home away from home" space offers
+river views and fosters rapid product development, strong relationships, and career growth. The energy from achieving big wins is palpable here. While we
+primarily work in the office, we offer sensible flexibility for personal needs, such as sick children or urgent errands, and coordinate official remote weeks
+around major holidays. If you are passionate about a meaningful mission, collaboration, equity, and generous perks, Perpay is the best place to be in
+Philadelphia right now.
+About the Role:
+As an intern at Perpay, your main responsibility is to learn. We understand the value of mentorship and offer students an opportunity to gain real work
+experience before graduation. In the 10-12 weeks we'll be together next summer (2027), you will have the opportunity to uncover and communicate insights from
+our company data that will inform decision-making on open and pressing business questions.
+Candidates hired for this role will be placed on one of the following teams based on fit and business need, determined after the hiring process:
+- Strategic Analytics
+- Risk
+- Business Planning & Analysis (BP&A)
+In close collaboration with team members on your assigned team, you will apply rigorous research approaches to frame analyses impacting key areas of the
+business, create high-quality analytic code to assemble evidence, and communicate clear and actionable recommendations to leadership based on your research. All
+while developing the skills to succeed in a fast-paced tech start-up environment and experiencing and contributing to our unique culture.
+Our greatest strength is our people, and we'd love for you to be one of them!
+What You’ll Bring:
+- Currently enrolled in or will receive a Bachelor's/Master's in a quantitative discipline with an expected graduation date between December 2027 and June 2028,
+or equivalent relevant experience
+- Knowledge of statistical research methods
+- Experience using SQL for acquiring and transforming data
+- Experience programming for data analysis and visualization (Python preferred)
+- Experience with Business Intelligence tools (Tableau, Domo)
+Bonus:
+- Enrolled in a Master’s Degree or advanced technical degree
+- Previous work experience in a technical field
+Hey, we know not everybody checks all the boxes, so if you’re interested, please apply because you could be just what we’re looking for!
+Our Recruitment Process:
+To give you a clear picture of what to expect, here's an outline of our interview process for this role:
+- Lightweight data challenge — a short exercise using publicly available information
+- Phone call — a conversation with a member of our team.
+- In-depth data challenge — a more robust exercise using internal information, resembling a real analyst assignment.
+- Team interviews — Conversations with Perpay team members covering your background, interest in the role, and scenario-based questions to understand how you
+think. You will also have an opportunity to present your ‘in-depth’ data challenge to the team.
+What We’ll Bring For Internship:
+- Hourly compensation
+- Espresso bar, full kitchen, weekly catered lunches, snacks, beverages, & everyday lunch essentials
+- One-of-a-kind office with comfortable work/lounge spaces and pleasant riverfront setting
+- Opportunity to gain experience at one of the fastest-growing financial startups in the country in both e-commerce & fintech, working cross-functionally.
+What We’ll Bring to Full-time Team Members:
+- Meaningful compensation and equity
+- Premium medical benefits (fully paid base plan, and very reasonable premium for the buy-up option)
+- 5% employer 401k match
+- Unlimited PTO policy
+- Remote weeks around major holidays + extra holiday on weekends like MDW and LDW
+- High quality catered lunch by local chefs, 4 days / week
+- Gym subsidy
+- Paid cell phone + plan
+- Student loan repayment match program
+- Family savings match program
+- Relocation assistance
+- Generous team member discounts
+This is not a remote opportunity; it is 100% onsite (#LI-Onsite) (#LI-TH1) (#LI-AK1)
+Perpay is proud to be an equal opportunity employer. We value diversity in all its forms and are committed to creating an inclusive environment. We do not
+discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, sex (including pregnancy), marital status, political
+affiliation, age, veteran status, disability status or other non-merit factor. Please contact us at careers@perpay.com to request accommodation.
+Apply for this job
+*
+indicates a required field
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+End date month * Select...
+End date year *
+Add another
+How did you hear about us? *
+Did you attend a fall career fair this year? * Select...
+What excites you about this opportunity? *
+What tools do you use to work with data? *
+Tell us about a time you used data to understand your world. What did you learn, how, and why?
+What are you most interested in learning during your internship?
+LinkedIn Profile
+Will you now or in the future require sponsorship for employment visa status? * Select...
+Are you legally authorized to work in the United States on a ful

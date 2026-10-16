@@ -1,0 +1,45 @@
+Job Description Work Arrangement:  Hybrid: This internship is categorized as on-site. The selected intern is expected to report to the office 3 days a week. 
+Location:  Sunnyvale, CA  About the Team The Data Scaling team builds the data, machine learning, and infrastructure foundations that enable Embodied AI models
+to improve with scale. We work across data collection, curation, mining, labeling, dataset quality, model inputs, distributed training, experiment workflows,
+and the systems that help researchers and engineers develop, evaluate, and deploy models more efficiently. Our work supports large-scale autonomous driving
+models and the broader Embodied AI flywheel. We combine machine learning, data engineering, distributed systems, and software engineering to make high-quality,
+product-aligned driving data available for perception, planning, trajectory generation, and other autonomy capabilities. About the Role As an Embodied AI Data
+Scaling Intern, you will work on a well-scoped project that improves the scale, quality, efficiency, or reliability of data and model development for autonomous
+driving. You will collaborate with researchers and engineers to build data pipelines, analyze large datasets, improve training workflows, or develop
+infrastructure that increases the number and quality of experiments the team can run. Potential focus areas include: Data Curation and Quality: Build methods to
+select, filter, balance, and validate large driving datasets aligned with product and modeling needs. Data Mining and Scenario Discovery: Identify valuable,
+rare, or challenging driving situations and develop tools to improve coverage of long-tail scenarios. Dataset and Labeling Pipelines: Improve automated
+labeling, data transformation, feature generation, and dataset release workflows. Distributed Training and Model Scaling: Optimize the systems, input pipelines,
+and compute workflows used to train large models on large datasets. ML Experimentation and Flywheel Infrastructure: Build tools that help teams develop, train,
+evaluate, debug, and deploy models more quickly and reliably. What You’ll Do Develop data pipelines and tooling for large-scale, multimodal autonomous driving
+datasets. Analyze data quality, coverage, distribution, and performance impact using quantitative methods. Prototype and evaluate approaches for data mining,
+curation, labeling, sampling, or scenario discovery. Improve training throughput, data loading, experiment reproducibility, or resource utilization in
+distributed computing environments. Collaborate with machine learning researchers, data engineers, infrastructure engineers, and autonomy teams. Build
+visualizations, metrics, dashboards, and evaluation workflows to communicate data and model behavior. Contribute to production-quality software through design
+reviews, code reviews, automated testing, continuous integration, and documentation. Present technical findings and document experiments, results, and
+recommendations. Required Qualifications Currently enrolled in or pursuing a Master’s or Ph.D. degree in Computer Science, Machine Learning, Data Science,
+Electrical Engineering, or a related technical field. Demonstrated experience through coursework, research, academic projects, or professional work in machine
+learning, data engineering, distributed systems, or a related area. Strong programming skills in Python. Experience working with data processing, databases,
+machine learning pipelines, or large-scale datasets. Strong analytical and problem-solving skills, with the ability to use quantitative analysis to guide
+decisions. Ability to work collaboratively in a cross-functional, team-oriented environment. Strong written, verbal, and presentation skills. Availability to
+work full-time, 40 hours per week, during the internship period. Preferred Qualifications Experience with PyTorch, TensorFlow, JAX, or another machine learning
+framework. Experience with distributed training, parallel computing, high-performance computing, cloud infrastructure, or GPU-based workflows. Familiarity with
+multimodal sensor data, autonomous vehicles, robotics, computer vision, or large-scale time-series data. Experience with SQL, data warehouses, workflow
+orchestration, data quality systems, or distributed data-processing frameworks. Familiarity with foundation models, self-supervised learning, imitation
+learning, reinforcement learning, or deep learning. Experience with C++ or another systems programming language. Must be graduating between December 2027 and
+June 2028 Intent to return to a degree program after completion of the internship. Compensation:  The monthly salary range for this role is $11,800 – $14,600
+per month   GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program.  What You’ll Get from Us
+Paid U.S. GM holidays. GM Family First Vehicle Discount Program. Potential for growth within GM based on performance and business needs. Intern events and
+opportunities to network with company leaders and peers. Mentorship and hands-on experience with the data and ML foundations behind autonomy About GM Our vision
+is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and
+more equitable for all. Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our
+words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team. Benefits Overview From day one, we're
+looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you
+personally by visiting Total Rewards resources. Non-Discrimination and Equal Employment Opportunities (U.S.) General Motors is committed to being a workplace
+that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive
+workplace creates an environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-
+discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual
+orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local
+laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills
+and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-
+employment screening prior to beginning employment. To learn more, visit How we Hire. Accom

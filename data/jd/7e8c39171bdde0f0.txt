@@ -1,0 +1,86 @@
+Job Application for Competitive Intelligence AI Engineering Intern - Summer 2027 at Veeam Software
+Back to jobs
+Competitive Intelligence AI Engineering Intern - Summer 2027
+Remote, Georgia, USA
+Apply
+Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable
+the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of
+identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who
+trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s
+biggest brands.
+About Our Summer Internship Program
+Our Summer Internship Program is designed for students entering their final year of university who are eager to gain meaningful, real-world experience in a fast
+paced, collaborative, and professional environment.
+As a Summer Intern, you'll participate in a comprehensive onboarding experience led by our University Relations team to set you up for success from day one.
+Throughout the program, you'll also have the opportunity to participate in weekly professional development sessions, networking events, social activities, and
+other engaging experienced designed to support your personal and professional growth.
+The program takes place from May – August 2027.
+Your Role
+As AI Engineering Intern for our Competitive Intelligence team, you will help the Competitive Intelligence team members design, develop, test, fine-tune, and
+manage AI chatbots, agents, and apps that help make the team’s processes more automated, scalable, and intelligent.
+These AI tools will help the team:
+- Scale and accelerate market and competitive research
+- Accelerate competitive data analysis
+- Analyze and distribute competitive news with the appropriate stakeholders
+- Predict competitors’ next strategic moves
+- Automate the creation and upkeep of competitive Sales resources
+- Challenge our competitive resources to strengthen them before sharing them with users
+- Deliver contextual competitive insight to Sales teams at the right time and in the right format
+- Further automate the Competitive Intelligence helpdesk responses
+This internship is not observational. As our AI Engineering Intern, you will design, build, and ship working AI-powered tools that will benefit 3,500+ Sales
+Representatives, support global Marketing campaigns, help refine key product roadmap decisions, keep our leadership informed of strategic market motions, and
+more. We will keep using your deliverables after the internship completion. You will also help us fine-tune existing AI tools.
+By the end of your internship, you will have:
+- Delivered at least 1 functioning resource creation agent
+- Delivered 1 functioning resource challenging agent
+- Increased the Sales support AI agent’s response accuracy over 95%
+- Helped implement our Competitive Intelligence helpdesk v2
+- Designed the AI-powered technical comparison table builder v2
+- Delivered 1-2 other functioning projects that we defined together
+- Documented how to maintain the deliverables you delivered
+In this role, you will work with our Competitive Intelligence team members, as well as key Competitive Intelligence stakeholders who use our competitive AI
+tools and competitive resources (Sales Representatives, Product Managers, Product Marketers, …).
+Qualifications
+- Practical experience with Anthropic Claude Chat bots, Cowork projects, Code projects, and Design projects — not just coursework but actual hands-on Claude
+experience
+- Working knowledge of agentic/tool use patterns (function calling, RAG, basic orchestration) — doesn't need to be an expert, but shouldn't be learning what an
+agent is on day one
+- Exposure to evaluating LLM output quality — building a test set, scoring responses, and determining whether a prompt change helped
+- Exposure to version control basics, so work is recoverable and reviewable
+- Python proficiency; comfortable with API integration, data parsing, and basic pipeline construction
+- SQL exposure; able to read and modify a trivial transformation query
+- Ability to work with ambiguous, evolving requirements and iterate quickly on a 10-week clock — this is not a spec-handed-to-you internship
+- Comfortable interviewing subject-matter experts (analysts) to reverse-engineer a workflow before automating it
+- Rising Junior or Senior pursuing a Bachelor’s degree or a graduate student in an accredited college or university in AI engineering, Computer Science, Data
+Science, Information Systems, or related field
+- Excellent written, verbal and communication skills
+- Willingness to learn about technology
+- Proficiency in Windows and Microsoft Office.
+- Ability to work independently with limited direction in a fast-paced environment; must be a high-energy, motivated self-starter
+- Understanding and operating within the team's competitive intelligence ethics policy (code of ethics to be shared during interviews)
+Benefits
+As a paid intern at Veeam, you’ll receive:
+- Paid Company Holidays during your internship
+- Tech Stipend to help set up your workspace
+- 8 Hours of Paid Volunteer Time through our Veeam Cares Program
+- Personal and Professional Development through our Internship Program
+We’re committed to providing a supportive and rewarding internship experience.
+The pay range posted is an hourly rate of base pay. When making an offer of employment, Veeam will take into consideration the candidate’s expectations,
+experience, education, scope of responsibility for the role, and the current market demands.
+United States of America Intern Pay Range
+$20 - $25 USD
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national
+origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept
+confidential.
+Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice , which explains how your information
+is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.
+By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your
+knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins,
+termination of employment.
+Create a Job Alert
+Interested in building your career at Veeam Software? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my ap

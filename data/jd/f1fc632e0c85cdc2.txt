@@ -1,0 +1,30 @@
+NVIDIA Research is seeking leading researchers in the area of simulation and AI for quantum. You should have a strong background of research excellence,
+software systems building experience, and interest in advancing the state-of-the-art in quantum computing and applications of GPUs to the quantum computing
+ecosystem. Specific areas of research interest include but are not limited to bespoke quantum representations, tensor network methods, quantum surrogate
+modeling, quantum inverse design, and automated proving for quantum systems.
+What you’ll be doing:
+- Research and develop creative and innovative algorithms and software systems for the quantum computing ecosystem.
+- Collaborate with research and product teams in the areas of machine learning, programming systems, and quantum computing.
+- Publish and present your original research, speak at conferences and events.
+- Collaborate with external quantum computing researchers.
+- Run large-scale experiments on large clusters of GPUs to advance the state-of-the-art in quantum computing simulation.
+What we need to see:
+- Currently pursuing a Ph.D. in Quantum Physics or related fields
+- 1+ years of relevant research experience in quantum computing with a strong research record, well-referenced publications and/or patents.
+- Strong basis in linear algebra and expertise in math for quantum computing and tensor algebraic methods.
+- Experience with Python and, ideally, CUDA
+- Experience with commonly used machine learning frameworks (PyTorch, Tensorflow, JAX).
+- Strong communication and teamwork skills.
+NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing.
+More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars
+that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our
+teams with the smartest people in the world. Join us at the forefront of technological advancement.
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

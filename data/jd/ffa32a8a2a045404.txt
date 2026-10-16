@@ -1,0 +1,66 @@
+ABOUT CYVL
+The best infrastructure is invisible. You only notice it when it fails. For decades, the people responsible for our roads, bridges and sidewalks have been asked
+to manage the physical world with tools that can't see it.
+Cyvl is the Physical AI company changing that. We build purpose-built sensors, computer vision and AI that turn every drive into current data: what exists,
+where it is and what condition it's in. 500+ cities and towns use our Infrastructure Intelligence Platform to direct the work and fix problems before they fail.
+1 in 30 Americans drive on roads managed with Cyvl data.
+The proof isn't a dashboard. It's a smoother commute, a safer walk to school and public dollars going where they matter most. We're a fast-moving team in Boston
+building hardware, software and AI for the real world. If you believe technology's highest calling is public good, come build with us.
+THE ROLE
+You'll join the Data Operations team, the group that turns raw street-level capture into the map layers 500+ cities rely on. Every day, sensor data from the
+field flows through our processing pipelines and comes out as road conditions, sidewalk inventories, sign catalogs, and pavement scores. You'll own pieces of
+that pipeline: running deliveries end to end, catching data problems before a customer does, and writing the scripts that make the next delivery faster than the
+last.
+WHAT YOU'LL DO
+Process customer deliveries end to end: run geospatial data through our Python pipelines, validate the output, and publish the final layers to the Cyvl
+platform.
+Build QC checks that review data automatically.
+Investigate failed and stalled processing jobs in our AWS pipelines, find the root cause, and document the fix.
+Automate recurring manual steps into repeatable scripts and runbooks, and measure the time saved.
+Partner with engineering and customer success to turn field-reported issues into code fixes or process improvements.
+WHAT YOU BRING
+Currently pursuing a degree in Computer Science, Data Science, or a related field
+Proficiency in Python; comfortable writing scripts that read, transform, and validate data
+Comfort working in a terminal and with version control
+Available full-time for 10-12 weeks in Summer 2027, based in our Somerville office
+NICE TO HAVE
+GIS experience (QGIS or ArcGIS, and formats like GeoJSON, shapefiles, GeoPackage)
+Familiarity with cloud infrastructure, especially AWS
+SQL and experience querying real datasets
+Exposure to geospatial Python libraries (geopandas, shapely)
+Interest in civic infrastructure, transportation, or public-sector technology
+A knack for the business side: you think about how data drives decisions and like problems like "how do we track this better" or "how do we make this visible to
+the team"
+Experience building dashboards or turning data into something a non-technical person can act on
+WHY CYVL
+Hard tech. Real streets. Your name on it.
+Hard problems in the real world. You build end-to-end: our own hardware, software and AI, with work that shows up on the street in the real world.
+Ownership that compounds. You own outcomes, not tasks. You work directly with customers and across our team, and you'll own more, sooner, than almost anywhere
+else.
+Intense, with heart. We're building a category, so it's not a place to coast. We also take care of each other, have genuine fun together, and believe in what we
+are doing.
+WHAT WE ASK
+Cross lanes. "Not my job" doesn't exist here.
+Own without a playbook. The plan is still being written, often by you.
+Try, miss, try again. We make big bets. Some won't land, and we learn fast.
+Be in the room. We're on-site in Somerville about 90% of the time.
+We're a startup building a category. If that sounds like the draw, not the risk, we'd love to talk.
+OUR VALUES
+Real: Authentic and transparent. Focused on solving real problems with simple, effective solutions.
+All Out: Bold, driven, and committed to delivering results that matter.
+Accelerating: Always learning, growing, and moving with intention.
+Reliable: We follow through and deliver at a consistently high bar.
+Empowering: We lift each other up and help governments build infrastructure they can be proud of.
+SEE OUR WORK
+How Atlanta cut downtown potholes by 60%
+How Buffalo turned a campaign promise into a paving plan
+How to rebuild US infrastructure smarter
+WANT TO GO THE EXTRA MILE? (OPTIONAL)
+If you're excited about this role and want to tell us more, email dataopsintern@cyvl.ai with the subject line "Data Ops Intern, [Your Name]" and answer any or
+all of these:
+Why Cyvl, and why a startup? What draws you to this kind of work, and to a small team where your work ships right away?
+What's the coolest thing you've built with AI? A class project, side project, script, or experiment all count. Tell us what it did and what you learned.
+Tell us about a time you solved a problem by fixing the process instead of just working harder. What was slowing you down? What did you change? What happened?
+A few honest paragraphs beat an AI-slop essay. Links to code, notebooks, or demos are welcome.
+We build for every community, so we hire from all of them. The best people for this work come from different backgrounds, paths, and places, and many of them
+don't check every box. If this role excites you, apply anyway. If you need an adjustment to our interview process, tell us and we'll make it work.

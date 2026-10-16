@@ -1,0 +1,63 @@
+Description
+Who are we?
+Western National Insurance Group is a private mutual insurance company with over 120 years of experience serving customers' property-and-casualty insurance
+needs in the Midwestern, Northwestern, and Southwestern United States. Known as “The Relationship Company®,” we define success as a measure of the relationships
+we have built over time. In everything that we do, we know that delivering a friendly and helpful interaction makes for a better experience for everyone
+involved. That is the power of “nice.” At Western National, nice is something we work to bring to every person and organization with whom we partner and serve.
+Western National Insurance is seeking a Data Engineering Intern to join our Data & Integrations team as part of the Summer 2027 Internship Program. Our company
+growth, combined with our focus on innovation, transformation, and investments in the customer experience are key drivers supporting the expansion of our team.
+The Data Engineering Intern will provide support to a variety of projects and initiatives, while playing a key role in our day-to-day operations.
+Does this interest you?
+- Are you looking to jump start your career in the IT field?
+- The individual in this role will have the opportunity to directly assist the Data & Integrations team with a wide range of projects including, researching and
+implementing new approaches for protecting sensitive customer data, and improving customer satisfaction by optimizing data loading and access strategies, so the
+right data is available quickly.
+Western National Internship Program Summary:
+Western National provides a robust internship program designed for individuals aiming to acquire valuable experience in the insurance industry. This program not
+only offers practical, hands-on opportunities and project work in partnership with our Data & Integrations team; but interns will also have the opportunity to
+enhance their existing skill sets through a range of professional development activities, cultivate relationships with employees and fellow interns, and
+participate in impactful volunteer initiatives within the community.
+Position Summary:
+As a Data Engineering Intern in our Internship Program, you will join our Data & Integrations team and gain hands-on experience supporting the systems and
+processes that turn business data into useful information. You will work alongside experienced data engineers and business partners while learning about
+enterprise data warehousing, data integration, software development, and Agile delivery practices.
+Potential responsibilities include:
+- Work with technologies used in our data environment, including SQL Server, SSIS, Snowflake, Python, and other tools that support enterprise data warehousing
+and automation. Our team is also transitioning selected data workloads from SSIS and SQL Server toward Snowflake, providing exposure to both established and
+modern data engineering practices.
+- Develop and test enhancements to data applications, ETL/ELT workflows, and supporting processes based on business requirements.
+- Troubleshoot and debug data integration and Enterprise Data Warehousing (EDW) issues by analyzing data, reviewing code, and working with team members to
+identify solutions.
+- Write clear, maintainable code and contribute to code reviews, unit testing, and other quality practices.
+- Participate in Agile activities such as backlog refinement, work estimation, planning, and team discussions.
+- Help identify opportunities to improve data processes, documentation, automation, and team efficiency.
+- Create and maintain technical documentation to support learning, onboarding, ongoing maintenance, and production releases.
+- Follow data security, privacy, quality, and change-management practices appropriate for an insurance environment.
+- Complete special projects and other duties as assigned.
+Requirements
+What You’ll Need to Succeed:
+- Currently pursuing a degree, certificate, or coursework in Computer Science, Data Engineering, Information Systems, Mathematics, or a related field.
+- A passion for technology and an interest in working with, analyzing, and improving data.
+- Basic experience with SQL and relational databases through coursework, projects, employment, or personal learning.
+- Exposure to Python or another scripting/programming language.
+- Strong problem-solving and analytical skills, with an interest in understanding how systems and processes work.
+- Strong written and verbal communication skills, including the ability to explain technical concepts to both technical and nontechnical audiences.
+- Willingness to ask questions, learn from feedback, and collaborate effectively with others.
+- Ability to pay close attention to detail when working with data, code, and documentation.
+- Familiarity with Agile software development practices, source control tools such as Git or GitLab, or ETL/ELT technologies such as SSIS or Snowflake is
+preferred but not required.
+- Exposure to DevOps concepts, CI/CD processes, testing practices, or tools such as Docker or Jenkins is a plus.
+- Two years of college or equivalent relevant experience is preferred.
+Compensation Overview:
+The base pay offered for this position will be $20.00/hour.
+More About Western National Insurance Group:
+Western National has long been known as “The Relationship Company®” and caring for our employees is part of that relationship commitment. We value
+connectiveness, empowerment, and accountability, and we believe that our employees are our biggest asset.
+Currently ranked as the 41st largest private company by revenue in Minnesota (Minneapolis/St. Paul Business Journal), Western National has earned accolades
+year-over-year as an employer of choice and garnered multiple awards for wellness in the workplace. Western National has also been named a Top Workplace by the
+Star Tribune for consecutive years. In addition, the Group is consistently recognized as a Ward’s 50 property-and-casualty insurance company for its outstanding
+financial results.
+Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.
+Western National provides employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type
+without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity
+or expression, or any other characteristic protected by federal, state, or local laws.

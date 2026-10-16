@@ -1,0 +1,27 @@
+Flex is the diversified manufacturing partner of choice that helps market-leading brands design, build and deliver innovative products that improve the world. A
+career at Flex offers the opportunity to make a difference and invest in your growth in a respectful, inclusive, and collaborative environment. If you are
+excited about a role but don't meet every bullet point, we encourage you to apply and join us to create the extraordinary. Job Summary To support our
+extraordinary teams who build great products and contribute to our growth, we’re looking to add a Manufacturing Data & Analytics Co-Op located in our
+Libertyville, IL site. Reporting to Process & Automation Engineering Team, the student will support manufacturing data analysis, OEE tracking, dashboard
+development, and SPC charting across molding and coiling operations while collaborating with cross-functional teams. What a typical day looks like: Develop
+Power BI dashboards for OEE, downtime, scrap, and cycle time Write SQL queries to extract production data Use Python for data analysis and automation scripts
+Create and maintain SPC charts (X-bar, R, Cpk analysis) Support coiler data collection integration Assist with predictive maintenance analytics initiatives
+Attend team meetings to support project work as needed Student qualities we’re seeking for this Co-Op assignment: Junior/Senior student pursuing Bachelors
+degree in Industrial Engineering, Data Science, Computer Engineering, or Systems Engineering major Proficiency in Python for data analysis and automation Strong
+SQL skills for data extraction Experience with Microsoft Power BI for dashboards Basic knowledge of statistics Understanding of manufacturing KPIs (OEE,
+downtime, scrap, cycle time) Exposure to data collection and predictive maintenance concepts Previous manufacturing internship experience a plus! Co-Op Program
+Requirements: Ability to work 40 hours/week (in person) during the Spring 2027 co-op assignment Currently enrolled in 4-year accredited university 3.0 GPA
+Application Deadline: Applications for this job position will be accepted for at least five days following the job posting start date below and continuing until
+the end date below or until the position is filled. This posting may close sooner due to application volume. Job Posting Start Date 09-18-2026 Job Posting End
+Date 09-25-2026 The base pay range for this position is provided below. The final base rate offered will be determined using job-related, non-discriminatory
+criteria, including but not limited to experience, qualifications, geographic location, education, external market data, and internal equity. Pay Range $20 -
+$34 Hourly Job Category Intern Relocation: Not eligible Is Sponsorship Available? No Flex is an Equal Opportunity Employer and employment selection decisions
+are based on merit, qualifications, and abilities. We do not discriminate based on: age, race, religion, color, sex, national origin, marital status, sexual
+orientation, gender identity, veteran status, disability, pregnancy status, or any other status protected by law. We're happy to provide reasonable
+accommodations to those with a disability for assistance in the application process. Please email accessibility@flex.com and we'll discuss your specific
+situation and next steps (NOTE: this email does not accept or consider resumes or applications. This is only for disability assistance. To be considered for a
+position at Flex, you must complete the application process first). Through the collective strength of ~150,000 team members across 30 countries and
+responsible, sustainable operations, Flex is the diversified manufacturing partner of choice that helps market-leading brands design, build and deliver
+innovative products that improve the world. A career with Flex offers the opportunity to make a difference, invest in your growth, and build great products for
+our customers that improve people’s lives. Together, let’s create the extraordinary! Join our talent community to learn more about job opportunities, company
+news and events.

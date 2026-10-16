@@ -1,0 +1,70 @@
+The Feasibility & Proposals department is looking for qualified full-time interns to support our Informatics team in our Cincinnati office during Summer 2027!
+The informatics team utilizes informatics principles and techniques to architect, mine, analyze, and visualize clinical trial data to inform study design
+choices for pharmaceutical development. This internship will provide intensive informatics experience in query-based programming, data interpretation, and
+visualization creation.
+The Informatics team is a highly collaborative team with members in both the Cincinnati and London offices, which provides interns the opportunity to work
+directly with international employees. The informatics’ internship / co-op program was launched Spring 2021 and has a formal 2-week intensive onboarding process
+followed by a mentored path to independence for students. Daily activities include whiteboarding sessions, group-think meetings with the London team,
+independent data exploration, and programming for custom data queries and structures. Students have weekly meetings with their supervisor, whom they interact
+with daily. They also receive the support of analysts on the team for various projects, as needed. This team emphasizes an open learning environment for
+students and employees to learn from each other and accomplish innovative projects. Students will become proficient-to-advanced in R and introductory-to-
+proficient in SQL during this experience. Students will also have the opportunity to work with software and systems including: PowerBI, Excel, Snowflake, and
+Shiny.
+Responsibilities
+- Customization of programming scripts for data management
+- Creation of innovative visuals and analyses through individual projects
+- Contribution to design and delivery of data visualizations
+- Collation of data for proposal support requests
+Qualifications
+- Junior or Senior pursuing a Bachelor’s or Master's or PhD degree in computer science/engineering, biomedical engineering, health information, statistics,
+bioinformatics, or related field
+- GPA 3.5+
+- Excellent verbal and written communication skills
+- Experience programming with R, or other computer lanaguage
+- Introductory Microsoft Excel skills
+Medpace Overview
+Medpace is a full-service clinical contract research organization (CRO) providing phase l-lV clinical development services to the biotechnology, pharmaceutical,
+and medical device industries. Our mission is to accelerate the global development of safe and effective medical therapeutics through the advancement of
+clinical research. We leverage in-country regulatory and therapeutic expertise across all major therapeutic areas including oncology, cardiology, metabolic,
+endocrinology, central nervous system, and anti-viral and anti-infective. Headquartered in Cincinnati, Ohio, we employ more than 6,500 people across 40+
+countries.
+Why Medpace?
+When you join Medpace, you become part of an innovative team that brings cutting-edge therapies to market while building a meaningful and rewarding career
+focused on scientific excellence and improving patient outcomes around the world through continuous learning and cross-functional collaboration.
+Purpose-Driven Work
+- Work alongside physicians, scientists, and industry-leading experts committed to advancing the global development of medical therapeutics through clinical
+research excellence
+Collaborative Culture
+- Contribute to an interactive team environment that empowers decision making, creative thinking, and continuous learning through open communication and mutual
+trust.
+- Leadership throughout Medpace is both accessible and approachable
+Continuous Growth & Development
+- Office based environment with on-site mentors
+- Defined career paths with clear advancement opportunities
+- Industry renowned onboarding and training programs designed to accelerate professional development
+- Ongoing training and continuous learning opportunities throughout your career
+- An environment that encourages employees to influence change, contribute ideas, and grow quickly
+Other Employee Benefits
+- Competitive compensation programs that recognize and reward performance
+- Comprehensive health, wellness, retirement, and PTO benefits
+- Office based culture with occasional WFH that provides flexibility for eligible positions after training
+- Company-sponsored social events and intramural sports
+Cincinnati Headquarters Experience
+- A modern corporate campus designed to support collaboration and productivity
+- Multiple on-site dining options in the heart of Madison Square
+- Free on-site parking
+- Convenient access to on-site 24-7 fitness and wellness facilities
+What to Expect Next
+A Medpace team member will review your application and if your profile matches our current needs, you will be contacted for an interview. While we review all
+applications carefully, we are unable to respond to every applicant, and only candidates selected for interviews will be contacted.
+- Customization of programming scripts for data management
+- Creation of innovative visuals and analyses through individual projects
+- Contribution to design and delivery of data visualizations
+- Collation of data for proposal support requests
+- Junior or Senior pursuing a Bachelor’s or Master's or PhD degree in computer science/engineering, biomedical engineering, health information, statistics,
+bioinformatics, or related field
+- GPA 3.5+
+- Excellent verbal and written communication skills
+- Experience programming with R, or other computer lanaguage
+- Introductory Microsoft Excel skills
+UNAVAILABLE

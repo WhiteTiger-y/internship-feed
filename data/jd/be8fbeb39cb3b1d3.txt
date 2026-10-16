@@ -1,0 +1,105 @@
+Job Application for Analytics Engineer Intern at Coinbase
+Back to jobs
+Analytics Engineer Intern
+Hybrid - New York, NY
+Apply
+Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the
+environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to
+build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company.
+Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .
+This is a 12-week internship during summer 2027.
+You'll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across
+Coinbase. As an Analytics Engineer Intern, you'll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock
+the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and
+exposure to how data powers decision-making across a publicly traded crypto-native company.
+What you'll do:
+- Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across
+the organization.
+- Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.
+- Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.
+- Leverage generative AI tools to streamline data development, modeling, and documentation workflows.
+- Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.
+Required Skills and Experience:
+- Currently pursuing a degree in computer science, data science, statistics, economics, or a related quantitative field, or equivalent experience
+- Demonstrated proficiency in SQL through coursework, projects, or prior internship experience, with the ability to write complex queries involving joins,
+window functions, and aggregations.
+- Familiarity with at least one programming language (Python preferred)
+- Ability to communicate technical concepts clearly to both technical and non-technical audiences, demonstrated through project presentations, dashboards,
+documentation, or collaborative work.
+- Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency,
+cost, and quality.
+Req ID: P78159
+#LI-Hybrid
+Pay Transparency Notice: Depending on your work location, the target hourly rate for this position can range as detailed below.
+Hourly Rate:
+$50 - $50 USD
+- Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+- Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to
+race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with
+criminal histories will be considered consistent with applicable federal, state, and local laws.
+- US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation.
+- Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at
+accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial .
+- Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you
+agree to Arbitration of Disputes .
+Apply for this job
+*
+indicates a required field
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Employment
+Company name *
+Title *
+Start date month * Select...
+Start date year *
+End date month * Select...
+End date year *
+Current role
+Add another
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+Add another
+Linkedin Profile URL *
+Which best describes your hands-on experience with SQL and Python for data work? * Select...
+I am available to begin a potential full-time role before September 2028. * Select...
+Are you at least 18 years of age? * Select...
+Have you previously been employed by Coinbase in any capacity? * Select...
+How did you hear about this job? * Select...
+Please confirm receipt of the above linked Global Data Privacy Notice and US Arbitration Agreement. * Select...
+I understand that Coinbase may use AI tools to assist in the application and interview process.
+* Select...
+Which of the following best describes how you use AI tools today? * Select...
+Are you legally authorized to work in the country where this position is located? * Select...
+Will you require sponsorship for employment visa status now or in the future? * Select...
+Are you a current government official or were you a government official in the last five years (e.g., employee of a government agency or a government
+owned/controlled company, holder of public office or a civil service position)? * Select...
+Are you a close relative of a government official (i.e., child/step-child, spouse/partner, parent/guardian, aunt/uncle, first cousin, in-law)? * Select...
+To your knowledge, do you or a close relative currently hold a role, have a significant financial interest in, or maintain a close personal relationship with a
+senior leader at a company connected to Coinbase that could create an actual or perceived conflict of interest? * Select...
+To your knowledge, were you referred to this position by a senior leader or decision‑maker at a current or prospective institutional client, business partner,
+or vendor of Coinbase? * Select...
+( Note: Personal use of the Coinbase or Base app as a regular retail customer does not qualify as a client relationship for this question)
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Coinbase’s Equal Employment Opportunity policy,
+we do

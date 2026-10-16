@@ -1,0 +1,58 @@
+What We Do
+Gecko Robotics is helping the world’s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's
+complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers with a unique
+window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations,
+promote mission readiness, and protect the environment and civilization from the effects of infrastructure failure.
+Role at a Glance
+Gecko Robotics is seeking an AI/ML Engineering Intern to join our Engineering team in New York for Summer 2027 . This is a full-time, onsite internship, Monday
+through Friday.
+Gecko collects some of the richest inspection data in the world: ultrasonic and other non-destructive testing (NDT) measurements from wall-climbing robots,
+paired with the documents, drawings, and operational records that describe the assets they inspect. You will work on a defined project that turns that data into
+decisions, building models and the systems around them that run reliably on real customer data. This is an engineering internship, not an analytics one. We
+build the systems that analyze the data, not just the analysis.
+Due to government program requirements, candidates must be authorized to work in the United States.
+What you will do
+Own a scoped machine learning project from problem framing through evaluation and integration, under the guidance of experienced engineers.
+Build data pipelines in Python that clean, label, and structure NDT sensor data, documents, or operational records for model training and inference.
+Train, evaluate, and iterate on models, and design evaluations that reflect how the output will be used in the field.
+Integrate a model or LLM-based workflow into a service or tool that other engineers and Forward Deployment Engineers can use.
+Investigate failure modes on messy, real-world data, document what you find, and recommend what to fix next.
+Use version control, code review, testing, and experiment tracking to produce work others can reproduce and build on.
+Present your project, results, and recommended next steps at the end of the internship.
+Technologies We Use
+Python, PyTorch or similar ML frameworks, NumPy and pandas, SQL, LLM APIs and agent frameworks, Git, Linux, and cloud infrastructure (GCP). Depending on the
+project, you may also work with signal-processing tools for ultrasonic data, document-processing and information-extraction pipelines, or orchestration tools
+such as Airflow. The specific tools will depend on the assigned project.
+About You
+You are an engineer who happens to work in machine learning. You care whether a model works on real data, not just on a benchmark, and you are comfortable
+owning the code around the model: the pipeline, the evaluation, and the integration. You approach new problems methodically, communicate clearly about results
+and uncertainty, and are excited to be the first person to look at a problem.
+Required Skills
+Currently pursuing a bachelor’s, master’s, or doctoral degree in computer science, electrical engineering, applied mathematics, physics, or a related technical
+discipline, with an expected graduation date between December 2027 and May 2028.
+Ability to work onsite in New York, Monday through Friday, for the full Summer 2027 internship.
+Strong programming experience in Python, including writing well-structured, tested code beyond notebooks.
+Coursework or project experience in machine learning, including training and evaluating models on real datasets.
+Working understanding of linear algebra, probability, and statistics.
+Working familiarity with Git or similar version control systems.
+Strong written and verbal communication skills, including the ability to explain results, quantify uncertainty, and collaborate on ambiguous problems.
+Ability to independently close knowledge gaps, stay organized, and learn from feedback.
+Preferred Skills
+Graduate-level coursework or research in machine learning, signal processing, or computer vision.
+Experience taking a model beyond a notebook: building a pipeline, an API, or a tool around it.
+Experience with LLM APIs, retrieval, information extraction, or document understanding.
+Experience with time-series or sensor data, especially ultrasonic, acoustic, or other physical measurements.
+Exposure to cloud infrastructure, preferably GCP, and to containers such as Docker.
+Interest in industrial, defense, or infrastructure applications where reliability matters.
+Who We Are
+At Gecko, our people are our greatest investment. In addition to competitive compensation packages, we offer company equity, 401(k) matching, gender-neutral
+parental leave, full medical, dental, and vision insurance, mental health, ongoing professional development, family planning assistance, and flexible paid time
+off.
+Gecko values collaboration, innovation, and partnership, and we believe we do our best work when we're together in person. We’re an office-first culture but
+understand that sometimes you may need to work from home. Many people are in the office five days a week, others need a bit more flexibility. Ultimately, we
+care about the outcomes we achieve - and creating a culture of autonomy and trust that enables that impact.
+Gecko is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer. We believe it is our collective
+responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission to protect today’s infrastructure and give form to
+tomorrow’s. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion,
+sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteristic per federal,
+state, or local law. If you are passionate about what you do and want to use your talents to support our critical mission, we’d love to hear from you.

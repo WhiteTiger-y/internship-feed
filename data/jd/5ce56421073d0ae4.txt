@@ -1,0 +1,87 @@
+Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer
+Life at ByteDance
+Our Culture Our Philosophy Teams
+Advertising & Sales Corporate Functions Design E-Commerce Global Operations Marketing & Communications Product Technology How We Hire
+Applying to ByteDance Interview Tips Frequently Asked Questions Locations
+Early Careers
+Early Careers at ByteDance Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+EN 日本語
+p:empty]:h-[56px] [&>div:empty]:h-[56px] bd-title"> Join us as we work together to inspire creativity and enrich life around the globe.
+Life at ByteDance
+Early Careers Americas Asia Pacific Europe and Middle East Early Careers FAQ
+Teams Technology Product Design Marketing & Communications Corporate Functions Global Operations Advertising & Sales
+How We Hire FAQ Interview Tips
+Locations
+Blog
+Legal Privacy Policy Cookie Policy
+Other Open Roles Careers @ TikTok Careers in China
+Privacy Policy © 2012-2025 ByteDance
+Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer
+Location :
+Seattle
+Team :
+Technology
+Employment Type :
+Intern
+Job Code :
+A199495
+Apply to this job Share this listing:
+Responsibilities
+The Applied Machine Learning Ark team combines system engineering and machine learning to develop and operate Large Language Model (LLM) service platforms that
+offer businesses Model-as-a-Service (MaaS) solutions, serving both large model providers and downstream users. The US team drives the design, development, and
+operation of MaaS solutions across the US and international markets outside mainland China. We are building full-stack, end-to-end solutions spanning text and
+multimodal LLM algorithms, LLM training/fine-tuning/inference frameworks, prompt engineering, model alignment, and intelligent agent systems. Beyond model
+serving, we operate large-scale log analytics pipelines that process massive volumes of invocation logs from text models, multimodal models, and agent systems —
+extracting usage patterns, quality signals, and actionable insights to inform model improvement, system optimization, and product decisions through continuous,
+data-driven feedback loops. We are actively seeking talented engineers and researchers specializing in Large Language Models and AI Agent systems to join our
+dynamic team.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Design evaluation systems for LLM-based agents, covering task success, tool use, reasoning quality, and reliability.
+- Build benchmarks and automated judging pipelines, combining rule-based checks, model-based judging, and human review, etc.
+- Analyze agent execution traces and user feedback to identify failure patterns and turn them into concrete system improvements.
+- Support the closed loop from experience to capability, and work with research, platform, and product teams to bring methods into production.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related field.
+- Solid foundation in machine learning and deep learning.
+- Hands-on experience with LLM-based systems (e.g., agents, tool calling, retrieval, multi-agent systems) through research, internships, or projects.
+- Strong Python skills and experience with a mainstream ML or agent evaluation framework.
+- Demonstrated research or engineering ability through publications, substantial projects, internships, or open-source work.
+Preferred Qualifications:
+- Publications at top-tier ML/NLP venues (e.g., NeurIPS, ICML, ICLR, ACL etc.), especially in agent learning, self-improving/self-evolving/RSI, or agent
+evaluation.
+- Experience with evaluation methodology: metric design, model-based judging, or annotation and statistical analysis, etc.
+- Familiarity with LLM post-training, reasoning and planning methods, or continual learning.
+- Experience with feedback-driven optimization loops, or with large-scale log and trace analysis.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, ins

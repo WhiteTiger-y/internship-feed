@@ -1,0 +1,26 @@
+We are now looking for an AI Developer Technology Engineer Interns. Intelligent machines powered by AI computers that can learn, reason and interact with people
+are no longer science fiction. Today, a self-driving car can meander through a country road at night and find its way. An AI-powered robot can learn motor
+skills through trial and error. This is truly an extraordinary time — the era of AI has begun. Image recognition and speech recognition — GPU Deep Learning has
+provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human creativity, conjuring
+up the amazing virtual worlds of video games and Hollywood films.
+Now, NVIDIA's GPU runs Deep Learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can
+perceive and understand the world. Just as human creativity and intelligence are linked, computer graphics and artificial intelligence come together in our
+architecture. Two modes of the human brain, two modes of the GPU. This may explain why NVIDIA GPUs are used broadly for Deep Learning, and NVIDIA is
+increasingly known as “the AI computing company.” Come join a team full of world-class computer scientists to work in its Compute Developer Technology team as
+an AI Developer Technology Engineer.
+What you will be doing:
+Work and develop state of the art techniques in LLM/AIGX/GR, and perform in-depth analysis and optimization to ensure the best possible performance on current-
+and next-generation GPU architectures
+You will provide the best AI solutions using GPUs working directly with key customers
+Collaborate closely with the architecture, research, libraries, tools, and system software teams to influence the design of next-generation architectures,
+software platforms, and programming models
+What we need to see:
+Available to work as intern for at least 3 months, 3 days per week
+Pursuing MS or PhD from a leading University in an engineering or Computer Science related discipline and will graduate in 2028
+Strong knowledge of programming techniques, AI algorithms (LLM, AIGX, or GR).
+Experience with parallel programming, ideally CUDA C/C++
+Good communication and organization skills, with a logical approach to problem solving, time management, and task prioritization skills
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning

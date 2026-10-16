@@ -1,0 +1,82 @@
+Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A77599
+Apply to this job Share this listing:
+Responsibilities
+Team Introduction:
+Global E-Commerce (TikTok Shop) is one of TikTok's fastest-growing businesses and a core driver of the company's revenue growth. Our Global E-Commerce Content
+Recommendation team owns the end-to-end recommendation stack for e-commerce video and image-text content on TikTok worldwide — retrieval, ranking, and multi-
+queue blending; supply ecosystem and cold start; and the browsing-to-purchase experience for hundreds of millions of users.
+We believe recommendation is being rewritten in the compute era. ID-based collaborative filtering and supervised learning built today's systems and still run
+most of the industry — but their returns are diminishing, and we are betting the next order of magnitude on rebuilding the stack on LLM foundations. Our
+ambition is to build the most advanced recommendation system in the world, and the next generation after that.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+You will help build — and rewrite — an industrial recommendation system serving a billion-scale user base across short-video, livestream, and product scenarios,
+covering retrieval, pre-ranking, ranking, and blending end to end. Every iteration ships to production and directly moves user experience and GMV.
+- Scale recommendation models like LLMs. Push ranking models from hundreds of millions to billions of parameters and chart the scaling laws of recommendation:
+behavior-corpus pretraining; multi-scenario, multi-task, multi-stage joint training; ultra-long behavior-sequence modeling (10K+ events) with KV caching,
+sequence compression, user/generation (U-G) disaggregated serving, speculative decoding, and dynamic batching — raising MFU while holding a strict millisecond
+latency budget.
+- Build one-stage generative retrieval. Reframe retrieval as generation: tokenize the item space into semantic IDs (RQ-VAE / SID) and train autoregressive
+models, grounded in MLLM semantics, to generate what a user wants next — collapsing the traditional "multi-channel retrieval + ranking" funnel into a single
+generative stage. The open problems span the full stack: item tokenizers that balance semantic content against collaborative signal, and SIDs that stay stable
+while millions of new items arrive daily; post-training the generator directly on live user feedback (preference optimization, GRPO-style RL); and decoding
+under a millisecond budget — beam search, decoding constrained to the valid item space, and test-time scaling that trades inference compute for better
+recommendations. The prize is a system freed from its path dependence on ID memorization, where cold-start generalization comes from semantics rather than
+impression history.
+- Inject world knowledge. Use large models' real-world knowledge to mine latent user interests and semantic representations beyond what pure ID co-occurrence
+can express; use reasoning models to run explicit chain-of-thought inference over long-horizon user intent, making the system materially better at discovery and
+novelty.
+- Push training and inference to the hardware limit. Custom CUDA / Triton fused kernels, memory and computation-graph optimization, distributed training and
+inference acceleration, mixed precision and low-bit quantization — engineered for what makes recommendation hard: sparse embeddings, variable-length sequences,
+and many task heads.
+- Rewrite R&D with agents. We are embedding coding agents deep into the algorithm-development loop: automated feature mining and pipeline generation, experiment
+configuration and training orchestration, automated evaluation and online-diagnosis attribution, bad-case mining and patrol. You will be both a user and a
+builder of this system.
+- Do original work on open problems. Long-term value modeling, repurchase and retention, transaction attribution, fatigue modeling, new-user recommendation,
+incremental value modeling, interest exploration, LLM4Rec — problems where industry has no standard answers. We expect, and support, original research: internal
+papers, patents, and publication at top external venues.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Undergraduate in Software Development, Computer Science, Computer Engineering or a related discipline.
+- Solid ML and engineering fundamentals: you understand the math behind the models, and you write clean, efficient, reproducible code with a strong command of
+algorithms and data structures.
+- Deep research or engineering practice in at least one of: LLMs / foundation models, NLP, CV, RL, or recommendation / search / ads — and you can articulate why
+you made the choices you made, and where they fell short.
+- Genuine enthusiasm for LLM / LRM techniques: you want frontier methods live in production, not parked at offline metrics.
+- Strong problem definition and decomposition: faced with an ambiguous problem that has no standard answer, you find your own foothold.
+Preferred Qualifications:
+- Publications at KDD, SIGIR, RecSys, WWW, ACL, NeurIPS, ICML, ICLR, or comparable venues — or high-quality open-source work.
+- CUDA / Triton kernel development, source-level deep-lear

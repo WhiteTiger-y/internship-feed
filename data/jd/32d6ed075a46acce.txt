@@ -1,0 +1,87 @@
+Machine Learning Engineer Intern (Commercial AI-CRM and Transaction) - 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (Commercial AI-CRM and Transaction) - 2027 Summer
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A205944
+Apply to this job Share this listing:
+Responsibilities
+The Commercial AI-CRM and Transaction team focuses on TikTok advertiser growth algorithms. Leveraging deep learning and large language model technologies, the
+team builds an algorithmic system for advertiser growth, optimizes the operational efficiency of global commercial platforms, and empowers sustainable long-term
+business revenue growth.
+The team is exploring a new paradigm of enterprise intelligence in the era of large models, building next-generation intelligent Agent systems for customer
+growth, sales operations, and business decision-making. The team is committed to the innovative application of LLM, Agent, multimodal intelligence, and machine
+learning technologies in real-world business scenarios, driving the evolution of AI from an “assistant tool” into an intelligent partner capable of
+understanding business, developing strategies, and executing tasks.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Explore Enterprise-level Intelligent Agent Technologies: Research LLM Agent technologies, including complex reasoning, task planning, knowledge augmentation,
+long-term memory, and autonomous decision-making. Build intelligent systems capable of understanding business objectives, completing complex tasks, and
+continuously optimizing.
+- Intelligent Dialogue and AI Call Technologies: Explore next-generation intelligent interaction technologies, including real-time speech, multi-turn dialogue,
+intent understanding, and dialogue strategy generation. Build AI Sales Agents with natural communication capabilities to improve customer engagement and
+conversion efficiency.
+- Intelligent Decision-Making and Risk Management: Combine customer data, business knowledge, and machine learning models to explore customer risk
+identification, credit limit estimation, and intelligent decision-making capabilities. Help businesses achieve a balance between growth and risk management.
+- Intelligent Customer Understanding and Business Insights: Leverage LLM and machine learning technologies to understand customer industries, brands, business
+status, and organizational relationships. Build intelligent customer profiles, identify customer needs and potential business opportunities, and enhance
+customer management capabilities.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Master's degree in Computer Science, Artificial Intelligence, Natural Language Processing, or a related technical discipline.
+- Familiarity with at least one mainstream Agent framework (e.g., LangGraph, OpenClaw, Hermes, Codex, Claude Code, etc.) with hands-on experience.
+- Deep understanding of the core principles of Large Language Models (LLMs) and AI Agents. Familiarity with mainstream Agent architectures (e.g.,
+ReAct/PlanAct), Multi-Agent systems, and concepts such as Context Engineering and Memory.
+- Solid AI/ML background with in-depth knowledge of post-training techniques such as SFT and RLHF.
+- Excellent coding skills with strong fundamentals in data structures and algorithms. Proficiency in C/C++ or Python.
+- Strong teamwork, collaboration, and communication skills.
+Preferred Qualifications:
+- Practical experience in fine-tuning model capabilities for specific tasks is preferred.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovati

@@ -1,0 +1,74 @@
+WHAT MAKES US EPIC?
+At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s
+building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.
+Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine
+and game development.
+ENGINEERING - EPIC RESEARCH
+What We Do
+Epic Research conducts state-of-the-art research in machine learning, AI, character animation, and digital humans. We work with leading universities and product
+teams to bring new research into games like Fortnite, Unreal Engine, MetaHuman, and the tools creators use every day.
+MACHINE LEARNING RESEARCH INTERNSHIP AT EPIC GAMES
+What You'll Do
+Epic Games is looking for current PhD students and recent PhD graduates (within 12 months of graduation) for paid research internships, working on state-of-the-
+art machine learning across our ecosystem. Epic makes Unreal Engine, which powers creative work across many industries, alongside some of the world's most
+popular games, including Fortnite and Rocket League. Through these products, ML research at Epic reaches millions of creators and players every day. AI is
+reshaping the games industry, and Epic Research - led by Lucia Specia and Michael Black - is at the center of that shift. We're looking for talented interns who
+want to be part of it.
+In this role, you will
+Work with our team of research scientists and engineers at the intersection of vision, language, speech processing, embodied agents, and game development to
+create state-of-the-art machine learning models in a range of areas - research topics of interest include:
+- AI-backed interactive characters: LLMs for conversational characters, memory systems, automated evals, animation, etc.
+- Game agents: vision-language-action, game-state agents, etc.
+- 3D human and object tracking
+- Reinforcement learning for embodied behavior
+- Speech systems and conversational agents
+- World building and game logic generation : video models, 2D->3D scene building, etc.
+- AI-assisted game development , e.g. the next generation of Epic Developer Assistant for UE and UEFN
+- Embodied and physical intelligence including human-object interaction
+- Multi-modal diffusion models
+- Player safety : AI-alignment, content moderation, etc.
+- Improved user experience : personalised game recommendation, game representation, spam detection, etc.
+- Content localization : (multimodal) translation, quality assurance, etc.
+- Model distillation for realtime performance
+What we're looking for
+- An ongoing or recently completed (within the last 12 months) PhD in Computer Science, Mathematics, AI or a related field
+- A record of publication in top conferences/journals
+- Experience implementing deep learning algorithms for problems in computer vision, natural language processing, or speech/audio processing
+- Hands-on knowledge of state-of-the-art ML methods, such as Transformers, diffusion models, and reinforcement learning
+- Experience with post-training foundation models, including SFT, preference training, and reinforcement learning
+- Excellent AI coding and experimental engineering skills
+- Desirable: game development experience in either C++ or C#
+Internship Details
+- Duration: 5-12 months initially (depending on your location), with flexible start-dates throughout 2026/2027
+- Hours: full-time (40 hours/week) or part-time (20 hours/week)
+- Location: Select regions within the UK, US or Canada
+- Employment Authorization : You must hold an existing right to work in the UK, US or Canada for the full duration of the internship - Visa sponsorship or
+support is unavailable for this role
+- Publishing : Research by Epic interns is regularly published in top-tier conferences
+This role is open to multiple locations across North America and Europe (including CA, NYC, & WA).
+This internship has a flexible start date in 2026/2027. Recruitment will be ongoing until teams find an ideal match. Applicants must be legally authorized to
+work in the posting location for the duration of the internship. For more information about Epic’s Early Career Program, visit epicgames.com/earlycareers . This
+is going to be Epic!
+Pay Transparency Information
+The expected annual base pay range(s) for this position are detailed below. Each base pay range is relevant only for individuals who are residents of or will be
+expected to work within the specified locale. Compensation varies based on a variety of factors, which include (but aren’t limited to) things such as skills and
+competencies, qualifications, knowledge, and experience. In addition to base pay, most employees are eligible to participate in Epic’s generous benefit plans
+and discretionary incentive programs (subject to the terms of those plans or programs).
+New York City Base Pay Range
+$139,029 — $166,834 USD
+California Base Pay Range
+$122,345 — $146,814 USD
+Washington Base Pay Range
+$111,223 — $133,468 USD
+ABOUT US
+Epic Games is a leading interactive entertainment company. For over 30 years we've been making award-winning games and engine technology that empowers others to
+make visually stunning games and 3D content that bring environments to life like never before. Epic's award-winning Unreal Engine technology not only provides
+game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content
+creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and
+develop remarkable games, we strive to build teams of world-class talent.
+Like what you hear? Come be a part of something Epic!
+Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal
+Employment Opportunity (EEO) Policy here .
+Note to Recruitment Agencies: Epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement
+agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). We will not pay any fees to any unauthorized third party.
+Further details on these matters can be found here .

@@ -1,0 +1,39 @@
+Job Details: Job Description: The Role and Impact Intel is seeking a highly motivated Software Research Intern (PhD) to join the TCAD Software Development team
+within Intel Foundry. This internship offers an opportunity to work on advanced computational software solutions supporting semiconductor technology
+development. The selected candidate will contribute to cutting-edge software applications involving computational geometry, scientific computing, visualization,
+CAD technologies, and high-performance computing. The internship is designed for PhD students interested in applying software engineering and research expertise
+to solve complex engineering challenges while collaborating with multidisciplinary teams across Intel. Business Group The Intel Foundry Technology Development
+(TD) organization is focused on driving semiconductor process innovation and enabling future technology nodes. Within the LTD-TD TCAD team, engineers and
+researchers develop advanced simulation, modeling, and software solutions used to accelerate technology development. The team fosters a collaborative
+environment where software, mathematics, physics, and engineering intersect to solve challenging technical problems. Key Responsibilities Design, develop, and
+optimize software solutions for engineering and research applications. Participate in architecture design, feature development, prototyping, testing, and
+performance optimization. Develop and enhance computational geometry algorithms and scientific software tools. Create and improve 2D and 3D visualization
+capabilities using modern graphics technologies. Develop numerical methods and simulation capabilities using finite element, level set, or related techniques.
+Collaborate with software engineers, researchers, and domain experts to deliver scalable and maintainable solutions. Perform software development, debugging,
+and performance analysis in Linux environments. Document technical solutions and present findings to project stakeholders. Qualifications: Minimum
+Qualifications Candidates must be currently pursuing a PhD in one of the following or related disciplines with a strong software focus: Electrical Engineering,
+Computer Science, Computer Engineering, Mechanical Engineering, Chemical Engineering, Physics, Applied Mathematics or other closely related technical fields
+Minimum 3 months of educational, research, laboratory, internship, or industry experience. Strong academic performance with a cumulative GPA of 3.0 or higher
+preferred. 3+ months of academic or professional experience in one or more of the following: - Python and/or C++ programming - Computational Geometry -
+Scientific Visualization - CAD Tool Development - Optimization Algorithms Strong analytical, problem-solving, and software development skills. Preferred
+Qualifications Experience in at least two of the following areas: Computational geometry algorithm design, analysis, and implementation (2D and 3D). Computer
+graphics and scientific visualization using OpenGL and/or ray tracing technologies. Contribute to CAD and geometry processing workflows involving solid modeling
+and voxel-based representations. Implement and optimize mesh generation algorithms for engineering simulations. 2D and 3D mesh generation algorithms, including:
+- Delaunay triangulation - Quad meshing - Hex meshing CAD geometry representation, solid modeling, and voxel processing. Numerical analysis techniques
+including: - Finite Element Methods (FEM) - Level Set Methods - Related computational modeling approaches Parallel programming and high-performance computing.
+Experience developing scalable scientific or engineering software applications. User Interface (UI) and User Experience (UX) development for scientific or
+engineering software. Experience with Qt framework for desktop application development. Image processing and visualization techniques for scientific and
+engineering applications. Job Type: Student / Intern Shift: Shift 1 (United States of America) Primary Location: US, Oregon, Hillsboro Additional Locations:
+Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national
+origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender,
+gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. Position of Trust N/A
+Benefits We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs
+which include health, retirement, and vacation. Find out more about the benefits of working at Intel. Annual Salary Range for jobs which could be performed in
+the US: $149,598.00-149,602.00 USD The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US
+locations. Our standard internship rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation
+range for your preferred location and job role during the hiring process. Work Model for this Role This role will require an on-site presence. * Job posting
+details (such as work model, location or time type) are subject to change. * ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA)
+compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees,
+medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this
+immediately to your recruiter. Intel’s official careers website. Find your next job and take on projects that shape tomorrow’s technology. Benefits Internships
+Life at Intel Locations Recruitment Process

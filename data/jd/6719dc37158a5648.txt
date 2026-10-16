@@ -1,0 +1,46 @@
+The NVIDIA Architecture Research Group is seeking an intern to help define the future of GPU and data-center computing. Our research spans GPU
+microarchitecture, memory systems and memory models, large-scale data-center hardware, emerging accelerators, and the architecture implications of new workloads
+in AI, scientific computing, robotics, and other rapidly evolving domains. Are you excited about exploring foundational research questions, developing new
+architectural ideas, and helping translate those ideas into future NVIDIA systems?
+In this position, you will apply your knowledge of computer architecture, parallel computing, compilers, runtime systems, and workloads to explore new hardware
+and hardware–software co-design opportunities. You will work with researchers and product architects to formulate research questions, develop and evaluate
+architecture concepts, and build the models, simulators, prototypes, and experimental infrastructure needed to test them. Projects may range from mechanisms
+within a GPU to memory consistency and programmability, rack- and data-center-scale architectures, and specialized hardware for emerging applications.
+You should have a strong foundation in computer architecture and parallel systems, an ability to work across hardware and software boundaries, and experience
+with some combination of architecture modeling, simulation, workload analysis, compilers, runtime systems, or CPU/GPU programming. You should also be
+comfortable building robust research prototypes and communicating the insights produced by your work. NVIDIA pioneered programmable GPUs and CUDA and continues
+to shape the future of accelerated computing. This position offers an opportunity to conduct ambitious research and have a direct impact on future products.
+What you’ll be doing:
+Investigate new architecture concepts for future GPUs, memory systems, accelerators, and data-center-scale computing platforms.
+Study emerging workloads and identify the architectural bottlenecks and opportunities they create.
+Explore hardware–software co-design across architecture, compilers, runtime systems, programming models, and applications.
+Develop models, simulators, prototypes, and experimental tools to evaluate new architecture ideas.
+Research new approaches to memory hierarchy, coherence, consistency, data movement, and system-level programmability.
+Collaborate with NVIDIA researchers, GPU architects, software teams, and product groups to develop and evaluate promising concepts.
+Clearly communicate research findings through presentations, technical reports, and potentially research publications.
+Help transfer successful research ideas, methodologies, and tools into NVIDIA product teams.
+What we need to see:
+Pursuing PhD Degree in relevant discipline(s) (CS, CE, EE, Physics, Math).
+Relevant industrial and University experience. Relevant industries include hardware, software, and algorithm development in PC or workstation graphics, digital
+video or image processing, video game or console, cell phones or consumer electronics, rendering software, and computing.
+Strong programming ability in C/C++, and scripting languages.
+Experience as a CUDA programmer.
+Background with building computer system simulators.
+Experience building efficient low-level software tools such as runtime systems, binary translators, or compilers.
+Strong background in computer architecture and parallel computer architectures.
+Ways to stand out from the crowd:
+Prior research experience and/or research publications at ISCA/MICRO/ASPLOS/HPCA/MLSYS
+Versatile in using generative AI coding tools
+Versatile in using GPU profiling tools and running DL models on GPUs
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. Are you creative and independently driven? Do you love a challenge? Come join our Architecture Research Group and help us invent the
+future of Computing.
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

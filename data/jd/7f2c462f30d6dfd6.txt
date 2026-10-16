@@ -1,0 +1,50 @@
+Jobs onsemi
+:root{--bs-blue: #0d6efd;--bs-indigo: #6610f2;--bs-purple: #6f42c1;--bs-pink: #d63384;--bs-red: #dc3545;--bs-orange: #fd7e14;--bs-yellow: #ffc107;--bs-green:
+#198754;--bs-teal: #20c997;--bs-cyan: #0dcaf0;--bs-black: #000;--bs-white: #fff;--bs-gray: #646669;--bs-gray-dark: #343a40;--bs-gray-100: #f8f9fa;--bs-gray-200:
+#e9ecef;--bs-gray-300: #dee2e6;--bs-gray-400: #ced4da;--bs-gray-500: #adb5bd;--bs-gray-600: #646669;--bs-gray-700: #495057;--bs-gray-800: #343a40;--bs-gray-900:
+#212529;--bs-primary: #1d3546;--bs-secondary: #f0690a;--bs-accent-1: #546278;--bs-accent-2: #dbe7f0;--bs-success: #02714F;--bs-info: #0076AB;--bs-warning:
+#FFC63F;--bs-danger: #BD4A2E;--bs-light: #FCFCFD;--bs-dark: #212529;--bs-primary-rgb: 29, 53, 70;--bs-secondary-rgb: 240, 105, 10;--bs-accent-1-rgb: 84, 98,
+120;--bs-accent-2-rgb: 219, 231, 240;--bs-success-rgb: 2, 113, 79;--bs-info-rgb: 0, 118, 171;--bs-warning-rgb: 255, 198, 63;--bs-danger-rgb: 189, 74, 46;--bs-
+light-rgb: 252, 252, 253;--bs-dark-rgb: 33, 37, 41;--bs-white-rgb: 255, 255, 255;--bs-black-rgb: 0, 0, 0;--bs-body-color-rgb: 33, 37, 41;--bs-body-bg-rgb: 255,
+255, 255;--bs-font-sans-serif: "Open Sans", Verdana, Arial, Helvetica, sans-serif;--bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation
+Mono", "Courier New", monospace;--bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family: Inter;--bs-
+body-font-size:1rem;--bs-body-font-weight: 400;--bs-body-line-height: 1.5;--bs-body-color: #212529;--bs-body-bg: #fff;--bs-border-width: 1px;--bs-border-style:
+solid;--bs-border-color: #dbe7f0;--bs-border-color-translucent: rgba(0, 0, 0, 0.175);--bs-border-radius: 0.3rem;--bs-border-radius-sm: 0.2rem;--bs-border-
+radius-lg: 0.4rem;--bs-border-radius-xl: 0.5rem;--bs-border-radius-2xl: 2rem;--bs-border-radius-pill: 50rem;--bs-link-color: #437CA3;--bs-link-hover-color:
+rgb(53.6, 99.2, 130.4);--bs-code-color: #d63384;--bs-highlight-bg: rgb(255, 242.6, 205.4)}/*!
+* Bootstrap Icons v1.11.3 (https://icons.getbootstrap.com/)
+* Copyright 2019-2024 The Bootstrap Authors
+* Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE)
+*/@font-face{font-display:block;font-family:"bootstrap-icons";src:url(https://www.onsemi.com/css/fonts/bootstrap-icons.woff2)
+format("woff2"),url(https://www.onsemi.com/css/fonts/bootstrap-icons.woff) format("woff")}.bi::before,[class^=bi-]::before,[class*="
+bi-"]::before{display:inline-block;font-family:"bootstrap-icons" !important;font-style:normal;font-weight:normal !important;font-variant:normal;text-
+transform:none;line-height:1;vertical-align:-0.125em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.bi-123::before{content:""}.bi-alarm-
+fill::before{content:""}.bi-alarm::before{content:""}.bi-align-bottom::before{content:""}.bi-align-center::before{content:""}.bi-align-
+end::before{content:""}.bi-align-middle::before{content:""}.bi-align-start::before{content:""}.bi-align-top::before{content:""}.bi-
+alt::before{content:""}.bi-app-indicator::before{content:""}.bi-app::before{content:""}.bi-archive-fill::before{content:""}.bi-
+archive::before{content:""}.bi-arrow-90deg-down::before{content:""}.bi-arrow-90deg-left::before{content:""}.bi-arrow-90deg-right::before{content:""}.bi-
+arrow-90deg-up::before{content:""}.bi-arrow-bar-down::before{content:""}.bi-arrow-bar-left::before{content:""}.bi-arrow-bar-right::before{content:""}.bi-
+arrow-bar-up::before{content:""}.bi-arrow-clockwise::before{content:""}.bi-arrow-counterclockwise::before{content:""}.bi-arrow-down-circle-
+fill::before{content:""}.bi-arrow-down-circle::before{content:""}.bi-arrow-down-left-circle-fill::before{content:""}.bi-arrow-down-left-
+circle::before{content:""}.bi-arrow-down-left-square-fill::before{content:""}.bi-arrow-down-left-square::before{content:""}.bi-arrow-down-
+left::before{content:""}.bi-arrow-down-right-circle-fill::before{content:""}.bi-arrow-down-right-circle::before{content:""}.bi-arrow-down-right-square-
+fill::before{content:""}.bi-arrow-down-right-square::before{content:""}.bi-arrow-down-right::before{content:""}.bi-arrow-down-short::before{content:""}.bi-
+arrow-down-square-fill::before{content:""}.bi-arrow-down-square::before{content:""}.bi-arrow-down-up::before{content:""}.bi-arrow-
+down::before{content:""}.bi-arrow-left-circle-fill::before{content:""}.bi-arrow-left-circle::before{content:""}.bi-arrow-left-right::before{content:""}.bi-
+arrow-left-short::before{content:""}.bi-arrow-left-square-fill::before{content:""}.bi-arrow-left-square::before{content:""}.bi-arrow-
+left::before{content:""}.bi-arrow-repeat::before{content:""}.bi-arrow-return-left::before{content:""}.bi-arrow-return-right::before{content:""}.bi-arrow-
+right-circle-fill::before{content:""}.bi-arrow-right-circle::before{content:""}.bi-arrow-right-short::before{content:""}.bi-arrow-right-square-
+fill::before{content:""}.bi-arrow-right-square::before{content:""}.bi-arrow-right::before{content:""}.bi-arrow-up-circle-fill::before{content:""}.bi-arrow-
+up-circle::before{content:""}.bi-arrow-up-left-circle-fill::before{content:""}.bi-arrow-up-left-circle::before{content:""}.bi-arrow-up-left-square-
+fill::before{content:""}.bi-arrow-up-left-square::before{content:""}.bi-arrow-up-left::before{content:""}.bi-arrow-up-right-circle-
+fill::before{content:""}.bi-arrow-up-right-circle::before{content:""}.bi-arrow-up-right-square-fill::before{content:""}.bi-arrow-up-right-
+square::before{content:""}.bi-arrow-up-right::before{content:""}.bi-arrow-up-short::before{content:""}.bi-arrow-up-square-fill::before{content:""}.bi-arrow-
+up-square::before{content:""}.bi-arrow-up::before{content:""}.bi-arrows-angle-contract::before{content:""}.bi-arrows-angle-expand::before{content:""}.bi-
+arrows-collapse::before{content:""}.bi-arrows-expand::before{content:""}.bi-arrows-fullscreen::before{content:""}.bi-arrows-move::before{content:""}.bi-
+aspect-ratio-fill::before{content:""}.bi-aspect-ratio::before{content:""}.bi-asterisk::before{content:""}.bi-at::before{content:""}.bi-award-
+fill::before{content:""}.bi-award::before{content:""}.bi-back::before{content:""}.bi-backspace-fill::before{content:""}.bi-backspace-reverse-
+fill::before{content:""}.bi-backspace-reverse::before{content:""}.bi-backspace::before{content:""}.bi-badge-3d-fill::before{content:""}.bi-
+badge-3d::before{content:""}.bi-badge-4k-fill::before{content:""}.bi-badge-4k::before{content:""}.bi-badge-8k-fill::before{content:""}.bi-
+badge-8k::before{content:""}.bi-badge-ad-fill::before{content:""}.bi-badge-ad::before{content:""}.bi-badge-ar-fill::before{content:""}.bi-badge-
+ar::before{content:""}.bi-badge-cc-fill::before{content:""}.bi-badge-cc::before{content:""}.bi-badge-hd-fill::before{content:""}.bi-badge-
+hd::before{content:""}.bi-badge-tm-fill::before{content:""}.bi-badge-tm::before{content:""}.bi-badge-vo-fill::before{

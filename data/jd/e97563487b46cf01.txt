@@ -1,0 +1,45 @@
+About Marvell Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud
+and AI, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the arc of individual lives, lift the
+trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation,
+above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Your Team, Your Impact The Engineering Applications team in Marvell IT builds
+and runs the platforms Marvell's engineers use every day — DevOps and CI/CD infrastructure, custom engineering applications, and the AI layer that ties them
+together. We build and operate Marvell's governed AI platform, which answers questions and takes action across multiple engineering systems, and an agentic SDLC
+platform that carries a feature from requirements through to deployment with humans approving every decision. Day to day we design, build, deploy and support
+these services on AWS with modern CI/CD, and we partner directly with engineering teams to replace manual, multi-tool handoffs with automated, governed
+workflows. As an intern on this team you will ship production software that engineers across Marvell use — applying agentic AI to the real software development
+lifecycle, not a sandbox. What You Can Expect Build and ship one feature end-to-end on our agentic AI platform for the software development lifecycle, from
+design through production deployment. Develop integrations and MCP-based tooling that connect AI agents to real engineering systems such as Jira, GitHub,
+Jenkins, Confluence and AWS. Automate build, test and deployment workflows using CI/CD pipelines (GitHub Actions, Jenkins) and containerized deployments on
+Kubernetes/EKS. Write and review code alongside senior engineers using AI-assisted development tools including Cursor and Claude Code, held to the team's normal
+quality and review standards. Instrument and measure the impact of what you build — adoption, performance and engineering time saved — and present the results
+back to the team. Collaborate with engineers, program managers and IT partners to scope the project, gather requirements and pilot the feature with real users.
+What We're Looking For Currently pursuing a Bachelor's or Master's Degree in Computer Science, Computer Engineering, Software Engineering or a related field
+with an expected graduation date between Fall 2027 – Summer 2028 Proficiency in at least one modern programming language such as Python, C#, Java or
+TypeScript/JavaScript, with the ability to write and debug production-quality code. Working knowledge of Linux and Git-based version control, including
+branching, pull requests and code review workflows. Familiarity with CI/CD concepts and tools (GitHub Actions, Jenkins or similar) and with containerization
+using Docker or Kubernetes. Hands-on exposure to LLM or agentic AI development — prompt design, model APIs/SDKs, retrieval-augmented generation, or AI-assisted
+coding tools such as Cursor, Claude Code or Copilot. Demonstrated ability to take an ambiguous problem to a working result independently, communicate progress
+clearly and present technical outcomes to an audience. Preferred: Experience building REST APIs or system integrations against tools such as Jira, GitHub,
+Jenkins, Confluence or ServiceNow. Preferred: Exposure to cloud platforms (AWS, Azure or GCP) and to deployment tooling such as Helm, Argo CD or Terraform.
+Preferred: Familiarity with Model Context Protocol (MCP), agent orchestration frameworks such as LangGraph, or multi-agent workflow design. Preferred:
+Experience with relational databases (SQL Server, MySQL or PostgreSQL) and with front-end frameworks such as React. Expected Base Pay Range (USD) 27 - 54, $ per
+hour. The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market
+conditions. The expected base pay range for this role may be modified based on market conditions. Additional Compensation and Benefit Elements Marvell is
+committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most
+important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition.
+Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and
+paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process. All
+qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+identity, disability or protected veteran status. Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR
+Helpdesk at TAOps@marvell.com. Interview Integrity To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as
+transcription apps, real-time answer generators like ChatGPT or Copilot, or automated note-taking bots) during interviews. These tools must not be used to
+record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication
+skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process. This position may
+require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As
+such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing
+approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected
+individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment. #LI-TT1 Join our talent
+community to hear about company news, job openings and events. Join our Talent Community! Marvell’s semiconductor solutions are the essential building blocks of
+the data infrastructure that connects our world. Across enterprise, cloud and AI, automotive, and carrier architectures, our innovative technology is enabling
+new possibilities. At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of
+tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond flee

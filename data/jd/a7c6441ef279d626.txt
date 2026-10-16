@@ -1,0 +1,11 @@
+Welcome to the application portal for the Perplexity Research Fellowship!
+The Perplexity Research Fellowship is our flagship program for enabling the best early-career STEM talent to shape the future of frontier intelligence.
+- Please refer to the program homepage https://www.perplexity.ai/hub/research/fellowship for full details on the Perplexity Research Fellowship and application
+process.
+- When you're ready to apply, please complete and submit the application form. Make sure to carefully follow all instructions.
+- We'll evaluate applications on a rolling basis, with priority consideration for submissions received by September 30, 2026.
+- You should write your application without assistance from other humans or AI models. Submitting writing from other humans or AI models as your own will result
+in permanent disqualification from employment at Perplexity.
+- Please note that the Perplexity Research Fellowship is not an internship program for students seeking research experience between school terms. If you're
+currently a student and your requested Fellowship start date is before your graduation date, we will request verified proof of an approved leave of absence of 1
+year or greater from your university as a precondition to any Fellowship offer.

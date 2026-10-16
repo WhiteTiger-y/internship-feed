@@ -1,0 +1,47 @@
+WHAT MAKES US EPIC?
+At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s
+building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.
+Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine
+and game development.
+ECOSEC
+What We Do
+Our ECOSEC team provides a safer experience for Epic's users. We work across multiple products and services to improve technology and craft transparent policies
+so our players and users can have positive experiences on our platforms.
+DATA SCIENCE INTERN
+What You'll Do
+We are looking for a Data Science Intern to join the Ecosystem Security team supporting initiatives related to fraud and abuse detection. As part of the EcoSec
+team, you will be given a detection problem to own as part of our development cycle. You will work with your data science mentor and the operations analysts who
+investigate these cases to explore the data, build a model, and measure its impact on how we protect players.
+In this role, you will
+- Explore large transaction, account, gameplay, and behavioral datasets to characterize how a specific form of abuse actually works
+- Build and evaluate statistical or machine learning models that detect abusive activity at scale
+- Partner with operations analysts to translate their investigation heuristics into model features, and measure your results against real outcomes like
+confirmed cases and false positive rates
+- Build dashboards or monitoring so the team can track your signal without an analyst in the loop
+- Document your data sources, methodology, and findings so the work can be extended after your internship, and present your results to the team
+What we're looking for
+- Experience with Python for data analysis, pandas and scikit-learn preferred
+- Ability to write SQL against large datasets to pull and shape your own data
+- A grounding in statistics and machine learning fundamentals, including classification and evaluation metrics beyond accuracy
+- A desire to develop strong data science and software development skills
+- Genuine curiosity about adversarial problems, specifically how and why people find ways to game a system
+- Good interpersonal and communication skills, with demonstrated ability to communicate technical findings within a team
+- The ability to react and respond effectively to constructive feedback
+- A flexible approach to rapidly evolving problems, and comfort working with messy or sparsely labeled data
+- Nice to have: exposure to any of anomaly detection, graph or network analysis, text classification and NLP, or sequence and time-series modeling
+- Nice to have: interest in games, live services, or online trust and safety
+This internship has a flexible start date in 2027. Recruitment will be ongoing until teams find an ideal match. Applicants must be legally authorized to work in
+the posting location for the duration of the internship. For more information about Epic’s Early Career Program, visit epicgames.com/earlycareers . This is
+going to be Epic!
+ABOUT US
+Epic Games is a leading interactive entertainment company. For over 30 years we've been making award-winning games and engine technology that empowers others to
+make visually stunning games and 3D content that bring environments to life like never before. Epic's award-winning Unreal Engine technology not only provides
+game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content
+creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and
+develop remarkable games, we strive to build teams of world-class talent.
+Like what you hear? Come be a part of something Epic!
+Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal
+Employment Opportunity (EEO) Policy here .
+Note to Recruitment Agencies: Epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement
+agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). We will not pay any fees to any unauthorized third party.
+Further details on these matters can be found here .

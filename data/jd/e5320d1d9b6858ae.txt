@@ -1,0 +1,45 @@
+Current Master's, AI Engineering Internship Program - Summer 2027 Key Role Details This is a full-time paid internship program spanning twelve weeks from June
+through August. Participation in the internship requires that you are located in the continental United States with in-person attendance at your assigned
+location, in accordance with Capital One’s hybrid working model, for the duration of the program. Interns will be evaluated for a full-time position with their
+team and will work with their manager on identifying a start date upon graduation. This is a paid internship. This is a limited-time internship position, and
+Capital One will not sponsor a new applicant for employment authorization for this position. However, a full-time AI Engineering role, for which you may be
+considered upon completion of the internship (subject to business need, market conditions, and other factors) is eligible for employer immigration sponsorship.
+Basic Qualifications Currently pursuing a Master’s degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or a related field, with an
+expectation that the required degree will be obtained by August 2028 or earlier. Must be continuing in the same course of study of the most recent degree
+following completion of the internship period. At least 6 months of experience or academic work developing AI and ML algorithms or technologies. At least 6
+months of experience or academic work programming with Python, Go, Scala, or Java. Preferred Qualifications Experience or academic work with deploying AI/ML
+systems on cloud platforms (e.g., AWS, Google Cloud, Azure). Experience or academic work in developing and applying state-of-the-art techniques for optimizing
+AI/ML training or inference pipelines, including distributed GPU computational frameworks. Experience or academic work with AI/ML domains and systems (e.g., LLM
+Inference, Search and Retrieval, NLP, Computer Vision, Guardrails, Memory). Familiarity with Agentic Frameworks (Eg: LangChain, LangGraph, LlamaIndex, Autogen,
+MCP/A2A, frontier-labs agent SDKs). AI Engineering Internship At Capital One, we are creating responsible and reliable AI systems, changing banking for good.
+For years, Capital One has been an industry leader in using machine learning to create real-time, personalized customer experiences. Our investments in
+technology infrastructure and world-class talent — along with our deep experience in machine learning — position us to be at the forefront of enterprises
+leveraging AI. From informing customers about unusual charges to answering their questions in real time, our applications of AI & ML are bringing deep
+personalization and simplicity to banking. We are committed to continuing to build world-class applied science and engineering teams to deliver our industry
+leading capabilities with breakthrough product experiences and scalable, high-performance AI infrastructure. At Capital One, you will help bring the
+transformative power of emerging AI capabilities to reimagine how we serve our customers and businesses who have come to love the products and services we
+build. Team Description: Join the AI Engineering Internship Program for a specialized summer experience that directly contributes to delivering industry-leading
+agentic capabilities and scalable, high-performance AI infrastructure. As part of this team, you'll help build Agentic AI applications and platform capabilities
+that power customer-facing experiences with GenAI workflows, industry-leading infrastructure, and internal agentic coding tools. You'll work on the Intelligent
+Foundations and Experiences (IFX) team, which is tasked with advancing the state-of-the-art in AI science and engineering. You’ll make valuable contributions
+from day one by building AI systems and shaping ideas key to delivering AI-native experiences and products for our 100mm+ customers. In this role, you will:
+Partner deeply with a cross-functional team of research scientists, PMs, and engineers to prototype and ship AI-native products that reach millions of
+customers. Research, prototype, and productionalize high-impact AI systems, including multimodal search, intelligent document processing, and autonomous agentic
+workflows that push the boundaries of current industry benchmarks. Design and optimize the critical infrastructure of our AI stack—from fine-tuning pre-training
+pipelines and reinforcement learning to implementing inference optimization, robust guardrails and sophisticated evaluation frameworks. Leverage a broad stack
+of technologies including AWS Ultraclusters, PyTorch, and leading-edge agentic frameworks. You’ll be empowered with top-tier developer tools like Claude Code
+and Windsurf to accelerate the path from concept to code. Architect agentic workflows that go beyond simple chat—enabling AI systems to autonomously navigate
+tools, orchestrate multi-step reasoning, and integrate seamlessly with complex microservice environments. The Ideal Candidate: You are curious, love to build
+systems, and also share our passion to do it the right way. You want to work on problems that have not been attempted before and will help change banking for
+good. You move fluently from reading a research paper to implementing it in production. You have a deep, intuitive grasp of the latest advances in agentic
+workflows and multimodal models. You adapt quickly and thrive on bringing clarity to big, undefined problems. You love asking questions and digging deep to
+uncover the root of problems and can articulate your findings concisely with clarity. You are deeply Technical. You possess a strong foundation in engineering
+and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss. You excel at
+decomposing complex problems. You possess the judgment to decide where AI adds value and how to orchestrate AI workflows incorporating time-tested systems
+design principles, integrating both into a unified whole. The minimum and maximum full-time annual salaries for this role are listed below, by location. Please
+note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing
+to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. McLean, VA:
+$147,000 - $147,000 for AI Engineer Intern New York, NY: $161,000 - $161,000 for AI Engineer Intern San Jose, CA: $161,000 - $161,000 for AI Engineer Intern
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to
+any candidate at the time of hire will be reflected solely in the candidate’s offer letter. Capital One offers a comprehensive, competitive, and inclusive set
+of health, financial and other benefits that support your total well-being. L

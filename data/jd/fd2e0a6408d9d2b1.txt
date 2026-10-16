@@ -1,0 +1,51 @@
+Job Details:
+Job Description:
+This internship is intended for Industrial Engineering graduate students with a focus on Operations Research, simulation, analytics, and optimization. Interns
+will apply mathematical modeling, discrete event simulation, statistics, and software development skills to analyze and improve semiconductor manufacturing
+operations. Projects may include developing and enhancing factory simulation models, building data pipelines and analytics solutions, conducting experiments,
+and supporting capacity, production, and operational decision making. Successful candidates will demonstrate strong quantitative problem-solving skills,
+programming experience in Python and SQL, and an interest in modeling complex manufacturing systems.
+Qualifications:
+Minimum Qualifications:
+Candidate should be in pursuit of a Master's degree in Industrial engineering or Operations Research
+Strong background in software development.
+Expected graduation date of Dec '27 or Summer '28 preferred.
+Preferred Qualifications:
+Skilled in Discrete-Event Predictive Modeling and Digital Twin Manufacturing Simulations
+Experienced in Oracle PL/SQL, Python, R, and Applied Statistics
+Strong Analytics and ML experience - Regression, Clustering, Neural networks (feedforward, CNN, RNN, LSTM), Classification, Transformer models and attention
+mechanisms
+LangChain framework for building LLM applications and agent workflows
+Model fine-tuning techniques (LoRA, QLoRA, full fine-tuning, PEFT)
+Experienced in Data analysis, data visualization, Statistical analysis, Time Series analysis
+Production Planning and Manufacturing Automation experience is a plus
+Optimization CPLEX, Linear and Mixed integer programming is a plus
+3.0 GPA
+Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (United States of America)
+Primary Location:
+US, Arizona, Phoenix
+Additional Locations:
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+Annual Salary Range for jobs which could be performed in the US: $133,498.00-133,502.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-
+site. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

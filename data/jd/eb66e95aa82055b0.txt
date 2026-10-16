@@ -1,0 +1,22 @@
+We are now looking for a Deep Learning Performance Software Engineering Intern!
+We are expanding our research and development for deep learning. We seek excellent Software Engineers to join our team. We specialize in developing GPU-
+accelerated Deep learning software. Researchers around the world are using NVIDIA GPUs to power a revolution in deep learning, enabling breakthroughs in
+numerous areas. Join the team that builds software to enable new solutions. Your ability to work in a fast-paced customer-oriented team is required and
+excellent communication skills are necessary.
+What you’ll be doing:
+Creating and maintaining SKILL, Wiki, and agent harness
+Develop TileGym , Triton CUDA TileIR backend and CUDA Tile
+Develop highly optimized deep learning kernels through tile-based GPU programming model
+End-to-end performance optimization through tile-based GPU programming model
+Do performance optimization, analysis, and tuning
+What we need to see:
+Pursuing a degree from a university in an engineering or computer science related field. A masters or doctoral candidate is preferred.
+Understands the core components of agentic systems, including LLM APIs, prompting, tool use/function calling, agent loops, planning, reasoning, memory, RAG,
+skills, MCP, sub-agents, multi-agent architectures, context engineering, and harness engineering.
+Excellent C/C++ programming and software design skills
+Python experience a plus
+MLIR experience a plus
+Performance modelling, profiling, debug, and code optimization or architectural knowledge of CPU and GPU
+GPU programming experience (CUDA or OpenCL) desired
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people on the planet
+working for us. If you're creative and autonomous, we want to hear from you!

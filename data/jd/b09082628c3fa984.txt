@@ -1,0 +1,87 @@
+Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A220602A
+Apply to this job Share this listing:
+Responsibilities
+The TikTok Commerce Ads team is dedicated to blending advertiser focus with technical expertise. Our mission is to enhance commerce ads—both open-loop and
+closed-loop—to establish TikTok as an essential growth engine for businesses of all sizes and a top destination for consumers to discover and buy products,
+content, and services. We are crucial to driving TikTok's ad revenue and are committed to developing the next-generation web ad solutions for the platform.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Build highly scalable machine learning systems and state-of-the-art machine learning models to improve ads ranking quality and optimize advertisers' marketing
+strategies. Examples include but are not limited to click through rate prediction, conversion rate prediction, intelligent format selection and user journey
+optimization.
+- Explore, develop and experiment with new features to improve model accuracy.
+- Understand ads platform objectives and take full advantage of modern machine learning to improve ads relevance, quality, and quantity delivered to end-users.
+- Collaborate with Product Managers, Designers, and other disciplines to explore the next generation of shopping experiences on TikTok.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's or above degree in Computer Science, Computer Engineering, or a related technical discipline.
+- Solid programming skills, including but not limited to: Go, C/C++, Python. Familiar with basic data structure and algorithms. Familiar with Linux development
+environment.
+- Good analytical thinking capability. Have essential knowledge and skills in statistics.
+- Good theoretical grounding in the machine and deep learning concepts and techniques (CNN/RNN/LSTM, etc.).
+- Familiar with the architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/PyTorch/MXNet), familiar with
+its architecture and implementation mechanism.
+- Must be able to commit to a 12-week full-time work period during Summer 2027.
+Preferred Qualifications:
+- Good understanding in one of the following domains: ads bidding & auction, ads quality control, and online advertising systems (familiar with one or more of
+these terms: CPC/CPM, CTR/CVR, Ranking /Targeting, Conversion/Budget, Campaign/Creative, Demand/Inventory, DSP/RTB).
+- Experience in resource management and task scheduling with large-scale distributed software (such as Spark and TensorFlow).
+- Relevant work or research experiences in search and recommendation.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, th

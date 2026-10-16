@@ -1,0 +1,38 @@
+NVIDIA’s development of the GPU in 1999 revolutionized the PC gaming industry, reshaped contemporary computer graphics, and transformed parallel computing. In
+recent years, GPU deep learning has propelled modern AI, ushering in a new era of computing where GPU systems serve as the core intelligence for computers,
+robots, and autonomous vehicles, enabling them to perceive and interpret the world around them. NVIDIA Research is at the forefront of developing cutting edge
+hardware, software, and algorithmic technologies for next generation GPU systems. We are eager to expand our teams with the most brilliant minds globally.
+What you'll be doing:
+Conduct cutting edge research on algorithms, hardware, and system software extending the state of the art in deep learning, humanoid robotics, database
+analystics, general computing, and other technology areas surrounding NVIDIA's business.
+Invent new techniques, technologies, methodologies, processes, and devices that can enable new products or types of products. Deliverable results include
+prototypes, patents, leading to products and publications.
+Develop new methods and processes for research and scientific evaluation of research techniques and artifacts including agentic driven techniques, simulation,
+modeling, and benchmarking.
+Produce technology vision and the basis for products 5-10 years out. Focus should not be on products currently shipping or in development, except as to how they
+can be extended and improved.
+What we need to see:
+Pursuing PhD Degree in relevant discipline(s) (CS, CE, EE, Physics, Math)
+At least one year of university or industrial research experience in computer architecture or computer systems, including operating systems, distributed
+systems, compilers, or AI/ML systems.
+Strong programming ability: C, C++ and Python preferred.
+Eagerness to learn and use AI tools for software development and system design.
+Experience designing and evaluating research ideas through prototyping, simulation, modeling, or experimentation.
+Strong programming skills and the ability to communicate research ideas, methods, and results clearly.
+Ways to stand out from the crowd:
+Chip/system level arch: agentic techniques for computer architecture; specialized accelerators for deep-learning and humanoid robotics
+Systems for AI/ML: systems infrastructure for LLM training, inference, and agents/tools; state management in agentic systems; systems for humanoid robotics
+AI/systems co-design
+Experience contributing to research targeting leading architecture and systems conferences, such as ISCA, ASPLOS, MICRO, HPCA, SOSP, MLSys, NSDI, or OSDI.
+Publications are a plus but are not required. We welcome candidates with research in progress, including manuscripts in preparation or submissions under review.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-looking and hardworking people in the
+world working for us. If you're creative and autonomous, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

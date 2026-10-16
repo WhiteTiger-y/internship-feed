@@ -1,0 +1,90 @@
+Machine Learning Engineer Intern (E-Commerce Knowledge Graph)- 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (E-Commerce Knowledge Graph)- 2027 Summer
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A71682
+Apply to this job Share this listing:
+Responsibilities
+Team Introduction:
+The Knowledge Graph team is responsible for the neural network of e-commerce, which includes tasks such as categorizing products, influencers, and merchants,
+mining product information, and providing this data to the recommendation team. Additionally, they manage operations related to product tags and category
+attributes. When we come across a product, they determine whether it belongs to the clothing or sports category, who thie product will be suitable for, etc.
+Furthermore, the team conducts competitive research, identifying top-performing items on the platform and analyzing why one similar product outperforms others.
+They are also involved in brand recognition. This team plays a pivotal role, in bridging various aspects of our business and maintaining close collaboration
+with other teams.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Craft intricate knowledge graphs, encompassing areas like product/content insights and category/brand/SPU development;
+- Architect knowledge maps detailing buyer and product connections.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Undergraduate in Software Development, Computer Science, Computer Engineering or a related discipline.
+- Experience in at least one of the technological areas:
+- LLM, natural language generation, named entity recognition, machine translation, question answering, knowledge graph, information extraction, text mining and
+classification etc.
+- Computer vision, facial recognition, multimodal learning, object detection & tracking, image classification etc.
+- Machine learning, transfer learning, graph embedding, representative learning, large-scale optimization, recommendation, reinforcement learning, etc.
+- Strong coding skills in at least one of the following programming frameworks, e.g. Python, Java, C/C++, Spark etc.; Familiar with at least one of the
+following deep learning frameworks, e.g., PyTorch, TensorFlow, Keras etc.
+- Strong analytical and problem-solving skills;
+Preferred Qualifications:
+- Familiarity with deep learning frameworks like TensorFlow/PyTorch.
+- Coursework or projects related to text classification, text matching, sequence labeling, and knowledge graphs.
+- Knowledge of domain adaptation, text mining, and unsupervised/semi-supervised methodologies.
+- Experience with machine learning and deep learning algorithms, and text representation methods.
+- Exposure to large-scale text data processing or tools like Hadoop/Spark/Hive/Flink.
+- Work experience in e-commerce or the Internet industry is preferred
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our

@@ -1,0 +1,45 @@
+Are you interested in using data, analytics, and emerging technologies to solve real-world problems? Would you like to gain hands-on experience supporting
+innovative solutions that help inform decision-making across the insurance industry? About the Business LexisNexis Risk Solutions is the essential partner in
+the assessment of risk. Within our Insurance vertical, we provide customers with solutions and decision tools that combine public and industry-specific content
+with advanced technology and analytics to assist them in evaluating and predicting risk and enhancing operational efficiency. Our insurance risk solutions help
+drive better data-driven decisions across the insurance policy lifecycle, all while reducing risk. You can learn more about LexisNexis Risk at
+https://risk.lexisnexis.com/insurance. About our Team Our team leverages data, analytics, and emerging technologies to develop innovative solutions that help
+customers make informed decisions, improve risk assessment, and drive business value across the insurance and automotive industries. Working with a wide range
+of data sources, including vehicle, ownership, telematics, mobility, tabular, time series, aerial imagery, and video data, we uncover insights, develop
+analytical products, and apply a range of techniques, including machine learning, deep learning, computer vision, and generative AI, to solve real-world
+challenges. We partner closely with Product, Data Acquisition, Analytics, and business stakeholders to evaluate data sources, develop customer-focused
+solutions, and deliver actionable insights that support product innovation, operational excellence, and business growth. As part of the team, you'll collaborate
+with experienced data scientists, analysts, and AI practitioners while gaining hands-on experience with data analytics, visualization, reporting, and AI-enabled
+solutions that transform data into meaningful outcomes. About the Role As a Data Science Intern, you will contribute to real-world analytics and artificial
+intelligence projects while developing technical and business skills through hands-on learning and collaboration. You will work with data from a variety of
+sources, identify trends and insights, support analytical models, create dashboards and visualizations, and communicate findings to technical and non-technical
+audiences. Depending on business priorities and your interests, projects may involve machine learning, deep learning, generative AI, computer vision, vehicle
+intelligence, telematics, mobility trends, risk prediction, data quality, business reporting, or other advanced analytics initiatives. You will also gain
+exposure to how analytical solutions progress from research and experimentation to customer-focused products and production environments. This internship offers
+an opportunity to work on meaningful projects that apply data science, analytics, and AI to real business challenges. You'll gain hands-on experience, learn
+from experienced professionals, build valuable technical and business skills, and contribute to solutions that help customers make smarter decisions across the
+insurance and automotive industries. Program Dates: May 24 – July 30, 2027 Duration: 10 weeks Location: On-site in Alpharetta, GA. Candidates should be able to
+work on-site for the duration of the internship. Relocation Assistance: Relocation assistance is not available for this internship. Eligibility Requirements:
+Candidates must be currently enrolled undergraduate students with an expected graduation date of May 2028. Responsibilities Collect, organize, clean, validate,
+and analyze data from multiple systems and sources. Identify trends, patterns, gaps, and opportunities that support business and product decisions. Assist with
+analytical experiments and the development, testing, and improvement of data science and machine learning solutions. Contribute to projects involving artificial
+intelligence, vehicle intelligence, telematics, mobility, imagery, video, risk prediction, or business analytics. Evaluate data sources for quality, coverage,
+usability, relevant attributes, and potential business applications. Develop reports, dashboards, visualizations, and presentations that clearly communicate
+findings and recommendations. Support the documentation, validation, deployment, and continuous improvement of analytical solutions. Collaborate with data
+scientists, analysts, product teams, and business stakeholders on customer-focused and continuous improvement initiatives. Requirements Be a current student
+pursuing a bachelor’s degree in Data Science, Data Analytics, Computer Science, Statistics, Mathematics, Engineering, Artificial Intelligence, or a related
+quantitative field, with an expected graduation date of May 2028. Demonstrate an interest in data science, analytics, machine learning, artificial intelligence,
+business intelligence, or emerging technologies. Have experience working with data through coursework, academic projects, research, student organizations,
+personal projects, volunteer experiences, or prior internships. Have familiarity with Python, SQL, or similar tools used for data analysis and problem-solving.
+Possess foundational knowledge of statistics, data analysis, machine learning, data visualization, or data quality concepts. Demonstrate analytical thinking and
+problem-solving skills, including the ability to interpret data and develop meaningful insights. Communicate findings clearly through written materials,
+presentations, visualizations, and data storytelling. Work effectively both independently and collaboratively while learning new technologies and adapting to
+evolving priorities. Salary $20/hour #earlycareer This position is not eligible for benefits. We are committed to providing a fair and accessible hiring
+process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form
+or please contact 1-855-833-5120. Criminals may pose as recruiters asking for money or personal information. We never request money or banking details from job
+applicants. Learn more about spotting and avoiding scams here. Please read our Candidate Privacy Policy. We are an equal opportunity employer: qualified
+applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability
+status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law.
+USA Job Seekers: EEO Know Your Rights. At LexisNexis® Risk Solutions, our businesses span multiple industries providing customers with innovative technologies,
+information-based analytics, decisioning tools and data management services that provide market-specific solutions. Approximately 11,100 employees in offices
+throughout the world support our brands by serving customers in more than

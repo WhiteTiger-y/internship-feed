@@ -1,0 +1,63 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
+sciences.
+This is a paid 12-week internship opportunity and is a hybrid, in-office role.
+Here’s a glimpse into the Internship experience from some of our TRI interns!
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team in Human-Centered AI, Large Behavior Models, Robotics, Automated
+Driving, Energy & Materials and Human Interactive Driving.
+The Team
+This internship opportunity falls within the Adaptive Behavior Systems team of Human-Centered AI Division (HCAI). We are an integrated team of ML researchers
+and social and behavior scientists. At the core of our work, we aim to enable decisions through human-centered AI that advance collective well-being for people
+and the planet.
+The Internship
+We are seeking a highly motivated and talented PhD research intern to join our adaptive behavior systems team to push the boundaries of causal reasoning in
+LLMs. The intern will collaborate with our interdisciplinary team of machine learning, behavioral, and social scientists to study how well language-based
+generative machine learning models can reason causally and to develop methods for testing and improving causal reasoning. The project will be focused on
+researching in a specific sub-area of the overall goal, towards publication in a top-tier venue. The intern will further engage in strategy discussions about
+how the research connects to business impact at Toyota.
+This is a Winter 2027 paid 12-week internship opportunity. Please note that this internship will be a hybrid in-office role.
+Responsibilities
+- Perform research and publish in a relevant venue. Publication target venues include NeurIPS, ICML, ICLR, CLeaR, UAI, and COLM, with ACL or EMNLP where the
+contribution is primarily linguistic, and TMLR as a journal option. Findings may also be presented at ACIC or EuroCIM. The exact topic is to be finalized with
+the mentor.
+- Take ownership of the project from project inception and ideation to validation of the developed methods.
+- Collaborate cross-functionally with researchers in multiple fields to research and develop technology that leverages generative AI to understand human
+behavior.
+Qualifications
+- Ph.D. student in related fields - AI/ML, computer science, data science, statistics, or related field.
+- Publication record or demonstrated research experience in causal inference (structural causal models, identification, counterfactual reasoning).
+- Hands-on experience with one or more of: LLM evaluation and benchmarking; mechanistic interpretability; and methods for improving LLM reasoning, including
+prompting and prompt optimization, post-training (supervised fine-tuning or reinforcement learning with verifiable rewards), pretraining, or architectural
+changes.
+- Experience with Python programming and DL frameworks like Pytorch.
+- Interest in human-centered research (e.g. behavioral science, computational social science), including qualitative and/or quantitative methods such as
+experiments and user studies.
+- Excellent communication and teamwork skills.
+Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
+The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles; however, base pay offered
+may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Note that TRI offers a generous
+benefits package including vacation and sick time. Details of participation in these benefit plans will be provided if an employee receives an offer of
+employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status
+protected under federal, state or local laws.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with
+arrest and conviction records for employment.
+The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles. Base pay offered will
+depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI
+offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional
+details regarding these benefit plans will be provided if an employee receives an offer of employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran 

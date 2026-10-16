@@ -1,0 +1,41 @@
+ABOUT POET At POET, it is our mission to be good stewards of the Earth by converting renewable resources to energy and other valuable goods as effectively as
+humanly possible. For over thirty-five years, our drive and passion to change the world has enabled us to become the largest producer and marketer of bioethanol
+and a leader in sustainable products in the world. CULTURE IS KING AT POET We’re all on the same team. We always communicate. And we park our egos at the door.
+These aren’t just slogans on our walls. It’s the way we do things at POET. We provide an environment for team members to maintain a healthy work-life balance.
+It’s the best way to optimize health, wellness, and productivity in a sustainable way. We work hard. We play hard. We have frequent team events, volunteer
+efforts, and we know how to celebrate wins! JOB SUMMARY & RESPONSIBILITIES POET is a fast-paced, data-driven biotech company which operates a complex business
+affected by hundreds of variables, and data is used every day to help drive decisions and improve outcomes. Our data comes from many areas of the business,
+including sensors in our bioethanol plants, commodity markets, financial systems, logistics, and other business applications. The Data Engineering Intern will
+work alongside the Data Engineering team to gain hands-on experience with the systems and processes used to collect, organize, transform, and deliver data
+throughout the organization. This internship is intended to provide meaningful project experience while introducing the intern to enterprise data systems,
+tools, and development practices. This is an on-site role located in Sioux Falls, SD. Responsibilities include: Assist with building and maintaining data
+pipelines used to collect, clean, transform, and deliver data. Write and troubleshoot SQL queries to retrieve, validate, and analyze data. Help identify and
+resolve data quality issues. Assist with automating manual or repetitive data processes. Participate in testing and validating new or updated data solutions.
+Work with Data Engineers, analysts, and business stakeholders to better understand how data is used throughout POET. Create and maintain documentation for data
+processes, pipelines, and systems. Gain exposure to databases, orchestration tools, APIs, industrial data systems, and other enterprise technologies. Contribute
+to one or more projects that provide measurable value to the Data Engineering team or the business. Since we’re all about teamwork and getting the job done,
+your skills may be put to a lot of other uses! The POET Never Satisfied Internship openings are for Summer 2027. We post Internships in early September with the
+intention of having interns selected by November 1st. QUALIFICATIONS & SKILLS Currently pursuing an Associate’s or Bachelor’s degree in Computer Science,
+Information Systems, Data Science, Engineering, or a related field. Basic understanding of relational databases and SQL. Some programming or scripting
+experience with languages or tools such as Python, SQL, PowerShell, C#, Java, or similar technologies is preferred. Interest in learning about data engineering,
+automation, databases, and enterprise technology. Strong problem-solving and critical-thinking skills. Ability to learn new technologies and concepts quickly.
+Good written and verbal communication skills. Attention to detail and a willingness to ask questions. Ability to work both independently and as part of a team.
+Working knowledge of Microsoft Office applications and the ability to learn new programs. A SUCCESSFUL CANDIDATE WILL HAVE A strong desire to learn and develop
+new technical skills. Curiosity and an interest in understanding how data and systems work. A strong customer service mindset with a value placed on
+relationships. Demonstrated problem-solving and critical-thinking skills. The ability to take directions, receive feedback, and apply what they have learned.
+The willingness to ask questions and seek help when needed. An innovative mindset and willingness to explore new ideas. Strong interpersonal skills and the
+ability to work effectively with others. A high level of personal integrity. The ability to adapt to changing priorities and unfamiliar challenges. The ability
+to work in a team environment. WORK ENVIRONMENT This position operates in an office environment, working at a personal computer where you may sit or stand. Most
+of our Sioux Falls office workspace consists of an open-concept design intended to promote open communication and collaboration. GROWTH & DEVELOPMENT
+OPPORTUNITIES At POET, we encourage internal development and growth by allowing team members to carve their own path to success. Leaders support team members
+with the necessary resources to develop their skills, achieve goals, and create the most value. We believe in developing our team members to their highest
+potential and recognizing contributions that add value to the organization. Each new team member’s position and compensation are carefully determined by
+considering their unique qualifications and skillset. PERKS A multifaceted wellness program encompassing the whole person – mentally, physically, and
+spiritually On-site fitness centers or fitness reimbursements Safety and cold-weather gear reimbursements POET is an Equal Opportunity Employer committed to
+maintaining a workplace free from discrimination and harassment. Employment decisions are based on qualifications, abilities, merit, and other legitimate
+business factors, without regard to any legally protected characteristic. This policy applies to all aspects of employment, including recruitment, hiring,
+compensation, benefits, working conditions, promotion, and termination. Over the past 30 years of bioprocessing leadership, we've assembled the industry's
+strongest team of engineers, scientists, financial analysts and more. Along the way, we've carefully selected team members who share our core values and pride
+in everything we do. That's common sense—and it's led to some of the most creative bioprocessing work in the world. The people of POET make working here a
+challenging, exhilarating place to advance a career. They accomplish great things for millions of Americans and find great satisfaction in helping our country
+in so many ways.

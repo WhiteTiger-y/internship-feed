@@ -1,0 +1,45 @@
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented,
+treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are
+uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health
+for humanity. Learn more at jnj.com As guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide
+an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and
+recognize their merit. Job Function: Career Programs Job Sub Function: Non-LDP Intern/Co-Op Job Category: Career Program All Job Posting Locations: Cincinnati,
+Ohio, United States of America Job Description: The Ethicon, Inc. business, a part of the Johnson & Johnson family of companies, is recruiting for R&D
+Engineering & Data Science Co-ops for the Summer 2027 term located in Cincinnati, OH, to help transform the landscape of surgery. At Johnson & Johnson, we
+believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where
+treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to
+innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more
+at https://www.jnj.com/. For more than 130 years, diversity, equity & inclusion (DEI) has been a part of our cultural fabric at Johnson & Johnson and woven into
+how we do business every day. Rooted in Our Credo, the values of DEI fuel our pursuit to create a healthier, more equitable world. Our diverse workforce and
+culture of belonging accelerate innovation to solve the world’s most pressing healthcare challenges. We know that the success of our business – and our ability
+to deliver meaningful solutions – depends on how well we understand and meet the diverse needs of the communities we serve. Which is why we foster a culture of
+inclusion and belonging where all perspectives, abilities and experiences are valued and our people can reach their potential. At Johnson & Johnson, we all
+belong. Ethicon Surgical Technologies offers a broad range of products, platforms, and technologies—including sutures, surgical staplers, advanced energy,
+robotic surgery, clip appliers, trocars and synthetic mesh devices—that are used in a wide variety of minimally invasive and open surgical procedures.
+Specialties include support for treatment of colorectal and thoracic conditions, women’s health conditions, hernias, cancer and obesity. Ethicon Surgical
+Technologies combines products and services of two market leading legacy companies, both with long histories of medical innovation. Formerly called Ethicon,
+Inc. based in Somerville, New Jersey, was founded more than 80 years ago, as a pioneer in suture development and manufacturing, helping to transform the safety
+and effectiveness of open surgery. Formerly called Ethicon Endo-Surgery, Inc. was created 25 years ago, in Cincinnati, Ohio, developing creative devices that
+have driven the groundbreaking shift from open to minimally invasive surgery that continues to lead the industry today. The Summer 2027 term dates are from
+05/10/2027 – 08/13/2027 Responsibilities: As an Engineering & Data Science co-op in the R&D business, you will have the opportunity to: Perform analysis of
+structured and unstructured surgical data sets, uncovering insights for Robotics, Handheld Instruments, or Digital Products R&D engineering teams. Contribute to
+product conceptualization efforts for brand new surgical tools and platforms. Write software that enables collaborative data analysis and ensure data quality.
+Develop and carry out mechanical, electrical, and biological tissue laboratory experiments. Design and optimize data visualizations for stakeholders. Contribute
+as a member of a team with mentorship from seasoned Hardware Engineers, Data Engineers, and Data Scientists. You will have the opportunity to use state of the
+art tools and take advantage of training courses offered on-site and virtually. Responsibilities will increase with each rotation as you learn more by returning
+to school. Rotations are generally 3-4 months and availability for multiple rotations is desired. We offer a competitive wage and housing assistance to non-
+local students that live 50+ miles from the site. The R&D Co-op program provides each student with a great support system, as well as the opportunity to meet
+people from various schools throughout the country. All co-ops that qualify for housing assistance will receive a one-time taxable stipend to support the cost
+of living during the co-op term. Prior to the start date all co-ops will be connected with other incoming co-ops and provided with housing resources to
+individually secure housing arrangements. Transportation is not provided; all co-ops are responsible for securing their own transportation to and from the site
+daily. Qualifications Required: Be enrolled in an accredited college/institution pursuing a Bachelor’s or Master’s degree in Engineering (Mechanical,
+Electrical, Biomedical, or similar) or in a Computing discipline (Computer Science, Data Science, Statistics, or similar) with strong background in Mechanical
+or Electrical Engineering principles. Must have completed a minimum of two semesters in school prior to the beginning of the co-op term (class standing of a
+sophomore or above). Considered a student during the co-op term, must not have a graduation date prior to the start of the co-op term. Have a minimum GPA of
+3.0. Demonstrate proficiency in Python. Demonstrate leadership/participation in campus programs and/or community service activities. Demonstrate strong interest
+in healthcare. Must be legally authorized to work in the United States for the full duration of the co-op term. Permanently authorized to work in the U.S., must
+not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM
+OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term
+status that does not require company sponsorship. Preferred: Experience working with… Scientific or Engineering datasets Python data science libraries (Pandas,
+NumPy, SciPy, Scikit-Learn, PySpark, etc.) ML tools and algorithms SQL Tableau Git Benefits: Co-Ops/Interns may be eligible to participate in Company sponsored
+employee medical benefits in accordance with 

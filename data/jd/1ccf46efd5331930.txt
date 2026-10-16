@@ -1,0 +1,105 @@
+Job Application for AI/ML Intern Summer 2027 at Veeam Software
+Back to jobs
+AI/ML Intern Summer 2027
+San Jose, CA, USA
+Apply
+Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable
+the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of
+identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who
+trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s
+biggest brands.
+About Out Summer Internship Program
+Our Summer Internship Program is designed for students entering their final year of university who are eager to gain meaningful, real-world experience in a fast
+paced, collaborative, and professional environment.
+As a Summer Intern, you'll participate in a comprehensive onboarding experience led by our University Relations team to set you up for success from day one.
+Throughout the program, you'll also have the opportunity to participate in weekly professional development sessions, networking events, social activities, and
+other engaging experienced designed to support your personal and professional growth.
+The program takes place from June – August 2027 (10-week program).
+What We're Looking For
+- Passion & Curiosity: Strong interest in machine learning research, experimentation, and understanding model behavior.
+- Machine Learning Fundamentals: Strong foundation in supervised/unsupervised learning, optimization, regularization, model evaluation, and deep learning
+fundamentals.
+- Model Training Experience: Hands-on experience training deep learning models in PyTorch or TensorFlow. Ability to diagnose poor convergence, overfitting,
+unstable training, gradient issues, data leakage, and weak generalization.
+- Statistics & Experimentation: Strong understanding of probability, statistics, hypothesis testing, experimental analysis, and interpreting noisy results.
+- Software Engineering Discipline: Ability to write clean, maintainable code with strong encapsulation, separation of concerns, modularity, and object-oriented
+design principles.
+- Rapid Prototyping: Comfortable using Claude or similar AI tools for development, debugging, and rapid iteration.
+- Research Mindset: Ability to independently investigate problems, design experiments, and analyze outcomes critically.
+Nice To Have
+- LLM Experience: Experience training, fine-tuning, or evaluating transformer models or LLMs.
+- Modern ML Tooling: Familiarity with Weights & Biases, MLflow, distributed training, mixed precision, LoRA/QLoRA, or hyperparameteroptimization.
+- Research Exposure: Experience reproducing papers, participating in ML competitions, contributing to research projects, or building advanced personal projects.
+- Applied AI Domains: Exposure to NLP, generative AI, multimodal systems, retrieval systems, or recommendation systems.
+What You Could Be Working On
+- Model Training & Evaluation: Train and improve ML models across a variety of datasets and tasks.
+- Training Diagnostics: Analyze loss curves, gradients, metrics, and experiments to diagnose model failures and improve performance.
+- LLM & Generative AI Research: Work on transformer models, fine-tuning workflows, evaluation systems, and generative AI applications.
+- Rapid Experimentation : Prototype and iterate quickly using Claude-assisted development workflows.
+- Research Tooling: Build reusable experimentation, training, and evaluation workflows for ML research.
+Candidates should have completed advanced coursework in areas such as:
+- Machine Learning
+- Deep Learning
+- Probability & Statistics
+- Linear Algebra
+- Optimization
+- Algorithms & Data Structures
+- Artificial Intelligence
+- Natural Language Processing
+- Computer Vision
+- Reinforcement Learning
+- Software Engineering
+Targeted Field of Study
+Currently pursuing a Master’s degree or PhD in : Computer Science, Artificial Intelligence, Machine Learning, Statistics, Applied Mathematics, Data Science,
+Electrical Engineering, Or other closely related quantitative fields
+Requirements:
+- This role requires you to be in office 5 days a week at the San Jose, California location
+Benefits
+As a paid intern at Veeam, you’ll receive:
+- Paid Company Holidays during your internship
+- Tech Stipend to help set up your workspace
+- 8 Hours of Paid Volunteer Time through our Veeam Cares Program
+- Personal and Professional Development through our Internship Program
+We’re committed to providing a supportive and rewarding internship experience.
+The pay range posted is an hourly rate of base pay. When making an offer of employment, Veeam will take into consideration the candidate’s expectations,
+experience, education, scope of responsibility for the role, and the current market demands.
+United States of America Intern Pay Range
+$40 - $50 USD
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national
+origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept
+confidential.
+Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice , which explains how your information
+is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.
+By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your
+knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins,
+termination of employment.
+Create a Job Alert
+Interested in building your career at Veeam Software? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name *
+Email *
+Phone Country *
+Phone *
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+End date month * Select...
+End date year *
+Add another
+This role is based out of our San Jose, CA office. Are you willing and able to accommodate this work environment? * Select...
+Country of residence * Select...
+Are you eligible to work in the country where this vacancy is posted? * Select...
+Will you now or in the future require company sponsorship for a visa or work authorization to work in the country where this role is based? * Select...
+Select “Yes” if you will ever need company sponsorship to wo

@@ -1,0 +1,107 @@
+Job Application for Machine Learning Engineer Intern at Coinbase
+Back to jobs
+Machine Learning Engineer Intern
+Hybrid - San Francisco, CA
+Apply
+Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the
+environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to
+build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company.
+Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase .
+This is a 12-week internship during summer 2027.
+You'll join Coinbase's Machine Learning team and work alongside senior engineers building ML models and pipelines that make our platform more secure,
+personalize user experiences, and unlock new use cases for crypto. As an MLE intern, you'll take ownership of a research-to-production project, applying
+cutting-edge ML techniques to real-world problems at blockchain scale.
+What you'll do:
+- Develop, deploy, and operate machine learning models and pipelines at production scale
+- Drive an end-to-end research project applying modern ML techniques to solve a defined business problem
+- Partner with senior engineers and product teams to identify new ML applications for blockchain and crypto use cases
+- Present findings and recommendations to cross-functional stakeholders at the conclusion of your internship
+Required Skills and Experience:
+- Currently pursuing a Ph.D. with published or in-progress research in machine learning, deep learning, or a closely related field
+- Demonstrated proficiency building and training models using ML frameworks such as PyTorch or TensorFlow
+- Experience applying ML techniques including supervised learning, unsupervised learning, or reinforcement learning to structured or unstructured datasets
+- Familiarity with software engineering fundamentals including version control, testing, and writing production-quality Python code
+- Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency,
+cost, and quality.
+Req ID: P78143
+#LI-Hybrid
+Pay Transparency Notice: Depending on your work location, the target hourly rate for this position can range as detailed below.
+Hourly Rate:
+$60 - $60 USD
+- Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+- Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to
+race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with
+criminal histories will be considered consistent with applicable federal, state, and local laws.
+- US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation.
+- Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at
+accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial .
+- Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you
+agree to Arbitration of Disputes .
+Apply for this job
+*
+indicates a required field
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Employment
+Company name *
+Title *
+Start date month * Select...
+Start date year *
+End date month * Select...
+End date year *
+Current role
+Add another
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+Add another
+Linkedin Profile URL *
+I am available to begin a potential full-time role before September 2028. * Select...
+Are you at least 18 years of age? * Select...
+Have you previously been employed by Coinbase in any capacity? * Select...
+How did you hear about this job? * Select...
+Please confirm receipt of the above linked Global Data Privacy Notice and US Arbitration Agreement. * Select...
+I understand that Coinbase may use AI tools to assist in the application and interview process.
+* Select...
+Which of the following best describes how you use AI tools today? * Select...
+Are you legally authorized to work in the country where this position is located? * Select...
+Will you require sponsorship for employment visa status now or in the future? * Select...
+Are you a current government official or were you a government official in the last five years (e.g., employee of a government agency or a government
+owned/controlled company, holder of public office or a civil service position)? * Select...
+Are you a close relative of a government official (i.e., child/step-child, spouse/partner, parent/guardian, aunt/uncle, first cousin, in-law)? * Select...
+To your knowledge, do you or a close relative currently hold a role, have a significant financial interest in, or maintain a close personal relationship with a
+senior leader at a company connected to Coinbase that could create an actual or perceived conflict of interest? * Select...
+To your knowledge, were you referred to this position by a senior leader or decision‑maker at a current or prospective institutional client, business partner,
+or vendor of Coinbase? * Select...
+( Note: Personal use of the Coinbase or Base app as a regular retail customer does not qualify as a client relationship for this question)
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Coinbase’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+Gender Select...
+Are you Hispanic/Latino? Select...
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+is as follows:
+A 

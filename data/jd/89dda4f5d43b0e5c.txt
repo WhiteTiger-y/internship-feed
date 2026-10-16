@@ -1,0 +1,25 @@
+We tackle the most complex problems in quantitative finance, by bringing scientific clarity to financial complexity. From our London HQ, we unite world-class
+researchers and engineers in an environment that values deep exploration and methodical execution - because the best ideas take time to evolve. Together we’re
+building a world-class platform to amplify our teams’ most powerful ideas. As part of our engineering team, you’ll shape the platforms and tools that drive
+high-impact research - designing systems that scale, accelerate discovery and support innovation across the firm. Take the next step in your career. Role
+purpose Dates: 28th June 2027 - 17th September 2027 Working hours: 09:00 - 17:30 We are looking for exceptional machine learning students to join our world-
+class technology teams for a 12- week summer internship, working alongside quantitative researchers on cutting-edge machine learning problems. As an intern
+within the Technical Machine Learning team, you will be engaged in a mixture of individual and collaborative work to tackle some of the toughest research
+questions. You will also use a combination of off-the-shelf tools and custom solutions written from scratch to drive the latest advances in quantitative
+research. Key Responsibilities of the role include What does the technical machine learning team work on? Implementing ideas from published research papers
+Writing custom libraries to efficiently train models on petabytes of data Reducing model training times by hand optimising machine learning operations Profiling
+custom machine learning architectures to identify performance bottlenecks Evaluating the latest hardware and software in the machine learning ecosystem Who are
+we looking for? We are looking for interns that will be comfortable working both independently and in small teams on a variety of engineering challenges, with a
+particular focus on machine learning and scientific computing. The ideal candidate will have the following skills and experience: A current undergraduate,
+master's or PhD student in machine learning or a related discipline Strong object-oriented programming skills and experience working with Python, PyTorch and
+NumPy are desirable Experience in one or more advanced optimisation methods, modern ML techniques, HPC, profiling, model inference; you don’t need to have all
+of the above Excellent machine learning reasoning skills, with the ability to develop your own models when standard approaches are insufficient Strong
+communication and collaboration skills, with the ability to work effectively in a team with complementary expertise Finance experience is not necessary for this
+role and candidates from non-financial backgrounds are encouraged to apply. Why join us? Highly competitive compensation plus annual discretionary bonus Lunch
+provided (via Just Eat for Business) and dedicated barista bar 30 days’ annual leave 9% company pension contributions Informal dress code and excellent
+work/life balance Comprehensive healthcare and life assurance Cycle-to-work scheme Monthly company events G-Research is committed to cultivating and preserving
+an inclusive work environment. We are an ideas-driven business and we place great value on diversity of experience and opinions. We want to ensure that
+applicants receive a recruitment experience that enables them to perform at their best. If you have a disability or special need that requires accommodation
+please let us know in the relevant section At G-Research, we are passionate about the intersection of finance, technology, and the future. We offer a dynamic,
+flexible and highly stimulating culture where world-beating ideas are cultivated and rewarded. We are proud to employ some of the best people in their field and
+to nurture their talent in our collaborative working environment.

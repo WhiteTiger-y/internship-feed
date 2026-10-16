@@ -1,0 +1,78 @@
+Western Digital Spring 2027 Co-Op - AI Systems Strategy | SmartRecruiters
+- Google Chrome
+- Microsoft Edge
+- Apple Safari
+- Mozilla Firefox
+Spring 2027 Co-Op - AI Systems Strategy
+- Intern
+- Job Type (exemption status): Non-Exempt position - Please see related compensation & benefits details below
+- Salary Range: 30.67-40.89
+- Business Function: Engineering Support
+- Work Location: Rochester Office--LOC_HGST_PLR
+Company Description
+WD is building the infrastructure behind the AI-driven data economy.
+As AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s
+where we come in.
+We combine deep engineering expertise with global-scale manufacturing to deliver the storage systems that make AI possible, powering hyperscale data centers,
+cloud platforms, and enterprise infrastructure worldwide.
+This isn’t theoretical work. It’s real systems, at real scale, people solving some of the hardest challenges in technology today.
+We’re looking for people who want to build, solve, and operate at that level.
+Join us and let’s shape the future of data.
+Job Description
+WD's CTO System Architecture is at the forefront of defining the next generation of HDD storage technology. As a Co-op Engineer on the System Architecture team,
+you will work alongside senior engineers and technology leaders to shape long-range technology strategy, develop intelligent tools to manage complex engineering
+programs, and deliver competitive insights that inform critical business decisions.
+This is a high-impact, high-visibility role suited for a graduate student who combines strong technical depth with a passion for systems thinking, data-driven
+decision making, and emerging technology.
+What You'll Do:
+System Architecture Support
+- Assist with evaluating and documenting system architecture trade-off decisions across storage technology domains
+- Research and model performance, cost, and feasibility dimensions for emerging technology options
+- Support cross-functional architecture reviews and help synthesize findings into clear technical recommendations
+Technology Roadmap & Data Management
+- Help maintain and evolve the team's technology roadmap tools and associated data infrastructure
+- Develop and improve data pipelines, dashboards, and visualization tools to support roadmap planning and gap analysis
+- Assist with technology maturation tracking across the component and system lifecycle (TCP0 through TCP2)
+AI Agent Development
+- Design and build AI agents to help manage technology projects, automate status tracking, and surface insights from large volumes of engineering and program
+data
+- Leverage LLMs, agent frameworks, and retrieval/tool integrations to prototype intelligent assistants for engineering workflows
+- Collaborate with the team to identify high-value automation opportunities within the technology development lifecycle
+Competitive Analysis & Intelligence
+- Research competitive storage technology trends, industry standards activity, and academic publications
+- Synthesize competitive intelligence into structured reports and briefings for senior technology leadership
+- Track key technology indicators (areal density, interface evolution, component trends) and benchmark against internal roadmap targets
+This role is part of WD's early career development program. WD’s early career development program is ideal for individuals at the early stages of their
+professional career. Participants receive foundational training through structured onboarding, mentorship, and a curated development curriculum. The
+responsibilities of this role are typically aligned with candidates who have approximately 0–2+ years of relevant professional experience, though candidates of
+all experience levels are encouraged to apply.
+Qualifications
+Required:
+- Currently pursuing a MS in Electrical Engineering, Computer Engineering, Computer Science, or a closely related field
+- Strong analytical and systems thinking skills — ability to work through ambiguous problems and build structured frameworks
+- Experience with data analysis and visualization
+- Strong written and verbal communication skills — ability to present complex technical topics clearly to mixed audiences
+- Self-directed with the ability to manage multiple workstreams concurrently
+Preferred:
+- Background or coursework in storage systems, computer architecture, or semiconductor technology
+- Experience building LLM applications, AI agents, agentic workflows, or ML systems
+- Experience with project management tools
+- Prior industry internship or co-op experience in a technology or engineering environment
+Additional Information
+WD is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their
+race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions,
+breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior,
+whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status
+(including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care
+leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of
+the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the "
+Know Your Rights: Workplace Discrimination is Illegal ” poster. Our pay transparency policy is available here .
+WD thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and
+communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our
+customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and
+contribution.
+WD is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our
+hiring process. Please contact us at [email protected] to advise us of your accommodation request. In your email, please include a description of the specific
+accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.
+Based on our experience, we anticipate that the application deadline will be 12/14/26 , although we reserve the right to close the application process sooner if
+we hire an a

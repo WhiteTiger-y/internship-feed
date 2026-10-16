@@ -1,0 +1,42 @@
+Job Location CINCINNATI GENERAL OFFICES Job Description Are you passionate about data and analytics and eager to drive significant business impact? Procter &
+Gamble is looking for interns interested in various roles within the data and analytics domain, including Data Engineers, Data Asset Managers, and AI Engineers.
+You will have the opportunity to apply innovative technologies to solve complex business problems and contribute to data-driven decision-making. The work you
+will be doing could range from analyzing large datasets to providing actionable insights, managing data assets to ensure data quality and accessibility, to
+engineering robust data pipelines that feed analytical models and support business operations. Regardless of the specific role, as a Data, Analytics, & AI
+Engineering intern, you will be someone who leverages data to solve business problems. Example Responsibilities by Role Type: Data Engineer: Design, build, and
+maintain cloud-based data and analytics platforms and data pipelines that acquire, cleanse, transform, and publish data from a wide range of sources. Develop
+large, complex datasets that support both functional and non-functional business requirements, while partnering with data asset managers, architects, and
+development leads to deliver high-quality, fit-for-purpose data solutions aligned with enterprise architecture standards. Contribute to and apply coding
+standards and best practices to create efficient, scalable, and reusable services and components. Design and implement process improvements that enhance
+operational efficiency, data quality, and overall platform performance. AI Engineer: Drive proof-of-concept development and experimental initiatives to evaluate
+emerging technologies, advanced models, and innovative solutions. Engineer high-quality, standards-compliant, and rigorously tested software while contributing
+reusable code, frameworks, and tools to shared repositories, enterprise libraries, and open-source projects in alignment with P&G IT policies. Design, develop,
+and optimize data models, feature engineering capabilities, data quality assurance processes, ETL/ELT pipelines, and scalable distributed computing
+architectures. Deploy, monitor, and enhance algorithmic solutions across cloud platforms, leveraging cloud-native services to ensure reliability, scalability,
+efficiency, and business impact. Data Asset Manager: Leading data governance activities aligned with the organization’s data strategy within assigned areas of
+accountability. Serve as trusted advisors to business partners, influencing strategic decisions and driving the continuous improvement of data governance
+practices. Oversees critical data management functions such as data quality, data operations, storage, reference and master data, data standards, security,
+vendor governance, and metadata management to ensure data is accurate, secure, accessible, and fit for business use. As an intern, you will experience a subset
+of the above responsibilities Job Qualifications You must be available during the summer of 2027 for a 12 week internship from mid/late May through early
+August. In the process of obtaining a Bachelor’s in Computer Science, Computer Engineering, Data Engineering, Data Science, Applied Math, Statistics, Analytics
+or like degrees. Strong analytical and problem-solving skills with experience in programming languages such as Python, SQL, R, or similar (Experience in a
+specific language is not required; you will be expected to learn new languages). Familiarity with data visualization tools (e.g., Tableau, Power BI) and
+understanding of data management practices. Ability to communicate technical concepts to both technical and non-technical colleagues effectively. Preferred: A
+history of solving complex problems with innovative solutions. Experience with cloud platforms such as Microsoft Azure or Google Cloud Platform. Understanding
+of data governance and data quality best practices. Relevant experience or coursework in data analysis, data management, or related fields. Compensation for
+roles at P&G varies depending on a wide array of non-discriminatory factors including but not limited to the specific office location, role, degree/credentials,
+relevant skill set, and level of relevant experience. At P&G compensation decisions are dependent on the facts and circumstances of each case. Total rewards at
+P&G include salary + bonus (if applicable) + benefits. Your recruiter may be able to share more about our total rewards offerings and the specific salary range
+for the relevant location(s) during the hiring process. At P&G, we believe that diverse experiences help build strong leaders. Mobility is a key component of
+many management careers, providing opportunities to grow through different assignments, locations, and business challenges. Candidates should be prepared to
+consider relocation opportunities throughout their career as business needs and development opportunities arise. We are committed to providing equal
+opportunities in employment. We value diversity and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age,
+marital status, veteran status, or disability status. Immigration Sponsorship is not available for this role. For more information regarding who is eligible for
+hire at P&G along with other work authorization FAQ’s, please click HERE. Procter & Gamble participates in E-Verify. Qualified individuals will not be
+disadvantaged based on being unemployed. P&G is dedicated to meeting the needs of applicants requesting an accommodation/adjustment due to a disability in order
+to complete the online application process. If you have a disability that affects your ability to complete our online application process, please visit our
+Disability Accommodation Page. Job Schedule Full time Job Number R000157499 Job Segmentation Internships Starting Pay / Salary Range $29.00 - $50.00 / hour P&G
+was founded over 180 years ago as a simple soap and candle company. Today, we’re the world’s largest consumer goods company and home to iconic, trusted brands
+that make life a little bit easier in small but meaningful ways. We’ve spanned three centuries thanks to three simple ideas: leadership, innovation and
+citizenship. The insight, innovation and passion of talented teams has helped us grow into a global company that is governed responsibly and ethically, that is
+open and transparent, and that supports good causes and protects the environment. This is a place where you can be proud to work and do something that matters.

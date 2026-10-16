@@ -1,0 +1,25 @@
+JOB RESPONSIBILITIES
+A highly collaborative, fast-growing team, Point72 Internal Alpha Capture (IAC) is developing scalable quantitative equity trading signals that leverage
+rigorous research, state-of-the-art machine learning methods, a broad range of public and proprietary data sources, and unparalleled computing power.
+We are looking for exceptional students to join us as quantitative researcher interns for Fall 2026, Spring 2027 and Summer 2027. Our interns will work closely
+with our team, receive comprehensive, in-depth training, and help develop novel signals that may have real impact.
+You will gain exposure to a variety of activities, which may include:
+- Conducting full pipeline signal research, from ideation, via implementation and backtesting, to eventual application.
+- Adapting and extending existing results in the broad field of machine learning; conducting novel research as needed to potentially develop new signals that
+may enhance portfolio returns.
+- Analyzing very large data sets to extract features useful for predictive models.
+- Providing research assistance to the team.
+- Helping improve the team’s research infrastructure.
+DESIRABLE CANDIDATES
+- Masters or PhD candidates in machine learning, computer science, finance, mathematics, or other quantitative disciplines.
+- Demonstrated ability to conduct independent research utilizing machine learning over large, possibly noisy, data sets.
+- Strong analytical and quantitative skills, and detail-oriented mindset.
+- Proficient in Python or C++, and Linux environment.
+- Excellent written and verbal communication skills, willing to proactively engage other team members in helping to foster a highly collaborative, team-oriented
+research environment.
+- Willing to take ownership of his/her work, working both independently and within a collaborative team.
+- Prior experience in the financial services industry is not required.
+- Commitment to the highest ethical standards.
+The annual base salary range is $120000.00-$180000.00 (USD). Actual compensation offered to candidate may vary from posted hiring range based upon geographic
+location, work experience, education, and/or skill level among other things. Details about eligibility for bonus compensation (if applicable) will be finalized
+at the time of offer.

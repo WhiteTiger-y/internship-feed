@@ -1,0 +1,28 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team
+and see how you can make a lasting impact on the world.
+We are now looking for cuTile Core Compiler Architect in our group! The NVIDIA Architecture group is looking for world class architects and engineers to join
+and lead our various architecture efforts. A key part of NVIDIA's strength is to innovate in the graphics and parallel computing fields delivering the highest
+performance in the world for parallel processing algorithms. We are constantly looking for ways to improve our GPU architecture and maintain our leadership by
+developing new parallel programming models, new architectures and new infrastructure that is required to make this successful.
+What you'll be doing:
+- Design and implement the DSL and the core compiler of tile-aware GPU programming model for emerging GPU architectures
+- Continuously innovate and iterate on the core architecture of the compiler to consistently optimize performance
+- Investigation of next-generation GPU architectures and provide solutions in the DSL and compiler stack
+- Explore the optimal form of compiler/DSL in the era of agentic coding
+- Performance analysis on emerging AI/LLM workloads and integrate with AI/ML frameworks
+What we need to see:
+- Masters or PhD or equivalent experience in relevant discipline (CE, CS&E, CS, AI)
+- Excellent C/C++ programming and software engineering skills, ACM background is a plus
+- Good fundamental knowledges on computer architecture
+- Strong ability in abstracting problems and the methodology in resolving problems
+- Strong compiler backgrounds including MLIR/TVM/Triton/LLVM is desired
+- Good knowledge of GPU architecture and fast kernel programming skills is a plus
+- Knowledge of LLM algorithms or a certain HPC domain is a plus
+- Knowledge of multi-GPU distributed communication is a plus
+- Familiarity with the agentic coding development workflow is a plus
+- Excellent oral communication in English is a plus
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package.
+As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/

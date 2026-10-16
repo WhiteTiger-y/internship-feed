@@ -1,0 +1,82 @@
+Job Application for Software Engineering Intern, AML Platform (Summer 2027) at HP IQ
+Back to jobs
+Software Engineering Intern, AML Platform (Summer 2027)
+San Francisco, CA
+Apply
+Who We Are
+HP IQ is HP’s new AI innovation lab. Combining startup agility with HP’s global scale, we’re building intelligent technologies that redefine how the world
+works, creates, and collaborates.
+We’re assembling a diverse, world-class team—engineers, designers, researchers, and product minds—focused on creating an intelligent ecosystem across HP’s
+portfolio. Together, we’re developing intuitive, adaptive solutions that spark creativity, boost productivity, and make collaboration seamless.
+We create breakthrough solutions that make complex tasks feel effortless, teamwork more natural, and ideas more impactful—always with a human-centric mindset.
+By embedding AI advancements into every HP product and service, we’re expanding what’s possible for individuals, organisations, and the future of work.
+Join us as we reinvent work, so people everywhere can do their best work.
+About The Role
+HP IQ's AI Machine Learning (AML) team is building the foundational platform powering a new generation of agentic devices. This platform orchestrates the
+complete lifecycle of AI models: from creation and fine-tuning through optimized inference and intelligent orchestration. The team works to make complex AI
+capabilities run efficiently on-device, enabling locally-deployed agentic experiences that reduce token costs and improve privacy. In this internship role, you
+will contribute to one or more core pillars of the AML platform: model inference optimization, orchestration and agent workflows, or model creation and fine-
+tuning. You will partner closely with experienced engineers to ship features that directly impact HP's next-generation devices and gain visibility into how each
+component of an end-to-end AI system integrates and scales.
+What You Might Do
+- Work on model hosting and inference optimization, learning how to profile, benchmark, and accelerate model execution on resource-constrained devices;
+experiment with quantization, distillation, or other optimization techniques to reduce latency and memory footprint.
+- Contribute to orchestration frameworks and agent workflows, building or extending systems that coordinate multiple models and agents using tools like
+LangGraph or LangChain; develop an understanding of when agentic patterns are appropriate and how to design robust, scalable orchestrations.
+- Participate in model customization and fine-tuning, taking pre-trained language models and adapting them for specific use cases; conduct experiments, evaluate
+results, and iterate on model configurations to improve performance for target tasks.
+- Collaborate cross-functionally with system software, design, and product teams to understand how your work integrates into the broader platform; communicate
+progress, challenges, and technical decisions clearly and seek mentorship from engineers with deep expertise in your focus area.
+- Contribute to open-source projects or internal libraries relevant to inference, orchestration, or model training; demonstrate ownership of end-to-end outcomes
+and ownership of improving the platform's capabilities and reliability.
+Essential Qualifications
+- Currently pursuing a degree in Computer Science, Engineering, or related field, or equivalent practical experience. Some coursework or project experience in
+machine learning, systems engineering, or software development is expected.
+- Demonstrated technical communication skills: ability to articulate project goals, outcomes, challenges, and technical decisions clearly; comfort explaining
+technical concepts to peers and mentors.
+- Genuine familiarity with one or more of the following: model inference and optimization, orchestration frameworks (LangGraph, LangChain), model fine-tuning
+and adaptation, or similar systems-level AI work. Project experience, open-source contributions, or course projects demonstrating depth in at least one area are
+highly valued.
+- Collaboration and ownership mindset: comfort working in cross-functional teams, asking for help when needed, and taking responsibility for outcomes; ability
+to operate with some ambiguity and seek clarity proactively.
+- Problems-solving orientation: ability to debug issues, evaluate technical tradeoffs, and make reasonable decisions when multiple approaches are viable.
+Preferred Skills
+- Open-source contributions to inference engines (e.g., vLLM), model repositories, or orchestration libraries; demonstrated ability to contribute meaningfully
+to a shared codebase.
+- Experience with Python and ML-adjacent libraries (PyTorch, TensorFlow, HuggingFace, FastAPI, or similar).
+- Familiarity with on-device or edge AI constraints and optimization techniques.
+- Experience with system-level profiling and performance optimization.
+Hourly Pay Range: $45.00–$51.00 per hour. Actual compensation will be determined based on factors such as skills, qualifications, and experience.
+2027 Internship Program Dates: May/June–August/September 2027. Final dates will be based on student schedules.
+Compensation & Benefits (Full-Time Employees)
+The salary range for this role is listed above. Final salary offered is based upon multiple factors including individual job-related qualifications, education,
+experience, knowledge and skills.
+At HP IQ, we offer a competitive and comprehensive benefits package, including:
+- Health insurance
+- Dental insurance
+- Vision insurance
+- Long term/short term disability insurance
+- Employee assistance program
+- Flexible spending account
+- Life insurance
+- Generous time off policies, including;
+- 4-12 weeks fully paid parental leave based on tenure
+- 11 paid holidays
+- Additional flexible paid vacation and sick leave ( US benefits overview )
+Why HP IQ?
+HP IQ is HP’s new AI innovation lab, building the intelligence to empower humanity—reimagining how we work, create, and connect to shape the future of work.
+- Innovative Work
+Help shape the future of intelligent computing and workplace transformation.
+- Autonomy and Agility
+Work with the speed and focus of a startup, backed by HP’s scale.
+- Meaningful Impact
+Build AI-powered solutions that help people and organisations thrive.
+- Flexible Work Environment
+Freedom and flexibility to do your best work.
+- Forward-Thinking Culture
+We learn fast, stay future-focused, and imagine what comes next—together.
+Equal Opportunity Employer (EEO) Statement
+HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin,
+ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability,
+medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by
+applicable national, fed

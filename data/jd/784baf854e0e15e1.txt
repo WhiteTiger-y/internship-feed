@@ -1,0 +1,51 @@
+Machine Learning Software Engineer Intern - Summer 2027
+Machine Learning Software Engineer Intern - Summer 2027
+About Rippling
+Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company,
+like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.
+Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and
+even third-party apps like Slack and Microsoft 365—all within 90 seconds.
+Based in San Francisco, CA, Rippling has raised $1.4B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and
+Bedrock—and was named one of America's best startup employers by Forbes.
+We prioritize candidate safety. Please be aware that all official communication will only be sent from @ Rippling.com addresses.
+About the Role
+At Rippling, Engineering is at the heart of our business and culture. We believe in our early talent’s potential, experience and aspirations. Our mission is to
+open the realm of possibilities and opportunities for students by fostering growth through mentorship and training, ownership through impactful and innovative
+projects, and, of course, fun through our diverse culture and work hard, play harder attitude. As an Engineering Intern, you will join the Machine Learning Team
+in Summer 2027 (May/June - August/September) to develop robust, well-designed products, implement new updates and features, and solve complex problems that
+affect our business and our clients. Rippling Interns gain the experience of full-time engineers with responsibilities, ownership, and opportunity. Interns will
+be assigned projects that not only have an impact on the business, but that are also scoped to fit within the time constraints of their internship so they can
+see the full impact of their work.
+We provide our interns exciting and innovative projects to work on that allow them to see the fruition of their work. During your 13 weeks at Rippling, we will
+provide all of the tools needed to be successful. Your dedicated mentor and manager will provide support for your learning and development throughout your time
+with us. You will join your fellow interns in a variety of socials, talks with Rippling leaders, and more!
+What you will do
+- Translate product needs into crisp mathematical formulations (models); train those models; and, with a small team ship them to production.
+- Learn how to design scalable machine learning pipelines for data preprocessing, feature engineering, model training, and evaluation. You will work with data
+engineers to collect and preprocess data sets for model training.
+- Stay up-to-date with the latest research in ML and related fields, and apply this knowledge to improve Rippling products.
+What you will need
+- Currently enrolled in a M.Sc. or Ph.D. program in computer science or in a related field during the course of the internship.
+- Solid programming skills with an emphasis on backend experience and knowledge. Our production code base is primarily Python, PySpark, and PyTorch.
+- Excellent communication skills.
+- Passion to learn and develop your skills, both in machine learning and software engineering.
+Additional Qualifications
+- Experience with developing things that use large language models (LLMs) and familiarity with pre-training and fine-tuning techniques.
+Even if you don’t meet all of the requirements listed here, we still encourage you to apply. Skills can be used in lots of different ways and your life and
+professional experience may be relevant beyond what our list of requirements has outlined.
+For more information no the team, please go to our website and read more about Rippling AI!
+Additional Information
+Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion,
+color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity,
+gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing
+reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email
+accomodations@rippling.com
+Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees
+who live within a 40 mile radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an
+essential function of the employee's role. Interns will be based out of one of our San Francisco and New York offices.
+Apply now
+Engineering
+San Francisco, CA
+Share on:
+Apply now
+Terms of service Privacy Cookies Powered by Rippling

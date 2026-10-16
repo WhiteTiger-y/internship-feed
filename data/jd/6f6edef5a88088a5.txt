@@ -1,0 +1,30 @@
+We are now looking for a PhD Research Interns for our Circuits team. Advanced circuit design is critically important in the post-Moore’s Law age. Without the
+ability to scale process to increase performance and reduce power, we must rely more and more on creative architectural and underlying circuit solutions to
+provide continuing advancement from generation to generation.
+NVIDIA Research is seeking world-class circuit researchers to contribute to the exploration of future high-performance, low-power circuit technologies and
+development of prototype circuits. If you have a strong circuits background, desire to collaborate with elite researchers on critical problems, and a vision
+about how to advance the state-of-the-art, the team will be a great fit for you. NVIDIA has an ambitious circuit research agenda that involves taking circuit
+technology to the next level. This position offers an opportunity to have a real impact in a fast-moving technology-focused company.
+What you’ll be doing:
+Explore circuit approaches to optimizing processor computation and interconnect performance and power.
+Design and implement circuit approaches in prototype systems.
+Collaborate with other researchers and a diverse set of internal product teams across research and product roles.
+Transfer technology to product groups.
+What we need to see:
+Pursuing a PhD in Electrical Engineering, Computer Science/Engineering, or related field.
+Excellent knowledge and broad background of theory and practice of circuit design.
+Depth in one or more areas of high-performance circuit design (PLLs and clocking, SerDes and high-speed signaling, photonics, SRAMs, power delivery/regulation,
+security circuits, and high-speed logic), advanced packaging technologies, or thermal analysis/design.
+Track record of research excellence or significant product development.
+Excellent communication and collaboration skills.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative, autonomous and love a challenge, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

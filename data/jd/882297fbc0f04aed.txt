@@ -1,0 +1,22 @@
+We are now looking for a Software Development Engineer to help TensorRT LLM and TensorRT Edge LLM projects! NVIDIA is hiring software engineers for its AI
+Computing team. Academic and commercial groups around the world are using GPUs to power a revolution in deep learning-powered AI, enabling breakthroughs in
+areas like LLM, ChatGPT and GenerativeAI that has put DL at the “iPhone moment” for AI. Join the team which is building the inferencing software which will be
+used across our product lines! The ability to work on a fast-paced delivery-focused team is required and excellent interpersonal skills are a must.
+What you'll be doing:
+- Craft and develop robust inferencing software that can be scaled to multiple platforms for functionality and performance
+- Performance analysis, optimization and tuning
+- Closely follow academic developments in the field of artificial intelligence and large language models
+- Provide feedback into the architecture and hardware design and development
+- Collaborate across the company to guide the direction of machine learning inferencing, working with software, research and product teams
+- Publish key results in scientific conferences
+What we need to see:
+- Pursuing Masters or higher degree in Computer Engineering, Computer Science, Applied Mathematics or related computing focused degree
+- Relevant software development experience.
+- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+- Strong curiosity about artificial intelligence, awareness of the latest developments in deep learning like LLMs, generative and recommender models
+- Experience working with deep learning frameworks like TensorFlow and PyTorch
+- Proactive and able to work without supervision
+- Excellent written and oral communication skills in English
+NVIDIA is widely considered to be one of technology’s most desirable employers. We have some of the most forward-thinking and hardworking people on the planet
+working for us. Does the idea of contributing to and pushing the boundaries of state-of-the-art AI and Compute systems excite you? Interested in getting
+exposure to the entire DL SW stack? Come join us and help build the GPU-accelerated DL platform used worldwide.

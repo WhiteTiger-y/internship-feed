@@ -1,0 +1,74 @@
+Who We Are
+Perchwell is the modern real estate listings platform built for agents to search smarter, collaborate better, and close deals faster. We are building the future
+of residential real estateʼs critical listings infrastructure: a platform where market research and client collaboration converge. Our modern architecture
+enables continuous innovation at a pace legacy systems cannot match, with AI-powered features and mobile-first capabilities designed for how agents actually
+work. As consumer expectations and technology evolve, Perchwell remains focused on our core vision: empowering real estate professionals with the most
+intelligent, data-driven, and connected platform in the industry.
+Backed by leading venture capital firms including Lux Capital and Founders Fund, along with strategic partnerships with some of the country's top Multiple
+Listing Services (MLSs), Perchwell represents the first major new platform to enter the listings technology market in decades. This unique combination of
+institutional investment and deep industry alignment provides both the resources and market validation needed to transform the multi-trillion dollar residential
+real estate industry.
+About this Role
+Perchwell is expanding rapidly across the US, and every new MLS client brings a data source we haven't worked with before. Our Data Analytics Engineering team
+owns what happens next: understanding what is actually in that data, transforming it into our warehouse, and building the intelligence layer that sits on top of
+it. This summer, you'll work on that alongside our analytics engineers and data engineers, supporting both the MLS customers we serve today and the ones we're
+onboarding next.
+What We’re Looking For
+Rising seniors enrolled in a CS, data science, statistics, or other STEM degree program who are looking to intern at a fast paced SaaS company this summer.
+Passionate problem solvers who thrive in fast moving environments.
+Strong communicators and team players who can work cross functionally.
+Careful thinkers who chase down a number that looks wrong instead of passing it along.
+Eager learners who want to gain real world analytics engineering experience.
+What You’ll Do
+Understand New Data: Profile the data we are ingesting for new clients and partner with members of the broader engineering org to identify the most effective
+patterns for onboarding them into our standard reporting product.
+Build and Ship: Extend the dbt models that transform raw MLS data into our warehouse, adding the tests and documentation the rest of the team depends on.
+Build Intelligence: Strengthen the layer that sits on top of the warehouse, including metric definitions, semantic models, and the dashboards internal teams and
+customers rely on.
+Own a Project: Take ownership of a summer project, making key modeling, tooling, and implementation decisions. Profiling and mapping a new non MLS data source
+is one strong candidate.
+Collaborate and Learn: Partner with analytics engineers, data engineers, product managers, and customer facing teams to turn open questions into answers people
+can act on.
+Deliver Impact: Work on scalable solutions from broadly defined problems and see your work in production.
+Why This Internship?
+Dedicated Mentor: You'll work 1:1 with an experienced analytics engineer who will provide mentorship and support your growth.
+Real Ownership: Over 10 weeks, early June to mid August, you will choose and lead your own project, making key decisions along the way.
+Fully In Person Experience: This is a full time, in-office internship based at our beautiful New York City HQ in Soho. You'll work on site five days a week and
+collaborate closely with our team, gaining hands-on experience in a fast paced, learning oriented environment.
+Showcase Your Work: At the end of the summer, present your project to our executive and data teams.
+Work on Real Data: Beyond your project, you'll contribute to models, tests, and dashboards running in production against live customer data.
+NYC Perks and Fun: From team dinners to museum trips, immerse yourself in the greatest city in the world while working with an awesome team.
+Required for the Role
+Working familiarity with RDBMS storage systems and SQL, including joins, aggregations, and CTEs. You don't need window functions yet, but you should want to
+learn them.
+Curiosity about where data comes from and what it represents, not just how to query it.
+Attention to detail and an instinct for when something doesn't add up.
+Strong communication and problem solving abilities.
+Excitement to learn, grow, and build.
+Bonus Points for the Following
+Coursework, projects, or prior internship experience with a cloud data warehouse such as Redshift, Snowflake, or BigQuery.
+Exposure to dbt or another transformation framework.
+An understanding of Python for working with data, such as pandas in coursework or personal projects.
+Familiarity with Git and version controlled workflows.
+Experience with a BI tool such as Looker, Tableau, Mode, or Metabase.
+Any project, academic or personal, where you took messy source data and made it usable.
+Demonstrated leadership skills developed during your college experience.
+Internship Information
+Internship Dates: June 7 - August 13, 2027
+Application Deadline: Applications for this internship close on October 18, 2026, at 11 PM ET. Be sure to apply by the deadline to be considered! We will be
+reviewing all applications, so please take the time to submit a thoughtful application.
+Offers: Internship offers will be extended by November 25, 2026.
+Salary Information
+$12,000 for 10 weeks (minus applicable taxes and withholdings)
+Excited to launch your career with a tech startup in NYC? Apply now and build something meaningful with us in Summer 2027!
+Note: Benefits package listed below is for reference only for those who later join Perchwell full-time.
+Strong Benefits Package
+Flexible PTO, plus 10 paid company holidays
+401K with a company match
+Medical, dental, and vision plans
+HSA and FSA options
+Commuter benefits
+Parental leave
+Company-wide onsite or offsite each year
+Beautiful office in Soho, Manhattan with a stocked kitchen, catered breakfast and lunch once per week, happy hours and meet-ups
+Note: At this time, we are only considering candidates who are authorized to work in the U.S.

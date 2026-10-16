@@ -1,0 +1,69 @@
+Description
+Are you interested in helping to tackle the challenge of defending our nation against air, ballistic, and hypersonic missile threats?
+Do you want to help ensure that our nation’s afloat and ashore forces can effectively command and control defensive systems to counter these threats?
+Do you enjoy solving problems by working with interdisciplinary teams and developing and applying new skills?
+If so, we’d love to have you join our team! We are a team of engineers and scientists who perform innovative research, modeling, analysis, testing, and
+prototype development in the missile defense and electronic warfare domains. We focus on ensuring command and control resiliency in these domains, where our
+nation’s afloat and ashore forces face degraded, hostile, and uncertain conditions. We are seeking interns with interest and skills in both software development
+and analysis to help us develop algorithms, create models, run simulations, and/or analyze test data to ultimately improve the capabilities of our nation's
+developmental and deployed defensive systems.
+As a member of our team...
+- You will work as part of an interdisciplinary team to model, simulate, analyze, and/or develop software for missile defense or electronic warfare systems.
+- You will learn about the warfighting missions and domains where our team has impact.
+- You will gain technical experience in algorithm development, model implementation, data analysis, and/or software development.
+Qualifications
+You meet our minimum qualifications for the job if you...
+- Are pursuing a Bachelor's, Master's, or PhD degree in engineering, data science, computer science, physics, applied math, or a related field with a minimum
+3.0 GPA on a 4.0 scale.
+- Have a passion for developing software and analyzing data.
+- Have experience with C++, Java, or similar.
+- Have experience with Matlab or Python.
+- Are able to obtain an Interim Secret level security clearance by your start date, and can ultimately obtain a Secret level clearance. If selected, you will be
+subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include
+U.S. citizenship.
+You'll go above and beyond our minimum requirements if you…
+- Have prior academic or practical experience modeling and/or analyzing complex system behaviors.
+- Already possess a Secret level (or higher) security clearance.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers .
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu .
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly
+Are you interested in helping to tackle the challenge of defending our nation against air, ballistic, and hypersonic missile threats?
+Do you want to help ensure that our nation’s afloat and ashore forces can effectively command and control defensive systems to counter these threats?
+Do you enjoy solving problems by working with interdisciplinary teams and developing and applying new skills?
+If so, we’d love to have you join our team! We are a team of engineers and scientists who perform innovative research, modeling, analysis, testing, and
+prototype development in the missile defense and electronic warfare domains. We focus on ensuring command and control resiliency in these domains, where our
+nation’s afloat and ashore forces face degraded, hostile, and uncertain conditions. We are seeking interns with interest and skills in both software development
+and analysis to help us develop algorithms, create models, run simulations, and/or analyze test data to ultimately improve the capabilities of our nation's
+developmental and deployed defensive systems.
+As a member of our team...
+- You will work as part of an interdisciplinary team to model, simulate, analyze, and/or develop software for missile defense or electronic warfare systems.
+- You will learn about the warfighting missions and domains where our team has impact.
+- You will gain technical experience in algorithm development, model implementation, data analysis, and/or software development.
+You meet our minimum qualifications for the job if you...
+- Are pursuing a Bachelor's, Master's, or PhD degree in engineering, data science, computer science, physics, applied math, or a related field with a minimum
+3.0 GPA on a 4.0 scale.
+- Have a passion for developing software and analyzing data.
+- Have experience with C++, Java, or similar.
+- Have experience with Matlab or Python.
+- Are able to obtain an Interim Secret level security clearance by your start date, and can ult

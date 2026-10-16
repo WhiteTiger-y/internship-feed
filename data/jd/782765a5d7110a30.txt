@@ -1,0 +1,25 @@
+Pangram Labs is hiring talented AI Research Interns for Spring or Summer 2027.
+Research interns conduct research relating to frontier AI detection research or related topics, with the goal of publishing a paper in a major conference venue.
+Examples of past internship projects at Pangram include EditLens ( https://arxiv.org/pdf/2510.03154 ) and Scaling Laws for Wild AI Text (
+https://arxiv.org/abs/2609.40295 ).
+What You’ll Work On
+Interns are assigned a mentor, and choose a research topic or area prior to the internship. Current active research areas within Pangram include:
+Adversarial Robustness: how do detectors perform against humanizers and adversarial paraphrasing?
+Interpretability: can we build more explainable, interpretable AI detection?
+Mixed Human/AI Authorship: how can we quantify the different facets of human-AI coauthorship?
+New Architectures: how can we optimize Pangram’s architecture for efficiency or even higher levels of accuracy?
+Multimodal Detection: how can we improve AI detection for images, video, and audio?
+Effects of AI-Generated Data on LLM Training: what is the effect of AI-generated data on foundation model training?
+Agentic AI detection: how can we harness the power of agents to give Pangram more context about authorship?
+Topics of your choice: propose an original topic relevant to AI detection
+Requirements
+Currently pursuing an M.S. or Ph.D. in Computer Science/Artificial Intelligence. Exceptional undergraduates entering their senior year are welcome to apply.
+Prior research experience that has resulted in a published paper in a top AI venue.
+Fluency in deep learning fundamentals and experience training neural networks.
+Excellent programming skills in Python and a deep learning framework like Pytorch.
+Experience working with an AI agent for research like Claude Code or Codex.
+Compensation
+$8,000-$11,000 per month
+Relocation stipend available
+In-office lunch
+Top interns may receive return offers for full-time roles

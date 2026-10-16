@@ -1,0 +1,28 @@
+Join our multidisciplinary team and help build and improve GPU and CPU accelerated software libraries. Starting from powering AI, data analytics, image
+processing, computer vision, and scientific simulations for leading commercial and academic organizations worldwide.
+In this role you will be part of our team responsible for the development of libraries that provide groundbreaking functionality and performance. The internship
+may include extending the capabilities of existing as well as building new libraries that will be used in various AI, HPC or medical applications. It will
+involve working with senior software engineers who will provide mentorship and guidance. The project will include implementing new image and data processing
+algorithms, defining APIs, analyzing performance, finding appropriate solutions for difficult numerical corner cases, and other general software engineering
+work.
+What you’ll be doing:
+- Collaborating with team members and other partners to understand software use cases and requirements.
+- Research, analyze, and document state-of-the art algorithms
+- Develop algorithms for image and data compression and processing
+- Analyze and improve performance of existing implementations
+What we need to see:
+- Pursuing a degree in Computer Science, Artificial Intelligence, Applied Math, or related field
+- Programming skills (C/C++, Python)
+- Parallel or GPU programming experience (AVX, NEON, OpenMP, MPI, CUDA or OpenCL)
+- Experience with image coding (jpg, tiff, etc) or data compression algorithms (LZW, DEFLATE, etc)
+Ways to stand out from the crowd:
+- Knowledge of image processing algorithms
+- Performance analysis and test design skills
+- Familiarity with floating-point arithmetic internals and numerical error analysis.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative and autonomous, we want to hear from you!
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender,
+sexual orientation, age, marital status, veteran status, or disability status.
+#LI-Hybrid
+Our internship pay is based on the position, your location, year in school, degree, and experience. For Poland: the annual range for our interns is 117,750 PLN
+- 204,100 PLN. (pro-rated for the duration of the internship).

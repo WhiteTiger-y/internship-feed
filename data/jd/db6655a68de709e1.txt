@@ -1,0 +1,24 @@
+The place to find available career opportunities at NVIDIA for you and people you know. We are now looking for a Performance Software Intern for Deep Learning
+Libraries! Do you enjoy tuning parallel algorithms and analyzing their performance? If so, we want to hear from you! As a deep learning library performance
+software intern, you will be developing optimized code to accelerate linear algebra and deep learning operations on NVIDIA GPUs. Join the team that is building
+the underlying software used across the world to power the revolution in artificial intelligence! We’re always striving for peak GPU efficiency on current and
+future-generation GPUs. To get a sense of the code we write, check out our CUTLASS open-source project showcasing performant matrix multiply on NVIDIA’s Tensor
+Cores with CUDA. This specific position primarily deals with code lower in the deep learning software stack, right down to the GPU HW.
+What you'll be doing:
+- Writing highly tuned compute kernels to perform core deep learning operations (e.g. matrix multiplies, MoE, Attention)
+- Following general software engineering best practices including support for regression testing and CI/CD flows
+- Collaborating with teams across NVIDIA:
+Compiler team on generating optimal assembly code
+Deep learning training and inference performance teams on which layers require optimization
+Hardware and architecture teams on the programming model for new deep learning hardware features
+What we need to see:
+- Pursuing Masters or PhD degree in Computer Science, Computer Engineering, Applied Math, or related field
+- Demonstrated strong programming and software design skills, including debugging, performance analysis, and test design
+- Experience with performance-oriented parallel programming, even if it’s not on GPUs (e.g. with OpenMP or pthreads)
+- Solid understanding of computer architecture and some experience with assembly programming
+- Identify bottlenecks, optimize resource utilization, and improve throughput.
+Ways to stand out from the crowd:
+- Tuning deep learning library kernel code
+- CUDA GPU programming
+- Numerical methods and linear algebra
+- LLVM, TVM tensor expressions, or TensorFlow MLIR

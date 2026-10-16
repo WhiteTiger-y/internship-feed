@@ -1,0 +1,62 @@
+Description
+Who We Are:
+Payments, Orchestrated.
+Chattanooga-based Transcard offers comprehensive global payment orchestration solutions for banks, fintechs, and businesses. Our embedded payment solutions
+enable seamless transactions, collaboration, and data sharing with customers and suppliers worldwide. Features include disbursements, receivables, account-to-
+account payments, cross-border payments, AI insights, and supply chain financing.
+Transcard’s solutions combine multi-rail capabilities, embedded workflows, system of record integration, effortless reconciliation, and bank-grade security to
+support B2B and B2C payments for businesses of all sizes. Streamline financial operations with digital payments, monitor real-time activity, reduce fraud risk,
+and improve customer and vendor experience with an all-in-one payment portal.
+Position Details:
+Transcard offers an internship program in the FinTech industry. Our program is designed to provide you with meaningful projects utilized by the business. You’ll
+see the direct impact of your contribution and get an inside perspective of your desired field while working alongside some of the best in our industry.
+We continually strive to identify qualified individuals for post-graduate opportunities beyond the internship program.
+This intern position will operate Monday-Friday during standard business hours. This position is a paid internship, compensation will be based on the
+qualifications of the applicant.
+Our goal is to allow you to gain a better understanding of the day-to-day responsibilities within the Information Technology department while working toward
+your professional goals as related to your academic coursework.
+Location:
+Our corporate office is located in Chattanooga, TN.
+We prefer our interns to be onsite in Chattanooga, TN. We do offer remote capabilities for qualified individuals. Candidate must reside in the US. We are unable
+to offer visa sponsorship.
+Benefits:
+Transcard offers benefits starting the first of the month following the month of hire for our full-time employees (Medical, Dental, & Vision, 401(k) Match!,
+Paid Time Off, Life-Disability Insurance, and more)
+Please apply and see more job requisitions at:
+https://www.transcard.com/careers
+Essential Duties and Responsibilities:
+The Artificial Intelligence internship will start with a one-on-one meeting with the Chief Technology Officer or your designated personnel to discuss the
+professional goal of your academic coursework to ensure you meet all academic requirements during the internship. Additionally, the internship will be
+supervised by the Senior Vice President of Technology to provide routine feedback and status updates. There will be an exit interview with the Chief Technology
+Officer and the Director of Human Resources for continual improvement of the program. The Artificial Intelligence internship will provide exposure to a variety
+of opportunities, such as: building and testing features for AI-powered applications, participation in sprint/scrum and design reviews for AI projects, and
+collaboration with engineering, sales, and marketing teams to translate business needs into AI-driven solutions.
+· Learn and apply foundational concepts in artificial intelligence and machine learning through hands-on project work.
+· Assist in developing and improving features for the company's AI-powered applications and tools.
+· Help troubleshoot and resolve issues within AI-powered applications under the guidance of senior engineers.
+· Support testing and quality checks on AI systems and related components to help ensure reliability and safety.
+· Assist with reviewing and supporting security and access-related configurations for AI systems.
+· Participate in code reviews, sprint planning, and design discussions to gain exposure to the AI development lifecycle.
+· Collaborate with cross-functional teams to understand how AI features support broader business and customer needs.
+Requirements
+· Familiarity with Python or another programming language commonly used in AI/ML development.
+· Exposure to machine learning, natural language processing (NLP), or large language model (LLM) concepts through coursework or personal projects.
+· Basic understanding of version control systems (e.g., Git) and collaborative development workflows.
+· Strong analytical and problem-solving skills, with the ability to troubleshoot and debug technical issues.
+· Interest in responsible AI practices, including data privacy, security, and AI safety considerations.
+· Ability to learn new tools, frameworks, and systems quickly in a fast-paced environment.
+· Preferred: Coursework or project experience involving APIs, cloud platforms, or chatbot/conversational AI development.
+· Ability to work remotely and independently from direct supervisor as needed.
+· Must have great time management, communication, and organizational skills.
+· Proficient in MS Word, Excel, PowerPoint, and Outlook.
+Education and/or Certifications
+· Completed or currently working towards a Bachelor's degree in Computer Science, Information Technology, Data Science, Artificial Intelligence, Machine
+Learning, Computer Engineering, or a related field.
+· Preferred coursework: Machine Learning, Artificial Intelligence, Natural Language Processing, Data Structures & Algorithms, Statistics/Probability, Software
+Engineering, or Cybersecurity/Information Security.
+· Preferred: Computer Engineering Technologies & Technicians.
+The above statements are intended to describe the general nature and level of work performed by people assigned to this classification. They are not intended to
+be a complete list of duties performed.
+Please do not contact hiring managers directly or attempt to inquire outside of the application portal. Only applications submitted through the official process
+will be considered.
+No resumes from 3rd party vendors will be accepted at this time.

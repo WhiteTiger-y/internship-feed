@@ -1,0 +1,34 @@
+NVIDIA Research is seeking PhD-level students to work as research interns at the intersection of AI HW/SW Co-Design, Hardware Accelerator Architecture, IC
+Design Methodology, and VLSI Design. Ideal candidates will have a broad perspective across areas including machine learning fundamentals, quantization and
+numerical methods for machine learning model optimization, digital VLSI circuits for computer arithmetic, high-productivity VLSI design and verification
+methodologies including applications of agentic AI to hardware design, AI hardware micro-architecture, and VLSI methodology and implementation.
+What You’ll Be Doing:
+- Accelerator Design: Contribute to novel research advancing the state-of-the-art in the design of accelerators for AI and other high-impact workloads.
+- VLSI: Research creative and innovative ASIC and VLSI design techniques and/or novel digital VLSI circuits. Apply machine learning, agentic AI, and state-of-
+the-art tools and methodologies to automated ASIC and VLSI design tool flows.
+- AI HW/SW Co-Design: Research and develop creative and innovative numerical methods for quantization, sparsity, or tensor decomposition grounded in computer
+arithmetic fundamentals and digital VLSI circuits.
+- Collaborate on the development of research prototype testchips.
+- Collaborate with AI researchers and hardware team members in research and product teams.
+- Plan to publish and present your original research.
+What We Need To See:
+- Pursuing a PhD in Electrical Engineering, Computer Engineering, Computer Science, or related field.
+- Publication records in leading ML, architecture, VLSI, or circuits conferences.
+- Excellent programming skills in Python/PyTorch and hardware design languages such as SystemVerilog/C++; Experience with High-Level Synthesis (HLS) tools is a
+plus.
+- VLSI Implementation Skills: Experience in hardware design with proficiency with modern EDA tool flows; Tapeout experience is a plus.
+- Excellent self-motivation, a high degree of creativity, and a passion for research, collaboration skills, and the ability to work effectively within a
+research team.
+- Excellent written and verbal communication skills, with proven experience communicating technical work (e.g., academic presentations, poster sessions);
+ability to synthesize and explain complex technical concepts.
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA has some of the most forward-thinking and hardworking people in the world
+inventing the future for us. Are you a creative and collaborative researcher interested in seeking new challenges? If so, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

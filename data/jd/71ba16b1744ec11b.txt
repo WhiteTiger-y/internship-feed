@@ -1,0 +1,86 @@
+Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A58228A
+Apply to this job Share this listing:
+Responsibilities
+Our Business Integrity team has a strong user focus and a dedication to technical excellence. We aim to meet our users' needs with reliable and high-performing
+platforms and services. We are looking for strong machine learning engineers who are excited to grow their business understanding, build highly scalable machine
+learning models, and partner across disciplines with global teams, in pursuit of excellence. Given the fast growth of TikTok in the world, we are working on
+building a next-generation content understanding system for TikTok monetization. We are seeking Research Engineers who are experienced in machine learning,
+which can help us create an ecosystem that rewards high-quality user experience and advertiser value.
+Topic Content: With the explosive growth of digital content, intelligent moderation has become a core capability for internet platforms. However, as moderation
+scenarios grow increasingly complex and adversarial tactics continue to evolve, traditional approaches are facing unprecedented challenges. The current
+landscape is characterized by multiple technical difficulties, including the dynamic nature of moderation rules, content complexity, sample scarcity, escalating
+adversarial behaviors, and a lack of interpretability. In particular, existing open-source large models often do not perform as effective as we expect in
+scenarios involving evolving moderation rules, long-form text, long temporal sequences, multi-languages, limited sample data, and adversarial content generated
+by AIGC.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+In this role, you will build a leading moderation system that enables end-to-end capabilities for accurate rejection decisions, interpretable reasoning, and
+intelligent remediation, achieving fully automated moderation with performance surpassing human benchmarks.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Master's degree in Computer Science, Software Engineering, Electronic Engineering, Automation, Mathematics, Statistics, or a related
+technical discipline (completed, or expecting to graduate within 12 months). Exceptional Bachelor's candidates with strong research output will also be
+considered.
+- Research experience in one or more of the following areas — Ads, Search, Recommender Systems, NLP, CV, Multimodal, or Agent technologies — demonstrated
+through publications, thesis work, internships, or research projects.
+- Solid understanding of large language model methodology, including pre-training, post-training/alignment, and evaluation, with the ability to read, reproduce,
+and critique recent literature.
+- Ability to independently formulate a research problem, design controlled experiments, and draw sound conclusions from ambiguous results.
+- Proficient in Python and at least one deep learning framework such as PyTorch or TensorFlow.
+- Strong problem-solving ability, a collaborative mindset, and a genuine interest in translating research into real-world products.
+Preferred Qualifications:
+- Publications at top-tier venues (ICLR, NeurIPS, ICML, ACL, EMNLP, CVPR, ICCV, ECCV, TPAMI), or equivalent evidence of research ability.
+- Experience with RLHF / post-training, reasoning, or novel model architecture design.
+- Experience designing evaluation benchmarks or LLM/VLM-as-Judge methodologies.
+- Experience building agentic systems, RAG pipelines, or multimodal applications.
+- Track record of research that shipped into a production system.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and b

@@ -1,0 +1,85 @@
+Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent )- 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent )- 2027 Summer
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A217085A
+Apply to this job Share this listing:
+Responsibilities
+Team Introduction:
+Join the E-commerce Global Supply Chain and Logistics team at TikTok. We are building AI-native capabilities for global logistics, including logistics agents,
+address intelligence, context engineering, agent evaluation, and workflow automation for complex supply chain operations. This role is for candidates who want
+to apply LLMs, agents, reinforcement learning, retrieval systems, and software engineering to real logistics problems at global scale.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Responsible for supporting the development of large language models, agent systems, and related intelligent systems for the supply chain and logistics of the
+global E-Commerce business.
+- Participate in building domain LLM model capabilities for e-commerce supply chain and logistics, including continued pre-training / CPT, SFT, preference
+optimization, reinforcement learning such as GRPO / PPO, reward or judge model design, model compression, inference cost and latency optimization, and landing
+scenarios such as address correction, trajectory prediction, logistics cost analysis, customer service semantic understanding, and root-cause analysis.
+- Support multimodal and structured understanding capabilities for logistics and supply chain scenarios, focusing on unified modeling of text, numerical time
+series, events, product attributes, images, and documents to support scenario simulation, explainable prediction, and integration with existing forecasting or
+decision systems.
+- Support core agent capability development for team and business workflows, including AutoResearch, Harness-based task decomposition and execution loops, RAG
+and knowledge retrieval, context understanding, skill / tool use, evidence grounding, and Clone & Adapt workflows for reusing proven solutions across markets
+and logistics scenarios.
+- Support agent architecture, engineering, evaluation, and evolution work, including runtime orchestration, memory and state management, model / tool routing,
+permission-safe execution, observability, benchmark and Golden Set evaluation, badcase attribution, regression testing, online feedback loops, and continuous
+improvement of context, skills, workflows, and model behavior.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Undergraduate in Software Development, Computer Science, Computer Engineering or a related discipline.
+- Experience with LLMs, agents, RAG, tool use, post-training, evaluation, or applied NLP systems.
+- Strong programming ability in Python and familiarity with at least one production-oriented language such as Java, C++, Go, or TypeScript.
+- Familiarity with machine learning and deep learning frameworks such as PyTorch, TensorFlow, JAX, vLLM, Hugging Face, LangChain, LlamaIndex, or similar
+ecosystems.
+Preferred Qualifications:
+- Research or project experience in coding agents, long-horizon agents, computer-use agents, agent harnesses, workflow orchestration, or automated evaluation
+systems.
+- Experience with LLM post-training, including SFT, DPO, PPO, GRPO, RLHF, RLAIF, reward modeling, counterfactual data, or evidence-driven decision training.
+- Experience building benchmarks or evaluation datasets from real user questions, including taxonomy design, golden answers, error attribution, and regression
+testing.
+- Experience with e-commerce, logistics, operations research, data platforms, knowledge graphs, or enterprise knowledge management systems.
+- Published papers, strong open-source contributions, or hands-on projects in LLMs, agents, NLP, data mining, machine learning systems, evaluation, or AI
+engineering.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information

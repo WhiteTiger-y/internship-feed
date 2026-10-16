@@ -1,0 +1,71 @@
+Job Application for Summer 2027 AI/ML Engineering Intern at The Nuclear Company
+Back to jobs
+Summer 2027 AI/ML Engineering Intern
+Washington, DC
+Apply
+The Nuclear Company is the fastest growing AI tech-startup in the nuclear and energy space, pioneering a fleet-scale approach to building the next generation of
+nuclear reactors. Through our design-once, build-many model, we're accelerating the deployment of safe, reliable, and affordable nuclear energy.
+We operate with an AI-first mindset. Every employee is expected to leverage AI, technology, and the Nuclear Operating System (NOS) as integral components of
+their role to improve the quality, speed, and impact of their work. We expect every team member to continuously identify opportunities to automate workflows,
+enhance decision-making, improve processes, and contribute to the ongoing evolution of NOS as a strategic operating capability that enables The Nuclear Company
+to scale with excellence.
+We hire people who are driven by purpose, thrive in ambiguity, and are energized by building what has never been built before. Our team combines intellectual
+curiosity with high agency, embraces candid feedback and continuous learning, and holds themselves and others to exceptional standards. Our values— Trust,
+Responsibility, Unity, Scrappiness, and Tenacity —guide how we hire, collaborate, and make decisions every day. They are not words on a wall; they are the
+standard by which we operate. Trust is the foundation of our safety culture, fostering intellectual honesty, accountability, and open communication, while our
+values challenge every team member to execute with urgency, humility, resilience, and an unwavering commitment to our mission.
+About the role
+The United States is building nuclear power again, and The Nuclear Company is writing the software that makes it possible. NOS, the Nuclear Operating System,
+runs the regulatory, supply chain, cost, schedule, and field work behind real reactor construction. The work matters for national security, energy independence,
+and the climate.
+You will build the AI that people use to build power plants. As an AI/ML Engineer Intern on the Platform Integration & AI/Data squad, you take real scope on the
+machine learning and agent capabilities inside NOS: LLM-driven workflows, retrieval-augmented generation, and agents that operate against NOS data and tools,
+plus the evals and monitoring that keep AI features safe in production. You work next to full-time engineers and nuclear domain experts, ship real models and
+features to production, and see your work put to use by the teams building plants.
+This is a 12-week Summer 2027 internship (May to August), aligned to the academic calendar. Base location is Washington DC, on-site five days a week, with full
+housing and relocation for co-ops outside the DC metro area.
+Responsibilities
+- Ship ML and AI features inside NOS applications teams use every day: site evaluation, red flag analysis, scheduling, lessons learned, and the stakeholder and
+project tools running across active TNC projects.
+- Build AI agents and agent workflows that operate against NOS data and tools, including the MCP interfaces and tool-use frameworks they depend on.
+- Develop data pipelines and integrations across Palantir Foundry, AWS GovCloud, and more — and contribute to the data ontology so models and agents can use NOS
+data reliably.
+- Build predictive and anomaly-detection models that support operations and engineering decisions, including time-series analysis of sensor and operational data
+from active projects.
+- Help own model quality end-to-end: eval criteria, acceptance thresholds, and regression suites that keep NOS audit-ready and results reproducible; triage
+issues and root-cause failures.
+Required Experience
+- Currently enrolled in a BS in Computer Science, Machine Learning, Data Science, Statistics, Mathematics, or a related technical field. Available for a full
+six-month term and returning to school afterward.
+- Strong Python fundamentals and hands-on exposure to modern ML and LLM tooling (PyTorch, Hugging Face, or similar) through coursework or projects.
+- A track record of shipping working software or ML projects (course projects, personal projects, or prior internships or co-ops). We care about what you've
+built, not just what you've studied.
+- This position requires access to information and technology subject to U.S. export controls (including DOE 10 CFR Part 810 and NRC requirements). U.S. Person
+status (U.S. citizen or lawful permanent resident) is required, and TNC does not provide visa sponsorship for these roles.
+- Willing and able to work on-site in Washington DC, five days a week, for the full six-month term.
+Preferred Experience
+- Hands-on experience with LLMs and agents: prompting, fine-tuning, retrieval-augmented generation, evals, or tool use (MCP or similar frameworks).
+- Coursework or project experience with Palantir Foundry and AIP, AWS, or another major cloud platform — Foundry exposure is heavily weighted.
+- Solid data fundamentals: comfortable doing exploratory data analysis and working with large, messy datasets, including time-series or sensor data.
+- Exposure to MLOps tooling (MLflow, SageMaker, Vertex AI) or CI/CD for models.
+- Interest in energy, national security, industrial software, or regulated industries.
+- Familiarity with nuclear engineering concepts (not required, we teach the domain).
+Benefits
+- Competitive compensation packages
+- 401k with company match
+- Medical, dental, vision plans
+- Generous vacation policy, plus holidays
+Estimated Starting Salary Range
+The estimated starting rate for this role is $25.00 an hour plus a $2,000 monthly housing stipend less applicable withholdings and deductions, paid on a bi-
+weekly basis. The actual pay offered may vary based on relevant factors as determined in the Company’s discretion, which may include experience, qualifications,
+tenure, skill set, availability of qualified candidates, geographic location, certifications held, and other criteria deemed pertinent to the particular role.
+EEO Statement
+The Nuclear Company is an equal opportunity employer committed to fostering an environment of inclusion in the workplace. We provide equal employment
+opportunities to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age,
+disability, veteran status, or any other protected characteristic. We prohibit discrimination in all aspects of employment, including hiring, promotion,
+demotion, transfer, compensation, and termination.
+Export Control
+Certain positions at The Nuclear Company may involve access to information and technology subject to export controls under U.S. law. Compliance with these
+export controls may result in The Nuclear Company limiting its consideration of certain applicants.
+Recruiting Fraud Alert
+Your safety is our priority. We want to ensure your job search stays secure. Please note tha

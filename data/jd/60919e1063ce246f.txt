@@ -1,0 +1,21 @@
+NVIDIA’s Quantum and Chemistry Research team is seeking Molecular AI and Quantum Research Interns to work in our newly-formed Quantum and Chemistry Research
+team led by Alán Aspuru-Guzik. The Quantum and Chemistry Research team explores novel approaches to integrate world-class NVIDIA multi GPU architectures with
+state-of-the-art and near-term quantum computers. We also study how to develop new AI models for chemistry as well as agentic systems for computational
+chemistry. We are interested in robotics for self-driving labs as well. The Quantum and Chemistry Research Scientist will help develop either of: Quantum
+algorithms at the interface of artificial intelligence and many-body physics models such as quantum chemistry. Generative models for chemistry. Self-driving lab
+robotics capabilities. Agentic AI systems for computational chemistry. What You'll Be Doing: Advance the state-of-the-art of AI-driven quantum algorithms,
+generative models for chemistry, self-driving labs, or agentic AI. Present at relevant scientific, technical and industry conferences. What We Need To See:
+Pursuing a PhD Degree in Chemistry, Physics, Computer Science, Applied Mathematics, Engineering, or related engineering field. Background in Quantum Information
+Science, or AI for chemistry with expertise in one of the following: quantum chemistry, quantum machine learning, or applied quantum algorithms, robotics for
+self-driving labs, generative models for chemistry, or computational agentic frameworks. Research experience in a graduate setting in any of the topics above.
+World-class communication skills with a demonstrated ability to articulate a value proposition to technical and non-technical audiences. Ways To Stand Out From
+The Crowd: Background with GPU computing. Experience in software systems development. Experience in Machine Learning methods. Experience scaling or optimizing
+large-scale AI models. Hands-on experience in scientific computing, high-performance computing, applied machine learning, or deep learning. NVIDIA's invention
+of the GPU revolutionized parallel computing. Our GPUs are being used in many of the largest high-performance computing projects around the world, solving real
+world problems, including advancing the state of Quantum Information Science. NVIDIA is widely considered to be one of high technology's most desirable
+employers. We have some of the most forward-thinking and experienced people in the world working for us. Our goal is to craft an environment where we can do our
+life's best work. If you're creative, autonomous, and highly motivated, we want to hear from you! Our internship hourly rates are a standard pay based on the
+position, your location, year in school, degree, and experience. The hourly rate for our interns is 77 CAD - 99 CAD. You will also be eligible for Intern
+benefits. Applications for this job will be accepted at least until October 16, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its
+recruiting processes. NVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry. Learn more
+about NVIDIA.

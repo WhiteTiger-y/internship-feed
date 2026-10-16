@@ -1,0 +1,12 @@
+Job Description
+We are seeking a small number of highly talented interns to assist in the development, optimization, and monitoring of our production trading platform and
+research infrastructure. Interns will work on small, highly collaborative teams.
+Desirable Candidates
+- Undergraduate or graduate candidates in computer science or engineering
+- Significant experience in Python, C++, C, or Java
+- Serious interest in systems programming (e.g. Linux kernel development, compilers, embedded systems, networking, file systems, debuggers)
+- In-depth understanding of how userland programs run on Linux and interact with the kernel
+- Some basic knowledge of Git, databases (e.g. MySQL), and web development frameworks is a plus
+- Clear, concise, and proactive communicator
+- Detail-oriented
+- Willing to take ownership of his/her work, working both independently and within a small team

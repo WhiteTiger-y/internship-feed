@@ -1,0 +1,45 @@
+At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to
+thrive.
+Data and analytics are at the heart of Lyft’s products and decision-making. As a member of the Lyft Urban Solutions team, you will play a key role in shaping
+the future of bikeshare by leveraging data to operational needs and city partners.
+In this role, you will collaborate closely with Operations, Science, and Finance teams to drive data-driven strategies that align our operations with city
+transportation goals. You will work in a fast-paced environment where analytical insights directly impact fleet management, operator performance, pricing, rider
+accessibility, and long-term investments in bikesharing infrastructure.
+We’re looking for a passionate and driven Data Analyst Intern to tackle some of the most complex and impactful challenges in bikesharing. If you’re excited
+about shaping the future of urban mobility through data, we’d love to hear from you.
+Responsibilities:
+- Partner with Operations, Engineering, Data Science & Analytics, Product, Finance and other cross-functional stakeholders to manage and update key business
+logic
+- Develop frameworks and scalable processes to streamline reporting, drive decision-making and prioritization
+- Define the metrics used to measure the success of strategic initiatives and system health; build dashboards to monitor metrics performance over time
+- Work closely with cross-functional partners to deliver data quickly, reliably and accurately to our city partners
+- Monitor and diagnose KPI performance and present findings to senior leadership
+Experience:
+- Currently pursuing a Bachelors or Masters degree in mathematical sciences (Operations Research, Computer Science, Statistics, Applied Mathematics, Theoretical
+Physics, Behavioral Science, Electrical Engineering, etc.), Economics (Microeconomics Theory, Econometrics etc.), Data Engineering; or a related field; with a
+graduation date between December 2027 and June 2028 (required)
+- Available during Summer 2027 for an internship in New York City
+- Proficient in SQL (required) and quantitative analysis, you can deep dive into large amounts of data, draw meaningful insights, dissect business issues and
+draw actionable conclusions
+- Ability to translate unstructured business problems into clearly defined requirements with minimal oversight
+- Strong problem-solving and analytical skills with the ability to transition between detailed data and high-level business problems
+- Great communication (listening, written, and oral) skills with the ability to present findings & recommendations targeted to the audience in question
+- Strong attention to detail, structured thinking and experiences developing processes to reduce human error
+Benefits:
+- Great medical, dental, and vision insurance options
+- Mental health benefits
+- In addition to holidays, interns receive 2 days paid time off and 3 days sick time off
+- 401(k) plan to help save for your future
+- Pre-tax commuter benefits
+- Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for
+employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status,
+age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable
+federal, state and local law.
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid
+schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at
+least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers.
+#Hybrid
+The expected base pay range for this position in the New York City area is $45-$47/hour USD, not inclusive of potential equity offering, bonus or benefits.
+Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information
+about the salary range specific to your working location and other factors during the hiring process.

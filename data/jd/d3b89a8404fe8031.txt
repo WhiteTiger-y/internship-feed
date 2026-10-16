@@ -1,0 +1,64 @@
+There’s a universe of opportunity at Amazon.
+At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the moment you join, you’re
+part of something big: building products or services that reach millions and shaping how people live, work, and connect every day. This is where your ideas turn
+into real impact. You’ll work with world class tools, global platforms, and systems built to operate at an extraordinary scale. You’ll move fast, experiment and
+launch solutions that matter. With endless opportunities to explore across teams and roles, you’ll learn quickly, apply what you know and discover skills you
+didn’t know existed. This is an environment designed for builders who want to see the impact of their work in the world. Ready to start your adventure?
+What’s in it for you?
+An internship at Amazon means real responsibility from day one. You’ll build, test, and learn alongside people who want to see you succeed, while making an
+impact that reaches far beyond campus.
+Our Software Development Engineers (SDEs) use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDEs solve
+at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products,
+features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
+At Amazon, we believe in ownership at every level. As an SDE-I, you'll own the entire lifecycle of your code - from design through deployment and ongoing
+operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
+We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can
+be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
+Amazon internships across all seasons are full-time positions, and intern/co-ops should expect to work in office, Monday-Friday, up to 40 hours per week
+typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or
+other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their
+internship concludes.
+Please note that by applying to this role you would be considered for Software Development Engineer summer intern and spring/fall co-op roles on various
+Robotics teams. You will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet
+your selection based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start
+dates available will be provided to you at the time of job offer.
+Key job responsibilities
+• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that
+delight our customers, while participating in technical discussions to drive solutions forward.
+• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.
+• Participate in code reviews and contribute to technical documentation.
+• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.
+• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
+• Write clean, maintainable code following best practices and design patterns.
+• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties.
+• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
+• Design, develop and test software components that interact with fulfillment center technologies, such as robotics, material handling equipment, computer
+vision, and cloud services.
+A day in the life
+As an SDE intern/co-op, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead
+critical projects early in your career.
+In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand
+your network, and participate in activities with other interns/co-ops throughout your internship. No matter the location of your internship/co-op, we give you
+the tools to own your project and learn in a real-world setting.
+About the team
+Learn more about Robotics at Amazon:
+https://amazon.jobs/en/teams/amazon-robotics
+https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center
+https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model - Are 18 years of age or older
+- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
+- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles - Experience from previous technical
+internship(s) or demonstrated project experience
+- Experience with Cloud platforms (preferably AWS), database systems (SQL and NoSQL), AI tools for development productivity, contributing to open-source
+projects, and/or version control systems
+- Strong problem-solving and analytical skills; Excellent written and verbal communication skills
+- Demonstrated ability to learn and adapt to new technologies quickly
+- Basic understanding of software development lifecycle (SDLC)
+- Experience within Robotics, Computer Vision, Machine Learning, Optimization, Manipulation, Perception, Motion Planning and Controls, Movement, Autonomous
+Navigation, Path Planning, or related
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay

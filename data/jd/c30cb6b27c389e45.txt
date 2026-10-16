@@ -1,0 +1,57 @@
+Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to
+life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to
+streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration,
+join us!
+Figma’s Data Science team partners across product, engineering, design, marketing, sales, and operations to help Figma make better decisions with data. As an
+intern on our team, you'll work on technical challenges that have real impact on our product and business, and we're looking for interns with strong foundations
+in coding and statistics and who are clear communicators with both technical and non-technical audiences.
+This internship will be based out of our San Francisco or New York Hub.
+What you'll do at Figma:
+- Own a scoped project end to end—from framing the question with Product, Engineering, Design, and Data Science partners through delivering the work—with
+support from a manager and mentor.
+- Analyze user behavior, product performance, or business data to uncover insights and translate them into recommendations for businessDesign and evaluate
+experiments and develop metrics that help teams understand the impact of product changes.Build models to understand user behavior and predict growth
+- Build and improve data pipelines and tools that make product data more scalable and accessible
+- Focus areas may include analytics, experimentation, or infrastructure - based on your interests and business needs
+Some projects you could work on:
+- Analyze how people adopt and use a new or existing Figma product experience, define meaningful success metrics, and turn patterns in engagement and retention
+into product recommendations.
+- Build and validate a new analytical method or tool that expands how Figma’s Data Science team solves recurring problems.
+- Study marketing or customer-journey data to identify drivers of acquisition, conversion, or retention.
+- Develop and evaluate forecasts or models that help teams anticipate user or business trends and plan more effectively
+We'd love to hear from you if you have:
+- Experience using SQL and a scripting language such as Python or R to clean, explore, and analyze data through research, projects, or prior work.
+- A solid foundation in statistics and quantitative reasoning, with exposure to areas such as experimentation, forecasting, statistical modeling, causal
+inference, or data modeling.
+- The ability to structure open-ended questions, validate your analysis, and connect findings to product or business decisions.
+- Curiosity, initiative, and strong communication and collaboration skills with both technical and non-technical partners.
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited
+about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be
+just the right candidate for this or other roles.
+Pay Transparency Disclosure
+This internship role is based in either Figma’s San Francisco or New York hub offices, and has the hourly base pay rate stated below. Figma also offers interns
+a housing stipend and travel reimbursement. Figma’s compensation and benefits are subject to change and may be modified in the future.
+Internship
+$46 — $46 USD
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our
+product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color,
+ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any
+other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform
+essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com
+. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the
+same extent as people without disabilities.
+Examples of accommodations include but are not limited to:
+- Holding interviews in an accessible location
+- Enabling closed captioning on video conferencing
+- Ensuring all written communication be compatible with screen readers
+- Changing the mode or format of interviews
+To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video
+interviews. Additionally, if hired you will be required to attend in person onboarding.
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed
+in accordance with Figma's Candidate Privacy Notice .
+Application limits: To help candidates focus on the opportunities most relevant to their skills and experience, Figma limits the number and frequency of
+applications. These limits apply to all roles:
+- Candidates may submit up to 5 applications during any rolling 30-day period.
+- Candidates may not reapply to the same role while an application is active or within 90 days of receiving a rejection.
+Once the applicable days has passed, candidates are welcome to apply again.

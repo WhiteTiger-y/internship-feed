@@ -1,0 +1,83 @@
+Data Science - Intern (Summer 2027) | C3 AI
+Skip to main content ← Back to Careers
+Data Science - Intern (Summer 2027)
+Redwood City, California, United States · Internships · Employment Type: Intern
+C3 AI (NYSE: AI), is the Enterprise AI application software company. C3 AI delivers a family of fully integrated products including the C3 Agentic AI Platform,
+an end-to-end platform for developing, deploying, and operating enterprise AI applications, C3 AI applications, a portfolio of industry-specific SaaS enterprise
+AI applications that enable the digital transformation of organizations globally, and C3 Generative AI, a suite of domain-specific generative AI offerings for
+the enterprise. Learn more at: C3 AI
+C3 AI is seeking Data Scientist interns to join us during our Summer 2027 internship program.
+As a member of the C3 AI Data Science team, you will work with some of the largest companies on the planet helping them build the next generation of AI-powered
+enterprise applications on the C3 Agentic AI Platform ( c3.ai/customers/ ). You will work directly with data scientists, AI engineers, and subject matter
+experts in the definition of new analytics capabilities in order to provide our customers with the information they need to make proper decisions and enable
+their digital transformation. You will help find the appropriate AI/machine learning algorithms to answer those questions and implement them on the C3 Agentic
+AI Platform so they can run at scale.
+Qualified candidates will have an in-depth knowledge of most common AI, machine learning, and agentic AI techniques and their application. Also, you will
+understand the limitations of these algorithms and how to tweak them or derive from them to achieve similar results at large-scale.
+Responsibilities:
+- Drive adoption of AI and agentic AI systems into the next generation of C3 AI products
+- Design and deploy Machine Learning algorithms for industrial applications such as fraud detection and predictive maintenance
+- Collaborate with data and subject matter experts from C3 AI and its customer teams to seek, understand, validate, interpret, and correctly use new data
+elements
+Qualifications:
+- Pursuing MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent field
+- Applied Machine Learning, Generative AI, and Agentic AI experience (regression and classification, supervised, and unsupervised learning)
+- Familiarity with foundation models and their application to enterprise use cases
+- Experience with prototyping languages such as Python and R
+- Strong mathematical background (linear algebra, calculus, probability, and statistics)
+- Experience with scalable ML (distributed computing, cloud-native, streaming)
+- Ability to drive a project and work both independently and in a team
+- Smart, motivated, can-do attitude, and seeks to make a difference
+- Proficient in spoken and written English
+Preferred Qualifications:
+- Experience with JavaScript and Java
+- Experience with time series and dynamical systems
+- A portfolio of projects (GitHub, papers, etc.)
+C3 AI provides excellent benefits and a competitive compensation package, which include:
+- Salary range: $8,000 - $10,000 USD per month.
+At the office, we offer a fully stocked kitchen with catered lunches, a free on-site gym membership, biweekly social hour with food, drinks, music, and plenty
+of opportunities to connect and network with your team.
+C3 AI is proud to be an Equal Opportunity and Affirmative Action Employer. We do not discriminate on the basis of any legally protected characteristics,
+including disabled and veteran status.
+Apply for this role
+* indicates a required field
+First Name *
+Last Name *
+Email *
+Country *
+Phone *
+Location (City) *
+Resume/CV * Upload a file
+Or paste as text
+Education
+School *
+Can’t find your school? Choose “Other” from the list.
+Degree *
+Discipline *
++ Add another
+LinkedIn Profile *
+How did you hear about C3 AI? *
+If you heard about us from a campus recruiting event, then please indicate which event you attended.
+Which level of degree are you currently pursuing? *
+What is your expected graduation month and year? *
+Please note this internship is for Summer 2027
+Are you being referred to this role as part of the Campus Referral Program? *
+Please note, majority of candidates should select "no." Speaking to us at a career fair is not part of this program.
+What is the full name of your referrer? (If you selected no, please type: N/A) *
+Do you now or will you in the future require immigration sponsorship to work at C3 AI? *
+Are you willing to work from our Headquarters in Redwood City, CA, full-time, 5 days a week? *
+By clicking the “I Accept” button, you confirm that you have read C3 AI’s Applicant & Candidate Privacy Notice [https://c3.ai/c3ai-inc-applicant-and-candidate-
+privacy-notice] and you provide the specific consents identified below. Except where C3 AI expressly asks for your consent, C3 AI processes your personal data
+for recruitment on the basis of its legitimate interests and to take steps at your request before any employment relationship, and you are not required to
+consent to that processing: C3 AI collects your personal data for the purposes of managing C3 AI's recruitment related activities as well as for organizational
+planning purposes globally. Consequently, C3 AI may use your personal data in relation to the evaluation and selection of applicants including for example
+setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes including
+the final recruitment. Some evaluations are assisted by automated tools: C3 AI uses AI-based matching to compare your application against the requirements of
+the role and, for some roles, an AI-based “Voice AI” tool that records and analyzes a voice screening interview. A member of our team reviews the results and
+makes the final decision, and no decision is made based solely on automated processing. You may request more information about the logic involved, request a
+review by a person, and — for voice interviews — decline to be recorded and request a standard interview instead, in each case without any penalty to your
+application. C3 AI does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated
+companies in various countries, C3 AI has international sites and C3 AI uses resources located throughout the world. C3 AI may from time to time also use third
+parties to act on C3 AI's behalf. You agree to the fact that to the extent necessary your personal data may be transferred and/or disclosed to any company
+within C3 AI group of companies as well as to third parties acting on C3 AI's behalf, including also transfers to servers and databases outside the country
+where you provided C3 AI with your personal data. Such transfers may include for example transfers and/or disclosures outside the European Economic A

@@ -1,0 +1,26 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team
+and see how you can make a lasting impact on the world.
+Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art
+and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex
+problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots
+and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there
+has never been a more exciting time to join us!
+What you’ll be doing:
+- Collaborate with researchers/engineers to enhance our Transformer and GNN-based models to operate seamlessly over any relational schema and heterogeneous
+graph.
+- Gain hands-on experience with high-impact use cases such as forecasting, entity matching, customer retention and fraud detection – all built on top of a
+single, extensible foundation model.
+- Apply your knowledge in ML and AI to address real challenges while contributing to scalable and adaptable solutions that push the boundaries of what’s
+possible.
+- Work may span the full lifecycle of modern ML systems: from architecture design/training to post-training optimization and inference acceleration.
+What we need to see:
+- Pursuing MS or PhD in Machine Learning, Computer Science, or equivalent program area
+- Proficiency in Python and deep learning frameworks, such as PyTorch
+- Coursework or research experience in crafting ML algorithm solutions
+Ways to stand out from the crowd:
+- Familiarity with graph-based machine learning; publications at venues such as NeurIPS, ICLR, ICML, or similar
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative and autonomous, we want to hear from you!

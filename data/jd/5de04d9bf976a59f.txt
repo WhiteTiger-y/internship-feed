@@ -1,0 +1,52 @@
+Job Details:
+Job Description:
+The Role and Impact
+As an AI Software Engineering Graduate Intern, you will play a key role in advancing the capabilities of Intel's GPU platforms by optimizing GPU compute kernels
+and validating GPU architectures using real AI workloads. Your contributions will directly impact hardware/software codesign and shape the next generation of
+Intel GPU and AI accelerator platforms while providing hands-on experience in GPU architecture and performance engineering.
+Business Group
+The Data Center Group (DCG) is integral to Intel's mission of advancing computing and connectivity at scale. This group focuses on creating innovative solutions
+for data center environments, including processors, accelerators, and infrastructure technologies to address the needs of AI, cloud computing, and high-
+performance computing. Joining DCG means contributing to the backbone of critical applications that power the digital world.
+Key Responsibilities
+- Analyze and optimize core GPU compute kernels for AI and numerical workloads (e.g., GEMM, Attention, operator fusion).
+- Reproduce representative AI inference and training workloads for GPU IP validation.
+- Perform GPU performance profiling and analysis to identify compute, memory, and pipeline bottlenecks.
+- Build performance profiles and models to understand architecture-level performance behavior.
+- Provide workload and kernel-level insights to support GPU architecture design and hardware/software codesign efforts.
+Qualifications:
+Minimum Qualifications
+- Pursuing a Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or a related technical field, with 0-1 years of hands-on
+experience in AI or GPU domains gained through internships, academic projects, coursework, or hands-on training.
+- OR pursuing a Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or a related technical field with no prior professional
+experience.
+- Proficiency in Python for data analysis, experimentation, or tooling.
+- Solid understanding of AI fundamentals, including common models and algorithms.
+- Basic knowledge of computer systems (e.g., CPU/GPU architecture, memory systems, and performance analysis).
+Preferred Qualifications
+- Experience with GPU kernels or programming models such as CUDA, OpenCL, SYCL, or Triton.
+- Exposure to performance optimization, compiler technologies, or parallel computing coursework, research, or internships.
+- Strong analytical and problem-solving skills, with the ability to derive insights from profiling data.
+- Interest in AI systems and infrastructure, beyond model-level development.
+- Ability to work effectively in collaborative, cross-functional engineering teams.
+We look forward to welcoming individuals who are passionate about shaping the future of AI and GPU architecture.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (China)
+Primary Location:
+PRC, Shanghai
+Additional Locations:
+PRC, Beijing
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

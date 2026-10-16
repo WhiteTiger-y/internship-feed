@@ -1,0 +1,27 @@
+Please only apply to one of our Job Postings. At the bottom of the application questions below you'll have the option to indicate if there are any other roles
+here at Radix that you might be interested in. Please do not submit multiple applications for different positions.
+As a C++ Quantitative Technologist Intern, you'll gain experience working on live trading systems, research infrastructure, and alpha generation through
+technology innovation.
+We leverage cutting-edge software and hardware (mostly with modern C++) to push production level code daily and evolve fully-automated strategies, alpha
+generation processes, live trading systems, and machine learning research and simulation infrastructure used to analyze petabytes of data.
+We provide intern projects that we know will add real value to the firm, while encouraging exploration and independent approaches to improve inefficiencies,
+propose iterations, and own significant processes during your internship.
+Qualifications
+We’re looking for highly analytical people who want to help build the research-driven trading firm of the future. And to do that, you’ll need the following
+qualities:
+- Persistent Drive to Improve - Do you have an innate desire to rise to the next level, even after great accomplishments?
+- Creative Problem Solving and Probabilistic Thinking - You must enjoy learning and implementing new concepts quickly, combining knowledge from different
+domains to create new ideas, and take a data-driven and probabilistic approach to testing and implementing new ideas.
+- Team Mindset - We want people who understand 1+1 > 2 and are as committed to making the team better through sharing ideas as they are driven to improve their
+individual performance.
+- Mental Flexibility & Self Awareness - You’ll have to frequently adapt based on new data, results, and feedback on your ideas and performance.
+- Orientation for Making Money - Although we value academic training, our work is not an academic exercise. We take a hacker’s approach to testing ideas,
+dropping projects that consume time without high upside, and focusing our next efforts on what will create the most value for the firm.
+Software development skills to have or develop
+- Low-level computer languages like C or C++; awareness of strength in particular language and ability to solve more complex problems due to understanding
+nuances of the language
+- C++ is the language you will be using for your projects during your summer with us
+- Understanding of data structures, algorithmic complexities, and numerical algorithms
+- Systems Architecture - knowledge and experience with distributed systems and communication
+- Software Architecture - knowledge and experience working with a large code base
+- Development Processes - experience delivering and deploying software in production environments

@@ -1,0 +1,94 @@
+GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer
+Life at ByteDance
+Our Culture Our Philosophy Teams
+Advertising & Sales Corporate Functions Design E-Commerce Global Operations Marketing & Communications Product Technology How We Hire
+Applying to ByteDance Interview Tips Frequently Asked Questions Locations
+Early Careers
+Early Careers at ByteDance Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+EN 日本語
+p:empty]:h-[56px] [&>div:empty]:h-[56px] bd-title"> Join us as we work together to inspire creativity and enrich life around the globe.
+Life at ByteDance
+Early Careers Americas Asia Pacific Europe and Middle East Early Careers FAQ
+Teams Technology Product Design Marketing & Communications Corporate Functions Global Operations Advertising & Sales
+How We Hire FAQ Interview Tips
+Locations
+Blog
+Legal Privacy Policy Cookie Policy
+Other Open Roles Careers @ TikTok Careers in China
+Privacy Policy © 2012-2025 ByteDance
+GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer
+Location :
+San Jose
+Team :
+Technology
+Employment Type :
+Intern
+Job Code :
+A217291
+Apply to this job Share this listing:
+Responsibilities
+About the Team:
+The GPU/AI System Technology and Engineering Team is committed to developing highly optimized OS and system software to support deep learning and high-
+performance computing (HPC) workloads in large-scale data centers.
+We focus on delivering core software components for the next generation of AI and HPC platforms, benchmarks, and fine-tuning performance. Our work spans the
+entire hardware/software stack, from GPU drivers to deep learning frameworks, to ensure peak performance across all layers.
+By joining this team, you will work with the best engineers and talents in this industry and have a broad opportunity to get in touch with the latest AI
+application systems and newly emerged technology in computing, networking and storage. You will gain remarkable GPU architecture, system software development
+and GPU validation experience in the most advanced hardware infrastructure on a massive scale.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Candidates who pass resume screening will be invited to participate in Our Company's technical online assessment.
+Responsibilities:
+- Design and implement performance benchmarks and testing methodologies to evaluate system performance （especially for those factors impacted most closely to
+OS, OS kernel, Hardware System）
+- Develop benchmark tools and performance optimization of AI workloads specifically tailored for large-scale LLM training and inference, as well as High-
+Performance Computing (HPC).
+- Develop Python scripts to automate the testing of various benchmark tools.
+- Collaborate with internal teams to identify system bottleneck, debug and improve performance issues.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's or Master's degree within Computer Engineering in Electrical Engineering, Computer Engineering, Computer Science or related
+majors.
+- Deep understanding of Operating System, Linux Kernel, Computer Architecture
+- Background with GPU/CPU benchmarking
+- Familiar with ML/DL techniques, algorithms and frameworks like TensorFlow or PyTorch.
+- Exposure to testing automation for various applications.
+- Hands-on experience with Linux based systems
+Preferred Qualifications:
+- Strong background in one of the following fields: High Performance Computing, ML Hardware Acceleration (e.g., GPU/TPU/RDMA) or ML for Systems, and Distributed
+Storage.
+- Experience in AI model development, training, evaluation and deployment on Cloud, Cluster or on-premises.
+- Experience with parallel programming and at least one communication runtime (MPI, NCCL, UCX, NVSHMEM)
+- Linux kernel development experience, such as networking and device drivers etc.
+- Exposure to testing automation for various applications.
+- Experience with complex system-level debugging is invaluable.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire cr

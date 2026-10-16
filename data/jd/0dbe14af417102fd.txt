@@ -1,0 +1,45 @@
+At Oshkosh, we build, serve and protect people and communities around the world by designing and manufacturing some of the toughest specialty trucks and access
+equipment. We employ over 18,000 team members all united by a common purpose. Our engineering and product innovation help keep soldiers and firefighters safe,
+is critical in building and keeping communities clean and helps people do their jobs every day. THE ROLE As an AI Engineer Intern in Summer 2027, you will
+contribute to the development and deployment of artificial intelligence and intelligent software solutions across Oshkosh’s engineering and product platforms.
+Depending on your experience, interests, and project assignment, you may work in areas such as machine learning, computer vision, edge AI, embedded systems,
+vehicle intelligence, connectivity, or software-defined vehicle technologies. You’ll collaborate with engineering and technology teams to develop, test, and
+integrate intelligent solutions into real-world products and applications. YOUR IMPACT As an AI Engineer Intern, your responsibilities may include: Designing,
+training, evaluating, and deploying machine learning and AI models on GPU servers, cloud platforms, or edge devices Processing and analyzing structured and
+unstructured datasets, including imagery and sensor data Developing data pipelines and model deployment workflows from cloud to edge Integrating AI/ML models
+into applications, embedded systems, electronic control units (ECUs), or vehicle platforms Assisting in the development of software modules supporting vehicle
+intelligence, connectivity, automation, and advanced features Testing embedded and AI-enabled applications across hardware, vehicle networks, and software
+environments Using simulation environments and testing frameworks to validate algorithms, models, and system functionality Conducting experiments and
+benchmarking algorithms for performance, accuracy, and efficiency Supporting software integration, over-the-air (OTA) capabilities, and vehicle software
+lifecycle activities Participating in code reviews, technical discussions, system architecture development, and innovation activities Documenting system
+designs, test procedures, model behavior, performance metrics, and experimental results MINIMUM QUALIFICATIONS Pursuing a Bachelor’s or Master’s degree in
+Computer Science, Computer Engineering, Software Engineering, Electrical Engineering, Data Science, or a related technical field Coursework or experience in one
+or more of the following areas: artificial intelligence, machine learning, computer vision, embedded systems, software development, or statistics Programming
+experience with Python, C++, or other relevant programming or scripting languages Familiarity with Linux environments Interest in applying AI and software
+technologies to real-world engineering and product challenges Willingness to travel or relocate to Oshkosh, WI for the summer internship (Housing provided for
+interns living more than 50 miles from the work location) PREFERRED QUALIFICATIONS Experience or exposure to one or more of the following is a plus: Machine
+learning frameworks such as TensorFlow, PyTorch, or scikit-learn Computer vision and image processing GPU or NPU computing Edge AI and model
+optimization/deployment Embedded software and embedded computing platforms Vehicle communication technologies such as CAN AUTOSAR or automotive software
+architectures Vehicle connectivity and software-defined vehicle concepts Cloud-to-edge architectures and data pipelines Simulation, testing, or automated
+validation frameworks Pay Range: $18.00 - $37.00 The above pay range reflects the minimum and maximum target pay for the position across all U.S. locations.
+Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education
+and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a people-
+first culture and offer various opportunities to support team member growth and success. Oshkosh is committed to working with and offering reasonable
+accommodation to job applicants with disabilities. If you need assistance or an accommodation due to disability for any part of the employment process, please
+contact us at corporatetalentacquisition@oshkoshcorp.com. Oshkosh Corporation is a merit-based Equal Opportunity Employer. Job opportunities are open for
+application to all qualified individuals and selection decisions are made without regard to race, color, religion, sex, national origin, age, disability,
+veteran status, or other protected characteristic. To the extent that information is provided or collected regarding categories as provided by law it will in no
+way affect the decision regarding an employment application. Oshkosh Corporation will not discharge or in any manner discriminate against employees or
+applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have
+access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or
+applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or
+charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with
+Oshkosh Corporation's legal duty to furnish information. Certain positions with Oshkosh Corporation require access to controlled goods and technologies subject
+to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be "U.S. Persons," as
+defined in these regulations. Generally, a "U.S. Person" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or
+granted asylum. Advance your career by advancing the world. For many of our team members, this is more than a career. It’s a calling. Oshkosh is home to
+thousands of difference-makers working together to build, serve and protect people and communities around the world. From the front lines to the firehouse, the
+people we serve are driven by a sense of purpose. The people who work here are no different. Our engineering and product innovation help keep soldiers and
+firefighters safe, is critical in building and keeping communities clean and helps people do their jobs every day. As part of a People First culture, you’ll be
+encouraged and empowered to take ownership of your work, develop your career and make a real impact on the world around you. Oshkosh is a global company that
+designs and manufactures some of the world’s toughest specialty and access equipment under the brands of JLG®, Hinowa, Power

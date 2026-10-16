@@ -1,0 +1,34 @@
+We are deploying machine learning directly onto custom hardware – and we want you to help drive it forward. This PhD internship is an opportunity to work on
+research that has direct impact on IMC's work tackling open problems at the frontier of low-latency ML inference and hardware acceleration.
+You'll work alongside IMC engineers in one of the most demanding low-latency computing environments in the world. You'll own a focused research project from
+start to finish, present your findings to the team, and leave behind a prototype or benchmark that we can build on.
+Your Core Responsibilities
+- Architect and develop an ML focused research project based on real-world use cases
+- Work hands-on with hardware engineers to implement, verify, and deploy ML inference solutions
+- Track and evaluate emerging research in neural architecture search, machine learning systems and quantization methods, and determine what translates to
+measurable improvements in our systems
+- Present your project to the team, deepening our collective understanding of an area of ML acceleration
+- Gain hardware design fundamentals from skilled RTL developers and learn how they apply to our industry
+- Build skills to evaluate research not only from an academic perspective, but through real-world performance constraints, engineering costs, and industry
+impact
+Your Skills and Experience
+- Currently enrolled in a PhD program in Electrical Engineering, Computer Science, Physics, or a related field
+- Solid understanding of hardware constraints and design trade-offs (e.g., pipelining, resource utilization, fixed-point arithmetic) that shape how ML models
+can be efficiently mapped onto FPGAs or custom ASICs
+- Experience with hardware fundamentals, whether through VHDL/SystemVerilog development, HLS tools, or ML-to-hardware frameworks like hls4ml, FINN, or Vitis AI
+- Understanding of machine learning fundamentals – neural network architectures, inference optimization, quantization techniques, ML frameworks such as
+PyTorch/TensorFlow
+- Proficiency in Python or similar languages for tooling, testing, and simulation
+- Strong communication skills and ability to work collaboratively across disciplines with both technical and non-technical teams
+You may submit one application per role each year. We strongly encourage you to focus on applying to a single role that best matches your skills and interests.
+Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role.
+If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season
+begins in 2027.
+The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible
+for a discretionary bonus and benefits, including paid leave and insurance. Please visit Benefits - US | IMC Trading for more comprehensive information.
+Base Salary: $225,000
+About Us
+IMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in
+markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology
+and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective,
+combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage.

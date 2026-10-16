@@ -1,0 +1,89 @@
+Machine Learning Engineer Intern (E-Commerce Recommendation Live)- 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+Machine Learning Engineer Intern (E-Commerce Recommendation Live)- 2027 Summer
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A116024
+Apply to this job Share this listing:
+Responsibilities
+Team Introduction:
+The Global E-commerce Recommendation Live Algorithm team is responsible for the core recommendation stack for live commerce, covering the full pipeline from
+recall and pre-ranking to ranking and mixed ranking. The team operates in a highly dynamic environment where live room status changes in real time, conversion
+signals are sparse, and user intent must be understood across content, commerce, and transaction scenarios.
+By combining generative recommendation, large recommendation models, multimodal representation learning, and cross-domain value modeling, the team works on some
+of the most important algorithmic problems in live commerce. Our goal is to improve user experience, optimize ecosystem efficiency, and drive sustainable
+business growth for TikTok Shop across global markets.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Build and optimize recommendation models across recall, pre-ranking, ranking, and mixed ranking to improve GMV, conversion, watch time, and long-term user
+value.
+- Develop cross-domain and multimodal modeling solutions that connect videos, live streams, products, and user behavior to better power live commerce
+recommendations.
+- Advance next-generation recommendation technologies, including generative recommendation, large recommendation models, reinforcement learning, and long-term
+value optimization.
+- Partner with cross-functional teams to launch scalable solutions, run experiments, and turn research into measurable business impact.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Undergraduate in Software Development, Computer Science, Computer Engineering or a related discipline.
+- Solid foundation in machine learning and at least one of the following areas: recommendation systems, search, advertising, NLP, multimodal learning, or large-
+scale applied AI.
+- Strong programming skills in Python or C++, and hands-on experience with deep learning frameworks such as PyTorch.
+- Good understanding of data structures, algorithms, and large-scale model training or production machine learning systems.
+- Strong analytical and problem-solving skills, with the ability to translate business problems into effective modeling solutions.
+- Self-driven and results-oriented, with the ability to take ownership of model iteration and online impact from end to end.
+Preferred Qualifications:
+- Experience in recommendation systems, especially in live commerce, e-commerce, search, ads, or other large-scale consumer products.
+- Experience with generative recommendation, large recommendation models, retrieval and ranking systems, or related recommendation architecture upgrades.
+- Experience with LLMs or multimodal foundation models, including pre-training, post-training, representation learning, contrastive learning, SFT, or RL-based
+optimization.
+- Experience in cross-domain transfer learning, LTV modeling, long-term value optimization, causal inference, or debiasing.
+- Experience with long-sequence user behavior modeling, multi-task learning, multi-interest modeling, or large-scale distributed training and inference
+optimization.
+- Publications in top-tier conferences such as NeurIPS, ICML, ICLR, KDD, ACL, CVPR, SIGIR, or RecSys, or strong achievements in major technical competitions.
+- Strong curiosity about new technologies, fast learning ability, and a passion for solving challenging real-world problems.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapo

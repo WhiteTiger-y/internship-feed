@@ -1,0 +1,42 @@
+We’re currently hiring a Data Scientist Intern to join our team in Summer 2027. This is an entry-level, 10-week, full-time internship expected to begin in June
+and end in August. Work may be hybrid from our offices in Reston, VA or Denver, CO or done remotely from any U.S. location. At this time, we are unable to
+provide housing nor relocation assistance for this position.  Ready to Make a Difference? We are seeking a skilled and motivated Data Scientist intern to join
+our team supporting energy efficiency and load management programs for utilities. This role will focus on maintaining and enhancing predictive analytics
+models.  The ideal candidate will apply advanced statistical and computational methodologies and integrate these analyses into supporting IT systems to help
+achieve business objectives. Responsibilities include analyzing large datasets—spanning customer behavior, energy usage, and marketing performance to identify
+appropriate techniques, develop and execute code, validate outputs, and produce technical reports. Basic Qualifications:   A completed bachelor’s degree plus
+enrollment verification or 9 credit hours complete in a Master’s degree program within data science or similar discipline Must be able to pass any required
+background check(s), which may include drug screening All work must be performed in the U.S. per contract requirements Preferred Qualifications: A completed
+Master’s degree program within data science or similar discipline Enrollment verification or 9 credit hours complete in a Doctoral degree program within data
+science or similar discipline Proficiency in R and/or Python or statistical modeling, data manipulation, and visualization Familiarity with version control
+systems such as Git, including branching strategies, pull requests, and repository management  Working knowledge of SQL for querying relational databases 
+Strong understanding of predictive modeling techniques and machine learning algorithms  Familiarity with Docker for building and deploying containerized machine
+learning environments and applications  Experience with Microsoft Azure services (e.g. Azure Databricks, Azure Batch, Azure Blob/Table Storage)  Familiarity
+with energy efficiency, utilities, or environmental analytics a plus  Experience working with large-scale datasets and building scalable data solutions 
+Professional skills you will use:  Strong communication and collaboration skills   Ability to work independently and manage multiple priorities  Curiosity and a
+passion for solving complex problems with data  Able to exercise independent judgment  Strong organizational skills with ability to effectively prioritize and
+execute tasks while under pressure Ability to effectively work in a diverse team of technologists and business stakeholders and explain technical
+concepts/solutions to non-technical client stakeholders  Takes initiative in learning complex systems and codebases, while actively seeking clarification and
+guidance to solve problems efficiently Bot and Third-Party Applications Please note that this application must be submitted directly by the applicant for
+consideration. Failure to do so may result in the application being excluded for consideration. Applicants needing an accommodation for disability or religious
+purposes in connection with the application process should contact Candidateaccommodation@icf.com for assistance. Working at ICF ICF is a global advisory and
+technology services provider, but we’re not your typical consultants. We combine unmatched expertise with cutting-edge technology to help clients solve their
+most complex challenges, navigate change, and shape the future. We can only solve the world's toughest challenges by building a workplace that allows everyone
+to thrive. We are an equal opportunity employer. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal
+and professional goals. For more information, please read our EEO policy. We will consider for employment qualified applicants with arrest and conviction
+records. Reasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with
+sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation, please
+email Candidateaccommodation@icf.com and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent
+required to provide needed reasonable accommodations.  Read more about workplace discrimination rights or our benefit offerings which are included in
+the Transparency in (Benefits) Coverage Act. Candidate AI Usage Policy At ICF, we are committed to ensuring a fair interview process for all candidates based on
+their own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) tools to generate or assist with responses during interviews
+(whether in-person or virtual) is not permitted. This policy is in place to maintain the integrity and authenticity of the interview process.  However, we
+understand that some candidates may require accommodation that involves the use of AI. If such an accommodation is needed, candidates are instructed to contact
+us in advance at candidateaccommodation@icf.com. We are dedicated to providing the necessary support to ensure that all candidates have an equal opportunity to
+succeed.   Pay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work
+experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract
+provisions regarding labor categories that are specific to the position. The pay range for this position based on full-time employment is: $45,805.00 -
+$94,221.00 Reston, VA (VA30) Need help? We're here: ICFCareerCenter@icf.com About ICF ICF is a global consulting and technology services company with
+approximately 9,000 employees, but we are not your typical consultants. At ICF, business analysts and policy specialists work together with digital strategists,
+data scientists and creatives. We combine unmatched industry expertise with cutting-edge engagement capabilities to help organizations solve their most complex
+challenges. Since 1969, public and private sector clients have worked with ICF to navigate change and shape the future. Learn more at icf.com.

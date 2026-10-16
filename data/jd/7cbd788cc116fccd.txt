@@ -1,0 +1,50 @@
+Be part of the Autonomous Vehicle (AV) Applied Research team and help advance safe autonomy through generative world models and synthetic data. This internship
+is an opportunity to work alongside a team of researchers and engineers developing the next generation of models that can understand, simulate, and reason about
+complex driving environments.
+We are looking for a passionate and highly motivated Research Intern with a strong background in machine learning and an interest in autonomous driving,
+generative world models, multimodal foundation models, and synthetic data generation. Our applied research team works closely with researchers and engineers
+across NVIDIA Research and the AV organization to develop scalable methods for training, evaluating, and improving autonomous systems.
+Our research spans generative video and world models, controllable scenario generation, multimodal learning, end-to-end driving, 3D computer vision, and data-
+centric learning. We are particularly interested in using generative models to create diverse, safety-critical, and long-tail driving experiences that can help
+improve the robustness and generalization of autonomous systems.
+As a Research Intern, you will contribute to research on generative data engines for autonomous driving: developing and using world models to understand data
+coverage, generate targeted driving scenarios, and study how synthetic data can systematically improve AV models. You will have the opportunity to develop new
+research ideas, run large-scale experiments, collaborate with experienced researchers and engineers, and contribute to publications at top-tier conferences.
+What you'll be doing:
+- Research and prototype generative world models, traffic world models, and synthetic-data generation methods for autonomous driving.
+- Develop traffic world models that capture multi-agent interactions and realistic, reactive behaviors, enabling simulation and generation of complex driving
+scenarios.
+- Develop methods for controllable generation of diverse, interactive, and safety-critical driving scenarios.
+- Explore how generative video models, multimodal foundation models, traffic simulation, data curation, active learning, self-supervised learning, and
+simulation can improve training-data quality, diversity, and coverage.
+- Design and conduct experiments to understand how generated data affects AV model performance, robustness, and generalization.
+- Translate recent advances in generative modeling and machine learning into practical approaches for autonomous driving.
+- Collaborate closely with researchers and engineers across NVIDIA on research prototypes and experimental systems.
+- Contribute to high-impact research publications and open research efforts.
+What we need to see:
+- Currently pursuing a Ph.D. or M.S. in Computer Science, Electrical/Computer Engineering, Robotics, or a related field, with research experience in deep
+learning, computer vision, generative modeling, multimodal learning, robotics, or autonomous driving.
+- Strong foundations in machine learning and deep learning, with hands-on experience developing and evaluating neural-network models.
+- Experience in one or more of the following areas: generative models, video generation, multimodal learning, 3D computer vision, autonomous driving, or
+robotics.
+- Strong mathematical and analytical skills and an interest in designing rigorous experiments.
+- Strong Python programming skills and experience with modern deep learning frameworks.
+- Self-motivated, collaborative, and comfortable working in a research environment with open-ended problems.
+Ways to stand out from the crowd:
+- Publications or research projects at conferences such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, or related venues.
+- Hands-on experience with generative world models, video generation, diffusion models, autoregressive models, multimodal foundation models, or synthetic-data
+generation.
+- Experience working with large-scale video, driving, robotics, or simulation datasets.
+- Experience with autonomous driving, embodied AI, physical AI, 3D scene understanding, or end-to-end learning.
+- Demonstrated ability to take a research idea from hypothesis → implementation → experimentation → quantitative evaluation.
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package.
+As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+20 USD - 71 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

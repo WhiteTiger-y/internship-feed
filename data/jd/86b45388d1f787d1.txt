@@ -1,0 +1,18 @@
+At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold
+ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and
+readily embrace emerging technology. We’re not waiting for the future to arrive. We’re shaping it, one bold step at a time. To those who see AI as a driver of
+progress, come build the future together. The Crown Is Yours As a Data Science Intern, you'll join a team tackling some of the most meaningful and complex
+challenges in the business. Working alongside experienced Machine Learning and Data Science engineers, you'll help build systems that power critical features
+like recommendation engines, fraud detection, and marketing optimization. You'll play a hands-on role in delivering high-impact solutions that shape the
+experience of millions of customers. What You'll Do Work within complex, production-level systems to support the development and deployment of machine learning
+solutions. Learn the end-to-end process of engineering design, model development, scalable system deployment, and ongoing operations. Make an immediate impact
+by contributing to ongoing internal research and development (R&D) initiatives. Partner with a team mentor to onboard smoothly and navigate workflows
+effectively. What You'll Bring Currently enrolled in a four year Bachelor's Program. Proficiency in Python and a solid foundation in statistics. Experience
+working on collaborative technical projects, either through internships, coursework, or extracurriculars. Familiarity with version control systems like Git. A
+proactive mindset and curiosity to explore new tools, techniques, and technologies. Previous internship experience in a corporate or technical setting in
+preferred. Join Our Team We’re a publicly traded (NASDAQ: DKNG) technology company headquartered in Boston. As a regulated gaming company, you may be required
+to obtain a gaming license issued by the appropriate state agency as a condition of employment. Don’t worry, we’ll guide you through the process if this is
+relevant to your role. DraftKings Inc. (Nasdaq: DKNG) is a digital sports entertainment and gaming company. It’s simple, at DraftKings, we believe life’s more
+fun with skin in the game. For that reason, we’re committed to responsibly creating the world’s favorite games and betting experiences. Headquartered in Boston,
+with offices around the globe, we believe we can continue to define what it means to be a technology company in sports entertainment. We love what we do, and
+think you will too.

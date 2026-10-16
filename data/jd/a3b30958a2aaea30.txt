@@ -1,0 +1,31 @@
+Voleon is a technology company that applies state-of-the-art AI and machine learning techniques to real-world problems in finance. For nearly two decades, we
+have led our industry and worked at the frontier of applying AI/ML to investment management. We have become a multibillion-dollar asset manager, and we have
+ambitious goals for the future.
+Your colleagues will include internationally recognized experts in artificial intelligence and machine learning research as well as highly experienced finance
+and technology professionals. In addition to our enriching and collegial working environment, we offer highly competitive compensation and benefits packages,
+technology talks by our experts, a beautiful modern office, daily catered lunches, and more.
+As a Research Intern, you will work directly with world-class machine learning scientists, statisticians, and technical innovators. You will be at the forefront
+of modern statistical machine learning innovation, applying novel research to large, high-dimensional data sets. This role is a means to make a difference:
+together with other Members of Research Staff, you will have an enduring impact on our field.
+RESPONSIBILITIES
+- Work on complex problems with a research team that has collectively published hundreds of academic articles in top-tier venues on machine learning, systems,
+and theory
+- Apply expertise in a technical field such as statistics, mathematics, computer science, engineering, or operations research, to challenging problems in a
+burgeoning technical field
+- Develop predictive models and other components of automated trading systems
+- Engage in work ranging from data preparation to model development to production software implementation
+REQUIREMENTS
+- Current graduate student in a quantitative discipline, expecting to attain a Ph.D. degree in December 2026, or anytime in 2027
+- Background in modern statistical methods and machine learning
+- Key contributions to multiple top tier publications
+- Programming experience and interest in software development techniques
+- Authorization to work in the United Kingdom
+Interest in financial applications is essential, but experience in finance is not a primary factor in our hiring
+“FRIENDS OF VOLEON” CANDIDATE REFERRAL PROGRAM
+If you have a great candidate in mind for this role and would like to have the potential to earn $15,000 if your referred candidate is successfully hired and
+employed by The Voleon Group, please use this form https://voleon.com/referrals/ to submit your referral. For more details regarding eligibility, terms and
+conditions please make sure to review the Voleon Referral Bonus Program https://voleon.com/assets/Voleon-Referral-Bonus-Program.pdf.
+EQUAL OPPORTUNITY EMPLOYER
+The Voleon Group is an Equal Opportunity employer. Applicants are considered without regard to race, color, religion, creed, national origin, age, sex, gender,
+marital status, sexual orientation and identity, genetic information, veteran status, citizenship, or any other factors prohibited by local, state, or federal
+law.

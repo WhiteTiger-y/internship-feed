@@ -1,0 +1,42 @@
+Data Science Intern (Summer 2027)
+Data Science Intern (Summer 2027)
+About Us:
+At apexanalytix, we’re lifelong innovators! Since the date of our founding nearly four decades ago we’ve been consistently growing, profitable, and delivering
+the best procure-to-pay solutions to the world. We’re the perfect balance of established company and start-up. You will find a unique home here.
+And you’ll recognize the names of our clients. Most of them are on The Global 2000. They trust us to give them the latest in controls, audit and analytics
+software every day. Industry analysts consistently rank us as a top supplier management solution, and you’ll be helping build that reputation.
+Read more about apexanalytix - https://www.apexanalytix.com/about/
+Position Title: Internship – Data Science
+Reports to: Manager- Data Science
+Work Location: Greensboro, N.C.
+Job Summary
+The Data Science Intern is responsible for developing and deploying data analytics and AI applications, and developing machine learning models, deploying into
+Kubernetes clusters. This role involves working with large datasets, implementing monitoring systems, and post deployment analysis processes. The intern will be
+part of a dynamic team, driving our data-driven culture forward with innovative solutions.
+Key Responsibilities
+- Process and analyze complex data from diverse sources to extract business insights.
+- Build and deploy machine learning models.
+- Design, develop, and deploy containerized applications to our Kubernetes cluster.
+- Ensure scalability, reliability, and performance of deployed applications.
+- Work with Large Language Models (LLMs) to develop and integrate AI-powered features into our products.
+- Troubleshoot and resolve issues related to AI applications and Machine Learning Models and the Relevant Tools/Platforms.
+- Build UI applications using Streamlit or a similar framework to create product prototypes and gather user feedback .
+- Stay up to date with industry trends, best practices, and emerging technologies in AI, data science, and cloud computing.
+Requirements
+- Currently pursuing a bachelor's degree or higher in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field or Associate
+degree holders with relevant skills and experience.
+- Strong programming skills in Python , with experience in data analysis, data science, or a related field.
+- Experience with data analysis and machine learning model development.
+- Experience with SQL and database management systems.
+- Knowledge of Large Language Models ( LLMs ) and their applications in AI product development.
+- Familiarity with containerization using Docker and Kubernetes .
+- Excellent problem-solving skills, with the ability to work independently and collaboratively.
+- Strong communication and documentation skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+Over the years, we’ve discovered that the most effective and successful associates at apexanalytix are people who have a specific combination of values, skills,
+and behaviors that we call “The apex Way”. Read more about The apex Way - https://www.apexanalytix.com/careers/
+Apply now
+R&D - Archimedes
+Greensboro, NC
+Share on:
+Apply now
+Terms of service Privacy Cookies Powered by Rippling

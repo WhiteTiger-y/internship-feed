@@ -1,0 +1,62 @@
+Overview
+SUMMER 2027
+Shure offers a challenging, fun, and rewarding summer internship program. The twelve-week program is offered to undergraduate and graduate students. We offer
+internships with a variety of work arrangements from onsite interns to fully remote in US. Each intern will receive a competitive salary. Additionally, Interns
+who are asked to relocate to Illinois for onsite internships will receive a housing stipend to cover living expenses. Applications will be collected, reviewed,
+and selected candidates will be contacted in late fall/early winter.
+The Quality Data Engineering intern will handle a variety of tasks and projects in the Quality Data Engineering team under supervision of the CQE Niles
+Associate Staff Managing Engineer.
+This Internship is Onsite or Hybrid based in Niles, IL.
+Responsibilities
+- Conducting quality data analytics and assisting in the development of data visualization reports
+- Engage with Quality associates to understand processes, data sources, reporting needs, and opportunities for improvement.
+- Assist with collecting, cleaning, validating, analyzing, and visualizing quality data using tools such as Tableau, SQL, Python, and Microsoft Power Platform.
+- Help develop and test Power Apps, Power Automate and Power Pages solutions that reduce manual work and improve data visualization and consistency.
+- Support quality dashboards, metrics, data documentation, user guides, and service requests.
+- Participate in root cause analysis and data reviews to identify trends, issues, and improvement opportunities.
+- Support the other members of the Quality Data Engineering team in conducting data quality monitoring protocols and implementing data cleanup activities as
+needed.
+- Assist in the resolution of Quality Engineering service requests from the Quality team.
+- Apply foundational knowledge of generative AI, prompt design, data grounding, model limitations, privacy, and responsible use.
+- Develop an introductory understanding of agentic AI concepts, including goals, instructions, tools/actions, knowledge sources, orchestration, human oversight,
+and evaluation.
+- Build and test basic copilots or agents in Microsoft Copilot Studio, including topics/instructions, knowledge connections, simple actions or flows, testing,
+and documentation.
+- Explore practical AI use cases for Quality, such as knowledge retrieval, request triage, guided analysis, or workflow support.
+- Attend weekly data engineering staff meetings.
+- Collaborate with Quality, IT, and other business teams while following data governance, security, and responsible AI practices.
+- Present project findings, lessons learned, and recommendations to stakeholders.
+Qualifications
+- Pursuing bachelor’s degree in Engineering, Computer Science, Information Technology or closely related field, with a minimum of two years of engineering
+coursework.
+- Intermediate working knowledge of MS Office applications Word, PowerPoint. Advanced to expert working knowledge of MS Excel.
+- Intermediate to advance knowledge of one or more programming languages, such as Python, Java, C/C++, SQL, etc.
+- Basic familiarity with generative AI tools and strong interest in AI-enabled business solutions. Copilot Studio experience is a plus, not required.
+- Logical problem-solving mindset, attention to detail, curiosity, and willingness to learn.
+- Basic to Intermediate knowledge of data visualization tools such as Tableau.
+- Basic to Intermediate knowledge of Microsoft Power Platform tools (Power Automate, PowerApps) and Microsoft Cloud and Collaboration Services (SharePoint
+Online, Teams, OneDrive)
+- Basic knowledge of database management, structure, and data governance applications.
+- Basic Knowledge of Statistics and common terms used.
+- Clear written and verbal communication; able to work collaboratively in a global, cross-functional environment.
+Applicants for this position must be currently authorized to work in the United States on a full-time basis. Shure will not sponsor applicants for this position
+for work visas.
+WHO WE ARE
+Shure’s mission is to be the most trusted audio brand worldwide – and for over a century, our Core Values have aligned us to be just that. Founded in 1925, we
+are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio
+systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get.
+We offer an Associate-first culture, flexible work arrangements, and opportunity for all.
+Shure is headquartered in United States. We have more than 35 regional sales offices, engineering hubs, distribution centers and manufacturing facilities
+throughout the Americas, EMEA, and Asia.
+Join Shure and Amplify Your Impact. Explore our unique culture and learn the key pillars that define our legacy of excellence.
+THE MIX MATTERS Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to
+providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be
+successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!
+PAY TRANSPARENCY
+Modeled by extensive market analysis and economic best practices, Shure offers competitive intern compensation that is reviewed and adjusted annually by our
+Total Rewards Team to attract, hire, and retain the industry’s top intern talent. Each internship has an hourly rate which varies from $23-$43 per hour based on
+job function (Engineering, IT, Business, etc) and year completed in school (Junior, Masters 2nd year, PHD, etc).
+WE GOT YOU - Our Benefits
+At Shure, we prioritize the well-being of our associates. Benefits for our interns include retirement savings plans and paid time off, employee discounts,
+professional development opportunities, and work-life balance initiatives. To learn more, check out our Intern Benefits At A Glance
+#LI-HYBRID

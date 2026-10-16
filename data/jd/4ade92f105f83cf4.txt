@@ -1,0 +1,63 @@
+Job Details:
+Job Description:
+The Role and Impact:
+Intel is seeking motivated individuals to join its dynamic design engineering team as an AI-Driven Physical Design Engineering PhD Intern. This role offers a
+unique opportunity to leverage artificial intelligence and machine learning techniques to revolutionize the physical implementation of cutting-edge silicon
+designs. You will focus on developing AI-powered workflows, building intelligent data analysis capabilities, and designing adaptive systems that enhance
+execution efficiency and optimize implementation strategies through data-driven decision making.
+Business Group:
+The Data Center Group (DCG) is at the forefront of developing high-performance computing solutions that power the world's data-centric applications. This team
+is dedicated to designing innovative silicon technologies that support Intel's mission to lead in processing, storage, and networking solutions for data
+centers. Join a group committed to shaping the future of technology by solving complex challenges and driving performance enhancements.
+Key Responsibilities:
+- Research and implement AI/ML techniques to identify new opportunities for improving physical design processes and methodologies.
+- Develop AI-enhanced workflows for high-performance silicon implementation that reduce manual effort and improve design quality.
+- Build ML-powered data analysis and summarization pipelines to enable faster, more accurate design decision-making.
+- Design and implement Graph Neural Network (GNN) based systems to support dynamic, intelligent decision-making in design execution.
+- Develop intelligent automation frameworks using Python, and ML libraries such as TensorFlow or PyTorch, alongside traditional scripting in TCL and Perl.
+- Collaborate with cross-functional AI research and design engineering teams to align AI-driven strategies with broader project objectives.
+- Evaluate and benchmark AI-driven methodologies against traditional approaches to demonstrate measurable improvements in PPA (Power, Performance, Area).
+Qualifications:
+Minimum Qualifications:
+- Enrolled in a PhD program in Electrical Engineering, Computer Engineering, Computer Science, or a related field.
+- Proficiency in industry-standard tools for physical design, including synthesis, place and route, and timing analysis software.
+- Familiarity with scripting languages like Python or TCL for flow automation and debugging.
+- Understanding of digital design concepts and methodologies, including RTL design and verification.
+Preferred Qualifications:
+- Strong problem-solving skills with a creative and innovative mindset.
+- Ability to work effectively in a collaborative, team-oriented environment.
+- Exceptional organizational and communication skills to drive alignment across diverse teams.
+- Understanding of Graph Neural Networks (GNNs) or graph-based algorithms
+- Experience with data analysis tools (Pandas, NumPy, Matplotlib)
+- Knowledge of reinforcement learning concepts for design optimization
+- Strong Python programming skills with ML application experience
+- Background in EDA tools and physical design fundamentals
+Apply now to be part of Intel's journey to create groundbreaking technologies that transform industries and improve lives.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (United States of America)
+Primary Location:
+US, California, Santa Clara
+Additional Locations:
+US, Colorado, Fort Collins, US, Massachusetts, Beaver Brook, US, Oregon, Hillsboro, US, Texas, Austin
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel .
+Annual Salary Range for jobs which could be performed in the US: $141,998.00-142,002.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.The application window for
+this job posting is expected to end by 02/09/2027
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

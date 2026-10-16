@@ -1,0 +1,34 @@
+Job Requisition ID # 26WD101433 Position Overview As a Research Intern at Autodesk, you’ll explore how multimodal AI can help us better understand human
+experience in real and simulated built environments. Working with a multidisciplinary research team across AI, spatial computing, AEC, and human perception,
+you’ll develop and evaluate methods that connect representations of the built environment with perceptual, affective, and experiential responses. Your work may
+include multimodal foundation models, AI agents, world models, and physiological signals such as EEG. You’ll build research prototypes, develop evaluation
+methods and benchmarks, and explore how this research could inform future Autodesk design workflows. Responsibilities Research multimodal AI approaches for
+understanding built environments and human experience Develop methods using foundation models, AI agents, and/or world models Work with multimodal datasets,
+including visual, spatial, behavioral, and physiological data Design experiments and benchmarks to evaluate AI predictions against human responses Build and
+evaluate research prototypes for real and simulated environments Document and communicate findings through papers, presentations, and demonstrations Minimum
+Qualifications Currently pursuing a PhD in Computer Science, Machine Learning, Computational Neuroscience, Cognitive Science, HCI, Robotics, Computational
+Design, or a related field - with a completion date in 2028 or later Research experience in AI/ML, computer vision, human perception, or a related computational
+field Strong programming skills, ideally with Python and modern ML frameworks Experience designing computational experiments and working with complex datasets
+Strong collaboration and communication skills Preferred Qualifications Experience in one or more of the following: multimodal AI or vision-language models;
+world models, AI agents, or spatial intelligence; 3D, simulation, or virtual environments; human perception or human-centered AI; physiological or behavioral
+signals such as EEG or eye tracking; human-subject research; AEC or computational design; or Autodesk tools such as Forma. About the Research Intern Program
+(US) The 2027 Research Internship Program is a 16-week paid program running from May 24th to Sept 10, 2027. You’ll contribute to meaningful projects, learn from
+industry leaders, and take part in tech talks and development opportunities. Internships align with Autodesk’s Flexible Workplace approach, supporting office,
+remote, and hybrid work based on business and team needs. Learn More About Autodesk Welcome to Autodesk! Amazing things are created every day with our software
+– from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming
+not only how things are made, but what can be made. We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture
+guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world. When you’re an
+Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us! Salary
+Transparency Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience, educational level, and
+geographic location, and can exceed this range. For U.S.-based roles, we expect a starting annualized intern base salary to be between: $47,840 and $95,680
+(undergraduate students) $72,800 and $118,500 (Masters/MBA students) $118,560 and $162,240 (PhD students) Equal Employment Opportunity At Autodesk, we're
+building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an
+equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender,
+gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified
+applicants regardless of criminal histories, consistent with applicable law. Belonging We take pride in cultivating a culture of belonging where everyone can
+thrive. Learn more here: https://www.autodesk.com/company/global-belonging In-Person Onboarding and Identity Verification This role may require in-person
+onboarding and/or in-person ID verification. Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and
+cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but
+what can be made. We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each
+other, informs how we connect with customers and partners, and defines how we show up in the world. When you’re an Autodesker, you can do meaningful work that
+helps build a better world designed and made for all. Ready to shape the world and your future? Join us!

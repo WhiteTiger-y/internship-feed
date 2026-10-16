@@ -1,0 +1,60 @@
+Shape what comes next | Discover careers in Tech
+At Amazon, our tech isn't just a tool, it's your playground. Our engineers work on scalable systems, cloud services, and customer-facing products that operate
+at global scale. This is an environment where you learn by building. Whether you're creating cloud-native solutions, optimizing machine learning models, or
+building products that drive experiences for millions of customers around the globe, your work reaches the world, fast. You'll take ownership early, collaborate
+across teams and disciplines, and grow your skills as you tackle new problems. There's no single path forward here, with a chance to explore different
+directions and shape your journey as you go. This is where ambition meets opportunity and, where the impact of what you build helps define what comes next, for
+customers and for you.
+What's in it for you? An internship at Amazon means real responsibility from day one. You'll build, test, and learn alongside people who want to see you
+succeed, while making an impact that reaches far beyond campus.
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made
+us one of the world's most beloved brands.
+Our Software Development Engineer (SDE) interns use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDE
+interns solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new
+products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
+As a member of the Amazon Robotics Firmware team, you will work as part of a cross functional team to shape the next generation of robotic systems used
+throughout Amazon’s order fulfillment network. You will work closely with not only other embedded software engineers but also our team of electrical, mechanical
+and safety engineers to deliver a lasting impact to millions of customers worldwide.
+Amazon Robotics develops state-of-the art robotics for Amazon’s Fulfillment Centers. We are combining computer vision and custom robots to solve real-world
+problems at huge scale. Amazon Robotics automates fulfillment center operations using various methods of robotic technology including autonomous mobile robots,
+sophisticated control software, language perception, power management, computer vision, depth sensing, machine learning, object recognition, and semantic
+understanding of commands. Amazon Robotics has a dedicated focus on research and development to continuously explore new opportunities to extend its product
+lines into new areas. Our team partners with a variety of customers across Amazon worldwide to conceive, develop, prototype and deploy a wide range of robotic
+systems.
+Amazon Robotics empowers a smarter, faster, more consistent customer experience through automation. We are building a new, foundational automation system that
+will transform warehouse operations by combining multiple novel workcells. We're looking for curious minds who think big and want to define tomorrow's
+technology for operating robotics systems. At Amazon, we believe in ownership at every level. As an SDE Intern, you will own designing, developing, integrating,
+troubleshooting, and optimizing critical automation systems that will be deployed at very large scale. This ownership mindset, combined with our commitment to
+operational excellence, ensures we deliver the highest quality solutions for our customers.
+You will act as a key contributor to our product development roadmap and help develop software features, tools, and mechanisms to operate large robotic fleets
+(10,000s). At Amazon Robotics, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day
+brings exciting new challenges and opportunities for personal growth. Amazon Robotics internship/co-op opportunities will be based out of the Greater Boston
+Area in our two state-of-the-art facilities in Westborough, MA and North Reading, MA. Both campuses provide a unique opportunity to have direct access to
+robotics testing labs and manufacturing facilities.
+Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically
+between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other
+employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship
+concludes.
+Key job responsibilities
+• Assisting the firmware team in writing code, scripts, and tests for our current and next generation of robotic systems
+• Assisting an interdisciplinary team of engineers in the execution of product designs from concept to production including design, prototyping, validation,
+testing, and certification
+• Having an understanding of and interest in the technical principles, theories, and concepts in embedded firmware development and testing
+• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, test, deploy and operate innovative robotics products
+and services that delight our customers, while participating in technical discussions to drive solutions forward.
+• Participate in code reviews and contribute to technical documentation.
+• Build and maintain resilient robotics systems that are scalable, fault-tolerant, and cost-effective.
+• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
+• Write clean, maintainable code following best practices and design patterns.
+• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties.
+• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
+A day in the life
+As an intern, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical
+projects early in your career.
+In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand
+your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to
+own your project and learn in a real-world setting.
+- Are 18 years of age or older
+- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Systems Engineering, Electrical Engineering, or other related
+discipline
+- Experience with data s

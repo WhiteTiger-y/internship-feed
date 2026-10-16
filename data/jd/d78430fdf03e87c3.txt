@@ -1,0 +1,28 @@
+NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing.
+More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars
+that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our
+teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?
+We are now hiring software engineers for our China TSE Deep Learning team. Join our China TSE Deep Learning solution team and help build the cutting-edge, high-
+performance deep learning solutions driving our success in this exciting and quickly growing field.
+What you'll be doing:
+- Work on research, design and implementation of software features that are beneficial to our customers to meet their performance targets and build unique
+values
+- VLA (Vision Language Action) and autonomous driving related development and bug fixes
+- Develop solutions for DNN models acceleration optimization and deployment.
+What we need to see:
+- Subject to arrangement to different works at any time to take on different tasks and challenges
+- Self-motivated attitude and motivation to make things success, intent to learn
+- Pursuing BS/MS degree in Computer Science/EE or related
+- Proven fundamentals in c++/python programming and SW design and debug skills
+- Abundant knowledge of ML/DL techniques for Computer Vision and autonomous driving
+- Believe that experimenting is the only way to find the truth, not argument and arbitrary guess
+- Located in Shanghai/Shenzhen or willing to work in Shanghai/Shenzhen
+Ways to stand out from the crowd:
+- DNN development and network acceleration is highly desired
+- Familiarity with GPU computing/NVIDIA CUDA/NVIDIA TensorRT
+NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most brilliant and talented people in the world
+working for us. If you're creative and autonomous, we want to hear from you!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning

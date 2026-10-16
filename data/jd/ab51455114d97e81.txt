@@ -1,0 +1,26 @@
+The Opportunity If you enjoy applying your quantitative and ML skills to real-world problems, coding production-quality analysis and tools, and working in a
+fast-paced environment with immediate and tangible feedback, our Summer Internship Program is ideal for you. At Brevan Howard, we build systematic and
+discretionary investment processes that rely on rigorous analysis of a vast universe of data, such as asset prices, macroeconomic indicators, news, sell-side
+research, and trading signals. Transforming this data into actionable insights is central to how we win, and we’re looking to find the next generation of
+portfolio managers and quants through our internship program—people who are eager to push the frontier of research and engineering in global macro investing.
+Overview & Responsibilities You will work directly with senior professionals to provide immediate impact on a range of projects: Our Internship Program starts
+with one-week in-depth training to prepare interns for the desk. This covers a range of topics relating to Financial Markets including Macroeconomics, FX,
+Digital Assets, Interest Rate Derivatives, Equity Rates, Bonds, Credit and Fixed Income, Trading Strategies, Risk Management, Excel and Python, and the latest
+AI tools and LLMs. During the program, working in a fast-paced environment, interns will work for the Data Sourcing and Strategy team to learn the acquisition
+of new data assets, manage complex data projects, provide expertise in data alternatives across asset and category types, and partner with our Investment
+Professionals to analyze their data requirements. Additionally, interns will benefit from key talks, a mentor program, social events and interactions with some
+of the most respected and talented individuals in their field. This internship is devised to provide candidates with an invaluable education on the workings of
+a macro hedge fund and the regulatory environment through a two-way process to determine if Brevan Howard and the intern are a compatible fit. The goal of our
+summer internship program is to convert top performing interns to our 2028 Graduate Program. Qualifications & Requirements A penultimate year
+undergraduate/junior or 1st year master's or PhD student at a recognized University — completed and awarded before July 2028 Strong mathematical, quantitative,
+problem-solving capabilities, and technical skills in Excel, VBA, and R An interest and passion for financial markets, trading, and financial products. The
+ability to work independently and collaboratively as part of a team. An entrepreneurial spirit. Exemplary professionalism with internal and external clients.
+Strong written and verbal communication skills in English. Why take this opportunity This is a unique opportunity to gain insight into one of the world’s
+leading firms operating at the forefront of macro trading. At Brevan Howard, we believe the future of investing lies at the intersection of deep domain
+expertise and cutting-edge technology. As our industry is being reshaped by AI and automation, you’ll see first-hand how LLMs, retrieval, and agent-like systems
+are being used in the front-office environment at one of the world’s premier macro hedge funds – where correctness, robustness and speed matter. Top-performing
+interns are considered for our Graduate Program the following year and longer-term paths include roles as analyst, quant, and portfolio manager. Please note
+that you may only submit one application to the Summer Internship Program globally. We encourage you to apply to the role and region that best align with your
+skills, experience, and interests. Compensation Compensation for this internship is based on an annualized salary of $125,000, prorated for the 10-week duration
+of the program. All interns also receive a housing stipend and an internship completion bonus. Please note: This career site is no longer active. We've moved to
+a new careers site. To search and apply for current openings at Brevan Howard, please visit our new career site: BH Careers

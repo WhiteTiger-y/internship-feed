@@ -1,0 +1,53 @@
+Description
+Consumer Business Unit - AI Analyst Internship – Summer 2027
+The Best Experience Company
+Our tagline is “The Best Experience Company.” More than just a set of words, it represents the essence of who we are at Springs Window Fashions. As North
+America’s premier window covering company, we’re committed to creating the Best Experience for our associates, consumers and end users, business partners, and
+communities. We want you to join our team of passionate self-starters who believe the world is full of Best Experience opportunities. So, if you’re excited
+about the thought of a Best Experience career with a team focused on creating Best Experiences for all, we want to hear from you!
+Internship Projects and Responsibilities:
+Competitive Pricing Automation
+In this capacity, the Intern will support the development of an AI-enabled pricing scraper designed to provide real-time visibility into competitor pricing
+across retail partners. This internship will focus on helping build a scalable process for collecting, organizing, and summarizing competitive pricing data to
+improve business visibility and support faster decision-making. Responsibilities may include:
+- Support the development of an AI-enabled pricing scraper to capture competitive pricing information across key retailers and competitors.
+- Research pricing data sources and define requirements for collecting consistent, accurate, and timely competitive pricing information
+- Assist in organizing scraped pricing data into a structured format suitable for analysis and reporting.
+- Partner with business stakeholders to understand reporting needs and identify the most relevant competitive pricing insights.
+- Help develop an automated weekly report that highlights changes in the competitive pricing landscape.
+- Document the process, assumptions, limitations, and recommendations to support future scalability and ongoing use.
+Online Product Placement Tracking
+In this capacity, the Intern will support the development of an AI-enabled tracker designed to monitor and report changes to Springs Window Fashions product
+placement across retailer websites. This internship will focus on improving visibility into how SWF products are represented online, identifying changes in
+competitive positioning, and helping create a scalable process for weekly reporting. Responsibilities may include:
+- Support the development of an AI-enabled product tile placement tracker across key retailer websites.
+- Monitor changes to SWF product placement, visibility, ranking, assortment presence, and competitive positioning online.
+- Research retailer website structures and identify how product placement data can be consistently captured and organized.
+- Assist in defining requirements for tracking product tile movement, new product placement, discontinued visibility, and competitive activity.
+- Help organize placement data into a structured format that supports analysis and reporting.
+What Spring’s Best Experience Means for You
+Springs Window Fashions offers incredible opportunities to develop the skills you’ll need to be successful in a fast-paced consumer products company. You’ll
+also be provided with several perks and benefits as a member of the Springs team:
+- Newly renovated corporate headquarters (including on-site fitness center)
+- Exposure to other roles and functions within SWF
+- Career advancement opportunities
+- Regular interaction with multiple functional areas and with others at all levels within the organization, from production to senior leadership
+- Paid on-the-job training; in-depth product knowledge sessions via online courses, live online classes, and live sessions
+Requirements
+What We’re Looking For
+- Previous internship experience in relevant function
+- Pursuing a 4-year degree with preferred current standing of Sophomore/Junior level
+- Proficient computer skills Microsoft Office
+- Problem-solving and critical thinking skills
+- Strong communication skills (verbal, written and attention to detail)
+- Positive attitude and eagerness to learn
+How We Work to Deliver a Best Experience: Our Culture
+- Our Core Value: We do the right thing, always
+- Our Seven Cultural Behaviors
+- Empowerment - We trust our people.
+- Ownership - We take 100% responsibility for our roles actions, and results.
+- Leadership - We all lead by example and talk direct with respect (DWR).
+- One Team - We are One Springs Team.
+- Customer First - We consider our customers' needs before every decision.
+- Continuous Innovation - We are constantly learning, innovating, and improving.
+- Speed - We define priorities and operate with a sense of urgency and agility.

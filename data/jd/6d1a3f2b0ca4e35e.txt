@@ -1,0 +1,92 @@
+Research Scientist Intern (Multimedia Streaming) - 2027 Start (PhD)
+Life at ByteDance
+Our Culture Our Philosophy Teams
+Advertising & Sales Corporate Functions Design E-Commerce Global Operations Marketing & Communications Product Technology How We Hire
+Applying to ByteDance Interview Tips Frequently Asked Questions Locations
+Early Careers
+Early Careers at ByteDance Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+EN 日本語
+p:empty]:h-[56px] [&>div:empty]:h-[56px] bd-title"> Join us as we work together to inspire creativity and enrich life around the globe.
+Life at ByteDance
+Early Careers Americas Asia Pacific Europe and Middle East Early Careers FAQ
+Teams Technology Product Design Marketing & Communications Corporate Functions Global Operations Advertising & Sales
+How We Hire FAQ Interview Tips
+Locations
+Blog
+Legal Privacy Policy Cookie Policy
+Other Open Roles Careers @ TikTok Careers in China
+Privacy Policy © 2012-2025 ByteDance
+Research Scientist Intern (Multimedia Streaming) - 2027 Start (PhD)
+Location :
+San Diego
+Team :
+Technology
+Employment Type :
+Intern
+Job Code :
+A123952B
+Apply to this job Share this listing:
+Responsibilities
+About the Team
+Our lab is dedicated to advancing state-of-the-art research in multimedia, including but not limited to image and video processing, compression, and
+transmission. We focus on translating cutting-edge research into impactful product technologies that serve hundreds of millions of users worldwide. We are
+seeking exceptional researchers in multimedia, systems, and networking who demonstrate research excellence, a passion for shaping the future of multimedia
+systems, and strong potential for technical leadership.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+- Conduct research on performance analysis and optimization of large-scale streaming systems, including on-demand streaming, live streaming, and real-time
+communication.
+- Explore and prototype novel algorithms, architectures, and system designs for emerging media formats, such as 360-degree video, volumetric video, and light
+field streaming.
+- Investigate QoE-related metrics, modeling approaches, and evaluation methodologies for large-scale multimedia delivery systems.
+- Build research prototypes, run experiments, analyze data, and generate insights to validate technical hypotheses.
+- Collaborate closely with researchers and engineers to translate research ideas into practical solutions and potential product innovations.
+- Contribute to technical reports, academic publications, patent filings, and internal research documentation.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a PhD in Computer Science, Electrical Engineering, or a related field.
+- Strong fundamentals in algorithms, data structures, computer systems, networking, and software development.
+- Demonstrated research ability through publications, submitted manuscripts, or substantial project experience in relevant areas.
+- Strong problem-solving, experimentation, and analytical skills.
+- Effective communication skills and ability to work collaboratively in a research-driven environment.
+Preferred Qualifications
+- Research experience in multimedia systems, video streaming, networking, distributed systems, or related domains.
+- Familiarity with CDN systems, content delivery optimization, adaptive streaming, or low-latency media transport.
+- Experience with transport protocols, congestion control, or real-time communication systems.
+- Experience applying machine learning or reinforcement learning to multimedia or networked systems.
+- Interest in next-generation streaming applications, such as cloud gaming, cloud XR, immersive media, or interactive streaming.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $57- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclu

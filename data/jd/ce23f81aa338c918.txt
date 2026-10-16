@@ -1,0 +1,55 @@
+Overview
+Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized
+scientists and engineers, who pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including
+computing, healthcare, economics, and the environment.
+Microsoft Research New York City (MSR NYC) is seeking applicants for Research Internship positions in machine learning (ML) and artificial intelligence (AI ).
+We seek applications from all areas of machine learning. The current focus areas of the group include reinforcement learning for language models, science of
+deep learning, post-training, model interpretability and steering, reasoning, (recursive) self-improvement and test-time scaling. We encourage applicants with a
+mix of theoretical and empirical background to apply.
+Responsibilities
+Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world’s best researchers, Research Interns learn,
+collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides.
+During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present
+findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though
+they typically begin in the summer.
+Qualifications
+Required Qualifications
+- Currently enrolled in a Doctorate Degree program in Computer Science or a related STEM field.
+Other Requirements
+- Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.
+- In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant
+work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference
+letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates.
+You may wish to alert your letter writers in advance, so they will be ready to submit your letter.
+Preferred Qualifications
+- Experience with deep learning and language modeling frameworks like pytorch, huggingface transformers, virtual Large Language Models (vLLM).
+The base pay range for this internship is USD $6,810 - $13,480 per month. There is a different range applicable to specific work locations, within the San
+Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $8,920 - $14,610 per month.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-
+intern-pay
+Microsoft accepts applications and processes offers for these roles on an ongoing basis throughout the academic calendar (September - April).
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship,
+color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin,
+physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual
+orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations
+and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+220,000 employees empowering 8,000,000,000 people on the planet. To make every small business more productive and every large business more competitiv... Behind
+the technology, you’ll find leaders and innovators, and movers and shakers. This is Microsoft. Move your career into the future with us: https:... This short
+film, created entirely of user generated content, celebrates the hopes, challenges and dreams of the individuals that make up Microsoft, an...
+https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/ Azure Maia 200 now in production; Azure Maia
+300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to
+multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services. The multigenerational... The post
+Microsoft to expand Azure Maia system to multi-gigawatt deployments appeared first on The Official Microsoft Blog . https://blogs.microsoft.com/wp-
+content/uploads/2026/10/OMB-Maia-300-Hero_10_9_26-1024x576.png https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/ Satya
+Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and
+LinkedIn employees this morning. SATYA NADELLA MESSAGE After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark
+on his next chapter. As Ryan and I... The post Microsoft 365 and LinkedIn leadership update appeared first on The Official Microsoft Blog .
+https://blogs.microsoft.com/wp-content/uploads/2026/03/MicrosoftLogo_social-1024x576.png https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-
+innovations-unlock-what-only-your-business-knows/ Every organization has knowledge that is uniquely its own: the way its business operates, the data it has
+built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that
+unique business intelligence matters more than ever. The difference will come from... The post New Microsoft data innovations unlock what only your business
+knows appeared first on The Official Microsoft Blog . https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-FabCon-26-Final-Hero-9_24-1024x683.jpg
+https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/ We’re reimagining Microsoft Copilot to enable work as it
+evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to
+connect the tools people rely on with the next generation of capabilit

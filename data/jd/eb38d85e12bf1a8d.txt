@@ -1,0 +1,14 @@
+JOB DESCRIPTION
+This is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction
+and systematic trading.
+JOB RESPONSIBILITIES
+- Pre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies
+- Identify features and relationships useful for the predictive modeling of market dynamics
+DESIRABLE CANDIDATES
+- MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline
+- Programming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl
+- Strong analytical and quantitative skills
+- Demonstrated interest in financial markets and systematic trading
+- Clear, concise, and proactive communicator
+- Detail-oriented
+- Willing to take ownership of his/her work, working both independently and within a small team

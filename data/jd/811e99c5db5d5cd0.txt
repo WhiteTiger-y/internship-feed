@@ -1,0 +1,45 @@
+The Role This is a full-time summer internship based in Cambridge, MA from June 7, 2027 – August 20, 2027. Candidates must be available for the entire duration
+of the program. The Statistical Innovation & Data Analytics (SiDA) team is advancing AI-enabled statistical and clinical data solutions to accelerate data-
+driven decision-making, improve operational efficiency, and strengthen regulatory readiness across clinical development programs. This role provides hands-on
+experience at the intersection of statistics, clinical data science, and AI engineering, with opportunities to work on: Clinical and statistical data analytics,
+including EDC, SDTM, ADaM, and translational data AI/ML research and applied statistical modeling for clinical development use cases LLM and agentic AI
+development, including domain-specific agents, tool integration, retrieval, and workflow orchestration Local and domain-specific model post-training,
+evaluation, and optimization for statistical and clinical applications AI-assisted statistical programming and analytics, exploring opportunities to automate
+and augment existing biometrics workflows Scalable and governed AI solutions, transitioning promising prototypes toward production-oriented applications that
+meet clinical data, security, quality, and compliance requirements The student will contribute to the design, development, evaluation, and implementation of AI-
+enabled capabilities that support statisticians, statistical programmers, data scientists, and clinical development teams. The role is particularly suited for
+students interested in going beyond general-purpose AI experimentation to understand how AI can be tailored, evaluated, and operationalized for statistical and
+clinical research workflows, with the goal of reducing repetitive work, accelerating time to insight, and enabling more agile use of clinical data. Here’s What
+You’ll Do Develop and evaluate AI/ML and agentic solutions for clinical data analysis, statistical programming, and workflow automation, including tool-calling,
+RAG, and skill-based agent architectures. Explore LLM post-training, adaptation, and evaluation approaches to improve model performance for statistical and
+clinical research use cases. Design agentic workflows with appropriate human oversight, traceability, and reproducibility for use in regulated clinical
+development environments. Build scalable and modular AI pipelines that integrate clinical, statistical, and translational datasets. Develop interactive data
+visualizations, dashboards, and analytical applications to accelerate clinical insights and decision-making. Collaborate with statisticians, statistical
+programmers, data scientists, and scientists to translate clinical and business needs into practical technical solutions. Explore opportunities to automate and
+augment the clinical data lifecycle, including data processing, analysis, QC, interpretation, and reporting. Contribute to documentation, evaluation, validation
+considerations, and reusable AI capabilities that can scale across studies and programs. Here’s What You’ll Bring to the Table (Preferred Qualifications)
+Master, doctoral or advanced undergraduate Student in statistics, biostatistics, computational biology, health informatics, data science or computer science
+related quantitative disciplines. Excellent statistical knowledge and quantitative skills with the ability to apply the knowledge to solve scientific and
+clinical problems. Experience in coding in Python (required) and R (preferred); demonstrated ability in cloud computing platforms, containerization, backend
+development, and SQL. Experience or demonstrated interest in GenAI/LLMs, machine learning, agentic systems, model post-training, or AI application development.
+Familiarity with one or more of the following is a plus: cloud computing, containerization, APIs/backend development, RAG, model evaluation, or AI deployment.
+Experience developing data visualizations, analytical applications, dashboards, or reusable computational tools is preferred. Interest in building practical,
+reliable, and scalable AI solutions for clinical or biomedical research. Strong analytical thinking, engineering mindset, curiosity, and written and verbal
+communication skills. Ability to learn quickly, work across disciplines, and translate emerging AI technologies into practical solutions. Our Working Model  As
+we build our company, we have always believed an in-person culture is critical to our success. Moderna champions the significant benefits of in-office
+collaboration by embracing a 70/30 work model. This 70% in-office structure helps to foster a culture rich in innovation, teamwork, and direct mentorship. Join
+us in shaping a world where every interaction is an opportunity to learn, contribute, and make a meaningful impact. Moderna is a smoke-free, alcohol-free, and
+drug-free work environment. Pay & Benefits At Moderna, we believe that when you feel your best, you can do your best work. That’s why our co-op benefits are
+designed to support you during your time with us —at work, at home, and everywhere in between. Free premium access to meditation and mindfulness classes
+Subsidized commuter benefits Generous paid time off, including vacation, sick time, holidays, volunteer days, and a discretionary year-end shutdown Location-
+specific perks and extras The salary range for this role is $20.00 - $60.00. This is the lowest to highest salary we in good faith believe we would pay for this
+role at the time of this posting. An individual’s position within the salary range will be based on several factors including, but not limited to, specific
+competencies, relevant education, qualifications, certifications, experience, skills, performance, and business or organizational needs. The successful
+candidate may be eligible for an annual discretionary bonus, other incentive compensation, or equity award, subject to company plan eligibility criteria and
+individual performance. The successful candidate may be eligible for an annual discretionary bonus, other incentive compensation, or equity award, subject to
+company plan eligibility criteria and individual performance. About Moderna Since our founding in 2010, we have aspired to build the leading mRNA technology
+platform, the infrastructure to reimagine how medicines are created and delivered, and a world-class team. We believe in giving our people a platform to change
+medicine and an opportunity to change the world. By living our mission, values, and mindsets every day, our people are the driving force behind our scientific
+progress and our culture. Together, we are creating a culture of belonging and building an organization that cares deeply for our patients, our employees, the
+environment, and our communities. We are proud to have been recognized as a Science Magazine Top Biopharma Employer, a Fast Company Best Workplace for
+Innovators, and a Great Place to Work in the U.S. If you want to make a difference a

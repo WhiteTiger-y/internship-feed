@@ -1,0 +1,47 @@
+WD is building the infrastructure behind the AI-driven data economy.
+As AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s
+where we come in.
+We combine deep engineering expertise with global-scale manufacturing to deliver the storage systems that make AI possible, powering hyperscale data centers,
+cloud platforms, and enterprise infrastructure worldwide.
+This isn’t theoretical work. It’s real systems, at real scale, people solving some of the hardest challenges in technology today.
+We’re looking for people who want to build, solve, and operate at that level.
+Join us and let’s shape the future of data.
+Job Summary
+Western Digital's Manufacturing Engineering team is looking for an enthusiastic intern to assist in developing an automated Off-hold Tracking solution. The
+intern will support efforts to reduce manual data compilation in the Factory Quality Assurance Process (FQAP). This is a learning-focused role ideal for
+students eager to apply their academic knowledge in a real-world manufacturing setting.
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+- Assist in building a simple automated system to track Off-hold status and reduce manual compilation
+- Learn and apply basic data extraction and cleaning techniques on FQAP-related data
+- Help create simple reports or dashboards to display Off-hold tracking results
+- Work with team members to understand existing manual workflows
+- Support data validation by comparing automated outputs with current manual records
+- Prepare basic documentation on the work completed
+- Participate in team meetings and share progress updates
+REQUIRED:
+- Currently pursuing a Bachelor's degree in Data Science, Mathematics, Computer Science, or Information Technology (penultimate or final year)
+- Basic knowledge of at least one programming language (e.g., Python or R)
+- Willingness to learn new tools and technologies
+- Able to commit to the internship duration (3–6 months)
+- Good attitude, curiosity, and willingness to ask questions
+PREFERRED:
+- Exposure to data analysis concepts through coursework or personal projects
+- Basic familiarity with Excel (formulas, pivot tables)
+- Some awareness of databases or SQL (even from coursework)
+- Interest in automation or process improvement
+SKILLS:
+- Basic programming (Python, R, or VBA)
+- Fundamental data handling (sorting, filtering, basic analysis)
+- Microsoft Excel (intermediate level)
+- Willingness to learn visualization tools (Power BI, Tableau, etc.)
+- Good communication and teamwork
+- Eager to learn and take initiative
+WD thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and
+communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our
+customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and
+contribution.
+WD is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our
+hiring process. Please contact us at jobs.accommodations@wdc.com to advise us of your accommodation request. In your email, please include a description of the
+specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.
+Notice To Candidates: Please be aware that WD and its subsidiaries will never request payment as a condition for applying for a position or receiving an offer
+of employment. Should you encounter any such requests, please report it immediately to WD Ethics Helpline or email compliance@wdc.com .

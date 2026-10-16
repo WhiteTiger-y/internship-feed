@@ -1,0 +1,89 @@
+LLM Post-training Engineer Intern (Research & Product) - 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Technology
+LLM Post-training Engineer Intern (Research & Product) - 2027 Summer
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A08601A
+Apply to this job Share this listing:
+Responsibilities
+About the team
+The Multimedia AI team at TikTok focuses on building, researching, and applying Large Language Models (LLMs) to power our global products. We believe the most
+impactful problems in AI arise at the intersection of research and real-world deployment—and post-training is where that intersection is sharpest.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities
+- Support the development and optimization of post-training strategies, including instruction tuning, preference tuning (SFT/DPO/PPO), and model alignment.
+- Assist in building robust evaluation pipelines to measure model performance, helpfulness, and safety across diverse multimedia product use cases.
+- Participate in the research and implementation of cutting-edge methodologies in reward modeling and human preference learning.
+- Collaborate with engineering teams to bridge the gap between experimental research and production-ready AI applications (e.g., video understanding,
+translation, and content classification).
+- Analyze and process large-scale datasets to identify patterns that improve model behavior and alignment quality.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing an Undergraduate or Master’s degree in Computer Science, Machine Learning, or a related technical discipline.
+- Strong programming skills in Python and experience with deep learning frameworks such as PyTorch or JAX.
+- Foundational understanding of Transformer architectures and LLM training principles.
+- Demonstrated ability to learn quickly in a fast-paced environment and a strong passion for AI "landing" and product application.
+Preferred Qualifications:
+- Previous experience or research projects involving LLM fine-tuning, RLHF, or synthetic data generation.
+- Familiarity with distributed training tools (e.g., DeepSpeed, Megatron-LM).
+- Experience or interest in multimodal AI (integrating text with video or audio).
+- Proven track record of building and deploying AI projects, either through previous internships, open-source contributions, or academic research.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here:
+https://careers.tiktok.com/legal/privacy
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless.
+Join us.
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At TikTok, our mission is to inspire creat

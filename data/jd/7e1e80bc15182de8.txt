@@ -1,0 +1,30 @@
+By submitting your resume, you’re expressing interest in our 2027 RDSS (Research and Development Substitute Services) program. Please confirm your eligibility
+with the local district office before applying for the role.
+For over 25 years, NVIDIA has been revolutionizing computer graphics, PC gaming, and accelerated computing. It’s an outstanding legacy of innovation that’s
+motivated by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which
+our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision,
+innovation, and the world’s best talent. As an NVIDIAN, you’ll be part of a diverse, encouraging environment where everyone is motivated to perform at their
+highest level. Come join the team and see how you can make a lasting impact on the world.
+Join NVIDIA as an AI Infrastructure Tools Engineer and help build the tools that power the future of AI computing. Our engineering role in Taiwan offers an
+outstanding opportunity to work with modern technology and experienced individuals. You will play a pivotal role in driving innovation and flawless execution in
+our projects. This is your chance to contribute to groundbreaking advancements and make a significant impact on the industry's future.
+What you'll be doing:
+- Build and deploy AI agent tools that help engineering teams accelerate software development.
+- Continuously oversee the latest AI agent, LLM, and auto-coding technologies, and apply them to improve tool capabilities.
+- Optimize AI-assisted coding workflows to improve usability, code quality, reliability, and development efficiency.
+- Work closely with engineers to understand real-world development problems and turn feedback into practical tool improvements.
+- Analyze, debug, and resolve sophisticated toolchain issues to ensure a smooth developer experience.
+- Create guidelines, documentation, and guidance to support successful adoption across engineering teams.
+What we need to see:
+- MS in Computer Science, Electrical Engineering, Computer Engineering, Artificial Intelligence, or a related field.
+- Strong hands-on experience in AI agents, LLM-based applications, prompt engineering, RAG, tool calling, or AI workflow automation.
+- Practical experience building AI-powered applications, coding assistants, automation tools, or developer productivity solutions.
+- Solid understanding of software development workflows, including coding, debugging, testing, version control, code review, and CI/CD.
+- Ability to continuously supervise the latest AI agent and LLM technologies, evaluate their practical value, and apply them to improve tool usability,
+reliability, and output quality.
+- Strong analytical and problem-solving skills, with the ability to understand engineering problems and deliver effective AI-based solutions.
+Ways to stand out from the crowd
+- Strong programming skills in Tcl/C++/Python, with the ability to design, implement, debug, and maintain high-quality tools.
+- Excellent communication and teamwork abilities, with strong ownership and a passion for innovation.
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package.
+As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/

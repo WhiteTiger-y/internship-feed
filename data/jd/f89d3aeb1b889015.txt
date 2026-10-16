@@ -1,0 +1,102 @@
+Job Application for 2027 Systematic COO Intern at Schonfeld
+2027 Systematic COO Intern
+New York, New York, United States
+Apply
+The Role
+We are looking for a highly motivated Data & Business Analyst Intern to join Schonfeld’s Systematic Strategies COO (SCOO) team.
+The Systematic business contains many separate investment (PM) teams. Schonfeld oversees these teams’ trading and risk, and supports them with capital,
+technology, execution, operations, legal, recruiting and general business services (aka the Platform). The SCOO team is the key interface between PM teams and
+these services.
+Working within the SCOO team, you will build, enhance, and automate the tools and analytics used by our Platform to make faster data-driven decisions at scale.
+This internship blends data, technology, and markets: you will gain exposure to systematic trading workflows, enterprise data architecture, AI/LLM development,
+and cross-functional project management while solving real operational challenges.
+What You’ll Do
+- Investigate and integrate multiple enterprise data sources to build a unified analytics library for the SCOO team, handling diverse endpoints (PostgreSQL,
+REST APIs, Kafka streams)
+- Design and deploy AI-assisted data tools using agent skills and Python libraries that enable non-technical stakeholders to query complex data through natural
+language
+- Build production dashboards and automated reports (Power BI, Grafana, or HTML) that surface trading activity, vendor relationships, execution analytics, and
+operational KPIs
+- Automate manual processes including quarterly updates, onboarding tracking, expense reconciliation, and other tasks that require recurring data pulls using
+orchestration frameworks such as Prefect and Airflow
+- Collaborate across Technology, Risk, Operations, Reference Data, and Execution Services teams to understand data schemas, navigate access permissions, and
+validate data quality across systems
+- Create scripts and schemas for ad-hoc analyses (e.g., “How has average FX ticket size changed over time?”).
+- Document processes and proactively surface ideas to improve efficiency, data quality, and transparency across the Platform
+What You’ll Bring
+- Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, Finance, or a related quantitative field (with
+≤ 1 year left in your program).
+- Proficient in Python (Pandas, FastAPI/Flask, OOP) and SQL (query optimization, data modelling) - able to deliver rapid ad-hoc analyses and scale them into
+production-ready tools within the broader tech stack
+- AI/LLM tool development experience or strong interest; experience with agent skills, MCP servers, or RAG systems is a plus
+- Rapid learning ability and comfort with ambiguity - you'll need to quickly understand unfamiliar systems by reading technical docs, talking to engineers, and
+experimenting
+- Hands-on experience in dashboard development (Power BI, Grafana, HTML) and knowledge of workflow orchestration tools (Prefect, Airflow, Dagster)
+- Genuine interest in understanding how systematic trading works - execution flows, broker relationships, business operations, and the data that supports
+decision-making
+- Strong analytical thinking, attention to detail, and the ability to communicate technical concepts to non-technical stakeholders
+- Comfort working autonomously in a fast-paced, global, highly collaborative environment
+Our Internship
+Kick-start your career in finance with the Schonfeld Summer Internship! Over the course of 10 action-packed weeks, you will have the opportunity to build
+solutions that tackle real-world challenges and leave a lasting impact on the firm. As an intern, you’ll join a close-knit team that is ready to support your
+growth and accelerate your career. We will pair you with a dedicated manager and a mentor who’ll guide your development over the course of the internship and
+beyond. Throughout the program, you will have the chance to connect with senior leaders through a series of learning sessions, attend hands-on skills workshops,
+network at social events and get a behind-the-scenes look at how various functions power the firm. We’ll empower you to bring your ideas to life and make an
+impact.
+Who We Are
+Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and
+external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of
+experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical,
+Fundamental Equity and Discretionary Macro & Fixed Income.
+Our Culture
+At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with
+exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented,
+collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational
+offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote
+inclusion and purpose beyond the firm’s walls.
+The annual base pay for this role is expected to be between $130,000 and $145,000 which will be prorated based on internship start and end date. The expected
+base pay range is based on information at the time this post was generated. Actual compensation for the successful candidate will be determined based on a
+variety of factors such as skills, qualifications and experience and level of education.
+Create a Job Alert
+Interested in building your career at Schonfeld ? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+Start date month * Select...
+Start date year *
+End date month * Select...
+End date year *
+Add another
+LinkedIn Profile
+Website
+What is your current cumulative GPA? *
+What degree are you currently pursuing? * Select...
+Will you graduate from January 2028-Summer 2028? Select...
+Are you authorized to work in the United States? * Select...
+Do you now require sponsorship for employment visa status to work legally in the United States? * Select...
+Will you in the future require sponsorship for employment visa status to work 

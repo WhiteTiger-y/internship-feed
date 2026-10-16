@@ -1,0 +1,43 @@
+The Role
+We are seeking exceptional PhD candidates to join our Quantitative Research teams where they will work with other researchers and developers on various research
+projects, including the design of novel predictive signals and the enhancement of our algorithms for prediction, trade execution, portfolio construction, risk
+management, among others. Interns will have an opportunity to meaningfully contribute to all facets of running a successful quantitative trading business and
+help it grow and diversify.
+What You’ll Do
+Depending on the portfolio manager team you join, as a Quantitative Researcher Intern you will be directly responsible for furthering our alpha research. You
+will understand the economics of a fundamental domain, and the corresponding insights that can be gathered from associated alternative data offerings.  You will
+identify compelling differentiating factors, design novel predictive signals, backtest & validate hypotheses.  Over the 10-week internship program, you will
+have the opportunity to collaborate with senior team members to learn what it takes to be a successful quantitative researcher. Additionally, you’ll get the
+opportunity to network and socialize with peers throughout the internship.
+What you need:
+- Current PhD student in a quantitative or technical field such as statistics, mathematics, physics, electrical engineering, or computer science (ideally with
+one year left in your academic program)
+- Excellent programming skills in languages such as Python, C, C++, Java, SQL, or R
+- Strong knowledge of probability and statistics (e.g., machine learning, time-series analysis and forecasting, pattern recognition, NLP).
+- The ability to communicate research ideas clearly and succinctly
+- Creative problem-solving skills and experience working with real-world datasets
+- Strong attention to detail
+We’d love if you had:
+- Previous financial industry experience although it is not required
+- An advanced degree in a quantitative or technical field
+Our Internship
+Kick-start your career in finance with the Schonfeld Summer Internship! Over the course of 10 action-packed weeks, you will have the opportunity to build
+solutions that tackle real-world challenges and leave a lasting impact on the firm. As an intern, you’ll join a close-knit team that is ready to support your
+growth and accelerate your career. We will pair you with a dedicated manager and a mentor who’ll guide your development over the course of the internship and
+beyond. Throughout the program, you will have the chance to connect with senior leaders through a series of learning sessions, attend hands-on skills workshops,
+network at social events and get a behind-the-scenes look at how various functions power the firm. We’ll empower you to bring your ideas to life and make an
+impact.
+Who We Are
+Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and
+external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of
+experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical,
+Fundamental Equity and Discretionary Macro & Fixed Income.
+Our Culture
+At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with
+exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented,
+collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational
+offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote
+inclusion and purpose beyond the firm’s walls.
+The annual base pay for this role is expected to be between $175,000 and $220,000 which will be prorated based on internship start and end date. The expected
+base pay range is based on information at the time this post was generated. Actual compensation for the successful candidate will be determined based on a
+variety of factors such as skills, qualifications and experience and level of education.

@@ -1,0 +1,87 @@
+Research Engineer Intern, Agentic Systems & AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer
+#LifeAtTikTok
+#LifeAtTikTok Diversity & Inclusion Our Philosophy Hear From Our Leaders Teams
+Advertising & Sales Corporate Functions Design E-Commerce Engineering & Technology Global Operations Marketing & Communications Product TikTok USDS Joint
+Venture How we hire
+Applying to TikTok Interview tips FAQ Locations
+Early Careers
+Early Careers at TikTok Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+Company
+About TikTok Newsroom Contact
+Programs
+TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Rewards TikTok Browse TikTok Embeds
+Resources
+Help center Safety Center Creator Portal Community Guidelines Transparency Accessibility
+Legal
+Privacy Policy Candidate Privacy Policy Terms of Service
+English 日本語
+Backend
+Research Engineer Intern, Agentic Systems & AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A150756
+Apply to this job Share this listing:
+Responsibilities
+TikTok is an international short video platform available in over 150 countries and regions, where we aim to inspire creativity and bring joy by helping people
+discover authentic and interesting moments. TikTok has offices around the world, with global headquarters in Los Angeles and Singapore, and additional offices
+in New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo, among others.
+The TikTok Agentic Arch team is building AI-native engineering infrastructure that transforms how software is designed, built, and operated at TikTok scale. We
+research and deploy reliable long-horizon agents that can reason over large codebases, interact with complex tools and environments, and complete consequential
+engineering work across distributed production systems.
+Our environment provides a unique opportunity to advance agent research through real-world execution feedback. You will develop frontier methods, evaluate them
+rigorously, and bring them into production through platforms used at large scale—creating measurable improvements in engineering productivity, software quality,
+and operational effectiveness.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Conduct frontier research on reliable long-horizon agents for complex, multi-step software engineering and operations tasks.
+- Advance agent capabilities in areas such as hierarchical planning and reasoning, memory and context management, tool use, environment interaction, and multi-
+agent coordination.
+- Co-design agents and models through post-training, reinforcement learning, learning from execution feedback, search, and test-time scaling to improve
+performance on real-world tasks.
+- Build scalable agent infrastructure for orchestration, evaluation, observability, and reliable execution across large codebases, engineering toolchains, and
+distributed production environments.
+- Apply and validate new methods in representative workflows such as cross-repository software changes, testing and verification, large-scale migrations,
+deployment, and incident diagnosis and remediation.
+- Translate research into production systems, define rigorous evaluation methodologies, and measure impact through task success, software quality, engineering
+efficiency, and system performance.
+- Collaborate with researchers, infrastructure teams, developer-platform teams, and product engineers to deploy solutions at scale and produce publishable
+research and broader scientific insights where appropriate.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing an Undergraduate/ Master's in Computer Science or a related field, with relevant work in machine learning, natural language processing,
+software engineering, distributed systems, programming languages, or a related area.
+- Demonstrated research or engineering experience in AI agents or closely related areas such as large language model reasoning, reinforcement learning, program
+synthesis, or AI for code.
+- Strong understanding of one or more relevant areas, including agent planning and reasoning, model post-training, reinforcement learning, memory and context
+systems, tool learning, multi-agent systems, or agent evaluation.
+- Strong programming and systems-building ability in at least one language such as Python, C++, Go, or Java, with the ability to turn research ideas into robust
+implementations.
+- Ability to formulate ambiguous real-world problems, design rigorous experiments and evaluations, analyze results, and iterate from evidence.
+- Strong communication and collaboration skills, with the ability to work across research, infrastructure, platform, and product teams.
+Preferred Qualifications:
+- Evidence of research excellence through influential publications, open-source work, deployed systems, or other significant contributions. Relevant venues
+include NeurIPS, ICML, ICLR, ACL, MLSys, OSDI, SOSP, NSDI, ICSE, and FSE.
+- Experience building or deploying LLM agents, AI developer tools, or agent platforms in complex or large-scale environments.
+- Hands-on experience with model post-training, reinforcement learning, execution-feedback loops, tool-using agents, distributed agent runtimes, or scalable
+evaluation systems.
+- Experience working with large codebases, distributed systems, CI/CD and testing infrastructure, developer platforms, or production operations.
+- A track record of translating research into measurable production impact.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here:
+https://careers.tiktok.com/legal/privacy
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired 

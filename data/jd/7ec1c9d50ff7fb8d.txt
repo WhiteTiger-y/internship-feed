@@ -1,0 +1,45 @@
+Job Description The Role: General Motors is seeking a Summer Intern Researcher in Machine Learning for Automation to make meaningful contributions towards
+driving the development and deployment of advanced learning methods for intelligent robotic systems in manufacturing. This role requires deep technical
+expertise in machine learning and physical robotics combined with a desire to apply these methods to complex, real-world robotic challenges, supporting the
+development of next-generation automation and flexible production systems. This summer internship will provide an opportunity to make meaningful contributions
+as part of a leading industrial research organization toward the future of intelligent automation at GM by enabling robotic systems capable of learning,
+adapting, and performing complex manipulation, processing, and assembly tasks in real-world production environments—unlocking new levels of flexibility,
+efficiency, and capability in manufacturing. What You’ll Do:    Make meaningful contributions in the development and application of advanced machine learning
+techniques for robotic systems, which may include: Reinforcement learning (RL) Imitation learning and learning from demonstration Deep learning methods for
+perception, planning, and control Make meaningful contributions in the application of learning-based approaches to challenging robotic domains, including:
+Grasping and dexterous manipulation Mobile manipulation and coordinated motion Contact-rich assembly and force-sensitive operations Make meaningful
+contributions to GM’s technical leadership as appropriate through technical presentations, intellectual property, technical documentation, and publication.
+Required Qualifications:     Pursuit of an advanced degree (Masters or PhD) in one of the following areas: Machine Learning, Physical Robotics, Computer
+Science, or a closely related field from a leading university Strong academic and applied background in machine learning, with experience training policies for
+grasping, manipulation, contact-rich assembly, or other robotic skills. Strong programming and system development skills (Python, C++, PyTorch/TensorFlow) Must
+be a current student Able to work fulltime, 40 hours per week during the summer months Preferred Qualifications:    Experience with: Dexterous and multi-contact
+manipulation Mobile manipulation in dynamic or unstructured environments Learning-based control for contact-rich assembly Simulation-to-real transfer and data-
+efficient learning Foundation-model-enabled robotics, including vision-language-action models, transformer-based control architectures, world models, and
+emerging generative AI methods for robot planning and execution Experience in industrial or automotive manufacturing environments Publication record in leading
+conferences (e.g., ICRA, RSS, CoRL, NeurIPS) GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM
+immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form,
+and any work authorization requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc). The
+position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident, asylee or
+refugee). Work Arrangement: Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI three times per
+week, at minimum [or other frequency dictated by the business].  GM will provide a one-time lump sum taxable stipend payment to eligible students selected for
+the 2027 Student Program - to help facilitate administration of relocation benefits, please apply using the permanent address you would move from. Start dates
+for this internship role are May 24th & June 14th of 2027. About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace
+the responsibility to lead the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make a choice every
+day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they
+belong to one General Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your
+ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources. Non-Discrimination and Equal Employment
+Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion
+and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products
+for our customers. All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status,
+religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly
+protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for
+each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to
+successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.
+Accommodations General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist
+with your job search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific
+accommodation you are requesting as well as the job title and requisition number of the position for which you are applying. We are leading the change to make
+our world better, safer and more equitable for all through our actions and how we behave. Learn more about: Our Company Our Culture How we hire Our diverse team
+of employees bring their collective passion for engineering, technology and design to deliver on our vision of a world with Zero Crashes, Zero Emissions and
+Zero Congestion. We are looking for adventure-seekers and imaginative thought leaders to help us transform mobility. Explore our global locations We are
+determined to lead change for the world through technology, ingenuity and harnessing the creativity of our diverse team. Join us to help lead the change that
+will make our world better, safer and more equitable for all by becoming a member of 

@@ -1,0 +1,84 @@
+##
+Company:
+Qualcomm Canada ULC
+## Job Area:
+Interns Group, Interns Group > Interim Engineering Intern - Systems
+## Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform
+industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform
+5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+General Summary:
+About Qualcomm
+Qualcomm relentlessly innovates transforming businesses, enriching lives and fortifying societies. Our solutions are pivotal in crafting a smarter,
+interconnected world. Building on our nearly 40-year history of era-defining technology breakthroughs, we deliver leading-edge AI, high performance, lower-power
+computing, and unrivaled connectivity. We’re proud to be the partner of choice to many of the world’s largest enterprises. Together with our ecosystem partners,
+we enable next-generation digital transformation. At Qualcomm, we are engineering human progress.
+Join Us in Shaping the Future
+At Qualcomm, we're committed to engineering human progress by delivering intelligent computing everywhere. We're passionate about harnessing the power of
+technology to transform industries and improve lives. Our early career programs offer limitless opportunities for growth, mentorship, and meaningful work. By
+joining our team, you'll be part of a community that's pushing the boundaries of what's possible in AI, computing, and connectivity. With a global footprint
+spanning over 30 countries, you'll have the chance to collaborate with diverse talent and contribute to projects that are shaping the future of technology.
+Our early career programs are designed to attract inventive minds, offering a platform to contribute to our long-term innovation pipeline. You'll be part of a
+community that values collaboration, creativity, and continuous learning. Our programs provide real-world experience, technical skills, and professional
+development opportunities, empowering you to make a meaningful impact and achieve your career goals. Join us for our 2027 intern class in Markham, Canada!
+Maximize Your Opportunities:
+Our internship hiring model routes candidates from this application into multiple project specific roles. Your "Profile Visibility" choice will guide how we
+manage your data across our systems. To be considered for the full breadth of internship opportunities, select the option to use your profile data for "Any
+Roles Globally".
+If you choose to limit your data to "Only The Role I'm Applying For", it will restrict the opportunity for you to be considered across matching internship
+opportunities.
+You can update your profile visibility preferences at any time through the Candidate Home Portal.
+Steps:
+* Log Into Your Eightfold Candidate Home Account
+* Hover Over The "Profile" Dropdown
+* Open Settings
+* Edit "Profile Visibility"
+Role Overview
+As an Intern on the Machine Learning Systems Team, you will work at the intersection of machine learning, compiler technology, and AI hardware architecture. You
+will collaborate closely with software, firmware, performance architecture, and hardware teams to improve the execution of state-of-the-art AI models on
+Qualcomm's Neural Processing Unit (NPU).
+The ML Systems team focuses on two key areas:
+* Development and evolution of production and next-generation ML/AI compilers for efficient mapping of AI workloads to Qualcomm hardware.
+* Analysis of ML/AI algorithms and workloads to help shape future Qualcomm hardware and software innovations.
+The team develops and maintains production compiler technology that ships as part of the Qualcomm AI Runtime SDK and is used to accelerate AI workloads across
+Qualcomm platforms. In addition, the team builds and utilizes performance modeling and simulation tools to evaluate current and future AI architectures.
+This role provides a unique opportunity to develop both software and hardware expertise while working with state-of-the-art AI models, including large language
+models (LLMs), multimodal models, computer vision networks, and generative AI workloads. Interns will gain exposure to hardware/software co-design and help
+evaluate tradeoffs between performance, power efficiency, memory utilization, and programmability.
+To ensure a fair and consistent evaluation process, candidates are expected to complete all interviews independently. The use of generative AI tools (e.g.,
+ChatGPT, Copilot, Claude, Gemini, or similar technologies) during interviews is not permitted unless explicitly authorized by the interviewer.
+Responsibilities may include:
+Analyze and Improve Performance
+* Compile and optimize neural networks for execution on Qualcomm AI accelerators
+* Analyze model performance and identify opportunities to improve compiler algorithms, runtime efficiency, and hardware utilization
+* Prototype algorithms that enable AI workloads to execute with high performance and low power consumption on Qualcomm hardware
+* Identify bottlenecks in compute and the memory hierarchy
+* Recommend software and hardware enhancements to improve overall system performance and efficiency
+Compiler and System Optimization
+* Contribute to Qualcomm's ML compiler stack to improve performance, efficiency, scalability, and developer productivity.
+* Explore and prototype optimization techniques for emerging AI workloads and state-of-the-art neural network architectures.
+* Analyze ML workloads to help guide future hardware and software feature development.
+Performance Modeling and Simulation
+* Develop performance models and simulation infrastructure using Python, C, and C++.
+* Evaluate current and future Qualcomm AI accelerators and predict workload performance before silicon is available.
+Minimum Qualifications:
+* Proficiency in Python or C++
+* Strong analytical, problem-solving, and debugging skills
+* Strong written and verbal communication skills
+* Detail-oriented with a passion for solving complex technical problems
+Preferred Qualifications:
+* Strong knowledge of Python and/or C/C++
+* Familiarity with object-oriented design principles
+* Experience with software development tools and workflows, including Git, CI/CD systems, Linux, and SSH
+* Experience with Algorithms and Data Structures
+* Coursework, Research, or Project Experience in one or more of the following:
+* Machine learning frameworks such as PyTorch, ONNX, TensorFlow, or JAX
+* Model optimization and deployment
+* Large language models (LLMs), generative AI, or multimodal AI
+* AI accelerator architecture (NPU, GPU, DSP, or related architecture)
+* Computer architecture and memory systems
+* Performance modeling, simulation, and profiling
+* Operating systems and systems software
+* High-performance computing
+Education Requirements:
+* In study towards a bachelor’s degree in one of the following: Engineerin

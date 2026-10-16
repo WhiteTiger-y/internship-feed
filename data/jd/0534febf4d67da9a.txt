@@ -1,0 +1,27 @@
+Are you looking to be part of a fun, creative company at the forefront of groundbreaking technologies? NVIDIA is leading the way in some of the world's most
+exciting tech areas, including Virtual Reality, Artificial Intelligence, Deep Learning, and Autonomous Vehicles. We are widely recognized as one of the most
+desirable employers, with some of the most forward-thinking individuals in the industry working with us. There has never been a more exciting time to join our
+team!
+We are looking for a highly motivated Planning and Control Adaptation Intern to join our autonomous driving team. You will work with experienced engineers to
+support Planning and Control integration and adaptation across multiple vehicle platforms, while gaining hands-on experience in issue analysis, algorithm
+validation, and engineering tool development.
+What You Will Be Doing:
+- Support Planning and Control integration, parameter tuning, and adaptation across vehicle platforms with different dynamics, steering and braking systems, and
+actuator configurations.
+- Analyze driving issues involving path and speed planning, lane changes, merging, yielding, intersections, and lateral and longitudinal control.
+- Use simulation, replay tools, and vehicle logs to reproduce issues, investigate root causes, and validate improvements.
+- Perform cross-carline testing and evaluate driving safety, comfort, smoothness, and robustness.
+- Develop Python or C++ tools for log analysis, parameter comparison, regression testing, and result visualization.
+- Collaborate with Planning and Control engineers on integration, validation, and delivery for production autonomous driving programs.
+What We Need to See:
+- Currently pursuing a Master's or PhD degree in Computer Science, Robotics, Automotive Engineering, Electrical Engineering, or a related field.
+- Good C++ or Python programming skills, with familiarity with Linux development and software debugging workflows.
+- Basic understanding of motion planning, vehicle control, vehicle kinematics or dynamics, or numerical optimization, with strong analytical, problem-solving,
+and teamwork skills.
+- Proficient English communication skills, both written and verbal, with the ability to collaborate effectively with global teams.
+- Able to work at least three days per week throughout the internship.
+Ways to Stand Out from the Crowd:
+- Research, internship, or competition experience related to autonomous driving or robotics.
+- Familiarity with path planning, trajectory optimization, MPC, PID, A*, Hybrid A*, or related algorithms.
+- Experience with ROS, Apollo, Autoware, CARLA, CarMaker, or similar platforms.
+- Experience with vehicle logs, CAN signals, simulation, parameter tuning, or engineering tool development.

@@ -1,0 +1,92 @@
+Self-Built Engineer Intern (CDN Platform) - 2027 Summer
+Life at ByteDance
+Our Culture Our Philosophy Teams
+Advertising & Sales Corporate Functions Design E-Commerce Global Operations Marketing & Communications Product Technology How We Hire
+Applying to ByteDance Interview Tips Frequently Asked Questions Locations
+Early Careers
+Early Careers at ByteDance Americas Asia Pacific Europe, the UK and the Middle East Global Frontier Tech Recruitment Program PhD Opportunities FAQs Blog
+Jobs
+Apply
+EN 日本語
+p:empty]:h-[56px] [&>div:empty]:h-[56px] bd-title"> Join us as we work together to inspire creativity and enrich life around the globe.
+Life at ByteDance
+Early Careers Americas Asia Pacific Europe and Middle East Early Careers FAQ
+Teams Technology Product Design Marketing & Communications Corporate Functions Global Operations Advertising & Sales
+How We Hire FAQ Interview Tips
+Locations
+Blog
+Legal Privacy Policy Cookie Policy
+Other Open Roles Careers @ TikTok Careers in China
+Privacy Policy © 2012-2025 ByteDance
+Self-Built Engineer Intern (CDN Platform) - 2027 Summer
+Location :
+San Jose
+Team :
+Technology
+Employment Type :
+Intern
+Job Code :
+A36200
+Apply to this job Share this listing:
+Responsibilities
+About the Team
+ByteDance's Global Engineering CDN team builds and operates a highly available, cost-efficient, and high-performance global multi-cloud CDN platform that powers
+large-scale products such as TikTok.
+Our platform integrates both self-built CDN infrastructure and commercial CDN vendors across multiple regions worldwide, delivering reliable and optimized
+content delivery for diverse global markets. The team develops and operates core platform capabilities including domain onboarding and configuration management,
+content management, data analytics, and global traffic optimization. Working in a highly distributed and complex environment, we continuously evolve the
+platform to support both static content delivery and dynamic acceleration, while optimizing for performance, reliability, and cost efficiency.
+Engineers in this team work across both software development and production operations, gaining hands-on experience with large-scale distributed systems, global
+traffic management, and multi-cloud infrastructure.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities
+- Participate in the development and improvement of the global Multi-Cloud CDN data platform.
+- Build and maintain data pipelines, data models, dashboards, and data quality mechanisms for CDN traffic, performance, cost, resource usage, and vendor-related
+data.
+- Support data needs for CDN product operations, business analysis, cost optimization, and platform governance.
+- Develop data products and visualization tools to improve visibility into CDN usage, cost structure, service quality, and operational efficiency.
+- Help improve the stability, accuracy, timeliness, and scalability of CDN data systems.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a Master's in Computer Science, Software Engineering, Data Science, Electronic Engineering, Statistics, Applied Mathematics or a related
+discipline.
+- Familiar with at least one programming language such as Python, Go, Java, or Scala.
+- Solid foundation in data structures, databases, operating systems, and basic distributed systems concepts.
+- Familiar with SQL and basic data processing concepts.
+- Strong analytical thinking, problem-solving skills, and sensitivity to data quality.
+Preferred Qualifications
+- Experience with data modeling, ETL, data pipelines, data quality systems, or data visualization is a plus.
+- Experience with big data technologies such as Spark, Flink, Hive, Kafka, ClickHouse, Doris, or similar systems is a plus.
+- Experience with backend development, metrics systems, BI dashboards, or cost analysis is a plus.
+- Interest in CDN, cloud infrastructure, network data, business analytics, or cost optimization is a plus.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humil

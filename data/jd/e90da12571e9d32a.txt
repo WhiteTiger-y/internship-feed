@@ -1,0 +1,63 @@
+About Zipline
+Zipline is the world’s largest and most experienced drone delivery service. We are on a mission to serve all humans equally by ensuring access to food, medicine
+and essential goods anytime, anywhere. We design, build, and operate the world’s largest autonomous logistics system, delivering critical supplies quickly and
+reliably. Today, Zipline operates on four continents, makes a delivery somewhere in the world every 30 seconds, and has completed millions of deliveries to
+date, including blood, vaccines, medical supplies, food, and retail products.
+Our customers include the world’s largest and most prominent healthcare systems, governments, retailers, restaurants and global businesses who rely on us to
+save lives, reduce emissions, increase economic opportunity, and provide delivery from point A to point B as fast as possible. The drone is only 15% of what
+we’ve built to enable seamless, reliable, global operations.
+Our system strengthens supply chains, reduces congestion, and gives people time back. With more than 140 million commercial autonomous miles safely flown,
+Zipline is redefining access to healthcare, consumer products, and food across the globe.
+We operate at a global scale and are looking for practical problem solvers who thrive on real-world challenges and rapid growth. Our team is motivated by
+building systems that have a direct, meaningful impact on people’s lives and by scaling the future of logistics. We are seeking people who sculpt from first
+principles, enjoy facing adversity, and can do the impossible at record breaking speeds.
+About the Droid Perception Team
+The Droid Perception team owns both the onboard perception system that operates in a constrained compute regime on the drone and the offboard perception system
+that is built to augment, validate and improve the onboard system. Both onboard and offboard perception systems are camera-only systems that do not use LiDAR.
+The team’s work involves:
+- Creating robust pipelines to process large datasets to train various models
+- Training cutting-edge machine learning models of various types and sizes that understand the 3D structure as well as the semantics and enable us to make safe
+deliveries at scale
+- Writing clean, high-quality code to train models to utilize GPUs efficiently
+- Building autonomous systems that run on the drone as well as in the cloud that use the machine learning models to power Zipline’s P2 platform
+- Optimizing the onboard models into TensorRT engines to deliver high throughput within a limited compute budget
+- Understanding the failure modes of the onboard and offboard perception systems and designing solutions to solve them
+- Interfacing with the planning, navigation, maps, and hardware teams to understand each other’s needs and design systems accordingly
+The Role
+As an intern in the Droid Perception team, you will dive into ML model experimentation, evaluation and integration to push the boundaries of our current onboard
+and offboard perception systems.
+Our distinctive challenges require groundbreaking approaches, and you'll have the chance to see your ideas transition from concept to real-world application. In
+a fast-paced and collaborative environment, you'll look at current research in the field and use that to propose novel solutions to our pressing perception
+challenges.
+Join us, and be at the frontier of shaping the future of autonomous deliveries!
+What You'll Do
+- Ideate, experiment and iterate on learning-based solutions for unique perception challenges
+- Collaborate closely with team members, brainstorming and deriving creative solutions from first principles
+- Leverage large datasets from heterogeneous sources (real-world, simulation, and internet-scale data) to train machine learning models
+- Ship production code to train, validate and integrate models into the perception system
+- Share findings and insights, fostering knowledge exchange across teams
+What You'll Bring
+- You must have completed the second year of your undergraduate studies. Master’s and PhD students are also eligible
+- Good theoretical understanding of 3D computer vision and various camera models
+- Hands-on expertise in and in-depth understanding of one or more of the following areas: multi-view depth estimation, semantic segmentation, Gaussian
+splatting, generative modeling, BEV-style models, VLAs, VLMs, model optimization
+- Deep understanding of state-of-the-art research and trends in one or more of the following areas: multi-view depth estimation, semantic segmentation, Gaussian
+splatting, generative modeling, BEV-style models, VLAs, VLMs, model optimization
+- Proficiency with deep learning frameworks like PyTorch, JAX, or TensorFlow
+- Experience writing high-quality code in a production environment, e.g., at a previous internship
+- Ability to rapidly experiment, iterate, and adapt to new findings in a dynamic environment
+What Else You Should Know
+Our internships are full-time positions, in-person at our South San Francisco office. We will host our Summer 2027 interns from this summer (May/June -
+August/September).
+The hourly rate for this internship is $50 per hour. Additional benefits may include relocation support, a housing stipend, overtime pay, paid sick time, and
+other benefits, where applicable and subject to local requirements.
+Zipline is an equal opportunity employer and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national
+origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by
+federal, state or local laws or our own sensibilities.
+Zipline is also committed to providing reasonable accommodations to individuals with disabilities. Please let your point of contact at Zipline know if you
+require any accommodations throughout your interview process.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever
+your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Zipline ’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.

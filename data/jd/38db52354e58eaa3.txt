@@ -1,0 +1,76 @@
+Hadrian - Manufacturing the Future
+Hadrian is building autonomous factories to reindustrialize America. By combining AI, advanced software, robotics, and full-stack manufacturing, we help
+aerospace and defense companies build rockets, satellites, aircraft, ships, and other mission-critical systems up to 10x faster and at significantly lower cost.
+Following our $1.37B Series D at a $7.87B valuation, Hadrian is rapidly expanding our manufacturing footprint, launching new capabilities across welding,
+casting, forging, electronics, additive manufacturing, and more, while scaling our Factory-as-a-Service platform to transform how critical products are built.
+Backed by leading investors including JPMorgan Chase, Valor Equity Partners, Andreessen Horowitz, Founders Fund, 137 Ventures, Lux Capital, T. Rowe Price, and
+Morgan Stanley, we’re building the future of American manufacturing—and looking for exceptional people to help make it happen.
+If you’re ready to take on the most challenging and rewarding work of your career while helping create American manufacturing jobs for generations to come,
+you’re exactly who we’re looking for.
+The Role
+Hadrian is looking for a Data Science/ Data Engineer Intern to join the team building the data backbone of our autonomous factory. Every machine, part, and
+process on our floor generates data, and how well we move, model, and interpret that data determines how fast we can scale. You'll work alongside experienced
+engineers and analysts on real production data- from the pipelines that move machine telemetry and quality records into our warehouse to the models and analyses
+that shape how we run the factory. This is a hands-on role where your work will ship, and your contributions will directly influence operational decisions at
+Hadrian.
+What You'll Do
+Build and maintain data pipelines that move machine, production, quality, and program data from the factory floor into our warehouse
+Model and structure datasets that engineering, operations, and quality teams rely on for daily decision-making
+Analyze production data to surface insights on throughput, capacity, cycle time, yield, and machine utilization
+Develop dashboards, metrics, and reporting that improve visibility into factory performance and program status
+Prototype statistical or machine learning approaches for problems like anomaly detection, demand forecasting, or process optimization
+Collaborate with cross-functional teams including operations, program management, and quality to translate open questions into measurable analyses
+Write clean, well-tested, well-documented code and participate in code reviews
+Surface data quality issues and contribute to discussions on how we instrument and govern our data
+What We're Looking For
+Current university student pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Applied Math, Engineering, or a related
+field, with an expected graduation date between December 2027 and June 2028
+Proficiency in Python and SQL
+Familiarity with data pipelines, ETL/ELT workflows, or cloud data warehouses
+Working knowledge of statistics and the ability to turn a messy dataset into a defensible conclusion
+Strong problem-solving skills and the ability to work through ambiguous technical challenges
+Clear written and verbal communication, including the ability to explain analysis to non-technical partners
+Strong attention to detail and follow-through
+Comfortable working in a fast-moving, highly ambiguous environment
+Willingness to work on-site in Los Angeles, CA
+Internships are available for our Fall 2026, Spring 2027, and Summer 2027 cohorts. Indicate your preferred term(s) when applying.
+What Will Set You Apart
+Prior internship or project experience building production data pipelines or shipping analysis that changed a decision
+Experience with orchestration or transformation tooling
+Exposure to time-series, sensor, or telemetry data
+Interest in manufacturing systems, automation, or industrial software
+What You'll Gain
+Hands-on experience building data infrastructure and analysis for a high-growth, mission-driven industrial company
+Direct involvement with real production data, not sample datasets or side projects
+Exposure to the full path from raw factory signal to operational decision
+A front-row seat to how Hadrian is transforming aerospace and defense manufacturing through software, automation, and data
+Compensation
+For this role, the target hourly range is $46.15 - $50.71
+This reflects the lowest to highest hourly rate we reasonably and in good faith believe we would pay for this intern position at the time of this posting. We
+may ultimately pay more or less than the posted range, and the range is subject to change. An intern's hourly rate within this range will be based on several
+factors, including, but not limited to relevant education, prior experience, skills, geographic location, and the nature of the internship assignment.
+Intern Benefits
+Housing support may be available based on business need.
+ITAR Requirements
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen,
+lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S.
+Department of State.
+Benefits for Full-time Employees
+Medical, dental, vision, and life insurance plans for employees
+401k
+Relocation support may be provided for certain situations, based on business need.
+Flexible vacation policy
+Equity
+ITAR Requirements
+To conform to U.S. Government export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen or national, lawful
+permanent resident, protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of
+State. Learn more about the ITAR here.
+Use of AI in hiring
+Hadrian uses AI-assisted tools in our recruiting and hiring processes to help our team work more efficiently. This may include tools that help organize and
+analyze recruiting data, as well as an AI-powered notetaker that can record and transcribe interviews and help coordinate feedback. These tools support our team
+and are not used to make hiring decisions. All candidate evaluations and hiring decisions are performed by humans. If an interview will be recorded, you will be
+notified in advance and may opt out at any time with no impact on your candidacy. Candidate data processed through these tools is subject to the same
+protections described in our Privacy Policy .
+Consideration of Criminal History
+Hadrian will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of all applicable laws. We do not
+ask about criminal history on our application, and we do not consider criminal history before making a conditional offer of employment.

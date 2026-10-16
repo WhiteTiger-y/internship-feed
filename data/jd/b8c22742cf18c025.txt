@@ -1,0 +1,67 @@
+Description
+Are you curious, willing to learn, and interested in developing algorithms with signal processing and machine learning to enhance the use of SONAR for our
+nation's Naval Operations?
+Interested in collaborating on small project teams with mentors to aid your career development?
+If you’re pursuing a degree in Computer Engineering, Electrical Engineering, Physics, or Mathematics/Statistics and want to develop algorithms for the undersea
+domain, consider joining our team! We strive to cultivate an environment of collaboration and partnership with our highly skilled staff who regularly tackle
+difficult problems. We develop algorithms for the undersea domain in a collaborative small project team environment – and the algorithms we develop make a
+difference in real-world operations.
+We are seeking an intern to help us apply information processing, machine learning, deep learning, and signal processing to transform raw sensor data into
+meaningful information for our nation’s warfighters. As examples, you may work with a mentor to develop algorithms to process active and passive sonar returns
+to find submarines or use signal processing and deep learning with imaging sonar to identify sea bottom-mounted mines.
+As a member of the Maritime Information Exploitation group you will…
+- Provide contributions to projects developing innovative algorithms for real-world operations.
+- Work with raw and processed sensor data to find hidden patterns and weak signals, identify characteristics, and exploit those characteristics with novel
+algorithms.
+- Document your algorithms, algorithm performance, and insights in written reports and briefings to Leadership and sponsors.
+Qualifications
+You meet our minimum qualifications for the job if you...
+- Have a Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Mathematics/Statistics, Physics or related field.
+- Are skilled in or have working knowledge of a programming language such as Python, MATLAB, or C/C++.
+- Have strong written and verbal communication skills with the ability to work effectively in small project teams.
+- Are curious about signal processing, machine learning, deep learning, or artificial intelligence.
+- Have a minimum 3.0 GPA on a 4.0 scale.
+- Are able to obtain an Interim Secret level security clearance by your start date and can ultimately obtain a Secret level clearance. If selected, you will be
+subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include
+U.S. citizenship.
+You'll go above and beyond our minimum requirements if you...
+- Algorithm development and testing experience and data analysis in languages like Python or MATLAB, particularly for time series or sensor data.
+- Experience with Fourier transforms, digital signal processing, feature-based machine learning models (e.g. support vector machines, random forests), and/or
+deep learning models.
+- Led small project teams to successfully accomplish a technical objective.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers .
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu .
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly
+Are you curious, willing to learn, and interested in developing algorithms with signal processing and machine learning to enhance the use of SONAR for our
+nation's Naval Operations?
+Interested in collaborating on small project teams with mentors to aid your career development?
+If you’re pursuing a degree in Computer Engineering, Electrical Engineering, Physics, or Mathematics/Statistics and want to develop algorithms for the undersea
+domain, consider joining our team! We strive to cultivate an environment of collaboration and partnership with our highly skilled staff who regularly tackle
+difficult problems. We develop algorithms for the undersea domain in a collaborative small project team environment – and the algorithms we develop make a
+difference in real-world operations.
+We are seeking an intern to help us apply information processing, machine learning, deep learning, and signal processing to transform raw sensor data into
+meaningful information for our nation’s warfighters. As examples, you may work with a mentor to develop algorithms to process active and passive sonar returns
+to find submarines or use signal processing and deep learning with imaging sonar to identify sea bottom-mounted mines.
+As a member of the Maritime Information Exploitation group you will…
+- Provide contributions to projects develo

@@ -1,0 +1,19 @@
+Additional Considerations (if any): - At Hy-Vee our people are our strength. We promise “a helpful smile in every aisle” and those smiles can only come from a
+workforce that is fully engaged and committed to supporting our customers and each other. Job Description: Data Analytics Intern - Summer 2027 We’re looking for
+geniuses. Dreamers. Inventors. Innovators. People with the will to get stuff done. Doers who’ll rip an idea out of thin air. Make it a reality. Own it. And
+amaze their peers. Sound like you? Welcome home. Hy-Vee is looking for a Data Analytics Intern to join our team. This position will be responsible for
+collaborating with team members on key business projects, learning key skills for a career in data science, and become a contributing member to the team. You
+will leverage first and third party data to understand in-store and digital trends for how customers interact with our business. Work as part of a team focused
+on making our customers’ lives Easier, Healthier, and Happier. We are looking for a bright, inquisitive mind who is passionate about leveraging data to drive
+action in a fast-paced retail environment. Someone who loves to ask “why”, connect the dots, and understands the power of data will thrive in this position. KEY
+RESPONSIBILITIES Pairs with team members to define questions of interest relating to brand managers, product owners, consumer researchers, and leadership
+Experience the CRISP-DM processes in the real world Create code for the gathering, merging and aggregating of data Gain experience with fundamental exploratory
+data analysis and transformations using R and/or Python Build, evaluate, and iterate on models solving for initial business problem Create visualizations &
+present findings of work to the team Learn how to prepare reproducible, structured code for the entire data science pipeline KNOWLEDGE, SKILLS AND EXPERIENCE
+Working towards BA/BS degree in a STEM field, with a graduate degree preferred Excellent written and verbal communication skills Experience in writing SQL for
+SQL Server; Google BigQuery preferred Knowledge and experience of statistical software (R and/or Python) preferred Experience with reporting software (PowerBI,
+DataStudio) About Hy-Vee, Inc. Hy-Vee, Inc. is an employee-owned corporation operating more than 550 business units across nine Midwestern states with sales of
+$12 billion annually. The supermarket chain is synonymous with quality, variety, convenience, healthy lifestyles, culinary expertise and superior customer
+service. Hy-Vee ranks in the Top 10 Most Trusted Brands and has been named one of America’s Top 5 favorite grocery stores. The company’s more than 80,000
+employees provide “A Helpful Smile in Every Aisle” to customers every day. For additional information, visit www.hy-vee.com Are you ready to smile, apply today.
+Employment is contingent upon the successful completion of a pre employment drug screen.

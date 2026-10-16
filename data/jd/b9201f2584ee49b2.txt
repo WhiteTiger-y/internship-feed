@@ -1,0 +1,32 @@
+A collective energy and ambition. A place where you can make a real difference. We’re a company that genuinely cares about our people, our products, our
+consumers and the environment. Our unique, informal culture champions courage, determination and collaboration. Knowing we have an open and supportive team
+means each of us has the freedom to take responsibility and ownership. We have a shared passion to work hard, innovate and push boundaries. United by the belief
+that when we strive for growth, anything is possible. While we might not be the largest company in our industry, we believe we can have the biggest impact
+because: Together We Have the Power to Win. Church & Dwight Co., Inc. is offering a 2027 graduate co-op opportunity with Global Technology & Analytics.
+Beginning at the end of May 2027 and running through March 2028, the AI Developer Co-op will work alongside technology, data, and business professionals to
+explore, prototype, test, and implement responsible AI solutions that address real-world business challenges. The experience also includes exposure to
+leadership, professional development, networking events, and opportunities to connect with students across functions. What’s In It for You: · Hybrid work
+schedule during the summer (Tues/Wed/Thurs in the office Ewing, NJ) · Remote work schedule during school semesters · Learning & Development opportunities ·
+Summer Speaker Series featuring executive leadership · Networking opportunities with early career cohort · Access to company store · Final Capstone Presentation
+with leadership · Housing Stipend - for students whose residential address is greater than 30 miles from the work site What You’ll Do: · Develop and prototype
+AI and machine learning solutions that address real-world business needs. · Build and test applications using generative AI, large language models (LLMs), and
+related technologies. · Create prompts, workflows, and evaluation methods to improve the quality and usefulness of AI-generated outputs. · Prepare, transform,
+and retrieve structured and unstructured data for AI applications. · Write clean, maintainable code using Python, SQL, and other relevant programming languages.
+· Explore APIs, AI/ML frameworks, embeddings, vector databases, retrieval-augmented generation (RAG), and AI agents. · Assess AI solutions for accuracy,
+reliability, safety, performance, and business value, and recommend improvements. · Partner with cross-functional teams to translate business requirements into
+scalable technical solutions and prototypes. · Document technical approaches, assumptions, test results, and recommendations. · Present prototypes, findings,
+and insights to technical and non-technical stakeholders. · Research emerging AI capabilities and identify opportunities for responsible use across the
+organization. What You’ll Bring: Required Qualifications · Currently enrolled in a master’s program in Computer Science, Artificial Intelligence, Machine
+Learning, Data Science, Software Engineering, Mathematics, or a closely related technical discipline. · Programming experience with Python or another relevant
+language, plus foundational knowledge of machine learning, artificial intelligence, or data science. · Experience working with data and developing technical
+solutions to complex problems. · Strong analytical, problem-solving, written, and verbal communication skills. · Ability to work independently, manage multiple
+priorities, and collaborate effectively in a fast-paced environment. · Ability and interest in working a hybrid schedule in Ewing, NJ during Summer 2027 and
+remotely during school semesters. · US work authorization required; candidates must be a U.S. citizen, permanent resident, or green card holder. Preferred
+Qualifications · Hands-on experience with generative AI, LLMs, or applied AI projects through coursework, research, internships, or personal projects. ·
+Familiarity with APIs and AI/ML frameworks such as Azure OpenAI, OpenAI, Hugging Face, LangChain, or similar technologies. · Exposure to RAG, embeddings, vector
+databases, prompt engineering, AI agents, or model evaluation techniques. · Knowledge of cloud platforms such as Microsoft Azure, AWS, or Google Cloud. ·
+Experience with Git/GitHub, testing, version control, notebooks, and modern software development practices. · Familiarity with data and analytics tools such as
+SQL, Power BI, Databricks, or Microsoft Fabric. Church & Dwight is proud to be an Equal Opportunity Employer/Veterans/Individuals with Disabilities. For more
+information on our company, our brands and our culture visit us at http://www.churchdwight.com/ Church & Dwight is a world-leader in household and personal care
+products. Our global brands include ARM & HAMMER®, Batiste, OxiClean, Trojan, XTRA, Nair, First Response, Spinbrush, Orajel, vitafusion, Li’l Critters, Water
+Pik and FLAWLESS®. Founded in 1846, we have operations globally and are listed in the S&P 500.

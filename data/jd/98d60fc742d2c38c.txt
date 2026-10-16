@@ -1,0 +1,65 @@
+Description
+Do you love to solve problems for which there isn't a textbook solution?
+Are you passionate about gaining a meaningful technical experience while helping to improve a Navy ship's ability to defend itself?
+If you are pursuing a degree in Engineering (e.g. Electrical, Software, Systems, Aero), Computer Science, Math, or Physics, and you are into modeling,
+simulation and analysis, then we'd love to have you join our team of motivated problem solvers!
+We are seeking a wide range of talented interns who want to work in a collaborative,team environment to help us 1) create sophisticated simulations of current
+and future Naval capabilities, adversarial threat systems (e.g., missiles, swarms of autonomous platforms) to pair with machine learning technologies in order
+to develop robust solutions to transform systemic weaknesses into strengths, 2) develop complex analysis tools and use them to evaluate the performance of new
+Navy systems or system of system capabilities, and/or 3) perform early research into promising technology that pushes the art and the science of defense.
+As a member of our multi-disciplinary team you can follow your passion to ...
+- Develop dynamic, interacting physics-based models/simulations to help us understand how mother nature and the laws of physics can impact the performance of
+key sensor, command and control, and weapon systems.
+- Develop tools that apply data analytic and statistical methodologies and use them to analyze current systems, root cause performance issues, and develop
+operational solutions.
+- Mature cutting edge concepts or technologies that lead to improving our Navy's ability to maintain superior situational awareness in the fog of war, identify
+blatant and subtle hostile actions, and dynamically allocate limited resources in a changing battlefield.
+Qualifications
+You meet our minimum qualifications for the job if you...
+• Are pursuing a degree in Engineering, Computer Science, Math, or Physics or a related technical field with a minimum 3.0 GPA on a 4.0 scale
+• Have detailed knowledge and practical experience in either Python or C++
+• Have a strong interest in modeling and simulation design, signal processing related to radar or communications systems, decision processes, resource
+optimization and allocation schema, or Model Based Systems Engineering (MBSE)
+• Have above average interpersonal and communications skills
+• Are able to obtain an Interim Secret level security clearance by your start date and can ultimately obtain a Secret level clearance. If selected, you will be
+subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include
+U.S. citizenship
+You'll go above and beyond our minimum requirements if you…
+• Have detailed knowledge and practical experience in two of the following: Python, C++, Matlab
+• Have experience with either modeling or analyzing a complex system (military system preferred)
+• Have experience with processing, organizing and assessing large data sets
+• Have experience developing in a modern software development environment
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers .
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu .
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly
+Do you love to solve problems for which there isn't a textbook solution?
+Are you passionate about gaining a meaningful technical experience while helping to improve a Navy ship's ability to defend itself?
+If you are pursuing a degree in Engineering (e.g. Electrical, Software, Systems, Aero), Computer Science, Math, or Physics, and you are into modeling,
+simulation and analysis, then we'd love to have you join our team of motivated problem solvers!
+We are seeking a wide range of talented interns who want to work in a collaborative,team environment to help us 1) create sophisticated simulations of current
+and future Naval capabilities, adversarial threat systems (e.g., missiles, swarms of autonomous platforms) to pair with machine learning technologies in order
+to develop robust solutions to transform systemic weaknesses into strengths, 2) develop complex analysis tools and use them to evaluate the performance of new
+Navy systems or system of system capabilities, and/or 3) perform early research into promising technology that pushes the art and the science of defense.
+As a member of our multi-disciplinary team you can follow your passion to ...
+- Develop dynamic, interacting physics-based models/simulations to help us understa

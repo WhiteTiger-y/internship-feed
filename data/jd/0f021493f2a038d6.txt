@@ -1,0 +1,73 @@
+Data Architecture & Engineering Intern
+2027 Internship Dates: June 7 – August 13, 2027
+AArete is one-of-a-kind when it comes to consulting firm culture
+As an Intern at AArete, you'll have the opportunity to directly impact both team and client objectives while fostering your personal growth. We seek organized,
+motivated individuals excited to join our experienced consulting team and serve clients across healthcare, financial services, retail, and other industries.
+AArete Interns work closely with clients to understand critical issues and develop strategies for meaningful change. You’ll leverage your analytical skills,
+entrepreneurial spirit, and commitment to excellence. We’re looking for critical thinkers with exceptional communication skills who are eager to dive deep into
+business challenges, data analytics, and business case development to drive project success.
+In this role, you'll demonstrate your analytical abilities and support the successful execution of project goals and deliverables. You'll have the chance to
+make a significant impact by addressing unique business challenges in both client and internal projects.
+Work you’ll do
+- As a Data Architecture & Engineering Intern, you will work with our consultants in the field to support client engagements and facilitate the delivery of
+analytics
+- Work with advanced technologies including Snowflake and its native Cortex AI capabilities, Apache Airflow for pipeline orchestration, and a range of AWS
+services
+- Participate in R&D projects applying Snowflake Cortex AI and other emerging capabilities to healthcare claims data, connecting your academic coursework to
+real-world engineering challenges
+- Analyze, synthesize, and interpret complex data sets, finding efficient ways to integrate client data and produce analytical outputs that support client
+delivery
+- Utilize industry-standard DevOps practices to develop and maintain high-quality, version-controlled data engineering solutions, ensuring smooth deployment to
+high-availability production environments
+What you’ll gain
+- Professional and personal growth through a comprehensive internship program designed to develop your skills and career
+- Direct impact on team and client objectives , contributing meaningfully to real-world healthcare projects
+- Hands-on experience with our experienced technology team, working on high-impact engagements for healthcare payer clients
+- Mentorship and guidance from experienced professionals in the field
+- Networking opportunities with professionals and leaders in the consulting industry
+- Competitive compensation and valuable insights to kickstart your engineering career
+Requirements
+Education & Eligibility
+- Current undergraduate student entering either their third year of a 4-year degree program or in the fourth y ear of a 5-year program (Spring 2028 Grad)
+- Minimum 3.0 cumulative GPA
+- Must be legally authorized to work in the United States without the need for employer sponsorship
+- Must be able to spend the summer in our downtown Chicago office, in office daily during the dates of June 7 – August 13, 2027
+Skills & Abilities
+- Strong interest in pursuing a career in data architecture or engineering
+- Demonstrated passion for continuous learning and staying current with industry trends and technologies
+- Ability to approach problem-solving with logical and analytical thinking
+- Capable of understanding business and project goals to craft and deliver meaningful solutions to our clients
+- Proficient in MS Excel, MS PowerPoint, SQL and Python, with the ability to further develop and apply these skills
+- Works effectively both independently and in group settings
+- Excited to support Analysts, Consultants, Senior Consultants, and Managers in developing creative solutions for clients
+Preferred Requirements
+- Degree/Major in Data Engineering, Computer Science, or a related field
+- 3.3 or higher cumulative and major GPA
+- Relevant work experience, including internships, summer positions, or part-time jobs
+- Exposure to LLMs, prompt engineering, or AI-assisted development, and interest in applying them within a governed enterprise data platform.
+- Active involvement in university clubs or organizations related to consulting, business, or leadership, showcasing relevant skills and interests
+We put humans at the center of our work
+We’re a global management and technology consulting firm specializing in strategic profitability improvement, digital transformation, and strategy & change for
+clients. Our cross-industry solutions are powered by a digital-first mindset, market intelligence, and data-driven approach to deliver purposeful change,
+actionable insights, and guaranteed results.
+But what sets us apart is our people. We are guided by our deeply embedded guiding principles: Excellence, Passion, Loyalty to Clients, Stewardship, Family,
+Community, Sustainability, and Inclusion.
+And we’ve been recognized as a top firm to work for by companies like Forbes, Top Workplaces Chicago Tribune, and Consulting Magazine.
+We’ve earned a Great Place to Work Certification ™ and been named a World’s Best Management Consulting Firm by Forbes, Vault’s Top 50 Firms to Work For ,
+Crain's Chicago Business Fast 50, Inc 5000’s Fastest Growing Firms , and Consulting Magazine's Fastest Growing Firms .
+Learn more about our award-winning culture
+AArete, LLC (“AArete”) may utilize Artificial Intelligence/Automated Decision-Making Technology/Automated Employment Decision Technology tools and resources
+(“AI” or “tools” or “resources”) to assist humans in generating job descriptions and postings, recruitment, analyzation of information, screening candidates,
+evaluation of candidate information, and assisting humans in the selection of potential candidates by all levels of AArete employees for all positions.
+AArete may use Microsoft Co-Pilot, OpenAI ChatGPT, Anthropic Claude, Google Gemini, LinkedIn Recruiter AI and Hiring Assistant, Jobvite Talent Fit and AArete
+HireSense. AArete may use all the information you provide. Submission of information to AArete shall serve as consent to AArete’s use of AI tools and resources.
+AArete complies with all applicable law and does not use AI to discriminate against any individual and does not use location or geographic data like zip codes
+to act in a discriminatory or illegal manner. Your personal data may be used in relation to prospective employment with AArete and will only be retained for so
+long as legally necessary.
+AArete shall comply with its posted privacy policies and candidates may contact Recruiting or Privacy Departments, as identified below, to request
+accommodations or to exercise any of your applicable rights, pursuant to applicable law:
+Recruiting : recruiting@aarete.com
+Privacy : privacy@aarete.com
+We are an Equal Employment Opportunity Employer
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, disab

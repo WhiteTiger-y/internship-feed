@@ -1,0 +1,92 @@
+Job Application for Machine Learning Applied Scientist (Co-op) at Apera AI Inc
+Back to jobs
+Machine Learning Applied Scientist (Co-op)
+Vancouver, British Columbia
+Apply
+Apera is an innovative, Vancouver-based company at the forefront of robotics, AI, and machine vision — recognized with the 2025 Frost & Sullivan Technology
+Innovation Leadership Award and the 2024 BC Tech "Company of the Year, Growth" award. We're on a mission to redefine AI-driven robotic vision.
+Apera AI helps manufacturers make their factories more flexible and productive. Robots enhanced with Apera's software have 4D Vision — the ability to see and
+grasp objects with human-like capability. Challenging applications such as bin picking, sorting, packaging, and assembly are now open to fast, precise, and
+reliable automation. We work with the world's leading automotive OEMs and Tier 1 suppliers.
+Our portfolio spans Vue (our 4D Vision software), Forge (a no-code simulation and AI training studio where customers build, validate, and de-risk robotic cells
+before any hardware is bought), and VuePod, our new turnkey, productized bin-picking cell.
+Role Overview
+Apera AI is seeking a Machine Learning Applied Scientist (Co-op) for the 8 months term period (Jan 2027 - August 2027) to support the development of our 4D
+Vision Technology used by industrial robots to perform fast, precise tasks in manufacturing environments.
+This role is based in-person at our Vancouver office.
+In this role, you will apply machine learning and computer vision techniques to real-world challenges like robotic part picking and localization in structured,
+high-speed applications. You’ll prototype, evaluate, and improve models that are deployed on factory floors in industries such as automotive and industrial
+manufacturing.
+Employee Value Proposition (EVP)
+- Purpose  : You’ll contribute to the intelligence behind robotic systems that perform precise, high-speed automation tasks such as part picking and placement
+for stamped metal components or machined assemblies.
+- Growth: You’ll gain hands-on experience applying academic concepts to production workflows and working with internal datasets, building robust models, and
+learning from system behavior in real deployments.
+- Motivators: You’ll be part of a collaborative, fast-moving team, and see your models tested in simulation and on real industrial robots used in customer-
+facing solutions.
+Major Objectives
+- Prototype and Evaluate Vision Models Within the first 90 days, implement machine learning models for object detection, depth estimation, or 6-DoF pose
+estimation. Benchmark performance using internal datasets that reflect real manufacturing conditions. [Tools: PyTorch, internal GPU cluster, dataset tools]
+- Translate Research into Production-Relevant Improvements Identify and prototype methods from recent ML or computer vision research. Adapt them to our
+application domain and evaluate them against production baselines. Document findings and trade-offs. [Focus: Model speed, stability, accuracy under varying
+lighting and part geometry]
+- Enhance Synthetic Data Generation for Model Training Contribute improvements to the synthetic data generation pipeline, focusing on expanding variation in
+object shape, material, and pose. Help ensure the dataset supports model generalization across production use cases.
+Critical Subtasks
+- Evaluate the ML Development Environment In your first month, review the current training and validation tools. Identify areas for performance or usability
+improvements and contribute one concrete change by mid-term.
+- Collaborate Cross-Functionally and Debug Model Issues Work with robotics and software engineers to understand deployment requirements and constraints. Assist
+in diagnosing issues with model performance observed during robotic testing or simulation, and help implement fixes or improvements.
+- Own and Deliver a Scoped ML Project Lead a focused initiative such as testing a new augmentation strategy, developing a lightweight evaluation tool, or
+experimenting with model modifications for improved robustness. Present outcomes with metrics and insights at the end of the term.
+- Support Research on a Strategic Vision Problem Join early investigations into longer-term capabilities, such as handling part occlusion or improving model
+behavior with similar-looking parts. Conduct benchmarking and literature review to inform future roadmap decisions.
+Culture and Situation Fit
+You’ll thrive if you value initiative, technical depth, and seeing data as a design lever, not just input. Apera AI is fast-paced, collaborative, and impact-
+driven. Engineers here build systems that make AI dependable in messy, real-world conditions
+You’ll thrive here if you:
+- Want to apply ML to real-world problems in industrial automation.
+- Are excited to see your work influence how robotic systems are built and deployed.
+- Enjoy solving practical problems with research-informed tools.
+Qualifications
+- Proficiency in Python and machine learning frameworks (e.g., PyTorch).
+- Understanding of computer vision fundamentals (e.g., detection, segmentation, 3D geometry).
+- Familiarity with model training, tuning, and evaluation workflows.
+- Interest in robotics or applying ML in production-grade software.
+Bonus Experience (Not Required)
+- Experience with synthetic data generation or tools like Blender.
+- Exposure to 6-DoF pose estimation, point cloud processing, or depth sensing.
+- Experience working in Linux or Docker-based environments.
+- Familiarity with AWS services used in ML development workflows (e.g., S3, EC2, SageMaker).
+The compensation for this co-op role is CAD $3,600 to $4,500 per month. This is your opportunity to gain hands-on learning experience in one of the fastest-
+growing industries at the intersection of robotics, AI, and industrial automation.
+Note: Please ensure you upload both your resume and transcript, either combined into a single file or as separate files.
+Create a Job Alert
+Interested in building your career at Apera AI Inc? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country
+Phone
+Resume/CV
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Please attach a copy of your transcript. *
+Attach Attach
+Dropbox
+Google Drive
+Accepted file types: pdf, doc, docx, txt, rtf
+This is an 8-month co-op term (Jan 2027 to Aug 2027). Are you able to commit to the full 8-month duration? * Select...
+This role is only available to students currently enrolled in a recognized post-secondary co-op program. Are you currently enrolled in a co-op program and
+eligible to complete this role as an approved co-op work term through your school? * Select...
+This role requires working from our office located in Vancouver. Are you able to work from our office as required? * Select...
+Descri

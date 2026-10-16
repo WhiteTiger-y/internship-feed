@@ -1,0 +1,102 @@
+Job Application for ML PhD Software Engineer Intern at ATOMS Careers page
+Back to jobs
+ML PhD Software Engineer Intern
+Multiple Locations Available
+Join Us
+Who we are
+Atoms is building the machines that power the next era of progress.
+Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and
+industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that.
+Atoms builds Physical AI— real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are
+designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more scalable, and
+more productive.
+This work requires more than robotics. It requires deep integration across hardware, software, AI, operations, manufacturing, and real estate. We don’t just
+build machines in a lab. We deploy them into real environments, operate them, learn from them, and improve them until they work at scale.
+We are roboticists, engineers, operators, and builders. We believe the next great technology companies will not only transform information, but the physical
+systems that shape everyday life.
+If you want to work on hard problems with real-world impact, join us.
+Who you are
+- Actively pursuing a PhD degree in Machine Learning, AI, or a related technical field
+- Graduating in 2027 or 2028
+- 3.7 GPA Minimum
+- Leading researcher in Machine Learning and Gen AI
+- A problem-solver who thrives in tackling diverse technical challenges and demonstrates a clear track record of growth and learning
+- A take-charge individual who exhibits ownership and takes pride in writing clean, maintainable, and fun code
+- Have advanced programming experience in one or more application or systems languages (Go, Python, Ruby, Java, C/C++, etc.)
+What you’ll do
+As an engineering intern at Atoms, you'll be an integral part of building out the state-of-the-art intelligent machine for the food industry. Your role will
+encompass a diverse range of responsibilities, including:
+- A robust and adaptable LLM evaluation framework that enables continuous performance monitoring and identification of areas for improvement.
+- Development of advanced RL techniques tailored to Atoms's LLM applications, leading to more accurate, reliable, and user-satisfying conversational
+experiences.
+- Accelerated development and deployment of next-generation LLM features for Atoms’s LLMs applications.
+- Published research findings and open-sourced code (where appropriate) contributing to the broader AI community and enhancing Atoms's reputation.
+Why join us
+At Atoms, you’ll work on one of the defining challenges of our time—bringing automation into the physical world to drive real, lasting impact. We exist to
+uncover valuable unknown truths and turn them into progress, which means constantly pushing beyond what’s known and building what doesn’t yet exist. The work is
+ambitious and often challenging, but it’s grounded in a shared sense of purpose and a team committed to seeing it through together. Our work only matters if it
+serves others, and we know that meaningful progress depends on the trust of the people we serve and the strength of our team—so we invest in both, creating an
+environment where you can do your best work and grow.
+What else you need to know
+This role can be based in Seattle, Los Angeles, Mountain View or San Francisco. Atoms is a company driven by invention and continuous change - we are constantly
+reimagining our industries, building new products, and refining how we operate. We do our best work together. That’s why all of our office-based teams work
+onsite, five days a week.
+The base starting rate for this role is $70.00 per hour.
+Actual compensation will be determined on an individual basis and may vary depending on experience, skills, and qualifications.
+Application Timeline: Getting a head start on your job search? So are we! We’re building our candidate pipeline now for our upcoming Winter/Summer internship
+positions. Feel free to submit your resume today, we’ll be reviewing applications over the coming weeks and will reach out directly if your background is a
+match when interviews begin in the Fall.
+Apply for this job
+*
+indicates a required field
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+Start date month * Select...
+Start date year *
+End date month * Select...
+End date year *
+Add another
+Are you currently authorized to work for all employers in the country where this job is based?
+* Select...
+Do you now or will you in the future require immigration sponsorship by the company for continued work-authorization?
+* Select...
+Are you willing to work in the office 5-days a week? * Select...
+What is your current GPA? Please specify on a 4 point scale. *
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in ATOMS Careers page’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+Gender Select...
+Are you Hispanic/Latino? Select...
+Race & Ethnicity Definitions
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the
+receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged
+or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in
+the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the

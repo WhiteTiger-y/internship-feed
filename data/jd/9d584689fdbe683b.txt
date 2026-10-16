@@ -1,0 +1,43 @@
+To qualify for US internships, you must be currently enrolled in a degree-seeking program with an expected graduation date after the internship/co-op ends. If
+you do not meet this requirement, we invite you to explore other opportunities available on our careers website.
+Intuit internships are 12 weeks throughout the summer. We have fixed start and end dates that are designed to work with various universities’ academic
+calendars.
+Cohort 1: Monday, May 17 - Friday, August 6, 2027 (12 weeks)
+Cohort 2: Monday, June 14 - Friday September 3, 2027 (12 weeks)
+About our Emerging Talent Program:
+Intuit invests in Emerging Talent because fresh perspectives strengthen our products and teams. The program is backed by a culture that values curiosity and
+collaboration, and you'll be supported by dedicated managers and mentors who are invested in your growth. As an intern or co-op, you'll work on meaningful
+projects with business impact, many centered on AI and emerging technologies, and contribute to driving decisions. You'll build skills through function-specific
+learning opportunities, connect with a global community of interns and co-ops through dedicated programming and social events, and get exposure to senior
+leadership and cross-functional work across Intuit's product ecosystem. Learn more about our Intern and Co-op Program here .
+About the Team
+Join our B2B Demand Generation team as a Marketing Intern building real, shipped AI tooling for the Upgraders motion. Our team has already started building its
+own tools out of necessity, reusable dashboard skills, campaign automation, and internal systems of record. This role isn't a research exercise: you'll take
+something currently manual or one-off, tied to marketing workflows like campaign reporting, audience segmentation, or GTM tracking, and turn it into a reusable
+tool the team actually uses after you leave. The specific tooling gap will be finalized closer to your start date based on what's live at the time, but the
+pattern is consistent: build, ship, and hand off something real.
+Responsibilities
+Identify a manual or one-off marketing workflow, campaign reporting, audience segmentation, GTM tracking, and build a reusable AI-powered tool to solve it
+Work hands-on with AI-assisted development tools (Claude/Cursor), QuickBase APIs, and internal marketing data systems
+Partner directly with the marketing team's existing tooling efforts (audience insight dashboards, campaign automation) to extend proven patterns
+Ship a working tool the marketing team adopts and continues using after the internship ends
+Document the tool clearly enough for the team to maintain and extend it independently
+Qualifications
+Current enrollment in a Bachelor's degree program, with relevant coursework in Computer Science, Business, Marketing, Management Information Systems, or a
+related field
+A graduation date after the internship end date
+Strong programming fundamentals and comfort building with modern AI-assisted development tools
+A build-it-and-ship-it mindset, comfort taking a project from rough idea to working tool independently
+Excellent written and verbal communication skills
+Exposure to Artificial Intelligence (AI) programs, tools and concepts
+Must be legally authorized to work in the US on a full-time basis during the duration of the internship
+Ability to work onsite for a minimum of 3 days per week
+Nice to Haves:
+Experience with Cursor, Claude, or similar AI coding assistants
+Familiarity with QuickBase, API integrations, or GitHub Pages
+Prior experience building internal tools or automation for a business team
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. Pay offered is based on factors such as job-related
+knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity
+and gender.
+The expected base pay range for this position is:
+Mountain View $29.5 - $56.5

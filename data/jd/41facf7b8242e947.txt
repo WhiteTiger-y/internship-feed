@@ -1,0 +1,41 @@
+Are you interested in turning data into meaningful insights and eager to build hands-on experience with analytics, reporting, and business intelligence? Would
+you like the opportunity to collaborate with experienced professionals and contribute to projects that support operational and strategic decision-making across
+a global organization? About the Business LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Business Services vertical,
+we offer a multitude of solutions focused on helping businesses of all sizes drive higher revenue growth, maximize operational efficiencies, and improve
+customer experience. Our solutions help our customers solve difficult problems in the areas of Anti-Money Laundering/Counter Terrorist Financing, Identity
+Authentication & Verification, Fraud and Credit Risk mitigation, and Customer Data Management. You can learn more about LexisNexis Risk at
+https://risk.lexisnexis.com/. About our Team The Business Transformation Office (BTO) Data Team is a centralized Data Analytics & Business Intelligence function
+supporting enterprise transformation initiatives, customer migrations, operational reporting, portfolio intelligence, and strategic decision-making. The team
+partners closely with business, technology, product, and program stakeholders to deliver trusted data, scalable reporting solutions, dashboards, analytics, and
+governance processes that improve visibility and drive business outcomes. As part of Product Delivery & Consulting (PDC), the team helps support customer-
+focused programs and data-driven operational execution across the organization. The team consists of six members, including the manager, who collaborate closely
+to develop reporting, analytics, and data management solutions. About the Role The Data Analyst Intern will support the Business Transformation Office Data Team
+by assisting with data analysis, reporting, dashboard development, and data management. This internship provides hands-on experience with business intelligence
+tools, operational datasets, customer migration programs, and enterprise reporting initiatives. As a Data Analyst Intern, you will support a collaborative team
+focused on reporting, business intelligence, data quality, migration tracking, portfolio intelligence, and operational execution. You will partner with business
+and technical stakeholders, develop analytical skills, and gain exposure to enterprise-scale data initiatives. You will also work with data, analytics, and
+visualization tools while contributing to projects that help drive informed business decisions. Program Dates: May 24 – July 30, 2027 Duration: 10 weeks
+Location: On-site in Alpharetta, GA. Candidates should be able to work on-site for the duration of the internship. Relocation Assistance: Relocation assistance
+is not available for this internship. Eligibility Requirements: Candidates must be currently enrolled undergraduate students with an expected graduation date of
+May 2028. Responsibilities Assist with the development, maintenance, and enhancement of business intelligence dashboards and reports. Research, collect, clean,
+and analyze data from multiple business and operational data sources. Support data extraction, transformation, and analysis activities using SQL. Develop
+visualizations and reporting solutions using Power BI to communicate key metrics and insights. Analyze data to help identify trends, anomalies, risks, and
+opportunities that support business decisions. Support customer migration and transformation programs through data validation, reconciliation, and progress
+tracking activities. Assist in preparing findings and insights for presentation to stakeholders and project teams. Collaborate with team members on customer-
+focused projects, operational reporting, and continuous improvement initiatives. Requirements Currently pursuing a bachelor’s degree in business analytics, data
+analytics, management, or a related field of study, with an expected graduation date of May 2028. Foundational knowledge of SQL, data analysis, data mining, and
+reporting concepts. Proficiency with Microsoft Excel, including formulas, data manipulation, and analysis of large or complex datasets. Working knowledge of
+Python or other analytics-related programming languages is a plus. Experience using Microsoft Office applications and Power BI; familiarity with DAX is
+preferred. Ability to analyze data and communicate findings through reports, dashboards, and visualizations. Effective written and verbal communication skills
+with the ability to collaborate with stakeholders and team members. Demonstrated curiosity, attention to detail, problem-solving skills, and a willingness to
+learn in a data-focused environment. Salary $20/hour #earlycareer This position is not eligible for benefits. We are committed to providing a fair and
+accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant
+Request Support Form or please contact 1-855-833-5120. Criminals may pose as recruiters asking for money or personal information. We never request money or
+banking details from job applicants. Learn more about spotting and avoiding scams here. Please read our Candidate Privacy Policy. We are an equal opportunity
+employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin,
+citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other
+characteristic protected by law. USA Job Seekers: EEO Know Your Rights. At LexisNexis® Risk Solutions, our businesses span multiple industries providing
+customers with innovative technologies, information-based analytics, decisioning tools and data management services that provide market-specific solutions.
+Approximately 11,100 employees in offices throughout the world support our brands by serving customers in more than 190 countries and territories. LexisNexis®
+Risk Solutions is part of RELX, a global provider of information and analytics for professional and business customers across industries. For more information,
+please visit www.risk.lexisnexis.com and www.relx.com.

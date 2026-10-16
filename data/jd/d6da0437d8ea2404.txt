@@ -1,0 +1,53 @@
+Additional Location(s): N/A
+Diversity - Innovation - Caring - Global Collaboration - Winning Spirit - High Performance
+At Boston Scientific, we’ll give you the opportunity to harness all that’s within you by working in teams of diverse and high-performing employees, tackling
+some of the most important health industry challenges. With access to the latest tools, information and training, we’ll help you in advancing your skills and
+career. Here, you’ll be supported in progressing – whatever your ambitions.
+At Boston Scientific, we value collaboration and synergy. This role follows an onsite work model, requiring employees to be in our local office at least five
+days per week.
+Relocation and housing assistance may be available to those who meet the eligibility criteria.
+Boston Scientific will not offer sponsorship or take over sponsorship of an employment VISA for this position at this time
+We will consider qualified applicants of all ages who are starting (or restarting) their careers
+Our R&D engineers are tasked with designing and developing implant products for the Active Implantable Systems (AIS) group. This includes technologies that
+monitor, support diagnosis and treat irregular heart rhythms, heart failure, and sudden cardiac arrest. AIS provides devices and therapies for a patient’s
+entire continuum of care, from diagnostic to treatment. This division strives to innovate and create a paradigm shift that can solve unmet clinical needs and
+change what is possible for patients.
+Your responsibilities will include:
+* Develop deep learning models to predict cardiac events using ECG and other physiological signals
+* Apply signal processing techniques to clean, analyze, and interpret biosignals for device diagnostics and monitoring
+* Support the design of AI/ML algorithms that enhance implantable device performance and patient outcomes
+* Collaborate with engineers to integrate Python-based tools for data analysis, simulation, and model validation
+* Contribute to feasibility studies exploring novel diagnostic features for heart rhythm and heart failure detection
+* Analyze large datasets from implantable devices to identify patterns and inform next-generation therapy development
+* Work closely with clinical, software, and hardware teams to ensure alignment between algorithm development and device capabilities
+Required Qualifications:
+* Masters or Ph.D. student. Must have at least one semester of school left post-internship to qualify. Graduation date between December 2027 - May 2029
+* Working towards a degree in Biomedical Engineering (EE emphasis), Electrical Engineering, Data Science, Neuroscience, or Mathematics.
+* Must be able to start internship on May 17th or 24th, 2027 and work for 12 weeks
+* Must have reliable transportation to/from work.
+Preferred Qualifications:
+* Experience with AI/ML and deep learning-based prediction model development
+* Experience with testing-related projects in school or work
+* Experience working with/studying Electrocardiogram (ECG) and physiological signals using signal processing
+* Medical device industry experience
+* Excellent communication and collaboration skills
+Requisition ID: 635392
+Minimum Salary: $ 43368
+Maximum Salary: $ 73736
+The anticipated compensation listed above and the value of core and optional employee benefits offered by Boston Scientific (BSC) – see
+www.bscbenefitsconnect.com—will vary based on actual location of the position and other pertinent factors considered in determining actual compensation for the
+role. Compensation will be commensurate with demonstrable level of experience and training, pertinent education including licensure and certifications, among
+other relevant business or organizational needs. At BSC, it is not typical for an individual to be hired near the bottom or top of the anticipated salary range
+listed above.
+Compensation for non-exempt (hourly), non-sales roles may also include variable compensation from time to time (e.g., any overtime and shift differential) and
+annual bonus target (subject to plan eligibility and other requirements).
+Compensation for exempt, non-sales roles may also include variable compensation, i.e., annual bonus target and long-term incentives (subject to plan eligibility
+and other requirements).
+For MA positions: It is unlawful to require or administer a lie detector test for employment. Violators are subject to criminal penalties and civil liability.
+Boston Scientific Corporation has been and will continue to be an equal opportunity employer. To ensure full implementation of its equal employment policy, the
+Company will continue to take steps to assure that recruitment, hiring, assignment, promotion, compensation, and all other personnel decisions are made and
+administered without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, gender expression, veteran status,
+age, mental or physical disability, genetic information or any other protected class.
+Among other requirements, Boston Scientific maintains specific prohibited substance test requirements for safety-sensitive positions. This role is deemed
+safety-sensitive and, as such, candidates will be subject to a prohibited substance test as a requirement. The goal of the prohibited substance testing is to
+increase workplace safety in compliance with the applicable law.

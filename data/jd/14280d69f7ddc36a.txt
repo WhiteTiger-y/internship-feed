@@ -1,0 +1,45 @@
+Position Summary... What you'll do... ****IMMIGRATION SPONSORSHIP IS NOT AVAILABLE FOR THIS ROLE**** Summer PhD Intern: Sr. Data Scientist Day in the Life of
+Walmart Global Tech If you’re thinking scale, think bigger and don’t stop there. At Walmart Global Tech, we don’t just innovate, we enable transformations
+across stores/clubs and different channels for the Walmart experience. We innovate to deliver a simple and seamless experience for our customers and members.
+Our tech talent solves the biggest and most complex problems. We drive digital transformation where data and analytics are enabling us to better serve our
+customers/members and create a digital relationship with them. As our customers/members evolve and adapt, we are taking it a few notches further here. We are
+changing what customers and members can expect from the experience of shopping, from the physical stores/clubs, to mobile, social, and even online; were not
+just ready for the future of shopping, we are creating it. About Our Program: Each summer, we select the best and brightest to look under the hood of the worlds
+largest retailer at our Walmart Home Offices across multiple locations. During the 11-week program, our interns work directly with teams who are changing the
+way the world shops. This is the beginning of what could be an exciting career with Walmart! The intern experience includes: An impactful individual project
+designed to align to your skillsets and interests Direct access to leadership across the enterprise Executive-led speaker sessions with insightful Q&A Community
+outreach events Networking and social events Learning & development opportunities targeting both hard and soft skills Deep dives into different areas of our
+business Time management and leadership development as a full-time associate An in-depth look at our Belonging, Culture of Belonging () practices Compensation
+and housing assistance provided Roles & Responsibilities: Applied Business Acumen Identifies and helps design solutions to business problems based on machine
+learning and other advanced algorithms Owns delivery of the piece of the project assigned by the broader team Helps define measurement and implementation plans
+to unlock business value Problem Formulation Translates problems that need solving into algorithmic solutions Gains expertise in the domain area to identify the
+boundaries of the problem and helps design a strong solution for it Data Source Identification Works with product and data experts to explore various datasets
+and identify those most appropriate Builds data quality checks to ensure the integrity of data pipelines used in the solution Model Analysis Owns technical
+solution development, learning requirements and best practices from the team Leverages exploratory data analysis techniques to understand the data Defines and
+engineers features, builds and evaluates simple models, then adds complexity to modeling as needed Drives measurement of the solution Model Assessment &
+Validation Supports model fit testing and statistical inference to evaluate performance Assesses the impact of variables and features on inference results and
+business outcomes. Model Deployment & Scaling Writes production-ready analytical models and data pipelines Gains experience in production support, using those
+skills for evaluations, tracking, and alerting of key KPIs Code Development & Testing Develops code according to project requirements, in the recommended
+language Modifies and enhances code based on code reviews Implements unit tests, integration tests, and code quality checks to ensure quality deployments Data
+Visualization Creates visualizations for key datasets and models to highlight contributions made to the project and team Presents innovative ideas to
+collaborators using appropriate graphing libraries and BI tools Develop insights about model health, data quality, and business processes to meet customer needs
+Office Environment: Corporate U.S. Tech Hub Location(s): Bentonville, AR & Sunnyvale, CA *Location availability is limited based on job profile and business
+needs. Desired Majors: Computer Science, Data Science, Machine Learning, Analytics, Mathematics, Statistics, or other relevant majors Minimum Qualifications
+Must be enrolled in a PhD degree program currently Expected graduation date between December 2027-August 2028 0-1 years of relevant full-time experience
+(excludes internship and research-based roles) Housing and relocation available for those living outside a 50-mile radius of the Walmart Home Office. #ECTech
+Respect the Individual: Demonstrates and encourages respect for all builds a highperforming team seeks and embraces differences in people cultures ideas and
+experiences creates a workplace where all associates feel seen supported and connected through culture of belonging so associates thrive and perform drives a
+positive associate and customermember experience for all identifies attracts and retains the best team members Respect the Individual: Creates a discipline and
+focus around developing talent through feedback coaching mentoring and developmental opportunities promotes an environment allowing everyone to bring their best
+selves to work empowers associates and partners to act in the best interest of the customermember and company and regularly recognizes others contributions and
+accomplishments Respect the Individual: Builds strong and trusting relationships with team members and business partners works collaboratively and
+crossfunctionally to achieve objectives and communicates and listens attentively with energy and positivity to motivate influence and inspire commitment and
+action Act with Integrity Maintains and promotes the highest standards of integrity ethics and compliance models the Walmart values and leads by example to
+foster our culture supports Walmarts goal of becoming a regenerative company by making a positive impact for associates customers and the world around us eg
+creating a sense of belonging eliminating waste participating in local giving Act with Integrity Follows the law our code of conduct and company policies and
+sets expectations for others to do the same promotes an environment where associates feel comfortable sharing concerns and reinforces our culture of
+nonretaliation listens to concerns raised by associates takes action and encourages others to do the same holds self and others accountable for achieving
+results in a way that is consistent with our values Act with Integrity Acts as an altruistic servant leader and is consistently humble selfaware honest and
+transparent Serve our Customers and Members Delivers expected business results while putting the customermember first and consistently applying an omnimerchant
+mindset and acts with an Every Day LowCost mindset to drive value and Every Day Low Prices for customersmembers Serve our Customers and Members Adopts a
+holistic perspective that considers data analytics customermember insights and different p

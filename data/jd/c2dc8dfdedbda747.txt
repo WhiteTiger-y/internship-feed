@@ -1,0 +1,27 @@
+Job Description: Data Engineer Intern (Summer 2027 – New York) About Jain Global Jain Global is an innovative multi-strategy investment firm founded in July
+2024 by Bobby Jain. With over 400 employees across New York, Houston, London, Singapore, and Hong Kong, we bring together diverse teams to pursue excellence
+across asset classes and investment styles. We have assembled a unique group of strategy-specific business builders – veteran practitioners that have partnered
+with our founder to attract world class talent and create a competitive edge in each business. Role Overview We are seeking a highly motivated Data Engineer
+Intern to join our technology team in New York. This internship offers the opportunity to design, build, and optimize data systems that empower quantitative
+researchers, data scientists, and portfolio managers. The ideal candidate will have a passion for both engineering excellence and business-driven problem
+solving, with a keen interest in applying data, coding, and automation to enhance investment insights. As a Data Engineer Intern, you will work closely with
+portfolio managers, quantitative researchers, and developers to transform raw data into actionable insights. You will help design scalable data pipelines,
+improve data quality and accessibility, and assist in building tools and platforms that enhance research, trading, and decision-making across the firm.
+Responsibilities Design, build, and maintain robust data pipelines and architectures that support large-scale financial and alternative datasets. Enhance data
+quality, integrity, and accessibility across multiple sources, ensuring high standards of accuracy and consistency. Improve internal data platforms and UI tools
+for better usability and visualization of key datasets. Partner with DevOps to automate deployment, monitoring, and scaling of data systems. Collaborate with
+quantitative researchers and technologists to operationalize data workflows, models, and analytics tools. Qualifications & Skills Currently pursuing a Master’s
+or PhD in one of the following disciplines: Applied Mathematics, Engineering (Mechanical, Electrical, or Chemical), Physics, or a related discipline with strong
+coding experience and an interest in data. Strong programming skills in Python and experience with SQL and data modeling. Familiarity with DevOps practices
+(CI/CD, containerization, cloud infrastructure). Exposure to data visualization or internal UI tools (Dash, React, etc.). Proven ability to improve data
+quality, automate workflows, and optimize systems. Strong communication skills and the ability to work collaboratively in a high-performance environment. Why
+Join Jain Global Mentorship: Work directly with senior investors and researchers in quantitative trading. Ownership: Lead meaningful projects and drive
+innovation in a collaborative, entrepreneurial setting. Exposure: Gain insight into a multi-strategy investment model and the inner workings of systematic
+trading. Impact: Develop solutions that influence real investment decisions across asset classes. Entrepreneurial Spirit: Join a culture that encourages
+creativity, independent thinking, and the pursuit of innovative ideas. Global Reach: Collaborate with teams across New York, Houston, London, Singapore, and
+Hong Kong. Career Path: Potential for full-time opportunities upon successful completion of the internship Compensation The estimated base salary range for this
+position is $182,000 for Master's students and $234,000 for Ph.D. students, which is specific to New York and may change in the future. We Are an Equal
+Opportunity Employer As an employer, we believe every individual brings with them unique diversity of thought and perspectives to meaningfully enrich
+perspectives of Jain Global teams to drive competitive performance. We believe an inclusive environment can yield exceptional contributions. We are a purpose-
+built global investment firm where every business is integral, and every role is positioned to make an impact. In a collaborative, intellectually rigorous
+environment, we invest in our people to build enduring careers and win together.

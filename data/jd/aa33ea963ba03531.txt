@@ -1,0 +1,17 @@
+NVIDIA's invention of the GPU 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More
+recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that
+can perceive and understand the world. Today, we are increasingly known as “the AI computing company”.
+What you’ll be doing :
+Research and implement innovative formal methods to verify state of the art AI compilers. This includes but is not limited to AI compiler features, passes,
+IR's, sub-graphs, lowerings and other critical elements of AI compilers. This role provides you with an opportunity to explore and use AI, formal verification,
+and other forms of semantic verification or static analysis techniques to innovate solutions that verify AI compilers for human and agentic-use cases.
+What we need to see :
+• Pursuing PhD in Computer Science, Computer/Electrical Engineering, Mathematics or equivalent program
+• Strong Python or C++ programming skills
+• Strong academic background in formal methods (preferably PhD)
+Ways to stand out from the crowd:
+• Academic or industrial background using LEAN or SMT to solve compiler or compiler-adjacent problems
+• Knowledge of deep learning frameworks (such as Pytorch and TensorRT) and compilers
+With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some
+of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly
+growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.

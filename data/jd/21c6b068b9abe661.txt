@@ -1,0 +1,111 @@
+Job Application for AI/ML PhD Intern (Summer 2027) at Sigma Computing
+Back to jobs
+AI/ML PhD Intern (Summer 2027)
+San Francisco, CA
+Apply
+About the Role
+At Sigma, we’re not just adding AI—we’re building the future of how people work with data. Our platform already lets users explore billions of rows of data in
+seconds with a spreadsheet-like interface, analyze and present their data in workbooks, and build data apps and workflows. Now we’re pushing further, applying
+AI to reshape how people build in Sigma, discover insights, and make smarter decisions—fast. You can learn more about our vision for AI/ML at Sigma in our blog
+post .
+That’s where you come in. As an AI/ML PhD Intern , you’ll join a growing team focused on building the AI foundation that will power Sigma for the future. Your
+work will become an integral part of the workflow for the thousands of enterprises that run on Sigma. We're looking for PhD students that are passionate about
+the intersection of AI, business, and data.
+What You’ll Do
+- Conduct original AI/ML research in search, recommendations, natural language processing, agentic workflows and more
+- Prototype and productionize AI systems that feel intuitive but do a lot under the hood
+- Tackle novel UX problems at the intersection of AI, analytics, and data apps
+- Contribute to the development of scalable AI/ML infrastructure for experimentation, training, and evaluation of large-scale models.
+What You Bring
+- Current PhD student studying AI/ML at a U.S. accredited university
+- Deep understanding of machine learning, including deep learning algorithms, model architectures and optimization
+- Baseline understanding of building and deploying production-grade AI/ML systems
+- Knowledge of the full ML lifecycle: data curation, training, deployment, monitoring
+- Desire to bridge research and application—bringing new AI ideas from concept to impactful deployment.
+Bonus Points (or skills you’ll build here)
+- You've built agents that can plan, reason, and use tools
+- You’ve fine-tuned or trained foundation models (language or multimodal) for novel domains
+- You know your way around cloud infrastructure (AWS, GCP, Azure)
+- You’ve worked in a fast-moving startup or high-growth environment
+Additional Job details
+The hourly rate range for this position is $80-$90 an hour
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience. Base
+pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Sigma Computing.
+Note: We have an in-office work environment in all our offices in SF, NYC, and London.
+About us:
+Sigma is the AI Apps and agentic analytics platform built on the cloud data warehouse. Business and technical teams use Sigma to explore live data, build
+intelligent applications, and automate critical workflows all without moving data or breaking governance. Sigma supports a spreadsheet interface, SQL, Python,
+and native AI in a single governed workspace, giving every team the speed to act and IT the control to scale. Sigma is trusted by more than 2,000 customers,
+including AMD, Duolingo, Colgate-Palmolive, and JPMorgan Chase.
+Sigma announced its $80M in Series E financing in May 2026. The round was led by Princeville Capital, with new strategic investors Databricks Ventures,
+ServiceNow Ventures, and Workday Ventures participating alongside returning investors Altimeter Capital, Avenir Growth Capital, D1 Capital Partners, K5 Global,
+NewView Capital, Spark Capital, Sutter Hill Ventures, and XN. This milestone follows Sigma reaching $200M in annual recurring revenue in April 2026, with more
+than 100% year-over-year growth and 1.1 million new active users added in the latest fiscal year.
+Come join us!
+Benefits For Our Full-Time Employees:
+- Equity
+- Generous health benefits
+- Flexible time off policy. Take the time off you need!
+- Paid bonding time for all new parents
+- Traditional and Roth 401k
+- Commuter and FSA benefits
+- Lunch Program
+- Dog friendly office
+Sigma is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national
+origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, veteran, or any other protected status. We look
+forward to learning how your experience can enable all of us to grow.
+Note: We have an in-office work environment in all our offices in SF, NYC, London and Sydney. All roles have a 25% travel expectation unless explicitly stated
+otherwise.
+Our Privacy Practices
+When you submit a job application on this site, Sigma processes your personal data for the purposes of evaluating your candidacy for employment at Sigma and as
+otherwise needed throughout the recruitment and hiring process. Please review Sigma’s Candidate Privacy Notice for more details. Please note that your personal
+data may be transferred to a country other than the one in which it was provided (including to the USA, the UK, and Canada, Australia).
+Sigma’s use of AI
+This hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not
+replace, human decision-making.
+Create a Job Alert
+Interested in building your career at Sigma Computing? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+Degree * Select...
+End date month * Select...
+End date year *
+Add another
+Are you currently enrolled in a PhD program in the U.S.? * Select...
+Are you able to work in person in our San Francisco, CA or New York, NY office during the summer 2027 program? * Select...
+Acknowledge, confirm, and agree to the following statements.
+* Select...
+1. I acknowledge Sigma’s Candidate Privacy Notice , and I agree to the processing of my personal data in accordance with it.
+2. I confirm that all information provided as part of this application is true and correct. I understand that any willful dishonesty may lead to my application
+being disqualified.
+Please note that Sigma will not be able to consider your application, if you do not acknowledge and agree to these statements.
+LinkedIn Profile
+Would you require a new H-1B sponsorship to work with us? * Select...
+What is your current visa status? *
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will 

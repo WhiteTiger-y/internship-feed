@@ -1,0 +1,45 @@
+At Oshkosh, we build, serve and protect people and communities around the world by designing and manufacturing some of the toughest specialty trucks and access
+equipment. We employ over 18,000 team members all united by a common purpose. Our engineering and product innovation help keep soldiers and firefighters safe,
+is critical in building and keeping communities clean and helps people do their jobs every day. THE ROLE As an Autonomy & Active Safety Engineering Intern in
+Summer 2027, you will work alongside Oshkosh engineers to develop, integrate, and demonstrate next-generation autonomy, robotics, perception, and vehicle
+control technologies on real vehicle platforms. Depending on your background, interests, location, and project assignment, your work may focus on areas such as
+computer vision and machine learning, perception and sensor fusion, localization and mapping, planning and controls, embedded systems, vehicle integration,
+simulation, or full-stack robotics development. Throughout the internship, you will gain hands-on engineering experience while developing an understanding of
+Oshkosh’s products, customers, technologies, values, and processes. Interns have the opportunity to own meaningful technical projects while receiving
+mentorship, training, and opportunities to connect with engineering professionals across the organization. If you're interested in helping develop the next
+generation of autonomy and active safety technologies for highly automated, mission-critical vehicles, let's talk! Locations: Oshkosh, Wisconsin and Pittsburgh,
+Pennsylvania YOUR IMPACT As an Autonomy & Active Safety Engineering Intern, your responsibilities may include: Owning an impactful technical project related to
+autonomy, active safety, robotics, perception, embedded controls, or vehicle systems Developing, integrating, testing, and demonstrating your work on real
+vehicles, test benches, or simulation environments Developing and evaluating computer vision and machine learning capabilities such as object detection,
+tracking, and vision-language models Integrating sensors and computing platforms, including cameras, LiDAR, radar, GPS/IMU, and high-performance edge computing
+hardware Supporting embedded vehicle control and unmanned vehicle systems development for autonomy and active safety applications Developing or testing software
+using Python, C/C++, MATLAB/Simulink, or other engineering tools Working with vehicle networks and systems such as CAN, powertrain, braking, and steering
+Collaborating with engineers across software, systems, controls, electrical, mechanical, and hardware disciplines to integrate individual capabilities into
+larger vehicle systems Evaluating emerging technologies and state-of-the-art approaches alongside proven commercial solutions for real-world applications
+Performing engineering calculations, analysis, design, testing, and troubleshooting Presenting project results and technical recommendations to engineering
+teams and project stakeholders MINIMUM QUALIFICATIONS Pursuing a Bachelor’s or Master’s degree in Engineering, Computer Science, or a related technical field At
+least sophomore standing for undergraduate students at the time of application Programming experience with Python, C/C++, or a similar programming language
+through coursework, research, personal projects, or previous work experience Ability to work at least 12 weeks, beginning in late May or early June through
+August STANDOUT QUALIFICATIONS Experience or interest in one or more of the following is a plus: Autonomy, robotics, or active safety systems Computer vision,
+machine learning, or perception ROS2 and Linux-based robotics development Embedded software development or microcontrollers MATLAB and Simulink Vehicle networks
+such as CAN Vehicle powertrain, braking, or steering systems Control systems Sensor integration, including cameras, LiDAR, radar, or GPS/IMU Simulation and
+virtual development environments Hands-on development, experimentation, and testing with real systems Strong analytical and problem-solving skills with the
+ability to work through ambiguity Pay Range: $18.00 - $37.00 The above pay range reflects the minimum and maximum target pay for the position across all U.S.
+locations. Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience,
+education and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a
+people-first culture and offer various opportunities to support team member growth and success. Oshkosh is committed to working with and offering reasonable
+accommodation to job applicants with disabilities. If you need assistance or an accommodation due to disability for any part of the employment process, please
+contact us at corporatetalentacquisition@oshkoshcorp.com. Oshkosh Corporation is a merit-based Equal Opportunity Employer. Job opportunities are open for
+application to all qualified individuals and selection decisions are made without regard to race, color, religion, sex, national origin, age, disability,
+veteran status, or other protected characteristic. To the extent that information is provided or collected regarding categories as provided by law it will in no
+way affect the decision regarding an employment application. Oshkosh Corporation will not discharge or in any manner discriminate against employees or
+applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have
+access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or
+applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or
+charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with
+Oshkosh Corporation's legal duty to furnish information. Certain positions with Oshkosh Corporation require access to controlled goods and technologies subject
+to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be "U.S. Persons," as
+defined in these regulations. Generally, a "U.S. Person" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or
+granted asylum. Advance your career by advancing the world. For many of our team members, this is more than a career. It’s a calling. Oshkosh is home to
+thousands of difference-makers working together to build, serve and protect people and communities around the world. From the front lines to the firehouse, the
+people we serve are driven by a sense of purpose. The people who work here are no d

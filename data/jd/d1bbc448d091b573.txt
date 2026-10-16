@@ -1,0 +1,91 @@
+Business Intelligence Engineer Internship - 2027 (US) - Job ID: 10553765 | Amazon.jobs
+Skip to main content ×
+- Home
+- Teams
+- Locations
+- Job categories
+- My career
+- My applications
+- My profile
+- Account security
+- Settings
+- Sign out
+- Resources
+- Accommodations
+- Benefits
+- Inclusive experiences
+- How We Hire
+- Leadership principles
+- Working at Amazon
+- FAQ
+Business Intelligence Engineer Internship - 2027 (US)
+Job ID: 10553765 | Amazon.com Services LLC
+Apply now
+Description
+Shape what comes next | Discover careers in Tech
+At Amazon, our tech isn't just a tool, it's your playground. Our engineers work on scalable systems, cloud services, and customer-facing products that operate
+at global scale. This is an environment where you learn by building. Whether you're creating cloud-native solutions, optimizing machine learning models, or
+building products that drive experiences for millions of customers around the globe, your work reaches the world, fast. You'll take ownership early, collaborate
+across teams and disciplines, and grow your skills as you tackle new problems. There's no single path forward here, with a chance to explore different
+directions and shape your journey as you go. This is where ambition meets opportunity and, where the impact of what you build helps define what comes next, for
+customers and for you.
+What's in it for you?
+A career at Amazon means real responsibility from day one. You'll build, test, and learn alongside people who want to see you succeed, while making an impact
+that reaches far beyond campus.
+Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically
+between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other
+employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship
+concludes.
+By applying to this position, your application will be considered for all Business Intelligence Engineer roles at all locations we hire for in the United
+States.
+You will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet your selection
+based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start dates available
+will be provided to you at the time of job offer.
+Start dates for our internships in this posting include the following periods:
+1. Winter (Starts January/February 2027)
+2. Summer (Starts May/June 2027)
+3. Fall (Starts August/September 2027)
+Do you enjoy translating data into actionable insights? Are you excited by the opportunity to troubleshoot features and products at the world's most customer-
+centric company? Are you passionate about mining data, developing models, using statistical and visualization techniques, and helping leaders make data-driven
+decisions? Do you want to be a part of a fast-paced, ambiguous environment and contribute to one of the most visited sites on the Internet?
+If this describes you, consider joining us as an intern as Amazon is looking for Business Intelligence Engineer interns to join one of our many lines of
+business. Amazon interns have the opportunity to work alongside the industry’s brightest engineers who innovate every day on behalf of our customers. You will
+be matched to a manager and a mentor. You will have the opportunity to impact the evolution of Amazon technology as well as lead mission-critical projects early
+in your career. Your work will contribute to solving some of the most complex technical challenges in the company.
+Key job responsibilities
+As a Business Intelligence Engineer intern, you will/may:
+• Build small- to mid-size business intelligence (BI) solutions – data sets, queries, reports, dashboards, analyses – or components of larger solutions to
+answer business questions with data
+• Use well-defined requirements to build a solution that enables effective, data-driven business decisions. Deliver end product on schedule
+• Create and populate data structures using one or more schema definition languages (e.g. DDL, SDL, XSD, RDF)
+• Write secure, stable, testable, and maintainable code with minimal defects, and automate manual processes where possible
+• Use one or more industry analytics visualization tools (e.g. Excel, Tableau, QuickSight, MicroStrategy, PowerBI) and, as needed, statistical methods (e.g.
+t-test, Chi-squared) to deliver actionable insights to stakeholders
+• Invent, refine, and develop BI solutions to ensure they meet the needs of the business and team goals
+• Troubleshoot data, analyses, and code, research root causes, propose solutions, and take ownership in next steps for their resolutions
+A day in the life
+Our internship program provides hands-on learning and building experiences for students who are interested in a career in business intelligence engineering. In
+addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your
+network, and participate in fun activities with other interns throughout the summer. No matter the location of your internship, we give you the tools to own
+your internship and learn in a real-world setting.
+Basic Qualifications
+- Are 18 years of age or older
+- Are enrolled in a academic program that is physically located in the United States
+- Work 40 hours/week minimum and commit to 12 week internship maximum
+- Experience with data querying or modeling with SQL
+- Experience with building and maintain basic data artifacts (e.g. ETL, data models, queries)
+- Experience with one or more industry analytics visualization tools (e.g. Excel, Tableau, QuickSight, MicroStrategy, PowerBI) and statistical methods (e.g.
+t-test, Chi-squared)
+- Currently working towards a Bachelor’s Degree in statistics, computer science, computer engineering, information management/systems, business analytics or
+other equivalent technical discipline with an expected conferral date between October 2027 – December 2030.
+Preferred Qualifications
+- Experience with scripting language (e.g., Python, Java, or R)
+- Knowledge of data modeling and data pipeline design
+- Experience with relational and star schema data modeling concepts
+- Experience applying basic statistical methods (e.g. regression) to difficult business problems
+- Knowledge of how to improve code quality and optimizes BI processes (e.g. speed, cost, reliability)
+- Enrolled in a Master’s Degree or advanced technical degree with an expected conferral date between October 2027 – December 2030.
+- Previous technical internship(s), if applicable.
+- Ability to deal with ambiguity in a fast-paced environment.
+- Excellent verbal/written communication skills and data presentation skills.
+- Strong

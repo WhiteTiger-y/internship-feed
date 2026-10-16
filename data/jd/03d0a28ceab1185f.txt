@@ -1,0 +1,45 @@
+Career Category College Job Job Description Join Amgen’s Mission of Serving Patients At Amgen, if you feel like you’re part of something bigger, it’s because
+you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our
+fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach
+millions of patients each year. Amgen is advancing a broad and deep pipeline of medicines to treat cancer, heart disease, inflammatory conditions, rare
+diseases, and obesity and obesity-related conditions. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research,
+manufacture, and deliver innovative medicines to help people live longer, fuller happier lives. Our award-winning culture is collaborative, innovative, and
+science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform
+the lives of patients while transforming your career. Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) What You Will Do Let’s
+do this. Let’s change the world. During this internship, you will acquire the valuable hands-on skills and foundational experience needed to become a
+professional in your chosen field. This role requires you to assist in the design, development, and testing of scalable data pipelines for data ingestion and
+transformation from multiple data sources into enterprise data lakes and warehouses. Responsibilities may include: Work closely with expert data engineers and
+scientists to clean, prepare, and analyze structured and unstructured data Support the development and automation of model training, evaluation, and deployment
+pipelines Help explore and analyze pharmaceutical commercial datasets for data-driven insights Participate in the design of informative visualizations and
+dashboards for internal stakeholders Learn and apply statistical techniques including hypothesis testing, regression, and classification Collaborate with the
+team on implementing and monitoring ML models in production environments Contribute to the documentation of technical processes, models, and tools. Experiment
+with new tools and techniques in data engineering and ML operations (MLOps) Participate in agile ceremonies such as sprint planning and retrospectives to
+understand team workflow Program Eligibility Requirements Expected completion of one year of study from an accredited college or university prior to the
+internship commencing Expected continued enrollment in an accredited college or university following the internship program Student must be located in the
+United States for the duration of the internship program Must be available to work a full-time schedule. Must be available to accept and commit to future full-
+time employment by July 2028, if offered What We Expect of You We are all different, yet we all use our unique contributions to serve patients. The passionate
+and driven individual we seek exemplifies the following qualifications: Basic Qualifications: Amgen requires that all individuals applying for an undergrad
+internship or a co-op assignment at Amgen must meet the following criteria: 18 years or older Currently enrolled in a full-time Bachelor’s Degree program from
+an accredited college or university with a 3.0 minimum GPA or equivalent Preferred Qualifications Degree concentration(s) in Information Technology, Computer
+Science (e.g., CS, CPE, SE), Engineering, Business, or related field Biotechnology, pharmaceutical or health care industry experience Intermediate knowledge of
+Microsoft Word, Excel and Power Point Strong interpersonal, project management, analytical and quantitative skills Demonstrated personal initiative, self-
+motivation, flexibility, adaptability and resourcefulness Ability to operate independently, across functional lines, and with both internal and external
+customers Foundational experience in Python or R, including use of libraries for data manipulation (e.g., pandas, NumPy), visualization (e.g., matplotlib,
+seaborn), and machine learning (e.g., scikit-learn, XGBoost) Exposure to cloud platforms such as AWS, GCP, or Azure (coursework or personal projects) Basic
+understanding of SQL and experience querying data from relational or big data sources Interest or coursework in NLP, time-series analysis, or statistical
+modeling Familiarity with version control tools (e.g., Git) and collaborative coding practices Awareness of tools like Databricks, Apache Spark, or Apache
+Airflow is a plus Strong communication skills to optimally share technical findings with diverse audiences Coursework in one or more of the following areas:
+Business Systems analysis, Lean, Agile (SCRUM) and other SDLC processes, Software Development, Database Modeling, Web Design and Development, IT Management,
+Management of Cloud based application, B2B Collaboration, Enterprise systems such as configuration and management of ERP, CRM systems What You Can Expect of Us
+As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive
+benefits to our collaborative culture, we’ll support your journey every step of the way. The base pay range for this opportunity in the U.S. is $28.87 per hour.
+Build a network of colleagues that will endure and grow throughout your time with us and beyond. Bring your authentic self to the table and become the
+professional you’re inspired to be through accepting a culture that values the diversity of thought and experience and will flex to your strengths and
+possibilities. Participate in executive and social networking events, as well as community volunteer projects. Apply now and make a lasting impact with the
+Amgen team. careers.amgen.com Please search for Keyword R-255709 In any materials you submit, you may redact or remove age-identifying information such as age,
+date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information. Application deadline Amgen
+does not have an application deadline for this position; we will continue accepting applications until we receive a sufficient number or select a candidate for
+the position. Sponsorship Candidates must be authorized to work in the U.S. for the duration of this program. Sponsorship for future FTE roles is not
+guaranteed. As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse,
+ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we
+compete in the fight against serious disease. Amgen is an Equal Opportunity employer and will consider a

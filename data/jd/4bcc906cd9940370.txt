@@ -1,0 +1,40 @@
+Data Engineering Intern – Summer 2027
+Location: North Richland Hills, TX
+Pay: $27.50/hour
+Schedule: 40 hours/week | 10-Week Summer Internship
+Housing: Provided for eligible interns
+About Ragle
+Since 1993, Ragle Inc. has built infrastructure across Texas and beyond, specializing in highway, bridge, excavation, grading, and other heavy civil
+construction.
+We're looking for a Data Engineering Intern to join our team for a 10-week summer internship. You'll develop software, analyze data, and help automate workflows
+that improve efficiency for the data team and support real construction operations while learning from experienced professionals.
+What You'll Do
+- Develop software and analyze data to improve efficiency for the data team
+- Use Python, Node.js, SQL, and Azure Container Apps Jobs to automate workflows and streamline data processes
+- Help build, test, and support ETL/ELT pipelines for operational, fleet, toll, telematics, and compliance data
+- Contribute to Power BI dashboards and datasets that track equipment activity, geofence events, and business performance
+- Support workflow automation using tools such as Azure Functions, Power Automate, and Azure Event Grid
+- Assist with data integrations involving systems such as Samsara, Gauge, and NTTA
+- Participate in Git-based development, documentation, testing, code reviews, and CI/CD practices
+- Troubleshoot data quality, refresh, and performance issues with guidance from the data engineering team
+What We're Looking For
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Engineering, Data Science, Information Systems, Software Engineering, Analytics,
+Engineering, or a related field
+- Basic experience with Python, JavaScript or Node.js, SQL, databases, APIs, Power BI, or cloud technologies through coursework, projects, or previous
+experience
+- Basic understanding of programming, relational data, and software development concepts
+- Strong analytical and problem-solving skills
+- Detail-oriented, curious, and willing to learn unfamiliar tools and business processes
+- Strong communication and teamwork skills
+- Available to work 40 hours per week for the full 10-week program
+Ragle Inc. Terms and Conditions
+By providing your mobile number, you agree to receive text messages from Ragle Inc. regarding job opportunities, application updates, interview scheduling, and
+other recruiting-related communications.
+You can cancel the SMS service at any time by texting STOP. After you send STOP, you will receive confirmation that you have been unsubscribed and will no
+longer receive SMS messages from us.
+For assistance, reply HELP or contact us at recruitingtx@ragleinc.com.
+Carriers are not liable for delayed or undelivered messages.
+Message and data rates may apply. Message frequency may vary based on recruiting activity and application status.
+For information about how we collect and use your information, please review our Privacy Policy: Ragle Inc. Privacy Policy
+Privacy Policy: We collect your mobile number and related opt-in data for the delivery of SMS messages. Your mobile opt-in data and consent will not be shared
+with third parties or affiliates for marketing or promotional purposes.
