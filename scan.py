@@ -85,7 +85,8 @@ RE_EXCLUDE = re.compile(
     r"\bux\b|user research|market(ing)? research|marketing|sales|legal|counsel|accounting|recruit|"
     r"\bhr\b|human resources|people ops|finance intern|tax|audit|communications|journalis|editorial|"
     r"supply chain|procurement|facilities|real estate|clinical research coordinator", re.I)
-RE_OTHER_TERM = re.compile(r"\b(fall|spring|winter|autumn)\b|\b202[0-6]\b", re.I)
+RE_SEASON = re.compile(r"\b(fall|spring|winter|autumn)\b", re.I)
+RE_OLD_YEAR = re.compile(r"\b202[0-6]\b")
 RE_SUMMER_27 = re.compile(r"summer\s*'?(20)?27|2027", re.I)
 
 RE_RESEARCH = re.compile(r"research|scientist", re.I)
@@ -109,7 +110,10 @@ RE_NON_US = re.compile(r"\b(uk|united kingdom|london|england|canada|toronto|mont
 def relevant(title):
     if not RE_INTERN.search(title) or not RE_FIELD.search(title) or RE_EXCLUDE.search(title):
         return False
-    if RE_OTHER_TERM.search(title) and not RE_SUMMER_27.search(title):
+    # Other seasons (Fall / Spring co-ops) only if the title also says Summer; past years only with 2027.
+    if RE_SEASON.search(title) and not re.search(r"summer", title, re.I):
+        return False
+    if RE_OLD_YEAR.search(title) and not RE_SUMMER_27.search(title):
         return False
     return True
 
@@ -695,10 +699,14 @@ def li_search_url(q):
     return "https://www.linkedin.com/jobs/search/?" + urllib.parse.urlencode(
         {"keywords": q, "location": "United States", "geoId": "103644278", "f_TPR": "r86400", "f_JT": "I"})
 
-def fetch_linkedin():
+LI_MIN_GAP_H = 20   # one paid run per day, even if the scan is started by hand
+
+def fetch_linkedin(last_run=0):
     """Returns (status dict, raw actor items)."""
     if not os.environ.get("APIFY_TOKEN", "").strip():
         return {"status": "off", "detail": "APIFY_TOKEN secret not set"}, []
+    if NOW - last_run < LI_MIN_GAP_H * 3600 * 1000:
+        return {"status": "skipped", "detail": f"already ran in the last {LI_MIN_GAP_H} hours"}, []
     try:
         used, cap = apify_usage()
     except urllib.error.HTTPError as e:
@@ -772,7 +780,7 @@ def li_merge(raw, state):
             new += 1
         li[iid] = item
     for iid, it in list(li.items()):
-        if NOW - it["p"] > LI_KEEP_DAYS * DAY:
+        if NOW - it["p"] > LI_KEEP_DAYS * DAY or not relevant(it["t"]):
             li.pop(iid)
     return sorted(li.values(), key=lambda r: -r["p"]), new
 
@@ -826,7 +834,7 @@ def main():
 
     # LinkedIn (Apify) runs in the background while the boards are scanned.
     li_box = {}
-    li_thread = threading.Thread(target=lambda: li_box.update(r=fetch_linkedin()), daemon=True)
+    li_thread = threading.Thread(target=lambda: li_box.update(r=fetch_linkedin(state.get("li_last_run", 0))), daemon=True)
     li_thread.start()
 
     with ThreadPoolExecutor(max_workers=10) as ex:
@@ -862,6 +870,8 @@ def main():
 
     li_thread.join(timeout=1200)
     li_st, li_raw = li_box.get("r") or ({"status": "error", "detail": "LinkedIn fetch did not finish in time"}, [])
+    if li_st["status"] in ("ok", "partial"):
+        state["li_last_run"] = NOW
     li_items, li_new = li_merge(li_raw, state)
     li_st.update(kept=len(li_items), new=li_new)
 
@@ -884,6 +894,7 @@ def main():
         lines.append(f"| {name} | {status} | {detail} |")
     tagged = sum(1 for r in feed if "j" in r)
     li_line = {"off": "LinkedIn: off (add the APIFY_TOKEN secret to turn it on).",
+               "skipped": f"LinkedIn: no new Apify run ({li_st.get('detail', '')}); {li_st['kept']} LinkedIn roles in the feed.",
                "paused": f"LinkedIn: paused. {li_st.get('detail', '')}.",
                "error": f"LinkedIn: error. {li_st.get('detail', '')}."}.get(
         li_st["status"], f"LinkedIn via Apify: {li_st.get('detail', '')}; {li_st['new']} new roles kept, "
