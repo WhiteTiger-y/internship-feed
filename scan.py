@@ -597,16 +597,24 @@ RE_JD_START = re.compile(r"^(about (the|this) (role|team|job|position|opportunit
                          r"(key )?responsibilities|what you('|\u2019)?ll do|the role|your role|the opportunity|"
                          r"(position|role) (overview|summary)|overview|team intro(duction)?)\b", re.I)
 
+RE_JD_END = re.compile(r"^(apply for this job|create a job alert|autofill (my|with) (application|resume)|"
+                       r"similar jobs|share this (job|role)|back to (role list|jobs|search))\b", re.I)
+
 def trim_to_jd(t):
-    """Drop site navigation before the posting: start a few lines above the first heading or full sentence."""
+    """Drop site navigation before the posting (start a few lines above the first heading or full sentence)
+    and the application form or page footer after it."""
     lines = t.splitlines()
+    for i, ln in enumerate(lines):
+        if i > len(lines) * 0.4 and RE_JD_END.search(ln.strip()):
+            lines = lines[:i]
+            break
     for i, ln in enumerate(lines):
         if RE_JD_START.search(ln.strip()):
             return "\n".join(lines[max(0, i - 8):])   # keep the title / location block just above
     for i, ln in enumerate(lines):
         if len(ln.split()) >= 12 and re.search(r"[.!?:]$", ln.strip()):
             return "\n".join(lines[max(0, i - 3):])
-    return t
+    return "\n".join(lines)
 
 def enrich_simplify(budget_s=600):
     tp = os.path.join(DATA, "tags.json")
