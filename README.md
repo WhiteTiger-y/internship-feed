@@ -20,6 +20,15 @@ Only public, unauthenticated job-board endpoints are used. Requests run once a d
 
 Roles that disappear from a board stay in the feed, marked closed, for 30 days.
 
+## Job descriptions
+
+For roles that pass the title filter, the scanner reads the job description (from the board's API, or the public job page for SimplifyJobs roles) and tags it with:
+
+- **Skills** from a fixed vocabulary (computer vision, PyTorch, LLMs, medical imaging and so on), stored as short ids in `j`.
+- **Flags** in `f`: `cit` (US citizenship or a clearance is required), `exp` (export-control wording), `nsp` (employer says it does not sponsor visas).
+
+Nothing about any resume lives in this repo. The tracker compares the tags with a private skills profile in the browser. SimplifyJobs roles are tagged into `data/tags.json`.
+
 ## Filters
 
 - **Title:** must mention an internship, co-op or student researcher role and an ML / AI / vision / research / data term. Marketing, sales, UX research and similar are excluded, and so are other terms (Fall, Spring, past years) unless the title also mentions Summer 2027.

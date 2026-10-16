@@ -12,7 +12,7 @@ research / data, and writes:
 Only public, unauthenticated job-board endpoints are used, one request at
 a time per host with a short pause, once per day.
 """
-import json, re, time, os, sys, threading, datetime as dt
+import json, re, time, os, sys, threading, html as _html, datetime as dt
 import urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
@@ -146,6 +146,138 @@ def workday_posted(s):
     m = re.search(r"(\d+)\+?\s*day", s)
     return NOW - int(m.group(1)) * DAY if m else 0
 
+
+# ------------------------------------------------------ JD analysis ----
+# Skills are tagged from a fixed vocabulary so the tracker can score roles against
+# a private profile. Nothing about the user's resume is stored in this repo.
+# (id, label, weight, regex): weight 3 = domain, 2 = framework/skill, 1 = general tool.
+VOCAB = [
+    ("cv", "Computer vision", 3, r"computer vision|image (processing|recognition|understanding|classification|segmentation)|object detection|semantic segmentation|visual perception|video understanding|(?-i:\bML ?/ ?CV\b|\bCV ?/ ?ML\b)"),
+    ("mm", "Multimodal / VLM", 3, r"multi-?modal|vision[- ]language|\bvlms?\b|\bmllm"),
+    ("med", "Medical imaging", 3, r"medical imaging|radiolog|\bdicom\b|\bmri\b|\bct (scan|imaging)|pathology|biomedical|healthcare|clinical"),
+    ("3d", "3D vision", 3, r"3d (vision|reconstruction|perception|scene|geometry)|point clouds?|\bnerf\b|gaussian splatting|\bslam\b|\blidar\b|photogrammetry"),
+    ("gen", "Generative models", 3, r"diffusion|generative (ai|model)|\bgans?\b|text-to-image|image generation|video generation"),
+    ("llm", "LLMs", 3, r"\bllms?\b|large language models?|foundation models?|fine-?tuning|post-?training|\brlhf\b"),
+    ("nlp", "NLP", 3, r"\bnlp\b|natural language|text classification|language understanding"),
+    ("rag", "RAG / agents", 3, r"\brag\b|retrieval[- ]augmented|agentic|\bai agents?\b"),
+    ("rl", "Reinforcement learning", 3, r"reinforcement learning|\brl\b"),
+    ("prob", "Probabilistic ML", 3, r"probabilistic|bayesian|gaussian process|uncertainty (estimation|quantification)|variational"),
+    ("ml", "Machine learning", 2, r"machine learning|\bml\b|deep learning|neural networks?"),
+    ("robo", "Robotics / autonomy", 3, r"robotic|autonomous (vehicle|driving|systems)|self-driving|perception stack"),
+    ("speech", "Speech / audio", 3, r"speech|\basr\b|audio"),
+    ("rec", "Recommendation / ranking", 3, r"recommend(ation|er)|ranking|search relevance|\bads\b|advertising"),
+    ("ts", "Time series", 2, r"time[- ]series|forecasting"),
+    ("data", "Data analysis", 1, r"data (analysis|analytics|pipelines?|engineering)|\betl\b|dashboards?"),
+    ("stats", "Statistics", 2, r"statistic|hypothesis test|a/b test|experimentation|causal inference"),
+    ("res", "Research / publications", 2, r"publications?|peer-reviewed|neurips|\bicml\b|\bcvpr\b|\biccv\b|\beccv\b|\biclr\b|research (experience|papers?|projects?)"),
+    ("pytorch", "PyTorch", 2, r"pytorch|\btorch\b"),
+    ("tf", "TensorFlow", 2, r"tensorflow|keras"),
+    ("jax", "JAX", 2, r"\bjax\b"),
+    ("hf", "Hugging Face", 2, r"hugging ?face"),
+    ("sklearn", "scikit-learn", 1, r"scikit-?learn|sklearn"),
+    ("opencv", "OpenCV", 2, r"opencv"),
+    ("cuda", "CUDA / GPU", 2, r"\bcuda\b|gpu (programming|kernels?|optimi[sz]ation)|tensorrt|triton|\bnccl\b"),
+    ("dist", "Distributed training", 2, r"distributed (training|systems)|deepspeed|\bfsdp\b|megatron"),
+    ("mlops", "MLOps / deployment", 2, r"mlops|model (serving|deployment)|inference (optimi[sz]ation|latency)|\bvllm\b|\bonnx\b"),
+    ("python", "Python", 1, r"\bpython\b"),
+    ("cpp", "C++", 1, r"c\+\+"),
+    ("java", "Java", 1, r"\bjava\b(?!script)"),
+    ("js", "JavaScript / TypeScript", 1, r"javascript|typescript|\breact\b|node\.?js"),
+    ("sql", "SQL", 1, r"\bsql\b"),
+    ("docker", "Docker / Kubernetes", 1, r"docker|kubernetes|\bk8s\b"),
+    ("linux", "Linux", 1, r"\blinux\b|\bunix\b"),
+    ("git", "Git", 1, r"\bgit\b|github"),
+    ("cloud", "Cloud (AWS/GCP/Azure)", 1, r"\baws\b|\bgcp\b|google cloud|\bazure\b|amazon web services"),
+    ("spark", "Spark / big data", 1, r"\bspark\b|hadoop|\bhive\b|big data|databricks"),
+    ("dsa", "Data structures & algorithms", 1, r"data structures|algorithms"),
+]
+_VC = [(i, re.compile(rx, re.I)) for i, _, _, rx in VOCAB]
+VOCAB_OUT = [[i, lbl, w] for i, lbl, w, _ in VOCAB]
+
+# Hard stop: the role requires US citizenship / a US-person status / a clearance.
+RE_CIT = re.compile(
+    r"(must|need to|required to|have to)\s+be\s+(a\s+)?(u\.?s\.?|united states)\s+(citizen|person)|"
+    r"(u\.?s\.?|united states)\s+citizen(ship)?\s+(status\s+)?(is\s+|are\s+)?(required|needed|mandatory|necessary)|"
+    r"requires?\s+(u\.?s\.?|united states)\s+citizen|(u\.?s\.?|united states)\s+citizens?\s+only|"
+    r"only\s+(u\.?s\.?|united states)\s+citizens|citizenship\s+(is\s+)?required|"
+    r"(top[- ]secret|ts/sci|secret|dod|public trust)\s+(security\s+)?clearance|"
+    r"(security\s+)?clearance\s+(is\s+)?(required|needed)|"
+    r"ability to obtain (and maintain )?(a |an )?(u\.?s\.? )?(government )?(security )?clearance", re.I)
+# Soft caution: export-control wording (often boilerplate, sometimes a real restriction).
+RE_EXPORT = re.compile(r"export[- ]control|\bitar\b|export administration|deemed export", re.I)
+# Soft caution: employer says it will not sponsor visas.
+RE_NOSPON = re.compile(
+    r"(will|does|do|can|could)\s*(not|n't)\s+(provide\s+|offer\s+)?(visa\s+|work\s+)?sponsor|"
+    r"unable to (provide\s+)?(visa\s+)?sponsor|not (able|eligible|available) (to|for) (visa )?sponsor|"
+    r"without (requiring |the need for |needing )?(visa |employer |current or future )?sponsorship|"
+    r"no (visa )?sponsorship|cannot (provide )?(visa )?sponsor", re.I)
+RE_PHD_ONLY = re.compile(r"(currently|actively)\s+(enrolled in|pursuing|working toward)\s+(a\s+)?(ph\.?d|doctoral)|ph\.?d\.?\s+(student|candidate)s?|(enrolled|pursuing)\s+(in\s+)?(a\s+)?ph\.?d", re.I)
+
+def clean(s):
+    """HTML (possibly entity-escaped) -> plain text."""
+    if not s:
+        return ""
+    s = _html.unescape(str(s))
+    s = re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", s)
+    s = re.sub(r"<[^>]+>", " ", s)
+    return re.sub(r"\s+", " ", _html.unescape(s)).strip()
+
+def jd_degree(text):
+    tl = text.lower()
+    ms = re.search(r"master|\bm\.?s\.?\b|graduate (student|degree|program)", tl)
+    bs = re.search(r"bachelor|undergrad|\bb\.?s\.?\b", tl)
+    if RE_PHD_ONLY.search(text) and not ms and not bs:
+        return "phd"
+    return "ms" if ms else "bs" if bs else "?"
+
+def tag_text(title, text):
+    blob = title + " . " + text
+    f = []
+    if RE_CIT.search(text): f.append("cit")
+    if RE_EXPORT.search(text): f.append("exp")
+    if RE_NOSPON.search(text): f.append("nsp")
+    return {"j": [i for i, rx in _VC if rx.search(blob)], "f": f, "dj": jd_degree(text)}
+
+def _strings(o, out):
+    if isinstance(o, str):
+        if len(o) > 80: out.append(o)
+    elif isinstance(o, dict):
+        for v in o.values(): _strings(v, out)
+    elif isinstance(o, list):
+        for v in o: _strings(v, out)
+    return out
+
+# Per-job detail fetchers, used only for roles that already passed the title filter.
+def d_greenhouse(tok, jid):
+    return (http(f"https://boards-api.greenhouse.io/v1/boards/{tok}/jobs/{jid}") or {}).get("content")
+
+def d_sr(tok, jid):
+    j = http(f"https://api.smartrecruiters.com/v1/companies/{tok}/postings/{jid}") or {}
+    return " ".join((s or {}).get("text", "") for s in ((j.get("jobAd") or {}).get("sections") or {}).values())
+
+def d_workday(host, tenant, site, path):
+    j = http(f"https://{host}/wday/cxs/{tenant}/{site}{path}") or {}
+    return (j.get("jobPostingInfo") or {}).get("jobDescription")
+
+def d_ms(pid):
+    j = http("https://apply.careers.microsoft.com/api/pcsx/position_details?" + urllib.parse.urlencode(
+        {"position_id": pid, "domain": "microsoft.com", "hl": "en"})) or {}
+    return " ".join(_strings(j.get("data") or {}, []))
+
+def tags_for(iid, title, r, state):
+    """Tags for one role: reuse what an earlier run stored, else read the job description."""
+    prev = state["items"].get(iid) or {}
+    if "j" in prev:
+        return {k: prev[k] for k in ("j", "f") if k in prev} | ({"dj": prev["dj"]} if "dj" in prev else {})
+    text = r.get("desc")
+    if text is None and callable(r.get("detail")):
+        try:
+            text = r["detail"]()
+        except Exception:
+            text = None
+    text = clean(text)
+    return tag_text(title, text) if len(text) >= 200 else {}
+
 # ------------------------------------------------------------ fetchers ----
 # Each fetcher returns a list of dicts: {jid, title, url, loc, posted_ms}
 
@@ -154,7 +286,8 @@ def f_greenhouse(tok):
     if j is None: return None
     return [{"jid": x["id"], "title": x.get("title", ""), "url": x.get("absolute_url", ""),
              "loc": (x.get("location") or {}).get("name", ""),
-             "posted_ms": iso_ms(x.get("first_published") or x.get("updated_at"))} for x in j.get("jobs", [])]
+             "posted_ms": iso_ms(x.get("first_published") or x.get("updated_at")),
+             "detail": (lambda i=x["id"]: d_greenhouse(tok, i))} for x in j.get("jobs", [])]
 
 def f_lever(tok):
     j = http(f"https://api.lever.co/v0/postings/{tok}?mode=json")
@@ -164,7 +297,10 @@ def f_lever(tok):
         cat = x.get("categories") or {}
         locs = cat.get("allLocations") or [cat.get("location", "")]
         out.append({"jid": x["id"], "title": x.get("text", ""), "url": x.get("hostedUrl", ""),
-                    "loc": "; ".join(l for l in locs if l), "posted_ms": x.get("createdAt") or 0})
+                    "loc": "; ".join(l for l in locs if l), "posted_ms": x.get("createdAt") or 0,
+                    "desc": " ".join([x.get("descriptionPlain") or "",
+                                      " ".join((l.get("text", "") + " " + l.get("content", "")) for l in x.get("lists") or []),
+                                      x.get("additionalPlain") or ""])})
     return out
 
 def f_ashby(tok):
@@ -177,7 +313,8 @@ def f_ashby(tok):
         if x.get("isRemote"): locs.append("Remote")
         out.append({"jid": x.get("id") or x.get("jobUrl"), "title": x.get("title", ""),
                     "url": x.get("jobUrl") or x.get("applyUrl", ""), "loc": "; ".join(l for l in locs if l),
-                    "posted_ms": iso_ms(x.get("publishedAt"))})
+                    "posted_ms": iso_ms(x.get("publishedAt")),
+                    "desc": x.get("descriptionPlain") or x.get("descriptionHtml")})
     return out
 
 def f_smartrecruiters(tok):
@@ -191,7 +328,8 @@ def f_smartrecruiters(tok):
             if l.get("remote"): loc += "; Remote"
             out.append({"jid": x["id"], "title": x.get("name", ""),
                         "url": f"https://jobs.smartrecruiters.com/{tok}/{x['id']}", "loc": loc,
-                        "posted_ms": iso_ms(x.get("releasedDate"))})
+                        "posted_ms": iso_ms(x.get("releasedDate")),
+                        "detail": (lambda i=x["id"]: d_sr(tok, i))})
         off += 100
         if off >= j.get("totalFound", 0): break
     return out
@@ -213,7 +351,8 @@ def f_workday(cfg):
                 seen.add(path)
                 out.append({"jid": path.rsplit("_", 1)[-1] if "_" in path else path, "title": x.get("title", ""),
                             "url": f"https://{host}/en-US/{site}{path}", "loc": x.get("locationsText", ""),
-                            "posted_ms": workday_posted(x.get("postedOn"))})
+                            "posted_ms": workday_posted(x.get("postedOn")),
+                            "detail": (lambda pth=path: d_workday(host, tenant, site, pth))})
             off += 20
             if len(posts) < 20 or off >= total: break
     return out
@@ -237,7 +376,8 @@ def f_amazon(cfg):
                     p = 0
                 out.append({"jid": jid, "title": x.get("title", ""),
                             "url": "https://www.amazon.jobs" + x.get("job_path", ""),
-                            "loc": x.get("normalized_location") or x.get("location", ""), "posted_ms": p})
+                            "loc": x.get("normalized_location") or x.get("location", ""), "posted_ms": p,
+                            "desc": " ".join(str(x.get(k) or "") for k in ("description", "basic_qualifications", "preferred_qualifications"))})
             if len(jobs) < 100: break
     return out
 
@@ -261,7 +401,8 @@ def f_microsoft(cfg):
                 out.append({"jid": jid, "title": x.get("name", ""),
                             "url": "https://apply.careers.microsoft.com" + path,
                             "loc": "; ".join(x.get("standardizedLocations") or x.get("locations") or []),
-                            "posted_ms": int(ts) * 1000 if ts and ts < 10**11 else int(ts or 0)})
+                            "posted_ms": int(ts) * 1000 if ts and ts < 10**11 else int(ts or 0),
+                            "detail": (lambda i=x.get("id"): d_ms(i))})
             start += len(pos)
             if not pos or start >= (data.get("count") or 0): break
     return out
@@ -278,7 +419,8 @@ def f_workable(tok):
         sc = x.get("shortcode", "")
         out.append({"jid": sc or x.get("url"), "title": x.get("title", ""),
                     "url": x.get("url") or x.get("shortlink") or f"https://apply.workable.com/{tok}/j/{sc}/",
-                    "loc": loc.strip("; "), "posted_ms": iso_ms(x.get("published_on") or x.get("created_at"))})
+                    "loc": loc.strip("; "), "posted_ms": iso_ms(x.get("published_on") or x.get("created_at")),
+                    "desc": x.get("description")})
     return out
 
 SIMPLE = {"greenhouse": f_greenhouse, "lever": f_lever, "ashby": f_ashby, "smartrecruiters": f_smartrecruiters,
@@ -341,6 +483,93 @@ def resolve(company, state):
     state["resolved"][name] = {"ats": None, "token": None, "checked": NOW}
     return None
 
+
+# --------------------------------------------- SimplifyJobs enrichment ----
+SJ_URL = "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+SJ_ML = {"AI/ML/Data", "Data Science, AI & Machine Learning"}
+SJ_SW = {"Software", "Software Engineering"}
+SJ_KW = re.compile(r"research|machine learning|\bml\b|\bai\b|computer vision|\bvision\b|nlp|scientist|deep learning|llm|perception|generative", re.I)
+
+def sj_wanted(x):
+    """Same selection the tracker's feed build uses for SimplifyJobs roles (open ones only)."""
+    if not x.get("is_visible", True) or not x.get("active"): return False
+    if not any("Summer" in t and "2027" in t for t in (x.get("terms") or [])): return False
+    cat, title = x.get("category"), x.get("title") or ""
+    return cat in SJ_ML or (cat in SJ_SW and bool(SJ_KW.search(title)))
+
+def fetch_page(url):
+    host = urllib.parse.urlparse(url).netloc
+    lock = _polite(host)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return r.read(1_200_000).decode("utf-8", "replace")
+    except Exception:
+        return ""
+    finally:
+        _host_last[host] = time.time()
+        lock.release()
+
+def page_text(raw):
+    """Job description text from a public job page: JSON-LD first, embedded JSON next, then visible text."""
+    for m in re.finditer(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', raw, re.S | re.I):
+        try:
+            j = json.loads(m.group(1))
+        except Exception:
+            continue
+        for o in (j if isinstance(j, list) else [j]):
+            if isinstance(o, dict) and "JobPosting" in str(o.get("@type")):
+                t = clean(" ".join(str(o.get(k) or "") for k in ("description", "responsibilities", "qualifications", "skills")))
+                if len(t) >= 200:
+                    return t
+    m = re.search(r'"descriptionHtml":\s*("(?:[^"\\]|\\.)*")', raw)
+    if m:
+        try:
+            t = clean(json.loads(m.group(1)))
+            if len(t) >= 200:
+                return t
+        except Exception:
+            pass
+    t = clean(re.sub(r"(?is)<(script|style|noscript|nav|footer|header)[^>]*>.*?</\1>", " ", raw))
+    return t if len(t) >= 500 and re.search(r"responsibilit|qualification|requirement|what you|you will", t, re.I) else ""
+
+def enrich_simplify(budget_s=600):
+    tp = os.path.join(DATA, "tags.json")
+    old = json.load(open(tp)) if os.path.exists(tp) else {}
+    tags, miss = old.get("tags", {}), old.get("miss", {})
+    try:
+        data = http(SJ_URL, timeout=90)
+    except Exception as e:
+        print("simplify listings unavailable:", type(e).__name__, str(e)[:100])
+        return None
+    if not isinstance(data, list) or len(data) < 100:
+        print("simplify listings looked wrong; skipping enrichment")
+        return None
+    wanted = {x["id"]: x for x in data if sj_wanted(x)}
+    todo = [x for i, x in wanted.items() if i not in tags and NOW - miss.get(i, 0) > REPROBE_DAYS * DAY and x.get("url")]
+    deadline = time.time() + budget_s
+    stats = {"ok": 0, "miss": 0, "skipped": 0}
+
+    def one(x):
+        if time.time() > deadline:
+            return x["id"], "skipped", None
+        txt = page_text(fetch_page(x["url"]))
+        if len(txt) < 300:
+            return x["id"], "miss", None
+        tg = tag_text(x.get("title") or "", txt)
+        return x["id"], "ok", {"j": tg["j"], "f": tg["f"]}
+
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        for iid, st, tg in ex.map(one, todo):
+            stats[st] += 1
+            if st == "ok": tags[iid] = tg; miss.pop(iid, None)
+            elif st == "miss": miss[iid] = NOW
+    tags = {i: t for i, t in tags.items() if i in wanted}
+    miss = {i: t for i, t in miss.items() if i in wanted}
+    json.dump({"generatedAt": NOW, "vocab": VOCAB_OUT, "tags": tags, "miss": miss},
+              open(tp, "w"), separators=(",", ":"), sort_keys=True)
+    return {"wanted": len(wanted), "tagged": len(tags), "no_jd": len(wanted) - len(tags), **stats}
+
 # ---------------------------------------------------------------- main ----
 def scan_company(company, state):
     name = company["name"]
@@ -370,9 +599,16 @@ def scan_company(company, state):
         t = r["title"]
         if not relevant(t) or not in_us(r["loc"]):
             continue
-        items.append({"id": f"{src}:{name.lower().replace(' ', '-')}:{r['jid']}", "c": name, "t": t,
-                      "l": r["loc"] or "Not listed", "u": r["url"], "p": r["posted_ms"],
-                      "d": degree(t), "k": kind(t), "a": 1, "s": LABEL[src]})
+        iid = f"{src}:{name.lower().replace(' ', '-')}:{r['jid']}"
+        tg = tags_for(iid, t, r, state)
+        d = degree(t)
+        if d == "?" and tg.get("dj") not in (None, "?"):
+            d = tg["dj"]
+        item = {"id": iid, "c": name, "t": t, "l": r["loc"] or "Not listed", "u": r["url"], "p": r["posted_ms"],
+                "d": d, "k": kind(t), "a": 1, "s": LABEL[src]}
+        if "j" in tg:
+            item["j"], item["f"], item["dj"] = tg["j"], tg["f"], tg.get("dj", "?")
+        items.append(item)
     return name, "ok", f"{LABEL[src]}: {len(raw)} postings, {len(items)} matching", items
 
 def main():
@@ -409,7 +645,7 @@ def main():
 
     ok = sum(1 for r in results if r[1] == "ok")
     out = {"generatedAt": NOW, "count": len(feed), "active": sum(r["a"] for r in feed),
-           "companies": len(companies), "companiesOk": ok, "items": feed}
+           "companies": len(companies), "companiesOk": ok, "vocab": VOCAB_OUT, "items": feed}
     json.dump(out, open(os.path.join(DATA, "careers.json"), "w"), separators=(",", ":"))
     json.dump(state, open(sp, "w"), separators=(",", ":"), sort_keys=True)
 
@@ -420,6 +656,14 @@ def main():
     order = {"error": 0, "unresolved": 1, "ok": 2}
     for name, status, detail, _ in sorted(results, key=lambda r: (order[r[1]], r[0].lower())):
         lines.append(f"| {name} | {status} | {detail} |")
+    try:
+        sj = enrich_simplify()
+    except Exception as e:
+        sj = None
+        print("simplify enrichment failed:", type(e).__name__, str(e)[:120])
+    tagged = sum(1 for r in feed if "j" in r)
+    lines[4:4] = [f"Job descriptions read: {tagged} of {len(feed)} company-board roles"
+                      + (f"; SimplifyJobs roles {sj['tagged']} of {sj['wanted']} ({sj['no_jd']} pages had no readable description)." if sj else "; SimplifyJobs enrichment unavailable this run."), ""]
     open(os.path.join(DATA, "report.md"), "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[:4]))
     bad = [r for r in results if r[1] != "ok"]
