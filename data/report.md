@@ -1,12 +1,12 @@
-# Scan report: 2026-10-16 20:54 UTC
+# Scan report: 2026-10-16 20:59 UTC
 
-163 companies, 147 scanned OK, 252 open matching roles, 4 recently closed kept.
+163 companies, 147 scanned OK, 241 open matching roles, 15 recently closed kept.
 
-Job descriptions read: 252 of 256 company-board roles; SimplifyJobs roles 706 of 888 (182 pages had no readable description).
+Job descriptions read: 252 of 256 company-board roles; SimplifyJobs roles 705 of 887 (182 pages had no readable description).
 
-LinkedIn via Apify: run succeeded, 100 results; 62 new roles kept, 62 LinkedIn roles in the feed (last 30 days); Apify usage $0.06 of $5.00 this month.
+LinkedIn: no new Apify run (already ran in the last 20 hours); 57 LinkedIn roles in the feed.
 
-Description texts stored for Claude fit scoring: 995.
+Description texts stored for Claude fit scoring: 990.
 
 | Company | Status | Detail |
 |---|---|---|
@@ -33,8 +33,8 @@ Description texts stored for Claude fit scoring: 995.
 | Agility Robotics | ok | Greenhouse: 78 postings, 0 matching |
 | Aidoc | ok | Greenhouse: 29 postings, 0 matching |
 | Airbnb | ok | Greenhouse: 171 postings, 1 matching |
-| Amazon | ok | Amazon Jobs: 37 postings, 4 matching |
-| Anduril | ok | Greenhouse: 2541 postings, 1 matching |
+| Amazon | ok | Amazon Jobs: 37 postings, 3 matching |
+| Anduril | ok | Greenhouse: 2541 postings, 0 matching |
 | Anthropic | ok | Greenhouse: 653 postings, 0 matching |
 | Anysphere (Cursor) | ok | Ashby: 133 postings, 0 matching |
 | Apptronik | ok | Greenhouse: 80 postings, 0 matching |
@@ -54,16 +54,16 @@ Description texts stored for Claude fit scoring: 995.
 | Chime | ok | Greenhouse: 72 postings, 0 matching |
 | Cleerly | ok | Greenhouse: 18 postings, 0 matching |
 | Cloudflare | ok | Greenhouse: 437 postings, 0 matching |
-| Cohere | ok | Ashby: 118 postings, 2 matching |
+| Cohere | ok | Ashby: 118 postings, 0 matching |
 | Coinbase | ok | Greenhouse: 225 postings, 5 matching |
 | Collaborative Robotics | ok | Ashby: 14 postings, 0 matching |
 | CoreWeave (Weights & Biases) | ok | Greenhouse: 311 postings, 0 matching |
 | Databricks | ok | Greenhouse: 895 postings, 1 matching |
-| Datadog | ok | Greenhouse: 430 postings, 1 matching |
+| Datadog | ok | Greenhouse: 431 postings, 1 matching |
 | Dexterity | ok | Lever: 20 postings, 0 matching |
 | Discord | ok | Greenhouse: 47 postings, 0 matching |
 | Disney | ok | Workday: 348 postings, 0 matching |
-| DoorDash | ok | Greenhouse: 455 postings, 2 matching |
+| DoorDash | ok | Greenhouse: 454 postings, 2 matching |
 | Dropbox | ok | Greenhouse: 20 postings, 0 matching |
 | DRW | ok | Greenhouse: 168 postings, 2 matching |
 | Duolingo | ok | Greenhouse: 64 postings, 2 matching |
@@ -93,7 +93,7 @@ Description texts stored for Claude fit scoring: 995.
 | Isomorphic Labs | ok | Greenhouse: 29 postings, 0 matching |
 | Jane Street | ok | Greenhouse: 221 postings, 0 matching |
 | Jump Trading | ok | Greenhouse: 101 postings, 7 matching |
-| Kodiak Robotics | ok | Greenhouse: 68 postings, 1 matching |
+| Kodiak Robotics | ok | Greenhouse: 68 postings, 0 matching |
 | Liquid AI | ok | Ashby: 22 postings, 0 matching |
 | Luma AI | ok | Ashby: 35 postings, 0 matching |
 | Lunit | ok | Workable: 19 postings, 0 matching |
@@ -122,7 +122,7 @@ Description texts stored for Claude fit scoring: 995.
 | PDT Partners | ok | Greenhouse: 12 postings, 1 matching |
 | Peloton | ok | Greenhouse: 53 postings, 0 matching |
 | Perplexity | ok | Ashby: 132 postings, 3 matching |
-| Pfizer | ok | Workday: 257 postings, 0 matching |
+| Pfizer | ok | Workday: 253 postings, 0 matching |
 | Physical Intelligence | ok | Ashby: 41 postings, 1 matching |
 | Pika | ok | Ashby: 15 postings, 1 matching |
 | Pinterest | ok | Greenhouse: 156 postings, 5 matching |
@@ -144,10 +144,10 @@ Description texts stored for Claude fit scoring: 995.
 | Runway | ok | Ashby: 3 postings, 0 matching |
 | Salesforce | ok | Workday: 400 postings, 1 matching |
 | Samsara | ok | Greenhouse: 259 postings, 0 matching |
-| Saronic | ok | Ashby: 233 postings, 0 matching |
+| Saronic | ok | Ashby: 232 postings, 0 matching |
 | Scale AI | ok | Greenhouse: 183 postings, 0 matching |
 | Schonfeld | ok | Greenhouse: 69 postings, 3 matching |
-| ServiceNow | ok | SmartRecruiters: 172 postings, 2 matching |
+| ServiceNow | ok | SmartRecruiters: 171 postings, 2 matching |
 | Shield AI | ok | Lever: 615 postings, 0 matching |
 | Sierra | ok | Ashby: 186 postings, 0 matching |
 | Skydio | ok | Ashby: 160 postings, 3 matching |
@@ -157,7 +157,7 @@ Description texts stored for Claude fit scoring: 995.
 | Stability AI | ok | Greenhouse: 6 postings, 0 matching |
 | Stack AV | ok | Greenhouse: 13 postings, 0 matching |
 | Stripe | ok | Greenhouse: 733 postings, 2 matching |
-| Together AI | ok | Greenhouse: 76 postings, 8 matching |
+| Together AI | ok | Greenhouse: 76 postings, 4 matching |
 | Toyota Research Institute | ok | Lever: 12 postings, 1 matching |
 | Twelve Labs | ok | Ashby: 15 postings, 0 matching |
 | Twilio | ok | Greenhouse: 133 postings, 0 matching |
@@ -166,10 +166,10 @@ Description texts stored for Claude fit scoring: 995.
 | Voleon | ok | Ashby: 58 postings, 1 matching |
 | Waymo | ok | Greenhouse: 364 postings, 32 matching |
 | Wayve | ok | Ashby: 174 postings, 0 matching |
-| Western Digital | ok | SmartRecruiters: 87 postings, 4 matching |
+| Western Digital | ok | SmartRecruiters: 87 postings, 3 matching |
 | Workday | ok | Workday: 177 postings, 0 matching |
 | World Labs | ok | Ashby: 11 postings, 0 matching |
 | Writer | ok | Ashby: 47 postings, 0 matching |
-| Zipline | ok | Greenhouse: 348 postings, 3 matching |
+| Zipline | ok | Greenhouse: 346 postings, 2 matching |
 | Zocdoc | ok | Greenhouse: 59 postings, 0 matching |
 | Zoox | ok | Lever: 241 postings, 0 matching |
