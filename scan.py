@@ -885,10 +885,15 @@ def main():
             it["p"] = s["first"]
         state["items"][iid] = it
     feed = list(live.values())
+    # A board that errored this run (outage, maintenance) keeps its roles open for up to 3 days.
+    errored = {name for name, status, _, _ in results if status == "error"}
     for iid, it in list(state["items"].items()):
         if iid in live:
             continue
         last = state["seen"].get(iid, {}).get("last", 0)
+        if it.get("c") in errored and NOW - last <= 3 * DAY:
+            feed.append(it)
+            continue
         if NOW - last <= KEEP_CLOSED_DAYS * DAY:
             feed.append({**it, "a": 0})
         else:
