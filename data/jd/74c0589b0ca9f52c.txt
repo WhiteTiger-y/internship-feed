@@ -1,0 +1,43 @@
+biggest brands.
+About Our Summer Internship Program
+Our Summer Internship Program is designed for students entering their final year of university who are eager to gain meaningful, real-world experience in a fast
+paced, collaborative, and professional environment.
+As a Summer Intern, you'll participate in a comprehensive onboarding experience led by our University Relations team to set you up for success from day one.
+Throughout the program, you'll also have the opportunity to participate in weekly professional development sessions, networking events, social activities, and
+other engaging experienced designed to support your personal and professional growth.
+The program takes place from June – August 2027.
+Your Role
+In the Data & Analytics Engineering Internship, you’ll get hands on experience with data pipelines and analytics processing. You’ll work directly with our
+engineers to deliver enterprise grade code on a modern data platform. You’ll be involved in the full development lifecycle, from design and scoping, to
+implementation, to review and deployment.
+Applicants must be authorized to work in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa now or in the future.
+Qualifications
+- Rising Junior or Senior pursuing a Bachelor’s degree in an accredited college or university in Computer Science, Data Science, or related field
+- Excellent written and verbal communication skills
+- Ability to learn and ramp up quickly on new technologies
+- Detail Oriented
+- Willingness to learn about technology
+Preferred Qualifications
+- Knowledge of SQL, Python, or Spark
+- Familiarity Azure or other cloud platforms
+- Familiarity with Git
+This role is hybrid, 2-3 days a week in the Alpharetta, GA office.
+Benefits
+As a paid intern at Veeam, you’ll receive:
+- Paid Company Holidays during your internship
+- Tech Stipend to help set up your workspace
+- 8 Hours of Paid Volunteer Time through our Veeam Cares Program
+- Personal and Professional Development through our Internship Program
+We’re committed to providing a supportive and rewarding internship experience.
+The pay range posted is an hourly rate of base pay. When making an offer of employment, Veeam will take into consideration the candidate’s expectations,
+experience, education, scope of responsibility for the role, and the current market demands.
+United States of America Intern Pay Range
+$20 - $25 USD
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national
+origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept
+confidential.
+Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice , which explains how your information
+is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.
+By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your
+knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins,
+termination of employment.

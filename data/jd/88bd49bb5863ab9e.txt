@@ -1,0 +1,71 @@
+Description
+Are you interested in pursuing a career in artificial intelligence (AI) and machine learning (ML) research?
+Does working in a fast-paced environment on open-ended problems excite you?
+Are you motivated by critical national security challenges?
+If you are an undergraduate or graduate student and these questions describe you, you should apply for a summer internship with JHU/APL’s AI Group! We are a
+team within the Research and Exploratory Development Department (REDD) that strives to close the gap between frontier models and our sponsors’ expectations for
+an AI-dominated future. Our research programs are targeting foundational advances with cross-mission impact, such as:
+- Increasing behavioral alignment of AI agents used in human-machine teaming and wargaming
+- Training multimodal foundation models on language and sensor data
+- Intelligent robots that use agentic AI to perform complex tasks in a self-directed way
+- Assessing, mitigating, and exploiting vulnerabilities of frontier models
+- Mission-driven test and evaluation (T&E) of novel research
+As an intern in our group you will be exposed to interdisciplinary research and will have access to world-class experts working in these fields. Your primary
+responsibility will be helping us train and evaluate frontier AI models and applications on one or two projects, and if the results are particularly impactful,
+you may even have the opportunity to publish your work.
+Qualifications
+You meet our minimum qualifications for the job if you...
+- Are pursuing a Bachelor's, Master's, or PhD degree in Computer Science, Engineering, Mathematics, or another related field pertaining to AI.
+- Are proficient in Python programming with experience using PyTorch.
+- Have a GPA of at least 3.0 on a 4.0 scale.
+- Are able to obtain a Secret level clearance. If selected, you will be subject to a background investigation and must meet the requirements for access to
+classified information. Eligibility requirements include U.S. citizenship.
+You'll go above and beyond our minimum requirements if you…
+- Have taken courses in AI, machine learning, data science, multivariate statistics, computer vision, and/or natural language processing.
+- Maintain an active portfolio of open-source software projects on a GitHub.
+- Have examples of Python projects that use Hugging Face libraries.
+- Have examples of Python projects that interface with Large Language Models, such as a Retrieval Augmented Generation (RAG) system.
+- Have examples of projects where you used 3D modeling tools such as Blender or Nerfstudio.
+- Have previously published your work in scientific literature.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers .
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu .
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly
+Are you interested in pursuing a career in artificial intelligence (AI) and machine learning (ML) research?
+Does working in a fast-paced environment on open-ended problems excite you?
+Are you motivated by critical national security challenges?
+If you are an undergraduate or graduate student and these questions describe you, you should apply for a summer internship with JHU/APL’s AI Group! We are a
+team within the Research and Exploratory Development Department (REDD) that strives to close the gap between frontier models and our sponsors’ expectations for
+an AI-dominated future. Our research programs are targeting foundational advances with cross-mission impact, such as:
+- Increasing behavioral alignment of AI agents used in human-machine teaming and wargaming
+- Training multimodal foundation models on language and sensor data
+- Intelligent robots that use agentic AI to perform complex tasks in a self-directed way
+- Assessing, mitigating, and exploiting vulnerabilities of frontier models
+- Mission-driven test and evaluation (T&E) of novel research
+As an intern in our group you will be exposed to interdisciplinary research and will have access to world-class experts working in these fields. Your primary
+responsibility will be helping us train and evaluate frontier AI models and applications on one or two projects, and if the results are particularly impactful,
+you may even have the opportunity to publish your work.
+You meet our minimum qualifications for the job if you...
+- Are pursuing a Bachelor's, Master's, or PhD degree in Computer Science, Engineering, Mathematics, or another related field pertaining to AI.
+- Are proficient in Python programming with experience using PyTorch.
+- Have a GPA of at least 3.0 on a 4.0 sca

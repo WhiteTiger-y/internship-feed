@@ -1,0 +1,79 @@
+Job ID
+20702
+Description and Requirements
+The Team You Will Join
+At MetLife, data isn’t just a tool – it is a catalyst for growth. As part of our Data & Analytics organization, you’ll unlock trusted insights that drive bold
+decisions, power personalized customer experiences, and deliver lasting business impact. We’re building the future of data – one that’s governed responsibly,
+engineered for scalability, and designed for growth. When you join us, you’re not just supporting the business – you’re empowering it. Let’s transform insight
+into impact and data into action, together.
+The Opportunity
+As a METx Data & Analytics undergraduate intern, you’ll work alongside experienced data professionals, contribute to real projects, and share your outcomes and
+learning experiences with peers and leaders at the end of the program. Our program is designed for students who are curious, adaptable, and eager to learn new
+technologies in a collaborative, innovative environment.
+Application Process & Program Information
+- Applications for this role will close December 1, 2026.
+- Qualified candidates will be invited to interview on a rolling basis – no interview activity will take place between December 21, 2026 through January 18,
+2027.
+- Candidates must be authorized to work in the United States and must not require MetLife sponsorship or support for a work permit or visa in any capacity now
+or in the future.
+- Interns will start in person on June 1st, 2027 and will work approximately 40 hours /week over the course of ten weeks – candidates must be available for the
+entire duration of the program.
+- All D&A interns will be hybrid in Cary, NC.
+- MetLife does not provide housing or a relocation/housing stipend or support for this role.
+Key Responsibilities
+Our interns work on meaningful projects impacting millions of customers, receive mentorship from highly skilled data experts and industry leaders, and build
+robust technical skills. At the end of the internship, you will have a chance to share your project outcomes and learning experiences with peers and leaders.
+Intern projects may include:
+- Data Engineering & Pipeline Automation : Automate data pipelines using Azure and Databricks to support business reporting.
+- Machine Learning & Predictive Analytics: Develop machine learning models to predict customer behavior, pricing, threat monitoring, and other outcomes based on
+historical data patterns.
+- Generative AI & Agentic AI Innovation : Brainstorm and develop potential GenAI and Agentic AI solutions to enhance operations and capabilities.
+- Analytics Solution Development : Develop and test analytics solutions, including writing Databricks notebooks and validating data.
+- Business Process Analysis & Improvement : Analyze, identify opportunities for improvement, and document business processes to support data-driven projects.
+- Data Visualization & Reporting : Build dashboards and reports to visualize key business metrics.
+- Production Support & Incident Management : Provide production support and help resolve data-related incidents.
+- Data Governance & Management : Document key data assets, apply data governance standards, and support data management to improve transparency and compliance.
+- Strategic Initiatives & Cross-Functional Collaboration : Support strategic or operational initiatives while collaborating with cross-functional teams.
+Required Qualifications
+- Currently pursuing a bachelor’s degree or post-secondary training in Data Science, Business Analytics, Artificial Intelligence, Computer Science, Applied
+Mathematics, Statistics, Management Information Systems, or a related field.
+- Must have an expected graduation date no later than June 2029.
+- Minimum GPA of 3.0.
+- Strong analytical mindset with ability to identify patterns and insights from data as demonstrated through academic coursework or personal projects.
+- Coursework or experience with at least one programming language or analytics tool (e.g., Python, SQL, Scala, C#, C++).
+- Ability to analyze, ingest, and organize raw data and perform data transformation for modeling.
+- Knowledge of or experience using AI models, integrating AI-enabled solutions into business or technical workflows.
+- Desire to learn new technologies, tools, and business processes.
+- Strong communication and critical thinking, and teamwork skills.
+- Curiosity, adaptability, and a growth mindset.
+Preferred Qualifications
+- Exposure to data visualization tools (e.g., Tableau, Power BI) or cloud platforms.
+- Familiarity with cloud-based data and analytics environments, particularly Microsoft Azure and Databricks.
+- Experience with collaborative tools (e.g., GitHub, Azure DevOps) or agile methodologies.
+- Exposure to data governance tools (e.g., Collibra, Ataccama, EDC).
+- Relevant certifications (e.g., Microsoft Certified: Data Analyst Associate).
+- Experience with data pipelines, systems, and process design.
+- Exposure to advanced analytics, machine learning, and feature engineering.
+Location Expectation: This is a hybrid role requiring a minimum of 3 days per week in office.
+The expected salary range for this position is $28-30 / Hour.
+About MetLife
+Recognized
+on Fortune magazine's list of the "World's Most Admired Companies",
+Fortune World’s 25 Best Workplaces™, as well as the Fortune 100 Best Companies
+to Work For®, MetLife, through its subsidiaries and affiliates, is one of the
+world’s leading financial services companies; providing insurance, annuities,
+employee benefits and asset management to individual and institutional
+customers. With operations in more than 40 markets, we hold leading positions
+in the United States, Latin America, Asia, Europe, and the Middle East.
+As part of our New Frontier strategy, MetLife is building an AI-enabled, people-centered future. We’re looking for people who bring curiosity, adaptability, and
+a growth mindset as we use AI to enhance how we serve customers, support communities, and evolve the way work gets done. At MetLife, AI is a responsible partner
+that supports human judgment, creativity, and continuous improvement while helping us build trust, inclusion, and long-term value.
+Our purpose
+is simple - to help our colleagues, customers, communities, and the world at
+large create a more confident future. United by purpose and guided by our core
+values - Win Together, Do the Right Thing, Deliver Impact Over Activity, and
+Think Ahead - we’re inspired to transform the next century in financial
+services. At MetLife, it’s #AllTogetherPossible . Join us!
+MetLife is an Equal Opportunity Employer. All employment decisions are made without regards to race, color, national origin, religion, creed, sex (including
+pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, marital or domestic/civil partnership
+status, genetic information, citizenship status (although applicants and employees must be legally authorized to work in the United States), uniforme
