@@ -899,6 +899,10 @@ def main():
         else:
             state["items"].pop(iid, None)
             state["seen"].pop(iid, None)
+    for r in feed:   # roles stored before a filter change
+        if not in_us(r["l"]) or not relevant(r["t"]):
+            state["items"].pop(r["id"], None)
+    feed = [r for r in feed if in_us(r["l"]) and relevant(r["t"])]
     feed.sort(key=lambda r: -r["p"])
 
     try:
