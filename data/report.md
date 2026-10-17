@@ -1,12 +1,12 @@
-# Scan report: 2026-10-17 07:43 UTC
+# Scan report: 2026-10-17 07:45 UTC
 
-163 companies, 134 scanned OK, 230 open matching roles, 27 recently closed kept.
+163 companies, 134 scanned OK, 228 open matching roles, 2 recently closed kept.
 
-Job descriptions read: 253 of 257 company-board roles; SimplifyJobs roles 701 of 890 (189 pages had no readable description).
+Job descriptions read: 227 of 230 company-board roles; SimplifyJobs roles 701 of 890 (189 pages had no readable description).
 
 LinkedIn: no new Apify run (already ran in the last 20 hours); 57 LinkedIn roles in the feed.
 
-Description texts stored for Claude fit scoring: 990.
+Description texts stored for Claude fit scoring: 964.
 
 | Company | Status | Detail |
 |---|---|---|
