@@ -95,17 +95,58 @@ RE_DATA = re.compile(r"data|analytics|quant", re.I)
 
 US_STATES = ("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY "
              "NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC").split()
-RE_US = re.compile(r"united states|\busa?\b|u\.s\.|remote|anywhere|"
-                   r"new york|san francisco|seattle|boston|austin|chicago|los angeles|bay area|"
-                   r"mountain view|palo alto|menlo park|sunnyvale|santa clara|san jose|redmond|cambridge, ma|"
-                   r"pittsburgh|atlanta|denver|washington|princeton|jersey|philadelphia|san diego|"
-                   r"\b(" + "|".join(US_STATES) + r")\b", re.I)
-RE_NON_US = re.compile(r"\b(uk|united kingdom|london|england|canada|toronto|montreal|vancouver|india|"
-                       r"bengaluru|bangalore|hyderabad|pune|mumbai|delhi|germany|berlin|munich|france|paris|"
-                       r"zurich|switzerland|israel|tel aviv|singapore|japan|tokyo|china|beijing|shanghai|"
-                       r"shenzhen|korea|seoul|australia|sydney|netherlands|amsterdam|ireland|dublin|poland|"
-                       r"warsaw|spain|madrid|barcelona|italy|taiwan|taipei|hong kong|brazil|mexico|emea|apac|"
-                       r"europe|sweden|stockholm|denmark|copenhagen|finland|helsinki|czech|prague|romania)\b", re.I)
+# A location counts as US when it names the US, a US city, or a state code in capitals (", CA"),
+# and names no other country, province or foreign city. Each "; " / " | " separated location is checked
+# on its own, and a role is kept when at least one of its locations is in the US.
+US_STATE_NAMES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|"
+                  "idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|"
+                  "minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|"
+                  "north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|"
+                  "south dakota|tennessee|texas|utah|vermont|virginia|wisconsin|wyoming|district of columbia")
+RE_US_WORD = re.compile(r"united states|\busa\b|\bu\.s\.a?\b|\bus\b|\bnyc\b|\bsf\b|"
+                        r"new york|san francisco|seattle|boston|austin|chicago|los angeles|bay area|"
+                        r"mountain view|palo alto|menlo park|sunnyvale|santa clara|san jose|redmond|cambridge, ma|"
+                        r"pittsburgh|atlanta|denver|washington|princeton|jersey city|philadelphia|san diego|"
+                        r"\b(" + US_STATE_NAMES + r")\b", re.I)
+RE_US_STATE = re.compile(r"(^|,\s*|\s)(" + "|".join(US_STATES) + r")(\s*\d{5})?\s*($|,|\))")
+RE_NON_US = re.compile(r"\b(uk|u\.k\.|united kingdom|london|england|scotland|edinburgh|manchester|oxford|cambridge, uk|"
+                       r"canada|toronto|montreal|vancouver|ottawa|waterloo|calgary|ontario|quebec|british columbia|alberta|"
+                       r"india|bengaluru|bangalore|hyderabad|pune|mumbai|delhi|gurgaon|gurugram|noida|chennai|kolkata|"
+                       r"germany|berlin|munich|hamburg|frankfurt|stuttgart|france|paris|lyon|zurich|switzerland|geneva|"
+                       r"israel|tel aviv|singapore|japan|tokyo|osaka|china|beijing|shanghai|shenzhen|hangzhou|korea|seoul|"
+                       r"australia|sydney|melbourne|new zealand|netherlands|amsterdam|ireland|dublin|poland|warsaw|krakow|"
+                       r"spain|madrid|barcelona|portugal|lisbon|italy|milan|rome|belgium|brussels|austria|vienna|"
+                       r"taiwan|taipei|hong kong|brazil|sao paulo|mexico|argentina|chile|colombia|costa rica|"
+                       r"vietnam|hanoi|ho chi minh|philippines|manila|indonesia|jakarta|malaysia|thailand|bangkok|"
+                       r"uae|dubai|abu dhabi|qatar|saudi|riyadh|egypt|cairo|nigeria|lagos|kenya|nairobi|south africa|"
+                       r"pakistan|bangladesh|sri lanka|turkey|istanbul|greece|hungary|budapest|romania|bucharest|"
+                       r"czech|prague|ukraine|estonia|latvia|lithuania|bulgaria|serbia|croatia|luxembourg|"
+                       r"sweden|stockholm|norway|oslo|denmark|copenhagen|finland|helsinki|emea|apac|latam|europe)\b", re.I)
+RE_COUNTRY = re.compile(r"\b(uk|u\.k\.|united kingdom|england|scotland|canada|india|germany|france|switzerland|israel|"
+                        r"singapore|japan|china|prc|korea|australia|new zealand|netherlands|ireland|poland|spain|portugal|"
+                        r"italy|belgium|austria|taiwan|hong kong|brazil|mexico|argentina|chile|colombia|vietnam|philippines|"
+                        r"indonesia|malaysia|thailand|uae|qatar|saudi|egypt|nigeria|kenya|south africa|pakistan|bangladesh|"
+                        r"turkey|greece|hungary|romania|czech|ukraine|sweden|norway|denmark|finland|emea|apac|latam|europe)\b", re.I)
+RE_CA_PROVINCE = re.compile(r",\s*(ON|QC|BC|AB|MB|NS|NB|SK|NL|PE)\b")
+
+def _us_part(part):
+    if not part.strip():
+        return False
+    if RE_US_WORD.search(part):   # names a US place, even alongside foreign cities ("San Francisco, Amsterdam")
+        return True
+    if RE_CA_PROVINCE.search(part) or RE_COUNTRY.search(part):
+        return False
+    if RE_US_STATE.search(part):   # "Dublin, OH", "Rome, NY", "Vienna, VA"
+        return True
+    if RE_NON_US.search(part):
+        return False
+    return bool(RE_US_WORD.search(part) or RE_US_STATE.search(part) or re.match(r"\s*(" + "|".join(US_STATES) + r")\d", part) or re.fullmatch(r"\s*(remote|anywhere|hybrid)\s*", part, re.I))
+
+def in_us(loc):
+    if not loc or not loc.strip() or loc.strip().lower() in ("not listed", "?") or re.search(r"\d+ locations|multiple locations", loc, re.I):
+        return True   # unknown location: keep, the description decides
+    parts = re.split(r";|\||/|\bor\b|\n", loc)
+    return any(_us_part(p) for p in parts)
 
 def relevant(title):
     if not RE_INTERN.search(title) or not RE_FIELD.search(title) or RE_EXCLUDE.search(title):
@@ -116,13 +157,6 @@ def relevant(title):
     if RE_OLD_YEAR.search(title) and not RE_SUMMER_27.search(title):
         return False
     return True
-
-def in_us(loc):
-    if not loc:
-        return True
-    if RE_US.search(loc):
-        return True
-    return not RE_NON_US.search(loc)
 
 def kind(t):
     if RE_RESEARCH.search(t): return "research"
@@ -780,7 +814,7 @@ def li_merge(raw, state):
             new += 1
         li[iid] = item
     for iid, it in list(li.items()):
-        if NOW - it["p"] > LI_KEEP_DAYS * DAY or not relevant(it["t"]):
+        if NOW - it["p"] > LI_KEEP_DAYS * DAY or not relevant(it["t"]) or not in_us(it.get("l", "")):
             li.pop(iid)
     return sorted(li.values(), key=lambda r: -r["p"]), new
 
