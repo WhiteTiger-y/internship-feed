@@ -1,0 +1,48 @@
+With a company culture rooted in collaboration, expertise and innovation, we aim to promote progress and inspire our clients, employees, investors and
+communities to achieve their greatest potential. Our work is the catalyst that helps others achieve their goals. In short, We Enable Possibility℠.
+About This Internship
+Arch’s 8-week summer internship program offers students a unique opportunity to gain hands on experience in the insurance industry. It provides challenging
+learning experiences that serve as a foundation for interns to explore their career choices and to develop professional skills. Working alongside some of the
+most talented members of the specialty insurance industry, interns will gain relevant expertise in various aspects of the field, participate in learning
+activities and receive ongoing feedback.
+About This Role
+- Collaborate with the Data and Analytics team and business partners on projects that support critical business priorities.
+- Design ETL processes, develop data pipelines, and support the implementation of validation controls to help ensure data accuracy and reliability.
+- Integrate data from source systems, databases, APIs, and third-party applications into the segment data warehouse based on business needs.
+- Support data quality activities by applying validation, profiling, and cleansing techniques to help ensure data is accurate, complete, and fit for business
+use.
+- Design and develop Power BI reports and dashboards that provide meaningful insights into business operations.
+- Troubleshoot and help resolve issues related to data sources, ETL processes, data pipelines, and data storage.
+- Stay current with emerging technologies, trends, and best practices in data warehousing, analytics, cloud platforms, and responsible AI-assisted development.
+- Explore and apply AI-enabled tools to improve productivity, automate repeatable tasks, support data quality analysis, and accelerate insight generation.
+- Recommend improvements to existing data warehouse and analytics solutions and support implementation of new capabilities that leverage modern technologies.
+Qualifications
+- Actively completing a bachelor’s degree in data Analytics, Data Science, Computer Engineering, Computer Science, Information Systems, Mathematics, Statistics,
+or a related program.
+- Minimum 3.0 GPA or higher.
+- College level – Sophomore, Junior or Senior student with graduation dates between December 2027 and May 2029.
+- Entrepreneurial spirit along with the desire to be a continuous learner.
+- Basic understanding of data warehousing, ETL concepts, business intelligence, and data integration patterns required.
+- Exposure to tools or platforms such as Snowflake, Databricks, Power BI, or similar database and ETL and reporting tool technologies strongly preferred.
+- Curiosity and foundational knowledge of AI, machine learning, prompt engineering, or AI-assisted analytics tools.
+- Familiarity with CI/CD concepts and software development lifecycle practices
+- Proficiency or strong coursework experience in SQL required and Python/Spark preferred with the ability to use AI-assisted tools responsibly to improve
+development, analysis, and problem-solving outcomes required.
+- Team player who collaborates effectively.
+- Self-starter who can work independently and deal effectively with multiple tasks/priorities in a fast-paced environment.
+Location & Work Arrangement
+- The program dates are June 2, 2027 – July 23, 2027.
+- This position is classified as a hybrid position. You will work 4 days onsite and 1 days from home.
+- This position is located in Farmington, CT.
+- Relocation and housing assistance is not provided for this role.
+Timeline
+Arch internship positions will be unposted when filled.
+Pay
+For individuals assigned to or hired to work in Farmington, CT, the hourly rate is $26-28 as of the time of posting. The breadth in the range exists to
+accommodate students in specialized programs such as actuarial candidates and graduate students. Any actual rate offered will take into account a number of
+factors including but not limited to geographic location, scope & responsibilities of the role, along with the education & qualifications of the candidate. The
+above range may be modified in the future. Intern position is eligible for select Arch benefits.
+Do you like solving complex business problems, working with talented colleagues and have an innovative mindset? Arch may be a great fit for you. If this job
+isn’t the right fit but you’re interested in working for Arch, create a job alert! Simply create an account and opt in to receive emails when we have job
+openings that meet your criteria. Join our talent community to share your preferences directly with Arch’s Talent Acquisition team.
+10200 Arch Capital Services LLC

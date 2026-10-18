@@ -1,0 +1,70 @@
+Job Description
+Veterans and Military Spouses belong at Oracle
+This is a place where your military experience and talent will help you thrive. Our culture of inclusion values the skills that veterans bring to our workforce
+and empowers you to use them to transform the world for the better. Get a head start on your civilian career today.
+About the Oracle Veteran Internship Program (OVIP):
+Oracle is proud to sponsor an internship and integration program that exposes transitioning military veterans and active-duty Military Spouses new to the
+corporate culture, provides hands-on job-skill training and experience, and offers enhanced professional and personal development. At Oracle, we are committed
+to the development and professional growth of our veterans and military spouses. Our paid internship program is specifically designed to aid military veterans,
+transitioning servicemembers and active-duty military spouses new to the corporate sector in their transition to a career in the private or public sector.
+Veterans and Military Spouses accepted into our program will work closely with corporate leadership, military veteran coaches and HR professionals to help
+prepare for a successful transition. Interns will engage in on-the-job training and professional development in fields such as information technology,
+technical/systems consulting, technical support, facilities, finance, human resources, logistics, marketing, sales or developmental training in sales or for
+customer support (as available).
+US Veteran transitioning from active service or Military Spouse new to corporate experience preferred
+About the Company:
+For more than four decades, Oracle has delivered innovations that have helped build entire industries. We remain the gold standard as the world’s first
+autonomous database and industry’s broadest and deepest suite of AI-powered cloud applications. The following facts and figures highlight some of the many ways
+we continue to deliver innovations for our customers, partners, and communities. With annual revenue of US$57 billion in FY2025, Oracle is the world’s largest
+EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region; has 5 million registered
+members of Oracle’s customer and developer communities; and 469 independent user communities in 97 countries representing more than 1 million members.
+Additional Information:
+Hourly wage is $30 per hour. This is a 40 hour per week position
+Responsibilities
+About the Construction and Engineering Demonstration Data Strategy Intern Position:
+Come and join us! Oracle is on a mission to help people see data in new ways, discover insights, and unlock endless possibilities. We believe that
+transformation is led by individuals with diverse backgrounds, experiences, and ways of thinking. At Oracle, we continue to push forward and innovate, not in
+spite of challenges, but because of them.
+The Oracle Construction and Engineering Industry Unit is seeking a motivated and detail-oriented Seasonal Intern to support the development and execution of a
+demonstration data strategy for Oracle Construction and Engineering solutions. This role is ideal for individuals interested in enterprise applications, data
+transformation, systems configuration, and business process enablement within construction and engineering technology solutions.
+The Role:
+As a Demonstration Data Strategy Intern, you will work closely with solution consultants, product specialists, and cross-functional stakeholders to help create,
+transform, organize, and maintain demonstration-ready data environments that support customer presentations, solution demonstrations, and sales enablement
+activities.
+This role will involve learning Oracle Construction & Engineering solutions , understand system architecture and data relationships, and help develop realistic,
+scalable demonstration datasets aligned to facility and asset maintenance use cases.
+The ideal candidate is curious, technically inclined, highly organized, and comfortable learning new systems quickly. Candidates should enjoy solving problems,
+working with structured and unstructured data, and collaborating across teams to support impactful demonstration experiences.
+Responsibilities could include:
+- Assist in developing and executing a demonstration data strategy for Oracle Unifier and Unifier FAM environments and other solutions as applicable
+- Learn and navigate Oracle solutions and configurations to understand data structures, workflows, and reporting capabilities
+- Analyze existing data sets and transform or reconfigure data for compatibility with updated demonstration environments
+- Support importing, exporting, cleansing, and validating data between systems and platforms
+- Develop and maintain demonstration-ready assets, maintenance, facility, and operational data aligned with business use cases
+- Identify gaps in available data and help create new datasets to support demonstration scenarios and customer storytelling
+- Assist with creating and updating import templates and configuration files required for system uploads
+- Collaborate with internal stakeholders to ensure demonstration environments align with existing solution materials and sales resources
+- Utilize AI-assisted tools and automation technologies to accelerate data generation, transformation, and formatting activities
+- Support redevelopment and enhancement of existing reports and dashboards using current and newly developed data sets
+- Create new reports where gaps exist based on understanding of business processes, use cases, and reporting requirements
+- Document processes, data mappings, transformation logic, and configuration approaches for repeatability and future scalability
+- Participate in team meetings, workshops, and collaborative problem-solving sessions across the Construction and Engineering organization
+Required Skills and Experience:
+BS degree or equivalent experience relevant to functional area. Business, Marketing, Finance, Project Management, Data Analytics or related experience preferred
+including assisting with:
+- Ability to work cross-functionally and manage multiple projects simultaneously
+- Comfortable in a fast-paced environment
+- Passionate about solutions, collaborative, and adaptable
+- Proactive self-starter capable of working both independently and in a team setting
+- Excellent project management skills
+- Strong written and oral communication skills
+- Strong professionalism and work ethic
+Does this sound like you? If so, we hope to meet you!
+Qualifications
+Disclaimer:
+Certain U.S. based or U.S. customer or client-facing roles may be required to comply with applicable requirements, such as immunization/occupational health
+mandates, and/or drug testing requirements.
+Range and benefit information provided in this posting are specific to the stated locations only
+US: Hiring Range in USD from $19.09 - $36.35 per hour; from: $39,700 - $75,600 per year.
+Oracl

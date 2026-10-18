@@ -1,0 +1,48 @@
+XPENG is a leading smart technology company at the forefront of innovation, integrating advanced AI and autonomous driving technologies into its vehicles,
+including electric vehicles (EVs), electric vertical take-off and landing (eVTOL) aircraft, and robotics. With a strong focus on intelligent mobility, XPENG is
+dedicated to reshaping the future of transportation through cutting-edge R&D in AI, machine learning, and smart connectivity.
+We are seeking PhD research interns with strong expertise in generative modeling and a demonstrated record of original research. In this role, you will work
+alongside our research team to develop world models that learn the dynamics of the physical world from large-scale multimodal data — predicting how a scene
+evolves under an agent's actions, and serving as a learned simulator for training and evaluating driving and robotic policies. You will work with state-of-the-
+art generative architectures, including diffusion and flow-matching models, video tokenizers, and transformer-based multimodal backbones, with access to vast
+amounts of real-world multimodal data from our autonomous fleet and robotics platforms. Interns are expected to drive a focused research project end to end, and
+strong results are supported for publication at top-tier venues.
+Job Responsibilities
+- Drive a focused research project on predictive world models, spanning problem formulation, architecture design, training, evaluation, and empirical analysis,
+in close collaboration with a mentor and the broader research team.
+- Contribute to one or more of the following directions: high-quality multi-view future prediction and generation, supporting both action-conditioned rollouts
+and formulations that forecast the future without explicit action conditioning; architectures in which a shared backbone both predicts the future and produces
+trajectories or actions; predictive pre-training to improve Vision-Language-Action (VLA) driving performance.
+- Extend prediction beyond 2D pixels into a shared multimodal latent space that spans 3D scene representations such as Gaussian Splatting, together with
+occupancy and reward signals, so that a single model can support simulation, evaluation, and policy training.
+- Investigate cross-embodiment generalization through unified observation and action representations and embodiment-conditioning mechanisms, so that a single
+world model transfers across vehicles, robots, and sensor configurations with only few-shot data.
+- Build evaluation methodology for predictive world models, spanning representation quality, prediction accuracy, generation fidelity, physical plausibility,
+long-horizon rollout consistency, and closed-loop policy performance.
+- Collaborate with research engineers to move research prototypes into scalable training and inference pipelines, and publish and open-source results where
+appropriate.
+Minimum Skill Requirements
+- Currently pursuing a PhD in Engineering, Computer Science, or a related field, with a focus on Deep Learning, Computer Vision, or Generative Models.
+- First-author publications at top-tier venues such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, CoRL, RSS, or SIGGRAPH. Work under submission may be presented as
+an arXiv preprint.
+- Strong, up-to-date foundation in generative modeling and experimental methodology, with hands-on experience building, training, fine-tuning, and evaluating
+models in PyTorch or JAX.
+- Strong Python programming and software design skills, with a solid understanding of data structures, algorithms, code optimization, and large-scale data
+processing.
+- Available to commit to a minimum of 12 weeks and work on-site at our Santa Clara office.
+Preferred Skill Requirements
+- Hands-on experience with generative models for video or 3D, such as diffusion, flow matching, autoregressive video prediction, or neural scene representations
+including NeRF and Gaussian Splatting.
+- Experience with world models or learned simulators for decision making, including model-based reinforcement learning and Vision-Language-Action (VLA) models.
+- Experience with multimodal foundation models and video tokenizers or VAEs, including pretraining or adapting large pretrained backbones.
+- Prior research internship experience in autonomous driving, robotics, or embodied AI, or contributions to widely used open-source projects.
+What Do We Provide
+- A fun, supportive and engaging environment.
+- Infrastructures and computational resources to support your work.
+- Opportunity to work on cutting edge technologies with the top talents in the field.
+- Opportunity to make significant impact on the transportation revolution by the means of advancing autonomous driving.
+- Competitive compensation package.
+- Snacks, lunches, dinners, and fun activities.
+We are an Equal Opportunity Employer. It is our policy to provide equal employment opportunities to all qualified persons without regard to race, age, color,
+sex, sexual orientation, religion, national origin, disability, veteran status or marital status or any other prescribed category set forth in federal or state
+regulations.

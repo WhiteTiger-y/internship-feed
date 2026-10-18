@@ -1,0 +1,78 @@
+Job Description
+Veterans and Military Spouses belong at Oracle
+This is a place where your military experience and talent will help you thrive. Our culture of inclusion values the skills that veterans bring to our workforce
+and empowers you to use them to transform the world for the better. Get a head start on your civilian career today.
+About the Oracle Veteran Internship Program (OVIP):
+Oracle is proud to sponsor an internship and integration program that exposes transitioning military veterans and active-duty Military Spouses new to the
+corporate culture, provides hands-on job-skill training and experience, and offers enhanced professional and personal development. At Oracle, we are committed
+to the development and professional growth of our veterans and military spouses. Our paid internship program is specifically designed to aid military veterans,
+transitioning servicemembers and active-duty military spouses new to the corporate sector in their transition to a career in the private or public sector.
+Veterans and Military Spouses accepted into our program will work closely with corporate leadership, military veteran coaches and HR professionals to help
+prepare for a successful transition. Interns will engage in on-the-job training and professional development in fields such as information technology,
+technical/systems consulting, technical support, facilities, finance, human resources, logistics, marketing, sales or developmental training in sales or for
+customer support (as available).
+US Veteran transitioning from active service or Military Spouse new to corporate experience preferred
+About the Company:
+For more than four decades, Oracle has delivered innovations that have helped build entire industries. We remain the gold standard as the world’s first
+autonomous database and industry’s broadest and deepest suite of AI-powered cloud applications. The following facts and figures highlight some of the many ways
+we continue to deliver innovations for our customers, partners, and communities. With annual revenue of US$57 billion in FY2025, Oracle is the world’s largest
+EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region; has 5 million registered
+members of Oracle’s customer and developer communities; and 469 independent user communities in 97 countries representing more than 1 million members.
+Additional Information:
+Hourly wage is $30 per hour. This is a 40 hour per week position
+Responsibilities
+We are seeking a highly motivated AI Agent Intern to join Oracle’s Supply Chain Applications (SCM) Solution Engineering organization. This intern will work at
+the intersection of Artificial Intelligence, Logistics Execution, and Oracle Fusion SCM Applications, helping design, prototype, and demonstrate next-generation
+AI Agents for Supply Chain.
+You will support the development of AI-driven capabilities across Oracle Transportation Management (OTM), Global Trade Management (GTM), Warehouse Management
+(WMS), Inventory, and SCM Analytics. You’ll collaborate with senior Solution Engineers, product experts, and Oracle’s AI innovation teams to build proof-of-
+concepts, demo assets, and internal accelerators that showcase the “Autonomous, Agentic Supply Chain of the Future.”
+This role is ideal for someone who is passionate about AI, optimization, and modern logistics—and wants hands-on experience building intelligent supply chain
+solutions used by the world’s largest organizations.
+Key Responsibilities
+AI Agent Development & Prototyping
+- Assist in designing and building AI Agents using Oracle AI Services, OCI Generative AI, and Fusion SCM data.
+- Prototype agent workflows for logistics scenarios (e.g., shipment risk detection, exception resolution, trade compliance, warehouse task optimization).
+- Support development of RAG (retrieval-augmented generation) pipelines using Oracle’s Agent Studio and Vector Store.
+- Conduct data exploration and create sample datasets for agent testing.
+Solution Engineering & Demo Support
+- Build and maintain demo assets for OTM, GTM, WMS, Inventory, and SCM Analytics.
+- Support interactive scenarios illustrating AI-driven logistics (e.g., temperature excursions, carrier delays, customs risks, inbound ETA disruptions).
+- Help create reference architectures, diagrams, and demo scripts.
+Research & Analysis
+- Evaluate logistics AI use cases (forecasting, resilience, risk management, optimization).
+- Conduct analysis across leading AI supply chain platforms.
+- Document best practices for designing AI Agents in Oracle SCM.
+Cross-Functional Collaboration
+- Work with senior SCM SEs across Logistics, Order Management, Inventory, and Manufacturing.
+- Engage with Oracle AI Champions, Applied Technologists, and Product Strategy.
+- Participate in team enablement sessions, conferences/trade shows, and industry-focused prototype work.
+Qualifications
+Required
+- Pursuing a degree in Supply Chain, Computer Science, Industrial Engineering, Data Science, Operations Research, or related field.
+- Strong interest in modern logistics (transportation, warehousing, global trade, inventory).
+- Foundational understanding of AI concepts—LLMs, RAG, embeddings, agents, and automation.
+- Analytical mindset with strong problem-solving skills.
+- Excellent written and verbal communication skills.
+Preferred
+- Knowledge of Oracle Supply Chain Cloud or similar platforms (SAP, Manhattan, Blue Yonder, etc.).
+- Familiarity with Python, SQL, APIs, or basic scripting.
+- Experience with analytics tools.
+- Coursework or experience in machine learning, forecasting, optimization, or operations research.
+- Understanding of logistics concepts: network design, last mile, freight planning, carrier performance, compliance, and inventory accuracy.
+What You’ll Gain
+- Hands-on experience with Oracle’s newest AI Agent technologies.
+- Exposure to major supply chain transformation projects (e.g., retail, manufacturing, consumer goods, defense).
+- Training on Oracle Transportation Management (OTM), Global Trade Management (GTM), Warehouse Management (WMS), Inventory, and SCM Analytics.
+- Mentorship from senior members of Oracle’s Logistics & SCM Solution Engineering team.
+- Opportunity to build portfolio-ready AI agent prototypes.
+- Experience presenting to leaders, product teams, and cross-functional stakeholders.
+Why Oracle SCM Solution Engineering?
+You will join a team on the front lines of transforming how global supply chains operate. Oracle SCM is at the center of enabling resilient, autonomous, AI-
+powered logistics across the world. As an intern, you will directly contribute to the next generation of intelligent supply chain capabilities that Oracle
+brings to market.
+Qualifications
+Disclaimer:
+Certain U.S. based or U.S. customer or client-facing roles may be required to comply with applicable requirements, such as immunization/occupational health
+mandates, and/or drug testing requirements.
+Range and benefit information prov

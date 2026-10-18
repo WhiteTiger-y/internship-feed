@@ -1,0 +1,53 @@
+Description
+Information Technology - AI Internship – Summer 2027
+The Best Experience Company
+Our tagline is “The Best Experience Company.” More than just a set of words, it represents the essence of who we are at Springs Window Fashions. As North
+America’s premier window covering company, we’re committed to creating the Best Experience for our associates, consumers and end users, business partners, and
+communities. We want you to join our team of passionate self-starters who believe the world is full of Best Experience opportunities. So, if you’re excited
+about the thought of a Best Experience career with a team focused on creating Best Experiences for all, we want to hear from you!
+Internship Overview
+Springs Window Fashions is looking for a motivated and hardworking individual to join our Information Technology Team! This Intern would help build a repeatable
+system for measuring whether Springs' AI powered features are correct, and for catching quality regressions when the underlying model or prompt changes. This
+internship provides an exciting opportunity to assist the team with project support while providing valuable work experience related to your chosen field of
+study. Our paid internship program is known for having in-depth, challenging project work with cross-functional teams, as well as professional development, job
+shadowing and other growth opportunities.
+Internship Responsibilities
+- AI Feature Validation Harness
+- Golden test sets (100–300 expert-reviewed cases per feature)
+- Scoring logic (deterministic checks + calibrated model-as-judge + human spot-check)
+- On-demand test runner, triggered manually or on model/prompt change
+- Trend dashboard (pass rate by category, over time, diff between runs)
+- Playbook for adding features and setting release gates
+- Named permanent owner and one live workflow gated by the suite
+What Spring’s Best Experience Means For You
+Springs Window Fashions offers incredible opportunities to develop the skills you’ll need to be successful in a fast-paced consumer products company. You’ll
+also be provided with several perks and benefits as a member of the Springs team:
+- Newly renovated corporate headquarters (including on-site fitness center)
+- Exposure to other roles and functions within SWF
+- Career advancement opportunities
+- Regular interaction with multiple functional areas and with others at all levels within the organization, from production to senior leadership
+- Paid on-the-job training; in-depth product knowledge sessions via online courses, live online classes, and live sessions
+Requirements
+What We’re Looking For
+- Pursuing a 4-year degree in Computer Science, Data Science, Information Systems, or a related technical field; Junior or Senior standing preferred
+- Previous internship or coursework involving data handling, scripting, or software development preferred
+- Working proficiency in Python (or a comparable scripting language) for building test cases and automation — this project is data/scripting-heavy, not a
+specialized ML role
+- Familiarity with, or willingness to quickly learn, SQL and basic data analysis concepts
+- Proficient computer skills, including Microsoft Office
+- Strong problem-solving and structured, methodical thinking — the core of this role is designing test cases that actually catch failures, not just writing code
+- Excellent written and verbal communication skills, including comfort conducting structured interviews with non-technical Associates to extract precise
+workflow requirements — this is roughly 60% of the actual work and the top screening priority
+- Comfortable with ambiguity and an iterative, build-as-you-learn scope, rather than a fully pre-specified task list
+- Interest in AI/ML applications is a plus; prior AI/ML coursework is not required
+- Positive attitude, high attention to detail, and eagerness to learn Springs' business processes
+How We Work to Deliver a Best Experience: Our Culture
+- Our Core Value: We do the right thing, always
+- Our Seven Cultural Behaviors
+- Empowerment - We trust our people.
+- Ownership - We take 100% responsibility for our roles actions, and results.
+- Leadership - We all lead by example and talk direct with respect (DWR).
+- One Team - We are One Springs Team.
+- Customer First - We consider our customers' needs before every decision.
+- Continuous Innovation - We are constantly learning, innovating, and improving.
+- Speed - We define priorities and operate with a sense of urgency and agility.

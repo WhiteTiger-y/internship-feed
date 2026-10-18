@@ -1,0 +1,59 @@
+This role is not open to visa sponsorship or transfer of visa sponsorship including those on OPT and STEM-EXT OPT, nor is it available to work corp-to-corp.
+Skip the “entry-level grunt-work,” and start making a real impact on Day 1. As part of the Red Ventures Launch program internship, you’ll find unparalleled
+opportunities to gain exposure to the role and learn what it’s like to work at RV over the 11-week summer internship period with the goal of getting a full-time
+return offer for the following summer.
+You’ll start with a large cohort of interns who will be your community as you navigate the RV internship environment together. You will experience in-depth
+onboarding and extended training to help you learn the ropes, accelerate your growth, and further hone your skills. After getting ramped up, you will join your
+assigned RV team, meet your manager and mentor, and gain hands-on industry experience to invest in your career growth. Interns will also get the chance to get
+to know the Charlotte area and the RV culture through engagement events and social impact opportunities.
+The Launch Program internship is NOT a chance to sit on the sidelines to learn how we do things. It’s your chance to dive in headfirst and take advantage of a
+10-week vision into the work we do, learn from our top mentors, and get a jump start into your Red Ventures career while still in school.
+This role will be based out of our South Charlotte location Monday-Thursday, with remote work on Fridays.
+What You’ll Do
+- Data Science Interns transform millions of impressions and unstructured data from our digital properties into powerful insights that help us deepen
+connections between brands and consumers.
+- Gain hands-on experience applying advanced machine learning, statistical modeling, optimization techniques, and/or large language model(LLM) AI to solve real-
+world challenges in online and offline decision-making
+- Own data science projects from start to finish with limited guidance
+- Collect and mine data from disparate data sources, digging deeper to understand the process behind the data
+- Communicate effectively with business and data science leaders on project status, timeline and technical results
+- Translate business opportunities into data science problems, clearly defining project scope + performance metrics to measure success
+- We don’t believe in busywork, and we definitely don’t believe in wasting time or talent on “getting coffee.” As a Red Ventures Intern, you’ll be expected to
+contribute new ideas, take ownership of meaningful projects, and make a real impact on our business.
+- Typically, RV Interns receive an in-depth onboarding experience and participate in 1-2 large projects over the summer. With guidance from your mentors, you’ll
+drive strategy, build tests, pivot, improve, and iterate until finally presenting results to your business team and RV senior leadership at the end of the
+summer.
+- Our culture is built on feedback, and our Interns are no different. You’ll receive two structured performance reviews over the summer, where your manager will
+work with you to identify key strengths, opportunities, and goals. Top-performing interns will be eligible for full-time offers at the end of the summer.
+What We’re Looking For
+- Graduating Winter 2027 or Summer 2028 with a relevant Bachelors or Masters degree.
+- Summer 2027 start date in our Fort Mill, SC office (just outside of Charlotte, NC).
+- Experience solving complex problems through the use of predictive modeling
+- Extensive experience in querying and processing data from complex relational databases
+- Extensive training and knowledge in machine learning, statistical modeling and/or optimization.
+- Expertise in deep learning, NLP, reinforcement learning, LLM, and recommended systems preferred
+- Demonstrated ability to synthesize data into actionable insights and communicate recommendations to leadership
+- Solid interpersonal and communication skills, with a track record of working well with business stakeholders
+- Knowledge of digital attribution, digital data investigation, and testing skills is preferred
+- Statistical programming knowledge (e.g., R or Python) is required
+Compensation And Work Perks
+- Cash Compensation Range: $3,846.00 per bi-weekly pay period
+- Subsidized meals at our onsite cafe, smoothie bars and coffee bars (aka $5 for a made-to-order salad, sandwich, pizza, or sushi, or $2 for a delicious
+smoothie or latte)
+- Free onsite fitness classes, premier wellness center, spin studio, basketball court, and yoga studio
+- Casual dress code – yes, that means jeans!
+Who We Are
+Founded in 2000, Red Ventures is a portfolio of growing digital businesses that bring consumers and brands together through integrated e-commerce, strategic
+partnerships and many proprietary brands including Bankrate, AllConnect.com and Reviews.com. Headquartered south of Charlotte, NC, Red Ventures has over 3000
+employees in offices across the US, as well as London and Sao Paulo. For more information, visit www.redventures.com.
+Red Ventures is an equal opportunity employer that does not discriminate against any employee or applicant because of race, creed, color, religion, gender,
+sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or any other
+basis protected by law. Employment at Red Ventures is based solely on a person's merit and qualifications.
+We are committed to providing equal employment opportunities to qualified individuals with disabilities. This includes providing reasonable accommodation where
+appropriate. Should you require a reasonable accommodation to apply or participate in the job application or interview process, please contact
+accommodation@redventures.com
+This role is not eligible for sponsorship or transfer of visa sponsorship at this time.
+If you are based in California, we encourage you to read this important information for California residents linked here.
+Click here for more details regarding the employee privacy policy: https://www.redventures.com/legal/us-emp-privacy-notice
+Questions about this Privacy Notice can be directed to employeerights@redventures.com. Alternatively, you may raise any questions or concerns to your manager,
+HR Business Partner, or through the Privacy Team.

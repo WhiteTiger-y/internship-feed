@@ -1,0 +1,45 @@
+Overview
+At Susquehanna, quantitative researchers tackle challenging data and algorithmic problems that inform decision-making in global financial markets. Their work
+spans statistical inference, optimization, market microstructure, simulation, forecasting, and large-scale data analysis, drawing on a broad quantitative
+toolkit to develop new insights and approaches.
+As a Quantitative Research Intern, you’ll gain experience that closely reflects the work of our full-time research teams while participating in a structured
+education program designed to accelerate your development. Through hands-on research, mentorship, and close collaboration with researchers, engineers, and
+traders, you’ll explore open-ended questions, design experiments, develop quantitative models, and evaluate ideas through rigorous empirical analysis.
+Susquehanna’s extensive proprietary datasets and large-scale computing infrastructure—including a rapidly growing cluster of thousands of high-end GPUs—support
+computationally intensive research, large-scale simulation, and rapid experimentation. Researchers work in small, highly collaborative teams where ideas are
+debated openly, evidence guides decisions, and promising research can quickly produce practical impact.
+Your Internship Experience
+Your internship begins with Core Curriculum, an immersive, interdisciplinary program in which quantitative and machine learning researchers, traders, and
+software engineers learn together. You’ll build a shared foundation in quantitative trading, programming, data analysis, mathematical modeling, and modern
+machine learning and AI tools before applying those concepts to real-world problems.
+You’ll spend the rest of the summer on the Blast Project—an end-to-end simulation of quantitative work at Susquehanna. You’ll research and develop a model, turn
+it into a trading strategy, and run that strategy against high-fidelity historical market data. Each day, you’ll receive measurable feedback on its performance,
+allowing you to test hypotheses, refine your approach, and iterate rapidly—much as our research and trading teams do.
+The project is deliberately broad. Rather than exposing you to just one narrow aspect of the job, it takes you through data analysis, modeling, implementation,
+simulated execution, evaluation, and the judgment calls in between. That breadth leads to continuous, engaging conversations among interns and mentors—and helps
+make the Blast Project one of the most memorable parts of the summer.
+The strategy is your own, but you won’t develop it alone. You’ll be paired with a mentor from our research and trading staff, supported by dedicated teaching
+assistants, and surrounded by a cohort of interns working through the same challenge.
+What We're Looking For
+We’re looking for intellectually curious researchers who are energized by difficult quantitative problems and motivated by rigorous experimentation.
+You May Be a Strong Fit If You Have
+- A masters' degree in progress, graduating in 2027 or 2028, in computer science, economics, electrical engineering, mathematics, operations research, physics,
+statistics, or another highly quantitative discipline
+- A strong foundation in probability, statistics, optimization, numerical methods, or quantitative modeling
+- Experience developing research code in Python and working with large datasets; experience with C++, scientific computing, or high-performance computing is a
+plus
+- Excellent problem-solving skills and an interest in using quantitative models to better understand complex systems
+- Strong communication skills and an interest in collaborating with researchers, engineers, and traders to refine ideas through discussion and experimentation
+- A track record of intellectual curiosity demonstrated through coursework, independent projects, research, competitions, strategic games, or other analytical
+pursuits
+- The ability to thrive in an environment that values creativity, evidence-based thinking, and continuous learning
+By applying to this role, you will be automatically considered for the Quantitative Systematic Trading Internship. There is no need to apply to both positions
+to be considered for both.
+About Susquehanna
+Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly
+collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet
+the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable
+insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing
+boundaries together.
+If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed
+agreement will not be eligible for an agency fee.

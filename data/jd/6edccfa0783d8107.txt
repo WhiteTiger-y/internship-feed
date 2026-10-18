@@ -1,0 +1,34 @@
+Are you passionate about deep learning and artificial intelligence? Do you want to work on cutting-edge projects that make a real impact? Join our team as a
+summer intern at Expedition Technology (EXP) to work on our applied research and development programs! We collaborate with the US Department of Defense and
+Intelligence Communities to develop novel solutions using AI/ML and software engineering to solve challenging problems. As an intern, you'll have the
+opportunity to work on innovative projects, gain hands-on experience, and contribute to groundbreaking advancements in the field. If you're ready to take on new
+challenges and make a difference, apply now and be a part of our transformative team!
+What will you do as an intern at Expedition Technology?
+- Learn & Develop: Delve into machine learning systems. Craft novel algorithms for applications in computer vision or digital signal processing
+- Implement: Leverage Python to develop and train robust machine learning models, ensuring their efficacy in various tasks and scenarios
+- Collaborate: Engage in data processing pipelines, training ML systems, analyzing outcomes, and tackling real-world issues alongside our motivated team
+Key Details
+- Location: Onsite at Expedition Technology HQ, Herndon, VA.
+- Compensation: $35/hr.
+- Duration: Full-time (40 hours/week) Summer 2027
+Is an EXP summer internship right for you?
+In order to be eligible you should meet the following criteria:
+- United States citizenship is required for security clearance purposes
+- Currently enrolled student pursuing a college degree in computer science, electrical engineering, math, physics, or other STEM-related field
+- Entering final year of an undergraduate or graduate program with an anticipated graduation date of December 2027 or May/June 2028
+- Must have an active US Government-issued Secret clearance or higher
+- Proficiency in modern programming languages (Python preferred)
+- Familiarity with command line and version control (Git) experience
+- Demonstrated interest in machine learning (courses, clubs, projects, etc.)
+- Interest in working in defense and/or intelligence post-graduation
+About Expedition Technology (EXP)
+Expedition Technology (EXP) designs, develops, and delivers innovative solutions with national impact for the defense and intelligence communities. We use
+machine learning, artificial intelligence, and other advanced algorithms, platforms, and technologies to solve our customers' most complex, demanding and urgent
+C4ISR challenges. Our culture promotes individual growth and opportunity, prioritizes a collaborative team spirit, and invites the intellectually curious to
+solve challenging problems creatively. Headquarted in Northern Virginia's high-tech corrdor, EXP is a rapidly growing, privately held company that pushes the
+boundaries of what is possible every day.
+To learn more about EXP and discover why we are an award-winning workplace, visit our web site and follow us on LinkedIn.
+Interested in joining our team? Let’s explore together.
+EXP is proud to be an Equal Opportunity Employer that believes a diverse range of talent creates an environment that fosters creativity and innovation. All
+qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age,
+disability, national origin, genetic information or protected veteran status.

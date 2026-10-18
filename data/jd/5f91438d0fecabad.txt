@@ -1,0 +1,47 @@
+About Neuralink:
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the
+blind, and revolutionize how humans interact with their digital world.
+Team Description:
+The Robot Software Team builds software that enables scalable neurosurgery that allows safe implantation of the N1 device, ranging from core control, sensors
+and perception, autonomy, surgery analytics, and more. This role tightly integrates with the robot hardware team, surgery engineering team, as well as the BCI
+applications team which rely on us to deliver safe and effective implantation of the N1 device.
+Neuralink strives to be a meritocratic environment: we require honest and transparent communication to ensure the best ideas win out, and we believe the best
+solutions emerge and the best teams are created when you assemble high-performing individuals and allow them to engage in rigorous and thoughtful inquiry. We
+want to work with exceptional people, and, to the extent that you excel, we want you to take on more responsibility and help all of us succeed. If this speaks
+to you, come join us.
+Job Description and Responsibilities:
+As a Software Engineer Intern on the Robot Software Team, you will be responsible for writing software and making sure your code works on an actual surgical
+robot, not just simulation. Our robotics integrate actuated devices with microelectromechanical systems as well as novel surgical procedures. These applications
+place strong emphasis on high-precision, high-repeatability mechanical motion, as well as high reliability and fail-safe design. You will be expected to:
+- Develop safety-critical software for the robot; you are responsible for contributing directly to surgery-ready software as an intern
+- Take ownership of a project that is integral to robot functioning from design to implementation under the guidance of a robot software team member
+- Jump on problems when they arise with a strong bias for action to support robot operation by non-software teams
+- Work across different engineering disciplines; your software may involve interactions with the mechanical, electrical, biological, and neuroscience teams
+Required Qualifications:
+- Evidence of exceptional ability in engineering or computer science
+- Experience in writing performant applications in a system language like C, C++, and Rust
+- Ability to work on mission-critical and safety-critical systems
+- Strong bias for action and first principles thinking
+Preferred Qualifications:
+- Hands-on experience with robotics or high-reliability systems
+- Experience coding in Linux and debugging on Linux systems
+- Experience in computer vision
+- Experience in kinematics and motion planning
+- Experience working on medical robots
+- Experience working in a high-precision environment
+Pay Transparency:
+Based on California law, the following details are for California individuals only:
+California Hourly Rate:
+$35/hr USD
+What We Offer:
+Full-time employees are eligible for the following benefits listed below.
+- An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+- Growth potential; we rapidly advance team members who have an outsized impact
+- Excellent medical, dental, and vision insurance through a PPO plan
+- Paid holidays
+- Commuter benefits
+- Meals provided
+- Equity (RSUs) *Temporary Employees & Interns excluded
+- 401(k) plan *Interns initially excluded until they work 1,000 hours
+- Parental leave *Temporary Employees & Interns excluded
+- Flexible time off *Temporary Employees & Interns excluded

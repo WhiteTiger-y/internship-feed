@@ -1,0 +1,52 @@
+Description
+Boehringer Ingelheim is currently seeking a talented and innovative Data Science Co-Op candidate to join Central Data Science team at our Ridgefield, CT
+facility.
+As a Data Science Co-Op, you will work on a global strategic initiative to make better use of our data and enhance our ability to make data driven decisions.
+You will work closely with business stakeholders to identify opportunities for leveraging data to drive business solutions, understand the business problem and
+extract relevant trends and patterns from data. You will help the team shape, develop, and execute complex analytic solutions that will transform the healthcare
+industry.
+As an employee of Boehringer Ingelheim, you will actively contribute to the discovery, development and delivery of our products to our patients and customers.
+Our global presence provides opportunity for all employees to collaborate internationally, offering visibility and opportunity to directly contribute to the
+companies´ success. We realize that our strength and competitive advantage lie with our people. We support our employees in a number of ways to foster a healthy
+working environment, meaningful work, mobility, networking and work-life balance. Our competitive compensation and benefit programs reflect Boehringer
+Ingelheim´s high regard for our employees.
+We look forward to receiving your application. Before applying please ensure you can commit to the following:
+-Expect to be on-site for at least 3 days per week and must be located in the local area for the Co-op.
+-Candidates will start in the time frame noted on the questions when you apply for this role.
+-Co-op Students will work for at least 4 months after the start date. We may extend you up to 6 months in total depending on business needs. These are Full time
+positions. Duties & Responsibilities
+The primary focus of the Data Science Co-Op candidate will be to work with a business team to analyze data sets and design analytical solutions.
+Responsibilities include translating idea to data, data preparation, analysis and modelling, user testing, product development and maintenance. Requirements
+- Must be a current undergraduate, graduate or advanced degree student in good academic standing
+- Student must be enrolled at an accredited college or university for the duration of the internship/co-op
+- Overall cumulative minimum GPA from last completed quarter/semester 3.0 GPA (on a 4.0 scale) preferred
+- Major or minor in related field of internship/co-op
+- Undergraduate students must have completed at least 12 credit hours at current college or university
+- Graduate and advanced degree students must have completed at least 9 credit hours at current college or university
+Eligibility Requirements:
+- Must be legally authorized to work in the United States without restriction
+- Must be willing to take a drug test and post-offer physical (if required)
+- Must be 18 years of age or older
+Desired Skills, Experience and Abilities
+- Experience with Data Visualization Tools
+- Strong command of Microsoft Excel and PowerPoint
+- Proficient in Python and or R, SQL
+- Understanding of database and analytical technologies in the industry
+- Experience or coursework in machine learning and/or deep learning packages available for R and Python
+- Demonstrated ability to think strategically about business, product and technical challenges in an enterprise environment
+- Ability to collaborate in a team environment and excel working in a VUCA environment
+- Strong oral and written communication skills
+- Experience with large data sets and distributed computing (Hive/Hadoop) is a plus
+Our Company
+Boehringer Ingelheim is a biopharmaceutical company active in both human and animal health. As one of the industry's top investors in research and development,
+the company focuses on developing innovative therapies that can improve and extend lives in areas of high unmet medical need. Independent since its foundation
+in 1885, Boehringer takes a long-term perspective, embedding sustainability along the entire value chain. Our approximately 54,300 employees serve over 130
+markets to build a healthier and more sustainable tomorrow. Learn more at www.boehringer-ingelheim.com.
+Why Boehringer Ingelheim?
+With us, you can develop your own path in a company with a culture that knows our differences are our strengths - and break new ground in the drive to make
+millions of lives better.
+Here, your development is our priority. Supporting you to build a career as part of a workplace that is independent, authentic and bold, while tackling
+challenging work in a respectful and friendly environment where everyone is valued and welcomed.
+Alongside, you have access to programs and groups that ensure your health and wellbeing are looked after - as we make major investments to drive global
+accessibility to healthcare. By being part of a team that is constantly innovating, you'll be helping to transform lives for generations.
+Want to learn more? Visit https://www.boehringer-ingelheim.com

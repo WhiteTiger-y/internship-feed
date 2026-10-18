@@ -1,0 +1,77 @@
+Job Description
+Data Analyst Intern, Nutrition - Erlanger, KY
+Launch Your Career with ADM’s Summer Internship Program
+Gain meaningful, hands-on experience during a rewarding 12-week internship at one of ADM’s North American locations. You’ll collaborate with colleagues across
+the business, develop practical skills and contribute to projects that support real business needs.
+ADM offers competitive pay for this full-time, 40-hour-per-week internship. Depending on your assigned location and distance from home, fully furnished housing
+and transportation assistance may also be provided to help support your transition.
+Why ADM?
+- Join an award-winning early career program designed to help students build professional skills, explore career interests and gain exposure to ADM’s business
+and culture.
+- Work for a global leader connecting farmers, customers and consumers through an extensive agricultural supply chain.
+- Gain meaningful experience with a company focused on innovation, sustainability and strengthening the global food system.
+- Build connections with colleagues, mentors and fellow interns across ADM.
+Learn more about Early Careers at ADM .
+Internship Program Requirements
+- Education: Currently pursuing a four-year degree with an expected graduation date between December 2027 and summer 2029.
+- Academic performance: Minimum overall GPA of 2.8.
+- Transportation: Must have reliable transportation to and from the assigned work location.
+- Geographic flexibility: Willingness to relocate to an ADM location in North America.
+- Availability: Must be available for a 12-week internship from mid-May through early August 2027.
+- Background check: Successful completion of a background check is required.
+- Work authorization: ADM is unable to provide work visa sponsorship for this position.
+Professional Development and Internship Benefits
+During your internship, you will have opportunities to:
+- Expand your skills through LinkedIn Learning courses, language training and mentoring programs.
+- Participate in Employee Resource Groups that promote connection, support and professional growth.
+- Access ADM’s Employee Assistance Program for resources supporting personal and professional well-being.
+- Attend professional development sessions focused on career readiness, networking, personal branding and building a professional digital presence.
+- Connect with ADM leaders, colleagues and fellow interns across the organization.
+- Be considered for a future internship or full-time opportunity based on performance and business needs.
+Job Summary
+The Data Analyst intern is a member of the pricing analytics team, developing pricing models and tools to enable the business to make data-driven pricing
+decisions. The responsibilities include pricing data management, visualization/analytical tool and methodology development, tool maintenance, impact
+measurement, and developing/enhancing machine learning models for established and new product pricing recommendations. This position is in Erlanger, KY
+(Cincinnati, OH metro area)
+The ideal candidate will have:
+- knowledge of data science techniques
+- ability to drive effective support of data analysis and model management
+- ability to communicate technical concepts to a non-technical audience
+Job Responsibilities
+- Design, develop and maintain data science products, PowerBI visualizations, and dynamic ad-hoc frameworks that help commercial teams with day to day pricing
+and sales activity
+- Self-starter with continuous improvement mindset
+- Translate complex business problems into concrete analysis that help drive actions
+- Write optimized code improving efficiency, scalability, and stability
+Requirements for this position include:
+- Rising Junior/Senior in a bachelor’s program or completed first year of master’s program in Business Analytics, Statistics, Computer Science, Physics, or
+related field
+- Coursework or internships with exposure to statistical programming and analysis methodologies
+- Experience with data visualization and data processing tools (e.g., PowerBI, Python/R, Databricks)
+- Demonstrate strong analytical and problem solving skills
+- Good communication skills, able to explain something technical with the appropriate amount of detail
+Complete additional duties based on the needs of the assigned location.
+Excited about this opportunity but don’t meet every qualification listed? We encourage you to apply. You may be the right candidate for this position or another
+opportunity at ADM.
+Base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Hourly and
+salaried non-exempt employees will also be paid overtime pay when working qualifying overtime hours.
+If hired, employees will be in an “at-will position” and the Company reserves the right to modify base pay (as well as any other discretionary payment or
+compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market
+factors.
+The pay range for this position is expected to be between:
+$21.00 - $24.00
+#IncludingYou
+Diversity, equity, inclusion and belonging are cornerstones of ADM’s efforts to continue innovating, driving growth, and delivering outstanding performance. We
+are committed to attracting and retaining a diverse workforce and create welcoming, truly inclusive work environments — environments that enable every ADM
+colleague to feel comfortable on the job, make meaningful contributions to our success, and grow their career. We respect and value the unique backgrounds and
+experiences that each person can bring to ADM because we know that diversity of perspectives makes us better, together.
+We are committed to ensuring all qualified applicants receive consideration for employment regardless of race, color, ethnicity, disability, religion, national
+origin, gender, gender identity, gender expression, marital status, sexual orientation, age, protected veteran status, or any other characteristic protected by
+law.
+We welcome everyone to apply, especially those individuals who are underrepresented in our industry, as we strive to ensure our workforce represents the world
+that we help to feed: people of color, women, gender non-conforming, LGBTQIA+, veterans and persons with disabilities. For more information regarding our
+efforts to advance Diversity, Equity, Inclusion & Belonging, please visit our website here: Diversity, Equity and Inclusion | ADM.
+About ADM
+At ADM, we unlock the power of nature to provide access to nutrition worldwide. With industry-advancing innovations, a complete portfolio of ingredients and
+solutions to meet any taste, and a commitment to sustainability, we give customers an edge in solving the nutritional challenges of today and tomorrow. We’re a
+global leader in human and animal nutrition and the world’s premier agricultural origination and processing company. Our breadth, depth, insights, f

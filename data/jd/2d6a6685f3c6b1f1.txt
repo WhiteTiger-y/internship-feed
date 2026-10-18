@@ -1,0 +1,53 @@
+Turn Data into Insights. Build the Future with Great West Casualty Company.
+Data Science Intern | South Sioux City, NE
+Are you passionate about data, analytics, and solving complex business problems? Great West Casualty Company is seeking a motivated, curious, and analytical
+Data Science Intern to join our team.
+This is an exciting opportunity to gain hands-on experience applying data science, analytics, and statistical techniques to real-world challenges in the
+commercial trucking industry. As an intern, you'll work alongside experienced data scientists, business leaders, and other professionals to uncover insights,
+support decision-making, and contribute to projects that have a meaningful impact on our organization.
+If you enjoy exploring data, asking questions, identifying patterns, and transforming information into actionable business insights, we would love to hear from
+you.
+What You'll Do
+- Assist with collecting, cleaning, transforming, and analyzing datasets from multiple business and operational data sources.
+- Perform exploratory data analysis to identify trends, patterns, risks, and opportunities within insurance and business data.
+- Develop reports, dashboards, and visualizations that clearly communicate insights to both technical and non-technical audiences.
+- Support statistical analysis, predictive modeling, and machine learning initiatives that help improve business outcomes.
+- Collaborate with data scientists and business partners to understand business challenges and develop analytical solutions.
+- Assist with projects related to underwriting, claims, risk control, marketing, or other strategic business initiatives.
+- Validate data quality, investigate anomalies, and help improve data integrity and governance processes.
+- Present findings, recommendations, and key insights to team members and business stakeholders.
+- Document analytical processes and contribute to the development of repeatable, scalable solutions.
+- Participate in special projects and other duties as assigned.
+What We're Looking For
+- Currently pursuing a Bachelor's or Master's degree in Data Science, Computer Science, Statistics, Mathematics, Analytics, Economics, Engineering, or a related
+quantitative field.
+- Strong analytical and problem-solving skills with a genuine passion for working with data.
+- Knowledge of statistical methods, data analysis techniques, and basic predictive modeling concepts.
+- Experience with SQL and familiarity with programming languages such as R or Python.
+- Exposure to data visualization tools such as Power BI, Tableau, or similar platforms is a plus.
+- Experience with version control tools such as Git is a plus.
+- Strong attention to detail and commitment to producing accurate, high-quality work.
+- Excellent written and verbal communication skills, with the ability to explain technical concepts to non-technical audiences.
+- Ability to manage multiple tasks, prioritize effectively, and work in a collaborative team environment.
+- Demonstrated intellectual curiosity and a desire to understand the "why" behind business problems.
+- Self-motivated with a willingness to take initiative, learn new technologies, and continuously develop new skills.
+Why Join Great West?
+At Great West, an Old Republic Company, you'll gain practical experience working on meaningful projects that help drive business decisions across the
+organization. Rather than working with sample datasets, you'll have the opportunity to analyze real business data, solve authentic challenges, and see how
+analytical insights support strategic decision-making. You'll work alongside experienced professionals who are invested in your growth and success while gaining
+hands-on experience applying analytics, predictive modeling, and data science techniques to solve complex business challenges.
+What We Offer
+- Competitive internship compensation
+- Hands-on experience working with real-world business and insurance data
+- Career development opportunities and professional mentoring from experienced data science professionals
+- Exposure to reporting, analytics, and predictive modeling projects
+- Opportunities to strengthen both technical and business problem-solving skills
+- Experience presenting insights and recommendations to business stakeholders
+- Collaborative and supportive work environment
+- Networking opportunities with leaders and industry professionals
+- Valuable experience applying data science in a business setting
+About Great West Casualty Company
+For over 65 years, Great West, an Old Republic Company, has specialized in providing premier insurance products and services to the trucking industry. We are
+committed to innovation, financial strength, and delivering exceptional service to our customers while creating opportunities for employees to learn, grow, and
+succeed.
+Ready to turn data into meaningful business insights? Apply today and start building your future with Great West Casualty Company.

@@ -1,0 +1,35 @@
+Overview
+Susquehanna is looking for highly motivated full-time students for our 10-week quantitative strategy development summer internship program. This is a
+computationally intensive role that will allow you to use your strong technical skills to solve problems at the intersection of trading, quant and technology.
+Throughout the summer, you will receive education about how markets work by going through a deep dive into financial markets and Susquehanna’s approach to
+trading. You will also work on challenging projects for our trading strategy development teams in spaces such as signal creation and detection, quantitative
+strategy analysis, and low latency C++ strategy development. Additionally, you’ll have the opportunity to work on projects side by side with senior developers
+who understand the nuances of building complex trading strategies.
+If your experience is a better fit for our 2027 Trading System Engineering Internship, apply here: https://careers.sig.com/intern-co-op/jobs/10837
+What We're Looking For
+- Enrolled in a bachelor's or master's program in computer science, computer engineering, mathematics, or closely related STEM discipline
+- Intention to graduate with a minimum of a bachelor’s degree and begin full time employment by August 2028
+- Strong software development skills in Python and a compiled language
+- Experience and comfort working with data using libraries such as Pandas, Polars, or NumPy
+- Exceptional quantitative, logical reasoning, and analytical skills
+- Visa sponsorship is available for this position
+What's In It For You
+- Our non-hierarchical culture allows employees of every level to thrive and make impact. We are not your typical trading firm – the environment is casual,
+collaborative and we focus on continuous development.
+- Housing provided for duration of internship
+- Relaxed dress code: jeans and sneakers are the norm, shorts all summer long
+- Fully stocked kitchens for breakfast, lunch, snacks, and beverages
+- A forty thousand square-foot state of the art fitness facility with brand-new equipment, multi-purpose courts, group exercise classes, and locker room spaces
+- Discounts for dining, entertainment, shopping, travel, and attractions
+- Social events including a poker tournament, dinners, and sporting events in Philadelphia
+- On-site Wellness Center
+- On-site services such as a mailroom, barber, dry cleaning, and car maintenance
+- Opportunities to give back to the community through Susquehanna sponsored events and donation drives
+About Susquehanna
+Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly
+collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet
+the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable
+insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing
+boundaries together.
+If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed
+agreement will not be eligible for an agency fee.

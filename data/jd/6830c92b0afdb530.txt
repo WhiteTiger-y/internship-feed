@@ -1,0 +1,82 @@
+Your Journey at Crowe Starts Here:
+At Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make
+an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth
+and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, tax, and consulting
+groups. That’s why we continuously invest in innovative ideas, such as AI-enabled insights and technology-powered solutions, to enhance our services. Join us at
+Crowe and embark on a career where you can help shape the future of our industry.
+Job Description:
+Role Summary
+The data science (DS) internship at Crowe follows the firmwide calendar, approximately overlapping the academic summer. DS interns will have a designated data
+scientist mentor and will spend the majority of their time working on a data science project overseen by that mentor. The expectation is that at the end of the
+internship, functional and demonstrable progress has been made in a way that can be integrated into the functional portfolio of the team.
+Important: the data science internship does not necessarily transition to a full-time role at the end of the period. Depending on team need, firm budget, and
+fit, interns should not expect their time to conclude with an offer.
+Here are some example projects that may be prioritized for an internship:
+Anomaly detection using deep neural networks
+Numerical optimization applied to problems in manufacturing
+Personal identifiable information (PII) and personal health information (PHI) detection in natural language
+Areas of Focus
+The data science internship is intended to expose the intern to what it means to do data science on a team in an enterprise setting. To that end, there are
+three major components with which an intern should expect to engage.
+Modeling
+Understanding how to frame business problems as data science problems
+Navigating the full data science lifecycle: research and exploration, development, deployment, support
+Using correct model selection and training procedures to prevent common modeling errors
+Creating reasonable test scenarios and diagnostic measures
+Software Development
+Writing high quality Python (readable, reusable, modular, and well-abstracted code)
+Using Linux, the terminal, and other core development tools
+Understanding source control (git), containerization (docker) and deployment technologies (cicd/k8s)
+Participating in code reviews
+Business Value and Processes
+Contributing to team development processes and agile/scrum rituals
+Helping to clarify and prioritize work, define success criteria, and own work item completion
+Applying all relevant change management controls for risk and compliance policies
+Presenting work clearly to technical and non-technical audiences
+Relevant majors and areas of expertise
+Data Science
+Computer Science
+Mathematics
+Natural or Social Sciences
+Relevant additional backgrounds also considered
+Essential Job Functions:
+- Anomaly detection using deep neural networks
+- Numerical optimization applied to problems in manufacturing
+- Personal identifiable information (PII) and personal health information (PHI) detection in natural language
+- Understanding how to frame business problems as data science problems
+- Navigating the full data science lifecycle: research and exploration, development, deployment, support
+- Using correct model selection and training procedures to prevent common modeling errors
+- Creating reasonable test scenarios and diagnostic measures
+- Writing high quality Python (readable, reusable, modular, and well-abstracted code)
+- Using Linux, the terminal, and other core development tools
+- Understanding source control (git), containerization (docker) and deployment technologies (cicd/k8s)
+- Participating in code reviews
+- Contributing to team development processes and agile/scrum rituals
+- Helping to clarify and prioritize work, define success criteria, and own work item completion
+- Applying all relevant change management controls for risk and compliance policies
+- Presenting work clearly to technical and non-technical audiences
+We expect the candidate to uphold Crowe’s values of Care, Trust, Courage, and Stewardship. These values define who we are. We expect all of our people to act
+ethically and with integrity at all times.
+Crowe accepts applications for this role on an ongoing basis.
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required
+employment eligibility verification form upon hire. Crowe is not sponsoring for work authorization at this time.
+The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to
+skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been
+adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Crowe, it is not typical for an
+individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A
+reasonable estimate of the current range is $27.00 - $42.00 per hour.
+Our Benefits:
+Your exceptional people experience starts here. At Crowe, we know that great people are what makes a great firm. We care about our people and offer employees a
+comprehensive total rewards package. Learn more about what working at Crowe can mean for you!
+How You Can Grow:
+We will nurture your talent in an inclusive culture that values diversity. You will have the chance to meet on a consistent basis with your Career Coach that
+will guide you in your career goals and aspirations. Learn more about where talent can prosper!
+More about Crowe:
+Crowe provides professional services through two separate entities: Crowe LLP delivers audit and attest services, and Crowe Advisory LLC provides tax, advisory,
+consulting, and other nonattest services.
+The Crowe Global network consists of more than 300 independent accounting and advisory services firms in more than 150 countries around the globe, making it one
+of the largest accounting networks in the world*. As independent members of Crowe Global, Crowe LLP and Crowe Advisory LLC serve clients worldwide. (*As of July
+2026)
+Crowe LLP and Crowe Advisory LLC (and their respective subsidiary entities) provides equal employment opportunities to all employees and applicants for
+employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, sexual orientation, gender identity or
+expression, genetics, national origin, disability or protected veteran status, or any oth
