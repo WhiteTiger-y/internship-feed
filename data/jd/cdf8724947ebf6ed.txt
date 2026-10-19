@@ -1,0 +1,40 @@
+Vendelux is building the category-defining platform for event marketing intelligence.
+Events are one of the largest and most impactful marketing channels, yet historically one of the least measurable. Vendelux brings transparency and performance
+to this space — helping companies discover, evaluate, and optimize their event strategy with data.
+Our platform powers thousands of event decisions by delivering proprietary, AI-driven insights across hundreds of thousands of events globally. At the core of
+our platform is a robust ecosystem of event organizer partnerships — where organizers share first-party data, enabling richer insights for customers while
+receiving benchmarking and audience intelligence in return. From identifying the highest ROI conferences to enabling targeted meeting programs, Vendelux helps
+companies turn events into a predictable and scalable growth engine.
+In addition, Vendelux Meetings extends our platform by turning insights into pipeline — using AI to identify high-value attendees and proactively book 1:1
+meetings between our customers and their ideal prospects at events. This enables go-to-market teams to drive measurable ROI and maximize every event
+interaction.
+Founded in 2021, Vendelux is a Series B SaaS company backed by top-tier investors including FirstMark. We partner with many of the fastest-growing companies in
+the world, and our team includes leaders from Bain, ZoomInfo, Shutterstock, FanDuel, Compass, Airbnb, Forter and beyond.
+________________
+We're looking for a technically-minded person eager to work on real data problems at a fast-growing startup. This is a paid, onsite role for a local college or
+MBA student who can commit ~20+ hours/week. You'll work directly on the data team — writing SQL, building pipelines, and using AI tools to power the insights
+our platform depends on. For the right person, this could develop into a full-time role.
+What You'll Do
+- Write SQL queries to analyze events, attendees, and organizations; surface insights that directly inform product and business decisions
+- Build and maintain dashboards to monitor data quality and pipeline health
+- Identify and resolve data errors in our database; investigate patterns and potential root causes
+- Use and evaluate AI/LLM-enabled tools to generate, validate, and manage large datasets
+- Conduct structured research to identify and validate key data inputs for machine learning models
+- Collaborate with the data and engineering teams on data infrastructure and tooling improvements
+What We're Looking For
+- Based in New York City and able to work from our Midtown office
+- Available ~20+ hours per week
+- Proficiency in SQL — you're comfortable writing non-trivial queries against real datasets
+- Familiarity with Python is a strong plus
+- Experience with dashboarding tools (Looker, Metabase, Tableau, or similar) is a plus
+- Detail-oriented with high ownership over your work
+- Genuinely curious about data, AI, and how systems are built
+Why Join Us
+- Real technical impact: The data you clean, model, and ship directly powers what customers see and trust
+- Cutting-edge problems: Work on applied ML, LLM pipelines, recommendation systems, and large-scale data quality challenges
+- Ownership: You'll operate with genuine autonomy and set your own bar
+- Growth: Learn how a high-quality data team operates at a Series B company scaling fast
+- Team: A collaborative, ambitious group with backgrounds at top tech companies and consulting firms
+Not all candidates will check all of the requirements listed above and that’s ok! We are open to great people from non-traditional backgrounds.
+Vendelux is proud to be an equal opportunity workplace. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender
+identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status.

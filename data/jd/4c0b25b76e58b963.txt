@@ -1,0 +1,39 @@
+Since 1869, we've connected people through food they love. We’re proud to be stewards of amazing brands that people trust. Our portfolio includes the iconic
+Campbell’s brand, as well as Cape Cod, Chunky, Goldfish, Kettle Brand, Lance, Late July, Pacific Foods, Pepperidge Farm, Prego, Pace, Rao’s Homemade, Snack
+Factory, Snyder’s of Hanover. Swanson, and V8.
+Here, you will make a difference every day. You will be supported to build a rewarding career with opportunities to grow, innovate and inspire. Make history
+with us.
+Operational Support Data Engineer – Agentic AI & ML Ops (Co-op)
+- We are seeking a motivated and curious Data Engineer – Agentic AI & ML Ops to join our Enterprise Data & Analytics team. This co-op provides hands-on
+experience supporting cloud-based data platforms, AI/ML operations, Generative AI, and Agentic AI solutions.
+- You will work with Databricks, Snowflake, Azure, ADLS, ADF, Power BI, Python, PySpark, SQL, LLMs, and modern AI/ML frameworks in an Agile environment.
+- If you are passionate about data engineering, AI, and automation, we want to hear from you.
+Key Responsibilities
+- Build Data & AI Pipelines: Develop and support ETL/ELT pipelines and AI/ML workflows.
+- Data Integration & Transformation: Ingest, transform, and orchestrate data using Python, PySpark, and SQL.
+- Develop Agentic AI Solutions: Build and test AI agents and intelligent workflows for automation and data access.
+- LLM & Prompt Engineering: Design and optimize prompts and workflows using LLMs and GenAI frameworks.
+- AI/ML Development & Automation: Build Python-based scripts, APIs, and notebooks on cloud platforms.
+- Support Analytics & AI/ML: Prepare datasets for reporting, ML models, forecasting, and advanced analytics.
+- Monitor & Support Operations: Troubleshoot pipeline failures, performance issues, and data quality gaps.
+- MLOps & CI/CD: Support deployment, testing, and automation for data and AI solutions.
+- Data Modeling & Semantic Layers: Assist with STTM, data modeling, and reporting datasets.
+- Agile Collaboration: Participate in sprint planning, stand-ups, and retrospectives.
+- Documentation & Automation: Create runbooks, workflows, and technical documentation.
+Learning & Development Opportunities
+- Hands-on experience with Databricks, Snowflake, Azure, ADLS, ADF, and Power BI.
+- Exposure to MLOps, GenAI, Agentic AI, LLMs, CI/CD, and automation.
+- Experience working with AI agents, prompt engineering, and workflow orchestration.
+- Mentorship from Data, AI/ML, and Platform Engineers.
+- Experience in Agile/Scrum and DevOps/MLOps environments.
+Qualifications
+- Pursuing a degree in Computer Science, Data Engineering, Data Science, AI/ML, or related field.
+- Knowledge of SQL, Python/PySpark, ETL/ELT, and APIs.
+- Familiarity with Databricks, Snowflake, Azure, ADLS, ADF, Power BI, or Git is a plus.
+- Exposure to LLMs, GenAI, Agentic AI, MLOps, or CI/CD is beneficial.
+- Experience with Python-based AI/ML projects or notebooks is a plus.
+- Strong analytical and problem-solving skills.
+- Strong communication and teamwork skills.
+The Company is committed to providing equal opportunity for employees and qualified applicants in all aspects of the employment relationship, including
+consideration for employment, without regard to race, color, sex, sexual orientation, gender identity, national origin, citizenship, marital status, protected
+veteran status, disability, age, religion, or any other classification protected by law.

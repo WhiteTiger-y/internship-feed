@@ -1,0 +1,31 @@
+Introduction
+At IBM Research, we are the innovation engine of IBM. Exploring what’s next in computing and shaping the technologies the world will rely on tomorrow. From
+advancing AI and hybrid cloud to pioneering practical quantum computing, we anticipate challenges and unlock new opportunities for clients, partners, and
+society. Working in Research means joining a team that accelerates discovery at the intersection of high-performance computing, AI, quantum, and cloud. You’ll
+collaborate with leading scientists, engineers, and visionaries to push boundaries and turn ideas into reality. With a culture built on curiosity, creativity,
+and collaboration, IBM Research offers the opportunity to grow your career while contributing to breakthroughs that transform industries and change the world.
+Your Role And Responsibilities
+As a Quantum Hardware EDA & Circuit Design Intern at IBM Quantum, you will contribute to the design, simulation, and optimization of circuits and design
+workflows that support scalable quantum computing systems. Projects may span microwave and RF circuit design, electromagnetic simulation, circuit modeling,
+automation, and electronic design automation (EDA) methods, including the application of AI-enabled methods for circuit and system design, simulation,
+optimization, verification, and automation. You will collaborate with circuit designers, EDA developers, and researchers to develop practical tools and design
+approaches for qubit control, readout, packaging, and related quantum hardware.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Experience in an academic graduate program related to electrical engineering, microwave/RF engineering, electronic design automation, computer engineering,
+AI/ML, or a related field.
+- Coursework or projects in one or more of: microwave/RF circuits, electromagnetics, IC design/simulation, EDA, or AI for EDA.
+- Familiarity with Cadence Virtuoso, Synopsys Custom Compiler, and/or EDA design environments. Familiarity with AI-assisted design or optimization methods is a
+plus.
+- Programming experience in Python, or a comparable language for analysis, simulation, automation, EDA tool development, or machine-learning workflows.
+- Strong problem-solving skills and ability to communicate technical work clearly in a collaborative research environment.
+Preferred Technical And Professional Experience
+- Experience with microwave/RF circuit or component design, such as filters, amplifiers, resonators, transmission lines, matching networks, or digital place-
+and- route and associated EDA tools.
+- Familiarity with electromagnetic and microwave simulation tools, such as Ansys HFSS, Keysight ADS, Cadence AWR, Sonnet, or COMSOL.
+- Experience with EDA tools and workflows for schematic capture, simulation, layout, physical design, verification, or design automation.
+- Experience applying modern AI methods (including LLMs, reinforcement learning, graph neural networks, or Bayesian optimization) to EDA workflows such as
+circuit synthesis, simulation acceleration, design-space exploration, layout optimization, verification, or agent flow development.
+- Familiarity with Git/GitHub for version control and collaboration.
+- Strong publication record or contributions to papers in circuit design, EDA, or AI venues (e.g., ISSCC, IMS, DAC, ICCAD, NeurIPS, or ICML)

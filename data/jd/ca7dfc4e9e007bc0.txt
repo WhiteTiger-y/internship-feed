@@ -1,0 +1,59 @@
+About Us
+Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across
+more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.
+At Visa, you'll have the opportunity to create impact at scale - tackling meaningful challenges, growing your skills and seeing your contributions impact lives
+around the world.
+Join Visa and do work that matters - to you, to your community, and to the world. Progress starts with you.
+Job Description
+Visa's Internship Program offers a 12-week immersive experience where you'll work on impactful projects that advance Visa's mission. As a Visa intern, you'll
+build meaningful connections, strengthen your communication and business skills, and gain hands-on experience in a dynamic, global environment.
+You'll have access to interactive workshops and learning sessions designed to build expertise, expand industry knowledge, and elevate your professional skills.
+You'll not only learn, you'll contribute, collaborate, and innovate. Beyond professional development, enjoy social events that foster community and connection.
+The program culminates in a final presentation, where you'll share your project achievements and recommendations with Visa leaders-a chance to demonstrate
+impact and growth.
+Our Team
+Visa Research expands Visa's technology research capabilities globally, conducting both applied and fundamental research. We partner closely with technology,
+product teams, academics, and governments to explore and develop technologies critical to the future of payments.
+Artificial Intelligence
+The GenAI Research Team Drives Purpose-driven Research To Advance The Next Generation Of AI For Secure, Intelligent, And Scalable Commerce. Our Work Spans
+- Foundational AI: large language models, representation learning, embeddings, adaptive model training, and methods to advance fraud detection, risk modeling,
+personalization, and commerce intelligence.
+We unite long-term scientific inquiry with practical experimentation, partnering with product and engineering teams to translate research into real-world
+impact.
+Job Duties
+- Conduct generative AI and LLM research focusing on scalable methods, model adaptation, evaluation, and applied use cases.
+- Design, implement, and evaluate AI algorithms for enterprise-scale systems.
+- Develop proof-of-concept prototypes to transition research into innovative products.
+- Optimize workflows for model training, inference, and data pipelines.
+- Prepare technical publications, reports, and intellectual property submissions.
+- Collaborate with engineering, product, and cross-functional partners to deliver impactful AI solutions.
+All Visa roles require digital fluency, including the ability to work with emerging technologies such as Generative AI tools (e.g. ChatGPT, Microsoft Copilot)
+to support everyday work.
+Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager.
+Qualifications
+Basic Qualifications
+- Students pursuing a Ph.D. with a graduation date in December 2027 or later
+Preferred Qualifications
+- Strong research record demonstrated by publications, patents, presentations, or technical contributions.
+- Experience in Generative AI, LLMs, deep learning, scalable ML, fine-tuning, model evaluation, or AI agents.
+- Knowledge of large-scale model training, efficient inference, or distributed systems.
+- Proficiency in Python, C++, Java, or similar languages.
+- Familiarity with big data frameworks (e.g., Hadoop, Spark) is a plus.
+- Ability to communicate complex concepts clearly and collaborate effectively.
+- Adaptability to evolving research priorities and problem-solving in an experimental setting.
+U.S. APPLICANTS ONLY: The estimated hourly range for a new hire into this position is $66.00 to $73.00 which may include potential sales incentive payments (if
+applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location.
+Information for US Applicants
+For roles located in the US, the estimated hourly rate is $66.00 to $73.00 USD. The hourly rate may vary depending on job-related factors which may include
+knowledge, skills, experience, and location.
+Work Hours
+Varies upon the needs of the department.
+Travel Requirements
+This position requires travel 5-10% of the time.
+Mental/Physical Requirements
+This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by
+telephone, frequently operate standard office equipment, such as telephones and computers.
+Visa is an EEO Employer
+Qualified applicants will receive consideration for employment without regard to race, color religion, sex, national origin, sexual orientation, gender
+identity, disability or protect veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with
+the EEOC guidelines and applicable local law.

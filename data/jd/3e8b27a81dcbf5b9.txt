@@ -1,0 +1,50 @@
+Please complete your application before February 26, 2027.
+Applications will be reviewed on a rolling basis and it’s in a candidate’s best interest to apply early.
+Timing on when you can hear back will vary and can take upwards of 90+ days. If you haven’t heard from us in three months about your application, we likely
+proceeded with other candidates for the role.
+Participation in the internship program requires that you are located in the United States for the duration of the internship program.
+Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for this
+internship program.
+To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Click on the “Apply” button
+on this page and provide the required materials in the appropriate sections (PDFs preferred):
+- Updated resume - please include the relevant graduation dates (MM/YY), coding language(s) along with any technical experience or projects. Elaborate on
+current research topics, statistical skills, experience analyzing survey data, relevant work experience, and recent publications/presentations.
+- Please include when you completed your comprehensive/qualifying exams or the anticipated completion date (MM/YY).
+- Transcript - unofficial or official; must be in English.
+If selected to move forward, you will be asked to provide 1-2 presentation slides explaining some of your research/findings and why the findings might be useful
+to Google. Please prepare these slides for a business (i.e., non-academic) audience. Include visual representations of your results.
+Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco
+Fair Chance Ordinance for Employers and the California Fair Chance Act.
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Atlanta,
+GA, USA; Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA.Minimum qualifications:
+- Currently enrolled in a PhD program in Industrial/Organizational Psychology, Organizational Behavior, Personality Psychology, Social Psychology or a related
+field.
+- Experience designing, developing, and conducting survey or experimental research.
+- Experience analyzing and manipulating data in R, Python, SQL, or other statistical programming languages.
+Preferred qualifications:
+- Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.
+- Experience conducting applied research in organizations.
+- Topical experience in one of the following areas: performance management, individual and team-level performance and productivity, individual differences
+(e.g., personality traits, behaviors, well-being), selection and assessment (including relevant psychometric methods), decision science and behavior change, or
+quantitative text analysis.
+- Experience using R for statistical analysis and data visualization.
+- Experience in SQL or other scripting languages and experience with future-proofing code to be long-lasting (e.g., detailed documentation).
+- Experience with statistical analyses, including fundamentals (e.g., ANOVAs or regressions) and with one or more advanced approaches (e.g., factor analysis,
+network analysis, HLM, SEM).
+About The Job
+We are a group of social scientists who conduct experimental, survey, and archival research to inform people-related business decisions. Example content areas
+include, but are not limited to: decision making, leadership, employee well-being, hiring, performance management, performance development, personality,
+longitudinal data analyses, and social networks. We have strong research backgrounds, with PhDs in I/O Psychology, Organizational Behavior (micro & macro),
+Sociology, Social Psychology, Anthropology, Behavioral Economics, and related fields.
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+US: $99000 - $132000 (USD) + 0% bonus target
+Responsibilities
+Learn more about benefits at Google .
+- Work with the People Analytics team to design and implement new studies, analyze data and report on results of research initiatives to a business audience.
+- Communicate findings and recommendations to influence leaders to take action on the results.
+- Write research briefs.
+- Conduct statistical analysis (e.g., correlation, regression, factor analysis, T-test, ANOVA) using survey and archival data with analyses conducted in R.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race,
+color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also
+consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have
+a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

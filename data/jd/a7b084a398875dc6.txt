@@ -1,0 +1,47 @@
+Description
+The Business Intelligence and Analytics team is seeking a dynamic, current college student to fulfill our summer internship program in 2027!
+Past interns in this role have completed projects such as data source development, report creation, and data analytics. This role includes gathering data,
+troubleshooting data/report issues, following a development cycle (Agile), and facilitating end-to-end testing. Interns in this area can expect to further their
+understanding of the development lifecycle, as well as further their experience with technical aspects, and gain real world experience with collaboration,
+customer focused work, independent and team-centered work, professionalism, attention to detail, time management, and more.
+You'll collaborate with engineers, analysts, and business stakeholders to develop data-driven solutions and gain exposure to technologies such as SQL, Power BI,
+and other analytics platforms. As an intern, you will have a mentor committed to helping you build skills, gain experience, and achieve your development goals
+throughout the program.
+What you will be doing:
+- Collaborate with Data & Analytics Engineers and business partners to develop analytics tools, data models, reports, and dashboards.
+- Build and maintain data views using SQL to support reporting and business insights.
+- Gather and understand business requirements from stakeholders.
+- Test, validate, and improve analytics and reporting solutions.
+- Create technical documentation to support implementation and maintenance of data solutions.
+During this internship, you will be working on the same issues that our full-time associates face; real world problems that affect the company. This role is
+ideal for students looking to apply their technical skills in a professional environment while building experience in analytics, business intelligence, and data
+science.
+Unique Benefits of our Internship Program:
+- You will get the farm to fork experience during this program. You will experience a farm tour, facility tours, and experience the end user products.
+- Networking events where you will meet executives and community leaders.
+- Internship group outings and events.
+- Volunteer opportunities within the community.
+- Personal development events and training.
+While you don’t have to love pizza to work here…it sure does help!
+Requirements
+- Currently pursuing a bachelor's degree in data science, Information Science, Mathematics, Computer Science, Analytics, or a related field
+- Junior or Senior standing at an accredited college or university
+- Experience with reporting software
+- Experience with SQL, DBMS, and analytics/data science tools
+- Proactive client service skills and a positive, flexible attitude when working with internal business stakeholders
+- Strong verbal and written communication skills with business stakeholders, management, and peers
+- Strong organizational and time management skills
+- Ability to build confidence and trust with business partners
+- Ability to follow instructions and pre-established guidelines to perform job responsibilities
+- Self-motivation and initiative
+Preferred Qualifications
+- Active involvement in campus organizations, volunteer activities, off-campus employment, or other demonstrated leadership experiences
+Why Grande?
+With more than 80 years of crafting “The Finest Italian Cheeses That Money Can Buy”, Grande is a leader in the industry! Whether partnering with independent
+pizzerias from coast-to-coast to ensure they’re delivering the very best pizza to their customers or assisting our food manufacturing partners in delivering
+specialty whey ingredient solutions, our commitment to quality can’t be matched. While Grande’s reputation of excellence in the market is important, we believe
+our commitment to our workplace and community culture is of equal merit – our Associates come first at Grande. To complement our industry-leading benefits,
+Grande puts an emphasis on your career growth opportunities, while always promoting a positive work/life balance and supporting the communities in which we live
+and work. If you want to learn more about our company – what we do and how we go about it – or learn more about our beautiful, state-of-the-art corporate
+headquarters, visit www.grande.com
+Bachelors Degree or better in Information Technology/Systems

@@ -1,0 +1,41 @@
+About Didi Autonomous Driving
+Founded in 2016, DiDi's autonomous driving unit is dedicated to developing Level 4 autonomous driving technology to make transportation safer, more efficient,
+and accessible. In 2019, the unit became an independent company, Voyager, to accelerate technology development, commercialization, and large-scale deployment.
+By combining DiDi's unique data advantage, operational expertise, and mobility ecosystem, we aim to build a reliable, scalable autonomous fleet that integrates
+seamlessly with human-driven services. Driven by real-world customer needs and a strong commitment to safety and user experience, our mission is to deliver
+autonomous mobility solutions that create meaningful value for riders and communities.
+About The Role
+We want our vehicles to understand the physical world as it is right now, instead of relying on a map drawn long ago. Roads change, and the world a car actually
+drives in is always more complex than any static record of it. We are seeking a Research Intern to help give our planner a more accurate and up-to-date picture
+of the world, so the vehicle handles complex real-world scenes more robustly. In this role, you will take on hard, open problems from real-world driving and
+solve them with frontier research methods. You will report directly to the team lead and work on the problem from definition to validated solution. Strong
+results will often be worth publishing, and we will support you in writing them up, but the goal is to solve problems that matter to the product.
+Responsibilities
+- Survey the latest research in scene understanding, prediction, and planning, and turn it into practical approaches that fit our system and constraints.
+- Design and implement deep learning models that build a richer, real-time understanding of the driving environment from onboard sensors and other available
+sources.
+- Train and evaluate models on large-scale data from our driving logs and on public benchmarks, and lead failure analysis to find out where and why models fall
+short.
+- Define metrics and evaluation methods that connect perception quality to how the vehicle actually drives.
+- Turn successful prototypes into solutions that work with our planning stack, with help from production engineers.
+- Collaborate with Perception, Prediction, Planning, and Mapping teams so results move from experiment to product.
+Qualifications
+- Currently enrolled in an M.S. or Ph.D. program in Computer Science, Robotics, Electrical Engineering, Machine Learning, or a related field, for the full
+duration of the internship.
+- Available for a full-time onsite internship of 3–6 months; start dates are flexible.
+- Strong programming skills in Python, and experience with modern deep learning frameworks such as PyTorch or JAX.
+- Hands-on experience designing, training, and debugging deep learning models for computer vision, 3D perception, or sequential decision-making.
+- Solid understanding of autonomous driving fundamentals, including perception, prediction, and motion planning.
+- Ability to read research critically, form hypotheses, and turn them into well-controlled experiments.
+- Excellent communication and collaboration skills.
+Preferred Qualifications
+- Publications at top venues such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ICRA, IROS, CoRL or IV.
+- Experience with multi-modal sensor fusion (camera, lidar, radar) or BEV representations.
+- Experience with transformers, graph neural networks, or other structured scene representations.
+- Experience with uncertainty estimation, or with learning-based prediction or planning.
+- Experience with large-scale model training and data pipelines.
+- Experience with public autonomous driving datasets such as nuScenes, Argoverse 2, or the Waymo Open Dataset.
+- Proficiency in C++ (CUDA is a plus) and experience with robotics systems.
+The hourly rate for the Intern position in the selected city is $46.
+I acknowledge that prior to submitting this application, I have read and accepted the Privacy Notice for California Residents which is available on
+https://v.didi.cn/AQnxlBa

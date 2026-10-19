@@ -1,0 +1,52 @@
+Build the future of AI. Not just your résumé.
+We're looking for a different kind of engineering intern.
+Someone with fire in the belly. Someone who loves building, moves fast, takes ownership, and gets excited about solving problems that don't come with
+instructions.
+Someone who doesn't just want to work at a startup — they want to help build one.
+At HireBuddy, we're building an AI-powered recruiting platform that is transforming how companies discover, evaluate, and engage talent.
+This is not a "watch-and-learn" internship. You'll work directly with the founders, build real features used by customers, and help shape the technology behind
+our AI platform.
+Compensation:
+Initially, this is a 3-month unpaid internship. For the exceptional candidate, this internship could lead to a Founding Engineer role, including equity
+ownership in the company.
+🚀 What You'll Build
+- Develop real product features across frontend and backend.
+- Help advance our AI-powered talent sourcing and recruiting engine.
+- Build AI-driven capabilities using LLMs, APIs, and modern development tools.
+- Own features end-to-end — from idea and architecture to deployment.
+- Work directly with the founders on product decisions and technical challenges.
+- Experiment, iterate, ship fast, and see your work make an immediate impact.
+🔥 Who We're Really Looking For
+Mindset matters as much as technical skills.
+We're looking for someone who:
+- Thinks like a founder: Takes ownership, challenges assumptions, and finds solutions rather than waiting for instructions.
+- Has a builder's obsession: Loves coding, experimenting, and turning ideas into working products.
+- Has fire in the belly: Is ambitious, hungry to learn, and excited by the intensity of building an early-stage startup.
+- Moves fast and figures things out: Is resourceful, adaptable, and comfortable with ambiguity.
+- Believes in the AI revolution: Wants to be at the forefront of building real AI products, not just studying them.
+We care more about what you've built, how you think, and how much you want to build than an impressive résumé.
+Technical Skills
+Required:
+• React, Next.js, TypeScript
+• SQL and database fundamentals
+• Experience building web applications
+• GitHub, Vercel, AWS
+Bonus:
+• Full-stack development experience
+• APIs and third-party integrations
+• LLMs, OpenAI APIs, or AI agent development
+• Supabase or similar backend platforms
+• Stripe
+Ideal candidates: Current MS Computer Science students or exceptional BS juniors/seniors. Outstanding self-taught builders are also encouraged to apply.
+🌟 Why Join HireBuddy?
+- Build, don't observe: Ship real AI features used by real customers.
+- Work directly with founders: Have a voice in product and technology decisions.
+- Own your work: Take responsibility for meaningful parts of the product.
+- Learn at startup speed: Gain hands-on experience building and scaling an AI SaaS platform.
+- Founding Engineer opportunity: Exceptional performance could lead to a full-time founding engineering position with equity participation.
+💡 One Last Thing
+We're not looking for someone who wants to be told exactly what to build every day.
+We're looking for someone who sees a problem and can't wait to solve it.
+If you've ever dreamed of joining an AI startup early, building something from the ground up, and potentially becoming a founding engineer — we want to meet
+you.
+Apply with your résumé, GitHub, and, most importantly, something you've built that you're proud of.

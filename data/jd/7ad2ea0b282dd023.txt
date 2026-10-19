@@ -1,0 +1,67 @@
+About Ingredion:
+Join Ingredion, where innovation impacts lives worldwide! Without even realizing it, you’ve experienced our work in your favorite chocolate, your pet’s food,
+the paper you write on, and your everyday snacks. As a global powerhouse across more than 60 industries, we harness the potential of natural ingredients to
+transform lives. Whether you’re just starting your career or bringing years of experience, there’s a place for you here to make a real difference. Be part of
+our team that values a wide range of perspectives and is committed to shaping a better world with every product we create.
+Location: Westchester, IL / Bridgewater, NJ
+Workplace type: Hybrid
+The AI Solutions & Value MBA Intern will join Ingredion’s AI for Business Excellence (AIBE) team to help identify, design, value, and deliver AI and agentic
+solutions that drive digital transformation across the enterprise. Sitting at the intersection of business strategy and applied AI, this role is focused on
+translating ambiguous business problems into well-scoped AI solutions—quantifying the value at stake, shaping the design of agentic and generative-AI-enabled
+workflows, and helping steward those solutions from concept through implementation and adoption.
+This role will partner with cross-functional business, technology, and functional leaders to prioritize a portfolio of opportunities, build the business case
+for each, and support the hands-on design and configuration of solutions. The intern will work alongside AI/ML engineers, solution architects, product owners,
+and value-stream leaders across functions such as Order-to-Cash, Record-to-Report, manufacturing, supply chain, and commercial—gaining exposure to how
+enterprise AI strategy is set, governed, and converted into measurable financial value.
+What You Will Do:
+- Design and build agentic AI solutions—frame business problems and prototype agent-based workflows (e.g., order processing, forecasting, financial
+reconciliation, batch processing) using platforms such as Microsoft Copilot, agent-builder tooling, and others.
+- Assess and quantify project value—develop business cases and ROI models for candidate AI initiatives, sizing benefits across cost reduction, revenue
+generation, and working-capital improvement, and supporting prioritization within the AI portfolio.
+- Support AI implementation and adoption—help translate designs into deployed solutions, coordinating across technical and business stakeholders to pilot, test,
+and scale, and to track realized value against the business case.
+- Translate requirements into solution designs—partner with functional teams (demand planning, manufacturing, finance, commercial, and others) to convert
+business needs into clear AI/agentic solution specifications.
+- Shape governance and best practices—contribute to standards, intake templates, and stage-gate controls for how AI projects are proposed, valued, approved, and
+delivered.
+- Communicate to executives—synthesize analysis into executive-ready recommendations and presentations, explaining AI concepts, trade-offs, and value to both
+technical and non-technical audiences.
+- Scan the market—research emerging AI/agentic capabilities, tools, and vendor offerings, and assess their applicability and differentiation for Ingredion’s use
+cases.
+What You Will Bring:
+- Progression toward an MBA, currently enrolled and completing the program (between the first and second year of study).
+- Strong business problem-solving skills—structured problem framing, hypothesis-driven analysis, and the ability to move from ambiguity to a clear, prioritized
+solution.
+- Financial and analytical acumen—comfort building business cases, ROI/value models, and prioritization frameworks to evaluate competing opportunities.
+- Genuine interest in applied AI and agentic solutions, with an understanding of how generative AI and autonomous agents can be applied to enterprise processes.
+- Technical fluency is a strong plus—hands-on exposure to tools such as Claude, ChatGPT, Microsoft Copilot, agentic frameworks, MCP, and Power Automate, and/or
+familiarity with data and analytics concepts (SQL, Python, cloud platforms). Deep engineering experience is not required.
+- Excellent communication, presentation, and stakeholder-management skills, with the ability to influence cross-functional partners and present to senior
+leaders.
+- Ability to work independently and as part of a collaborative, cross-functional team, managing multiple workstreams to deadlines.
+- Prior experience in strategy, consulting, corporate development, product, technology, or a related field is a plus.
+To Be Eligible For Consideration, Candidates Must:
+- Currently possess unrestricted authorization to work in the United States. Ingredion does not intend to sponsor work visas with respect to this position or to
+provide this position as OPT or CPT.
+- Be currently enrolled in a full-time MBA degree program, between the first and second year of study (returning to complete the degree following the
+internship).
+- If you have completed your degree, please consider other opportunities with Ingredion, posted at www.ingredion.com/careers.
+Why Join Ingredion?
+Discover Why Ingredion Is The Ideal Place To Advance Your Career With Our Exceptional Rewards And Benefits Package Designed To Help You Thrive. Create The
+Future With Us And Enjoy:
+- Total Rewards Package – competitive salary based on your degree program. Housing stipends offered to students relocating 51+ miles from the Ingredion work
+location.
+- Internship Program Events & Activities – programming catered toward career exploration, networking, and professional development – including the annual
+Capstone Summit at Ingredion HQ in Westchester, IL.
+- Intern Mentor Program – pairing with a mentor to guide development and integration in Ingredion’s culture.
+- Involvement in Ingredion’s Business Resource Groups – the conscience of the organization and an integral part of Ingredion’s Inclusion & Belonging strategy.
+- Employee Recognition Program – a culture of real-time appreciation, with personalized recognition rewards globally.
+- Employee Discount Program – provides exclusive discounts on everyday products, services, and travel.
+#wayup
+Pay Range: $31-34 USD/hr
+We are an equal opportunity employer and value diversity at our company. Ingredion seeks to provide a work environment that is free from harassment and
+discrimination. We will not tolerate any form of discrimination based on race, color, religion, age, gender, gender identity, gender expression, national
+origin, ancestry, handicap or disability—mental or physical—marital status, sexual orientation, veteran status, disability resulting from military service, or
+any other classification protected by law (“protected classifications”). We are committed to establishing and maintaining a work environment where everyone is
+treated with dignity and respect.
+Ingredion provides accommodations to job applicants with disabilities througho

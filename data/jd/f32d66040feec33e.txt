@@ -1,0 +1,31 @@
+Since 1869, we've connected people through food they love. We’re proud to be stewards of amazing brands that people trust. Our portfolio includes the iconic
+Campbell’s brand, as well as Cape Cod, Chunky, Goldfish, Kettle Brand, Lance, Late July, Pacific Foods, Pepperidge Farm, Prego, Pace, Rao’s Homemade, Snack
+Factory, Snyder’s of Hanover. Swanson, and V8.
+Here, you will make a difference every day. You will be supported to build a rewarding career with opportunities to grow, innovate and inspire. Make history
+with us.
+Data Engineer / AI Engineer (Co-op)
+We are seeking a motivated and curious Data Engineer / AI Engineer to join our team. This co-op / internship offers hands-on experience at the forefront of
+Generative AI and automation. You will have the opportunity to learn and work with cutting-edge technologies within our Agentic Frameworks to refine their usage
+in a modern Databricks environment. If you are passionate about the future of AI and eager to build "intelligent" systems, we want to hear from you!
+Key Responsibilities
+- Prototype AI Agents: Assist in building and testing AI agents designed to automate internal workflows or enhance data retrieval processes.
+- AI Training: Provide feedback to enhance and optimize the output of agents.
+- Prompt Engineering & Tuning: Experiment with and refine system prompts to improve the accuracy and reliability of outputs.
+- Monitor Model Performance: Identify "hallucinations" or inconsistencies in AI responses and suggest improvements for model grounding.
+- Collaborate with Agile Teams: Work with cross-functional teams to integrate AI capabilities into existing enterprise applications and participate in Agile
+ceremonies.
+- Explore Emerging AI Tools: Research and test new frameworks in the Agentic AI space under the guidance of senior AI and Data Engineers.
+- Document AI Architectures: Help document model schemas, API integrations, and AI governance standards.
+Learning & Development Opportunities
+- Hands-on training in Generative AI and Agentic technologies.
+- Mentorship from senior AI Engineers and Data Scientists working on enterprise-scale deployments.
+- Practical experience building on Cloud/SaaS infrastructure (e.g., Azure, Databricks, Snowflake).
+Qualifications
+- Current graduate student in Computer Science, Data Science, Artificial Intelligence, Mathematics, or a related field
+- Foundational programming skills in Python and an understanding of SQL.
+- Familiarity with AI concepts through coursework or personal projects.
+- Excellent problem-solving skills and a high degree of technical curiosity.
+- Eager to learn in a rapidly evolving field and able to adapt to new tools quickly.
+The Company is committed to providing equal opportunity for employees and qualified applicants in all aspects of the employment relationship, including
+consideration for employment, without regard to race, color, sex, sexual orientation, gender identity, national origin, citizenship, marital status, protected
+veteran status, disability, age, religion, or any other classification protected by law.

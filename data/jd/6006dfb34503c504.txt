@@ -1,0 +1,52 @@
+The Monarch Quantum Summer Internship Program offers students the opportunity to work on cutting‑edge technology shaping the future of quantum computing.
+Interns join multidisciplinary teams and contribute to real engineering projects that support our quantum hardware, software, and system‑level development
+efforts.
+As a Monarch intern, you may help design or test opto-mechanical components, build experimental setups, develop control or automation software, analyze system
+performance, or support integration of quantum‑safe technologies—depending on your background and interests. Interns collaborate closely with experienced
+engineers and researchers while gaining hands‑on experience in a fast‑moving, industry‑focused environment.
+We encourage applications from students who are curious, motivated, and excited to apply their technical skills to emerging quantum photonic technologies.
+Opportunities are available for students at the bachelor's, master's and PhD levels.
+Some project examples include:
+- Develop a test fixture for assessing the stability of opto-mechanical bonds & assemblies and perform stability experiments. The intern will define test goals
+& requirements, execute mechanical & optical design of a fixture and test station, facilitate material procurement, build the assembly, execute testing, compile
+results, and deliver a presentation to engineering leadership. The intern will also participate in ongoing projects to gain exposure in a professional, high
+precision engineering environment
+- Work hands-on with an optically pumped semiconductor laser (OPSL) system in an ISO-7 (Class 10,000) cleanroom laboratory, collaborating with and mentored by
+junior and senior engineers as well as senior management. Intern project opportunities in this role include, but are not limited to, material characterization;
+device-level semiconductor laser characterization such as spectral analysis and power-efficiency measurements; and optical and thermal modeling using tools such
+as Zemax, COMSOL, SolidWorks, and ANSYS. Interns will gain practical experience across the full development cycle, from simulation and design through laboratory
+testing and analysis.
+- Contribute to the optical design of components and lenses for next‑generation laser modules. Interns will help develop and design test stations used to
+evaluate both individual components and full module assemblies. The role includes hands‑on intern involvement in building and operating these test stations to
+collect and analyze performance data. The intern will also support the development and validation of new design methodologies for laser module engineering
+- Support the development of advanced automated pick‑and‑place routines for a fully integrated robotic cell consisting of multiple 6‑DOF industrial robots. The
+project includes designing, implementing, and testing motion control algorithms that improve accuracy, speed, and reliability of component handling within the
+automated cell. The intern will collaborate with robotics engineers to develop end‑to‑end workflows, including path planning, error detection, sensor
+integration, and automation sequencing. In addition, the intern will help evaluate system performance, optimize cycle times, and contribute to documentation and
+validation of the robotic software stack
+- Design a reliability test station for cutting-edge photonics components. Develop requirements, procure parts, and build a test system that allows a laser to
+auto-focus into a micron-sized target. Interns will utilize CAD software to design the test layout and work directly to set up the experiment in a cleanroom
+laser laboratory environment. They will write a script in python or LabView to perform the auto-focusing calibration routine
+- Work alongside experienced engineers to design, analyze, document, and test electrical systems and prototypes. Intern responsibilities include schematic
+development, PCB documentation, data analysis, test execution, and supporting failure analysis and corrective actions. This project provides extensive
+opportunities for technical skill-building, mentorship, and exposure to professional electrical engineering practices
+- Support the build and test of existing and novel External Cavity Diode Laser (ECDL) products through hands on lab experiments. Interns will join the laser
+development team and will design and execute tests to prove components and full laser assemblies to support Monarch Quantum's mission to deliver high-quality
+light engines to our customers. Project opportunities include building and characterizing laser cavities with novel components, designing diode test stations,
+improving alignment processes, and modeling laser systems. Interns will be mentored by collaborating with senior scientists, management, and laser technicians.
+Interns will leave the experience with a strong theoretical knowledge of and hands-on experience with ECDLs
+- Focus on developing FPGA-based systems using hybrid C/C++ and HDL architectures, including designing interfaces to ADCs, DACs, microcontrollers, and other
+components. Interns will support the creation and testing of advanced data acquisition and analysis systems, participate in hardware‑firmware integration, and
+contribute to reviews, verification, and documentation.
+- Support the development of automated optical assembly processes, with a focus on investigating adhesive properties and performance when bonding precision
+optics to metal components. Interns will design and execute experiments to characterize adhesive behavior, develop and refine process parameters, and evaluate
+the impact on optical performance and assembly quality. They will also receive hands-on training in optical alignment, precision motion systems, and robotic
+automation. This project will provide practical experience at the intersection of optics, materials, process development, and robotics
+- (BOSTON OFFICE) Design, simulate, and fabricate photonic integrated circuits (PICs) on different integrated photonics platforms in our Boston office. The
+project includes simulating devices with tools such as Lumerical, Tidy3D, or COMSOL, laying out circuits for tape-out, and processing devices in the cleanroom
+using lithography, etching, and thin-film deposition. The intern will characterize fabricated structures using SEM, AFM, and ellipsometry and feed the results
+back into the design. This project provides hands-on experience across the full PIC development cycle, from simulation and layout through fabrication
+- (BOSTON OFFICE) Characterize photonic integrated circuits (PICs) on different integrated photonics platforms in our Boston office. Interns will design
+experiments, build free-space and fiber-coupled test setups, and measure lasers, passive devices, and electro-optic, acousto-optic, and high-speed modulators.
+The role includes hands-on measurement of propagation loss, coupling efficiency, bandwidth, and extinction ratio, along with comparing results against
+sim

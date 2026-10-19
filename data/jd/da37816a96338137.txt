@@ -1,0 +1,38 @@
+Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art
+and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex
+problems in computer science.
+Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can
+perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting
+time to join our team! We are hiring a Product Management MBA Intern for NVIDIA IT to build the next generation of Agentic AI Products and Platforms that would
+be central to the way NVIDIA adopts AI internally, improves productivity, and accelerates business outcomes.
+What You Will Be Doing:
+- Collaborate with internal partners to understand and prioritize product requirements.
+- Translate needs into clear product vision, roadmap, and actionable user stories.
+- Tackle sophisticated, technical problems with creative solutions while managing competing tradeoffs.
+- Conduct user research, analyze problems and present actionable insights to senior leadership.
+- Conduct compelling, data-based arguments to convince others and generate progress with meaningful results.
+- Bring user-centric perspectives to discussions about product, establish and articulate design strategy and end-to-end product experience.
+What We Need To See:
+- Currently pursuing an MBA with relevant experience and graduating in December 2027 or May/June 2028.
+- BS or MS degree in Computer Science or a related engineering field.
+- Some experience shipping either customer facing or employee facing products by working with engineers, designers, and data scientists resulting in significant
+business impact.
+- Demonstrated hands-on product management and related expertise involving AI, Machine Learning, generative AI, traditional deep learning, and statistical
+machine learning.
+- Outstanding communication skills, and excellent problem-solving skills.
+Ways To Stand Out From The Crowd:
+- Engineering and design background with the ability to do hands on prototyping, create product design mock-ups, and ability to vibe code.
+- Be able to thrive and succeed in a fast-paced environment, not be hindered by ambiguity or multiple priorities, and set clear actionable goals.
+- Demonstrated outstanding organization skills, attention to detail in writing product specifications, and excellent writing skills to publish case studies, and
+papers.
+- Hands-on expertise and understanding of NVIDIA software strategy & products, familiarity of working with LLMs, Retrieval Augmented Generation (RAG), and
+Agentic AI.
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until October 23, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
