@@ -1,0 +1,71 @@
+Robotics Simulation & Controls Intern — Isaac Sim / Isaac Lab
+Location: San Jose, CA
+Type: Internship – part time (up to 30 hours per week) temporary
+Duration: expected 12 weeks
+Start: Summer 2026 or flexible
+Eligible candidates: Current B.S./M.S. students, recent graduates, or strong project-based candidates in Robotics, Mechatronics, Mechanical Engineering,
+Computer Engineering, Electrical Engineering, Computer Science, or related fields.
+About the Role
+We are seeking a Robotics Simulation & Controls Intern to support an early-stage robotics R&D effort focused on simulation, control development, and sim-to-real
+transfer for legged robotic systems.
+The initial focus will be to help build a practical NVIDIA Isaac Sim / Isaac Lab workflow that can support robot modeling, reinforcement-learning experiments,
+actuator/sensor approximation, and eventual transfer from simulation to physical hardware. Depending on project needs, early work may use a simplified legged
+test platform, reduced-order robot model, or DOE simulation before scaling the workflow to more complex robotic systems.
+This is a hands-on R&D role for someone who enjoys learning quickly, reading technical documentation, building prototypes, and working across robotics,
+software, simulation, controls, and mechanical systems.
+What You Will Do
+- Help set up and document the NVIDIA Isaac Sim / Isaac Lab development environment.
+- Build or adapt robot simulation assets using CAD, URDF, USD, or related robot-description workflows.
+- Define joints, joint axes, joint limits, collision geometry, approximate mass/inertia properties, and sensor placements.
+- Support the creation of simplified legged robot models for early simulation and control testing.
+- Help develop basic reinforcement-learning or control experiments for flat-terrain standing, balancing, or walking behavior.
+- Work on observation/action space design using signals such as joint position, joint velocity, IMU data, command inputs, contact assumptions, and prior
+actions.
+- Assist with reward design, termination conditions, domain randomization, and evaluation criteria for sim-to-real transfer.
+- Evaluate whether ROS 2, Gazebo, Isaac Sim ROS bridges, or a custom interface should be used for different stages of the workflow.
+- Help document model assumptions, training results, known simulation gaps, and next-step recommendations.
+- Use tools such as ChatGPT Business, Microsoft Copilot Premium, and Github Copilot to accelerate research, coding, documentation, and troubleshooting while
+carefully validating technical results.
+Ideal Background
+Strong candidates may come from Robotics, Mechatronics, Mechanical Engineering, Computer Engineering, Electrical Engineering, Computer Science, or a related
+technical program.
+The ideal candidate has some combination of:
+- Python programming experience.
+- Basic C/C++ familiarity or willingness to learn.
+- Coursework or projects involving robotics, controls, dynamics, simulation, machine learning, reinforcement learning, autonomous systems, or mechatronics.
+- Familiarity with one or more robotics simulation tools such as Isaac Sim, Isaac Lab, Omniverse, Gazebo, MuJoCo, or similar.
+- Familiarity with one or more robotics/software tools such as ROS 2, URDF, or USD.
+- Comfort reading documentation, testing examples, debugging errors, and turning technical goals into working prototypes.
+- Strong written documentation habits.
+Nice to Have
+- Experience with legged robots, quadrupeds, bipeds, mobile robots, robot arms, or autonomous robotics projects.
+- Exposure to reinforcement learning, imitation learning, motion planning, trajectory optimization, or model-predictive control.
+- Understanding of coordinate frames, rigid-body dynamics, center of mass, friction, contact, joint limits, and actuator constraints.
+- Experience with ROS 2, Gazebo, Isaac Sim, Isaac Lab, MuJoCo, or similar robotics simulation environments.
+- Experience with Raspberry Pi, embedded Linux, serial communication, I2C, IMUs, servo motors, motor controllers, or sensor integration.
+- CAD exposure using SolidWorks, Siemens NX, Fusion 360, Onshape, or similar.
+- Experience with 3D printing or physical robot prototyping.
+- Experience using AI tools such as ChatGPT, Copilot, or similar systems as part of an engineering workflow.
+What Success Looks Like
+By the end of the internship, a successful candidate will have helped create:
+- A documented Isaac Sim / Isaac Lab setup that can be reproduced.
+- One or more simplified robot simulation models suitable for controls or reinforcement-learning experiments.
+- A clear CAD / URDF / USD workflow recommendation.
+- A first-pass control or reinforcement-learning experiment for simple flat-terrain legged locomotion or balancing.
+- A documented list of simulation assumptions, actuator/sensor modeling gaps, and sim-to-real risks.
+- A practical roadmap for moving from simulated training toward controlled physical testing.
+Desired Traits
+- Curious, self-directed, and comfortable learning unfamiliar tools.
+- Strong problem-solving and debugging mindset.
+- Able to work with incomplete specifications in an R&D environment.
+- Careful around hardware, safety, and electromechanical systems.
+- Good communicator who can explain what was tried, what worked, what failed, and what should be done next.
+Suggested LinkedIn Skills
+Robotics, Legged Robotics, Robot Simulation, Controls, Reinforcement Learning, Isaac Sim, Isaac Lab, NVIDIA Omniverse, Sim-to-Real, ROS 2, Gazebo, MuJoCo,
+Python, C++, PyTorch, URDF, USD, Mechatronics, Dynamics, Motion Control, Embedded Systems, Raspberry Pi, IMU, CAD
+Compensation and Benefits
+- Hourly Rate: $25–$45 per hour, depending on education, experience, technical skills, and demonstrated robotics or simulation project experience
+- 401K with company match.
+Eugenus, Inc. is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin,
+citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by
+law.

@@ -1,0 +1,67 @@
+At MITRE, your passion fuels work that impacts our nation and improves lives. This is where your skills strengthen national security, cybersecurity, health,
+transportation, and citizen services. We’re a nonprofit engineering, applied research, and advanced technology organization working in the public interest. With
+objectivity and integrity at our core, we lead federally funded research and development centers for U.S. government agencies – collaborating with industry and
+academia to deliver integrated, high-impact solutions that advance our nation’s health, security, and prosperity. Our people tackle the toughest technical
+challenges, supported by competitive benefits, meaningful career development, and a culture of innovation, collaboration, and technical excellence. Choose MITRE
+for a career with purpose — and help shape the future.
+MITRE’s Autonomous and Intelligent Systems Department is an innovative team of engineers focused on the development of cutting-edge autonomous systems, robotics
+capabilities, and AI solutions. The department has a new opportunity for a strong technical candidate to work with an innovative team of engineers focused on
+developing Artificial Intelligence and/or Autonomous System solutions for sponsor needs. The right candidate will enjoy a fast-paced team environment and
+working with groundbreaking technology. We are seeking candidates that can assist in building robots, artificial intelligence projects, and evaluating state-of-
+the-art systems. The candidate for this position will work on challenging activities in direct support of sponsor programs and/or internal R&D supporting
+MITRE’s AI and autonomy
+efforts.
+Job Responsibilities:
+As a Robotics and Autonomous Systems Intern, you will collaborate with a multidisciplinary team of engineers and researchers to apply your academic knowledge
+and gain hands-on experience in one or more of the following areas:
+- Autonomous ground, air, surface, or underwater vehicles
+- Robot perception and sensor fusion (e.g., cameras, LiDAR, radar, IMU, GPS)
+- Motion planning, navigation, and control for robotic platforms
+- Real-time and embedded software for robotics
+- Robotics-focused Artificial Intelligence (AI) and Machine Learning (ML)
+- Simultaneous Localization and Mapping (SLAM) and state estimation
+- Human–Robot Interaction (HRI) and operator interfaces
+- Multi-agent and swarm robotics
+- Modeling, simulation, and digital twins for robotic systems
+- Safety, reliability, and verification of autonomous systems
+- Cybersecurity for robotic and autonomous platforms
+- Field testing, experimentation, and data collection with robotic systems
+- Robotics hardware and software integration
+Basic Qualifications:
+- Must be a full-time student pursuing an accredited degree program in Robotics, Computer Science, Electrical Engineering, Mechanical Engineering, Mechatronics,
+Aerospace Engineering, or a closely related discipline.
+- Must continue to be enrolled the semester following the internship.
+- Foundational knowledge of robotics and/or autonomous systems concepts such as robotic architectures, kinematics, dynamics, control, perception, or planning,
+and familiarity with relevant software tools (e.g., C/C++, Python, ROS, MATLAB/Simulink, or similar).
+- Must have sustained excellence in academic performance.
+- Demonstrated interest in serving the public or advancing societal missions through previous work experience, volunteer activities, or other relevant
+engagements—especially in areas involving robotics or autonomous systems
+Preferred Qualifications:
+- Experience applying robotics or autonomous systems coursework in an internship, research lab, project team (e.g., robotics club, competition team), or
+independent project.
+- Proficiency with robotics software frameworks and tools (e.g., ROS/ROS2, Gazebo or other simulators, embedded development environments, version control such
+as Git).
+- Experience with one or more of the following:
+- Robot perception and computer vision
+- Path planning, navigation, and control algorithms
+- Real-time and embedded systems for robotics
+- Machine learning for perception or decision-making in autonomous systems
+- Modeling, simulation, and hardware-in-the-loop testing
+This requisition requires the candidate to have a minimum of the following clearance(s):
+None
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+None
+Salary compensation range and midpoint:
+$46,500 - $58,000 - $69,500 Annual
+Work Location Type:
+Onsite
+Commitment to Non-Discrimination
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by
+applicable federal, state, local or international law.
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a
+reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org
+for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a
+reply.
+Benefits information may be found here.
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied
+and distributed with permission only.

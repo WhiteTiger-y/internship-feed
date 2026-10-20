@@ -1,0 +1,59 @@
+Overview
+Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This
+opportunity will allow you to bring your aspirations, talent, potential, and excitement for the journey ahead.
+Microsoft Frontier Co. is a new line of business and one of the industry's first customer outcome-driven organizations, bringing together industry expertise,
+strategic partnerships and engineering as part of Microsoft Customer and Partner Solutions Its teams will work side-by-side with customers to co-design, deploy,
+and continuously improve AI systems that deliver measurable, customer-defined outcomes. The organization is built around end-to-end Frontier Transformation,
+helping customers turn AI into real, lasting business value. For those joining, it's a chance to help build a new growth engine for Microsoft and shape how the
+industry moves from delivering technology to delivering outcomes.
+Step into a role where your ideas spark innovation and your impact is felt every day. As part of Frontier Co, you will work with real-world datasets to develop
+scalable, production-ready solutions and run experiments that inform business strategy and customer outcomes. You will collaborate with global organizations
+across industries and apply current advances in artificial intelligence and data science to solve problems at scale.
+As a Data Science PHD Forward Deployed Engineer Intern, you will develop models, evaluate results, and translate evidence into decisions that support measurable
+business outcomes. You will partner with engineers, product managers, and domain experts throughout the lifecycle from data discovery through deployed
+solutions. Join the team to help organizations realize greater value from their data.
+At Microsoft, Interns work on real-world projects in collaboration with teams across the world, while having fun along the way. You'll be empowered to build
+community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.
+At Microsoft, our mission to empower every person and every organization on the planet to achieve more guides how we partner with customers to deliver trusted,
+impactful solutions. With a growth‑mindset culture, we innovate responsibly and measure success by shared progress, people, teams, and customers. Join us to do
+meaningful work that changes the world and helps shape what’s next for everyone.
+Participation in this internship does not guarantee future employment. While successful interns may be considered for full-time opportunities, Microsoft is
+unable to sponsor a work visa for any full-time position associated with this internship due to the nature of the role's job duties.
+Responsibilities
+- Prepare and assess data by using querying, visualization, and reporting techniques to identify key attributes, quality considerations, and project impact.
+- Develop, train, optimize, and evaluate models using appropriate statistical and machine learning approaches to address business objectives.
+- Design and analyze controlled experiments, communicate findings to stakeholders, and connect technical metrics with business outcomes.
+- Partner with engineering teams to operationalize models, supporting performance, scalability, monitoring, maintenance, and integration into production
+systems.
+- Collaborate with cross-functional partners to define evaluation metrics and improve artificial intelligence system and product performance.
+Qualifications
+Required/Minimum Qualifications
+- Currently pursuing a Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or a related field,
+with at least one academic quarter or semester remaining after completion of the internship.
+- Must have at least one additional quarter/semester of school remaining following the completion of the internship.
+- Candidate must be enrolled in a full time bachelor's, masters, MBA, or PhD program in area relevant for the role during the academic term immediately before
+their internship.
+Preferred Qualifications
+- 2+ years of programming experience in data science, machine learning, statistical computing, or a related technical area.
+- 1+ year of experience delivering data science or machine learning projects in collaborative, cross-functional teams.
+- 2+ years of experience developing and applying statistical methods, machine learning algorithms, data structures, or optimization techniques.
+- Coursework, research, or applied experience in machine learning, statistical modeling, experimentation, causal inference, data mining, databases, data
+engineering, or distributed systems.
+- Experience with SQL and programming languages commonly used in data science, such as Python, R, Java, Scala, C#, or similar.
+- Familiarity with data pipelines, large-scale data processing frameworks, model evaluation, telemetry systems, visualization or reporting tools, or cloud-based
+data and machine learning platforms.
+- Interest in large-scale data science, machine learning systems, experimentation, model optimization, data quality, and translating analytical findings into
+business and customer impact.
+#FDE #MicrosoftFrontierCompany #EIP
+The base pay range for this internship is USD $6,810.00 - $13,480.00 per month. There is a different range applicable to specific work locations, within the San
+Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $8,920.00 - $14,610.00 per month.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:
+https://careers.microsoft.com/us/en/us-intern-pay
+Microsoft accepts applications and processes offers for these roles on an ongoing basis throughout the academic calendar
+(September - April)
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship,
+color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin,
+physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual
+orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations
+and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

@@ -1,0 +1,63 @@
+About GlobalFoundries
+GlobalFoundries (GF) is a leading manufacturer of essential semiconductors, enabling AI at scale from the cloud to the physical world. Through deep partnerships
+with customers, GF delivers differentiated, powerefficient and highperformance solutions for highgrowth markets. GF is a trusted and holistic technology partner
+for customers around the world. GF’s talented, global team remains focused every day on security, longevity, and sustainability. For more information, visit
+www.gf.com.
+Internship Program Overview
+Our Interns & Co-ops are our entry-level talent pipeline for GF across the globe. Our goal is to provide students with a meaningful work experience that will
+equip them with the skills to embark on a career in the fast-paced and growing semiconductor industry after graduation. As an intern at GF, you’ll experience
+one-on-one mentorship, work assignments that prioritize your growth and potential, professional development opportunities, and the chance to network with
+executives.
+Summary Of Role
+GlobalFoundries is seeking a curious and motivated AI/ML Systems Engineering Intern to characterize machine learning workloads and analyze how their compute and
+memory demands map to hardware resources. Working with experienced hardware and software engineers, the intern will build practical skills in performance
+experimentation, analytical modeling, and clear technical communication.
+Essential Responsibilities Include
+- Run and interpret performance experiments for AI/ML workloads, including classical inference pipelines and modern model architectures, and document
+observations using reproducible analysis methods.
+- Build analytical models to estimate throughput, latency, utilization, operational intensity, and memory bandwidth requirements, and identify likely compute or
+memory bottlenecks.
+- Collaborate with hardware and software engineers to connect workload behavior with architectural and implementation decisions, including cache, memory
+subsystem, runtime, and compiler considerations.
+- Present findings through concise reports, visualizations, and technical discussions, and grow toward independent ownership of a defined workload
+characterization study during the internship.
+Other Responsibilities
+- Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs.
+Required Qualifications
+- Education – At least a sophomore at time of application and actively pursuing a Bachelor’s or Master’s in Electrical Engineering, Computer Engineering, or
+related field through an accredited degree program during the time of internship.
+- Must have at least an overall 3.0 GPA and be in good academic standing.
+- Coursework or project experience applying linear algebra, probability, numerical analysis, or related mathematical methods to engineering or computing
+problems.
+- Working understanding of computer architecture concepts such as cache hierarchies, memory bandwidth, and CPU pipeline fundamentals.
+- Experience using Python and data analysis tools such as NumPy, pandas, matplotlib, or similar.
+- Language Fluency - English (Written & Verbal)
+- Travel - Up to 10%
+- Ability to work at least 40 hours per week during the internship.
+Preferred Qualifications
+- Prior related internship or co-op experience
+- Demonstrated prior leadership experience in the workplace, school projects, competitions, etc.
+- Strong interest in leveraging AI tools and emerging technologies to enhance productivity, streamline workflows, and support effective decision-making.
+- Project management skills, i.e., the ability to innovate and execute on solutions that matter; the ability to navigate ambiguity.
+- Strong written and verbal communication skills
+- Strong planning & organizational skills
+- Exposure to PyTorch or TensorFlow and concepts such as FLOP counting, operator-level profiling, or the roofline model.
+- Exposure to compilation, intermediate representations, or AI compiler toolchains such as MLIR, IREE, TVM, or similar.
+#InternshipProgramUS
+Expected Salary Range
+$20.00 - $40.00
+Expected Salary Range
+$0.00 - $0.00
+The exact Salary will be determined based on qualifications, experience and location.
+If you need a reasonable accommodation for any part of the employment process, please contact us by email at usaccommodations@gf.com and let us know the nature
+of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning
+a request for reasonable accommodation will be responded to from this email address.
+An offer with GlobalFoundries is conditioned upon the successful completion of pre-employment conditions, as applicable, and subject to applicable laws and
+regulations.
+GlobalFoundries is fully committed to equal opportunity in the workplace and believes that cultural diversity within the company enhances its business
+potential. GlobalFoundries goal of excellence in business necessitates the attraction and retention of highly qualified people. Artificial barriers and
+stereotypic biases detract from this objective and may be illegally discriminatory.
+All policies and processes which pertain to employees including recruitment, selection, training, utilization, promotion, compensation, benefits,
+extracurricular programs, and termination are created and implemented without regard to age, ethnicity, ancestry, color, marital status, medical condition,
+mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, sexual orientation, gender identity or
+expression, veteran status, or any other characteristic or category specified by local, state or federal law

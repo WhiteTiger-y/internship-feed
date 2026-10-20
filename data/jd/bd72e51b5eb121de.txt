@@ -1,0 +1,17 @@
+Scale AI hires a Machine Learning Research Intern to work on technical machine learning applications in production and cutting-edge research problems. The
+intern will contribute to research and development across frontier models, model training and evaluation, and AI applications for enterprise and public sector
+clients.
+Responsibilities
+- As an intern, you'll work on a combination of deeply technical ML applications in production and cutting-edge research problems, with mentorship from world-
+class researchers and the opportunity to collaborate with leading teams across industry and academia
+- Interns own real, published or shipped work — not side projects
+- Measure the dangerous capabilities of frontier models and conduct preparedness research
+- Research the science and creation of new benchmarks for frontier models
+- Develop new methods for training models to excel on extremely difficult reasoning problems that require long chains of thought
+- Research reinforcement learning and post-training methods that improve model reliability on high-stakes tasks
+- Research scalable oversight protocols that enable humans to produce and quality control reasoning chains beyond their native capabilities
+- Study the boundaries of model generalization and capabilities to inform data-driven advancements
+- Research synthetic and hybrid data with humans in the loop to scale up high-quality data generation
+- Take models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing
+on core model characteristics
+- Create post-training or agentic solutions that integrate into our ability to deliver applications for enterprise and public sector clients

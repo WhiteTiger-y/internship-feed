@@ -1,0 +1,118 @@
+Back to jobs
+New
+Research Intern, Frontier Speculative Decoding (Summer 2027)
+San Francisco
+About The Role
+The Speculative Decoding team at Together AI builds the draft models and algorithms that let large language models generate faster without changing their
+outputs. Our speculators run in production on frontier open models such as DeepSeek, Kimi and GLM. Our work sits at the intersection of model training,
+inference algorithms and serving systems, and we co-design all three to lower the cost and latency of generation.
+As a research intern, you will dive into open questions in speculative decoding: new drafter architectures and verification schemes, knowledge distillation and
+training recipes that align draft and target models, and drafters that adapt as traffic shifts. You will train and fine-tune draft models at scale on dedicated
+GPU clusters, and test your ideas against realistic serving workloads, including long-context and agentic traffic.
+Projects aim to answer important research questions in speculative decoding, enabling faster generation on frontier models, drafters that keep pace with
+changing workloads, and robust, reproducible evaluation under real traffic.
+Past Research
+Speculative decoding research by Together researchers, interns and academic collaborators includes:
+- Speculative Speculative Decoding (ICLR 2026)
+- When RL Meets Adaptive Speculative Training: A Unified Training-Serving System (ICML 2026)
+- Beat the Long Tail: Distribution-Aware Speculative Decoding for RL Training (MLSys 2026)
+Responsibilities
+- Research and prototype new efficient speculative decoding algorithms and draft model architectures
+- Train, fine-tune and distill draft models, and design rigorous experiments to validate hypotheses.
+- Implement optimized version for serving engines to show efficacy in real world workloads
+- Communicate the plans, progress, and results of projects to the broader team
+- Share findings through technical write-ups and blog posts, and help bring successful ideas into production
+Requirements
+- Currently pursuing a Master's or Ph.D. degree in Computer Science, Electrical Engineering, or a related field
+- Strong knowledge of Machine Learning and Deep Learning fundamentals
+- Hands-on experience training or fine-tuning large models with distributed training frameworks (e.g., Megatron-LM, FSDP)
+- Familiarity with modern model architectures, such as Mixture-of-Experts and hybrid attention
+Preferred Qualifications
+- Prior research experience in speculative decoding, efficient inference, or efficient machine learning
+- Publications at leading conferences in machine learning or systems (e.g., NeurIPS, ICML, ICLR, MLSys)
+- Experience with knowledge distillation, post-training, or reinforcement learning
+- Familiarity with LLM serving engines (e.g., vLLM, SGLang, TensorRT-LLM)
+- Contributions to open-source machine learning projects
+About Together AI
+Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning
+and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a
+marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+
+trillion tokens a month.
+Internship Program Details
+Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This
+cohort's internship dates span May 17th to August 6th or June 14th to September 3rd.
+Compensation
+We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 - $70 an hour. Our hourly
+rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.
+Equal Opportunity
+Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex,
+national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.
+For more information about our privacy policy, please visit: https://www.together.ai/privacy
+Create a Job Alert
+Interested in building your career at Together AI? Get future opportunities sent straight to your email.
+Apply for this job
+indicates a required field
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*
+Phone*
+Location (City)*
+Resume/CV*
+Attach
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School*
+Select...
+Degree*
+Select...
+Discipline
+Select...
+Start date year
+End date month*
+Select...
+End date year*
+LinkedIn Profile*
+What is your expected graduation month & year?*
+Select...
+Are you willing to work four days per week in our San Francisco office?*
+Select...
+Are you legally authorized to work in the country where the job is located?*
+Select...
+Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement
+in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender? (select one)
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your
+major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)
+Select...
+Are you a veteran or active member of the United States Armed Forces? (select one)
+Select...
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever
+your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Together AI’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+Gender
+Select...
+Are you Hispanic/Latino?
+Select...
+Race & Ethnicity Definitions
+If You Believe You Belong To Any Of The Categories Of Protected Veterans Listed Below, Please Indicate By Making The Appropriate Selection. As a Government
+Contractor Subject

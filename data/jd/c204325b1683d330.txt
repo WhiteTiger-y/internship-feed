@@ -1,0 +1,48 @@
+Company Description
+We Are Bosch.
+At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our areas of activity are
+every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility, or industry.
+Let’s grow together, enjoy more, and inspire each other. Work
+- Reinvent yourself: At Bosch, you will evolve.
+- Discover new directions: At Bosch, you will find your place.
+- Balance your life: At Bosch, your job matches your lifestyle.
+- Celebrate success: At Bosch, we celebrate you.
+- Be yourself: At Bosch, we value values.
+- Shape tomorrow: At Bosch, you change lives.
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and
+building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+Job Description
+At Bosch Research in Pittsburgh, we are looking for an enthusiastic research intern to advance the state of the art in foundation models for wireless sensing
+and perception. The intern will explore how large-scale self-supervised and multimodal learning can enable generalizable representations of human activities and
+environments from radio-frequency (RF) signals and wireless channel measurements.
+The research will focus on developing foundation models that learn reusable representations from diverse wireless sensing data and transfer across sensing
+tasks, environments, devices, and users. Potential applications include human presence detection, activity recognition, motion understanding, and fine-grained
+behavioral and contextual understanding.
+The intern will work closely with Bosch researchers on the following responsibilities:
+- Develop novel foundation-model architectures and representation-learning methods for RF signals and wireless channel measurements.
+- Investigate self-supervised, contrastive, generative, and multimodal learning approaches for large-scale wireless sensing data.
+- Study model generalization and adaptation across environments, users, devices, and downstream perception tasks.
+- Develop and evaluate methods for fine-tuning, few-shot learning, or zero-shot transfer to downstream wireless perception applications.
+- Conduct comprehensive experimental evaluations and comparisons with state-of-the-art approaches.
+- Develop a proof-of-concept demonstration of the proposed technology.
+- Summarize research findings and contribute to a high-quality research publication and/or patent application.
+Required Qualifications
+- Currently enrolled in a PhD program in Computer Science, Electrical Engineering, Computer Engineering, Robotics, or a related field.
+- Strong background in machine learning, deep learning, or representation learning.
+- Experience working with wireless sensing or RF signal data, including channel measurements or related time-series signals.
+- Strong understanding of modern deep-learning architectures and training techniques.
+- 2+ years of programming experience in Python and strong proficiency with PyTorch.
+- Ability to independently design, implement, and evaluate research ideas.
+- Excellent written and verbal communication skills.
+Qualifications
+- Experience with self-supervised learning, foundation models, transformers, contrastive learning, or generative models.
+- Experience with wireless sensing for applications such as presence detection, activity recognition, localization, or smart-home sensing.
+- Experience collecting and processing wireless channel measurements, complex I/Q samples, signal-strength data, or related RF sensing data.
+- Experience with RF data-acquisition pipelines, wireless signal preprocessing, or time-series feature extraction.
+- Experience with multimodal learning involving wireless signals, language, vision, audio, or other sensor modalities.
+- Experience with large-scale model training, distributed training, or GPU-based experimentation.
+- Strong publication record in leading machine learning, sensing, mobile computing, or robotics venues such as ICLR, NeurIPS, ICML, SenSys, IPSN, MobiSys,
+MobiCom, IMWUT/UbiComp, or IROS.
+Additional Information
+All your information will be kept confidential according to EEO guidelines.
+Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.

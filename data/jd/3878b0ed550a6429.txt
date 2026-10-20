@@ -1,0 +1,30 @@
+Overview
+Job Description:
+Our summer internship program offers hands-on, direct project ownership and exposure to operational excellence. As an AI Engineer Intern on the Tech team, you
+will be assigned a primary Capstone Project to build and deploy real-world AI systems, machine learning models, or LLM-driven applications.
+You'll kick off with comprehensive hands-on training rotation through Operations departments, participate in weekly Q&A sessions with leadership across the
+business, enjoy team outings (like a Columbus Clippers game), and present your final project deliverables directly to Rogue’s Leadership Team.
+Alongside the capstone work, interns participate in routine software engineering tasks, attend team meetings, and work cross-functionally to gain a practical
+understanding of Rogue workflows, AI architecture, and business operations.
+Location: Rogue HQ – 545 E. 5th Avenue, Columbus, OH 43201 (Onsite)
+Duration: 11 Weeks (May 17 – July 30, 2027)
+Compensation: $30.00 / hour
+Target Candidates: Undergraduate Juniors, Seniors, and Graduate Students
+Key Responsibilities
+- Own a primary 10-week Capstone Project focusing on designing, prototyping, and scaling AI agents, machine learning pipelines, or LLM applications
+- Integrate APIs, data pipelines, and modern AI frameworks:
+- ML frameworks - PyTorch, TensorFlow
+- LLM/agentic frameworks - LangChain, LlamaIndex, Google ADK
+- Data processing - NumPy, SQL
+- Evaluate model performance, fine-tune prompts/retrieval systems (RAG), and deploy production-ready AI services
+- Collaborate with software engineers, data analytics teams, and business stakeholders across Rogue Tech
+Qualifications
+- Currently enrolled in an accredited undergraduate (Junior/Senior) or Graduate degree program in Computer Science, Artificial Intelligence, Data Science, or a
+closely related technical field
+- Strong knowledge of machine learning principles, LLM architecture, prompt engineering, and software engineering fundamentals
+- Proficiency in Python is required
+- Familiarity with AI frameworks or vector databases is a plus
+- Passion for hands-on problem-solving in a fast-paced environment
+By applying to Rogue, regardless of the platform you choose to use, you are agreeing to Rogue's preferred methods of communication (i.e. text message).
+Submitting an application, through whatever online forum is ultimately used, constitutes a knowing and voluntary agreement to send and receive text messages
+during the recruitment process.

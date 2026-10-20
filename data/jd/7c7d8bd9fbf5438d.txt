@@ -1,0 +1,60 @@
+Advanced Reentry Technologies
+Who We Are
+Inversion is an aerospace and defense company pioneering advanced reentry technology to enable next-generation capabilities from space. By combining high-
+performance materials, precision aerodynamics, and mission-driven autonomy, Inversion is transforming reentry into an operational capability for an entirely new
+class of missions.
+The company’s highly maneuverable reentry spacecraft, Arc, is designed for rapid global cargo delivery, hypersonic testing, and other national security missions
+that require precise, controlled flight through the atmosphere. Arc creates an entirely new transportation domain, unlocking unprecedented speed and global
+reach.
+Headquartered in Los Angeles, Inversion designs, manufactures, and integrates its spacecraft under one roof, enabling the company to move rapidly from concept
+to flight. The company is backed by leading investors including Y Combinator, Spark Capital, and Lockheed Martin Ventures, with customers across the U.S.
+government and commercial space industry.
+Position Overview
+As an AI & Internal Tools Software Engineering Intern at Inversion, you will help build the software products that enable our engineering and business teams to
+move faster, work smarter, and solve complex problems. You will develop internal applications, automation platforms, and AI-enabled tools that directly improve
+how we design, manufacture, and operate next-generation spacecraft.
+You will join our Internal Software Tools team and take ownership of a major software project, either building a new product from the ground up or developing a
+substantial feature in an existing application. You will work directly with engineers and other stakeholders to identify problems, develop solutions, and
+deliver software that people across the company use every day.
+This is an opportunity to work across the full software stack, from frontend applications and backend services to APIs, data infrastructure, and modern AI/LLM
+integrations. We're looking for builders who enjoy turning ideas into real products and are excited about exploring how software and AI can transform the
+aerospace industry.
+Key Responsibilities
+- Own a major software engineering project from initial concept and requirements gathering through design, implementation, testing, and production deployment.
+- Design and build full-stack applications, including intuitive user interfaces, backend services, APIs, databases, and integrations.
+- Develop AI-enabled tools and intelligent automation systems that streamline engineering and business workflows.
+- Integrate large language models (LLMs), AI agents, and other emerging technologies into practical software applications where appropriate.
+- Collaborate directly with engineers, operations teams, and other stakeholders to understand their workflows and identify opportunities for improvement.
+- Gather feedback from real users, iterate on solutions, and deliver polished, production-quality tools.
+Required Qualifications
+- Currently pursuing a bachelor's, master's, or doctoral degree in Computer Science, Software Engineering, or a related technical discipline, or equivalent
+practical experience.
+- Demonstrated software development experience through personal projects, open-source contributions, research, engineering teams, or previous internships.
+- Experience building software applications using one or more languages such as TypeScript, JavaScript, Python, Go, or Rust.
+- Familiarity with frontend or backend application development, including web frameworks, APIs, or databases.
+- Strong understanding of software engineering fundamentals, including debugging, testing, data structures, and application design.
+- Demonstrated ability to independently build software projects and learn new technologies.
+- Strong problem-solving skills, creativity, and a willingness to tackle loosely defined technical challenges.
+- Ability to collaborate with technical and nontechnical stakeholders and communicate ideas effectively.
+Desired Qualifications
+- Experience developing full-stack web applications using technologies such as React, TypeScript, Python, Node.js, or similar frameworks.
+- Experience building and deploying applications used by real users.
+- Familiarity with databases, REST APIs, and integrations between software systems.
+- Experience integrating large language models (LLMs) into applications using APIs or open-source frameworks.
+- Familiarity with AI agents, retrieval-augmented generation (RAG), tool calling, or agent orchestration frameworks.
+- Experience with Docker, Linux, CI/CD pipelines, or modern application deployment workflows.
+- Experience building internal tools, dashboards, workflow automation, or developer productivity tools.
+- Interest in applying AI and modern software technologies to complex engineering and business problems.
+Our office headquarters is located in Playa Vista, CA. This position requires in office presence for the duration of the internship.
+The California annual base hourly rate for this role is currently $38-$41. Pay Grades are determined by role, level, location, and alignment with market data.
+Individual pay will be determined on a case-by-case basis and may vary based on the following considerations: interviews and an assessment of several factors
+that are unique to each candidate, job-related skills, relevant education and experience, certifications, abilities of the candidate and internal equity.
+ITAR Compliance
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen,
+lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S.
+Department of State. Learn more about the ITAR here.
+Equal Employment Opportunity
+Inversion provides equal employment opportunities to all employees and applicants without regard to race, color, religion, age, sex, gender identity, sexual
+orientation, national origin, veteran status, or disability.
+Inversion collects and processes personal data in accordance with applicable data protection laws. If you are a US Job Applicant see the CCPA Privacy Policy
+Notice for further details.

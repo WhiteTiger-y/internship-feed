@@ -1,0 +1,19 @@
+Introduction
+The candidate will conduct research in quantum simulation, developing computational approaches for studying complex quantum systems. The work will combine
+quantum computing, numerical methods, and scientific computing in a collaborative research environment.
+Your Role And Responsibilities
+As an intern, you will develop, implement, and evaluate computational methods for quantum simulation. Benchmark algorithm performance, accuracy, resource
+requirements, and scalability. Apply these methods to problems such as ground- and excited-state calculations, time evolution, and thermal-state preparation.
+Collaborate with researchers across relevant scientific disciplines and communicate results through publications, presentations, and technical reports.
+Preferred Education
+Doctorate Degree
+Required Technical And Professional Expertise
+- Strong foundation in quantum computing and quantum algorithms.
+- Proficiency in Python or a comparable scientific programming language.
+- Knowledge of linear algebra and numerical methods.
+- Ability to implement computational methods, analyze results, and communicate technical findings clearly.
+Preferred Technical And Professional Experience
+- Research experience in quantum simulation or related areas.
+- Experience with Hamiltonian simulation, many-body methods, quantum chemistry, electronic structure, or condensed-matter physics.
+- Familiarity with quantum software frameworks such as Qiskit, Cirq, PennyLane, or similar tools.
+- Experience with scientific computing or high-performance computing environments is desirable.

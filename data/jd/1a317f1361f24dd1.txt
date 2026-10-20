@@ -1,0 +1,71 @@
+At Genmab, we are dedicated to building extra[not]ordinary® futures, together, by developing antibody products and groundbreaking, knock-your-socks-off KYSO
+antibody medicines® that change lives and the future of cancer treatment and serious diseases. We strive to create, champion and maintain a global workplace
+where individuals’ unique contributions are valued and drive innovative solutions to meet the needs of our patients, care partners, families and employees.
+Our people are compassionate, candid, and purposeful, and our business is innovative and rooted in science. We believe that being proudly authentic and
+determined to be our best is essential to fulfilling our purpose. Yes, our work is incredibly serious and impactful, but we have big ambitions, bring a ton of
+care to pursuing them, and have a lot of fun while doing so.
+Does this inspire you and feel like a fit? Then we would love to have you join us!
+Job Title
+Clinical Development Data Science Intern
+Why Genmab
+At Genmab, interns don’t just learn about the work - they help move it forward. Our internship program provides meaningful, hands-on experience through real
+projects that directly support our teams, business priorities, and mission to transform the lives of people with cancer and other serious diseases.
+From day one, interns are welcomed as part of the team and given opportunities to contribute, collaborate, and make an impact. Along the way, you’ll learn from
+talented colleagues and senior leaders, build new skills, expand your professional network, and gain exposure to the innovative work happening across Genmab.
+We’re always looking for smart, curious, purpose-led people who are ready to bring fresh perspectives and bold ideas. Explore our website to learn more about
+Genmab and how you could play a role in our bold, extra[not]ordinary® future.
+Job Overview
+The Clinical Development Data Science Intern will join Genmab’s Clinical Development Data Science team and contribute to innovative AI/ML initiatives across the
+clinical development lifecycle. This role is ideal for a highly technical, impact-driven data scientist who is pursuing a Ph.D. in a quantitative or
+computational discipline, and who is excited to apply modern machine learning, natural language processing, and generative AI to real clinical and scientific
+challenges in oncology.
+The intern will support projects such as building AI-powered tools to assist trial design, developing analytics pipelines for clinical and safety data, and
+prototyping advanced models that help clinicians and scientists make better, faster decisions.
+What You’ll Do
+- Develop machine learning and NLP pipelines to extract, organize, and summarize information from clinical trial protocols, regulatory documents, and
+unstructured biomedical text.
+- Support the development of AI-driven tools that:
+- Accelerate protocol design through information retrieval, extraction, and summarization.
+- Enhance pharmacovigilance and safety monitoring through automated literature surveillance, risk modeling, anamoly detection, and severity prediction
+- Enable portfolio planning and decision-making through predictive modeling of key milestones and drivers
+- Support regulatory intelligence and affairs through analysis and synthesis of documents, precedents, and health authority decisions.
+- Apply advanced modeling techniques including transformers, generative models, survival analysis, clustering, and other ML approaches.
+- Experiment with explainability methods (e.g., SHAP, LIME) to improve the interpretability of models used in clinical decision-support contexts.
+- Contribute to documentation, model evaluation, technical reviews, and final presentations to internal stakeholders.
+Required Qualifications, Capabilities And Skills
+- Sustained progress in a Ph.D. program in a quantitative or computational discipline (Computer Science, Data Science, Statistics, Physics, Computational
+Chemistry, Computational Biology, Applied Mathematics, Engineering, or related quantitative/technical field).
+- Master’s students with strong applied experience may also be considered.
+- Strong proficiency in modern Python for machine learning and scientific computing (e.g., PyTorch/TensorFlow, scikit-learn, spaCy, Hugging Face transformers,
+pandas, NumPy).
+- Candidates should be experienced in building modular scripts and reusable modules, command-line utilities, and structured codebases for data processing and
+machine learning workflows.
+- Experience applying ML or NLP methods to real-world datasets.
+- Ability to design, build, and evaluate computational models end-to-end.
+- Excellent analytical problem-solving abilities and intellectual curiosity.
+- Clear written and verbal communication skills.
+- High attention to detail, scientific rigor, and commitment to producing high-quality work.
+- Ability to work independently as well as collaboratively within interdisciplinary teams.
+Preferred Qualifications, Capabilities And Skills
+- Experience with large language models (LLM), retrieval-augmented generation (RAG), or generative AI workflows.
+- Prior work involving unstructured document parsing (e.g., PDFs, scanned text, scientific literature).
+- Full-stack data science skill set, including experience with:
+- Writing production-quality, modular, and reusable Python code
+- Building scalable, reproducible systems and packaging code for broader use
+- Containerization (e.g., Docker) and reproducible compute environments
+- Workflow or pipeline orchestration tools (Airflow, Prefect, Dagster, etc.)
+- Cloud computing environments (AWS, Azure, GCP)
+- Experience using Git repositories and version-control workflows, including:
+- Branching strategies, pull requests, peer code reviews
+- Good commit hygiene and collaborative development practices
+- Familiarity with GitHub, GitLab, or similar platforms
+- Exposure to CI/CD, structured logging, automated testing, or other professional engineering practices.
+- Experience with MLOps concepts such as model packaging, monitoring, reproducibility, and deployment is a strong plus.
+General Intern Information – Date/Location/Schedule
+Internships will take place over 10 weeks from June – August 2027. This role will be based in Princeton, NJ and operate on a required hybrid schedule – 3 days
+in the office and 2 days remote per week. This role is not eligible for work visa sponsorship at the time of the application or in the future.
+What’s next?
+Help us learn about you by submitting a complete and thoughtful application, which includes your resume. Your application and resume are a way for us to
+initially get to know you, so it’s important to complete all relevant questions to ensure we have as much information about you as possible.
+Every application matters to us, and we’ll carefully review each submission as quickly as possible to see if your qualifications align with the role. While
+we’re unable to provide individual updates, rest assured that we’re working diligently to move through the 

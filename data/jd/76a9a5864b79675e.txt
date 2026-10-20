@@ -1,0 +1,75 @@
+Persons in these roles are expected to work from our offices in Seattle. On-site requirements vary based on position and team. If you have questions about on-
+site work arrangements for this role, please ask your recruiter.
+- Compensation dependent on current degree enrollment. Research Intern, Undergrad: $94,320 (Annually) Research Intern, Masters: $106,110 (Annually) Research
+Intern, PhD: $140,000 (Annually)
+Who You Are:
+Are you passionate about AI, and its potential to help accelerate science?
+Ai2's Asta Project (https://allenai.org/asta) aims to rapidly advance science, developing solutions in the areas of AI research assistants for scientists,
+literature understanding and synthesis, end-to-end discovery, human-AI interaction and intelligent interfaces, data-driven discovery, agents that can learn over
+time, methods for training agentic models, and the evaluation and benchmarking of agents.
+We are looking for ambitious, motivated interns, ready to take on a complex challenge with huge potential impact for the future of AI, in particular with skills
+and interest in the following focus areas (order does not reflect our priority):
+- Agentic planning, reasoning, learning, and evaluation.
+- Automated and AI-assisted scientific discovery.
+- Data-driven discovery.
+- Human-AI Collaboration, esp Literature Sensemaking,Research Ideation, and Hypotheses Generation.
+- Human-Agent Collaboration: Proactivity, Long-horizon agent, Generative User Interfaces, and multimodal interaction.
+- Scientific Literature Understanding, RAG, Multi-doc synthesis.
+- Continual learning, representation, and reasoning.
+- Post-training, model tuning, distillation, and specialization.
+See our publications for examples of our work.
+- https://allenai.org/papers?tags=Asta
+We will continue to consider applications on a rolling basis but for full consideration for start dates in summer 2027, please apply by November 15, 2026 to be
+included in the first round of reviews.
+Ai2 Research Internship Information:
+- Duration: 12 weeks
+- Start Date: Flexible
+- Candidates: A PhD student with a strong research background
+Who We Are:
+The Asta Research Team (Semantic Scholar and Aristo based in Seattle) at the Allen Institute for AI (Ai2) is an interdisciplinary research team focused on AI,
+HCI, ML, and NLP in support of our mission of accelerating science with intelligent and interactive research assistants. We regularly publish in high-profile
+conferences in NLP (e.g., ACL, EMNLP), HCI (e.g., CHI, UIST, CSCW), ML (e.g., NeurIPS, ICML, ICLR), IR (e.g., SIGIR), and Accessibility (ASSETS).
+Your Next Challenge:
+Research interns on our team will have the opportunity to:
+- Conduct high-impact research and author scientific papers for publication in high-profile computing conferences and journals.
+- Collaborate with and learn from a dedicated Ai2 mentor and other team members across Ai2, including scientists and engineers.
+To see more about our current, future, and past interns at Ai2, check out the internship page on our website!
+What You’ll Need:
+- Are a student completing a PhD with research experience in Computer Science or a related field, with a specific focus on one or more of our team’s active
+research areas.
+- Publication record in AI-related venues such as the ones listed above.
+- Strong software engineering skills. Experience with system building (e.g., React and Typescript) OR deep learning frameworks (e.g., PyTorch) OR agentic
+frameworks (e.g., Autogen).
+Physical Demands and Work Environment:
+The physical demands described here are representative of those that must be met by a team member to successfully perform the essential functions of this
+position. Reasonable accommodations may be made to enable individuals with disabilities to perform the functions.
+- Must be able to remain in a stationary position for long periods of time.
+- The ability to communicate information and ideas so others will understand. Must be able to exchange accurate information in these situations.
+- The ability to observe details at close range.
+- Can work under deadlines.
+A Little More About Ai2:
+Ai2 is a Seattle based non-profit AI research institute founded in 2014 by the late Paul Allen. Our mission is building breakthrough AI to solve the world’s
+biggest problems. We develop foundational AI research and innovation to deliver real-world impact through large-scale open models, data, robotics, conservation,
+and beyond.
+In addition to Ai2’s core mission, we also aim to contribute to humanity through our treatment of each member of the Ai2 Team. Some highlights are:
+- We are a learning organization – because everything Ai2 does is ground-breaking, we are learning every day. With a wide variety of world-class AI experts as
+guest speakers, and our commitment to your personal on-going education, Ai2 is a place where you will have opportunities to continue learning alongside your
+coworkers.
+- We value diversity - We seek to hire, support, and promote people from all genders, ethnicities, and all levels of experience regardless of age. We
+particularly encourage applications from women, non-binary individuals, people of color, members of the LGBTQA+ community, and people with disabilities of any
+kind.
+- We value inclusion - We understand the value that people's individual experiences and perspectives can bring to an organization, and we are building a culture
+in which all voices are heard, respected and considered.
+- We emphasize a healthy work/life balance – we believe our team members are happiest and most productive when their work/life balance is optimized. While we
+value powerful research results which drive our mission forward, we also value dinner with family, weekend time, and vacation time. We offer generous paid
+vacation and sick leave as well as family leave.
+- We are collaborative and transparent – we consider ourselves a team, all moving with a common purpose. We are quick to cheer our successes, and even quicker
+to share and jointly problem solve our failures.
+- We are in Seattle – and our office is on the water! We have mountains, we have lakes, we have four seasons, we bike to work, we have a vibrant theater scene,
+and we have so much else. We welcome interest from applicants from outside of the United States.
+- We are friendly– chances are you will like every one of the 200+ (and growing) people who work here. We do.
+Ai2 is proud to be an Equal Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy,
+childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status
+as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. You may view the related Know Your
+Rights compliance poster and the Pay Transparency Nondiscrimination Provision by clicking on their corresponding links.
+This employer participates in E

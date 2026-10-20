@@ -1,0 +1,57 @@
+About Amplify
+Amplify helps teachers bring delight and rigor to students every day. We have become a leader in K–12 literacy, biliteracy, math, and science by building
+inspiring teaching and learning experiences based on research. The Amplify Classroom platform combines curriculum, assessment, and supplemental learning into
+one coherent high-quality instructional system. A pioneer in education since 2000, Amplify has developed deep relationships in states and districts by
+partnering with educators to drive implementation quality and improved outcomes. Today, Amplify serves more than 18 million students and teachers across all 50
+states and on six continents. For more information, visit Amplify.com .
+Create an impact by shaping the world of education!
+Amplify is seeking a detail-oriented and analytically driven Data Analytics Intern to join our team this summer and help us build data-informed experiences for
+the educators, students, and families who use our innovative educational products. This paid, remote 10-week internship offers the chance to make a real impact
+on products used by millions of students and teachers.
+If you're comfortable with data analysis, visualization, and structured reporting, and you're genuinely curious about how data drives K–12 learning outcomes,
+this could be a perfect fit for you. The ideal candidates will love digging into complex datasets, bring a collaborative, ask-questions-first energy to their
+work, and feel excited to help build data infrastructure and reporting capabilities that move the needle for K–12 learners.
+Though remote, interns will join a 2-day in-person experience at Amplify HQ in Brooklyn, NY. Throughout the program, interns will engage with Amplify's culture
+via product demos, team-building activities, and engagement initiatives, plus grow through a virtual speaker series featuring Amplify executives, additional
+product demos, and dedicated mentorship.
+While our summer intern roles are remote positions, interns must be authorized to work in the US, reside in the US for the internship's duration, and be
+available full-time for the entire program, June 7 – August 13, 2027.
+Key responsibilities may include:
+Support the collection, cleaning, and organization of large datasets to ensure accuracy, consistency, and usability across teams
+Help identify trends, patterns, and insights within student, educator, and product usage data to inform business and product decisions
+Partner with cross-functional teams to develop dashboards, reports, and data visualizations that communicate findings clearly to both technical and non-
+technical audiences
+Assist with the design and execution of ad hoc analyses, A/B tests, and performance reporting across Amplify's product suite
+Contribute to internal documentation, data dictionaries, analytical frameworks, and reporting presentations
+Track key performance metrics to help teams monitor product health, user engagement, and learning outcomes
+What we can offer you:
+Direct exposure to data analytics tools, platforms, and practices used in EdTech
+Real-world challenges affecting educators, students, and families through data-driven insights
+Collaboration with Data, Engineering, and Product teams across the organization
+Contributions to meaningful analytics projects in a mission-driven environment
+Mentorship from industry professionals at the forefront of data and analytics in education
+Exposure to Business Intelligence, Product Analytics, Data Engineering, and Data Visualization
+Hands-on training in a fast-paced, agile environment
+Opportunities to help shape smarter product and business decisions through rigorous analysis and reporting
+Basic Qualifications for this Amplify Internship:
+Education: Current enrollment in an undergraduate or graduate degree program, returning to school in Fall 2027
+Full-time availability to participate from June 7, 2027, through August 13, 2027
+Strong written and verbal communication skills
+Ability to synthesize information, identify themes, and communicate insights clearly
+Knowledge of and interest in the K–12 education technology field
+Preferred Qualifications for Data Analytics Interns:
+Working knowledge of SQL for querying and manipulating relational databases
+Exposure to data visualization tools such as Tableau, Power BI, Looker, or similar platforms
+Background in statistical analysis, data wrangling, or exploratory data analysis — academic or professional
+Interest in product analytics, business intelligence, learning analytics, or data storytelling
+Excellent interpersonal and collaboration skills with the ability to work across technical and non-technical teams
+Comfort with Python or R for data analysis; grounding in cloud platforms (AWS, GCP, or Azure) is a plus
+Understanding of data governance, data quality best practices, or analytics engineering principles
+Amplify is an Equal Opportunity Employer. Amplify makes employment decisions based on qualifications and merit, and does not discriminate based on race, color,
+religion, sex, sexual orientation, gender identity, national origin, age, disability status, veteran status, or any other legally protected characteristic or
+status.
+Amplify is committed to providing reasonable accommodations for qualified individuals with disabilities, including disabled veterans. If you have a disability
+and need an accommodation in connection with the application or hiring process, please email hiringaccommodations@amplify.com .
+If you are selected for employment, a background check will be required. As required by state and local laws and district policies, you may be required to
+provide additional documentation, such as proof of vaccination, or submit to enhanced background screening, such as fingerprinting.
+Amplify is an E-Verify participant.

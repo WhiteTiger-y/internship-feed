@@ -1,0 +1,50 @@
+About Our Group
+You will join the HAMR Media Mechanical R&D group at Seagate’s Recording Media Research Center in Fremont, CA, where we develop advanced media interfaces,
+coating technologies, characterization methods, reliability testing capabilities, and AI/ML solutions for HAMR magnetic recording media. Our team collaborates
+closely with sputter process, recording physics, equipment engineering, materials science lab, drive design and recording head design teams, and manufacturing
+teams across Seagate’s global organization. Together, we develop next-generation, high-capacity storage technologies for AI, cloud computing, edge computing,
+and other emerging applications.
+About The Role - You Will
+You will work closely with R&D engineers to apply data science, machine learning, and generative AI to magnetic recording media R&D. You will contribute to one
+or more projects that improve understanding of media performance and failure mechanisms, make technical knowledge easier to access, and improve R&D efficiency.
+Responsibilities Include
+- Develop reusable data analysis workflows and interactive dashboards that integrate design, process, manufacturing, and reliability data to identify
+performance drivers and support engineering decisions.
+- Work with domain experts to develop and evaluate predictive models for media performance and reliability, with attention to data quality, appropriate
+validation, and interpretation of results.
+- Prototype and evaluate GenAI applications, such as technical knowledge bases and agentic workflows, to support knowledge retrieval, research synthesis, and
+engineering analysis.
+What You Will Gain
+- Hands-on experience applying AI and data science to design, process, and reliability challenges in advanced HAMR media development.
+- Opportunities to collaborate with cross-functional R&D teams and translate analytical insights into practical design and process improvements.
+- Mentoring from the R&D AI Business Lead and engineers, with opportunities to present your work to world-class recording media experts.
+About You
+- Strong problem-solving and communication skills, curiosity about unfamiliar scientific domains, and the ability to work independently and collaboratively.
+- Commitment to responsible handling of confidential technical information.
+Your Experience Includes
+- Proficiency in Python and working knowledge of SQL, with experience cleaning, integrating, analyzing, and visualizing data.
+- A solid foundation in statistics and machine learning, including exploratory analysis, feature engineering, model evaluation, and interpretation.
+- Hands-on experience through coursework, research, internships, or personal projects in machine learning, data analytics, or GenAI application development.
+- Familiarity with relevant tools such as pandas, NumPy, scikit-learn, PyTorch, and data visualization libraries.
+- Currently pursuing a bachelor’s or master’s degree in computer science, data science, statistics, applied mathematics, computer or electrical engineering, or
+a related technical discipline.
+You May Also Have
+- Experience building GenAI applications using LLMs, retrieval-augmented generation, embeddings, vector databases, or tool-using agents.
+- Experience processing technical documents, including extracting and organizing information from reports, presentations, tables, and figures.
+- Experience adapting and evaluating open-source language models using tools such as Hugging Face and PyTorch, or parameter-efficient fine-tuning methods such
+as LoRA.
+- Familiarity with experimental design, uncertainty estimation, interpretable ML, or analysis of scientific and engineering datasets.
+- Experience with Git, reusable data pipelines, application development, or tools such as Power BI, Hadoop, or Snowflake.
+- Familiarity with enterprise data access controls and secure use of AI tools.
+Location:
+Our Gold LEED-certified Fremont product-design campus drives innovation, bringing together a diverse set of engineering, design, operations, support, and
+administrative teams. The site is equipped with a state-of-the-art clean room and lab space. On-site social activities are popular, including our annual BBQ,
+ice cream social, and holiday events. Wellness programs, gaming rooms, and the on-site fitness center help round out and balance your Seagate work-life
+experience, along with opportunities to give back to our local community.
+The estimated base wage range for this position is $26 - $41/hr. The individual base wage is based on work location and additional factors, including job-
+related skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to,
+medical, dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid
+sick leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and
+tenure with the Company.
+Location: Fremont USA Research Center
+Travel: None

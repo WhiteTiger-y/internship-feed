@@ -1,0 +1,45 @@
+Job Description Work Arrangement:  Hybrid: This internship is categorized as on-site. The selected intern is expected to report to the office 3 days a week. 
+Location:  Sunnyvale, CA  About the Team The State Estimation, Alignment, and Mapping (SEAM) team develops the sensing and spatial understanding capabilities
+that help autonomous vehicles know where they are, interpret their surroundings, and maintain reliable operation over time. The team works on sensor fusion,
+state estimation, real-time localization, static and dynamic sensor calibration, next-generation mapping, and capabilities that support primary and fallback
+driving systems. SEAM combines robotics, computer vision, estimation theory, machine learning, geometry, and production software engineering. Our work supports
+both onboard, real-time autonomy and offboard, high-fidelity map and data-generation workflows. About the Role As a SEAM Intern, you will work on a well-scoped
+research or engineering project related to sensing, estimation, localization, mapping, or autonomy reliability. You will collaborate with experienced engineers
+and researchers to design algorithms, implement software, evaluate system performance, and understand how sensing capabilities operate in real-world autonomous
+driving systems. Potential focus areas include: State Estimation and Sensor Fusion: Combine information from multiple sensors and vehicle signals to estimate
+position, orientation, motion, and other states robustly. Sensor Alignment and Calibration: Develop methods for static and dynamic calibration, sensor
+registration, and maintaining alignment as vehicle and environmental conditions change. Localization: Improve real-time localization and map-based positioning
+across diverse driving environments. Next-Generation Mapping: Build or evaluate high-fidelity, large-scale maps that provide useful spatial context beyond the
+immediate sensor range. Fallback and Secondary Capabilities: Develop reliable estimation, localization, or mapping functions that support safe operation when
+nominal system capabilities are unavailable or degraded. What You’ll Do Develop, prototype, and evaluate algorithms for sensor fusion, state estimation,
+localization, calibration, mapping, or related autonomy capabilities. Work with camera, lidar, radar, inertial, vehicle, map, and other multimodal data sources.
+Implement software and tools for data processing, visualization, offline analysis, simulation, and system evaluation. Analyze accuracy, robustness, latency, and
+failure modes across diverse operating conditions. Apply software engineering best practices, including design reviews, code reviews, automated testing,
+continuous integration, and documentation. Collaborate with perception, planning, controls, robotics, systems engineering, and vehicle-program partners.
+Communicate technical findings and contribute to design discussions and project documentation. Required Qualifications Currently enrolled in or pursuing a Ph.D.
+degree in Robotics, Computer Science, Electrical Engineering, Mechanical Engineering, Applied Mathematics, or a related technical field. Demonstrated experience
+through coursework, research, academic projects, or professional work in robotics, state estimation, sensor fusion, computer vision, localization, mapping,
+controls, or a related area. Strong programming skills in C++ and/or Python. Strong foundation in linear algebra, probability, geometry, optimization, or
+estimation methods. Strong analytical and problem-solving skills. Ability to work collaboratively in a cross-functional, team-oriented environment. Strong
+written, verbal, and presentation skills. Availability to work full-time, 40 hours per week, during the internship period. Preferred Qualifications Experience
+with Kalman filtering, factor graphs, SLAM, visual-inertial odometry, bundle adjustment, point clouds, geometric computer vision, or multi-sensor calibration.
+Familiarity with autonomous vehicles, advanced driver assistance systems, robotics, ROS, or safety-critical systems. Experience with large-scale sensor or map
+datasets, simulation, data association, or offline evaluation. Experience with machine learning frameworks such as PyTorch, TensorFlow, or JAX. Familiarity with
+real-time systems, distributed systems, high-performance computing, or production software development Intent to return to a degree program after completion of
+the internship or co-op. Must be graduating between December 2027 and June 2028 Compensation:  The monthly salary range for this role is $14,600 per month   GM
+will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program.  What You’ll Get from Us Paid U.S. GM
+holidays. GM Family First Vehicle Discount Program. Potential for growth within GM based on performance and business needs. Intern events and opportunities to
+network with company leaders and peers. Mentorship and hands-on experience with the data and ML foundations behind autonomy About GM Our vision is a world with
+Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable
+for all. Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds
+and our culture. Every day, we want every employee to feel they belong to one General Motors team. Benefits Overview From day one, we're looking out for your
+well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting
+Total Rewards resources. Non-Discrimination and Equal Employment Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of
+unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an
+environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-discriminatory basis
+without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender
+identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage
+interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities.
+Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening
+prior to beginning employment. To learn more, visit How we Hire. Accommodations General Motors offers opportunities to all job seekers including individuals
+with disabilities. If you need a reasonable accommoda

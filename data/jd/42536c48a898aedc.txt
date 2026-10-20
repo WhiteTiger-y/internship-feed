@@ -1,0 +1,40 @@
+The Space Systems Analysis and Test Group aims to solve our nation’s most demanding space-related security challenges through validated analysis, prototyping,
+and field demonstrations. We provide unbiased analysis and innovative solutions that directly shape US national defense strategy.
+What will you do?
+Our interns are skilled scientists and engineers, eager to participate in our projects that will chart our nation’s future in space. They will collaborate with
+their mentors and other experts throughout the lab to break down and solve complex problems then clearly communicate key findings.
+Interns will fill different key roles in our teams depending on our project needs. Some examples include:
+- Computational Physics – Develop modeling software for in-house astrodynamics toolkits. Topics include satellite propagation, guidance laws, sensors &
+observations, state estimation, tracking, etc.
+- Signal Processing – Design tools and pipelines to process observational data from optical, radar, and other instruments. Analyze collected data and compare to
+theoretical models.
+- Hardware Prototyping – Design and produce developmental hardware systems and sensors. Plan and conduct measurement campaigns using prototypes in support of
+analysis studies.
+The highly collaborative and multidisciplinary nature of the group provides opportunities for interns to be exposed to a variety of projects.
+Desired Skills
+Given the wide range of focus areas in our group, we seek the following attributes:
+- Our staff members come from a broad range of academic backgrounds, including physics, astronomy, chemistry, engineering, computer science, and mathematics. We
+will consider candidates that plan on completing their degree (BS/BA/MS/PhD) within 2 years in any technical field within science, math, or engineering.
+- Ability to program in a technical environment (e.g., MATLAB, Python, C++, Java, etc.).
+- Strong technical skills, intellectual curiosity, and eagerness to tackle open-ended problems
+- Demonstrated ability to communicate complex technical information to a broad audience.
+- Interest in modeling and simulation.
+Compensation
+Hourly pay rates below are effective January 2026 – December 2026 and will be reviewed again for Summer 2027. Rates are based on the highest academic year or
+degree completed before the internship start date.
+- Freshman year completed: $25.00/hour
+- Sophomore year completed: $27.00/hour
+- Junior year completed: $29.00/hour
+- 4th year of 5 year program completed, no degree conferred: $32.00/hour
+- Bachelors completed: $34.50/hour
+- Bachelors + 1, one year of graduate study completed: $36.50/hour
+- Bachelors + 2, two years of graduate study completed: $38.00/hour
+- MS completed: $39.00/hour
+- MS + 1, one year of graduate study completed after the MS: $41.00/hour
+- MS + 2, two years of graduate study completed after the MS: $42.50/hour
+- MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43484

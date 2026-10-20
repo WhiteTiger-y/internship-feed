@@ -1,0 +1,36 @@
+Job Description
+Quantitative Research Intern – Equity Arbitrage
+Jain Global, LLC
+Jain Global is an innovative multi-strategy investment firm founded in July 2024 by Bobby Jain with over 400 employees operating from offices in New York,
+Houston, London, Singapore, and Hong Kong, we are looking to add to our growing teams.
+Location: New York, NY
+Role Overview
+We are looking for a highly motivated Quantitative Research Intern to join our Equity Arbitrage Equity Derivatives team. This role provides an opportunity to
+work at the intersection of statistical modeling, financial markets, and systematic trading, with a specific focus on equity relative value and arbitrage
+strategies.
+As an intern, you will collaborate with portfolio managers and quantitative researchers to develop, test, and refine models that identify pricing inefficiencies
+across equities and related instruments. You will gain hands-on experience applying mathematical and statistical techniques to real-world trading problems while
+contributing directly to live research initiatives.
+Responsibilities
+- Analyze large-scale equity and market datasets to identify arbitrage opportunities and inefficiencies
+- Develop and implement quantitative models for equity arbitrage strategies (e.g., statistical arbitrage, factor-based relative value, pairs trading)
+- Conduct rigorous statistical testing, back testing, and validation of trading signals Collaborate with researchers and developers to enhance model performance
+and execution efficiency
+- Explore new data sources and features that improve predictive power
+- Contribute to research discussions and clearly communicate findings to the team
+- Assist in improving research infrastructure, data pipelines, and model robustness
+Qualifications & Experience
+- Pursuing a master's or Ph.D. in Mathematics, Statistics, Financial Engineering, or related field
+- Strong foundation in probability, statistics, linear algebra, and optimization
+- Experience with time series analysis, regression, and machine learning techniques
+- Proficiency in Python (or similar programming language) for data analysis and modeling
+- Ability to work with large datasets and extract meaningful insights
+- Interest in equity markets, arbitrage strategies, and systematic investing
+- Strong problem-solving ability and intellectual curiosity
+- Excellent communication skills and ability to work in a collaborative environment
+Compensation
+The estimated base salary range for this position is $182,000 for Master's students and $234,000 for Ph.D. students, which is specific to New York and may
+change in the future.
+We are an Equal Opportunity Employer
+As an employer, we believe every individual brings with them unique diversity of thought and perspectives to meaningfully enrich perspectives of Jain Global
+teams to drive competitive performance. We believe an inclusive environment can yield exceptional contributions.

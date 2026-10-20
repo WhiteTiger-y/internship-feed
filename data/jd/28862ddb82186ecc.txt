@@ -1,0 +1,58 @@
+When you join Verizon
+You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can learn, grow, and thrive. At
+Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love — driving innovation, creativity,
+and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in
+celebration, we come together — lifting our communities and building trust in how we show up, everywhere & always. Want in? Join the #VTeamLife.
+Launch your career where innovation meets immediate impact. As an intern at Verizon, you won't just join a specific business unit - you’ll gain broad exposure
+across our entire AI-first ecosystem. We value cross-disciplinary thinkers and offer rising seniors a true launchpad. High-performing interns may have the
+opportunity to be considered for our elite developmental rotational program, unlocking cross-organizational mobility and rapid skill development.
+We’re seeking future-focused builders who combine technical AI fluency with an innate drive to grow. Ideal candidates are agile problem solvers who think in
+systems, leverage data, and streamline complex processes. Crucially, we’re looking for leaders with the capacity to break down silos, influence cross-functional
+teams, build lasting trust, and navigate AI ethics with a customer-first lens—all while collaborating with mentors across business units to help shape the
+future of tech.
+What you’ll be doing...
+You and your team will be working on a real project in real time: it’ll be impactful and timely work that the business depends on. In recent summers, interns in
+Data Science have:
+- Partnered with Sales, Service, and CX business partners to deeply understand operational workflows and deliver high-impact data solutions.
+- Developed conversational UIs and integrated emerging AI capabilities, agents, and LLMs (such as Claude) into core business processes.
+- * Built and enhanced scalable data assets, dashboards, semantic layers, and gold layers to provide fast, reliable insights.
+In this hybrid internship, based out of Basking Ridge, NJ, you’ll have a defined work location that includes work from home and assigned office days set by your
+manager. If relocation is required, relocation assistance may be available.
+You’ll also join us for the Intern Marquee event in Basking Ridge, NJ, a unique, in-person experience designed exclusively for all US interns. This multi-day
+event is your chance to build your connections through structured networking and be inspired by top executives in a professional environment.
+Who We’re Looking For...
+Driven to perform at your personal best, you thrive in fast-paced environments where dynamic challenges require speed, adaptability, and an entrepreneurial
+mindset. You look beyond basic execution and use systems thinking, data-driven reasoning, and technical acumen to streamline complex processes and solve tough
+problems. Passionate about continuous learning, you take smart, calculated risks and lead with ethical judgment. You bring a collaborative, "One Team" spirit
+that breaks down silos and influences stakeholders across the business to deliver customer-centric impact.
+All Successful Applicants To This Role Will
+- Be currently enrolled in a Bachelor’s degree program with a graduation date between December 2027 - June 2028, and be in good academic standing.
+- Have the ability to participate in a full-time, hybrid, 10-week (temporary) internship between June 2027 to August 2027.
+- Have authorization to work in the U.S. without restrictions or need for future sponsorship.
+- Be willing and able to travel.
+- Be willing and able to relocate.
+- Demonstrate agile, clear, and persuasive written and verbal communication.
+- Bring experiences in advanced predictive analytics & data architecture, potentially demonstrated by work in transitioning systems from historical reporting to
+predictive, algorithmic forecasting, behavioral data modeling, or data structuring.
+Even better if you have one or more of the following:
+- Current enrollment in a Bachelor's degree program in one of the following majors: Artificial Intelligence (AI), Business Intelligence, Computer Engineering,
+Data Analytics, Data Science, Information Technology, Software Engineering, or a related major.
+- Hands-on experience or familiarity with Large Language Models (LLMs), agentic AI frameworks, or tools like Claude.
+- * Experience designing or building semantic data models, gold layer architectures, or interactive BI dashboards (e.g., Tableau, Power BI).
+- Demonstrated experience driving cross-functional projects, applying systems thinking, data-backed reasoning, and process simplification to solve complex
+problems and streamline workflows across matrixed teams.
+- A track record of rapid skill acquisition and entrepreneurial initiative, with proven ability to leverage technical/data literacy (including AI tools) to
+adapt to shifting priorities and deliver customer-centric outcomes.
+If Verizon and this role sound like a fit for you, we encourage you to apply even if you don't meet every "even better" qualification listed above. Interested
+in multiple roles? Please submit a separate application for each position you'd like to be considered for.
+The base pay rate for this position is $27.00/hour.
+Where you’ll be working
+In this hybrid role, you'll have a defined work location that includes working from home and a minimum of three days per week in the office, which will be set
+by your manager. Employees are responsible for maintaining compliance with hybrid work policies.
+Scheduled Weekly Hours
+40
+Equal Employment Opportunity
+Verizon is an equal opportunity employer. We evaluate qualified applicants without regard to veteran status, disability or other legally protected
+characteristics.
+In addition to building your skills and experiences, you will be eligible to participate in our robust 401(k) Savings Plan which provides a dollar-for-dollar
+company match on the first 6% of your contributions as a percentage of your eligible pay. You will also be eligible for holiday pay, as applicable.

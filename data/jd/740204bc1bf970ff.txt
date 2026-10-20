@@ -1,0 +1,55 @@
+Responsibilities
+We are looking for a highly skilled and innovative Software Engineer to join the STAR Treasury IT team and contribute to the development of LEIA, the AI-powered
+platform supporting Group Treasury activities. LEIA enables Treasury users to interact with data through natural language, generate dashboards and reports, and
+access advanced analytics with greater autonomy.
+The role sits at the intersection of software engineering, Generative AI, data analytics and Treasury business processes. The engineer will help design secure,
+scalable and maintainable solutions that reduce time-to-insight and accelerate business use cases.
+Required
+Profile required
+Software Development & Architecture
+- Design, develop and maintain backend and frontend components of LEIA.
+- Contribute to the evolution of the STAR AI ecosystem and its integration architecture.
+- Develop secure APIs and services providing controlled access to Treasury data.
+- Build scalable AI-powered applications and reusable technical components.
+- Participate in architecture reviews, technical design and code-quality practices.
+- Ensure performance, resilience, security, maintainability and production readiness.
+Artificial Intelligence & Data Engineering
+- Develop AI agents and orchestration workflows using modern agentic frameworks.
+- Implement Retrieval-Augmented Generation (RAG), semantic search and knowledge-retrieval patterns.
+- Integrate Large Language Models, tools and enterprise data sources through controlled interfaces.
+- Design data pipelines supporting Treasury analytics, reporting and visualization.
+- Evaluate emerging GenAI technologies and propose pragmatic improvements based on business value.
+DevOps, Security & Production
+- Contribute to CI/CD pipelines, automated testing and deployment processes.
+- Support cloud-native and containerized environments.
+- Implement monitoring, logging and observability practices.
+- Apply secure-development, identity-access-management and AI-governance principles.
+- Participate in production support, incident analysis and continuous improvement.
+Business Collaboration
+- Work closely with Treasury users, Business Analysts, Product Owners and STAR technical teams.
+- Translate business needs into clear, robust and sustainable technical solutions.
+- Help Treasury users become more autonomous through conversational and self-service analytics.
+- Explain complex technical topics clearly to both technical and business stakeholders.
+Business insight
+Societe Generale is committed to offering an inclusive recruitment experience to all candidates. If you require any reasonable accommodations during the
+recruitment process, please do not hesitate to let our Recruiters know.
+OUR CULTURE:
+At Societe Generale, we live by our 4 core values of commitment, responsibility, team spirit and innovation. We are engaged and demonstrate consideration for
+others. We act ethically and with courage. We focus our talent and energy on collective success. We experiment and propose new ideas. This way, we maximize our
+ability to serve client needs and anticipate market changes. Societe Generale is committed to strengthening bonds with colleagues, communities, and the world in
+which we live, because relationships are at the heart of how we operate. For more information about our Culture and Conduct initiatives, please visit this link
+(https://americas.societegenerale.com/en/careers/get-know-culture/)
+DIVERSITY, INCLUSION & BELONGING (“DIB”):
+Our DIB Mission: Recruit, develop, retain and advance a talented workforce that is united in our efforts to leverage our talent and further develop an inclusive
+environment that will enhance our competitive position and deliver innovative solutions to our clients. It seeks to foster an environment where employee
+differences are valued and where all employees feel engaged, supported, respected, and informed. For more information about our DIB initiatives, please visit
+this link: https://americas.societegenerale.com/en/careers/get-know-diversity/
+USE OF AI GUIDELINES FOR CANDIDATES:
+Société Générale permits responsible use of artificial intelligence (AI) in recruitment. Information provided by candidates must authentically reflect their own
+skills and experience. AI must not be used for real-time interview coaching, to complete assessments, or to generate responses during interviews. Misuse may
+undermine the integrity of the process and result in exclusion. This restriction does not apply to assistive technologies used for accessibility or disability-
+related purposes.
+COMPENSATION:
+Base salary range does not include overtime pay, bonus and/or other benefits, where applicable. Actual base salary offer will vary based on skills and
+experience. The role is eligible for an annual discretionary bonus and includes a competitive benefits package including 401(k) plan with company match,
+medical/dental/vision, and other benefits for fertility, wellness, student loans and commuters.

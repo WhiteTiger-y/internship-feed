@@ -1,0 +1,73 @@
+Job Req ID: 107579
+Job Type: Full-time
+Work Category: Onsite,
+Application Close Date: 11/15/2026
+Sponsorship: Not Available
+Compensation: $26.50 - $27.50 / hour
+Duration: 6 months (June - December, 2027)
+*Important Information*
+Applications will not be reviewed until the application close date.
+Candidates must be available for the entire duration of the internship to qualify.
+Gallo Privacy Policy
+We are GALLO
+We’re a family-owned company with a 90+ year legacy, that’s consistently recognized as a Glassdoor “Best Places to Work.” We have 130+ brands in our total
+alcohol beverage portfolio including wine, malt, spirits, and ready-to-drink beverages. We’re home to the #1 wine and spirits brands in the U.S. - Barefoot Wine
+& High Noon and are the official sponsors of the NFL, NHL, UFC, and PGA of America.
+View our Corporate Values and Mission Statement here.
+A Taste of What You’ll Do
+Join our team as a GIS (Geospatial Data Science) and be at the forefront of innovation in wine grape production. We are dedicated to fostering an inclusive
+environment where diverse talents and perspectives drive our success in advancing digital agriculture practices. As an intern, you will contribute to research
+and production support initiatives that aim to enhance yield, fruit composition, and wine quality. You will work alongside experts from various Winegrowing
+Research disciplines and collaborate with internal partners and leading industry and academic collaborators.
+You will process and analyze geospatial data from satellite and drone imagery, soil maps, climate information, and ground observations. Using machine learning,
+you will contribute to projects involving crop health monitoring, disease detection, yield prediction, and vine water status. You will also use Python, R, and
+cloud computing to automate spatial data processing and help develop accurate, high-quality spatial databases.
+- Interns will develop and apply GIS and remote sensing solutions for advancing vineyard management and grape production practices.
+- Assigned tasks include utilizing machine learning techniques to monitor crop health, disease detection, yield prediction, and vine water status.
+- Interns will learn how GIS is applied to wine grape production across a wide-range of California production regions, grape varieties, and growing practices.
+Embrace this opportunity to develop your skills and be part of a team that values innovation, collaboration, and diverse perspectives.
+What You’ll Need
+- Currently enrolled at a college or university and working towards a Bachelor’s degree or Master’s degree in the School of Computer Science, School of
+Engineering, Agricultural Sciences, Life Science, or Natural Resources; OR have obtained a Bachelor’s degree or Master’s degree in the School of Computer
+Science, Engineering, Agricultural Sciences or Natural Resources.
+- Available for the entire duration of the internship program area(s) of interest.
+- Strong applied technical skills and analytical problem-solving skills.
+- Good oral and written communication skills.
+- Requires availability to work evenings, weekends and holidays when necessary.
+- Required to be 21 years of age.
+Our Benefits & Perks
+To view a full job description, please click here.
+We are committed to providing competitive compensation, perks, and a culture that supports your well-being. Benefits depend on your work category and may
+include medical and dental coverage, 401k plans, profit sharing, pet insurance, company holidays, access to an employee wine shop, and more! Additional
+information will be provided before your first interview.
+The Fine Print
+- The Company does not sponsor for employment-based visas for this position now or in the future.
+- We offer a broad salary range to allow for long-term growth. Actual compensation paid within the range will be determined by multiple factors, including, but
+not limited to, education, experience, knowledge, skills and abilities, internal equity, and alignment with market data. Although we estimate the successful
+candidate hired into this role will be placed between the entry point and middle of the range, the decision will be made on a case-by-case basis related to
+these factors. In addition to the salary, this position may be eligible for bonuses, incentive plans, or participate in tasting room tip pools, as applicable.
+- This position will be based in the location(s) specified in the job posting and requires working on-site with no telecommuting option. You will be expected to
+live within a commutable distance.
+- It is the Company’s policy for job postings to be open to internal candidates for a minimum of 5 days and to external candidates, if applicable, for a minimum
+of 3 days.
+Gallo’s policy is to afford equal employment opportunities to all applicants and employees and not to discriminate on the basis of race, traits associated with
+race, including but not limited to, hair texture and protective hairstyles (such as braids, locks, and twists), color, national origin, ancestry, creed,
+religion, physical disability, mental disability, medical condition as defined by applicable state law (including cancer and predisposing genetic
+characteristics), genetic information, marital status, familial status, sex, gender, gender identity, gender expression, sexual orientation (actual or
+perceived), transgender status, sex stereotyping, pregnancy, childbirth or related medical conditions, reproductive health decision making, age, military or
+veteran status, domestic violence or sexual assault victim status, or any other basis protected by applicable law. Nor will Gallo discriminate based on a
+perception that an individual has any of the foregoing characteristics or is associated with a person who has, or is perceived to have, any of those
+characteristics.
+Gallo will comply with state and local laws prohibiting discrimination for lawful out-of-work behavior, such as off-duty use of cannabis away from the workplace
+(subject to federal and state law exceptions), the existence of non-psychoactive cannabis metabolites in hair, blood, urine, or other bodily fluids as
+determined by a drug screening test (subject to federal and state law exceptions).
+We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gallo is committed to providing
+reasonable accommodation for candidates with disabilities in our recruiting process. If you need any assistance or accommodation due to a disability, please let
+us know at 209.341.7000.
+Gallo is enrolled in the Department of Homeland Security's E-Verify program and will use the program to verify the employment eligibility of all newly hired
+employees as required.
+E-Verify Notice
+Right to Work
+Employee Polygraph Protection Act
+Family Medical Leave Act
+USERRA Notice

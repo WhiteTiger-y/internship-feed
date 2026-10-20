@@ -1,0 +1,43 @@
+Company : Highmark Inc. Job Description : Applicants must be authorized to work in the U.S. independently. At this time, we do not offer visa sponsorship for
+this role. The Summer 2027 Data Analyst Undergraduate Internship provides students with an opportunity to gain practical, hands-on experience developing and
+supporting enterprise analytics and data solutions within a complex healthcare environment. This internship is designed to develop the next generation of data
+and analytics professionals through direct exposure to data engineering, analytics, business intelligence, data management, and large-scale enterprise data
+platforms. As a member of the analytics team, the intern will work closely with business, analytics, technology, and data teams to build, maintain, and enhance
+data solutions that support critical business decision-making across the organization. Participants will gain valuable experience working with large, complex
+datasets while developing technical skills in data ingestion, transformation, integration, testing, and delivery. The program provides hands-on training and
+exposure to modern data platforms, cloud technologies, data warehouses, and Big Data environments. Interns will contribute to meaningful projects focused on
+building and maintaining analytic data assets, supporting enterprise reporting and analytics needs, and improving data accessibility for analysts, data
+scientists, and business stakeholders. Typical responsibilities include developing and maintaining data pipelines, coding data transformation and delivery
+processes, supporting enterprise data platforms, participating in testing and implementation activities, collaborating with data engineers and analysts,
+performing data quality activities, and contributing to data governance and metadata management efforts. Through mentorship, technical training, and project-
+based learning, interns will build a strong foundation in data analytics, data engineering, and enterprise information management while supporting initiatives
+that drive business value throughout the organization. SUMMARY OF JOB RESPONSIBILITIES This job has the goal of providing the opportunity to acquire practical
+experience through direct exposure to the related business line(s) and to develop the next generation of diverse business professionals. To that end, the
+program will provide hands-on training and experience in the business line, expose the various career opportunities in the business line and related areas, and
+prepare participants for positions in the business. Typical responsibilities include, providing services to the day-to-day operating objectives of the assigned
+area, participating in projects and programs appropriate to the needs of the assigned area, participating in the planning and implementation of projects and
+initiatives, conducting research and reporting including recommendations or proposals for action. REQUIRED QUALIFICATIONS Full or part-time enrollment in an
+accredited college or university baccalaureate program. PREFERRED QUALIFICATIONS Currently pursuing a degree in Data Science related program. ESSENTIAL JOB
+FUNCTIONS 1. Communicate effectively while interacting directly with colleagues, clientele, and/or other internal or external constituencies in the planning of
+assignments and the resolution of day-to-day operational problems. 2. Under supervision, provide entry-level professional services as appropriate to the day-to-
+day operating objectives of the area. Receives guidance, training, and mentoring from senior personnel in planning and carrying out activities and assignments.
+3. Undertake and/or participates in projects and programs designed to develop professional skills and expertise appropriate to the needs of the organization. 4.
+Participate in the planning and implementation of unit projects and initiatives within area of expertise and ability. 5. As specifically requested by
+management, conduct research and reporting inclusive of recommendations or alternative proposals for action. 6. Undertake related studies or enrichment programs
+as appropriate to the specific objectives of the operating unit. 7. Perform miscellaneous job-related duties as assigned. Disclaimer: The job description has
+been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within this job title. It may not contain
+a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job. Compliance Requirement: This position
+adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and company policies As a component of job
+responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must be protected at all
+times. In connection with this, all employees must comply with both the Health Insurance Portability Accountability Act of 1996 (HIPAA) as described in the
+Notice of Privacy Practices and Privacy Policies and Procedures as well as all data security guidelines established within the Company’s Handbook of Privacy
+Policies and Practices and Information Security Policy. Furthermore, it is every employee’s responsibility to comply with the company’s Code of Business
+Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and training
+requirements. Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or
+individuals with disabilities and prohibit discrimination against all individuals based on any category protected by applicable federal, state, or local law.
+California Consumer Privacy Act Employees, Contractors, and Applicants Notice Highmark Health is a national, blended health organization that includes one of
+America’s largest Blue Cross Blue Shield insurers and a growing regional hospital and physician network. Based in Pittsburgh, Pa., Highmark Health’s 35,000
+employees serve millions of customers nationwide through the nonprofit organization’s affiliated businesses, which include Highmark Inc., Allegheny Health
+Network, HM Insurance Group, United Concordia Dental, HM Health Solutions and HM Home & Community Services. Highmark Health’s businesses proudly serve a broad
+spectrum of health-related needs including health insurance, health care delivery, population health management, dental solutions, reinsurance solutions, and
+innovative, technology solutions.

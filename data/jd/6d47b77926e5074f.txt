@@ -1,0 +1,54 @@
+Location: Santa Clara, CA
+Job Schedule: Full-time, 12-week program
+Degree Level: Master's or PhD
+Preferred Degree: Computer Science, Robotics, Artificial Intelligence/Machine Learning, Electrical Engineering, or a related field
+Sponsorship: Not Available
+Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation
+We are currently looking for an AI Autonomous Driving Verification & Validation Intern to join our team in Santa Clara, CA. Join a team developing the next
+generation of AI-powered autonomous driving systems. We focus on verification and validation (V&V) of end-to-end autonomy, ensuring these systems are safe,
+reliable, and robust across real-world and simulated driving environments. As an intern, you will work alongside engineers and researchers to develop testing,
+simulation, and evaluation frameworks for autonomous vehicles. You will analyze driving behavior, investigate system performance, and apply AI and data-driven
+techniques to help advance the validation of cutting-edge autonomous driving technologies. This opportunity is ideal for students passionate about autonomous
+vehicles, artificial intelligence, machine learning, robotics, and large-scale system evaluation, offering hands-on experience solving real-world challenges
+that will help define the future of autonomous mobility.
+A Day in the Life:
+- Design and execute simulation-based tests for AI-powered autonomous driving systems.
+- Develop data-driven tools, performance metrics, and analysis workflows to evaluate autonomous system behavior and reliability.
+- Apply machine learning and AI techniques to automate testing, validation, and performance monitoring processes.
+- Analyze large-scale driving datasets to investigate system performance and identify opportunities for improvement.
+- Collaborate with engineers and researchers to support the development of safe, robust, and scalable autonomous driving solutions.
+Who We're Looking For:
+Required:
+- Must be currently enrolled in a Master's or PhD degree program in Computer Science, Robotics, Artificial Intelligence/Machine Learning, Electrical
+Engineering, or a related field.
+- Strong foundation in machine learning, artificial intelligence, and data-driven systems development.
+- Experience designing experiments, conducting research, analyzing data, and communicating technical findings.
+- Proficiency in Python and modern machine learning frameworks such as PyTorch, TensorFlow, or similar technologies.
+- Familiarity with simulation environments, autonomous systems, robotics, or advanced driver assistance technologies.
+- Strong analytical and problem-solving skills with the ability to evaluate complex system performance.
+- Interest in autonomous systems, simulation-based testing, safety validation, and end-to-end AI driving solutions.
+- Ability to work effectively in a collaborative research and development environment.
+- GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)
+- Ability to perform work onsite at Franklin, TN.
+What You'll Look Forward to at Nissan:
+Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from
+similar and diverse backgrounds to foster a culture of belonging.
+Professional Training and Development: Expand your knowledge and skills through Nissan's rich innovation offerings, seminars, learning platforms and leadership
+trainings.
+Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with
+Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance
+Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.
+It is Nissan's policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status
+protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment
+eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.
+NISSAN FOR EVERYONE
+People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team. When everyone belongs, the power of NISSAN is
+undeniable. Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.
+Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard. We have Business
+Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture
+where all employees feel supported and included.
+Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are
+committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our
+customers competitively designed, market-driven products.
+Join us as we carry our commitment to our employees and customers into the future.
+Santa Clara California United States of America

@@ -1,0 +1,27 @@
+We are looking for a graduate student interested in advancing the field of multimodal scene understanding, focusing on scene understanding using natural
+language for robot dialog and/or indoor monitoring with a large language model. The intern will collaborate with MERL researchers to derive and implement new
+models and optimization methods, conduct experiments, and prepare results for publication. Internships regularly lead to one or more publications in top-tier
+venues, which can later become part of the intern's doctoral work. The ideal candidates are senior Ph.D. students with experience in deep learning for audio-
+visual, signal, and natural language processing. Good programming skills in Python and knowledge of deep learning frameworks such as PyTorch are essential.
+Multiple positions are available with a flexible start date (not just Spring/Summer but throughout 2027) and duration (typically 3-6 months).
+Required Specific Experience
+- Experience with ROS2, C/C++, Python, and deep learning frameworks such as PyTorch are essential.
+The pay range for this internship position will be 6-8K per month.
+Mitsubishi Electric Research Labs, Inc. "MERL" provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to
+race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, MERL complies with applicable state and local
+laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of
+employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+MERL expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national
+origin, age, genetic information, disability, or veteran status. Improper interference with the ability of MERL’s employees to perform their job duties may
+result in discipline up to and including discharge.
+Working at MERL requires full authorization to work in the U.S and access to technology, software and other information that is subject to governmental access
+control restrictions, due to export controls. Employment is conditioned on continued full authorization to work in the U.S and the availability of government
+authorization for the release of these items, which might include without limitation, obtaining an export license or other documentation. MERL may delay
+commencement of employment, rescind an offer of employment, terminate employment, and/or modify job responsibilities, compensation, benefits, and/or access to
+MERL facilities and information systems, as MERL deems appropriate, to ensure practical compliance with applicable employment law and government access control
+restrictions.
+In addition to base pay, interns receive a relocation stipend, covered travel to and from MERL, and a monthly Charlie Card for local commuting. Interns are
+invited to participate in weekly social gatherings and professional development opportunities, including research talks by both internal and external speakers.
+Interns who meet the 90-day waiting period are also eligible for health insurance coverage. MERL provides immigration support for qualified candidates as
+needed. Employment is considered “at-will,” and the Company reserves the right to modify base salary or any other compensation program at any time, including
+for reasons related to individual performance, departmental or Company performance, and market conditions.

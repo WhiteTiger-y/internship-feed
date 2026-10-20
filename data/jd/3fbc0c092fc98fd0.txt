@@ -1,0 +1,70 @@
+Job Type
+Internship
+Description
+Why Work at Paylocity
+Paylocity is an award-winning provider of cloud-based HR and payroll software solutions, offering the most complete platform for the modern workforce. The
+company has become one of the fastest-growing HCM software providers worldwide by offering an intuitive, easy-to-use product suite that helps businesses
+automate and streamline HR and payroll processes, attract and retain talent, and build a strong workplace culture. While traditional HR and payroll providers
+automate basic HR processes such as payroll and benefits administration, Paylocity goes further by developing tools that HR and businesses need to compete for
+talent and deliver against the expectations of the modern workforce.
+Early Careers
+Bring your talent and eagerness to learn to Paylocity, where you’ll discover the skills needed to launch your career!
+Benefit from award-winning training and one-on-one coaching as you play a key role in Paylocity’s future with an early careers position.
+Explore how you can go from the classroom to the conference room with internships and new-grad programs at one of Glassdoor's Best Places to Work.
+Experience the support that’ll take you from grad to a flourishing career with a position in Paylocity’s early careers division!
+Position Overview
+Paylocity is growing its Machine Learning Engineering organization. Our Machine Learning Engineering team develops infrastructure and tooling that enable data-
+driven decisions and AI/ML experiences at scale for millions of Paylocity users.
+As a Machine Learning Engineer Intern in Product & Technology, you will contribute to well-scoped machine learning engineering work with mentorship and guidance
+from experienced engineers. You will gain hands-on experience building, testing, and improving ML software, data and modeling pipelines, and supporting
+infrastructure. You will collaborate closely with Machine Learning Engineers, Data Scientists, Data Engineers, DevOps, and other platform teams to learn how
+reliable ML solutions are designed and delivered in production environments.
+This internship is designed as a learning experience: you are not expected to independently own production systems or architecture. Instead, you will work on
+meaningful scoped projects, ask questions, incorporate feedback, and develop the engineering judgment needed for an early-career Machine Learning Engineer.
+In-Office: This role is intended to be based in Rochester, New York. Interns are expected to work on-site in the designated office environment and participate
+in Paylocity's internship programming, including the P&T internship summit in Schaumburg, Illinois.
+Our Team Is
+- Building infrastructure that can power ML and AI features for millions of users.
+- Building and deploying AI capabilities that help customers get more value from the Paylocity platform.
+- Treating responsible AI and AI ethics as first-class considerations in our engineering processes.
+- Working collaboratively across Machine Learning Engineering, Data Science, Data Engineering, DevOps, security, and platform teams.
+- Invested in learning and applying modern machine learning engineering tools, technologies, and practices.
+Primary Responsibilities
+The responsibilities below represent the primary duties of the role. With support from mentors and teammates, you will:
+- Contribute to the design, implementation, testing, and improvement of shared AI platform capabilities and services within a defined project scope.
+- Build on top of AI platform components to support new AI-powered product experiences, including agent workflows, model integrations, and reusable platform
+tooling.
+- Contribute to building or improving conversational interfaces and experiences, including request handling, conversation flows, context management, and
+integration with backend services or agents.
+- Help develop and improve AI observability and evaluation capabilities, including tracing, metrics, quality evaluation, debugging, and monitoring of AI or
+agent behavior.
+- Write clean, maintainable, and well-documented Python code following established engineering standards and best practices.
+- Collaborate with Data Science and Data Engineering partners to help integrate models and data workflows into reliable software solutions.
+- Contribute to automated testing, CI/CD workflows, monitoring, and troubleshooting for assigned ML engineering work.
+- Investigate bugs and technical issues with guidance, document findings, and participate in root-cause analysis and problem resolution.
+- Participate in code reviews, incorporate feedback, and learn how engineering teams balance quality, reliability, scalability, and delivery.
+- Participate actively in agile ceremonies, technical discussions, and cross-functional meetings.
+- Document technical decisions, implementation details, and lessons learned from internship projects.
+Required Qualifications
+- Currently pursuing a Master’s degree in Computer Science, Machine Learning, Data Science, Data Engineering, Software Engineering, Statistics, Mathematics, or
+a related quantitative or technical field.
+- Foundational programming experience in Python through coursework, academic projects, research, hackathons, or other practical work.
+- Foundational understanding of software engineering concepts such as data structures, algorithms, testing, version control, and debugging.
+- Coursework, academic, research, or project experience with AI/ML systems, including exposure to AI observability or evaluation concepts such as tracing,
+quality metrics, model or agent evaluation, prompt/response analysis, or related evaluation frameworks.
+- Familiarity with Git or another version control system.
+- Ability to work effectively in a collaborative, team-oriented environment and to seek guidance when needed.
+- Strong curiosity, attention to detail, and willingness to learn unfamiliar tools and technologies.
+- Ability to communicate technical ideas clearly in written and verbal discussions.
+Preferred Skills
+- Experience leveraging AI-assisted coding agents or developer tools such as Claude Code, Cursor, GitHub Copilot, or similar tools to support software
+development, debugging, testing, or technical problem solving.
+- Academic, research, internship, or personal project experience building machine learning applications in Python.
+- Exposure to data engineering or distributed computing concepts, including Spark, Databricks, or similar technologies.
+- Familiarity with cloud platforms such as AWS, GCP, or Azure.
+- Exposure to APIs, containers, CI/CD, Infrastructure as Code, or other modern software delivery practices.
+- Interest in generative AI, recommendation systems, ML platforms, MLOps, or responsible AI.
+- Contributions to open-source software or participation in technical clubs, hackathons, competitions, or research projects.
+What You Will Learn
+- How machine learning solutions move from experimentation into reliable, maintainable software.
+- How ML e

@@ -1,0 +1,78 @@
+WORK OPTION: The NBA currently provides eligible employees the option of working remotely one day per week.
+_________________
+Position Summary
+The 2027 NBA Summer Internship is a 10-week program that runs from June 7 – August 13, 2027. The program gives participants the opportunity to learn about the
+business of basketball, develop critical career skills, and contribute to meaningful projects across a range of departments in the NBA and its affiliate leagues
+(WNBA & G League). In addition to on-the-job experience, interns are invited to participate in a broad array of professional development programming as well as
+community and social experiences.
+Interns should reflect excellent academic standing and have strong written and verbal communication skills. Additionally, we look for candidates who possess
+leadership skills as demonstrated through relevant extracurricular or community activities.
+More information on the Summer Internship Program experience can be found here.
+Role Overview
+The Artificial Intelligence Project Intern will join a specialized cohort focused on building AI products and processes that improve the NBA’s league and
+commercial operations. As part of a core project team managed by NBA AI and technology leaders, this intern will support the NBA in using AI, including agentic
+solutions, across fan experience, basketball operations, player health and enterprise applications. The goal is to transform workflows, improve efficiency and
+raise the quality of work. Interns contribute directly to that effort.
+This role is designed for students who demonstrate strong interest and experience in technology, engineering, artificial intelligence, business consulting, and
+data-driven problem solving.
+This role requires interns to demonstrate a foundational mastery of AI technologies in driving project execution and achieving business objectives.
+Major priority areas will include the application of Artificial Intelligence to fan experience, basketball operations, player health, and other business areas
+as needed.
+Major Responsibilities
+As an AI Project Intern, you will:
+- Identify areas where AI can improve business processes and enterprise applications across the organization
+- Develop and test AI-enabled prototypes that address operational needs across multiple business and basketball functions
+- Support end-to-end development cycles, including problem definition, data acquisition, model creation, evaluation, and stakeholder demo
+- Translate business needs into AI/ML solution frameworks under guidance from AI and data governance leaders
+- Work within a project team to maintain quality, alignment, and responsible AI practices
+- Evaluate and determine new AI use case implementation for current workflows or emerging initiatives
+- Document methodologies, workflows, and findings to ensure transferability and scale
+Projects are confirmed each spring based on league priorities. 2027 projects are expected to fall within five areas:
+- Enterprise Applications: for example, building agentic and AI solutions that redesign workflows across league office functions such as Finance,
+Communications, Events, HR, Legal and IT.
+- Basketball Operations & Research: for example, building visual outputs for basketball, media and fans and supporting analytics for officiating, scheduling and
+game operations.
+- Player Health: for example, building tools that help medical and performance staff support league-wide biomechanics and player-health data programs.
+- Fan Experience: for example, AI-powered personalization, recommendations and assistants across NBA platforms.
+- Data Intelligence & Platform Analytics: for example, building data pipelines, retrieval and search over NBA data, and AI-assisted reporting and dashboards.
+Required Education & Professional Experience
+- Currently enrolled in a Bachelor’s (rising Seniors only) or graduate level degree in Artificial Intelligence, Computer Science, Data Science, Engineering,
+Information Systems, Statistics, or related field
+- Relevant coursework, projects, or experience with AI tools or ML techniques
+- Prior internship or hands-on project experience in technology or applied AI preferred
+- Strong academic standing and demonstrated leadership through extracurricular or community experience, consistent with NBA internship criteria
+Required Qualifications
+Technical Skills & Knowledge Attributes:
+- Currently enrolled in a bachelor's degree (rising seniors) or a graduate degree in AI, Computer Science, Data Science, Engineering, Information Systems,
+Statistics or a related field
+- Working knowledge of Python and SQL
+- Has built at least one AI-powered app or automation, through coursework, personal projects, research or hackathons
+- Understands how large language models work, including their limits
+- Familiar with APIs, Git and software testing, and able to explain and check code written with AI coding assistants
+- Handles data and access securely
+- Strong communication skills, including explaining technical work to non-technical audiences
+- Works well in a team and can manage several priorities at once
+Preferred Experience
+- Building AI agents or multi-step workflows, including tool calling, MCP or reusable skills
+- Retrieval-augmented generation (RAG) and search over source material
+- AI coding and development tools, such as Claude Code, OpenAI Codex, Amazon Bedrock or Microsoft Copilot Studio
+- Testing and measuring AI quality, such as accuracy, speed and cost
+- Product design and building user interfaces for AI tools
+- For basketball or player health projects: computer vision, 3D or game engines (e.g., Unreal Engine), or sensor data
+- A prior internship or project in technology or applied AI
+Salary Range
+Undergraduate: $32/hr
+Graduate: $40/hr
+Job Posting Title
+Summer Intern
+Employees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical; short-term
+disability; mental health coaching/therapy; and sick time.
+Eligibility Note: Not all positions are eligible for these benefits; eligibility may vary by role.
+We Consider Applicants For All Positions On The Basis Of Merit, Qualifications And Business Needs, And Without Regard To Race, Color, National Origin, Religion,
+Sex, Gender Identity, Age, Disability, Alienage Or Citizenship Status, Ancestry, Marital Status, Creed, Genetic Predisposition Or Carrier Status, Sexual
+Orientation, Veteran Status, Familial Status, Status As A Victim Of Domestic Violence Or Any Other Status Or Characteristic Protected By Applicable Federal,
+State, Or Local Law.
+About The NBA
+The National Basketball Association (NBA) is a global sports and media organization with the mission to inspire and connect people everywhere through the power
+of basketball. Built around five professional sports leagues: the NBA, WNBA, NBA G League, NBA 2K League and Basketball Africa League, the NBA has established a
+major international presence with games and programming avail

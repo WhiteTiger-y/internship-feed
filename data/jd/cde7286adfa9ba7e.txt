@@ -1,0 +1,37 @@
+Job Description Summary
+Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova:
+to continue electrifying the world while simultaneously working to help decarbonize it.
+Innovation
+Are you passionate about innovation? Are you excited at the opportunity to electrify and decarbonize the world?
+We operate with a founder’s mindset. We deliver innovation with passion, speed, and courage. We continuously challenge our thinking and are empowered to dream
+big and take smart risks.
+What impact you’ll make
+As a student of the advanced analytics team, Software and Controls Solutions, you will be an active contributor to improving energy companies’ plant efficiency
+and operation through predictive and prescriptive analytics.
+Job Description
+What you’ll do (Job Responsibilities)
+- Contribute to the design, implementation, and validation of algorithms that improve software alert relevance and operational efficiency.
+- Collaborate with domain experts to validate detected patterns and ensure alignment with operational realities.
+- Integrate algorithmic solutions with existing equipment monitoring platforms, ensuring scalability and robustness.
+- Participate in the evaluation of algorithm performance using documented metrics such as false alarm reduction rates and pattern detection accuracy.
+- Document all work clearly in accordance with project standards for reproducibility and knowledge sharing.
+What You’ll Bring (Basic Qualifications)
+- Enrollment in a Bachelors, Masters, or PhD program in Computer Science, Data Science, Computer Engineering, or related field.
+- Foundational knowledge in temporal pattern recognition, time-series analysis, or related ML techniques
+- Experience with Python and ML libraries (e.g., scikit-learn, TensorFlow, PyTorch).
+- Ability to interpret technical documentation and contribute to collaborative software development projects.
+What Will Make You Stand Out (Desired Qualifications)
+- Prior experience with industrial sensor data, anomaly detection, or event classification.
+- Familiarity with statistical analysis and clustering algorithms.
+- Familiarity with Jupyter and cloud-based environments.
+- Knowledge of version control systems (Git) and collaborative project tools (Confluence, Jira).
+Additional Information
+GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity
+Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or
+expression, age, disability, protected veteran status or other characteristics protected by law.
+GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the
+successful completion of a drug screen (as applicable).
+Relocation Assistance Provided: No
+For Candidates Applying To a U.S. Based Position Only
+This posting is expected to remain open for at least seven days after it was posted on September 28, 2026.
+U.S. Internship roles are ineligible for GE Vernova benefits.

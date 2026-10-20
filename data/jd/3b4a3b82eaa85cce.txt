@@ -1,0 +1,68 @@
+Overview
+The Cognitive and Generative AI Engineering team, part of the Enterprise Data and Information Management (EDIM) organization, builds innovative AI solutions
+that help scale AI adoption across Navy Federal Credit Union.
+Our team operates the AI Center for Enablement, where we design, develop, and support cutting edge AI systems for real business use cases. We work with Large
+Language Models (LLMs) and other advanced AI technologies to solve complex problems, create reusable components, and make AI accessible across the enterprise.
+- A requirement of this position is you must be currently enrolled in college level courses or a degree-seeking program throughout the duration of the
+internship. Please upload your transcripts by adding them to the “Intern Proof of Enrollment” section of the application.
+Responsibilities
+- Assist with AI Engineering tasks and projects
+- Develop and prototype AI agents, copilots, and intelligent workflows using enterprise AI platforms and modern LLM technologies
+- Contribute to AI platform engineering, model evaluation, governance, and observability to support responsible AI adoption
+- Partner with engineers and business stakeholders to deliver AI solutions, analyze results, and accelerate enterprise AI innovation
+- Perform research and analysis; may include quantitative and/or qualitative analysis
+- Maintain professionalism in all interactions, placing member service as priority
+- Provide comprehensive day-to-day operational support
+- Provide support in functional areas of the credit union
+- Perform other duties as assigned
+Qualifications
+- Currently pursuing a degree from an accredited college or university
+- Strong foundation in Computer Science or Data Science
+- Experience with programming languages such as Python
+- Adaptability to new technologies
+- Strong research, analytical, and problem-solving abilities
+- Ability to work independently and collaboratively in a team environment
+- Effective communication skills and a commitment to self-development
+- Strong organizational, planning, and time management skills
+Desired
+- Understanding of Generative-AI concepts and Large Language Models (LLMs), including their applications and limitations
+- Familiarity with Prompt Engineering, AI search techniques, vector databases, and Retrieval-Augmented Generation (RAG) frameworks
+- Knowledge of Data Engineering, APIs, and cloud development
+Hours: Monday - Friday, 8:00AM - 4:30PM (minimum of 20-25 hours a week, based on school schedule)
+Location:
+820 Follin Lane SE, Vienna, VA 22180
+About Us
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce
+appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+Our approach to careers is simple yet powerful: Make our mission your passion.
+- FORTUNE 100 Best Companies to Work For® 2026
+- Yello and WayUp Top 100 Internship Programs 2025
+- Computerworld® Best Places to Work in IT 2026
+- Most Loved Workplace – America’s Top Most Loved Workplaces® 2025
+- 2025 PEOPLE® Companies That Care
+- Newsweek Most Trustworthy Companies in America 2026
+- Military Times 2025 Best for Vets Employers
+- Forbes® 2026 America's Best Large Employers
+- Forbes® 2025 America's Best Employers for New Grads
+- Forbes® 2025 America's Best Employers for Tech Workers
+- 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+- Military.com Top Military Spouse Employers 2025
+- 2026 Handshake Early Talent Award
+- Newsweek America’s Greatest Workplaces for Culture, Belonging and Community 2026
+From Fortune Magazine. © 2026 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 100 Best Companies to Work For are
+registered trademarks of Fortune Media IP Limited and are used under license. Fortune Magazine, Fortune Media (USA) Corporation, and its affiliates are not
+affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national
+origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring
+process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot
+provide any information on job postings or application status.
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete
+for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on
+qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within
+the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page
+of the Navy Federal Career Site.
+Protect Yourself from Job Scams: Navy Federal Credit Union jobs are posted on our career site, jobs.navyfederal.org and reputable job boards (e.g., LinkedIn,
+Indeed). We do not post jobs on social media marketplaces, messaging apps or unverified websites. We will never ask candidates for payment, bank details or
+personal financial information during the hiring process.
+Bank Secrecy Act: Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.

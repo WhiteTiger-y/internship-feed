@@ -1,0 +1,71 @@
+Job Description
+Applied Machine Learning and AI Engineering Intern
+Come Create at Ricoh
+If you are seeking a team driven by passion and purpose, come create with us at Ricoh. We are a team of information seekers and customer-obsessed collaborators
+who aspire to deliver the services, solutions, and technologies that empower business success. We are looking for talented, inspired individuals to join us
+during the summer of 2027 to help drive high-performance teams and our commitment to excellence.
+Ricoh is an integrated solutions provider and partner that connects people and technology, creates outstanding customer experiences, and delivers innovation for
+businesses worldwide. We empower digital workplaces by enabling individuals to work smarter from any location and harness the power of information—how it is
+collected, stored, managed, and shared—to unlock the potential in every organization. We deliver services and technologies that inspire our customers’ success
+and guide them toward a better and more sustainable future. If you are seeking a purpose-driven and passionate team, come create with us, and help drive our
+high-performance culture of excellence into tomorrow.
+Position Profile
+Ricoh is seeking a highly motivated summer intern to help build an AI-powered globalization platform that translates our product documentation and software into
+eleven languages. Our translation process has already moved from fully manual to hybrid automation, and the next step is to bring translation fully in-house: an
+automated, AI-driven pipeline that reduces turnaround from weeks to a single day while raising translation quality and consistency.
+The intern will join this project during its validation and pilot phases, working on the machine learning and engineering problems that determine whether an
+automated translation can be trusted enough to ship to customers. This is applied work on a system with real users, measurable cost impact, and a clear path to
+production.
+Examples Of Summer Projects
+- Build and run evaluation methods that measure machine translation quality across multiple languages, and help define what “good enough to ship” means for
+customer-facing content.
+- Develop a terminology checker that enforces Ricoh product terminology and brand language consistently across every supported language.
+- Implement delta translation—detecting and translating only changed content—to cut token cost and processing time on document updates.
+- Work with large language models to improve translation accuracy on structured technical content, including XML-based documentation, tagging, and formatting
+preservation.
+- Help automate the end-to-end pipeline that receives translation packages from development teams, processes them, and checks completed translations back into
+source control.
+- Analyze and refine AI outputs to improve accuracy and usability, and present findings to cross-functional development, documentation, and localization teams.
+Job Duties And Responsibilities
+- Contribute working code to an active engineering project alongside full-time engineers.
+- Design and execute experiments to evaluate model and pipeline performance, and document the results.
+- Collaborate with cross-functional teams across documentation, software development, and infrastructure.
+- Present progress and final results to technical stakeholders and department leadership.
+Qualifications (Education, Experience, And Certifications)
+- Working towards an M.S. or Ph.D. degree in Computer Science, Computer Engineering, Data Science, Linguistics/Computational Linguistics, or a related field
+- Student must be currently enrolled in an accredited graduate program, or completing an undergraduate degree and enrolled to continue their education in an
+accredited graduate program
+- Students must have a cumulative GPA of 3.0 or higher
+- Students are to successfully complete all required screenings prior to hire
+Knowledge, Skills, And Abilities Required Skills
+- Excellent programming skills in Python, with a good understanding of data structures, software design principles, and algorithms
+- Familiarity with AI/ML concepts, natural language processing, and data processing
+- Strong analytical and problem-solving skills, including the ability to design a fair evaluation of a system’s output
+- Ability to work independently and collaborate with a team
+- Interest in language technology, AI-driven automation, and process optimization
+Preferred Skills
+- Hands-on experience working with large language models or generative AI APIs, including prompt design and output evaluation
+- Experience using Claude and AI-assisted development workflows in Visual Studio Code, or comparable AI developer tooling
+- Experience with machine translation, internationalization/localization, or multilingual datasets
+- Familiarity with structured document formats (XML, DITA, JSON, YAML) and text parsing
+- Experience with cloud services (AWS) and building or consuming REST APIs
+- Working knowledge of Git and standard software development workflows
+- Reading or speaking proficiency in a second language, particularly Japanese, German, French, Spanish, Chinese, or Korean
+- Skilled in explaining and presenting analyses and machine learning concepts to a broad technical audience
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be
+an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.
+Ricoh is an EEO/Affirmative Action Employer -- Minorities/Women/Protected Veterans/Disabled.
+About Us
+Come Create at Ricoh:
+If you are seeking a team driven by passion and purpose, come create with us at Ricoh. We are a team of information seekers and customer-obsessed collaborators
+who aspire to deliver the services, solutions, and technologies that empower business success. We are looking for talented, inspired individuals to join us to
+help drive high-performance team and our commitment to excellence.
+Ricoh is an integrated solutions provider and partner that connects people and technology, creates outstanding customer experiences, and delivers innovation for
+businesses worldwide. We empower digital workplaces by enabling individuals to work smarter from any location and harness the power of information—how it is
+collected, stored, managed, and shared—to unlock the potential in every organization. We deliver services and technologies that inspire our customers’ success
+and guide them toward a better and more sustainable future. If you are seeking a purpose-driven and passionate team, come create with us, and help drive our
+high-performance culture of excellence into tomorrow.
+Invest In Yourself
+At Ricoh, you can:
+- Choose from a broad selection of medical, dental, life, and disability insurance options.
+- Contribute to your financial security with Retirement Savings Plan (401K), Health Savings Account (HSA), and Flexible S

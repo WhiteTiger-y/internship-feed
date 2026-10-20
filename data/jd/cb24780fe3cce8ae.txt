@@ -1,0 +1,69 @@
+our readers will experience our journalism, from print to audio to a world-class digital and app destination. And it’s why our business strategy centers on
+making journalism so good that it’s worth paying for.
+Join the 2027 New York Times Fellowship class as an A.I. Initiatives fellow in New York.
+We are looking for a fellow who will bring a mix of machine-learning and journalism experience to newsroom reporting projects. You will work with journalists
+across departments to identify, develop and execute projects that use the power of artificial intelligence, machine learning and data science techniques to
+address investigative challenges. You will be part of the A.I. Initiatives team , which includes editors, engineers and a product designer.
+This is an in-office position and includes regular attendance in the office four days each week. There may be some flexibility to work remotely per your
+departmental guidance. You may be required to work some nights, weekends and holidays as needed.
+Responsibilities:
+- Collaborate with investigative reporters to support projects that benefit from A.I., including large-scale research, transcription, translation, document
+search, language analysis and computer vision tasks
+- Identify opportunities and experiment with responsible A.I. tools to empower the newsroom
+- Participate in training and social programs designed for the fellowship
+- Demonstrate support and understanding of our value of journalistic independence and a strong commitment to our mission to seek the truth and help people
+understand the world
+Basic Qualifications:
+- No more than five years of full-time, professional experience in journalism and/or machine learning
+- Technical proficiency and experience analyzing data, developing applications and conducting research with machine-learning models
+- Editorial experience, such as interning in a newsroom or working on a college newspaper
+- Engineering skills and experience with APIs, front-end web applications and databases
+- Recent experience working with LLMs and other machine-learning models
+- Interest in the intersection of journalism and artificial intelligence
+- Understanding of ethical considerations surrounding the use of A.I. in journalism
+Preferred Qualifications :
+- Record of multiple news or opinion journalism internships, or equivalent experience
+- Work demonstrating experience applying A.I. to real-world problems
+- Experience working with large datasets and cloud computing platforms
+- Experience working with Svelte or similar front-end frameworks
+To apply, upload a résumé and cover letter. The application will prompt you when to upload materials. Applications that fail to include any of these materials
+or follow these instructions will not be considered.
+You must be authorized to work in the United States. We will not sponsor work visas for the fellowship, but we will consider applicants with valid work
+authorization or a valid student visa that can be extended with Optional Practical Training.
+You may apply to only one fellowship position per year. For instance, if you apply as an A.I. Initiatives fellow, you should not apply for any other positions
+in the fellowship. Duplicate applications will be discarded.
+The application deadline is 5 p.m. Eastern Standard Time on Nov. 20.
+The Times Fellowship generates a high level of interest, so we cannot acknowledge the status of every application upon receipt or during the vetting process,
+which can take eight weeks or more. We cannot accept applications that are mailed or emailed to us. We will contact you for interviews as needed.
+The fellowship program will begin on or about June 7, 2027, and end on May 26, 2028, subject to satisfactory performance. There is no guarantee of a full-time
+position upon completion of the program.
+For more information about the Times Fellowship, visit here.
+This position is represented by the NewsGuild of New York.
+REQ-020749
+Additional Compensation and Benefits:
+For roles in the U.S., dependent on your role, you may be eligible for variable pay, such as an annual bonus and restricted stock. Benefits may include medical,
+dental and vision benefits, Flexible Spending Accounts (F.S.A.s), a company-matching 401(k) plan, employee stock purchase plan, paid vacation, paid sick days,
+paid parental leave, tuition reimbursement and professional development programs.
+For roles outside of the U.S., information on benefits will be provided during the interview process.
+The annual base pay range for this role is between:
+$82,414.80 - $82,414.80 USD
+Candidate Use of GenAI Tools:
+We’re excited to learn more about you and your experience. To keep our hiring process as fair and authentic as possible, we ask that you submit your own work
+and not use GenAI tools to generate substantive content during the application and interview process.
+If you’re an engineering candidate, we’ll let you know what specific GenAI tools you are permitted to use for your technical assessment.
+The New York Times Company is committed to being the world’s best source of independent, reliable and quality journalism. To do so, we embrace a diverse
+workforce that has a broad range of backgrounds and experiences across our ranks, at all levels of the organization. We encourage people from all backgrounds to
+apply.
+We are an Equal Opportunity Employer and do not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion,
+marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier
+status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment
+without regard to legally protected characteristics. The U.S. Equal Employment Opportunity Commission (EEOC)’s Know Your Rights Poster is available here .
+The New York Times Company will provide reasonable accommodations as required by applicable federal, state, and/or local laws. Individuals seeking an
+accommodation for the application or interview process should email reasonable.accommodations@nytimes.com. Emails sent for unrelated issues, such as following
+up on an application, will not receive a response.
+For information about The New York Times' privacy practices for job applicants, click here .
+Please beware of fraudulent job postings. Scammers may post fraudulent job opportunities, and they may even make fraudulent employment offers. This is done by
+bad actors to collect personal information and money from victims. All legitimate job opportunities from The New York Times will be accessible through The New
+York Times careers site . The New York Times will not ask job applicants for financial information or for payment, and will not refer you to a third party to do
+so. You should never send money to anyone who suggests they can provide employment with The New York Times.
+If you see a fake or fra

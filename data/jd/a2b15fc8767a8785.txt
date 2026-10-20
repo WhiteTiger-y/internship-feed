@@ -1,0 +1,21 @@
+JOB RESPONSIBILITIES
+A highly collaborative, fast-growing team, Point72 Internal Alpha Capture (IAC) is developing scalable quantitative equity trading signals that leverage
+rigorous research, state-of-the-art machine learning methods, a broad range of public and proprietary data sources, and unparalleled computing power.
+We are looking for exceptional students to join us as quantitative developer interns for Summer 2027. Our interns will work closely with our team, receive
+comprehensive, in-depth training, and help develop novel signals that may have a real impact.
+You will gain exposure to a variety of activities, which may include:
+- Improving signal research and trading tools infrastructure
+- Optimizing data ETL pipelines, persistent / in-memory caches and SQL databases
+- Working alongside quant researchers developing quant signals
+- Developing automated equities trading application and real-time analytics
+DESIRABLE CANDIDATES
+- Undergraduate or higher degree in computer science, machine learning, or other quantitative discipline, or current enrollment in a related undergraduate or
+graduate program
+- Strong programming experience in Python with production-level coding quality
+- Experience with containerization and orchestration technologies, particularly Docker
+- Experience with Unix environment and shell scripting
+- Knowledge of profiling (e.g. VisualVM, async-profiler) and code optimization is a plus
+- Knowledge of statistics and machine learning is a plus
+- Ability to take ownership of projects, work independently, and collaborate effectively within a small team
+- Prior experience in the financial services industry is a plus
+- Commitment to the highest ethical standards

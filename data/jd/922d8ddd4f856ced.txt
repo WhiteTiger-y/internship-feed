@@ -1,0 +1,50 @@
+Group 33 designs, builds, and operates our own sensors and test beds. We work with a wide range of technologies in a wide range of environments. Our team does
+design work using laptops and supercomputers; we test our designs on benchtop setups and on towers; then we deploy them in deserts, boats, on islands,
+mountains, balloons, and on airplanes. The data we collect and analyze will improve our understanding of national security challenges, allow us to refine our
+designs, or provide inspiration for new designs.
+Position Description
+The successful candidate will assist our team in these interconnected efforts. Assignments vary and could include working with hardware doing trade studies,
+designing a specific component, or testing system performance; working deep in the software building control code for a radar positioner, optimizing the speed
+of a specific data processing algorithm, or providing data analysis tools for a field operator; performing high-level analysis of an existing data set; or help
+model a test to plan the next experiment.
+A multidisciplinary team is required to both develop advanced RF sensor prototypes and analyze the resulting data produced by them. Therefore, we are looking
+for interns from a wide range of backgrounds, including candidates pursuing BS, MS, or PhD degrees in engineering, physics, mathematics, or other technical
+fields. Specific project assignments may be tailored to the interest and background of the candidate.
+Position Qualifications:
+- Current enrollment in a program working toward a BS, MS, or PhD degree in engineering, physics, mathematics, or other technical fields
+- Minimum 3.5 GPA strongly desired
+- Demonstrated effective organizational skills and ability to work independently and in a team environment
+- Demonstrated strong written and oral communication skills
+- Experience with the appropriate design and analysis tools in your area of interest. For example:
+- Git version control, CI/CD, Python, C++, Julia, if interested in software
+- CAD, ANSYS, FEKO, SolidWorks, if interested in hardware, RF design, or electromagnetics
+- Statistical analysis methods, R, Minitab, if interested in analysis
+- Test equipment operation, troubleshooting, equipment schematics, if interested in experimental work
+- MATLAB or Numeric/Scientific Python skills are desired
+Summer Research Program Overview:
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Compensation:
+Hourly pay rates below are effective January 2026 – December 2026 and will be reviewed again for Summer 2027. Rates are based on the highest academic year or
+degree completed before the internship start date.
+- Freshman year completed: $25.00/hour
+- Sophomore year completed: $27.00/hour
+- Junior year completed: $29.00/hour
+- 4th year of 5 year program completed, no degree conferred: $32.00/hour
+- Bachelors completed: $34.50/hour
+- Bachelors + 1, one year of graduate study completed: $36.50/hour
+- Bachelors + 2, two years of graduate study completed: $38.00/hour
+- MS completed: $39.00/hour
+- MS + 1, one year of graduate study completed after the MS: $41.00/hour
+- MS + 2, two years of graduate study completed after the MS: $42.50/hour
+- MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43457
