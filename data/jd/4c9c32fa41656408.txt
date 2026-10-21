@@ -1,0 +1,45 @@
+About the team The forecasting and business economics group at Zillow shapes planning and drives decision making across Zillow’s businesses. Embedded in the
+finance organization, our team prioritizes research projects that directly impact the company’s bottom line and growth. We bring together forecasters,
+economists, applied scientists, data scientists, and data visualization engineers to build forecasts and craft research that elevates how our businesses
+operate. We transform our industry-leading data with our expertise in statistics and economics into actionable insights that inform decisions at every level of
+the company. Our work combines state of the art quantitative methods across forecasting, data science, and causal inference to help answer practical questions
+for our business leaders. About the role At Zillow, interns do meaningful work that contributes to the business from day one. Our 9 week summer internship
+program, running June 14th through August 13th, gives students the opportunity to bring their ideas and perspectives to real projects alongside Zillow teams.
+Interns build hands-on experience, connect with mentors and leaders, and take part in learning and community experiences with their intern cohort. Our 2027
+internships are based in Seattle and follow a hybrid schedule, with interns generally working together in person Tuesday through Thursday. Eligible interns will
+receive a stipend to help offset summer housing and relocation costs. We’re looking for students who are analytical and detail-oriented with the ability to
+create structure from ambiguity. You have an intense curiosity to learn and can do so in a fast-paced dynamic environment. If you are not afraid of working with
+large amounts of data, you’ll get the chance to make it all come together into meaningful metrics used to make strategic business decisions. During your
+internship, you will have opportunities to: Partner with your manager and stakeholders to translate open-ended business questions into an analytical approach,
+with clear deliverables that will directly translate to tangible benefits to revenue. Explore, clean, and validate housing, economic, business, or financial
+data; document assumptions and identify data-quality issues. Build and compare models to support prediction and forecasting. Transform observational data into
+causal models using clever identification Design experiments to improve how we price and operate across our different businesses Evaluate models using
+appropriate baselines and time-based validation, and communicate uncertainty, limitations, and trade-offs. Investigate trends, forecast errors, and drivers of
+business performance to develop actionable insights. Create reproducible analyses, visualizations, or reporting workflows that help partners understand and use
+your findings. Share your approach, results, and recommendations with technical and nontechnical audiences, and document your work for a clear handoff. This
+role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical
+location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions. In
+California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is
+$104,000.00 - $166,000.00 annually. This base pay range is specific to these locations and may not be applicable to other locations. Actual amounts will vary
+depending on experience, performance and location. Who you are Currently pursuing a Masters or PhD in statistics, economics, data science, applied mathematics,
+quantitative finance, or a related quantitative field, with an expected graduation between December 2027 and Summer 2028. Strong foundation in probability,
+statistics, and regression analysis, with exposure to econometrics. Specifically time-series and causal analysis through coursework and research experience. Use
+AI tools to accelerate and expand their work without outsourcing their own thinking to it. Can use Python or similar to prepare data, conduct analysis, and
+build models. Even if you’re not writing code anymore, we expect an ability to express statistical concepts clearly through pseudocode and think through
+edgecases when designing systems. Can explain analytical findings clearly and collaborate with people who bring different perspectives and expertise including
+non technical stakeholders. Move quickly and ambitiously without sacrificing attention to detail; enjoy zooming in and out based on context. Approach problems
+thoughtfully: you check your assumptions, validate results, and distinguish what the data supports from what remains uncertain. Are interested in applying
+quantitative methods to housing markets, business forecasting, and financial decision-making. Get to know us At Zillow, we’re reimagining how people
+move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help people navigate buying, selling,
+financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company reshaping an
+industry and helping more people make home a reality. How we work is a key part of that transformation. Through Cloud HQ, our strategic approach to distributed
+work, most employees have the flexibility to work from wherever they’re most productive—enabling us to move fast, stay connected and deliver on our people
+promise. Zillow is honored to be recognized among the best workplaces in the U.S. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2026, and
+included on TIME’s America’s Best Companies 2026 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are
+empowered to grow. No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your
+career—forward, together. Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We
+are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital
+status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact your recruiter
+directly. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable state and local law. Los
+Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards
+of excellence despite stressful conditions; communicate effectively and respectfully with employe

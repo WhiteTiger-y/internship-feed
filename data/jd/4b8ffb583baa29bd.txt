@@ -1,0 +1,71 @@
+Sandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big
+ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital
+world we’re living in and that we have the power to shape.
+Sandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do
+this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for
+innovation, performance and quality.
+Sandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were
+also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to
+the Flash memory it needs to keep our world moving forward.
+Description
+We are seeking a highly motivated GenAI & AI/ML Engineering Summer Intern to join our team. This role offers an exciting opportunity to revolutionize Sandisk’s
+semiconductor development workflows through cutting-edge AI technologies.
+Generative AI
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+- Develop and deploy large language models (LLMs) inference pipelines for electronic design automation
+- Design Retrieval-Augmented Generation (RAG) systems and semantic search capabilities for engineering documentation management
+- Implement conversational AI agents for technical support
+- Develop prompt engineering strategies and fine-tuning approaches for domain-specific AI assistants
+- Build multimodal AI systems combining text, code, and design diagrams
+- Implement model versioning, A/B testing, and performance monitoring for GenAI systems
+- Optimize GenAI model performance for production environments
+- Build evaluation frameworks for generative AI model quality and safety AI/ML & Data Intelligence:
+- Develop machine learning models for design optimization and prediction
+- Build automated data pipelines and workflows for AI model training and inference
+- Create predictive analytics solutions using both traditional ML and generative approaches
+- Implement AI-driven anomaly detection and pattern recognition systems
+- Build dashboards and visualizations enhanced with natural language generation Learning Opportunities:
+- Hands-on experience with state-of-the-art commercial and open-source generative AI models
+- Deep dive into RAG architectures, vector databases, and semantic search technologies
+- Exposure to enterprise-scale GenAI infrastructure and LLMOps practices
+- Experience with cutting-edge semiconductor design flows and tools enhanced by AI
+- Mentorship from senior engineers specializing in both GenAI and semiconductor design domains
+- Opportunity to contribute to GenAI development and present at AI/semiconductor conferences
+Required
+- Currently enrolled in a Bachelor's, Master's, or Ph.D. program in Computer Science, Electrical Engineering, Computer Engineering, Data Science, or related
+technical field
+- Strong programming skills in Python and experience with AI and data analytics frameworks (Spark, Ray, pandas, scikit-learn, PyTorch, OpenAI API, or similar)
+- Fundamental understanding of machine learning and generative AI concepts and algorithms
+- Experience with data structures, algorithms, and software engineering principles
+- Basic knowledge of natural language processing (NLP) and Generative AI concepts
+- Familiarity with version control systems (Git) and collaborative development workflows
+- Curiosity about applying AI to semiconductor design and engineering workflows
+- Ability to quickly learn new technologies and adapt to evolving AI landscape
+- Strong attention to detail and commitment to code quality and documentation
+Preferred
+- Hands-on experience with large language models (LLMs) and generative AI frameworks
+- Knowledge of Retrieval-Augmented Generation (RAG) systems and vector databases
+- Experience with cloud platforms (AWS, Azure, GCP) and containerization technologies (Docker, Kubernetes)
+- Familiarity with MLOps practices, model deployment, and monitoring tools
+- Understanding of prompt engineering and fine-tuning techniques for language models
+- Experience with data pipeline tools (Apache Airflow) and workflow orchestration
+- Knowledge of semiconductor design flows, electronic design automation (EDA), or hardware description languages (Verilog, VHDL)
+- Experience with web development frameworks and API design
+- Familiarity with database systems (SQL, NoSQL) and data visualization tools
+- Previous internship, research, or project experience in AI/ML or Generative AI applications
+Additional Information
+Sandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate based on their race, color, ancestry, religion
+(including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical
+conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically
+associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership
+status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status,
+military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed
+above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the Equal Employment Opportunity
+is the Law poster.
+Sandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and
+communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our
+customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and
+contribution.
+Sandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our
+hiring process. Please contact us at jobs.accommodations@sandisk.com to advise us of your accommodation request. In your email, please include a description of
+the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.

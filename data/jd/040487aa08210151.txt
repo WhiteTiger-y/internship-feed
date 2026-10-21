@@ -1,0 +1,39 @@
+A Day In The Life:
+- Participate in the team's daily activities (stand-up call, backlog reviews, spring planning)
+- Work on your specific project (proposal, technical design, coding and testing in simulation)
+- Participate in testing code (including yours) on actual vehicles on our test track.
+- Participate in various overall campus activities.
+Potential Areas of Work:
+During your internship, you will be working with the team in our simulated and real environment to develop the required software for one of the following
+projects:
+- Machine Learning Pipeline.
+- Radar and vision-based parking in a tight environment.
+- Multi-sensory localization.
+Graduate Areas of Study Under Consideration, But Not Limited To:
+- Engineering disciplines (Robotics, Comp Sci, Electrical, Mechanical, Aeronautical, etc.)
+- Mathematics.
+Who We're Looking for:
+- Currently be pursuing a Master's, or PhD degree in Core Engineering discipline.
+- Enrolled in a full-time Master's or Ph.D. degree program in Robotics, Mathematics, Computer Science, or other quantitative discipline.
+- Familiarity with robotics, controls, perception, and IOT techniques.
+- Familiarity with programming languages (Python, C/C++, etc.) and AI coding tools.
+- GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)
+- Ability to work on site.
+Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with
+Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance
+Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.
+It is Nissan's policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status
+protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment
+eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.
+NISSAN FOR EVERYONE
+People are our most valuable assets, and diversity and inclusion are the key to maximizing the power of each individual member of our team. When everyone
+belongs, the power of NISSAN is undeniable. Our Corporate Diversity Initiative aims to improve business results by ensuring that our workplace and core
+businesses meet the unique needs of our employees and customer base.
+Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard. We have over 10
+Business Synergy Teams (BSTs) across the U.S. and Canada that connect employees - with shared characteristics or interests - build allies, and foster a company
+culture where all employees feel supported and included.
+Nissan also values inclusion in all areas of our business as we strive to mirror the diversity of our customer base and the communities where we do business. We
+are committed to procuring innovative goods and services, retailing our products and communicating from a diverse perspective which will help us continue to
+offer our customers competitively designed, market-driven products.
+Join us as we carry our commitment to diversity and inclusion into the future.
+Santa Clara California United States of America

@@ -1,0 +1,68 @@
+Onwards Together!
+Illumio is the leader in ransomware and breach containment, redefining how organizations contain cyberattacks and enable operational resilience. Powered by the
+Illumio AI Security Graph, our breach containment platform identifies and contains threats across hybrid multi-cloud environments – stopping the spread of
+attacks before they become disasters.
+Recognized as a Leader in the Forrester Wave™ for Microsegmentation, Illumio enables Zero Trust, strengthening cyber resilience for the infrastructure, systems,
+and organizations that keep the world running.
+This is a 12 week internship program beginning on May 24th 2027 or June 21st 2027
+Location: 4 on-site days a week in Sunnyvale, CA Headquarters.
+Our Team's Vision
+At Illumio, the Office of the CTO and Security helps shape the company’s strategic technical direction while advancing the security of Illumio and our
+customers. Within this organization, the Threat Research team studies emerging threats, adversary behaviors, and evolving technologies, working closely with
+Engineering and Product Management to translate research into stronger security capabilities and customer outcomes.
+We are looking for a curious and motivated Security Research Intern to join the team. You’ll work alongside experienced threat researchers to investigate real-
+world cyber threats, understand how attackers operate, analyze their behaviors and infrastructure, and explore how research can inform new security insights and
+detection capabilities.
+This is a hands-on opportunity to work at the intersection of threat research, threat intelligence, security telemetry, and data analysis. You’ll tackle
+problems grounded in real-world adversary activity, with opportunities to explore emerging technologies and techniques, including AI and ML, where relevant to
+the research.
+Your Impact
+- Research emerging threats, vulnerabilities, attacker campaigns, and evolving adversary techniques.
+- Analyze threat intelligence including malicious IP addresses, domains, attacker infrastructure, and adversary behaviors.
+- Investigate network activity associated with command-and-control, suspicious communications, and other potentially malicious behavior.
+- Analyze security and network telemetry to identify patterns that may distinguish normal from suspicious activity.
+- Explore machine learning and statistical techniques for security use cases such as anomaly detection, behavioral analysis, clustering, and classification.
+- Experiment with ML models and detection approaches, evaluating their effectiveness, limitations, and potential false positives.
+- Help build and curate structured datasets connecting threats, campaigns, indicators, vulnerabilities, and attacker techniques.
+- Explore how threat intelligence and security telemetry can be combined to develop new detection ideas.
+- Collaborate with threat researchers, data scientists, engineers, and product teams to communicate findings and potential security improvements.
+- Present research, experiments, and key learnings at the end of the internship.
+Your Toolkit
+- Currently enrolled in a full-time Bachelor’s or Master’s degree program in Computer Science, Cybersecurity, Data Science or a related technical field with an
+expected graduation date in Winter 2027/Spring 2028
+- Strong interest in cybersecurity, security research, threat intelligence, or machine learning
+- Exposure to threat intelligence concepts such as IOCs, attacker campaigns, malware, vulnerabilities, or MITRE ATT&CK
+- Basic understanding of networking concepts and protocols such as TCP/IP, DNS, and HTTP/HTTPS
+- Familiarity with Python, SQL/KQL, notebooks, or similar programming and data-analysis tools, with an interest in analyzing security and network telemetry
+- Ability to research technical topics and clearly communicate findings
+- Curiosity about how attackers operate and how their behaviors can be detected
+Nice To Have
+Experience in these areas is helpful, but not required:
+- Experience working with network or security telemetry, logs, or large datasets
+- Familiarity with Python data analysis tools such as pandas or NumPy
+- Basic understanding of machine learning or statistical techniques, such as classification, clustering, or anomaly detection
+- Experience experimenting with ML libraries such as scikit-learn, PyTorch, or similar frameworks
+- Interest in applying machine learning to cybersecurity problems such as behavioral analysis or threat detection
+- Participation in CTFs, security competitions, academic research, open-source projects, or personal security projects
+You don’t need to already be an expert in cybersecurity or machine learning. We’re looking for students with strong technical fundamentals, curiosity, and an
+eagerness to learn across disciplines. Coursework, research projects, CTFs, ML projects, open-source contributions, or independent security research can all
+demonstrate relevant experience.
+What You’ll Gain
+During the internship, you’ll have opportunities to:
+- Build practical experience in security research, threat intelligence, and adversary analysis.
+- Develop a deeper understanding of network security, security telemetry, and threat detection.
+- Learn how to investigate emerging threats and translate research into detection and product ideas.
+- Gain exposure to emerging approaches, including machine learning and data-driven security techniques, where relevant.
+- Work alongside experienced threat researchers and learn how security research operates in a real-world cybersecurity organization.
+You’ll finish the internship with experience investigating real security problems and understanding how threat research, security telemetry, and machine
+learning can work together to identify malicious behavior and improve detection capabilities.
+Our Commitment
+Illumio believes that an environment of unique backgrounds, experiences, viewpoints, and individual contributions creates a culture of belonging, drives our
+future, and makes us stronger together in support of our customers and their success.
+All official job offers from our company are extended directly by our recruitment team and will be sent through an official E-Signature document for your review
+and signature. Please be aware that we do not ask for any personal information in the process of extending offers of employment, such as financial details or
+social security numbers. Upon acceptance of any offer, we will request such information as part of the onboarding process prior to or on your first day of
+employment, and only after completing a background check through an authorized third-party vendor. If you receive any communication asking for personal details
+outside of these processes, please contact us immediately to verify the authenticity of the request. Your security is important to us, and we are committed to a
+safe and transparent hiring experience.
+For roles in San Francisco and Los Angeles: Pursuant to the San Francisco Fair Chance Ordinance and th

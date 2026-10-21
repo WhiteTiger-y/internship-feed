@@ -1,0 +1,58 @@
+COMPANY OVERVEW:
+Analytic Partners is a global leader in commercial measurement and optimization, turning data into expertise for the world’s largest brands for almost 25 years.
+Our holistic approach to decisioning is powered by our industry-leading platform and team of experts, who help leaders make better decisions, faster – unlocking
+business growth and creating powerful customer connections.
+With clients in 50+ countries and global offices across New York City, Miami, Dallas, Dublin, London, Paris, Singapore, Shanghai, Munich, Sydney, Melbourne,
+Charlottesville and Denver, we’re growing fast. And we’re looking for top talent to join us in shaping the future of analytics.
+To learn more about what we do, visit analyticpartners.com, and see why we’re recognized as a leader by The Forrester Wave™: Marketing Measurement &
+Optimization, Q3 2023 Report.
+POSITION & TEAM OVERVIEW:
+- This position is not eligible for visa sponsorship
+- Must be willing to commit to minimum 6 months for this internship
+- Position: Data Science Co-Op FY27 (6 or 8 month Co-Op Program)
+- Starting Date: January 2027
+Analytic Partners Science Team develops algorithms and technologies using the mathematical framework to address business challenges analytically. The algorithms
+and technologies then feed into Analytic Partners’ analytical engines! The Science Team is an integral part of R&D Group who is the core of Analytic Partners
+software as a service platform. The team is comprised of motivated individuals that do exceptional work. They face challenges together and they win together. As
+a Data Scientist Intern, you’ll collaborate with a fun and agile team to research, architect, implement, test, and continuously deliver new features and
+products to our company and clients! You also have opportunities to work with clients to develop customized models and solutions to address their business
+challenges.
+Why participate:
+- This would be a great opportunity if you are eager to apply quantitative analysis theories and techniques you learn at school to real-world solutions and
+you’re passionate about working with data
+- You will thrive in our collaborative work environments and grow personally and professionally
+- You will be challenged to harness innovation and are constantly looking for ways to improve
+Participants will:
+- Creatively apply science methodology and techniques solving real-world problems to generate business impact
+- Conduct Data Science methodology research and derive novel analytical solutions to expand company solution capabilities and options
+- Work closely with cross function business teams on client engagement and implementation Discover and address users’ pain points to enhance AP analytics
+platform.
+YOU WILL OWN & COLLABORATE ON:
+- Conduct data analysis using various tools and techniques
+- Assist in documenting model specifications and implementation details
+- Assist team members in developing and implementing statistical, ML and AI solutions, models, and algorithms
+- Communicate effectively with stakeholders to understand business needs and requirements
+QUALIFICATIONS & EXPERIENCE YOU WILL NEED:
+- Minimum:
+- Solid technical skills in probability & statistics, machine learning and optimization algorithms
+- Proficient in Python and SQL
+- Set up and maintain Python environments, including virtual environments, dependency management, and package installations
+- Familiarity with version control systems like Git
+- Strong verbal and written communication skills, great work ethic, sense of ownership and intellectual curiosity, desire, and ability to collaborate in a team
+environment
+- Preferred:
+- Implement common machine learning algorithms from scratch (e.g., linear regression, logistic regression, decision trees, k-means clustering, Bayesian
+Regression)
+- Linux and R skill set are a plus
+ELIGIBILITY:
+- Undergraduate and graduate students graduating between 2027 – 2028
+OUR VALUES:
+Our differentiator is – Our People! We hire the brightest talent and develop them into leaders. We foster a culture of PEOPLE, PASSION and GROWTH.
+People: We value our people, customers, and partners
+Passion: We love what we do
+Growth: Unlimited growth means unlimited potential
+AP is a customer-focused, team-oriented organization where innovation and results are rewarded, and individuals can chart the course of their own careers.
+As a woman founded and led company, this has meant supporting a meritocracy where everyone has opportunities to achieve their best and ensure we foster an
+environment of diversity, equity, and inclusion. In practice this means we will not only work to recruit a diverse workforce, but also maximize the full
+potential of all of our people. You can read more about our commitment to DEI here
+Additionally, Analytic Partners participates in the E-Verify program in certain locations, as required by law.

@@ -1,0 +1,37 @@
+Company Overview
+ACS (Allen Control Systems) is a defense technology company building precision robotic systems for the United States and its allies. Founded by two former U.S.
+Navy electrical engineers with deep experience in robotics and software, ACS brings together AI, computer vision, precision motion, and advanced hardware to
+solve complex defense challenges across land, air, and maritime environments.
+Our flagship product, Bullfrog, is an autonomous precision weapon system that transforms existing weapons into highly accurate counter-drone systems — giving
+warfighters a scalable, cost-effective response to one of the fastest-growing threats on the modern battlefield. Bullfrog is deployed with U.S. forces, and ACS
+works with organizations throughout the U.S. military and national security community.
+Following a $200 million Series B at a $2.2 billion valuation, ACS is rapidly expanding manufacturing, accelerating Bullfrog deployments, and developing the
+next generation of autonomous battlefield systems. This is an opportunity to join a proven, fast-moving team and help scale technology with direct, real-world
+impact on national security.
+ACS is headquartered in Austin, Texas, with additional operations in Alexandria, Virginia; Mountain View, California; and Huntsville, Alabama. For more
+information, visit allencontrolsystems.com.
+Our interns aren't fetching coffee or shadowing — they're working alongside the same engineers building the systems we ship. This is early-career work with real
+stakes.
+Location: Austin, TX (on-site)
+Duration: Summer 2027 (~10-12 wks)
+Pay: Paid internship
+Team: Small, hands-on, direct impact
+What You Could Work On
+- Models that detect, track, and classify drones and other aerial threats in real time
+- Training data generation and pipeline work — the unglamorous but critical foundation of any good model
+- Getting models to run fast on real embedded hardware (like NVIDIA Jetson), not just in a notebook
+- Experiments in sensor fusion, tracking robustness, and performance under real-world field conditions
+(We're keeping this general on purpose — exact projects depend on where things stand next summer, but this is the flavor of work you'd be doing.)
+What We're Looking For
+- Currently pursuing a degree in Computer Science, Electrical Engineering, Robotics, or a related field
+- Coursework or project experience with PyTorch, TensorFlow, OpenCV, or similar
+- Comfortable in Python, with some exposure to C++ a plus
+- Genuine interest in real-time perception — models that have to work in milliseconds, not just on a benchmark
+Why ACS
+- Direct impact: your work ships on hardware being fielded to protect real people — not stuck in a slide deck.
+- Real ownership: no red tape. You'll work directly with the engineers building Bullfrog, from day one.
+- Small team, big scope: at a startup this size, interns take on real problems, not busywork.
+- Mentorship from engineers who've designed and fielded real defense systems.
+Allen Control Systems is an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants for employment. Allen Control
+Systems prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics,
+protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.

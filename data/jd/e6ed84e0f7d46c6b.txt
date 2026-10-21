@@ -1,0 +1,56 @@
+Job Details
+Job Description:
+The Role and Impact
+As an AI Software Engineering PhD Intern, you will contribute to the design, development, and optimization of cutting-edge AI software solutions across domains
+such as computer vision, machine learning, and deep learning. You will implement and tune AI models for performance and accuracy, explore applied research
+opportunities, and engage in hardware-software integration to enable scalable and efficient AI solutions. Your work will directly support Intel's technological
+advancements, giving you hands-on experience to develop skills while contributing to impactful projects in a collaborative environment.
+Business group
+Intel Foundry is dedicated to delivering world-class manufacturing and technology capabilities that support Intel's mission to create smart, connected systems.
+The group fosters innovation across hardware and software domains, driving advancements that enable efficient and scalable computing solutions. As part of this
+group, you will work on initiatives that enhance Intel's ability to deliver transformative products and solutions to customers worldwide.
+Key Responsibilities
+- Develop and optimize machine vision models for processing and analyzing image data.
+- Build statistical models to assess and predict risk and impact experienced by semiconductor wafers.
+- Apply machine learning and data science techniques to solve real-world manufacturing and engineering problems.
+- Collaborate with cross-functional teams to analyze data, derive insights, and improve process efficiency.
+Qualifications
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum
+qualifications and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your
+schoolwork, classes, research, relevant previous job, and/or internship experiences.
+Minimum Qualifications
+- Must be currently pursuing a PhD degree in Data Science, Artificial Intelligence, Machine Learning, Statistics, or a related field
+- Proficiency in Python programming and machine learning techniques.
+Preferred Qualifications
+oGPA 3.0
+- Experience with data analysis and visualization.
+- Knowledge of statistical analysis and modeling techniques.
+- Experience with machine vision and image processing.
+- Familiarity with machine learning and statistical modeling of time-series data.
+Join us at Intel to contribute to technological advancements while building a rewarding and impactful career. Apply now to be a part of our extraordinary
+journey.
+Job Type
+Student / Intern
+Shift
+Shift 1 (United States of America)
+Primary Location:
+US, Oregon, Hillsboro
+Additional Locations:
+Posting Statement
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel.
+Annual Salary Range for jobs which could be performed in the US: $170,598.00 - 170,602.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

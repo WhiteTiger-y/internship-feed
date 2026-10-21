@@ -1,0 +1,68 @@
+Company Description
+The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part
+of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a
+history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for
+various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and
+wireless, as well as advanced MEMS design.
+As a part of the global research, our AI research in Silicon Valley focuses on Foundation Models, Big Data Visual Analytics, Explainable AI (XAI), Natural
+Language Processing, Computer Vision & Mixed Reality, Cloud Robotics, Data Science, AI System Engineering, Time-series Analysis. We develop scalable,
+intelligent, and trustworthy AIoT solutions for Bosch products and services in application areas such as automated driving, advanced driver assistance systems
+(ADAS), robotics, smart manufacturing, enterprise AI, health care, smart home and building solutions.
+Originating from the AI research in Silicon Valley, our Intelligent Autonomous Systems group is responsible for enabling future autonomous Bosch products by
+pushing the boundaries of automated driving, advanced driver assistance systems (ADAS), robotics and automation through key innovations that encompass system
+architecture and AI components. These include methods for motion planning, high level task planning and decision making as well as systems for making these
+technologies work on real products by building frameworks that take advantage of technologies in the field of reliable distributed computing. We work with
+internal partners of different Bosch business units to transfer our solutions into future products. We also actively collaborate with leading groups in academia
+and industry to promote research ideas and publish research findings in internationally renowned conferences and journals such as CVPR, ICRA, IROS, RSS, NeurIPS
+and CoRL.
+Job Description
+At Bosch Research, you will work on the latest challenges drawn from Mobility, including autonomous parking and driving. You will work closely with experienced
+Bosch researchers in Silicon Valley and across our global research network, receive mentorship from leading AI experts, and contribute to publications in top-
+tier AI conferences and journals. This internship offers a unique opportunity to combine scientific innovation with real-world deployment and technology
+transfer.
+Depending on your expertise and interests, you will contribute to one or more cutting-edge research topics, including:
+- Autonomous E2E/ World Action Models (WAM) models
+- Planning and decision making under uncertainty and noise
+- Road user behavior modeling in dynamic scenarios
+- Post-training, Reinforcement Learning, and Self-Play
+- Foundation model distillation (i.e. student/teacher)
+- Multi-modal trajectory modeling using vision and priors
+Key Responsibilities Include
+- Conduct novel research in E2E, Distillation, and RL methods.
+- Develop research prototypes that demonstrate innovative ideas and solutions.
+- Collaborate closely with Bosch researchers and subject-matter experts.
+- Analyze experimental results and identify opportunities for scientific innovation.
+- Publish research outcomes in top-tier AI and robotics conferences and journals, such as CoRL, ICRA, CVPR, NeurIPS, ICML, and ICLR.
+- Present research findings internally and externally through technical reports, publications, and presentations.
+Qualifications
+Basic Qualifications
+- Currently enrolled in a Ph.D. or Master's program in Computer Science, Computer Engineering, Electrical Engineering, Artificial Intelligence, Robotics, or a
+related field.
+- Minimum GPA of 3.0
+- Strong research background in autonomous driving, robotics, computer vision, machine learning, or related areas
+- Research experience in post-training, reinforcement learning, self-play, and end-to-end systems.
+- Experience developing AI and robotics systems using modern frameworks and ecosystems
+- Strong programming skills in Python and experience with modern AI/ML framework
+- Experience conducting independent research, designing experiments, and analyzing results.
+- Strong written and verbal communication skills and ability to work effectively in a collaborative research environment.
+Preferred Qualifications
+- Publication record in top-tier AI, CV, or robotics venues (e.g., CoRL, ICRA, CVPR, NeurIPS, ICML, and ICLR).
+- Research experience in autonomous driving and robotics architectures, task planning, reasoning, and autonomous decision making.
+- Experience with behavior modeling, scene understanding, and prediction
+- Experience with multi-modal foundation models involving language, vision, and structured data.
+- Experience in reinforcement learning, online learning, or adaptive decision-making systems.
+- Experience with autonomous driving benchmarking, evaluation methodologies, reliability, and safety.
+- Experience working with real-time systems and full driving/parking/robotics stack(s)
+- Open-source contributions or demonstrated leadership in AI research communities.
+Additional Information
+Equal Opportunity Employer, including disability / veterans
+- Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and
+background check. Candidates who have been offered the position must pass both screenings before their start date.
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics)
+- FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+- AWIM (A World In Motion)
+The U.S. base salary range for this intern position is $46.00-69.00 hourly. Within the range, individual pay is determined based on several factors, including,
+but not limited to, type of degree, work experience and job knowledge, complexity of the role, type of position, job location, etc. Your Hiring Manager can
+share more details about the specific salary range for this position during the interview process.
+For more information on our culture and benefits, please visit:
+Culture and Benefits | Bosch in the USA

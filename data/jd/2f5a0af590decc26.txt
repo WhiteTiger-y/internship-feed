@@ -1,0 +1,40 @@
+Job Title: AI/ML Engineering Intern
+Location: Brookline, MA (Remote within the United States)
+Employment Type: Internship
+About Daice Labs
+Daice Labs, founded by MIT CSAIL scientists, is at the forefront of developing hybrid AI infrastructure designed for long-term, complex tasks. Our technology
+combines advanced AI models with neurosymbolic methods and bio-inspired system design to enable improved adaptability, verification, and context retention. We
+prioritize collaboration by empowering human teams to co-build and co-own outcomes while providing tools for governance, persistent context, and domain-specific
+environments. Our innovative approach fosters adaptive learning, creating reusable building blocks for solutions across varied domains. Join us in shaping the
+future of governed, continuous-learning AI systems.
+About the Role
+We are hiring an AI/ML Engineering Intern for a 3-6 month internship (with potential for extension) to contribute to our research and engineering efforts
+remotely within the United States. You will work directly with senior engineers and researchers on active projects, gaining hands-on experience with production
+ML systems and hybrid AI architectures.
+Responsibilities
+- Support the design and implementation of machine learning models under the guidance of senior engineers
+- Conduct experiments, analyze results, and document findings
+- Assist in building and maintaining data pipelines and preprocessing workflows
+- Contribute to codebase improvements, testing, and documentation
+- Participate in team meetings, code reviews, and technical discussions
+Qualifications
+- Currently pursuing or recently completed a Bachelor's or Master's degree in Computer Science, Data Science, AI, Machine Learning, or a related field
+- Foundational knowledge of machine learning concepts, statistical modeling, and data structures
+- Proficiency in Python and familiarity with ML libraries such as PyTorch or TensorFlow
+- Experience with data preprocessing and dataset management
+- Strong analytical and problem-solving skills
+- Clear written and verbal communication skills
+- Ability to work independently in a remote environment while meeting deadlines
+- Must be authorized to work in the United States
+Preferred
+- Prior experience contributing to AI/ML research projects or open-source repositories
+- Familiarity with hybrid AI approaches, generative models, or symbolic AI
+- Experience with version control (Git) and collaborative development workflows
+- Coursework or projects in NLP, computer vision, or reinforcement learning
+Compensation: This is a paid internship. Details will be discussed during the interview process.
+Duration: 3-6 months, with the possibility of extension based on mutual fit and project needs.
+Equal Opportunity
+Daice Labs is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion,
+sex, sexual orientation, gender identity or expression, national origin, disability, protected veteran status, or any other characteristic protected under
+national, state, or local law. Applicants with criminal histories will be considered in a manner consistent with applicable state and local laws.
+Daice Labs is a compliant corporation in MA with an e-verify account.

@@ -1,0 +1,48 @@
+Reality Labs advances Meta's vision for virtual reality (VR) and augmented reality (AR). Delivering compelling experiences on AR/VR devices requires innovation
+and co-design across the full technology stack, from algorithms to custom silicon. Our teams push the state of the art in computer vision, speech, virtual
+assistants, machine learning, mixed reality, graphics, displays, sensors, and human body tracking.We are seeking interns with a background in developing
+efficient machine learning models for AR/VR applications, including computer vision, speech, sensor fusion, natural language processing (NLP), and multimodal
+AI. Our team develops high-performing models within tight compute, memory, and power constraints, using optimization techniques such as sparsity, quantization,
+compression, neural architecture search, and tensor decomposition. Ideal candidates will have practical experience building real-time models that maintain high
+accuracy under on-device deployment constraints.In this role, you will gain experience across the full stack, from user experiences and algorithms to hardware
+execution. You will collaborate with domain experts to understand application challenges and develop state-of-the-art neural networks to address them, then
+partner with software and hardware teams to deploy these solutions on-device.Our internships range from twelve (12) to twenty-four (24) weeks, with start dates
+throughout the year.
+Research Scientist Intern, On-Device AI Model Optimization (PhD) Responsibilities:
+- Define, plan, and execute cutting-edge deep learning research to advance AR/VR experiences.
+- Develop novel deep learning techniques to achieve state-of-the-art accuracy for large language models (LLMs), multimodal models, and reasoning models within
+on-device resource and real-time execution constraints.
+- Collaborate with research scientists and software engineers to develop model optimization techniques, such as quantization, compression, and pruning, for
+vision, speech, user interfaces, and other applications.
+- Partner with software and hardware engineers to develop trade-off curves between model accuracy and runtime requirements, including latency and energy
+consumption.
+- Clearly communicate experimental results and recommendations to the team and cross-functional partners.
+Minimum Qualifications:
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience developing machine learning solutions
+- Programming experience and experience using deep learning frameworks to prototype ideas
+Preferred Qualifications:
+- A track record of first-author publications at top-tier machine learning or AI conferences, such as NeurIPS, ICML, ICLR, ACL, AAAI, or similar venues
+- Experience training and running inference with LLMs, multimodal models, or reasoning models
+- Experience with one or more model optimization techniques, such as quantization, pruning, distillation, parameter-efficient fine-tuning (PEFT), or speculative
+decoding, for cloud or on-device AI deployment
+- Demonstrated research and software engineering experience through internships, coding competitions, or contributions to open-source repositories, such as
+those hosted on GitHub
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

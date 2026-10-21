@@ -1,0 +1,48 @@
+The Energy Systems Group at MIT Lincoln Laboratory develops technology solutions that enhance the resilience and efficiency of both civilian and defense energy
+systems. This includes developing advanced architectures and system designs to improve the resilience of power grids, developing new control techniques for
+microgrids and distributed energy resources, and developing hardware and real-time simulation testbeds.
+The Energy Systems Group seeks a summer intern to work embedded within a multi-disciplinary team that develops advanced technologies for ensuring the security
+and resiliency of U.S. critical infrastructure. The candidate hired for this position will help develop software solutions to advance Artificial Intelligence /
+Machine Learning (AI/ML) algorithms for energy infrastructure.
+The exact project work will depend upon the intern’s interest and background. Potential projects could include, but are not limited to:
+- Design, training, implementation, and evaluation of novel AI/ML solutions for energy system infrastructure
+- Development and curation of normalized data sets using real world sensor measurements augmented with synthetically generated data
+- Design and implementation of data pipelines to assist in the evaluation of AI/ML algorithms
+- Design and implementation of user interfaces to support a broader evaluation platform
+Candidates who are in the process of earning a B.S., M.S., and or Ph.D. in computer science, computer engineering, electrical engineering, physics, mathematics,
+or a related technical discipline will be considered. Candidates must have strong problem-solving skills, work well in teams and independently, and possess
+effective written and oral communication skills.
+A successful candidate is required to have software development skills with a particular focus on Python. In addition, candidates must demonstrate capability in
+a subset of the following areas:
+- Software design, development, and testing
+- Fundamentals in object-oriented programming
+- Experience with DevSecOps tools and workflows
+- Rudimentary knowledge of Machine Learning algorithms and techniques
+- Working knowledge of power system architectures and configurations
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Learn more about the Summer Research Program at: https://www.ll.mit.edu/careers/student-opportunities/summer-research-program
+Compensation
+Hourly pay rates are based on the highest academic year or degree completed before the internship start date.
+Freshman year completed: $25.00/hour
+Sophomore year completed: $27.00/hour
+Junior year completed: $29.00/hour
+4th year of 5 year program completed, no degree conferred: $32.00/hour
+Bachelors completed: $34.50/hour
+Bachelors + 1, one year of graduate study completed: $36.50/hour
+Bachelors + 2, two years of graduate study completed: $38.00/hour
+MS completed: $39.00/hour
+MS + 1, one year of graduate study completed after the MS: $41.00/hour
+MS + 2, two years of graduate study completed after the MS: $42.50/hour
+MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43490

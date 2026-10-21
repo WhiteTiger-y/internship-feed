@@ -1,0 +1,27 @@
+Company Description Green Guava Tech Labs is a product-based technology enterprise specializing in Cyber-Physical Systems (CPS) and advanced Robotics. The
+company designs, engineers, and manufactures intelligent, security-hardened solutions that connect digital intelligence with physical execution. Its hardware-
+software architectures are built for demanding automation environments, focusing on reliability and safety. Green Guava Tech Labs develops secure
+infrastructure, embedded intelligence, and critical components that enable autonomous machines and robotic platforms to operate safely and efficiently in real-
+world conditions.
+Role Description We are seeking a detail-oriented Robotics Simulation Intern for a 6-month, on-site position in our robotics lab. This role bridges physical
+hardware and virtual testing by handling data collection from Autonomous Mobile Robots (AMRs) and translating that data into high-fidelity models and
+simulations. You will work 3 to 4 days per week directly alongside our engineering team to help optimize and validate our AMR fleets.
+Required Qualifications:
+- Bachelors/Masters in Robotics Engineering, Electronics Engineering, Electrical Engineering, Information Technology, Cyber Security, or similar field.
+- Data Collection: Execute data collection by operating physical AMRs and gathering raw sensor data like LiDAR, IMU, and camera logs in the lab.
+- Virtual Environment Configuration: Create and configure virtual robot models and environment environments using simulation tools like ROS, Gazebo, or Webots.
+- Fleet Path Modeling: Model AMR navigation, path planning, and fleet movements to test traffic scenarios and find system bottlenecks.
+- Sensor Log Analysis: Analyze and parse sensor logs to ensure virtual simulations match the physical behaviors of the hardware.
+- Simulation Automation Scripting: Write basic Python or C++ scripts to automate simulation runs, generate test cases, and parse collected data.
+- Algorithm Validation Testing: Validate navigation and obstacle avoidance algorithms by comparing simulation outcomes with physical trial data.
+Good to have:
+- IoT Cyber Security: Understand cybersecurity concepts related to IoT, network protocols, or securing robotic data pipelines and telemetry.
+- Edge Computing Platforms: Hands-on experience or familiarity with edge computing hardware like NVIDIA Jetson Nano or Jetson Orin boards.
+- Embedded Microcontrollers Familiarity: Basic understanding of embedded systems and microcontrollers such as STM32 for hardware interfacing.
+- Git Version Control: Familiarize with version control tools like Git for managing simulation scripts and configuration files.
+- Linux Environment Command Line: Knowledge of Linux environments and command-line interfaces for robot interaction.
+- Wireless Network Protocols: Basic understanding of wireless communication protocols like Wi-Fi or Bluetooth used by AMR fleets.
+Location: On-site from the lab (Boston, MA, USA / Oakland, CA, USA / Waterloo, ON, CAN).
+Schedule: Part-time as an Intern, 3 or 4 days a week.
+Duration: 6 months.
+Compensation: $15 per hour.

@@ -1,0 +1,45 @@
+At Enact, we understand that there’s no place like home. That’s why we bring our deep expertise, insightful offerings, and extra mile service to work every day
+to help lenders put more people in homes and keep them there. We’re looking for a Process Improvement Analyst Intern in Raleigh, NC to join us in fulfilling our
+mission, while utilizing our values of excellence, improvement, and connection. In addition to the multiple weekly events attended by all interns, you’ll work
+alongside industry experts for a 12-week internship beginning May 17, 2027. In this role, you will support the expansion of our internal Operations Copilot by
+contributing to evaluation, monitoring, and continuous improvement processes. THE PROGRAM Enact’s Internship Program provides an excellent opportunity for
+students to gain hands-on experience in achieving business results while developing technical and professional skills. The internship program is a critical
+component of Enact’s talent pipeline as we look to interns to provide cutting edge ideas and skills that will drive business success. Enact invests time,
+energy, and resources to create a worthwhile experience for interns. Interns work on meaningful business projects, but beyond that, they will network directly
+with leaders throughout the company (all the way up to the CEO), attend teambuilding events with their internship cohort, connect with the community through
+volunteer opportunities (both on-site and off-site), and attend professional development workshops. It’s a unique internship experience that helps interns
+develop a network of peers and mentors who act as a source of constant engagement and guidance during the internship. LOCATION Enact Headquarters, Raleigh, NC –
+Hybrid Schedule YOUR RESPONSIBILITIES Design month-to-month sampling aligned to company statistical methods and implement reproducible cohorts. Define and
+curate a “golden dataset” covering happy paths, edge cases, and synthetic augmentation to evaluate consistency and bias. Stand up continuous monitoring
+dashboards and alerting, supporting prompt versioning and automated regression testing. Build a closed-loop improvement process using test findings and
+underwriter feedback to guide operational playbooks. Document and communicate test plans, metrics, and release notes to support change management across
+underwriting. YOUR QUALIFICATIONS Pursuing a Bachelor’s/Master’s in Statistics, Data Science, Computer Science, Operations Research, or related field.
+Coursework or projects in experimental design, sampling techniques, and statistical inference. Hands-on experience with Python/SQL, data wrangling, and metrics
+design; familiarity with Snowflake or BI tools preferred. Interest in LLM/GenAI evaluation, prompt management, and MLOps. Strong communication skills and
+ability to turn analysis into operational playbooks. PREFERRED QUALIFICATIONS Experience building evaluation harnesses (regression suites, golden datasets).
+Exposure to cloud data pipelines and observability/alerting frameworks. Understanding of document extraction and data validation in financial services. COMPANY
+Enact Holdings, Inc. (Nasdaq: ACT), operating primarily through its wholly owned subsidiaries, is a leading publicly traded U.S. private mortgage insurance
+provider, offering borrower-centric products that enable lenders and other partners across the U.S. to help people responsibly achieve and maintain the dream of
+homeownership. By empowering customers and their borrowers, Enact seeks to positively impact the lives of those in the communities in which it serves in a
+sustainable way. Headquartered in Raleigh, North Carolina, we play an active role in supporting a prosperous Triangle community. We also support our colleagues’
+philanthropic efforts in their home communities across the U.S. Enact values all perspectives, characteristics and experiences, along with providing a positive
+and inclusive culture for employees to grow and succeed. We strive to create an environment where employees can bring their full, authentic selves to work to
+help each other and their customers. We are proud to be an equal opportunity employer and all hiring decisions are based on merit, qualifications, and business
+needs. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy), sexual orientation, gender identity, gender
+expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. WHY WORK AT
+ENACT We bring innovative thinking to the situations at hand We seek out and incorporate diverse views to strengthen our outcomes We work on challenging and
+rewarding projects This role is eligible for employment visa sponsorship. Genworth / CareScout is aware that a 3rd party has created a fraudulent profile
+incorporating legitimate portions of a Genworth HR leader’s profile. This person is absolutely not a Genworth employee and may be soliciting folks in a way that
+he/she is clearly a scammer. Legitimate Genworth job opportunities are posted on the Genworth / CareScout Careers website. Genworth / CareScout never conducts
+interviews via text or email, requests applicants to send money or make purchases, or asks for confidential information via text or email. Genworth I CareScout
+recruiters will only contact candidates from email addresses ending with @genworth.com, and application-related communications will come from gnw@workday.com;
+candidates are advised to verify the spelling of these email addresses and avoid responding to suspicious or misspelled emails. Genworth Financial, Inc
+(“Genworth”) (NYSE: GNW) is a Fortune 1000 company focused on empowering families to navigate the aging journey with confidence, now and in the future.
+Headquartered in Richmond, Virginia, Genworth and its CareScout businesses provide guidance, products, and services that help people understand their caregiving
+options and fund their long-term care needs. Genworth is also the parent company and majority-owner of publicly traded Enact Holdings, Inc. (Nasdaq: ACT), a
+leading U.S. mortgage insurance provider. Genworth Mexico Genworth US We know we can’t deliver on our mission unless we deliver for our employees. That’s why
+we’re committed to creating a work environment that fosters inclusion, excellence, improvement and connection. We know each employee contributes in their own
+unique way and we’re dedicated to supporting every one of them to help them reach their full potential. We are proud to be an equal opportunity employer and all
+hiring decisions are based on merit, qualifications, and business need. We do not discriminate based upon race, religion, color, national origin, gender
+(including pregnancy), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or
+other applicable legally protected characteristics.

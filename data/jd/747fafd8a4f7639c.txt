@@ -1,0 +1,36 @@
+Founding AI Team Reporting Directly to Partner
+Want to build fast, ship real products, and make a visible impact at a leading private equity firm? This role is for you.
+About The Role
+K1 is hiring an AI Intern to help launch our internal AI function in Manhattan Beach, CA. This isn’t a standard internship. You’ll be one of our founding team
+members, working directly with a Founding Partner with no layers of management, no busywork, and genuine ownership from your first day. You’ll operate where AI,
+enterprise software, and private equity operations meet, delivering working automations and tools that create measurable impact across a portfolio of 275+
+companies. Top performers can convert to full-time roles with the opportunity to build and lead their own team. The ideal candidate reflects K1’s core values:
+Passion, Persistence, Humility, and Excellence.
+What You’ll Do
+- Design, build, and deploy AI-driven automations using Claude, Microsoft 365 (Power Automate, Copilot, SharePoint), and custom integrations that replace manual
+work across the firm and its portfolio companies
+- Quickly prototype AI tools and agents, from competitive intelligence scrapers to board-report generators, and refine them based on feedback from real users
+- Assess new AI models, tools, and frameworks and turn your findings into clear, practical recommendations for the investment team
+- Create internal dashboards, data pipelines, and agentic workflows that give K1’s investors a real edge
+- Take on additional projects as needed
+What We’re Looking For
+- Recent 2026 graduate or graduating in 2027, and based in the Los Angeles area.
+- Currently pursuing (or recently completed) a Bachelor’s or Master’s degree in Computer Science, Data Science, Business + CS, or a related field
+- At least one internship or substantial project in AI/ML, software engineering, or data science
+- Daily, hands-on experience with Claude (Anthropic), including prompt engineering, multi-step workflows, and applying it to real tasks
+- Working knowledge of Microsoft 365 (Excel, PowerPoint, SharePoint, Teams); experience with Power Automate or Copilot Studio is a bonus
+- Proficiency in Python and/or JavaScript. You don’t need to be a systems engineer, but you do need to ship code that works
+- A bias for action, comfort with ambiguity, and real curiosity about where AI is going
+- Availability to work in-office in Manhattan Beach 3+ days per week; 5 days preferred.
+Why K1
+- Direct access to a Founding Partner, with no bureaucracy in between
+- A fast track to full-time work, including the chance to build your own team
+- Exposure across 275+ enterprise software companies
+- Scheduling that works around your classes
+- Competitive hourly pay
+About K1
+K1 Investment Management is among the largest investors in small-cap, AI-powered software. We’re committed to building category leaders in technology that
+transform lives and industries, and we’ve invested in more than 275 companies since our founding. Based in Manhattan Beach, California, K1 partners with
+founders and management teams early to build AI-powered, mission-critical systems of record for enterprise customers worldwide.
+Learn more at k1.com and follow K1 Investment Management on LinkedIn.
+Powered by JazzHR

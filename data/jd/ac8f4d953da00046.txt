@@ -1,0 +1,53 @@
+The Meta Reality Labs Research Team brings together a world-class team of researchers, developers, and engineers to create the future of contextual AI and
+robotics. The Surreal Vision group at RL Research is seeking exceptional Research Scientist interns to contribute to fundamental research on 3D-grounded
+generalist models for robotics. These models will form the foundation to enable accurate and efficient zero-shot general robotic manipulation in daily
+environments. As a research intern, you will tackle cutting-edge research challenges, innovate model architectures and training recipes, and deliver general
+robotics policies.Your research project may cover or relate to the following topics:- Generating and delivering effective data and training recipes to
+significantly improve the 3D/spatial understanding of large-scale foundation models.- Developing generalist robotics policies based on large-scale 3D foundation
+models with interactive/real-time performance.- Validating the developed robotics policies both in simulation and on real robots, with the stretch goal of
+delivering a live demonstration on physical hardware.Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout
+the year. Some projects may require a minimum of 24 consecutive weeks.
+Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD) Responsibilities:
+- Plan and execute cutting-edge research to advance the state-of-the-art in generalist robotics policies, as well as data pipelines and curation for large-scale
+3D foundation models.
+- Collaborate with researchers and engineers across robotics teams at Meta to develop experiments, prototypes, and concepts that advance robotics policy
+training and evaluation.
+- Design, set up, and run practical experiments and prototype systems to validate and demonstrate generalist robotics policies based on large-scale 3D
+foundation models, both in simulation and on real robots.
+Minimum Qualifications:
+- Currently has, or is in the process of obtaining, a PhD in computer vision, robotics, machine learning, computer graphics, or a related field
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+- Demonstrated knowledge of and hands-on experience with robotics policy training
+- Demonstrated knowledge of and hands-on experience with large-scale 3D data pipeline & curation for robotics or foundation model training
+- Hands-on experience implementing large foundation models and generative architectures (e.g., LLMs, VLMs, video diffusion models, world (action) models, VLAs,
+and reinforcement learning)
+- Experience with Python and deep learning frameworks such as PyTorch
+Preferred Qualifications:
+- Ability to commit to 24 consecutive weeks of full-time internship work
+- Proven track record of achieving significant research results, demonstrated by grants, fellowships, patents, or first-authored publications (ideally with
+publicly available code) at premier conferences and workshops (e.g., CoRL/RSS/ICRA/IROS, CVPR/ECCV/ICCV, NeurIPS/ICLR/ICML, SIGGRAPH/SIGGRAPH Asia, etc)
+- Strong research background in robotics policy training, large foundation models (VLM/LLM), world (action) model, video diffusion models, neural 4D
+reconstruction & rendering
+- Strong programming experience using Python and PyTorch
+- Demonstrated software engineering experience via previous internships, work experience, coding competitions, or contributions to open-source repositories
+(e.g., GitHub)
+- Experience collaborating and communicating cross-functionally in a team environment
+- Intent to return to a degree program upon completion of the internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

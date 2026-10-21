@@ -1,0 +1,59 @@
+Our vision is to transform how the world uses information to enrich life for all.
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring
+the world to learn, communicate and advance faster than ever.
+Department Overview
+The Digital Solutions and Enterprise Applications team develops innovative software platforms that enable business operations, automation, and digital
+transformation across Micron. By using modern software engineering practices, AI technologies, and cloud-native solutions, the team delivers scalable
+applications that improve productivity, decision-making, and operational efficiency throughout the organization.
+Position Overview
+As a Software Engineering Intern, you will help design, develop, and support software solutions that address critical business needs across Micron. You will
+gain hands-on experience building full-stack applications, AI agents, automation solutions, and enterprise platforms while working with modern development
+tools, cloud technologies, and AI-enabled engineering practices.
+Responsibilities
+- Design, develop, and enhance software solutions that improve business processes, productivity, and operational efficiency.
+- Build and integrate AI agents, intelligent automation solutions, and Model Context Protocol (MCP)-enabled applications that support business workflows and
+decision-making.
+- Develop full-stack applications using modern programming languages, databases, APIs, and web technologies.
+- Create monitoring, reporting, and analytics capabilities that provide operational visibility, usage insights, and system health metrics.
+- Collaborate with cross-functional teams to implement scalable, secure, and reliable software solutions while supporting continuous improvement initiatives and
+AI-enabled development workflows.
+Minimum Qualifications
+- 0-2 years of relevant experience through internships, academic projects, research, software development activities, hackathons, or technical work experience.
+- Currently pursuing or recently completed a Bachelor's degree in Computer Science, Software Engineering, Computer Engineering, Information Technology, or a
+related technical field.
+- Experience with one or more programming languages such as Python, C#, Java, C/C++, JavaScript, or similar technologies.
+- Understanding of software development fundamentals, object-oriented programming, software architecture, and application design principles.
+- Familiarity with web technologies, databases, APIs, version control systems, and modern development environments.
+- Demonstrated experience using AI-enabled tools and large language models (LLMs) such as GitHub Copilot, Claude, ChatGPT, Gemini, or similar technologies to
+improve software development productivity and problem-solving.
+- Strong analytical, problem-solving, organizational, written, and verbal communication skills.
+- Ability to work effectively in a collaborative team environment.
+Preferred Qualifications
+- Experience developing AI agents, AI-assisted workflows, prompt engineering solutions, or generative AI applications.
+- Familiarity with Model Context Protocol (MCP), agentic workflows, tool integration frameworks, or AI orchestration platforms.
+- Experience with frontend technologies such as JavaScript, Angular, AJAX, CSS, or similar web development frameworks.
+- Knowledge of databases including Microsoft SQL Server, MySQL, MongoDB, or comparable platforms.
+- Familiarity with Linux environments, containerization technologies such as Docker or Kubernetes, and cloud-native development practices.
+- Experience with web servers and application platforms such as Apache, Tomcat, IIS, Node.js, or similar technologies.
+- Experience using GitHub, CI/CD pipelines, automated testing, or software delivery workflows.
+- Demonstrated interest in applying AI, automation, and emerging technologies to solve business challenges and improve enterprise productivity.
+- Strong leadership, communication, and collaboration skills with the ability to work across technical and business teams.
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help
+you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team
+members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you
+are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For
+additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits.
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment
+without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender
+identity or any other factor protected by applicable federal, state, or local laws.
+To learn about your right to work click here.
+To learn more about Micron, please visit micron.com/careers
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at
+hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with
+Micron.
+AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and
+reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron
+by checking the official Micron careers website in the About Micron Technology, Inc.

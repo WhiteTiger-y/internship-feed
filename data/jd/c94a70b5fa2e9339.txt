@@ -1,0 +1,53 @@
+At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the
+impact we create together. Join us and help run what runs the world.
+This position reports to:
+IS Manager
+__
+As an intern, you will have the opportunity to gain practical experience through various projects. Each day, you will acquire knowledge by performing tasks as
+directed. You will also showcase your skills by supporting ABB’s operations and enhancing personal education/employment opportunities.
+The work model for the role is onsite/hybrid in Cary, NC.
+You will be mainly accountable for:
+- The agents and connectors: building the AI layer's agents, tools and data connectors in Python, reading from our business systems through APIs and SQL.
+- Multi-step workflows: designing agent flows in LangGraph or a comparable framework, with human approval built in. You'll work with read-only access and
+sandbox environments; nothing writes to a live system without human approval.
+- The right retrieval for each question: a database query, an API call or a document search, and knowing which one fits.
+- Evaluation: building evaluation sets, measuring whether answers are right, and improving them.
+- Weekly delivery: shipping small pieces every week and demoing them to the team and to business users.
+- AI assistants, owned: using AI coding assistants openly, and being able to explain every line you commit.
+- Documentation: writing up what you build and learn so the next person can pick it up.
+Qualifications for the role:
+- Currently enrolled in a master's program, or in the third or fourth year of a bachelor's program, in computer science, mathematics, data science or industrial
+engineering in the United States. Master's students preferred.
+- Available to continue part-time, remotely, for about six months after the summer, alongside your studies.
+- Intern must have reliable transportation to and from the worksite during the summer.
+- Must be legally authorized to work in the United States without company sponsorship now and in the future.
+- Python you've shipped: a project someone else can run, with git and tests. Include a link with your application.
+- Hands-on experience building with LLMs: model APIs, tool calling, structured outputs.
+- SQL, including joins across multiple tables.
+- A working understanding of REST APIs and JSON.
+Valued, not required: LangGraph or another agent framework; embeddings, vector search and RAG; MCP; knowledge graphs (for example Neo4j); a cloud platform; any
+exposure to supply chain, manufacturing or ERP concepts.
+Why ABB?
+What's in it for you
+We want you to bring your full self to work—your ideas, your energy, your ambition. You’ll have the tools and freedom to grow your skills, shape your path, and
+take on challenges that matter. Here, your work creates impact you can see and feel, every day.
+ABB is an Equal Employment Opportunity and Affirmative Action employer for protected Veterans and Individuals with Disabilities at ABB.
+All qualified applicants will receive consideration for employment without regard to their- sex (gender identity, gender expression, sexual orientation),
+marital status, citizenship, age, race and ethnicity, inclusive of traits historically associated with race or ethnicity, including but not limited to hair
+texture and protective hairstyles, color, religious creed, national origin, pregnancy, physical or mental disability, genetic information, protected Veteran
+status, or any other characteristic protected by federal and state law.
+For more information regarding your (EEO) rights as an applicant, please visit the following websites:
+https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+As an Equal Employment Opportunity and Affirmative Action Employer for Protected Veterans and Individuals with Disabilities, applicants may request to review
+the plan of a particular ABB facility between the hours of 9:00 A.M. - 5:00 P.M. EST Monday through Friday by contacting an ABB HR Representative at
+1-888-694-7762.
+Protected Veterans and Individuals with Disabilities may request a reasonable accommodation if you are unable or limited in your ability to use or access ABB's
+career site as a result of your disability. You may request reasonable accommodations by calling an ABB HR Representative at 1-888-694-7762 or by sending an
+email to US-AskHR@abb.com. Resumes and applications will not be accepted in this manner.
+Internships at ABB within the United States are not eligible for company-sponsored medical benefits, 401(k) contributions, or paid time off.
+The hourly rate is determined by things such as the successful applicant’s qualifications, graduation year and experience. This position is expected to pay
+between $20 - $34 per hour.
+Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. That's why we welcome people from all backgrounds
+and experiences.
+Ready to make an impact?
+Apply today or visit https://www.abb.com to learn more about the impact of our solutions across the globe.

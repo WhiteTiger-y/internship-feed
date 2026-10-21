@@ -1,0 +1,96 @@
+ATTACH RESUME/CV Couldn't auto-read resume.
+Analyzing resume...
+Success!
+File exceeds the maximum upload size of 100MB . Please try a smaller size.
+- Full name ✱
+- Email ✱
+- Phone
+- Current location
+No location found. Try entering a different location
+Loading
+- Current company
+Links
+- LinkedIn URL
+- Twitter URL
+- GitHub URL
+- Portfolio URL
+- Other website
+Compliance with work authorization
+- Are you authorized to work in the United States? ✱
+- Yes
+- No
+- Will you require sponsorship for employment now or in the future? ✱
+- Yes
+- No
+- If yes, what type of sponsorship?
+Export Control Requirements
+- This position may require access to information and technology that is subject to export controls, such as EAR. Are you any of the following? ✱
+- A United States Citizen
+- A lawful permanent resident of the United States (i.e. Greencard holder)
+- A protected individual
+- Other
+- If you selected "A protected Individual" OR "Other" to the above question, please explain further.
+Full Legal Name
+- Please state your full legal name: ✱
+How did you hear about us?
+- How did you hear about us? ✱
+- Campus visit
+- LinkedIn Post
+- LinkedIn Sponsored Job/Ad
+- Industry Conference
+- Twitter/X
+- Instagram
+- Referral
+- Handshake
+- Other
+- If "Industry Conference" or "Other," please provide more details:
+Mission
+- Shield AI provides technology, services, and support to the United States military and allied forces with their various missions. If selected for employment
+with Shield AI, your contributions will directly relate to and/or support these missions. Are there any reasons why you would not be able to fully contribute in
+support of the U.S. military and allied forces? ✱
+- Yes
+- No
+- Other
+- (Optional) If you selected other or would like to expand on the above, feel free to do so below:
+GPA
+- If you are currently enrolled in or have graduated from a university within the past 24 months, what is your current or final GPA? ✱
+- 4.0
+- 3.5 - 3.9
+- 3.0 - 3.4
+- 2.5 - 2.9
+- Below 2.5
+- Optional Comments on GPA
+Education
+- Current school or university: ✱
+Select a university or college ACAP University College Auckland University of Technology Australian Catholic University Australian National University Bond
+University Carnegie Mellon University - Australia Central Queensland University (CQUniversity) Charles Darwin University Charles Sturt University - Australia
+Curtin University Deakin University Edith Cowan University Federation University of Australia Flinders University Griffith University James Cook University La
+Trobe University Macquarie University Monash University Murdoch University Queensland University of Technology (QUT) RMIT University Royal Melbourne Institute
+of Technology Southern Cross University Swinburne University of Technology Torrens University Australia University of Adelaide University of Canberra University
+of Divinity University of Melbourne University of New England - Australia University of New South Wales (UNSW) - Australia University of Newcastle - Australia
+University of Notre Dame Australia University of Queensland University of South Australia University of Southern Queensland University of Sydney University of
+Tasmania University of Technology, Sydney University of the Sunshine Coast University of Western Australia University of Western Sydney University of Wollongong
+Victoria University Fachhochschule Technikum Wien University of Natural Resources and Life Sciences, Vienna University of Vienna University of Ghent
+Technological Institute of Aeronautics Acadia University Algonquin College of Applied Arts and Technology Athabasca University Bishop's University Brandon
+University Brescia University College British Columbia Institute of Technology (BCIT) Brock University Cambridge College of Technology - Canada Canadian
+Mennonite University Cape Breton University Capilano University Carleton University CDI College of Business, Technology and Healthcare Centennial College of
+Applied Arts and Technology Centre d'études collégiales de Charlevoix Charles Sturt University Concordia University Concordia University of Edmonton Conestoga
+College Crandall University Dalhousie University Dartmouth College - Canada Devry Institute of Technology Douglas College Durham College of Applied Arts and
+Technology Eastern College - Canada Fairleigh Dickinson University - Canada Fanshawe College of Applied Arts and Technology Georgian College of Applied Arts and
+Technology Grande Prairie Regional College Grant MacEwan University Hunter College - Canada King's College - Canada Kwantlen Polytechnic University Lakehead
+University Lambton College of Applied Arts and Technology Langara College Laurentian University Lethbridge Community College Lincien College of Business and
+Technology McGill University McMaster University Medicine Hat College Mohawk College of Applied Arts and Technology Mount Allison University Mount Royal
+University College Mount Saint Vincent University New Brunswick Community College (NBCC) Nipissing University Nova Scotia Community Colleges Okanagan College
+Queen's University - Canada Red River College Redeemer University College Royal Military College of Canada Saint Mary's University Canada Sault College of
+Applied Arts and Technology Seneca College of Applied Arts and Technology Sherbrooke University Sheridan College Institute of Technology and Advanced Learning
+Simon Fraser University Southern Alberta Institute of Technology St. Francis Xavier University The Kings University College - Canada Thompson River University
+(University College of the Cariboo) Toronto Metropolitan University Trent University - Canada Trinity Western University Télé-université University Canada West
+- On-Line University of Alberta University of British Columbia University of British Columbia (UBC) University of Calgary University of Canada West - Vancouver
+University of Guelph University of Lethbridge University of Manitoba University of New Brunswick University of Northern British Columbia University of Ontario
+Institute of Technology University of Ottawa University of Prince Edward Island University of Regina University of Saskatchewan University of the Fraser Valley
+University of Toronto University of Victoria University of Waterloo University of Western Ontario University of Windsor University of Winnipeg Vancouver Island
+University Western University Wilfred Laurier University Wilfrid Laurier University York University - Canada University of Zagreb Aarhus University Copenhagen
+Business School Roskilde University Technical University of Denmark (DTU) University of Copenhagen (DIKU) Cairo University University of Alexandria Ecole
+Nationale d’Ingénieursde Tarbes ESCP Business School Of Paris Mines ParisTech École Centrale Paris École de Design Nantes Atlantique, France École Polytechnique
+Palaiseau École Polytechnique Paris - Saclay École pour l'informatique et les nouvelles technologies (EPITECH) Aachen University of Applied Sciences Accadis
+Hochschule, Bad Homburg Albert-Ludwigs-Universitä

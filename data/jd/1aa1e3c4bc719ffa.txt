@@ -1,0 +1,87 @@
+Worker Type
+Supplemental
+Job Description
+Intern – Machine Learning (Computer Vision)
+Summary
+Summer Internship Program
+Our paid Summer Internship Program is designed to provide students with an immersive, hands-on experience within the aerospace and defense industry. Interns
+work alongside AV team members on meaningful projects involving cutting-edge technology while developing professional relationships, strategic problem-solving
+skills, and practical experience in a full-time work environment.
+This is a 12-week, onsite program intended for highly motivated and passionate students who are currently enrolled in college or are recent graduates.
+Applicants must have a minimum 3.0 GPA, with a preference for students at the junior level or above.
+Our program has been recognized by Yello and WayUp as one of the Top 100 Internship Programs in the United States for multiple years.
+Depending on the team and location, students who are willing to relocate for their internship may be eligible for a relocation and housing reimbursement
+stipend.
+AV offers internship opportunities across various teams and locations throughout the United States. Specific team, location, and program details will be
+discussed during the interview process.
+As a Machine Learning Intern, you will have the opportunity to support the R&D Group at AV in developing innovative computer vision solutions for defense and
+commercial applications. You will contribute to small, focused design teams working on detection, classification, localization, and tracking technologies. This
+internship will expose you to various stages of the development process including concept design, prototyping, testing, and evaluation.
+Position Responsibilities
+- Support the development of computer vision and machine learning algorithms for detecting, classifying, localizing, and tracking objects-of-interest using UAV-
+mounted gimballed cameras.
+- Assist in writing and testing software to integrate ML algorithms into aircraft systems (e.g., autopilots, payloads, robotic platforms).
+- Explore and visualize data to understand distribution patterns and potential anomalies.
+- Assist in implementing machine learning systems and validating designs through experiments.
+- Help define objectives, develop models, and track their performance using metrics.
+- Perform data analysis tasks using AV tools and industry-standard platforms.
+- Help manage project resources such as datasets, hardware, and time to support project timelines.
+- Contribute to the evaluation of ML algorithm performance and model deployment strategies.
+- Participate in data preparation activities, including cleaning and transformation.
+- Assist in error analysis and developing corrective strategies.
+- Research and experiment with appropriate ML algorithms and tools.
+- Support running tests and experiments on selected datasets and data representations.
+- Follow standard procedures to analyze data and support development tasks.
+- Perform other duties as assigned.
+Basic Qualifications (Required Skills & Experience)
+- Currently pursuing a BS in Computer Vision, Machine Learning, Computer Science, Electrical Engineering, or a related field.
+- Familiarity with C/C++ and MATLAB.
+- Proficiency with office productivity tools.
+- Basic troubleshooting skills for technical systems.
+Other Skills & Qualifications
+- Exposure to deep learning frameworks (e.g., TensorFlow, Keras).
+- Familiarity with Python and libraries such as scikit-learn and pandas.
+- Experience with data visualization and handling large datasets.
+- Exposure to OpenCV and working in a Linux environment.
+- Understanding of key concepts in:
+- Machine learning
+- Computer vision
+- Mathematical optimization
+- Data mining
+- Predictive analytics
+- Ability to assist in selecting hardware/software for model deployment.
+Preferred Qualifications
+- Effective communication and teamwork skills.
+- Strong initiative and eagerness to learn in a fast-paced R&D environment.
+- Willingness to take ownership of tasks and learn from feedback.
+- Ability to adapt to changing priorities and work independently under supervision.
+Physical Demands
+- Ability to work in an office and lab environment.
+- May be required to sit or stand for long periods, use hands/fingers for computer and communication tasks.
+Clearance Level
+No Clearance
+The Salary Range For This Role Is
+AeroVironment considers several factors when extending an offer, including but not limited to, the location, the role and associated responsibilities, a
+candidate’s work experience, education/training, and key skills.
+ITAR Requirement
+This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export
+Administration Regulations (“EAR”). In order to comply with the requirements of the ITAR and/or the EAR, applicants must qualify as a U.S. person under the ITAR
+and the EAR, or a person to be approved for an export license by the governing agency whose technology comes under its jurisdiction. Please understand that any
+job offer that requires approval of an export license will be conditional on AeroVironment’s determination that it will be able to obtain an export license in a
+time frame consistent with AeroVironment’s business requirements. A “U.S. person” according to the ITAR definition is a U.S. citizen, U.S. lawful permanent
+resident (green card holder), or protected individual such as a refugee or asylee. See 22 CFR
+- 120.15. Some positions will require current U.S. Citizenship due to contract requirements.
+Benefits: AV offers an excellent benefits package including medical, dental vision, 401K with company matching, a 9/80 work schedule and a paid holiday
+shutdown. For more information about our company benefit offerings please visit: http://www.avinc.com/myavbenefits.
+We also encourage you to review our company website at http://www.avinc.com to learn more about us.
+Principals only need apply. NO agencies please.
+About AV
+AV isn’t for everyone. We hire the curious, the relentless, the mission-obsessed. The best of the best.
+We don’t just build defense technology—we redefine what’s possible. As the premier autonomous systems company in the U.S., AV delivers breakthrough capabilities
+across air, land, sea, space, and cyber. From AI-powered drones and loitering munitions to integrated autonomy and space resilience, our technologies shape the
+future of warfare and protect those who serve.
+Founded by legendary innovator Dr. Paul MacCready, AV has spent over 50 years pushing the boundaries of what unmanned systems can do. Our heritage includes
+seven platforms in the Smithsonian—but we’re not building history, we’re building what’s next.
+If you're ready to build technology that matters—with speed, scale, and purpose—there’s no better place to do it than AV.
+We are proud to be an EEO/AA Equal Opportunity Employer, including disability/veterans. AeroVironment, Inc. is an Equal Employment Opportunity (EEO) employer
+an

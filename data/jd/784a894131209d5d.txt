@@ -1,0 +1,24 @@
+NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing.
+More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars
+that can perceive and understand the world. This is our life’s work — to amplify human imagination and intelligence. AI becomes more and more important in self-
+driving car. NVIDIA is at the forefront of the AI-City and self-driving revolution and providing powerful solutions for them. All these solutions are based on
+GPU-accelerated libraries, such as CUDA, cuDNN and TensorRT, etc.
+Now, we are now looking for CPU computing interns based in Shanghai. Join the team to provide the powerful AI solution to the entire world!
+What you’ll be doing:
+Analyze the GPU computing issues and write some test code for them.
+Write some documentation about the analysis of the issue.
+What we need to see:
+Pursuing BS or higher degree in CS/EE/CE or equivalent.
+Good programming experience on Linux OS.
+Good programming skills in C and C++, python is a plus.
+Strong knowledge about Linux Shell and Makefile.
+Have knowledge about the popular inference network and Deep Learning layers.
+Experience with deep learning Pytorch framework.
+Good at read and written in English.
+Ways to stand out from the crowd:
+Familiarity with NVIDIA GPU hardware products (Tesla, Jetson, DGX, etc).
+Working knowledge of NVIDIA GPU Computing (CUDA) and CUDA-X libraries for Deep Learning, especially CUDA.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex,
+gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are
+provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits
+and privileges of employment. Please contact us to request accommodation.

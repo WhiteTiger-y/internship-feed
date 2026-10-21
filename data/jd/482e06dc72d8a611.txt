@@ -1,0 +1,40 @@
+Job Posting End Date
+11-13-2026
+Please note the job posting will close on the day before the posting end date.
+Job Summary
+We are seeking highly motivated Data Scientist Interns to join our team. This internship provides a unique opportunity to gain hands-on experience in data
+analysis, modeling, and interpretation within a dynamic environment. The ideal candidate will have a strong analytical mindset and a passion for data-driven
+decision-making.
+Responsibilities
+Job Description
+- Assist in collecting, cleaning, and analyzing large datasets to extract meaningful insights.
+- Develop and implement statistical models and machine learning algorithms.
+- Collaborate with cross-functional teams to identify data-driven solutions to business challenges.
+- Visualize data and present findings to stakeholders using tools such as Tableau or Power BI.
+- Document processes and methodologies for future reference.
+Qualifications
+- Currently pursuing a degree in Data Science, Computer Science, Statistics, Mathematics, or a related field.
+- Proficient in programming languages such as Python or R.
+- Familiarity with data manipulation libraries (e.g., Pandas, NumPy) and machine learning frameworks (e.g., Scikit-learn, TensorFlow).
+- Strong understanding of statistical concepts and data analysis techniques.
+- Excellent communication skills and ability to work collaboratively in a team environment.
+Preferred Skills
+- Experience with SQL for database management.
+- Knowledge of data visualization tools like Tableau or Power BI.
+- Previous internship or project experience in data analysis or related fields.
+Compensation Data
+Compensation Grade:
+Co-Op/Intern-001
+Compensation Range:
+$ - $
+The Physical Demand Level for this job is: S – Sedentary Work: Exerting up to 10 pounds of force occasionally (Occasionally: activity or condition exists up to
+1/3 of the time) and/or a negligible amount of force frequently. (Frequently: activity or condition exists from 1/3 to 2/3 of the time) to lift, carry, push,
+pull or otherwise move objects, including the human body. Sedentary work involves sitting most of the time but may involve walking or standing for brief periods
+of time. Jobs are sedentary if walking and standing are required only occasionally, and all other sedentary criteria are met.
+Hear about it first! Get job alerts by email. Log in to your Candidate Home Account today! If you don't have an account, you can create one.
+It is hereby reaffirmed that it is the policy of American Electric Power (AEP) to provide Equal Employment Opportunity in all respects of the employer-employee
+relationship including recruiting, hiring, upgrading and promotion, conditions and privileges of employment, company sponsored training programs, educational
+assistance, social and recreational programs, compensation, benefits, transfers, discipline, layoffs and termination of employment to all employees and
+applicants without discrimination because of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age,
+veteran or military status, disability, genetic information, or any other basis prohibited by applicable law. When required by law, we might record certain
+information or applicants for employment may be invited to voluntarily disclose protected characteristics.

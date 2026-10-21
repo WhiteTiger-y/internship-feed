@@ -1,0 +1,70 @@
+WisdomTree is seeking a Quantitative Research Intern to support the development and evaluation of systematic investment strategies. Working closely with the
+Research team, the intern will apply financial data, statistical methods, and programming skills to investment questions relevant to new and existing WisdomTree
+products.
+The intern will contribute to ongoing research initiatives under the guidance of the team, with opportunities to propose and explore independent research ideas.
+The role also provides exposure to the practical application of machine learning, AI, and analytical tools in asset management.
+Key Responsibilities
+- Support the Research team in developing and testing investment hypotheses, with opportunities to pursue an independent research project.
+- Analyze financial datasets to investigate investment signals, evaluate strategies, and assess market behavior.
+- Review academic and industry research to identify ideas for replication, extension, or application to WisdomTree’s investment strategies.
+- Build and test quantitative models in Python, applying statistical and machine learning methods where appropriate.
+- Collaborate with the team to assess the robustness, economic relevance, and limitations of research findings.
+- Contribute to research tools, data workflows, and analytical processes.
+- Document research methods and present findings and recommendations to the Research team,
+Qualification & Skills
+- Academic background in finance, economics, mathematics, statistics, computer science, or a related quantitative discipline.
+- Strong Python programming skills, including experience with pandas, NumPy, or similar data analysis libraries.
+- Foundation in statistics and experience applying quantitative methods through coursework, research, or independent projects.
+- Strong interest in financial markets, systematic investing, and empirical research.
+- Ability to formulate hypotheses, critically evaluate results, and communicate conclusions clearly.
+- Strong analytical and problem-solving skills with attention to detail.
+- Intellectual curiosity and the ability to work independently while collaborating with a research team.
+$25 - $35 an hour
+Benefits For This Role
+WisdomTree offers a comprehensive and competitive benefits package designed to support the health, financial security and overall well-being of our employees.
+Benefits include:
+- medical, dental and vision coverage with multiple plan options;
+- health savings and flexible spending accounts;
+- employer-paid life, disability and business travel insurance;
+- 401(k) plan with company match;
+- flexible paid time off;
+- educational reimbursement programs;
+- wellness and fitness activities;
+- paid parental leave; and
+- volunteer time off
+All such benefits are subject to the terms and conditions of WisdomTree’s benefits plans and policies.
+About Us
+WisdomTree is a global financial innovator, offering a diverse suite of exchange-traded products (ETPs), models and solutions, private market investments and
+digital asset-related products. Our offerings empower investors to shape their financial future and equip financial professionals to grow their businesses.
+Leveraging the latest financial infrastructure, we create products that emphasize access and transparency and provide an enhanced user experience. Building on
+our heritage of innovation, WisdomTree Onchain™ delivers regulated tokenized funds, stablecoin connectivity, and blockchain-based platforms for individual
+investors and institutions, while our acquisition of Ceres Partners’ U.S. farmland platform has expanded our capabilities in private markets.
+WisdomTree currently has approximately $XX billion in assets under management globally, inclusive of assets managed by Ceres Partners, LLC as of the last
+reportable period.
+For more information about WisdomTree visit: https://www.wisdomtree.com .
+For more information about WisdomTree Onchain, visit: https://www.wisdomtree.com/onchain .
+Please visit us on X at @WisdomTreeNews.
+WisdomTree ® is the marketing name for WisdomTree, Inc. and its subsidiaries worldwide.
+The WisdomTree Connect™ institutional platform and WisdomTree Prime® digital wallet and digital asset services are made available through WisdomTree Digital
+Movement, Inc., a federally registered money services business, state-licensed money transmitter and financial technology company (NMLS ID: 2372500) or
+WisdomTree Digital Trust Company, LLC, and may be limited where prohibited by law. WisdomTree Digital Trust Company, LLC is chartered as a limited purpose trust
+company by the New York State Department of Financial Services to engage in virtual currency business. Visit https://wisdomtreeconnect.com ,
+https://www.wisdomtreeprime.com or the WisdomTree Prime mobile app for more information.
+PRODUCTS AND SERVICES AVAILABLE VIA WISDOMTREE CONNECT AND WISDOMTREE PRIME: NOT FDIC INSURED | NO BANK GUARANTEE | NOT A BANK DEPOSIT | MAY LOSE VALUE | NOT
+SIPC PROTECTED | NOT INSURED, ENDORSED, INDEMNIFIED OR GUARANTEED BY ANY GOVERNMENT AGENCY
+Investors should carefully consider the investment objectives, risks, charges and expenses of the Funds before investing. U.S. investors only: To obtain a
+prospectus containing this and other important information, please call 866.909.WISE (9473), or click here to view or download a prospectus online. Read the
+prospectus carefully before you invest. There are risks involved with investing, including the possible loss of principal. Past performance does not guarantee
+future results.
+You could lose money by investing in the Fund. Although the Fund seeks to preserve the value of your investment at $1.00 per share, it cannot guarantee it will
+do so. An investment in the Fund is not a bank account and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government
+agency. The Fund’s adviser is not required to reimburse the Fund for losses, and you should not expect that the adviser will provide financial support to the
+Fund at any time, including during periods of market stress.
+WisdomTree Digital Funds are distributed by WisdomTree Securities, Inc., Member FINRA .
+FINRA’s BrokerCheck – check the background of this firm or your investment professional on FINRA’s BrokerCheck .
+WisdomTree Securities, Inc. provides secondary market liquidity as a principal dealer, subject to inventory and market conditions; trading availability is not
+guaranteed and may be paused, limited or discontinued at any time. The limits apply only to instant liquidity transactions through WisdomTree Securities, Inc.
+and do not limit the ability to purchase or redeem shares directly with the WisdomTree Treasury Money Market Digital Fund (WTGXX). References to “instant” or
+“near instant” refer to settlement that occurs following order execution and onchain confirmation, rather than through traditional end-of-day or T+1 settlement
+cycles.
+Potential products and services, as well as applicable launch timing and assoc

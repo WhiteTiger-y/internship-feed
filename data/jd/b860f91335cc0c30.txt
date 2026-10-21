@@ -1,0 +1,29 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team
+and see how you can make a lasting impact on the world. NVIDIA is looking for a graduate research intern to help advance integrated sensing and communications
+(ISAC) on NVIDIA GPU-accelerated platforms! The right person will join a team building AI-native wireless systems, as well as develop, train, and test ISAC
+algorithms end-to-end on the NVIDIA Aerial Testbed, which combines our GPU-accelerated 5G/6G software stack with real over-the-air radios. This role suits a
+student who enjoys both deep algorithm work and turning ideas into working systems. What you’ll be doing: Develop, implement, and benchmark ISAC algorithms in
+Python on NVIDIA GPU platforms. Build radar signal processing pipelines, including radar cube formation, range and Doppler processing, angle estimation, CFAR
+detection, and clutter suppression (for example MTI, static clutter removal, and adaptive filtering). Compose new ML model architectures for sensing and joint
+sensing-communications tasks, and formulate the corresponding loss functions and optimization objectives. Train and evaluate models in PyTorch using both
+simulated data and data captured over the air. Integrate your algorithms with the NVIDIA Aerial Testbed and run real-time, over-the-air experiments. Detail your
+results and contribute to publications, patents, and internal technical reports. What we need to see: Currently enrolled in an MS or PhD program in Electrical
+Engineering, Computer Engineering, Computer Science, or a related field. Strong background in AI/ML for wireless communications. Solid understanding of ISAC
+concepts and waveforms, such as OFDM-based sensing. Hands-on experience implementing ISAC or radar algorithms in Python. Hands-on experience with PyTorch or
+another machine learning framework (for example TensorFlow or JAX). Confirmed ability to build new ML model architectures and formulate optimization and loss
+functions. Knowledge of the signal processing aspects of ISAC, including radar cube algorithms and clutter reduction techniques. Strong communication skills and
+the ability to work well in a collaborative research team. Ways to stand out from the crowd: PhD candidate with publications in ISAC, radar, or ML for wireless.
+Hands-on experience with real-time over-the-air wireless testbeds, such as software-defined radios (for example USRP) or 5G testbeds. Experience with GPU
+programming or acceleration (CUDA, CuPy, or similar). Familiarity with NVIDIA Aerial (CUDA-Accelerated RAN, Aerial Omniverse Digital Twin) or NVIDIA Sionna.
+Knowledge of the 3GPP 5G NR physical layer and 6G ISAC study items. NVIDIA is widely considered to be one of the technology world’s most desirable employers. We
+have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you! Our
+internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20
+USD - 71 USD. You will also be eligible for Intern benefits. Applications for this job will be accepted at least until October 24, 2026. This posting is for an
+existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an equal
+opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices)
+on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or
+any other characteristic protected by law. NVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every
+industry. Learn more about NVIDIA.

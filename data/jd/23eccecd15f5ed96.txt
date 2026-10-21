@@ -1,0 +1,57 @@
+- This position does not offer visa transfer or sponsorship now or in the future**
+Thank you for considering employment with Smith and Nephew. This job opportunity is not currently available for hiring; however, this requisition was
+established for candidates to express interest in the above position, with a view to progress formally once we are in a position to do so
+Life Unlimited. At Smith+Nephew we design and manufacture technology that takes the limits off living.
+The Agentic AI Intern will work with the Software Engineering team to develop and prototype next-generation AI solutions and intelligent agents. The intern will
+gain hands-on experience with Generative AI, Large Language Models (LLMs), agentic workflows, Retrieval-Augmented Generation (RAG), and AI-enabled software
+development. Duties may include designing and developing AI agents, integrating agents with engineering tools and data sources, developing and evaluating RAG-
+based solutions, testing agent behavior, and contributing to AI-enabled solutions across the software development lifecycle.
+What will you be doing?
+- Work closely with managers and mentors to complete specifically identified internship projects.
+- Design, develop, and prototype AI agents and agentic workflows for software engineering use cases.
+- Build applications and services using Generative AI and Large Language Models (LLMs).
+- Explore technologies such as RAG, tool/function calling, agent memory, multi-agent workflows, MCP, and human-in-the-loop interactions.
+- Develop integrations between AI agents and engineering systems, APIs, and knowledge sources.
+- Develop automated methods to evaluate the accuracy, reliability, and quality of AI-agent outputs.
+- Apply good software engineering practices including source control, code reviews, automated testing, documentation, and secure development.
+- Document technical designs, experiments, results, and key learnings.
+- Present project conclusions to senior leadership.
+Planned Start Date: May 2027
+Program Length: 12 weeks
+Location: Andover, MA
+What Will You Need To Be Successful
+Education:
+- Must be currently matriculated or within a year of matriculation in an accredited university as an undergraduate majoring in Computer Science or Computer
+Engineering, Software Engineering, or a related technical field.
+- Must be in excellent academic standing, with a 3.0 minimum GPA preferred
+Experience:
+- Previous applicable intern, co-op, part-time, apprenticeship, academic, or personal project experience is preferred.
+- Experience programming in Python is preferred.
+- Academic or hands-on project experience with Generative AI, LLMs, AI agents, or machine learning is preferred.
+- Exposure to technologies such as LangChain, LangGraph, Strands, Amazon Bedrock, RAG, vector databases, or similar AI technologies is a plus.
+- Experience developing APIs, cloud applications, or software integrations is a plus.
+Competencies:
+- Strong interest in AI, Generative AI, and autonomous/agentic software systems.
+- High learning agility with the ability to quickly experiment with and evaluate emerging AI technologies.
+- Strong analytical and problem-solving skills.
+- Ability to design, implement, test, and document software solutions.
+- Strong communication skills including technical writing, listening, and speaking.
+- Must be able to communicate effectively with cross-functional teams and drive project completion.
+- Independent thinking and the ability to work within a team is required.
+- Ability to manage multiple tasks and adapt to rapidly evolving technologies.
+You. Unlimited
+We believe in creating the greatest good for society. Our strongest investments are in our people and the patients we serve.
+Inclusion and Belonging- Committed to Welcoming, Celebrating, and Thriving. Learn more about Employee Inclusion Groups on our website
+Other reasons why you will love it here!
+Training:
+- Hands-On, Team-Customized, Mentorship
+The anticipated base compensation range for this position is $27- $32 USD hourly
+The actual base pay offered to the successful candidate will be based on multiple factors, including but not limited to job-related knowledge/skills,
+experience, geographical location, and internal equity. It is not typical for an individual to be hired at the high end of the range for their role at Smith +
+Nephew. Compensation decisions are dependent upon the facts and circumstances of each position and candidate.
+Smith+Nephew provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, protected veteran status, or disability.
+Stay connected by joining our Talent Community.
+We're more than just a company - we're a community! Follow us on LinkedIn to see how we support and empower our employees and patients every day.
+Check us out on Glassdoor for a glimpse behind the scenes and a sneak peek into You. Unlimited., life, culture, and benefits at S+N.
+Explore our website and learn more about our mission, our team, and the opportunities we offer.

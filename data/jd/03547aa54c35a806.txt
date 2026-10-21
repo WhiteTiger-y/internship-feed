@@ -1,0 +1,127 @@
+innovation and technology, Kenworth has played an essential role in the development of trucks that are more fuel efficient, productive, and economical to
+operate. Today, Kenworth is leading transportation innovation with the introduction of battery-electric vehicles, exploration of fuel cell electric powertrains,
+and autonomous driving systems. Kenworth is committed to fostering an environment of diversity, equality and inclusivity in the workplace.
+Requisition Summary
+Kenworth Truck Company is seeking a Data Analytics Intern to support business and manufacturing teams through data analysis, reporting, and process automation.
+This role will help identify trends, develop data visualizations, automate data processes, and provide insights that drive business decisions while gaining
+hands-on experience with analytics and business intelligence tools.
+Internships are scheduled to begin May or June 2027
+Responsibilities
+- Identify valuable data sources and automate collection processes
+- Undertake pre-processing of structured and unstructured data
+- Automate manual data pulls
+- Analyze large amounts of information to discover trends and patterns
+- Present information using data visualization techniques
+- Propose solutions and strategies to business challenges
+- Collaborate with manufacturing and business teams
+Requirements
+- Experience in Data Visualization and Analysis
+- Knowledge of R, Snowflake, SQL and Python; familiarity with Java or C++ is an asset
+- Proficient in using SQL code in development of complex queries
+- Experience using PowerBI business intelligence tool and Tableau
+- Background in using Low-Code Software for Application development
+- Analytical mind and business acumen
+- Problem-solving aptitude
+- Excellent communication and presentation skills
+- BSc/BA in Computer Science, Engineering, or relevant field
+- Perform other duties as assigned
+Education
+Bachelor's Degree in progress focusing on Business, Supply Chain Management, or other related fields.
+- Junior or senior standing preferred
+Intern Benefits
+As a U.S. PACCAR intern, you have a full range of benefit options, including:
+- Competitive salary and 401k with up to a 5% company match
+- Medical, dental, and vision plans for you and your family
+- Sick Leave
+- Flexible spending accounts (FSA) and health savings accounts (HSA)
+- EAP services: including wellness plans, estate planning, financial counseling, and more
+- Global Fortune 500 company with a wide array of growth, training, and development opportunities
+- Work alongside experienced goal-oriented colleagues recognized as experts in their field
+Additional Job Board Information
+At PACCAR, we value talent and promote growth and development. We carefully consider numerous compensation factors, including your education, training, or
+experience. The salary range for internship positions is $25 an hour for undergraduate students and $30 an hour for graduate students. Additionally, this role
+is eligible for a range of benefit options listed above.
+PACCAR is an Equal Opportunity Employer/Protected Veteran/Disability and E-Verify Employer.
+Nearest Major Market: Seattle
+Nearest Secondary Market: Bellevue
+Job Segment:
+Data Analyst, Summer Internship, Business Intelligence, Computer Science, Supply Chain Manager, Data, Entry Level, Technology, Operations
+Apply now »
+Apply now
+Apply Now
+Start applying with LinkedIn
+Start
+Please wait...
+Find similar jobs:
+Internship Jobs
+- Careers Home
+- PACCAR.com
+- LinkedIn
+- Privacy Statement
+- Employee Privacy Statement
+- Cookie Consent Manager
+© 2026 PACCAR Inc All Rights Reserved. Equal Opportunity Employer. WARNING: Always be on the lookout for job scams. PACCAR will never ask you for money as part
+of recruitment or a job offer.
+×
+Cookie Consent Manager
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. Because we respect your right to privacy, you
+can choose not to allow some types of cookies. However, blocking some types of cookies may impact your experience of the site and the services we are able to
+offer.
+Required Cookies
+These cookies are required to use this website and can't be turned off.
+Required Cookies
+Show More Details
+Required Cookies
+Provider
+Description
+Enabled
+SAP as service provider
+We use the following session cookies, which are all required to enable the website to function:
+- "route" is used for session stickiness
+- "careerSiteCompanyId" is used to send the request to the correct data center
+- "JSESSIONID" is placed on the visitor's device during the session so the server can identify the visitor
+- "Load balancer cookie" (actual cookie name may vary) prevents a visitor from bouncing from one instance to another
+Cookies from provider SAPasserviceprovider are required and cannot be turned off
+Functional Cookies
+These cookies provide a better customer experience on this site, such as by remembering your login details, optimizing video performance, or providing us with
+information about how our site is used. You may freely choose to accept or decline these cookies at any time. Note that certain functionalities that these
+third-parties make available may be impacted if you do not accept these cookies.
+Consent to all Functional Cookies
+Show More Details
+Functional Cookies
+Provider
+Description
+Enabled
+Vimeo
+Vimeo is a video hosting, sharing, and services platform focused on the delivery of video. Opting out of Vimeo cookies will disable your ability to watch or
+interact with Vimeo videos.
+Cookie Policy
+Privacy Policy
+Terms and Conditions
+Consent to cookies from provider Vimeo
+YouTube
+YouTube is a video-sharing service where users can create their own profile, upload videos, watch, like, and comment on videos. Opting out of YouTube cookies
+will disable your ability to watch or interact with YouTube videos.
+Cookie Policy
+Privacy Policy
+Terms and Conditions
+Consent to cookies from provider YouTube
+Advertising Cookies
+These cookies serve ads that are relevant to your interests. You may freely choose to accept or decline these cookies at any time. Note that certain
+functionality that these third parties make available may be impacted if you do not accept these cookies.
+Consent to all Advertising Cookies
+Show More Details
+Advertising Cookies
+Provider
+Description
+Enabled
+LinkedIn
+LinkedIn is an employment-oriented social networking service. We use the Apply with LinkedIn feature to allow you to apply for jobs using your LinkedIn profile.
+Opting out of LinkedIn cookies will disable your ability to use Apply with LinkedIn.
+Cookie Policy
+Cookie Table
+Privacy Policy
+Terms and Conditions
+Consent to cookies from provider LinkedIn
+Confirm My Choices
+Accept All Cookies

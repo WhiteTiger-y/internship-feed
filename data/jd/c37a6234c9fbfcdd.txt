@@ -1,0 +1,37 @@
+About Inmar Intelligence
+Inmar Intelligence provides data-driven technology and solutions that help businesses operate more efficiently across retail, healthcare, and digital commerce.
+Our teams work collaboratively to solve complex business challenges through technology, analytics, and innovation.
+At Inmar, we foster a High Challenge, High Support environment grounded in collaboration, continuous improvement, and a Customer First mindset.
+About This Opportunity
+Inmar Intelligence is seeking a part-time Data Science Intern to support the MarTech Data Science team. This position provides an opportunity to gain practical
+experience while contributing to ongoing data science and analytics initiatives.
+The MarTech Data Science team designs, develops, and deploys data science and engineering solutions supporting Inmar's media and incentives businesses. The
+intern will assist with data pipelines, machine learning models, and analytics solutions that support business needs and product development.
+What You'll Do
+- Assist in developing and maintaining reusable components for data transformation, feature extraction, and model deployment using cloud technologies, primarily
+Google Cloud Platform.
+- Support the development and deployment of machine learning models and analytics pipelines.
+- Collaborate with internal teams to develop data-driven solutions for business and product needs.
+- Assist with ad-hoc analyses and identify opportunities to improve or standardize recurring analytical processes.
+- Utilize AI tools to support coding, analysis, and problem-solving while following appropriate validation and review practices.
+- Contribute to ongoing team projects and technical documentation as needed.
+Your Qualifications
+- Currently pursuing a Bachelor's or Master's degree in Data Science, Statistics, Data Engineering, Computer Science, or a related quantitative field.
+- Experience with SQL and cloud-based data platforms, preferably Google Cloud Platform. Experience with AWS, Azure, or Spark is also relevant.
+- Experience with statistical programming languages and machine learning frameworks, including Python, R, SAS, TensorFlow, or PyTorch.
+- Familiarity with AI-assisted coding and problem-solving tools, including appropriate validation and review practices.
+- Strong analytical, organizational, communication, and problem-solving skills.
+- Ability to work independently and collaboratively with cross-functional teams.
+- Ability to work part-time onsite in Winston-Salem, NC, while enrolled in an academic program.
+Why Intern at Inmar Intelligence
+This part-time internship provides an opportunity to apply academic knowledge in a professional setting while gaining experience with data science, machine
+learning, and cloud-based technologies.
+Interns work alongside experienced professionals, contribute to ongoing projects, and develop technical and professional skills through practical experience and
+collaboration.
+The position is designed to accommodate continued academic enrollment while providing meaningful work experience during the school year.
+We are an Equal Opportunity Employer, including disability/vets.
+Recruitment Fraud Notice: Recruitment fraud is an increasingly common scam where individuals pose as employers to offer fictitious job opportunities. Scammers
+sometimes impersonate Inmar recruiters on LinkedIn and other channels. We will never ask for payment or sensitive personal information during the hiring
+process. Verify any role on our official Workday Careers site and learn how to spot scams in our full notice.
+This position is not eligible for student visa sponsorship, including F-1 OPT or CPT. Candidates must have authorization to work in the U.S. without the need
+for employer sponsorship now or in the future.

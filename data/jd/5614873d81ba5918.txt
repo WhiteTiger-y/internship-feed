@@ -1,0 +1,66 @@
+seamless investing and trading experiences to clients worldwide, all from their mobile devices. Our technology provides partners with a modern, extensible
+toolkit, enabling traditional investment workflows and innovative techniques like fractional share ownership. DriveWealth has evolved into a global platform
+offering trading of US equities, mutual funds, ETFs, fixed income, and options.
+There’s never been a better time to build a category-defining business and there has rarely been a team better positioned for this opportunity. Our culture
+blends the pace and agility of a fintech start-up with the impact, stability, and discipline of Wall Street. We encourage creativity and experimentation while
+ensuring institutional-grade execution and regulatory compliance in everything we do. Join us and help build the future of global investing!
+Interested to learn more about our AI CAP Program? We will have our in-person Open House at our NYC office on October 21st RSVP here: (
+https://partiful.com/e/B6pLxeJzmsbu74HJ2FeD ) and Chicago office on November 23rd (RSVP here: https://partiful.com/e/53eY3haJAUxm6leyFo5v )
+About the Role
+We are seeking an AI Product intern who will work on real AI agentic automation problems, designing, prototyping, and developing AI-powered agents to help the
+business and engineers achieve faster, smarter work. You will collaborate directly with senior engineers and architects, receiving mentorship and design
+reviews, and gaining exposure to modern GenAI patterns, including agent orchestration, tool-calling, retrieval, and evaluation, within an enterprise and fast-
+paced fintech environment.
+AI tools change every quarter. Your project will use the best models, agent frameworks, and protocols available in summer 2027. You will work on current
+practice, not today's stack.
+Launch your career developing real, impactful AI solutions in the lightning-fast world of fintech!
+Program Details
+Our summer program will be 10-12 weeks from May - August 2027 with the expectation of being in the office 3-4 days per week, as determined by the sponsor.
+Compensation will be set at an hourly rate of $35-40 per hour. Top performing associates may have the opportunity to be considered for full-time roles at
+DriveWealth at the conclusion of the program, based on performance and team needs. Must have a graduation date in 2027 or 2028 .
+What You’ll Do
+- Design, prototype, and develop agentic AI workflows that automate or augment business or engineering tasks (for example, analysis, triage, documentation, and
+knowledge synthesis)
+- Build internal tools or proof-of-concept systems that combine LLMs, APIs, and automation frameworks into end-to-end agentic solutions
+- Experiment with different agent architectures (single-agent vs. multi-agent, planner/executor patterns, human-in-the-loop workflows) and document tradeoffs
+- Apply best practices when building AI-driven automation
+- Evaluate agent behavior for reliability, correctness, and failure modes, and propose improvements
+- Clearly document designs, experiments, and lessons learned so work can be reused or extended by the team
+- Demo your work directly to customers and the leadership team
+What You’ll Need
+- Currently pursuing an undergraduate or graduate degree in Computer Science, Machine Learning, Mathematics, Engineering, or a related technical field
+- Experience programming in Python (for automation, prototyping, and scripting) and SQL
+- Familiarity with APIs, JSON, and basic service integration
+- Foundational understanding of large language models and how they are used in applications (prompting, tool use, retrieval, etc.)
+- Strong curiosity and willingness to explore new, rapidly evolving technologies
+- A growth mindset: you ask questions and enjoy experimenting and iterating
+- Systems thinking: able to reason about workflows, edge cases, and unintended consequences
+- Clear written and verbal communication, especially when explaining technical ideas to non-engineers
+- Ownership mindset: you take responsibility for outcomes, not just tasks
+- Ability to accept feedback and iterate quickly
+Applicants must be authorized to work for any employer in the U.S. DriveWealth is unable to sponsor an employment Visa at this time.
+Working at DriveWealth
+We do our best work when we're in the same room. To maintain the speed our partners expect, our New York, Chicago, and Lithuania teams work in office on a
+hybrid schedule. We've found that being physically side-by-side is the only way to solve complex problems in real-time and stay truly accountable to the
+products we ship. When you're here, you're working directly with the people making the decisions.
+To support that work, we provide competitive compensation, equity, and a 401(k) match. We also offer Medical insurance, Dental insurance, Vision insurance,
+Disability insurance, and Paid Parental Leave, along with a wellness reimbursement, a company-provided phone, and a personal development allowance. Finally, we
+value the time you spend away from the office with generous Paid Time Off (PTO) and observed holidays.
+Work Authorization
+Applicants must possess the legal right to work in the country where the position is located at the time of application. DriveWealth requires all employees to
+provide original documentation verifying their work authorization on or before their first day of employment.
+For US-based roles: Applicants must be currently authorized to work in the United States on a full-time basis without the need for current or future visa
+sponsorship. DriveWealth does not provide visa sponsorship or support for employment authorization, including transfers, at this time. Offers of employment are
+strictly contingent upon an individual’s ability to secure and maintain the legal right to work at the Company.
+How We Think About AI
+We leverage AI to work smarter and move faster. We seek AI-curious talent who are proactive about using emerging tools to increase signal quality, reduce
+friction, and improve outcomes to deliver products faster, provide better service to our partners, and to streamline processes. Your ability to leverage our
+internal tools and technology to drive results is as important to us as your core domain expertise.
+Compensation
+Pay is generally based on the level, complexity, responsibility, location, and job duties/requirements of the specific position. We then source candidates with
+the requisite skills, expertise, education, training, and experience. If you are selected for an interview, please feel welcome to speak to a recruiter about
+our compensation philosophy and other available benefits. This role is eligible for base, bonus, equity, 401(k) match, and heavily subsidized benefits and
+perks.
+Equal Employment Opportunity
+To build technology and products that are used and loved by people and solve real-world problems, we need to build a team with many different perspectives and
+experiences. We are an equal opportunity employer. We do not discriminate based

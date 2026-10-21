@@ -1,0 +1,45 @@
+Data Quality & Systems Intern Location: Weybridge JOB PURPOSE: As businesses become increasingly connected and automated, the quality and reliability of data
+have never been more important. As our Data Quality & Systems Intern, you'll join the B2B Application Support team at Sony Semiconductor Solutions, helping to
+ensure the systems and data that support our supply chain, sales and marketing activities run smoothly and efficiently. You'll gain hands-on experience
+analysing data, identifying inconsistencies and solving real business challenges, while exploring opportunities to improve processes through automation and
+smarter ways of working. Working alongside experienced colleagues, you'll develop valuable analytical, problem-solving and technical skills, gaining an insight
+into how technology and data support business decisions and day-to-day operations across an international organisation. This is an opportunity to go beyond
+working with data, you'll help make it more accurate, reliable and valuable to the business. Start date: 5 July 2027 Disclaimer: Due to high volumes, this job
+posting may be closed earlier than planned, so don’t hesitate to apply if you are interested. The Job What will you be doing? Purchase Order and Reservation
+Order Reconciliation: Perform daily reconciliation of purchase orders and reservation orders between SAP and our demand planning tool. Data Quality Checks:
+Review daily reports from the demand planning tool to identify missing six-digit material codes and take the necessary corrective action. SharePoint User
+Management: Update SharePoint user groups monthly to ensure that access permissions reflect current user requirements. SharePoint Improvement Project
+(Optional): Support a project to remove outdated documents, refresh existing content, and improve the overall look and structure of SharePoint. Customer-
+Material Registration: Register new customer and material combinations in our demand planning tool. Customer EDI Interface Monitoring: Review customer EDI
+interface reports, identify missing or incomplete combinations and information, and liaise with the relevant business teams to ensure that records are updated.
+Forecast Reporting: Generate ad hoc reports covering sales forecasts, customer forecasts, and marketing forecasts. What do we need you to bring? Analytical
+Thinking: An analytical mindset with an eye for detail and a willingness to investigate data discrepancies. Communication Skills: The ability to communicate
+clearly and effectively with colleagues across different teams. Enthusiasm for Microsoft Excel: A strong interest in using Excel to analyse data, identify
+discrepancies, and improve processes. Collaboration: A willingness to work closely with different teams and stakeholders. Business Curiosity: An interest in
+understanding business processes, customer requirements, and the reasons behind data discrepancies. A Willingness to Learn: The confidence to try new
+approaches, learn from mistakes, and ask for support when needed. Teamwork: Be willing to support teammates and learn from the people around you Our Recruitment
+Process After you have submitted your application, selected candidates will be asked to complete a self-service video interview. After we have carefully
+reviewed all the video interviews, those who successfully meet our hiring criteria will be invited to an interview with our hiring team. During or prior to the
+interview, there will be an additional case-study task for applicants to complete. Why? This not only allows us to see what you can do but also enables you to
+get a taste of what your day-day work will entail. After the interviews have concluded, we’ll move to the offer stage, and before you know it, you’ll be here at
+Sony! Throughout the recruitment process until your start date, you’ll have regular connections with our HR & Sony Placement Year programme team, as well as our
+current interns to answer any questions and provide guidance and further information on your Sony journey. This will also allow you to connect with the other
+future interns who will form the 2027 Sony cohort and start building your network. If you will need to relocate, this is also a great opportunity to find others
+in the same situation. Your new office Weybridge Based at the Weybridge office, you will enjoy a vibrant and friendly working environment. We have an onsite
+canteen with a wide range of options available, and a barista style coffee shop. There is a well-provisioned onsite gym run by our own Sony Wellbeing
+Coordinator, with classes on set days in the mornings, at lunch and after work hours. We have a staff car park which includes electric charging points, an
+undercover and secure bike rack (useful if you’ve made the most of the Cycle-to-Work scheme), or if you will use public transport, we have a shuttle bus service
+that regularly runs between train station and the office at peak times. We currently require our Weybridge based employees to work on site a minimum 3-days per
+full working week. Take a look at our video tour of the Weybridge site here: https://www.youtube.com/watch?v=3lwbMOzjoVA Equal Opportunity Sony Europe is an
+Equal Opportunity Employer. All qualified applicants will receive equal consideration for employment regardless of race, colour, religion, gender, citizenship,
+ancestry, age, physical or mental disability, sexual orientation, gender identity, medical condition, or any other protected characteristics. Disability
+Accommodation for Applicants to Sony Europe Sony Europe will provide reasonable accommodation for any qualified individual with disabilities in the application
+process. For reasonable accommodation requests, please contact us by email at AccommodationRequest@eu.sony.com or by mail to: Sony Europe B.V, Human Resources
+Department, the Heights, Brooklands, Surrey, KT13 0XW, UK. When contacting us please indicate the position you are applying for, and the accommodation required.
+We drive Sony’s leading Entertainment, Technology & Services business for consumer and professional markets, as well as Imaging & Sensing Solutions business,
+across Europe. Throughout all our fields including AI, biotech, or software solutions, from R&D and engineering, design, to sales, marketing, distribution and
+customer service, we work to deliver Sony's purpose to fill the world with emotion through the power of creativity and technology. Equal Opportunity Sony Europe
+is an Equal Opportunity Employer. All qualified applicants will receive equal consideration for employment regardless of race, colour, religion, gender,
+citizenship, ancestry, age, physical or mental disability, sexual orientation, gender identity, medical condition, or any other protected characteristics.
+Disability Accommodation for Applicants to Sony Europe Sony Europe will provide reasonable accommodation for any qualified individuals with disabilities in the
+application process. For reasonable accommodation requests, please contact us by email

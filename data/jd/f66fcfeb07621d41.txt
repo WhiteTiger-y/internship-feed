@@ -1,0 +1,62 @@
+Overview
+Who we are
+Collaborative. Respectful. A place to dream and do. These are just a few words that describe what life is like at Toyota. As one of the world’s most admired
+brands, Toyota is growing and leading the future of mobility through innovative, high-quality solutions designed to enhance lives and delight those we serve.
+We’re looking for talented team members who want to Dream. Do. Grow. with us.
+Toyota does not offer support or sponsorship of job applicants for employment-based visas or any other work authorization for this role now or in the future.
+You must have the right to work in the United States and not require Toyota support or sponsorship for immigration-related employment (e.g., H-1B, O-1, E-3,
+H-1B1, TN, F-1 OPT, F-1 STEM OPT, F-1 CPT, ‘job flexibility benefits’ [also known as I-140 or Adjustment of Status portability], etc.) now or in the future. You
+should not apply for this role if you will require Toyota to assist with immigration support or sponsorship now or in the future.
+Who We Are Looking For
+Toyota Financial Services (TFS) Data Science team is looking for highly motivated, driven graduate students with an interest in technology, financial services,
+and the automotive industry to fill internship roles in our Data Science team.
+The Data Science Internship Program is designed to provide a combination of on-the-job experience, networking, and mentorship, which are critical components for
+personal and professional growth. As a Data Science Intern, you will spend approximately 12 weeks at our Toyota Headquarters in Plano, TX gaining relevant work
+experience with a globally respected company. The program will run from May – August 2027.  Strong performers are often given the opportunity to return for
+full-time positions.
+Location:
+- Toyota Headquarters - Plano, TX
+What You’ll Be Doing
+Through this internship, you will uncover actionable insights through data analysis and help drive data-based decision making throughout the customer lifecycle.
+You will have the ability to support one or more areas, including but not limited to: Sales and Marketing, Credit Risk, Residual Value, Customer Management and
+Collections, Finance & HR, or associated business including Insurance and Manufacturing.
+- Partner with the business to identify the most important questions that need to be answered about our customers and their value.
+- Hands on data extraction and data wrangling from internal and external systems using SQL, Python, R, etc.
+- Analysis and model building using advanced analytics tools and techniques using statistical software packages like Python, R, etc.
+- Develop, manage and deploy analytic solutions using statistical software packages like R, Python, etc.
+- Build PowerPoint presentations to recommend business decisions.
+- Create output and or results that visualize findings using fixed reports and or tools like Tableau/Power BI
+- Develop analytical project plans and integrate inflows and outflows of information with teams upstream and downstream from analytical efforts.
+- Attend and participate (where appropriate) in various project planning and prioritization sessions.
+Projects May Include
+- Credit Risk Champion Challenger Model - create a new model to predict customer credit risk using a more advanced predictive algorithm to either find a better
+way of predicting customer credit risk or validate that the current model performs better than the proposed new model.
+- Price Testing for Hourly Vehicle Rentals - implement multiple pricing tests and analyzed the resulting data to learn the impact of various pricing strategies
+on the hourly rental business.
+- Interest Rate Reduction Test - implement a test where the interest rates charged in some areas of the country were reduced by a specified amount and the
+resulting data was analyzed using statistical methods to calculate the impact of the rate reduction on specific KPIs.
+What You Bring
+- Within 1 year of completing a Master’s or Ph.D. in a heavily analytical discipline
+- Advanced hands-on experience with tools such as Python (NumPy/Pandas), scikit-learn, R, and/or SQL.
+- Experience in using a variety of statistical and machine learning techniques to solve problems.
+- Exposure and familiarity with topics like Logistic Regression, Time Series Analysis, Experimental Design, Generalized Linear Models, Mixed Modeling,
+Multivariate Statistics, Large-Scale Predictive Modeling, CHAID/decision trees, Gradient Boosted Trees, Random Forests, and Neural Networks.
+- Ability to problem solve and think outside the box with a passion to learn and grow
+- Presenting analysis results and making recommendations to leadership
+Required Qualifications
+- Must be 18 years of age or older
+- Must have reliable transportation
+- Must have the right to work in the United States and not require Toyota sponsorship for immigration-related employment (e.g., H-1B, O-1, E-3, H-1B1, TN, or
+F-1 OPT extension) now or in the future
+- Minimum GPA of 2.7 or higher
+- Within 1 year of completing a Master’s or Ph.D. in a heavily analytical discipline
+What We’ll Bring
+During your interview process, our team can fill you in on all the details of our industry-leading benefits and career development opportunities. A few
+highlights include:
+- A work environment built on teamwork, flexibility and respect
+- Professional growth and development programs and opportunities
+Belonging at Toyota
+Our success begins and ends with our people. We embrace all perspectives and value unique human experiences. Respect for all is our North Star.
+Applicants for our positions are considered without regard to race, ethnicity, national origin, sex, sexual orientation, gender identity or expression, age,
+disability, religion, military or veteran status, or any other characteristics protected by law.
+Have a question, need assistance with your application or do you require any special accommodations? Please send an email to talent.acquisition@toyota.com.

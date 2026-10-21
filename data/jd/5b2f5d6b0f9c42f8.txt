@@ -1,0 +1,47 @@
+About Metamorphic
+Metamorphic is developing new approaches to intelligence by combining machine learning with large-scale experimental neuroscience, informed by the principles
+that make the brain efficient, flexible, and robust. We are building foundation models trained on rich, continuous neural data — a high-resolution model of the
+brain at a scale never before possible.
+Our founding team spans machine learning, neuroscience, and neurotechnology, with prior work including the MICrONS project , Neuropixels , and the Enigma
+project , as well as foundational scientific contributions in learning, neural computation, and generative modeling. Our work sits at the frontier of AI
+research, and we believe the highest-impact discoveries will come from researchers and engineers working as a single, tightly collaborative team.
+The name Metamorphic reflects our belief that the next advances in intelligence will come from a change in form, beyond scale — from artificial to natural
+intelligence.
+About the Role
+We are seeking interns across a broad range of roles including computer vision, embodied AI and RL, robotics, agentic systems, language modeling, computational
+neuroscience, and ML engineering to join our growing AI research team for the summer. This is a high-impact, technically deep role at the frontier of ML
+research and engineering in an early stage company.
+You'll thrive in this role if you:
+Have the ability to move from research code to production-quality systems
+Are a pragmatic problem solver with attention to scalability and reliability
+Are comfortable operating in fast-moving, research-driven environments
+Are eager to learn more about machine learning research in a novel scientific domain
+Are enthusiastic to work at an organization that functions as a single, cohesive team pursuing large-scale AI research
+Have ambitious goals for AI progress and are excited to create the best outcomes over the long term
+We offer:
+The chance to work on one of the most scientifically consequential AI projects being pursued today
+A small, world-class team where your contributions directly shape the science and the company
+Competitive compensation and benefits
+Strong mentorship and career development
+Salary Range
+$6-8k/month depending on seniority.
+Timeline
+Application Deadline: November 10th, 2026
+Interviews: November 11th - November 26th, 2026
+Decision Release: December 1st, 2026
+Minimum Qualifications
+Bachelor's degree or equivalent experience, currently pursuing a PhD or MS in Computer Science, Electrical Engineering, Physics, or another quantitative field
+Strong interest in one of the below:
+Computer vision
+Embodied AI and RL
+Agentic systems
+Robotics
+Language
+ML engineering
+Computational neuroscience
+Nice to Have
+Experience conducting long-term development and/or research projects in academia or industry
+Contributions to open-source ML projects
+Publications at top-tier conferences
+We encourage you to apply even if you do not believe you meet every single qualification. If you don't see a role that fits, we encourage you to submit a
+general application and tell us how you'd like to contribute to our mission.

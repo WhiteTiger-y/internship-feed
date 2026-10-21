@@ -1,0 +1,51 @@
+The Meta Reality Labs Research Team brings together a world-class team of researchers, developers, and engineers to create the future of virtual and augmented
+reality, which together will become as universal and essential as smartphones and personal computers are today. And just as personal computers have done over
+the past 45 years, AR, VR and MR will ultimately change everything about how we work, play, and connect. We are developing all the technologies needed to enable
+breakthrough AR glasses and VR headsets, including optics and displays, computer vision, audio, graphics, brain-computer interfaces, haptic interaction,
+eye/hand/face/body tracking, perception science, and true telepresence. Some of those will advance much faster than others, but they all need to happen to
+enable AR, VR and MR that are so compelling that they become an integral part of our lives.In particular, the Meta Reality Labs Research audio team is focused
+on two goals; creating virtual sounds that are perceptually indistinguishable from reality, and redefining human hearing. See more about our work here:
+https://tech.facebook.com/reality-labs. These two initiatives will allow us to connect people by allowing them to feel together despite being physically apart,
+and allow them to converse in even the most difficult listening environments.Meta Reality Labs Research is looking for experienced interns who are passionate
+about ground breaking research in audio signal processing, machine learning and audio visual learning to solve important audio-driven problems for AR/VR
+applications. We currently have open positions for a range of projects in multimodal representation learning, audio visual scene analysis, egocentric audio
+visual learning, multi-sensory speech enhancement and acoustic activity localization. Our internships are twelve (12) to twenty four (24) weeks long and we have
+various start dates throughout the year.
+Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD) Responsibilities:
+- Research, model, design, develop, and test novel audio and speech processing algorithms using machine learning, signal processing, and computer vision.
+- Collaborate with researchers and engineers across diverse disciplines.
+- Design and implementation of novel algorithms to solve audio research problems.
+- Experimental design, implementation, and execution to evaluate new audio technologies.
+- Collaboration with other researchers across audio and acoustic engineering disciplines.
+- Communication of research agenda, progress, and results.
+Minimum Qualifications:
+- 3+ years experience with Python, Matlab, or similar
+- 3+ years experience with machine learning software platforms such as PyTorch, TensorFlow, etc
+- 2+ years experience building novel computational models in audio or audio-visual or speech application domains using machine learning or signal processing
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories
+(e.g. Github)
+- Strong background in statistical modeling techniques, and/or signal processing
+- Proven track record of achieving results as demonstrated in accepted papers at top computer vision and machine learning related conferences such as CVPR,
+ECCV, NIPS, ICASSP, InterSpeech etc
+- Experience working and communicating cross functionally in a team environment
+- Intent to return to a degree-program after the completion of the internship/co-op
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.
