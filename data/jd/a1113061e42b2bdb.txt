@@ -1,0 +1,65 @@
+**This position does not offer visa transfer or sponsorship now or in the future**
+Thank you for considering employment with Smith and Nephew. This job opportunity is not currently available for hiring; however, this requisition was
+established for candidates to express interest in the above position, with a view to progress formally once we are in a position to do so
+Life Unlimited. At Smith+Nephew we design and manufacture technology that takes the limits off living.
+The Computer Vision Software Engineer Intern will join the Software Engineering team supporting TESSA™ Spatial Surgery, Smith+Nephew’s computer-assisted
+solution for orthopedic surgical navigation. Working with experienced engineers, the intern will contribute to real-time computer vision and video software that
+helps surgeons visualize guidance and anatomical context during procedure planning and execution.
+This role offers hands-on experience across image capture and processing, tracking, calibration, geometric computation, and overlay rendering on GPU-accelerated
+Linux platforms. The intern will deliver a defined, meaningful project, learn how software is developed and verified in a regulated medical-device environment,
+and gain exposure to the impact of navigation technology in arthroscopy. A hybrid schedule is anticipated to enable regular work with development and test
+hardware.
+What will you be doing?
+- Work with experienced mentors to define and complete a focused internship project with a measurable outcome for Smith+Nephew’s navigation software.
+- Develop, test, and maintain computer vision features for real-time surgical navigation, including image processing, augmented-reality overlays, and geometric
+computations.
+- Use MATLAB, Python, Julia, or similar tools where appropriate to prototype algorithms, analyze data, or create validation scripts.
+- Participate in code reviews, technical documentation, and agile team practices using Git, GitLab, CI, and standardized or containerized development
+environments.
+- Collaborate effectively with colleagues across different locations and time zones.
+- Develop C++ skills while learning and applying medical-software practices related to quality, traceability, risk awareness, and verification under the
+mentorship of experienced engineers.
+- Document the project, its results, and key learnings, and present the outcome to engineering stakeholders and senior leadership.
+Planned Start Date: May 2027
+Program Length: 12 weeks
+Location: Andover, MA
+What Will You Need To Be Successful
+Education:
+- Currently enrolled in an accredited Bachelor’s or Master’s program in Computer Science, Computer Engineering, Electrical Engineering, Biomedical Engineering,
+Software Engineering, or a closely related field.
+- Candidates at approximately the third year of undergraduate study or beyond are encouraged to apply; equivalent project-based experience will also be
+considered.
+- Must be in good academic standing, with a 3.0 minimum GPA preferred.
+Experience:
+- Demonstrated programming experience through coursework, academic or personal projects, a prior internship, co-op, part-time role, apprenticeship, or research.
+- Programming experience in MATLAB, Python, Julia, C++, or another language through coursework or projects. Previous exposure to C++ is an advantage, but it is
+not required.
+- Coursework or project exposure to computer vision or image processing, such as camera models, image filtering, feature detection, multi-view geometry,
+tracking, or camera calibration
+- Working knowledge of linear algebra and 3D geometry, including rotations, rigid transforms, and projection.
+- Exposure to computer vision libraries or software build tools, such as OpenCV or CMake, is a plus.
+- Exposure to NVIDIA Jetson, CUDA, Holoscan, or similar GPU or streaming platforms is a plus.
+- Familiarity with Eigen, Ceres, optimization methods, point clouds, registration, video pipelines, tracking, or augmented-reality overlays is a plus.
+Competencies:
+- Strong interest in computer vision, medical technology, robotics, augmented reality, or real-time embedded systems.
+- Curiosity about surgical navigation and enthusiasm for understanding how software can support arthroscopy workflows and patient care.
+- Strong analytical and problem-solving skills, with a practical and methodical approach to experimentation and debugging.
+- Ability to design, implement, test, and clearly document software solutions with guidance from experienced engineers.
+- Clear written and verbal communication and the ability to collaborate with geographically distributed teams.
+- Ability to work independently on defined tasks while seeking feedback and contributing effectively as part of a team.
+- High learning agility and motivation to turn academic knowledge into an impactful engineering contribution.
+You. Unlimited
+We believe in creating the greatest good for society. Our strongest investments are in our people and the patients we serve.
+Inclusion and Belonging- Committed to Welcoming, Celebrating, and Thriving. Learn more about Employee Inclusion Groups on our website
+Other reasons why you will love it here!
+Training: Hands-On, Team-Customized, Mentorship
+The anticipated base compensation range for this position is $27- $32 USD hourly
+The actual base pay offered to the successful candidate will be based on multiple factors, including but not limited to job-related knowledge/skills,
+experience, geographical location, and internal equity. It is not typical for an individual to be hired at the high end of the range for their role at Smith +
+Nephew. Compensation decisions are dependent upon the facts and circumstances of each position and candidate.
+Smith+Nephew provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, protected veteran status, or disability.
+Stay connected by joining our Talent Community.
+We're more than just a company - we're a community! Follow us on LinkedIn to see how we support and empower our employees and patients every day.
+Check us out on Glassdoor for a glimpse behind the scenes and a sneak peek into You. Unlimited., life, culture, and benefits at S+N.
+Explore our website and learn more about our mission, our team, and the opportunities we offer.

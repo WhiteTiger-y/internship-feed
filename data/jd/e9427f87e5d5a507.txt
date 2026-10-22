@@ -1,0 +1,55 @@
+Future AR and VR devices occupy ever-smaller, glasses-like form factors and thus require ever-tighter power budgets. At the same time, we require higher-quality
+passthrough rendering and scene understanding. In particular, depth estimation, which reconstructs scene geometry in real time from sensor signals, is one of
+the biggest power consumers in AR and VR devices. However, most existing work targets datacenter GPUs, or at best mobile silicon with an order of magnitude more
+power headroom than what glasses form factors allow.Reality Labs is Meta's innovation engine for next-generation AR/VR and wearable technology and XR Graphics
+is involved in building the next-generation imaging and reconstruction stack that closes this gap. We are looking for a Research Scientist Intern to work on
+low-power real-time reconstruction of scene geometry for AR/VR. Today, VR passthrough, hand interaction, and environment understanding run on separate
+pipelines, each tuned for different accuracy, latency and power target. We are interested in deduplicating the compute (and thus reducing power):- What is the
+right depth estimation and processing strategy, from the ground up, for a glasses power budget?- Can we train a single lightweight scene representation that can
+serve passthrough, hand occlusions, and background occlusions simultaneously?These are open questions, and you would help define the approach. This is a
+research internship. You will own a genuinely open problem, choose the methods, build the evaluation, and present your results, with support for publication
+where the work warrants it.
+Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR Responsibilities:
+- Plan and execute research to advance the state of the art in low-power, real-time scene reconstruction for AR/VR — spanning depth estimation, occlusion, and
+geometric scene understanding.
+- Explore the extent to which a shared, learned scene representation can serve multiple downstream consumers at different latency and accuracy points.
+- Define evaluation methodology and run experiments measuring geometric accuracy, temporal stability, rendering distortion, latency, and compute and power cost
+on real multi-sensor device captures.
+- Collaborate with researchers and engineers across the passthrough, scene understanding, and on-device compute teams to assess feasibility within headset and
+glasses power envelopes.
+- Document and present findings, and contribute to publications and patents where the results warrant it.
+Minimum Qualifications:
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+- Knowledge and hands-on experience in at least one of: depth or stereo estimation, 3D reconstruction (TSDF, implicit or neural fields, Gaussian splatting),
+video or instance segmentation, or neural scene representations
+- Experience designing and running quantitative experiments, and communicating technical results
+Preferred Qualifications:
+- Intent to return to a degree-program after the completion of the internship
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading
+workshops or conferences such as CVPR/ECCV/ICCV, SIGGRAPH/SIGGRAPH Asia, 3DV, ICLR, NeurIPS, etc
+- Experience with efficient or on-device inference: quantization, distillation, pruning, or deployment to mobile NPU, DSP or GPU targets
+- Experience with multi-sensor fusion across heterogeneous sensors — RGB, IR/CV cameras, time-of-flight — including camera calibration and cross-sensor
+registration
+- Experience with temporal filtering and state estimation over scene state
+- Familiarity with AR/VR passthrough, reprojection, occlusion rendering, or SLAM and scene reconstruction
+- Experience with C++, and with profiling or optimizing real-time computer vision or graphics pipelines
+- Experience working in a Unix environment
+- Experience reasoning about compute and power budgets as a first-class design constraint
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

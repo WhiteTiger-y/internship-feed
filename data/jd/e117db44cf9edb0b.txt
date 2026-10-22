@@ -1,0 +1,45 @@
+Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job
+Family: Interns Job Qualifications: Skills: Agentic AI, Data Analytics, IT Technologies Certifications: None Experience: 0 + years of related experience US
+Citizenship Required: No Job Description: Sponsorship is not available for this role. At GDIT, our people are our business. We pride ourselves on the work our
+innovators do to support and secure some of the most complex government, defense, and intelligence projects across the world. We wouldn’t be successful without
+our ability to attract new talent to join our team. What sets a GDIT internship experience apart from other organizations in the industry? GDIT’s Summer
+Internship Program is designed with you in mind!  Our internship provides you the opportunity to be a part of a collaborative team that is helping to solve our
+clients’ most challenging matters. Throughout GDIT’s 10-week Summer Internship Program, you will have the opportunity to do the following: Work side-by-side
+with GDIT professionals delivering work for clients.  Collaborate with a team of peers to research and propose solutions to a current business challenge. 
+Participate in a mentoring circle led by an early career champion. Interact with GDIT leaders. Participate in professional development. How You’ll Make this
+Internship Opportunity Your Own Our Technical Intern, Estimation Associate summer intern, will work on a range of projects that ideally align with their
+interests. Projects and daily work include AI builds/testing (Agentic and Generative), Data Analytics and Metrics Ingestion and Analysis, scripting and
+automation builds/testing, and AI / labor modeling and tools. You’ll collect metrics, data, analyze the data, and provide data analysis reporting and clean data
+ready for ingestion, and use your scripting/coding skills and AI tools to build and test automated workflows and models. Your work will provide insights to help
+guide labor estimates and decision-making, statistical modeling and includes involvement in technical IT discussions, working with our CTO / technology teams as
+we tackle large Enterprise IT challenges. You’ll have the opportunity to be part of the team as we continue to apply the power and efficiency of AI tools to our
+IT labor estimation processes and opportunities, bringing more to our customers’ missions every day. Come join and experience GDIT culture as we work together
+with honesty, trust, transparency and alignment. The ideal intern will have good reliability and high integrity, strong attention to detail, passion for IT and
+supporting federal customer missions, good Excel experience and hands-on experience building agentic AI workflows (M365 Studio or other tools). Additionally,
+the following: daily knowledge/experience with AI tools (e.g. ChatGPT, CoPilot, Gemini, etc.), training/application of data analytics, familiarity with
+Generative and Agentic AI, understanding of vibe coding principles, familiarity with scripting/automation, and a PASSION for IT Technology and desire or
+interest to support IT technology data analysis and IT Labor Estimation. Come spend your summer working with an experienced team supporting growth and programs,
+bridging the gap between technical solutions and labor/cost to deliver. The Must-Haves Currently enrolled in a bachelor's or master's degree program in computer
+science, IT, engineering, or other STEM field from a United States-based college or university.  Use/understanding of Microsoft Office products (e.g., Word,
+PowerPoint, SharePoint, Excel, and Teams) Hands-on experience building out an Agentic AI workflow using tool like MS365 Studio Experience with or knowledge of
+Generative AI, Agentic AI, vibe coding, and familiarity with AI tools (e.g., ChatGPT, CoPilot, Gemini, etc.) and their applications in IT processes. What You’ll
+Need to Deliver Your Best Every Day Attention to Detail, Creative Problem solving and interest in large complex IT program delivery (AI / ML, data centers,
+Cybersecurity, etc.) supporting federal customers Familiarity with both Generative and Agentic AI frameworks and applications. Knowledge or interest in
+exploring AI/ML coding and its relevance in AI-driven IT solutions. Experience using or building with AI tools (e.g. M365 Studio, ChatGPT, CoPilot, Gemini,
+etc.) Ideally experience with both Generative AI and Agentic AI tools Strong interest in IT technology – large complex Enterprise IT solutions (AI, data, data
+centers, cloud, networks, quantum, etc.) Interest in or experience with: data analysis, metrics and business/finance Good experience with MS Excel Interest in
+learning/doing estimation, risk analysis and parametric models Knowledge of statistical techniques Knowledge of Python, Powershell or similar or other basic
+coding capability Experience working in a collaborative team environment. Intuitiveness with an ability to identify and solve complex problems related to
+rapidly changing technology.  Ability to effectively articulate technical challenges and solutions The likely hourly rate for this position is between $25.50 -
+$34.50. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly
+contractual requirements and could fall outside of this range. Scheduled Weekly Hours: 40 Travel Required: Less than 10% Telecommuting Options: Hybrid Work
+Location: USA VA Falls Church Additional Work Locations: Total Rewards at GDIT: Our benefits package for all US-based employees includes a variety of medical
+plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax
+dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a
+variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. To ensure our
+employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal
+accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our
+offerings are competitive and reflect what our employees have told us they value most. Our Identify Verification Process: As part of the hiring process, we will
+ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against
+identity fraud. You are expected to be on camera during virtual interviews. We reserve the right to take your picture to verify your identity and prevent fraud.
+By proceeding, you authorize the collection, processing, and u

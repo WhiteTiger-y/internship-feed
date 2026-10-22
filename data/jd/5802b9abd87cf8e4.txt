@@ -1,0 +1,73 @@
+About Us
+Join our AMETEK IntelliPower team, where we design and deliver high-performance, ruggedized uninterruptible power systems (UPS) and frequency/voltage conversion
+solutions to safeguard mission-critical operations. Be a part of a team that ensures the reliability and protection of essential systems in the toughest
+environments, making a direct impact on critical industries worldwide!
+Job Summary
+We are seeking an enthusiastic and forward-thinking student to drive hands-on projects that help implement AI best practices across our organization. This role
+is ideal for someone passionate about artificial intelligence, operational excellence, and solving real business problems with practical, scalable solutions.
+The AI Automation Intern will drive two key initiatives: Develop an AI‑driven magnetics design automation tool that accelerates the design of inductors and
+transformers; and automate the firmware modification and calibration process by replacing manual updates to hard‑coded values with automated adjustments
+generated from engineering specifications. Candidate must be able to commute to both Orange and Irvine offices.
+Key Responsibilities
+- Lead end-to-end‑ projects focused on implementing an AI best practice.
+- Develop an AI enabled magnetics design automation capability that leverages machine learning models trained on historical designs, simulation outputs, and
+performance data to deliver rapid, reliable design recommendations and reduce engineering iteration cycles.
+- Develop automation workflows to update firmware configuration values and calibration gains from defined specifications.
+- Reduce manual editing of hard-coded parameters and gain values in C source files and related configuration artifacts.
+- Work with engineers to translate product requirements and specs into reliable firmware change rules.
+- Support validation of generated firmware changes through test cases, build checks, and result review.
+- Document the automation process, tool usage, and limitations for team adoption.
+- Develop documentation outlining datasheet standards, governance, and updated processes.
+- Build simple prototypes, process maps, or proof‑of‑concept demonstrations as appropriate.
+- Implement AI Agents or other productivity tools that drive simplification, efficiency, and speed.
+- Present final project outcomes, impact, and recommendations to business and technical leaders.
+Minimum Qualifications
+- Currently pursuing a Bachelor’s or Master's degree in Engineering, Data Science, Computer Science, Information Systems, or a related field.
+- Coursework, projects, or hands‑on internship experience with artificial intelligence, machine learning, automation, or data analytics.
+- Prior experience using AI productivity tools (Copilot, ChatGPT, or similar).
+- Experience with C programming for embedded or firmware applications.
+- Familiarity with TI IDE tools and TI chipsets.
+- Experience with firmware configuration, calibration, or parameter tuning.
+- Experience using automation, scripting, or AI tools to reduce manual engineering work.
+- Familiarity with Microsoft 365 tools in a professional or academic setting.
+Desired Qualifications
+- Strong interest in artificial intelligence, automation, or data-driven process improvement.
+- Ability to translate business needs into working AI solutions.
+- Experience with research, data analysis, or process mapping methodologies.
+- Basic understanding of AI concepts (e.g., machine learning, large language models, responsible AI).
+- Prior experience in magnetics or power electronics design is preferred.
+- Strong organizational and project management capabilities.
+- Excellent problem-solving and analytical skills.
+- Effective written and verbal communication, including the ability to translate technical concepts for non‑technical audiences.
+- Comfortable working independently while leveraging mentors and subject‑matter experts for guidance.
+What’s In It For You
+- Meaningful, real‑world experience that prepares you for future roles in AI, digital transformation, and process improvement.
+- Opportunity to explore potential career paths before graduating.
+- Supportive environment that accelerates growth from student to early‑career professional.
+- Competitive pay and exposure to a global technology organization.
+- Exciting, fast-paced environment where you could make a true impact.
+Additional Details
+Location:
+This position is located in sunny Orange, California. Orange combines historical charm with modern living. From the center of town referred to as the Plaza to
+our top-rated hospitals, schools, and parks, we’re a “Slice of Old Towne Charm.” The City of Orange includes plenty of natural, undeveloped areas that offer
+outdoor enthusiasts the opportunity to get outside and explore nature in Orange County with trails for hikers, equestrians, and mountain bikers of all skill
+levels.
+To learn more about our company and our job opportunities, visit us at: https://www.ametek.com/careers
+To learn more about the business unit you’ll be joining, visit us at: https://www.intellipower.com/
+Compensation
+Employee Type: Hourly
+Currency: USD
+Salary Minimum: 50,000
+Salary Maximum: 60,000
+Incentive: No
+Disclaimer: Where a specific pay range is noted, it is a good faith estimate at the time of this posting. The actual salary offered will be based on experience,
+skills, qualifications, market / business considerations, and geographic location.
+For more information on AMETEK's competitive benefits, please click here.
+AMETEK, Inc. is a leading global provider of industrial technology solutions serving a diverse set of attractive niche markets with annual sales over $7.5
+billion.
+AMETEK is committed to making a safer, sustainable, and more productive world a reality. We use differentiated technology solutions to solve our customers’ most
+complex challenges. We employ 22,000 colleagues, in 35 countries, that are grounded by our core values: Ethics and Integrity, Respect for the Individual,
+Inclusion, Teamwork, and Social Responsibility. AMETEK is a component of the S&P 500. Visit https://www.ametek.com/careers for more information.
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin,
+religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. Individuals
+who need a reasonable accommodation because of a disability for any part of the employment process should call 1 (866) 263-8359.

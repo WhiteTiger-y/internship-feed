@@ -1,0 +1,32 @@
+[PLEASE DO NOT APPLY HERE AND PLEASE READ THE REQUIREMENT, if you are interested you should send a CV/resume, a brief statement of interest, and any relevant
+research or project experience please only email at sahashemi@mgh.harvard.edu.]
+We are seeking highly motivated undergraduate/graduate students for a temporary research internship opportunity within our team at Harvard Medical School and
+Massachusetts General Hospital (MGH).
+The project is focused on advancing computational methods for medical imaging and exploring emerging hybrid quantum-classical computing approaches for
+healthcare applications. Interns will have the opportunity to work at the intersection of quantum computing, computational imaging, medical physics, artificial
+intelligence, and biomedical data science, contributing to research that may help shape the future of PET/CT imaging and related technologies.
+Expected Responsibilities
+- Assist in the development and evaluation of computational algorithms for large-scale medical imaging applications.
+- Contribute to research involving hybrid quantum-classical computing frameworks.
+- Implement, optimize, and benchmark algorithms using modern scientific computing tools.
+- Support simulation studies, image analysis, and quantitative performance evaluation.
+- Work with high-performance computing resources, GPU-accelerated computing environments, and emerging quantum computing platforms.
+- Participate in research discussions, software development, manuscript preparation, and presentation of scientific results.
+Minimum Qualifications
+- Current undergraduate or graduate student in Computer Science, Physics, Electrical Engineering, Biomedical Engineering, Applied Mathematics, Data Science,
+Medical Physics, or a related field.
+- Proficiency in Python and MATLAB programming.
+- Familiarity with scientific computing, numerical methods, and data analysis.
+- Strong analytical, mathematical, and problem-solving skills.
+- Ability to work independently and collaboratively within an interdisciplinary research team.
+- Strong written and verbal communication skills.
+Preferred Qualifications
+- Experience with medical imaging, image processing, signal processing, computational physics, or scientific computing.
+- Experience with machine learning, optimization algorithms, or scientific software development.
+- Familiarity with GPU computing, CUDA, parallel computing, or high-performance computing environments.
+- Exposure to quantum computing concepts and/or frameworks such as Qiskit, CUDA-Q, PennyLane, Cirq, or related platforms.
+- Previous research experience and interest in contributing to scientific publications and conference presentations.
+- Interest in translational healthcare technologies and next-generation medical imaging systems.
+The position is open to undergraduate students, though graduate students and applicants with prior research experience are especially encouraged to apply.
+- #Internship #HarvardMedicalSchool #MGH #QuantumComputing #MedicalImaging #PETCT #ResearchOpportunity #BiomedicalEngineering #MedicalPhysics
+#ArtificialIntelligence #DataScience #Physics #ComputerScience #HealthcareInnovation #QuantumAI #ScientificComputing

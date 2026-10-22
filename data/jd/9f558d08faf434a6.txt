@@ -1,0 +1,58 @@
+Description
+We're building systems that turn research into real-world impact — powering sports experiences for millions of Prime Video customers, pioneering multimodal
+document intelligence, building autonomous AI agents that reason, plan, and act, and transforming how customers discover products they love. If this sounds
+interesting to you then we have a range of opportunities for you to explore.
+We're looking for Masters students across multiple research domains to invent, design, and implement state-of-the-art solutions for never-before-solved
+problems. Your work here won't just stay in a notebook — it ships to production and reaches customers worldwide.
+Check out the details below including the job responsibilities, team details, and basic qualifications before submitting your application.
+You can find more information about the Amazon Science community as well as interview preparation tips via the links below;
+- https://www.amazon.science/
+- https://amazon.jobs/content/en/career-programs/university/science
+- https://amazon.jobs/content/en/how-we-hire/university-roles/applied-science
+Key job responsibilities
+As an Applied Science Intern, you will own the design and development of end-to-end systems. You'll have the opportunity to write technical white papers, create
+roadmaps and drive production level projects that will support Amazon Science.
+You will work closely with Amazon scientists and other science interns to develop solutions and deploy them into production. You will have the opportunity to
+design new algorithms, models, or other technical solutions whilst experiencing Amazon's customer focused culture.
+The ideal intern should have the ability to work with diverse groups of people and cross-functional teams to solve complex business problems.
+A day in the life
+You'll spend your first weeks scoping your project with your mentor, then own the research and implementation end-to-end.
+Your work could involve building computer vision models that power live sports experiences for Prime Video, developing multimodal GenAI solutions for AWS
+document intelligence, creating agentic AI systems that reason and act autonomously, or advancing recommendation models that transform how customers discover
+content — depending on the team you're matched with.
+Many interns publish at top-tier conferences or see their work deployed to production before the internship ends. Interns may also be considered for a return
+offer at the end of their internship, subject to performance evaluation and headcount availability.
+Further benefits of an Amazon Science internship include;
+- All of our internships offer a competitive salary
+- Interns are paired with an experienced manager and mentor(s)
+- Interns get invited to different intern program or office events
+- Interns can build their professional and personal network with other Amazon Scientists
+About The Team
+We're hiring interns for multiple teams in Israel, including but not limited to;
+- Prime Video Sports — Build innovative sports experiences for Prime Video, spanning computer vision, 3D simulation, and personalized content recommendations.
+- Personalization — Leverage LLMs, NLP, and recommender systems to match customers with products that align with their passions and shopping preferences.
+- Agentic AI — Build next-generation agentic AI systems that automate real-world knowledge work, spanning retrieval-augmented generation, multi-agent workflows,
+long-term memory and personalization, knowledge-graph construction, and agent evaluation.
+- DS3 Textract — Develop multimodal generative AI algorithms that pioneer state-of-the-art document understanding solutions impacting millions of customers.
+You'll submit a single application and we'll match you with science teams best aligned with your research interests.
+Applications are reviewed on a rolling basis, and your application stays active until we find a team match or confirm there are no matches available.
+Start dates are available throughout the year. Some teams offer full-time internships (3–6 months) while others offer part-time positions (50–60%, 8–12 months)
+— your recruiter will confirm the format during team matching.
+We offer science internships in multiple locations across the EMEA region and you can indicate your interest in all these locations by applying here (Austria,
+Estonia, France, Germany, Ireland, Israel, Italy, Jordan, Luxembourg, Netherlands, Poland, Romania, South Africa, Spain, Sweden, UAE, and UK).
+Please note we do not offer remote internships.
+Basic Qualifications
+- Are enrolled in a Master's degree in Engineering, Computer Science, Machine Learning, Operations Research, Statistics, or related fields
+- Experience programming in Java, C++, Python or related language
+- Speak, write, and read fluently in English
+Preferred Qualifications
+- Have publications at top-tier peer-reviewed conferences or journals
+- Experience in solving business problems through machine learning, data mining and statistical algorithms
+- Experience in designing experiments and statistical analysis of results
+- Experience implementing algorithms using both toolkits and self-developed code
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+Company - Amazon Development Center (Tel Aviv)
+Job ID: A10584990

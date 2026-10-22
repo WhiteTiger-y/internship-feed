@@ -1,0 +1,41 @@
+Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms,
+we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is
+building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to
+achieve more for their practices, their people, and their patients.
+We’ve built the largest ML and CAD engineering teams in dentistry, drawing exceptional talent from leading organizations such as Google DeepMind, Amazon, and
+Waymo. Our full-stack engineering teams tackle complex challenges across platform architecture, supply chain optimization, and SaaS product development.
+Research is core to our culture, and our team includes authors of award-winning work, including ICML Best Paper. We are looking for motivated PhD Research
+Interns to join our team. We are looking for motivated interns to join us in exploring how bleeding edge machine learning can reshape the future of digital
+dentistry and advance the state-of-the-art for generative AI.
+What You’ll Do
+- Work with large, complex datasets (3D scans, sensor data, and beyond) to build and evaluate ML models.
+- Explore and implement state-of-the-art machine learning methods, including generative modeling, deep learning, and applied optimization.
+- Tackle frontier problems in 3D dental prosthetic design by consuming and refining the outputs of generative AI models and perception layers.
+- Collaborate with researchers and engineers to improve existing ML pipelines and identify opportunities for innovation.
+- Contribute to experiments, prototypes, and production-ready solutions in real-world applications.
+- Learn best practices in MLOps, model evaluation, and applied research.
+What We’re Looking For
+- Current PhD student in Computer Science, Electrical/Computer Engineering, Applied Math, Physics, Mechanical Engineering, or related field.
+- Strong programming skills in Python and familiarity with PyTorch or TensorFlow.
+- Coursework or research experience in machine learning, deep learning, or applied AI.
+- For CAD: strong technical background with a demonstrated passion for performant graphics, geometric computations, or novel 3D algorithms.
+- Prior exposure to large datasets, generative AI, or 3D/vision data is a plus, but not required.
+- Candidates must be able to reliably commute to the Dandy office in New York City, 3x days per week.
+Why Join Dandy?
+- Work on real-world healthcare problems with an immediate impact on our platform, customers, and manufacturing operations.
+- Gain hands-on, full-stack experience at a fast-growing startup alongside a world-class technical team.
+- Receive dedicated mentorship from experienced engineers who value ownership, speed, and cross-functional collaboration.
+- Be part of a collaborative, NYC-based team where innovation happens daily.
+Req ID: J-1285
+For full-time positions, Dandy offers a wide range of best-in-class, comprehensive, and inclusive benefits tailored to each country where we operate. Our local
+benefits packages typically include healthcare, dental, mental health support, parental planning resources, retirement savings options, and generous paid time
+off—ensuring our team members are supported no matter where they live and work.
+Dandy is proud to be an equal-opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity to win as one. We
+do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability,
+protected veteran status, citizenship or immigration status, or any other legally protected characteristics.
+Dandy also fully complies with the Americans with Disabilities Act (ADA). We are dedicated to embracing challenges and creating an accessible, inclusive
+workplace for all individuals. If you require any accommodations for your interview or have any questions beforehand, rest assured that we will do everything we
+can to meet your needs. Visit Dandy Careers for more!
+Data Privacy Notice: By submitting your application, you consent to Dandy collecting, storing, and processing your personal information for recruitment purposes
+in accordance with our Privacy Policy and GDPR regulations. You have the right to access, rectify, or request the deletion of your data at any time by
+contacting Privacy Requests.

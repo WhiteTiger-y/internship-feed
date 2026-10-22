@@ -1,0 +1,27 @@
+NVIDIA is looking for research interns with a strong background relevant to applying modern AI methods to re-imagine technology across the Earth System
+Simulation and Analytics stack. Skills should be relevant to research on applied topics such as generative data assimilation, hybrid climate simulation, full
+model emulation of climate model components, regional-to-global high-resolution AI autoregressive weather prediction, and dynamical downscaling. We are hunting
+for highly creative, independent and self-starting research interns to help us invent that future. Strong computer scientists with sufficient knowledge of
+physical domain sciences are welcome. Alternately, very strong domain scientists with sufficient technical skills are, too. Come join a diverse research group
+that collaboratively works on hard and meaningful interdisciplinary problems with passion, drive and curiosity; that consistently publishes at top venues in
+climate science and artificial intelligence; and that values real impact on NVIDIA products and the world of academic and government climate prediction at
+large. What you’ll be doing: Propose, research, prototype and test innovative research ideas. Publish groundbreaking work at top conferences and journals.
+Collaborate with other research team members, fellow interns, internal product teams, external researchers and be mentored. Contribute to technology transfer
+with engineers around NVIDIA as ideas graduate from research to product. Make good use of top-of-the-line NVIDIA GPUs at scale for cutting edge research at the
+intersection of AI and climate science. What we need to see: Currently enrolled in at least the 2nd year of a Ph.D. in geophysical sciences, computer science,
+applied math/statistics, or related fields. Strong research portfolio including one first-author publication that makes good use of AI. Proficiency or
+demonstrable ability to quickly absorb distributed deep learning training frameworks, e.g., PyTorch. Strong software engineering skills are necessary; including
+PyTorch, PyTorch-lightning, and standard methods for shell scripting, software environment management, and high performance parallel GPU computing. Experience
+in scaling algorithms for high computational loads is a plus. Experience developing in a changing software environment and ability to drive research projects
+end-to-end -- including the messy parts – are a plus. Expertise in climate domain science, nonlinear physics, or deep familiarity with associated synthetic
+and/or observational datasets and/or physical simulation systems are a plus. Excellent communication skills. NVIDIA is widely considered to be one of the
+technology world’s most desirable employers. We have some of the most resourceful and dedicated people in the world working for us. Are you creative and
+autonomous? Do you love the challenge of exploring and creating the AI techniques that will define the future of weather and climate simulation? Are you a
+forward-thinker intrigued by a diverse set of AI algorithms and the opportunity to learn alongside NVIDIA Research experts in generative AI for other domains?
+Ready to make a lasting impact in climate science? Apply now and be part of a team shaping the future. Our internship hourly rates are a standard pay based on
+the position, your location, year in school, degree, and experience. The hourly rate for our interns is 38 USD - 94 USD. You will also be eligible for Intern
+benefits. Applications for this job will be accepted at least until October 25, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its
+recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity
+in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national
+origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+NVIDIA pioneered accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry. Learn more about NVIDIA.

@@ -1,0 +1,43 @@
+At Reality Labs Research, our goal is to explore, innovate and design novel interfaces and hardware for the next generation of virtual, augmented, and mixed
+reality experiences. We are driving research towards a vision of natural, seamless experiences in XR environments that are effective, enjoyable, and
+functionally indistinguishable from those in the real world.As a Research Scientist Intern, you will work at the intersection of robotic control, machine
+learning, and human-robot interaction, and you will have the opportunity to work with world-leading collaborators and mentors in these fields. Your primary
+focus will be on developing CV and tactile based algorithms that can be used for robotic control learning in dextrous manipulation tasks.Our internships are
+twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year. Some projects may require a minimum of 16 consecutive weeks.
+Research Scientist Intern, Multimodal Learning for Robotics (PhD) Responsibilities:
+- Conduct collaborative research on developing CV and tactile based algorithms for both human and robotics data.
+- Develop robotic data pipelines for robotic dextrous manipulation, train models, and benchmark different algorithms.
+- Collaborate with researchers and cross-functional partners including communicating research plans, progress, and results.
+Minimum Qualifications:
+- Experience in computer vision, with active contributions in at least one subdomain (3D reconstruction, hand pose estimation, object pose estimation) and
+strong familiarity across all
+- Understand state of the art in robotic manipulation control policies, with experience in physics based simulators like Mujoco
+- Experience with Python, PyTorch or JAX, or other related languages
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading
+workshops or conferences such as Robotics (RSS, ICRA, IROS, CoRL, T-RO, IJRR), Machine Learning (NeurIPS, ICML, ICLR, AAAI, JMLR), and Computer Vision (CVPR,
+ICCV, ECCV, TPAMI), or similar
+- Experience with multimodal learning including but not limited to tactile data
+- Experience working with robot manipulation
+- Experience with building pipelines with foundation CV models, for example, CLIP, DinoV2 or SAM2
+- Experience working and communicating cross functionally in a team environment
+- Availability for minimum 16 consecutive week internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

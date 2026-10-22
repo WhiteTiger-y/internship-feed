@@ -1,0 +1,58 @@
+Job Details
+Job Description:
+The Role and Impact
+As a Software Solutions Engineering PhD Intern, you will contribute to the development of integrated software solutions tailored to customer and platform needs.
+Your work will involve collaborating with cross-functional teams to combine system-level understanding with application development, enabling scalable and
+optimized solutions. You will also build essential skills and explore future career opportunities through hands-on experience and impactful projects that align
+with Intel's business goals.
+Business group
+The Intel Foundry team is dedicated to driving innovation and delivering cutting-edge solutions to meet customer and platform requirements. This group focuses
+on enabling Intel's mission of creating world-changing technology, contributing to advancements in hardware, firmware, and software engineering. Joining this
+team means becoming part of a collaborative and forward-thinking environment that supports Intel's vision and fosters your professional growth.
+Key Responsibilities
+- Develop integrated software solutions by combining system-level understanding with application development.
+- Assist in solution architecture design, feature prototyping, and performance analysis for diverse workloads and environments.
+- Collaborate with hardware, firmware, and customer engineering teams to deliver scalable and optimized solutions.
+- Refactor, consolidate, and standardize yield reports.
+- Develop frameworks to optimize interconnectivity and report consolidation, enabling developer collaboration.
+- Create design UI style guidelines and assets for reporting tools.
+- Explore new analytic capabilities to provide additional impact on software and system performance.
+Qualifications
+Minimum Qualifications
+- Must be pursuing a PhD in Computer Science or a related field.
+- Strong computational capabilities and problem-solving skills.
+- Proficiency in Python and SQL for programming, analytics, and reporting.
+- Basic understanding of semiconductor defect analysis workflows.
+Preferred Qualifications
+- Experience with PDF Extension is a plus but not required.
+- Knowledge of JSL and Power BI for programming, analytics, and reporting.
+- Familiarity with industry trends or prior exposure to analytic tools is advantageous.
+- Strong communication and teamwork skills, with a focus on collaboration across disciplines.
+- Enthusiasm for learning and applying new concepts in a fast-paced and innovative environment.
+This is your opportunity to shape the future of technology while gaining invaluable experience in a dynamic, collaborative environment. We are excited to see
+how your expertise and passion will make an impact on our team.
+Job Type
+Student / Intern
+Shift
+Shift 1 (United States of America)
+Primary Location:
+US, Oregon, Hillsboro
+Additional Locations:
+Posting Statement
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel.
+Annual Salary Range for jobs which could be performed in the US: $149,598.00 - 149,602.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

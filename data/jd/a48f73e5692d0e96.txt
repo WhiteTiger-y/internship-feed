@@ -1,0 +1,35 @@
+As a Data Engineer intern for American Family Insurance, you will assist in building and enhancing data pipelines using SQL, Python and cloud technologies;
+analyze data issues, perform quality checks and support troubleshooting and resolution; work with engineering and business teams to document solutions and
+deliver reliable data for analytics and reporting. An internship with American Family Insurance is a great opportunity to build your skillset and explore your
+career interests. Our summer student internship is a 10 to 14 week program that starts in mid to late May and ends in August. During your internship, you'll
+work on impactful projects that make a difference at our company, with our customers, and in our communities. You'll also gain exposure to different areas of
+our business and have numerous opportunities for networking and coaching. Interns may be eligible for a one-time hiring bonus to assist with housing costs
+depending upon proximity to an AmFam office location. Compensation Minimum: $25.00 Compensation Maximum: $39.00 Responsibilities: Develop an understanding of
+our business, corporate culture and structure to support your work. Contribute creative ideas and strategic approaches in response to changing situations. Build
+and enhance data pipelines using SQL, Python, and cloud technologies like GCP, AWS. Analyze data issues, perform quality checks, and support troubleshooting and
+resolution. Work with engineering and business teams to document solutions and deliver reliable data for analytics and reporting. Specialized Knowledge & Skills
+Requirements Must be in student status at an accredited 4-year college or university during the internship, graduating August 2027 or later. Must be pursuing a
+Bachelors, Masters, or PhD. Major/program must align with internship role. Strongly prefer candidates graduating in August 2027, December 2027 or May
+2028.August SQL, Python and cloud technologies like GCP or AWS. Licenses • Not applicable. Travel Requirements • Up to 10%. Physical Requirements • Work that
+primarily involves sitting/standing. Working Conditions • Not applicable. Additional Information To ensure a strong start, all employees participate in our New
+Employee Orientation during their first week.  This experience is held in person at our Madison, WI Headquarters or one of our AmFam core locations to help you
+connect with our mission, meet key team members and build relationships that support your growth.  At times, sessions may be delivered virtually based on
+scheduling and availability.  Offer to selected candidate will be made contingent on the results of applicable background checks Offer to selected candidate is
+contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions Sponsorship will not be considered for this position
+unless specified in the posting Due to the nature of this role, we are unable to consider candidates who may require visa sponsorship. Work Location: This role
+may be considered for a Full-Time in Office or Hybrid work arrangement based on the selected candidate's location. Work locations for this role include Madison,
+WI. #LI-Hybrid We provide benefits that support your physical, emotional, and financial wellbeing. You will have access to comprehensive medical, dental, vision
+and wellbeing benefits that enable you to take care of your health. We also offer a competitive 401(k) contribution, a pension plan, an annual incentive, 9 paid
+holidays and a paid time off program (23 days accrued annually for full-time employees). In addition, our student loan repayment program and paid-family leave
+are available to support our employees and their families. Interns and contingent workers are not eligible for American Family Insurance Group benefits. We are
+an equal opportunity employer. It is our policy to comply with all applicable federal, state and local laws pertaining to non-discrimination, non-harassment and
+equal opportunity. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. American Family
+Insurance is committed to the full inclusion of all qualified individuals. If a reasonable accommodation is needed to participate in the job application or
+interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please email AskHR@AmFam.com to request a
+reasonable accommodation. #LI-AB1 American Family Insurance, based in Madison, Wis., has been serving customers since 1927. We inspire, protect and restore
+dreams through our insurance products, exceptional service from our agency owners and employees, community investments and creative partnerships. American
+Family Insurance is the nation’s 12th-largest property/casualty insurance company, ranking No. 202 on the Fortune 500 list. American Family has a current ‘a+’
+credit rating through AM Best, and has distinction as a “Standing the Test of Time” company, which is represented by having an AM Best financial strength rating
+of ‘A’ or better for at least 75 years. The company offers American Family-brand products through a network of exclusive agency owners as well as nationwide
+through key strategic partnerships. American Family Insurance also includes Homesite and Main Street America Insurance. The company has approximately 10,500
+employees nationwide. Join our Talent Community

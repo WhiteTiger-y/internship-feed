@@ -1,0 +1,82 @@
+This is a role overview which includes essential job qualifications of the position. More specific information regarding duties may be provided upon request for
+particular locations, roles and facilities.
+At Newell Brands, you’ll find a breeding ground for new ideas and a hunger to win in the marketplace. No matter your career choice, we offer exciting internship
+opportunities and a chance to gain hands-on exposure to our trusted brands during our 12-week, paid program. In past years, interns have helped bring products
+from the drawing board to the store shelf and conducted important research on emerging markets.
+As a Sales AI & Analytics Developer Intern , you will join the AI & Analytics team at Rubbermaid Commercial Products (RCP) and build AI-driven solutions that
+help our Sales, Pricing and Market Development & Planning teams work faster and smarter. You will work as a developer, partner directly with business teams and
+share your AI expertise to help the broader organization build its skills. Internship assignments will vary based on business needs and project priorities.
+Responsibilities
+- Responsibilities include:
+- Designing, building and deploying AI-powered agents and automations using tools such as Claude, Microsoft Copilot Studio and Power Automate.
+- Developing analytics solutions and data pipelines using Python, SQL and Databricks, and delivering dashboards in Power BI.
+- Partnering directly with Sales, Pricing and Market Development & Planning teams to understand business problems and turn them into working solutions.
+- Testing, documenting and handing off what you build so the team can maintain and scale it.
+- Researching and evaluating emerging AI tools and techniques, and recommending which are worth adopting.
+- Presenting project progress and results to business stakeholders and senior leaders.
+Qualifications
+- Currently pursuing a bachelor's or master's degree in Computer Science, Data Science, Software Engineering, Information Systems or a related field.
+- Demonstrated development experience in Python and SQL through coursework, internships, personal projects or open-source work.
+- Hands-on experience with generative AI, including large language models, prompt engineering, APIs or agent frameworks.
+- Familiarity with data platforms and visualization tools such as Databricks, Power BI or Excel.
+- Ability to explain technical concepts clearly to non-technical audiences and work comfortably with business teams.
+- Strong problem-solving skills and initiative, with a record of taking a project from idea to working solution.
+- A GitHub profile, portfolio or project examples are preferred.
+What You'll Gain
+- Real projects with measurable business impact across Sales, Pricing and Market Development & Planning.
+- Mentorship from the Manager, AI & Analytics, and exposure to senior leaders at RCP.
+- Experience applying AI and analytics at a global consumer goods company.
+- Professional development, networking opportunities and insight into career paths in AI, analytics and data science at Newell Brands.
+We offer internships in the following job functions/career areas:
+- Accounting
+- Design
+- Ecommerce
+- Finance
+- HR
+- Information Technology
+- Marketing
+- Research & Development
+- Packaging
+- Sales
+- Supply Chain & Sourcing
+Each intern will have a CAMP project that they lead from start to finish – at the end of the intern experience, they will present the project deliverable to a
+leadership panel. The output of each project will be utilized by the business team moving forward after the conclusion of the internship.
+Additional Qualifications
+- Completed Sophomore, Junior, or Senior year in undergraduate studies pertaining to internship job function
+- GPA of 3.0 or higher
+- Internship or work experience preferred
+- Has a proven record of demonstrating the following skills:
+- Problem-solving and decision making
+- Collaboration and teamwork
+- Leadership, significant position preferred
+- Achieving results
+- Creativity
+- Demonstrated project management skills and ability to balance multiple assignments at once
+- Desire to make a strong contribution in a continuous learning environment, while enhancing their readiness for a full-time career
+- Available to work 40 hours/week for 12 weeks; duration of internship (May 17- August 6, 2027)
+Newell Brands (NASDAQ: NWL) is a leading global consumer goods company with a strong portfolio of well-known brands, including Rubbermaid, Sharpie, Graco,
+Coleman, Rubbermaid Commercial Products, Yankee Candle, Paper Mate, FoodSaver, Dymo, EXPO, Elmer’s, Oster, NUK, Spontex and Campingaz. We are focused on
+delighting consumers by lighting up everyday moments. Newell Brands and its subsidiaries are Equal Opportunity Employers and comply with applicable employment
+laws. EOE/M/F/Vet/Disabled are encouraged to apply.
+Date Posted:
+Oct 16, 2026
+Apply now »
+Find similar jobs:
+Todos os Empregos,
+Todos los trabajos,
+Student Opportunities,
+Factory/Hourly Careers,
+AllJobs
+- Contact Us
+- Terms of Use
+- Privacy Statement
+- Cookie Policy
+- Conflict Minerals
+- Corporate Citizenship
+- California Transparency Supply Chain Act
+- Applicant Privacy Statement
+- Candidate FAQ's
+Opens in a new tab.
+Opens in a new tab.
+Opens in a new tab.
+Opens in a new tab.

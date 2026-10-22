@@ -1,0 +1,92 @@
+Team: Apollo — Block Applied R&D
+Location: Remote (US / Canada)
+Duration: Fall/Winter 2026 co-op — 8 months, flexible start September 2026
+Level: Graduate student (MS or PhD, returning to your program after the co-op)
+About Apollo
+Apollo leads Block's efforts to build the Customer World Model (CWM): a continuously evolving representation of each customer's goals, context, history,
+constraints, and likely future needs.
+The CWM powers proactive intelligence across Block's ecosystem. Instead of customers navigating products in search of features, intelligence observes their
+world, understands what matters, anticipates what comes next, and initiates actions on their behalf.
+We believe the next generation of AI products will not be defined by chat interfaces or isolated agents. They will be defined by rich world models that enable
+systems to reason over a customer's evolving state, make better decisions, and learn continuously from outcomes. Apollo designs, prototypes, and guides the
+development of this intelligence layer.
+About The Role
+We're hiring a small cohort of graduate research interns to help build the foundations of proactive intelligence.
+This is not a traditional internship. You'll own a research problem end-to-end: framing the question, developing methods, running experiments, publishing
+findings, and, when successful, shipping your work into production systems used by millions of customers and sellers.
+You'll work at the intersection of representation learning, foundation models, reinforcement learning, causal reasoning, agentic systems, and product
+intelligence. The goal is not simply to build smarter models, but to build systems that develop a deeper understanding of customers and use that understanding
+to make better decisions over time.
+Past interns have shipped production systems within months and published their work in the same year.
+What You'll Work On
+Depending on your interests and Apollo's roadmap, you'll focus on one or more of the following areas:
+Customer World Models
+Building rich representations of customers from event streams, financial activity, operational signals, and behavioral data.
+Examples Include:
+- Representation learning over long-horizon customer histories
+- Event-based foundation models
+- Multi-modal customer representations spanning structured, sequential, and graph data
+- Memory architectures for long-term customer understanding
+Proactive Intelligence
+Developing systems that can anticipate customer needs and initiate helpful actions before being asked.
+Examples Include:
+- Opportunity detection and next-best-action systems
+- Long-horizon planning and decision-making
+- Preference and goal inference
+- Learning when intervention creates value versus friction
+Agentic Decision Systems
+Building agents that reason over customer world models and take actions in real environments.
+Examples Include:
+- Tool use and planning
+- Multi-step reasoning over customer state
+- Autonomous workflow execution
+- Recovery and adaptation under uncertainty
+Learning from Feedback Loops
+Developing methods that allow intelligence to improve continuously from real-world outcomes.
+Examples Include:
+- Reinforcement learning from customer and product feedback
+- Reward modeling and preference learning
+- Counterfactual evaluation
+- Credit assignment over long decision horizons
+Evaluation and Measurement
+Building evaluation frameworks that predict real-world performance, trust, and customer value.
+Examples Include:
+- Simulated customer environments
+- Longitudinal evaluation
+- Decision quality metrics
+- Safety and reliability benchmarks
+What We're Looking For
+We're looking for researchers interested in building systems that understand people, learn from experience, and improve over time.
+Required
+- Currently enrolled in an MS or PhD program in Computer Science, Machine Learning, Statistics, Mathematics, Operations Research, or a related field, and
+returning to that program after the co-op.
+- Strong foundations in modern machine learning, including deep learning, optimization, representation learning, and foundation models.
+- Experience conducting independent research and translating ideas into working systems.
+- Fluency in Python and experience with PyTorch, JAX, or similar frameworks.
+- Evidence of research excellence through publications, open-source contributions, technical leadership, or equivalent work.
+Nice to have
+- Experience with large language models and agentic systems.
+- Experience with reinforcement learning, reward modeling, or sequential decision-making.
+- Experience with representation learning for structured, temporal, or graph data.
+- Familiarity with large-scale training and production ML systems.
+- Interest in building AI systems that directly affect customer outcomes.
+What You'll Get
+- Direct mentorship from researchers working on the future of proactive intelligence at Block.
+- Access to large-scale datasets, modern infrastructure, frontier models, and substantial compute resources.
+- Opportunities to publish and contribute to open-source projects.
+- A chance to shape foundational technology that could power the next generation of Block products.
+- Exposure to both scientific research and product deployment, with a clear path from idea to impact.
+Application Guidelines
+Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has
+been reviewed.
+Use of AI in Our Hiring Process
+We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and
+we handle all personal data in accordance with state and local privacy laws.
+Contact us here with hiring practice or data usage questions.
+Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical
+insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering. Check out our other benefits at Block.
+Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.
+Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way
+customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet
+built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone.
+Privacy Policy

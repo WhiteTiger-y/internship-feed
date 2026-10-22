@@ -1,0 +1,47 @@
+Reality Labs at Meta is looking for PhD research interns to advance our pioneering work in neural interfaces, which grew out of the acquisition of CTRL-labs.
+We're building a practical interface that draws on rich signals measured non-invasively from the body, including surface electromyography (EMG), inertial
+measurement units (IMU), and photoplethysmography (PPG). This technology could become one of the main pillars for interaction with virtual and augmented
+realities. Help us unleash human potential by removing the bottlenecks between user intent and action.In this role you will join a world-class, multi-
+disciplinary team of researchers. You'll investigate the nature of human neuromotor and other sensor signals, develop new signal processing and machine learning
+methods to infer a user's intent, and help create AI-first new interaction techniques and user experiences. Our internships are twelve (12) to twenty-four (24)
+weeks long, and we have various start dates throughout the year.
+Research Scientist Intern, AI-Driven Neural Interfaces (PhD) Responsibilities:
+- Research and develop neural networks, machine learning, or other computational models that use EMG, IMU and other relevant sensor data to advance neural
+interface capabilities.
+- Design methods, tools, and infrastructure to analyze and make use of rich multimodal datasets.
+- Adapt machine learning methods to modern parallel computing environments (e.g., distributed clusters and GPUs).
+- Work with engineering and Human-Computer Interaction (HCI) teams to turn research into new technology and user experiences.
+- Use quantitative research methods to define, iterate on, and advance key areas of our research agenda.
+Minimum Qualifications:
+- Currently has, or is in the process of obtaining, a PhD in machine learning, computational neuroscience, speech and language technologies, signal processing,
+electrical engineering, computer science, statistics, physics, or a related field
+- Research-oriented implementation skills, including fluency in scientific Python and deep learning frameworks such as PyTorch, as shown by academic or
+professional research experience or contributions to open source projects
+- Experience in machine learning, deep learning, signal processing, computer vision, probabilistic graphical models, and/or natural language processing
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Intent to return to degree program after the completion of the internship
+- Experience working with biosignals or wearable sensor data (e.g., EMG, IMU, PPG, EEG)
+- Experience with multi-channel array processing or real-time signal processing
+- Experience with sequence modeling of time-series data
+- Experience training machine learning models at scale, including distributed or multi-GPU training on large datasets
+- Experience moving machine learning research into prototypes or products
+- Experience in software engineering in industry, including prior internships
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

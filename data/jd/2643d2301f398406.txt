@@ -1,0 +1,44 @@
+Itron is innovating new ways for utilities and cities to manage energy and water. We create a more resourceful world to protect essential resources for today
+and tomorrow. Join us.
+Our Information Security team within Corporate IT is looking for an intern to support AI-enabled security engineering initiatives. This position provides the
+opportunity to gain hands-on experience applying artificial intelligence, automation, software development, and security engineering practices while completing
+your education.
+Duties & Responsibilities
+- Assist with developing, testing, and documenting AI-enabled security tools, workflows, and prototypes
+- Use scripting and APIs to automate security engineering tasks, data collection, enrichment, analysis, and reporting
+- Support the integration and evaluation of security technologies across cloud, identity, endpoint, network, and data environments
+- Analyze security data to identify patterns, anomalies, potential threats, and opportunities to improve controls
+- Help assess the security of AI solutions, including access controls, data protection, prompt and model risks, and responsible-use safeguards
+- Build and maintain technical documentation, test plans, code repositories, and repeatable engineering procedures
+- Collaborate with security engineers and internal stakeholders to define requirements, troubleshoot issues, demonstrate solutions, and deliver project outcomes
+Required Skills & Experience
+- Education: Currently enrolled in a degree program in Cybersecurity, Computer Science, Software Engineering, Data Science, Artificial Intelligence, or a
+related technical field
+- Foundational knowledge of cybersecurity concepts such as identity and access management, cloud security, endpoint security, networking, secure software
+development, or threat detection
+- Intermediate programming or scripting language skill, such as Python, PowerShell, JavaScript, or C#
+- Understanding of AI and machine learning concepts, large language models, or data analysis
+- Ability to troubleshoot technical problems, learn unfamiliar technologies, and take ownership through resolution
+- Ability to work independently and collaborate effectively while sharing knowledge as part of a team
+- Ability to manage time, prioritize tasks, and communicate technical information clearly in writing and conversation
+Preferred Skills & Experience
+- Academic, personal, or work projects involving generative AI, machine learning, security automation, or data engineering
+- Experience using APIs, Git-based development workflows, notebooks, or development environments
+- Knowledge of security capabilities within Microsoft Azure or Microsoft 365, including identity, endpoint, cloud, or security monitoring technologies
+- Exposure to cloud platforms, containers, Linux, infrastructure as code, CI/CD pipelines, or policy as code
+- Understanding of secure coding, threat modeling, vulnerability management, or common security frameworks
+- Experience working with structured or unstructured security data and creating useful analyses or visualizations
+Travel: 1 - 10%
+Physical Demands: This is a typical office job, with no special physical requirements or unusual work environment.
+Duration & Location: Start ASAP, part-time hours during the academic year (~20-25 hrs), full-time 40 hours per week Summer 2027. This is not a remote position.
+Preference for candidate to be in Liberty Lake, WA.
+Liberty Lake, WA: hourly, state minimum up to $44.23/hr
+Itron is committed to building an inclusive and diverse workforce and providing an authentic workplace experience for all employees. If you are excited about
+this role but your past experiences don't perfectly align with every requirement, we encourage you to apply anyway. In the end, you may be just who we are
+looking for!
+The successful candidate's starting wage will be determined based on permissible, non-discriminatory factors such as skills and experience.
+Itron is proud to be an Equal Opportunity Employer. If you require an accommodation to apply, please contact a recruiting representative at 1-800-635-5461 or
+email Accessibility@itron.com.
+Itron is transforming how the world manages energy, water and city services. Our trusted intelligent infrastructure solutions help utilities and cities improve
+efficiency, build resilience and deliver safe, reliable and affordable service. With edge intelligence, we connect people, data insights and devices so
+communities can better manage the essential resources they rely on to live. Join us as we create a more resourceful world: www.itron.com

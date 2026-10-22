@@ -1,0 +1,71 @@
+Responsibilities
+The Multimedia Lab builds highly efficient, scalable video codec hardware solutions (FPGA and ASIC) from the ground up, serving billions of users. We bring
+together algorithm, architecture, software, firmware, and hardware design and verification expertise, designing high-performance video silicon IP across ASIC
+and SoC digital design, verification, and next-generation video codec hardware. Alongside the silicon work, we advance research in video understanding,
+perceptual quality assessment, image and video enhancement, and intelligent coding, including using multimodal models to improve coding decisions.
+Quality, efficiency, and speed rarely improve together. Sharper images and better perceived quality usually cost bitrate, compute, or latency, and a technique
+that works in research does not always survive production at global scale.
+You will take ideas from research through to silicon and production systems, where research decisions show up in the cost and quality of video across
+ByteDance's products.
+About The Team
+Our team is building industry leading, highly efficient and scalable video codec hardware solutions (FPGA and ASIC) from the ground up to better serve our
+billions of users. We are looking for strong software and firmware engineers to design algorithms, C-model, and firmware for advanced video encoding and
+processing implemented in dedicated hardware accelerators. The successful candidate will be part of a fast growing team that includes algorithm, architecture,
+software, firmware, and hardware design and verification experts with a dedication to technical excellence and a passion to build large-scale and high-
+performing video platforms and services.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+- Design video analysis (ROI, content understanding, feature extraction etc.) and quality assessment algorithms, and participate in database creation, algorithm
+design/development/optimization, etc.
+- Participate in designing strategy and solutions for E2E video quality optimization with a combination of video analysis, processing and encoding algorithms,
+such as frame-level rate control.
+- Apply designed algorithms for VOD / Live streaming monitoring, data analysis, objective evaluation for algorithms etc.
+- Collaborate with Infra and multi-media platform teams to integrate algorithms into production workflows and validate their impact through A/B testing.
+Qualifications
+Minimum Qualifications:
+- Individuals who are completing or have recently completed a PhD degree in computer science, electrical engineering, mathematics, statistics or a related
+discipline.
+- Excellent programming, debugging, and optimization skills in one or more general-purpose programming languages, including but not limited to: C/C++, Python.
+- Knowledge of image/video analysis algorithms or subjective/objective image/video quality algorithms, and state-of-the-art technologies, such as VMAF, PSNR and
+SSIM and etc.
+- Hands-on experience with machine learning or deep learning and familiarity with frameworks such as PyTorch or TensorFlow.
+Preferred Qualifications:
+- Research and hands-on experience in designing, training, or applying deep learning models, including CNNs, Transformer architectures, and multimodal large
+language models (MLLMs).
+- Knowledge of common video processing algorithms, such as supper resolution, defusion model, etc.
+- Knowledge of video codecs (AVC, HEVC, AV1, VP9, etc.) and experience in video codec design.
+- Experience with embedded processors like ARM Cortex M0/M3/M4 or RISC-V architecture and real-time development on RTOS environment.
+- Great communication, eager to learn, and always passionate about turning cutting-edge technologies into real life use cases.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $57- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees ar

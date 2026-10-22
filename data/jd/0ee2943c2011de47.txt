@@ -1,0 +1,63 @@
+Posting Description
+About the Company:
+Wealthspire is a leading wealth management, retirement advisory, and business management firm serving individuals, families, endowments, and institutions across
+the United States, Canada, and the United Kingdom. We provide a comprehensive platform that brings together wealth management, institutional consulting,
+business management, family office, and retirement plan advisory services - empowering clients to navigate complexity with clarity and confidence.
+With over 1,200 employees across more than 40 offices, we deliver insights and solutions backed by deep research, technology, and decades of expertise. Our
+collective businesses create a unified ecosystem designed to meet clients wherever they are in their financial journey. Wealthspire is redefining the future of
+financial solutions through collaboration, scale, and a steadfast commitment to putting people first - our clients, our colleagues, and our communities.
+For more information, visit www.wealthspire.com. Wealthspire Advisors LLC, Fiducient Advisors LLC, Wealthspire Retirement, LLC, dba Wealthspire Retirement
+Advisory, and certain other affiliates are separately registered investment advisers.
+Internship Program Overview:
+Our 10-week Summer Internship Program provides hands-on experience with modern software engineering, offering exposure to both development and infrastructure.
+As an intern, you will work alongside the engineering team on meaningful projects and gain insight into how code moves from concept to production in a secure,
+reliable, and repeatable way. You will contribute to development activities while building practical skills in scalable engineering practices that support
+efficient delivery and operational reliability. This opportunity is designed to help you develop production-relevant experience and a strong understanding of
+how business priorities are transformed into secure, sustainable technology solutions.
+Location: Chicago, IL
+Key responsibilities include:
+- Support the design, development, testing, and implementation of software and AI-enabled solutions under the guidance of experienced engineers.
+- Contribute to meaningful projects that address business needs and improve operational efficiency.
+- Assist with writing, reviewing, and troubleshooting code while following established development standards and best practices.
+- Participate in data preparation, model testing, and the evaluation of AI tools or solutions, as applicable.
+- Support the integration and deployment of applications across development and production environments.
+- Collaborate with engineering, infrastructure, security, and business teams to understand requirements and deliver practical technology solutions.
+- Create and maintain clear technical documentation, including project updates, testing results, and process guides.
+- Participate in team meetings, training sessions, and knowledge-sharing opportunities throughout the internship.
+- Lift and carry materials weighing up to 25 pounds, with reasonable accommodations available to support the performance of essential job functions.
+Qualifications:
+- Preferably a rising senior pursuing a bachelor’s degree in Software Engineering, Information Technology, Data Science, Artificial Intelligence, or a related
+field.
+- Strong interest in software engineering, artificial intelligence, and emerging technologies.
+- Foundational knowledge of at least one programming language, such as Python, Java, JavaScript.
+- Basic understanding of software development concepts, data structures, algorithms, APIs, databases, or cloud technologies.
+- Exposure to AI, machine learning, automation, or data analysis through coursework, academic projects, or prior experience is preferred.
+- Strong analytical, problem-solving, and organizational skills, with close attention to detail.
+- Effective written and verbal communication skills and the ability to collaborate in a team environment.
+- Ability to learn quickly, take initiative, and manage multiple priorities in a fast-paced environment.
+- Ability to handle confidential or sensitive information with professionalism and discretion.
+- Prior internship or project experience is a plus but not required.
+The summer internship experience provides interns with meaningful exposure to the financial services industry. Interns will gain experience in IT/AI function,
+while building valuable skills for a successful career.
+Do you see yourself excelling in this position?
+Don't hesitate to apply, even if you don't meet every qualification on the list! We recognize that career journeys are as unique as individuals themselves, and
+valuable skills can come in various forms. We're eager to learn about your unique talents and experiences!
+The hourly range for this position is $20.00 – $22.00 per hour. The base salary offered will be determined by factors including, but not limited to, experience,
+credentials, education, certifications, skill level required for the position, the scope of the position, and geographic location. Actual base salary offered
+will be determined on a case-by-case basis. In addition to the base salary, this position may be eligible for performance-based incentives.
+Wealthspire is an inclusive Equal Employment Opportunity employer.
+#Wealthspire
+2590532
+About the Company:
+Wealthspire is a leading wealth management, retirement advisory, and business management firm serving individuals, families, endowments, and institutions across
+the United States, Canada, and the United Kingdom. We provide a comprehensive platform that brings together wealth management, institutional consulting,
+business management, family office, and retirement plan advisory services - empowering clients to navigate complexity with clarity and confidence.
+With over 1,200 employees across more than 40 offices, we deliver insights and solutions backed by deep research, technology, and decades of expertise. Our
+collective businesses create a unified ecosystem designed to meet clients wherever they are in their financial journey. Wealthspire is redefining the future of
+financial solutions through collaboration, scale, and a steadfast commitment to putting people first - our clients, our colleagues, and our communities.
+For more information, visit www.wealthspire.com. Wealthspire Advisors LLC, Fiducient Advisors LLC, Wealthspire Retirement, LLC, dba Wealthspire Retirement
+Advisory, and certain other affiliates are separately registered investment advisers.
+Internship Program Overview:
+Our 10-week Summer Internship Program provides hands-on experience with modern software engineering, offering exposure to both development and infrastructure.
+As an intern, you will work alongside the engineering team on meaningful projects and gain insight into how code moves from concept to production in a secure,
+reliable, and repeatable way. You will contribute to development activities while building practical skills in scalable engineering practices that supp

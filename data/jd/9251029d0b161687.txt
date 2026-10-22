@@ -1,0 +1,23 @@
+MANTECH seeks an AI Workflow Intern in support of US Marine Corps Systems Command office of the Chief Engineer. The position entails creating new logical
+agentic workflows and enhancing existing workflows to provide analytical capabilities to accelerate digital engineering, enterprise architecture and portfolio
+analysis.
+The Intern will work @ 10/hrs weekly during the academic year and up to 40/hrs weekly during academic breaks.
+Candidates must be eligible for a Secret clearance; US Citizenship is required.
+Responsibilities Include, But Are Not Limited To
+Conceptualizing, designing, developing and testing, fine-tuning agentic workflows, structuring and manipulating data to feed the workflows.
+Reviewing, interpreting, and validating AI-developed outputs against initial requirements to ensure satisfaction of the workflow objectives.
+Basic Qualifications
+U.S. Citizen with an active Secret clearance or eligibility for a US Security Clearance
+Full Time student pursuing a BS or MS in Computer Science, Systems Engineering or a related field with a graduation date no earlier than December 2027
+Familiarity with USMC systems, acquisition, engineering activities.
+Experience building web-based user interfaces for AI agents.
+Experience with prompt and persona development for AI agents and workflows, coding and code integration and test experience with C++, or Python, JavaScript,
+FlowiseAI for Agentic development.
+Ability to work remotely as well as in the Stafford, VA as required
+Preferred Qualifications
+Active DoD Secret clearance
+Experience in a team environment, receiving and evaluating agentic design criteria, working in an iterative agile development fashion.
+Clearance Requirements
+Individuals must be a U.S. Citizen and either hold an active US Security Clearance or must be eligible to obtain a US Security Clearance.
+Physical Requirements
+Must be able to remain in a stationary position 80%
