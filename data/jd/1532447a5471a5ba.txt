@@ -1,0 +1,45 @@
+Company: Oliver Wyman Description: Data and Analytics - 10 week Summer Internship Who We Are Oliver Wyman is a global management consultancy working across all
+areas of industry, financial services, government, and non-profit organizations. Clients approach us with their most significant challenges, and we assemble
+teams of experts to address each facet of these complex issues. Together, we create breakthroughs that lead to remarkable impact. Within Oliver Wyman, the Data
+and Analytics (DNA) division was established in 2017 and is operating globally. We are a dynamic and rapidly growing team of quantitative analytics specialists,
+collaborating closely with colleagues across the firm to cover a global footprint, working across multiple industries including, but not limited to, Financial
+Services, Climate & Sustainability, Energy, Retail, and Transportation. We believe in the power of diverse perspectives and collaborative teams to drive
+innovation. Our team comes from a wide range of backgrounds and experiences, and we embrace the unique skills and insights they bring to our work. At Oliver
+Wyman and within DNA, we are proud of the values we uphold that guide us every day in how we work and collaborate. We are committed to fostering an inclusive
+environment where everyone can thrive and reach their full potential. What You Will Do As a member of Oliver Wyman’s Data & Analytics team, you will collaborate
+with colleagues and clients at all levels from your very first day, helping clients solve their most pressing challenges. Our DNA team is committed to
+developing tailored solutions for clients around the globe, including designing potential solutions for analytical challenges, implementing various prototypes
+while also assessing their effectiveness, and engaging in discussions with clients and colleagues to share ideas. Your contributions will be invaluable to
+delivering impactful results for our clients. Notable projects include: Developing an NLP-based machine learning toolkit to predict credit rating downgrades
+using news articles – click here for more information Modelling portfolio decarbonization strategies leveraging advanced analytics techniques for large European
+banks Optimizing and developing a promotional program using data from historical promotions for an Asian health & beauty chain by deploying a promotion
+analytics toolkit Validating a customer-facing GenAI chatbot for an American bank Developing probability of default and loss models in Python for European and
+UK-based banks Identifying supply chain risks by combining multiple live data feeds, and developing and applying a bespoke AI based risk methodology – click
+here for more information Developing a next best action model to reduce customer churn for a global telecom company Why Join us? Expect a steep learning curve,
+as no two weeks are ever the same. You may have the opportunity to travel internationally, gaining invaluable experiences and insights across different cultures
+and with access to the latest technologies, you’ll constantly expand your toolkit with each new endeavor. You won’t be alone on this journey; various colleagues
+will guide and coach you throughout your career. You’ll have a dedicated buddy and a talent manager to help you navigate your professional path. We also care
+deeply about sustainable work-life quality, providing you with the flexibility to balance your career aspirations with your personal life. This role will
+empower you to embrace your curiosity and step out of your comfort zone. You will have the opportunity to work alongside genuine colleagues who measure success
+by the lasting impact we create together. If you’re excited by challenges and eager to make a meaningful impact, we look forward to welcoming you aboard! Who
+Can Apply? Applicants in their penultimate year of study in a quantitative/STEM discipline from a top academic program (Data Science, Mathematics, Economics,
+Natural Sciences, Statistics, Engineering, etc.) Data-driven mindset and proficiency with numbers, paired with the ability to explain sophisticated data science
+concepts in an understandable manner to clients and colleagues Ideally, programming skills in Python or R, but more importantly, an eagerness to continuously
+extend your knowledge of technologies Strong commitment to teamwork and resilience in a creative and constantly changing environment You are aged 18 or over at
+the start of the internship Excellent command of the English language (verbal and written) You have the right to work in the UK Interest and experience in
+financial services and risk management is a plus START DATE: MONDAY 21st JUNE 2027 How to Apply? Please submit your CV and cover letter. If you would like to
+find out more information about Oliver Wyman, please visit our website or alternatively, apply to attend one of our events, details of which can be found here.
+Oliver Wyman is a business of Marsh (NYSE: MRSH), a global leader in risk, reinsurance and capital, people and investments, and management consulting, advising
+clients in 130 countries. With annual revenue of over $24 billion and more than 90,000 colleagues, Marsh helps build the confidence to thrive through the power
+of perspective. To learn more, please follow us on LinkedIn, Instagram or Twitter.  Closing date for applications is Friday 15th January 2027. We do reserve the
+right to close this opportunity early. Interviews will take place virtually WC 8th February 2027 Oliver Wyman is a business of Marsh (NYSE: MRSH), a global
+leader in risk, reinsurance and capital, people and investments, and management consulting, advising clients in 130 countries. With annual revenue of over $27
+billion and more than 95,000 colleagues, Marsh helps build the confidence to thrive through the power of perspective. For more information,
+visit oliverwyman.com, or follow us on LinkedIn and X.  Marsh is committed to embracing a diverse, inclusive and flexible work environment. We aim to attract
+and retain the best people and embrace diversity of age background, civil partnership status, disability, ethnic origin, family duties, gender orientation or
+expression, gender reassignment, marital status, nationality, parental status, personal or social status, political affiliation, race, religion and beliefs,
+sex/gender, sexual orientation or expression, skin color, or any other characteristic protected by applicable law. We are an equal opportunities employer. We
+are committed to providing reasonable adjustments in accordance with applicable law to any candidate with a disability to allow them to fully participate in the
+recruitment process. If you have a disability that may require reasonable adjustments, please contact us at reasonableaccommodations@marsh.com. Marsh is
+committed to hybrid work, which includes the flexibility of working remotely and the collaboration, connections and professional development benefits of working
+together in the office. All Marsh colleagues are expected t

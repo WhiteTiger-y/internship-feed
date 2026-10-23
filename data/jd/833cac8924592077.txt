@@ -1,0 +1,11 @@
+Boston R&D Center
+Strategic Modeling Team
+Disciplines: Engineering, Computer Science, Mathematics
+The Strategic Modeling Team develops next generation simulators to aid the Upstream Division in improving hydrocarbon recovery and discovery. Their work
+encompasses numerical methods, software development, and high-performance computing.
+- Student Tasks
+- Implement new physical models into Aramco’s next-generation massively parallel reservoir simulator.
+- Profile simulation code to identify performance critical regions and work with researchers to improve performance.
+- Develop and test front-end GUI elements for simulator input creation.
+- Perform validation of simulator results by comparing to industry standard results.
+Opportunities eligible for internship course credit (credits earned), please check with your Academic Advisor or University.

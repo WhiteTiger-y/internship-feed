@@ -1,0 +1,60 @@
+About Us
+At CNH, we're driven by a clear purpose: we serve and advance the people who feed and build a growing world.
+As a global leader in agriculture and construction, we create the equipment, technology, and solutions that help our customers work more productively and
+sustainably. Our success starts with our people, and we foster a collaborative culture where innovation thrives and every employee has the opportunity to grow.
+Grow a Career. Build a Future.
+If you're ready to make an impact and build a career with purpose, there's a place for you at CNH.
+Intern Program Overview
+We are committed to building a strong talent pipeline by investing in early career professionals. Our internship and co-op programs provide mentorship,
+training, hands-on experience, and growth opportunities that empower students to explore their career paths with confidence. Through competitive wages,
+networking events, social and volunteer activities, professional development workshops, and housing support, we strive to deliver one of the best internship
+experiences—designed to develop and inspire the talent of tomorrow. Summer interns work full-time (40 hours per week) from May through August. Candidates must
+be currently enrolled college students actively pursuing a degree to participate in the internship program.
+Job Purpose
+The CNH Soil and Crop Modeling (SCM) Team develops cutting-edge simulation technologies that help design and optimize agricultural equipment used around the
+world. Our team combines expertise in engineering, physics, and computational modeling to simulate how soil and crop materials interact with machine components,
+enabling faster innovation and more efficient product development.
+SCM engineers utilize advanced modeling techniques, including the Discrete Element Method (DEM), Computational Fluid Dynamics (CFD), and Multi-Body Dynamics
+(MBD), to evaluate machine performance in virtual environments. These tools allow the team to support concept development, solve complex engineering challenges,
+and improve equipment designs long before physical testing begins.
+As an SCM intern, you will work alongside experienced engineers on real-world projects, contributing directly to the development of virtual crop and soil
+models, simulation workflows, and validation activities. Interns are valued members of the team and play an active role in advancing CNH's simulation
+capabilities and engineering innovation.
+Key Responsibilities
+Your responsibilities may include:
+- Prepare and run CFD model of a combine cleaning and/or residue treatment system or a portion of it using a CFD simulation software
+- Post process CFD simulation data to derive useful insights and prepare the data for model training using machine learning
+- Develop surrogate models from the CFD date and optimize model parameters
+- Collect, organize, and process CFD simulation datasets to extract machine performance metrics
+- Collaborate with crop flow modeling, design, and test engineering teams to support the design, validation, and continuous improvement of CNH harvesting
+equipment.
+Experience Required
+Preferred Qualifications
+Candidates may be pursuing an Associates, Technical, Bachelor’s, or Post-graduate degree in the following majors or a related field: Agricultural Engineering,
+Mechanical Engineering, Chemical Engineering, Engineering Mechanics, Materials Engineering, Biological/Biosystem/Bioresource Engineering, Agronomy
+Pay Transparency
+The annual salary for this role is USD $35.02 - $38.11 plus any applicable bonus (Actual salaries will vary and will be based on various factors, such as skill,
+experience and qualification for the role.)
+What We Offer
+We offer dynamic career opportunities across an international landscape. As an equal opportunity employer, we are committed to delivering value for all our
+employees and fostering a culture of respect.
+Benefits
+At CNH, we understand that the best solutions come from the diverse experiences and skills of our people. Here, you will be empowered to grow your career, to
+follow your passion, and help build a better future. To support our employees, we offer regional comprehensive benefits, including:
+- Flexible work arrangements
+- Savings & Retirement benefits
+- Tuition reimbursement
+- Parental leave
+- Adoption assistance
+- Fertility & Family building support
+- Employee Assistance Programs
+- Charitable contribution matching and Volunteer Time Off
+Click here to learn more about our benefits offerings! (US only)
+US applicants: CNH Industrial is an equal opportunity employer. This company considers candidates regardless of race, color, religion, sex, sexual orientation,
+gender identity, national origin, disability, or veteran status. Applicants can learn more about their rights by viewing the federal "Know Your Rights" poster
+here. CNH Industrial participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work
+in the U.S. You can view additional information here.
+Canada applicants: CNH Industrial is an equal opportunity employer. This company considers candidates regardless of race, color, religion, sex, sexual
+orientation, gender identity, nationality, place of origin, disability, marital status, family status, age, or any other ground prohibited by applicable
+provincial human rights legislation.
+If you need reasonable accommodation with the application process, please contact us at narecruitingmailbox@cnh.com.

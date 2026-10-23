@@ -1,0 +1,27 @@
+Position Overview
+Join the team building computer vision applications for the construction trades.
+Contractors spend dozens of hours per project doing takeoffs by hand. We're automating that with models that need to perform reliably on messy, real-world
+drawings.
+As a CV/ML Engineering Intern, you'll work on real production problems alongside our ML team, not a side project. You'll own a scoped piece of work end-to-end,
+get hands-on mentorship from experienced engineers, and see your models reach customers who use them daily.
+Responsibilities
+- Build and improve CV models for detection, segmentation, or OCR on construction drawings, with guidance from a mentor on the ML team
+- Contribute to our pipelines: data preparation, labeling workflows, training runs, and evaluation
+- Run experiments, measure results, and clearly communicate what worked and what didn't
+- Dig into real customer data to find failure modes and propose fixes
+- Work with fullstack and product engineers to help get your work into production
+- Read relevant research and test ideas that could improve our models
+Desired Attributes
+- Currently pursuing a BS, MS, or PhD in Computer Science, Electrical Engineering, or a related field
+- Solid foundation in deep learning and computer vision through coursework, research, or projects
+- Hands-on experience training models in PyTorch (or similar), whether in class, research, a prior internship, or personal projects
+- Strong Python skills
+- Curiosity about messy, real-world data: scanned, handwritten, imperfect
+- High ownership: you ask good questions, then run with the answers
+- Bonus: experience with document AI, OCR, or vision-language models
+Details
+- 12-16 weeks, full-time, in person in the SF Bay Area
+- Paid internship: $55/hr
+- Strong interns may be considered for full-time roles
+We value learning speed and follow-through. If you want to build models that customers trust with high-stakes decisions, we'd love to talk.
+Come build with us!

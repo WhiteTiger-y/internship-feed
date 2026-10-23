@@ -1,0 +1,45 @@
+Job Description: Start date: 19 July 2027 Location: Brize Norton Duration: 12.5 months Applications close on 25 October 2026! We love your interest in joining
+Airbus! There is no limit on the number of positions you can apply for, however, please be aware that you can only progress in the selection process for one
+position at a time. We recommend reviewing all available opportunities and applying to those that best match your experience and aspirations. AI Guidance: We
+know you might be thinking about using AI to help you in your application - before you do, please read our guidelines on the use of AI for recruitment at Airbus
+https://www.airbus.com/en/careers/faqs#using-ai-in-your-application. Benefits: Salary: £24,246 35 hours per week // Flexible working hours // Hybrid working
+options available depending on the role // Half day Fridays! // 25 days holiday plus bank holidays About us: The Atlas Integrated Operations Centre (AIOC)
+serves as the central focal point for the Royal Air Force (RAF) A400M fleet. Every day, the AIOC generates vast volumes of technical, logistical, and fleet
+data. We are looking for a motivated Operations Analyst Intern to help us unlock the full potential of this information. In this role, you will help convert
+complex operational and engineering data into actionable insights to maximise aircraft availability and mission readiness. You will focus on three core areas:
+performance monitoring, data manipulation, and continuous improvement. This is an excellent opportunity to gain hands-on experience in a high-stakes military
+aerospace operations environment and directly drive operational efficiency. What you will be doing: Key Responsibilities: 1. Performance Monitoring & Reporting;
+Track and analyze live RAF A400M fleet metrics, aircraft availability, and system maintenance logs; Assist in building and updating visual dashboards to track
+fleet health and operational KPIs; Monitor workflows across Maintenance Planners, Operations and Logistics Personnel to identify turnaround bottlenecks or
+supply chain delays; Generate regular performance reports to help AIOC leadership make data-driven decisions. 2. Data Manipulation & Process Automation; Clean,
+structure, and merge extensive, fragmented datasets coming from various engineering, military, and logistics systems; Help automate repetitive, manual data
+collection and reporting workflows within the centre; Streamline the flow of data among Maintenance Planners, Operations and Logistics Personnel to improve
+decision-making speed; Document data workflows and standard operating procedures (SOPs) for the operations team. 3. Process & Continuous Improvement (CI);
+Investigate data trends to perform root-cause analysis on fleet delays or operational bottlenecks; Identify repetitive tasks, data silos, or manual steps across
+the centre's workflows that can be eliminated; Collaborate closely with Maintenance Planners, Operations and Logistics Personnel to turn data insights into
+permanent, standardised operational improvements. 4.What You Will Develop (The Opportunity); Control Room Agility: Gain confidence working inside a live, fast-
+paced operational control room where data shifts rapidly and accuracy is critical; High-Stakes Data Management: Gain rare experience handling complex, sensitive
+aviation and defence datasets; Cross-Functional Communication: Learn how to translate technical data insights into operational terms for military and
+engineering leaders; Continuous Improvement (CI) Mastery: Develop practical skills; In-Demand Technical Skills: Master data manipulation and automated
+visualisation using industry-standard tools (e.g., Power BI, SQL, Python). Requirements: Our placements are open to Undergraduates only. Therefore it is
+mandatory for candidates to be an undergraduate for the whole duration of the placement. Please inform your graduation date on your application. *Your
+application should include a CV along with a Cover Letter outlining your motivation and suitability for the role.* Successful candidates will be able to
+demonstrate the following: Currently enrolled in a degree program; Preferably in fields relating to: Data Analytics, Business Intelligence, Computer Science,
+Information Systems, Statistics, Mathematics, or Business Administration (quantitative focus); Penultimate student preferred. We are looking for candidates with
+the following skills and competencies: Prior internships not required, but project-based experience is a strong plus; Demonstrates ability to manipulate, clean,
+and structure raw data; Experience with Google Workspace (Sheets, Forms, Apps Script for workflow automation); Hands on experience building dashboards, reports,
+and data models in Power BI; Advanced Excel skills: complex formulas, logical functions, Power Query, pivot tables; Works autonomously, manages time well, and
+takes ownership of projects; Comfortable speaking up in team settings and presenting findings to stakeholders; Strong analytical thinking: breaks down complex
+problems into manageable tasks; High attention to detail in data accuracy and visual presentation; Proactively researches and troubleshoots technical issues
+independently; Communicates data insights and design choices clearly to all team members; Having a UK driving licence and having access to a car would be
+beneficial. This Job Request will be allocated to the projected Joint-Venture scope towards a leading European player in space. SECURITY CLEARANCE: You will be
+subject to a BPSS (Baseline Personnel Security Standard) check. You may also need to gain UK SC-level Security Clearance or Export Control, depending on the
+role. Contact Please let us know if you need us to make any adjustments to allow you to access and participate fully in the recruitment process. If you wish to
+discuss this further please contact us. Any information disclosed will be treated in the strictest confidence. #UK_PLA This job requires an awareness of any
+potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth. Company:
+Airbus Operations Limited Employment Type: Internship ------- Experience Level: Student Job Family: Customer Flight/Mission & Ops Support By submitting your CV
+or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment.
+This information will only be used by Airbus. Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all
+applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief. Airbus is, and always has been,
+committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation
+of Airbus to do so should be reported to emsom@airbus.com. At Airbu

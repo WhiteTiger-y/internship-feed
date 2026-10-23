@@ -1,0 +1,45 @@
+At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years,
+our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an
+industry leader in pricing sophistication, telematics, and, more recently, device and identity protection. Job Description Arity is a part of the Allstate
+Corporation, which means we have the same innovative drive that keeps us a step ahead of our customers’ evolving needs. We collect and analyze enormous amounts
+of data in order to provide cutting-edge solutions to companies invested in transportation. Analytics At Arity, our Analytics team is at the core of helping us
+transform mobility. They not only know how to analyze and find meaning within the data but are passionate about how it affects the end-users of our products.
+They work with a treasure trove of massive data sets every day—after all, Arity is constantly collecting and deciphering billions of miles of driving data. And
+as our data continues to grow by the second, our Analytics teammates grow right alongside it. We give them the opportunity to model and visualize that data to
+create innovative products, working side-by-side with our diverse product teams. The insights uncovered by the Analytics team help catalyze groundbreaking
+solutions for our customers and are a driving force in making transportation smarter, safer, and more useful for everyone. Personally, we think that’s pretty
+game-changing stuff. The Role As a Data Scientist Intern on the Core Telematics team, you'll get hands-on experience analyzing real-world sensor and driving
+event data collected from millions of trips. You'll work side-by-side with data scientists and engineers on projects — from exploratory analysis through
+prototyping — and present your findings to the broader team. This is an opportunity to apply classroom knowledge to messy, large-scale data and see your work
+influence how Arity understands and improves the driving experience. Responsibilities Conduct exploratory data analysis and data cleaning techniques on large-
+scale sensor datasets to identify patterns, trends, labels, and data quality issues Build clear visualizations and summaries that communicate findings to both
+technical and non-technical audiences Prototype and evaluate models for detecting patterns or events in sensor data Contribute clean, well-documented code and
+participate in the code review process alongside data scientists and engineers Document methodology, findings, and recommendations in Confluence for the broader
+team Required Qualifications Currently pursuing a Bachelor's or Master's degree in Data Science, Statistics, Mathematics, Computer Science, Physics,
+Engineering, or a related quantitative field Proficiency in Python (e.g. pandas, numpy) for data analysis and manipulation Familiarity with data visualization
+tools (e.g. Matplotlib, Plotly, Folium) Foundational understanding of statistics and exploratory data analysis techniques Strong analytical and problem-solving
+skills, with comfort working through ambiguous, real-world data Critical thinking and intellectual curiosity, with a drive to dig into open-ended problems and
+ask good questions Clear written and verbal communication skills for presenting technical work Preferred Qualifications Target Start Date: May/June 2027 Rising
+Junior or Senior  Coursework or project experience with time-series or sensor data Working knowledge of SQL for querying large datasets Exposure to machine
+learning concepts/libraries (e.g. scikit-learn, TensorFlow) Experience with Git or other version control in a collaborative setting Familiarity with big data
+tools (e.g. PySpark) or geospatial data is a plus At Arity, great things happen when our people work together. That’s why when you join our team, we make sure
+it isn’t just a job — it’s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to challenge the status quo.
+And one where you can impact the future for the greater good. Compensation offered for this role is between $22 and $33 an hour and is based on experience and
+qualifications. Skills Analytics, Big Data, Data Science, Data Visualization Tools, Exploratory Data Analysis (EDA), Machine Learning (ML), Structured Query
+Language (SQL) Joining our team isn’t just a job — it’s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to
+challenge the status quo. One where you can shape the future of protection while supporting causes that mean the most to you. Joining our team means being part
+of something bigger – a winning team making a meaningful impact. Allstate generally does not sponsor individuals for employment-based visas for this position.
+Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an
+employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a
+veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component. For jobs in San Francisco, please
+click “here” for information regarding the San Francisco Fair Chance Ordinance. For jobs in Los Angeles, please click “here” for information regarding the Los
+Angeles Fair Chance Initiative for Hiring Ordinance. To view the “EEO Know Your Rights” poster click “here”. This poster provides information concerning the
+laws and procedures for filing complaints of violations of the laws with the Office of Federal Contract Compliance Programs. To view the FMLA poster, click
+“here”. This poster summarizing the major provisions of the Family and Medical Leave Act (FMLA) and telling employees how to file a complaint. It is the
+Company’s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee’s
+ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status,
+medical condition, military or veteran status, national origin, race (include traits historically associated with race, including, but not limited to, hair
+texture and protective hairstyles), religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of
+employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary
+administration, promotion, job assignment, benefits, discipline, and separation of employment. Allstate provides a comprehensive technology setup, including a
+laptop, monitors, headset, keyboard, and mouse. Employees eligi

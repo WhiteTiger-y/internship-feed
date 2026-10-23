@@ -1,0 +1,47 @@
+At Siemens, we help organizations transform maintenance and operations through connected insights, AI-powered technology, and intelligent asset management
+solutions. Our software enables customers to manage the full lifecycle of assets, facilities, and infrastructure while improving efficiency, reducing risk, and
+optimizing long-term investments. By connecting data, people, and processes, we empower organizations to make smarter decisions, maximize asset performance, and
+achieve more resilient operations.
+Description:
+We're hiring a Machine Learning Engineering Intern who is currently enrolled in a master's program and brings rigorous, logic-driven thinking. You'll work
+alongside our ML engineers to build, evaluate, and ship machine learning systems that help customers get more from their assets and operations.
+We believe some of the best ML engineers reason like philosophers, engineers, and theologians: they define terms carefully, test assumptions, and follow an
+argument to its conclusion. This internship is built for people who think that way and have already started writing software.
+This 10-week Summer Internship will last between May 2027 and August 2027.
+Location:
+This position is remotely based within the United States.
+However, to facilitate onboarding and establish key relationships with the team, the successful candidate will be required to attend their first week of
+employment onsite in Raleigh, NC. Following onboarding, the role will be fully remote.
+Qualified Applicants must be legally authorized for employment in the United States and will not require employer sponsored work authorization now or in the
+future for employment in the United States.
+You’ll make an impact by:
+- Build and maintain data pipelines that clean, label, and prepare datasets for model training.
+- Train, fine-tune, and evaluate machine learning models, and write clear reports on what worked and why.
+- Design evaluation methods and test cases that expose where a model's reasoning breaks down.
+- Write production-quality Python code, with tests and code review, that ships alongside our engineering team.
+- Help deploy and monitor models, tracking accuracy, drift, and failure cases after launch.
+- Present your work to the team in a final project showcase at the end of the internship.
+This is how you'll win us over:
+- Current enrollment in a master's degree program for the full duration of the internship.
+- At least one of the following: professional software engineering experience, including full-time, part-time, contract, or substantial open-source work; a
+bachelor's degree in Engineering, Philosophy, Theology, Mathematics, or another logic-focused discipline; or a recognized programming certification, such as a
+language certification or completed coding bootcamp.
+- Working proficiency in Python.
+- Comfort with foundational mathematics for machine learning, including linear algebra, probability, and basic statistics.
+- The ability to explain a complex argument clearly in writing and conversation.
+You'll Thrive Even More If You Also Bring:
+- Hands-on experience with a machine learning framework such as PyTorch, TensorFlow, or scikit-learn.
+- Familiarity with Git, SQL, and working in a Linux command line.
+- Coursework or projects in formal logic, ethics, decision theory, or statistics.
+- A portfolio, GitHub profile, or writing sample that demonstrates how you think through difficult problems.
+- A degree background outside Computer Science at the bachelor's or master's levels.
+At Siemens, you'll have the opportunity to grow your career while helping organizations operate smarter, safer, and more sustainably. We foster a culture of
+innovation, collaboration, and continuous learning, where employees are empowered to make a difference every day. If you're excited about solving real-world
+challenges and shaping the future of asset management, we encourage you to apply.
+Our Commitment to Equity and Inclusion in our Diverse Global Workforce:
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity
+of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and
+transform the every day with us.
+Siemens maintains a Drug Free workplace in accordance with applicable law.
+#AMSInternsFY27
+$29 $34

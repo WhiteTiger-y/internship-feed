@@ -1,0 +1,43 @@
+The Role
+We’re seeking a highly motivated PhD student in economics to join our Central Research team in the Discretionary Macro and Fixed Income Division in New York.
+You’ll work on live research questions, not academic exercises, and your output will feed directly into portfolio managers’ investment processes. This role is
+ideal for someone who thrives in a fast-paced environment and wants to deepen their understanding of macro markets.
+What You’ll Do
+As part of a close-knit team, you’ll build tools and analyze large datasets to generate actionable macroeconomic insights for portfolio managers. Your work may
+include:
+- Building quantitative models covering growth, inflation, labor markets, and monetary and fiscal policy across developed and emerging markets
+- Conducting empirical research on macro themes such as policy transmission, term premia, and cross-country spillovers
+- Developing and maintaining data and analytical tools that the broader research team can use
+- Communicating findings clearly to researchers and portfolio managers, so your work informs live investment decisions
+What You’ll Bring
+- Currently pursuing a PhD in Economics, Financial Economics, or a related quantitative field
+- Prior research assistantship, internship, or work experience in economics, finance, or policy is a plus but not required
+- Strong grounding in macroeconomic theory and applied econometrics (time series, panel data, causal inference)
+- Proficient in at least one statistical/programming language (Python, R, MATLAB)
+- A genuine interest in financial markets and how macro research connects to investment decisions
+- Strong attention to detail and organizational skills
+- Ability to work in a fast-paced, deadline-driven environment
+- Strong problem-solving and communication skills
+- Willingness to learn and take ownership of responsibilities
+Our Internship
+Kick-start your career in finance with the Schonfeld Summer Internship! Over the course of 10 action-packed weeks, you will have the opportunity to build
+solutions that tackle real-world challenges and leave a lasting impact on the firm. As an intern, you’ll join a close-knit team that is ready to support your
+growth and accelerate your career. We will pair you with a dedicated manager and a mentor who’ll guide your development over the course of the internship and
+beyond. Throughout the program, you will have the chance to connect with senior leaders through a series of learning sessions, attend hands-on skills workshops,
+network at social events and get a behind-the-scenes look at how various functions power the firm. We’ll empower you to bring your ideas to life and make an
+impact.
+Who We Are
+Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and
+external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of
+experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical,
+Fundamental Equity and Discretionary Macro & Fixed Income.
+Our Culture
+At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with
+exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented,
+collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational
+offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote
+inclusion and purpose beyond the firm’s walls.
+The annual base pay for this role is expected to be between $125,000 and $175,000 which will be prorated based on internship start and end date. The expected
+base pay range is based on information at the time this post was generated. Actual compensation for the successful candidate will be determined based on a
+variety of factors such as skills, qualifications and experience and level of education.
+__PRESENT

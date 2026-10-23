@@ -1,0 +1,45 @@
+Itron is innovating new ways for utilities and cities to manage energy and water. We create a more resourceful world to protect essential resources for today
+and tomorrow. Join us. The Distributed Intelligence Data Science team is seeking a motivated and curious 2027 Summer Data Science Intern to help advance
+innovation in the Utilities & Energy sector. Distributed Intelligence helps utilities achieve greater distribution system visibility by combining granular grid-
+edge data with an open enterprise application platform. In this role, you will collaborate with experienced data scientists, software engineers, and business
+stakeholders to support solutions that improve grid optimization, asset management, distributed energy resource (DER) integration, and customer engagement. We
+welcome candidates from diverse backgrounds who are excited to learn, contribute, and grow in a collaborative, customer-centric environment. Internship Details
+Duration: 40 hours per week for 10 weeks during Summer 2027 Target Start Date: May/June 2027 End Date: August/September 2027, depending on academic schedule
+Location: Liberty Lake, Washington Duties & Responsibilities: Support the development, maintenance, and enhancement of data and machine learning pipelines used
+in production environments. Assist with the implementation and maintenance of cloud-based infrastructure while demonstrating accountability and attention to
+quality. Clean, prepare, and validate moderate- to large-scale datasets (tens to hundreds of gigabytes) for analysis, model development, and operational use.
+Partner with senior team members and subject matter experts to conduct exploratory data analysis (EDA) and communicate insights clearly to technical and non-
+technical audiences. Contribute to research, testing, and improvement of machine learning models under the guidance of experienced data scientists. Collaborate
+effectively with data scientists, software engineers, product managers, and other stakeholders to deliver innovative and customer-focused solutions. Demonstrate
+an agile mindset by adapting to evolving priorities, incorporating feedback, and continuously improving work outputs. Uphold authentic and inclusive
+collaboration practices that value diverse perspectives and ideas. Support projects that help utilities improve operational efficiency, reliability, and
+customer outcomes. Required Skills & Experience: Currently enrolled in an accredited bachelor's degree program in a related field such as Statistics, Data
+Science, Applied Mathematics, Computer Science, Software Engineering, or a similar discipline. Completion of at least two years of college coursework by the
+internship start date. Experience using AI agent-driven tools to support software development, testing, code review, or related technical activities.
+Intermediate proficiency in Python and SQL. Knowledge of statistical methods, data analysis techniques, and data-driven problem solving. Exposure to machine
+learning through academic coursework, independent projects, research, internships, or professional experience. Strong written and verbal communication skills
+with the ability to share ideas clearly and respectfully. Demonstrated ability to work collaboratively in team environments while maintaining accountability for
+assigned work. Interest in developing innovative solutions that address customer and business needs within the Utilities & Energy industry. Preferred Skills &
+Experience: Previous internship, research, or professional experience related to data science, analytics, software engineering, or machine learning. Experience
+using AI agent-supported tools for interactive data analysis and technical problem solving. Familiarity with cloud platforms such as AWS or Microsoft Azure.
+Experience with version control systems such as GitHub. Enrollment in a master's degree program in a STEM-related discipline, including Statistics, Data
+Science, Software Engineering, Computer Science, Applied Mathematics, or a similar field. Experience working on collaborative technical projects involving
+cross-functional teams. Interest in electric utility operations, grid modernization, distributed energy resources, or related energy technologies. Physical
+Demands: This is a typical office-based position with no unusual physical requirements. The role is associated with the Liberty Lake, Washington location.
+Benefits Info: This position also includes a competitive benefit package including; financial, social, health and wellbeing programs, paid vacation, 401k
+matching, employee stock purchase program, hybrid work schedule, and more! The successful candidate’s starting salary will be determined based on permissible,
+non-discriminatory factors such as skills and experience and may vary by location. Liberty Lake, WA: $15.87 - $44.23 per hour #LI-JH1 Itron is committed to
+building an inclusive and diverse workforce and providing an authentic workplace experience for all employees. If you are excited about this role but your past
+experiences don't perfectly align with every requirement, we encourage you to apply anyway. In the end, you may be just who we are looking for! The successful
+candidate's starting wage will be determined based on permissible, non-discriminatory factors such as skills and experience. Itron is proud to be an Equal
+Opportunity Employer. If you require an accommodation to apply, please contact a recruiting representative at 1-800-635-5461 or email Accessibility@itron.com.
+Itron is transforming how the world manages energy, water and city services. Our trusted intelligent infrastructure solutions help utilities and cities improve
+efficiency, build resilience and deliver safe, reliable and affordable service. With edge intelligence, we connect people, data insights and devices so
+communities can better manage the essential resources they rely on to live. Join us as we create a more resourceful world: www.itron.com Our broad solution
+portfolio allows our customers to better manage energy and water for a sustainable future. Our innovative, next-generation utility and smart-city solutions help
+build resilient communities around the world. You can build your career here and do work that truly matters. Learn more about Itron here. Not ready to apply?
+Introduce yourself to our team so we can stay in touch. 5000+ global employees Products and solutions deployed in 100+ countries Headquarters: Liberty Lake,
+Washington, USA Publicly traded: ITRI ESG goals and achievements Award-winning workplace Inclusion-first work culture Commitment to employee growth and
+development: iGrow program Employee resource groups*: iBelong program Paid internships, co-op and apprenticeships Generous and flexible paid time off* *Variable
+by location or position Hear from our Employees @ Itron Careers Your safety and trust are important to us. We want to make you aware of an increase in
+fraudulent activity targeting job seekers. Learn more Itron is proud to be an Equal Opportunity

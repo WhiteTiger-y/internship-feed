@@ -1,0 +1,47 @@
+Company Overview: Dedrone is the world’s most trusted smart airspace security company. Hundreds of commercial, government and military customers around the
+world rely on Dedrone’s comprehensive, command and control (C2) solution to protect against the persistent and escalating threat from drones while enabling
+“good” drones to fly. By leveraging AI/ML, Dedrone is the only solution that provides continuous, autonomous interrogation and verification of drones that
+enables both multi-sensor and multi-mitigation options onto a single fused "pane-of-glass". Whether on-premise / air-gapped or in the cloud, Dedrone customers
+can easily detect, track, identify, analyze, and mitigate drone threats.
+Dedrone is seeking motivated interns passionate about Artificial Intelligence and Machine Learning. In this role, you'll collaborate closely with experienced
+engineers and data scientists to develop and implement innovative solutions, enhancing drone detection capabilities and integrating advanced analytics into our
+products.
+What You'll Do
+- Assist in research, development, and implementation of AI/ML algorithms for tasks such as classification, object detection, anomaly detection, and predictive
+analytics.
+- Help build, train, and deploy machine learning models using frameworks like PyTorch, TensorFlow, or Keras.
+- Support the management and improvement of ML pipelines for efficient model training and evaluation.
+- Collaborate in optimizing algorithms and models for GPU acceleration using CUDA.
+- Contribute to software development primarily in Python, with opportunities to utilize C++.
+- Engage in exploratory research to identify new AI/ML techniques applicable to Dedrone’s product suite.
+- Work within multidisciplinary teams to deliver robust and innovative AI-driven solutions.
+Qualifications
+- Currently pursuing a degree in Computer Science, Electrical Engineering, Data Science, or related fields.
+- Proficiency in Python and familiarity with AI/ML libraries (e.g., NumPy, SciPy, PyTorch, TensorFlow, or Keras).
+- Basic understanding of machine learning principles and practices, including neural networks and deep learning.
+- Enthusiasm and willingness to learn and apply new AI/ML technologies and methodologies.
+Preferred Qualifications (Bonus)
+- Familiarity with Digital Signal Processing (DSP), RF signal processing, or related areas.
+- Experience with statistical modeling, data analysis techniques, or predictive analytics.
+- Interest or experience in neural network architectures specifically relevant to signal processing tasks.
+What We Offer
+- Hands-on experience in cutting-edge AI/ML projects impacting global security.
+- A collaborative, innovation-focused environment encouraging continuous learning and growth.
+- Competitive compensation and dedicated professional development opportunities.
+- The opportunity to contribute meaningfully and shape the future of smart airspace security solutions.
+Don’t meet every single requirement? That's ok. At Dedrone, we Aim Far. We think big with a long-term view because we want to reinvent the world to be a safer,
+better place. We are also committed to building diverse teams that reflect the communities we serve.
+Studies have shown that women and people of color are less likely to apply to jobs unless they check every box in the job description. If you’re excited about
+this role but your experience doesn’t align perfectly with every qualification listed here, we encourage you to apply anyways. You may be just the right
+candidate for this or other roles.
+The above job description is not intended as, nor should it be construed as, exhaustive of all duties, responsibilities, skills, efforts, or working conditions
+associated with this job. The job description may change or be supplemented at any time in accordance with business needs and conditions.
+Some roles may also require legal eligibility to work in a firearms environment.
+Dedrone is committed to the well-being and safety of its employees as well as Dedrone’s impact on the environment. All Dedrone employees must be aware of and
+committed to the appropriate environmental, health, and safety regulations, policies, and procedures. Dedrone employees are empowered to report safety concerns
+as they arise and activities potentially impacting the environment.
+We are an equal opportunity employer that promotes justice, advances equity, values diversity and fosters inclusion. We’re committed to hiring the best talent —
+regardless of race, creed, color, ancestry, religion, sex (including pregnancy), national origin, sexual orientation, age, citizenship status, marital status,
+disability, gender identity, genetic information, veteran status, or any other characteristic protected by applicable laws, regulations and ordinances — and
+empowering all of our employees so they can do their best work. If you have a disability or special need that requires assistance or accommodation during the
+application or the recruiting process, please email recruitingops@axon.com.

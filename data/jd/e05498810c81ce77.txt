@@ -1,0 +1,68 @@
+Introduction
+We are seeking enthusiastic and driven interns to join the AI, Automation, and Data Platforms (AADP) team at IBM CIO. As an intern, you will play a critical
+role in developing cutting-edge solutions using Watsonx LLMs (Large Language Models), Watsonx Orchestrate, Milvus, and other state-of-the-art technologies. You
+will work closely with cross-functional teams to integrate these solutions into business processes, orchestrate various components, and build scalable solutions
+leveraging automation, AI, and data technologies.
+Role
+This role requires a strong understanding of business needs and the ability to translate them into technical stories to guide development:
+- Hands-on experience working with IBM's cutting-edge technologies, including GenAI (Watsonx.ai platform), LLM technologies, vector databases (Watsonx.data),
+and automation tools (Watson Orchestrate).
+- Opportunities to enhance your programming skills, critical thinking, and problem-solving abilities.
+- Exposure to real-world challenges in AI orchestration, automation, and business-driven development.
+- Experience working in a dynamic, innovation-focused environment alongside leading experts in AI, automation, and data platforms.
+- Networking opportunities within IBM's global business and technology ecosystem.
+Role Overview
+Your role and responsibilities
+As a Data Scientist intern in the AI, Automation and Data Platform organization, you will be in a unique position to combine your strategic thinking with your
+technical skills in AI, machine learning, and data analytics. You will apply your skills to help implement data-driven solutions that align with business goals.
+You will steer enterprise projects that improve decision-making, solve complex problems, and drive business growth. This role involves working with team members
+and stakeholders to translate data insights into actionable recommendations that deliver meaningful business impact.
+Key Responsibilities
+- AI, Data Science, and Technical Execution:
+- Support the design, implementation and optimization of AI-driven strategies per business stakeholder requirements.
+- Design and implement machine learning solutions and statistical models, from problem formulation through deployment, to analyze complex datasets and generate
+actionable insights.
+- Apply GenAI, traditional AI, ML, NLP, computer vision, or predictive analytics where applicable.
+- Collect, clean, and preprocess structured and unstructured datasets.
+- Help refine data-driven methodologies for transformation projects.
+- Learn and utilize cloud platforms to ensure the scalability of AI solutions.
+- Leverage reusable assets and apply IBM standards for data science and development.
+- Apply ML Ops and AI ethics.
+- Strategic Planning
+- Translate business requirements into technical strategies.
+- Ensure alignment to stakeholders’ strategic direction and tactical needs.
+- Apply business acumen to analyze business problems and develop solutions.
+- Collaborate with stakeholders and team to prioritize work.
+- Project Management and Delivering Business Outcomes:
+- Manage and contribute to various stages of AI and data science projects, from data exploration to model development to solution implementation and deployment.
+- Use agile strategies to manage and execute work.
+- Monitor project timelines and help resolve technical challenges.
+- Design and implement measurement frameworks to benchmark AI solutions, quantifying business impact through KPIs.
+- Communication and Collaboration:
+- Communicate regularly and present findings to collaborators and stakeholders, including technical and non-technical audiences.
+- Create compelling data visualizations and dashboards.
+- Work with data engineers, software developers, and other team members to integrate AI solutions into existing systems.
+Preferred Education
+Bachelor's Degree
+Required Technical And Professional Expertise
+Required Skills and Qualifications
+- Pursuing a Bachelor’s degree in Computer Science, Data Science, Statistics, Economics, or a related field.
+- Experience with AI/ML technologies and statistical modeling through coursework, projects, or past internships or full time positions.
+Technical Skills
+- Proficiency in SQL and Python for performing data analysis and developing machine learning models.
+- Experience and/or coursework in statistics, machine learning, generative and traditional AI.
+- Knowledge of common machine learning algorithms and frameworks: linear regression, decision trees, random forests, gradient boosting (e.g., XGBoost,
+LightGBM), neural networks, and deep learning frameworks such as TensorFlow and PyTorch.
+- Familiarity with cloud-based platforms and data processing frameworks.
+- Understanding of large language models (LLMs).
+- Familiarity with object-oriented programming.
+- Experience and/or coursework with common Python libraries used by data scientists (e.g., NumPy, Pandas, SciPy, scikit-learn, matplotlib, Seaborn, etc.)
+Strategic And Analytical Skills
+- Strategic thinking and business acumen.
+- Strong problem-solving abilities and eagerness to learn.
+- Ability to work with datasets and derive insights.
+- Attention to detail.
+Communications And Soft Skills
+- Excellent communication skills, with the ability to explain technical concepts clearly.
+- Independent and team-oriented.
+- Understands AI Ethics principles.

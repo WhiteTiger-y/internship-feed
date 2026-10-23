@@ -1,0 +1,45 @@
+Airbus is committed to providing reasonable accommodations as an Equal Opportunity Employer to applicants with disabilities. If you require assistance or an
+accommodation to complete your application, please contact us at USCareers@airbus.com Notice: Know Your Rights: Workplace Discrimination is Illegal Notice: Pay
+Transparency Nondiscrimination (English) Aviso: Transparencia en el Pago No Discriminación (Spanish) Job Description: Airbus Mobile Manufacturing Site is
+looking for a Summer Intern - Operational Excellence Analyst to join our Data and Analytics Plateau team based in Mobile, AL. In this role you will be exposed
+to the wide range of digital transformation impacts within the Mobile Manufacturing site. You will be working with and managing a wide range of stakeholders on
+site ranging from: Operations to Industrial Engineering. Meet the Team: As part of the Data and Analytics Plateau team, you will be part of a team focusing on
+digital systems and software solutions. Our mission is to seek, define, develop and deploy world class digital capabilities that systematically improve the way
+we work. Your Working Environment: In Mobile, AL on ‘Airbus Way’ you will find the Airbus U.S. Manufacturing Facility for commercial aircraft. Opened at the
+Mobile Aeroplex at Brookley in 2015, the facility produces A320 Family aircraft and added a second product line for the A220 in 2019. The facility, which
+strengthens the U.S. aerospace industry, is part of Airbus’ strategy to enhance its global competitiveness by meeting the growing needs of its customers in the
+United States and beyond. Program Highlights: Summer internship program to last 6 months between dates: Participate within the Data & Analytics plateau for MMS.
+Support key digital initiatives on site within the development & deployment phases to the customers. You will have dedicated support for development within the
+project management & technical domains. Your Challenges: Project Management: 40% Project governance & risk tracking - Support the monitoring and reporting of
+project health, risks, and milestones across digital transformation initiatives. Stakeholder engagement - Act as a communications focal point connecting
+technical data scientists/engineers with shop-floor operational end-users. Change management - Help manage the human aspect of change by driving user adoption
+for newly launched digital systems and workspace tools. Data Visualisation & Analytics / Data Management: 40% Map data flows for a specific production process
+and create user-friendly dashboards to communicate key insights to shop-floor teams. Perform exploratory analysis on structured operational data to identify
+statistical properties, uncover outlier trends, and clean initial data sets for future machine learning models. Personal Skills Boost: 15% Business
+understanding & production insights. Upskilling on technical solutions & tools within a full time environment. Additional responsibilities: 5% Management of AD-
+HOC requests from key stakeholders. Your Boarding Pass: Technical requirements Academic Background: Currently pursuing a degree in Data Science, Data Analytics,
+Computer Science, Aerospace Engineering, or Manufacturing Engineering. Programming Fundamentals: Practical knowledge of programming languages such as Python,
+SQL, Java, C++, or Google Apps Script to support data extraction, integration, and basic script automation. Digital Toolsets: Comfort handling general IT tools,
+digital system development basics, and workspace platforms (e.g., Google Workspace toolsets). Personal Attributes Able to work onsite in Mobile, AL for duration
+of Summer Internship, required Curiosity & Problem-Solving: A rigorous, dynamic, and analytical mind with a genuine desire to learn and tackle complex multi-
+functional challenges. Adaptability & Proactivity: Proactive, self-motivated, and capable of adapting quickly in a fast-paced, evolving technical environment.
+Collaboration: Team-oriented approach with strong English communication skills to engage effectively across different project functions. Ability to work in the
+US without current, or future, need of visa sponsorship/work authorization is required. Physical Requirements: Onsite: 100% Vision: able to see and read
+computer screen and other electronic equipment with screens, able to read documents, reports and engineering drawings. Required daily. Hearing: able to hear to
+participate in conversations in person and via teleconference or phone and to hear sounds on production floor including safety warnings or alarms. Required
+daily. Speaking: able to speak in conversations and meetings, deliver information and participate in communications. Required daily. Equipment Operation: able
+to operate most office and personal electronic equipment. Required daily. Carrying: able to carry documents, drawings, electronic equipment up to 10lbs. daily
+Lifting: able to lift documents, drawings, electronic equipment up to 10lbs. daily Pushing / Pulling: able to push and pull small office furniture and some
+equipment and tools. Rarely required. Sitting: able to sit for long periods of time in meetings, working on computer. Required daily. Squatting / Kneeling: able
+to squat or kneel to retrieve or replace items stored on low shelving. Required infrequently. Standing: able to stand for discussions in offices or on
+production floor. Required daily. Travel: able to travel independently and at short notice. Approximately 5% - 10%. Walking: able to walk through office and
+production areas including uneven surfaces. Required daily. Personal Protective Equipment required: steel toed shoes are required for all shop floor visits;
+appropriate hearing/eye protection may also be required when visiting the shop floor Take your career to a new level and apply online now! This job requires an
+awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable
+growth. Company: Airbus Americas, Inc. Employment Type: Internship Experience Level: Student Remote Type: On-site Job Family: Improvement & Performance
+Management ------ ------ By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes
+relating to your application or future employment. This information will only be used by Airbus. Airbus is committed to achieving workforce diversity and
+creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual
+orientation or religious belief. Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary
+exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com. Airbus pioneers sustainable
+aerospace for a safe and united world. The Company constantly innovates to p

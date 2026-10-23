@@ -1,0 +1,46 @@
+The Energy Systems Group at MIT Lincoln Laboratory develops technology solutions that enhance the resilience and efficiency of both civilian and defense
+infrastructure systems. This includes conducting strategic analyses to assess natural and adversarial threats to critical infrastructure sectors, identifying
+and developing technology solutions to mitigate these risks and enhance resilience, and developing hardware and real-time simulation testbeds.
+The Energy Systems Group seeks a summer intern to work within a multi-disciplinary team developing an AI-enabled portfolio analysis capability. Using agentic
+AI, the team will integrate DoW-funded R&D documentation with technical and geospatial data to identify trends and gaps, assess prior investments, and guide
+future research addressing natural-hazard risks. The candidate will help design and implement these AI-based analysis tools. Tasks may include:
+- Developing agentic AI workflows for extracting, connecting, and analyzing information across technical documents
+- Integrating GIS and natural hazard data to assess geographic coverage, needs, and portfolio gaps
+- Developing and evaluating prototype analysis and visualization tools
+The software and analyses produced by the candidate will contribute to an enduring portfolio-analysis capability used to inform future research investments and
+operational priorities.
+Candidates who are pursuing a B.S., M.S., and/or Ph.D. in computer science, data science, engineering, applied mathematics, geographic information science, or a
+related technical discipline will be considered. Candidates must have strong problem-solving skills, work well independently and in teams, and possess effective
+written and oral communication skills.
+A successful candidate is required to have Python software development experience and demonstrated capability or interest in a subset of the following areas:
+- Large language models, AI agents, RAG, or related AI/ML methods
+- GIS, geospatial analysis, and spatial data processing
+- Data engineering, visualization, and quantitative analysis
+- Natural hazards, infrastructure resilience, or systems analysis
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Learn more about the Summer Research Program at: https://www.ll.mit.edu/careers/student-opportunities/summer-research-program
+Compensation
+Hourly pay rates are based on the highest academic year or degree completed before the internship start date.
+Freshman year completed: $25.00/hour
+Sophomore year completed: $27.00/hour
+Junior year completed: $29.00/hour
+4th year of 5 year program completed, no degree conferred: $32.00/hour
+Bachelors completed: $34.50/hour
+Bachelors + 1, one year of graduate study completed: $36.50/hour
+Bachelors + 2, two years of graduate study completed: $38.00/hour
+MS completed: $39.00/hour
+MS + 1, one year of graduate study completed after the MS: $41.00/hour
+MS + 2, two years of graduate study completed after the MS: $42.50/hour
+MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43494

@@ -1,0 +1,49 @@
+There’s a universe of opportunity at Amazon.
+At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the moment you join, you’re
+part of something big: building products or services that reach millions and shaping how people live, work, and connect every day. This is where your ideas turn
+into real impact. You’ll work with world class tools, global platforms, and systems built to operate at an extraordinary scale. You’ll move fast, experiment and
+launch solutions that matter. With endless opportunities to explore across teams and roles, you’ll learn quickly, apply what you know and discover skills you
+didn’t know existed. This is an environment designed for builders who want to see the impact of their work in the world. Ready to start your adventure?
+What’s in it for you?
+An internship at Amazon means real responsibility from day one. You’ll build, test, and learn alongside people who want to see you succeed, while making an
+impact that reaches far beyond campus.
+Amazon internships across all seasons are full-time positions, and intern/co-ops should expect to work in office, Monday-Friday, up to 40 hours per week
+typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or
+other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their
+internship concludes.
+Please note that by applying to this role you would be considered for System Development Engineer summer intern and spring/fall co-op roles on various Robotics
+teams. You will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet your
+selection based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start dates
+available will be provided to you at the time of job offer.
+Key job responsibilities
+- Create, improve, or invent tools and/or applications that are a part of a larger system
+- Build and operate a supportable product or service, and is making significant technical contributions to it
+- Write code that is secure, stable, testable, maintainable and has minimal defects
+- Understand a variety of technologies such as hardware, software, networking, and operating systems, and how they interact with one another
+- Build systems and processes that enable other builders through improved safety, agility, and automation
+- Seek to learn the business context and technologies behind your team’s system implementations
+A day in the life
+As an Amazonian, you will be matched to a manager and a team, and will have the opportunity to influence the evolution of Amazon technology and work on critical
+projects early in your career.
+In addition to working on impactful projects, you will have the opportunity to engage with Amazonians for both personal and professional development, expand
+your network, and participate in various activities. We give you the tools to own your projects and learn in a real-world settings. - Are enrolled in a
+Bachelor's degree or above in Computer Science, Computer Engineering, Systems Engineering, Electrical Engineering, or other related discipline
+- Are 18 years of age or older
+- Experience coding, scripting, automating in at least one language (e.g., Python, C, C++, Java, Ruby, or PowerShell)
+- Experience with open-source technologies (e.g. Linux, Spring, React) - Experience with TCP/ICP networking fundamentals and application of IP protocols such
+as: DNS, DHCP, NTP, SMTP, and SNMP
+- Experience with distributed computing, programs and systems
+- Experience with automating and simplifying team development, test, and operations processes
+- Strong object-oriented design and coding skills developing on Unix-like operating systems
+- Experience within Robotics, Computer Vision, Machine Learning, Optimization, Manipulation, Perception, Motion Planning and Controls, Movement, Autonomous
+Navigation, Path Planning, or related
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k)
+matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits .
+Nashville, TN, USA - 99,110.00 USD Annually
+North Reading, MA, USA - 104,295.00 USD Annually
+Tempe, AZ, USA - 104,295.00 USD Annually

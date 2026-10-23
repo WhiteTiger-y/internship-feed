@@ -1,0 +1,77 @@
+Research Scientist Intern (TikTok-Neural Graphics and World Models) - 2027 Start (PhD)
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A106387
+Apply to this job Share this listing:
+Responsibilities
+About the Role
+We are looking for Research Scientist interns to work on foundational problems in neural graphics and world models.
+You will own a scoped project in one primary research focus track, such as model development, data strategy, evaluation, or interactive prototyping. You will
+work with other engineers to connect successful models and experiments to data, runtime, and engine pipelines.
+This role is intended for candidates with strong research potential who enjoy turning ideas into working experiments, analyzing failures, and building useful
+prototypes.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+- Study relevant research, reproduce strong baselines, and identify practical extensions.
+- Develop and evaluate models, algorithms, data methods, or evaluation methods in a scoped research area.
+- Build components of training, inference, data, or evaluation workflows using modern ML frameworks.
+- Run controlled experiments, analyze model behavior, and communicate findings clearly.
+- Create research prototypes for interactive graphics, creative tools, or engine-based workflows.
+- Produce reproducible research artifacts, clear documentation, demonstrations, and technical reports.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a PhD degree in a relevant technical field.
+- Able to commit to working for 12 weeks during the Summer of 2027.
+- Research experience through a laboratory, thesis, publication, internship, open-source project, or substantial independent project. Strong, up-to-date
+foundation in machine learning, generative modeling, and experimental methodology, with hands-on experience building, training, fine-tuning, or evaluating
+models using frameworks such as PyTorch or JAX.
+- Familiarity with modern generative architectures and training methods such as variational autoencoders, latent tokenizers, diffusion or flow-matching models,
+diffusion transformers, autoregressive models, multimodal transformers, long-context modeling, pre-training, or post-training.
+- Engineering fluency with model development workflows and the ability to reason about model architecture, training dynamics, data quality, and evaluation
+results.
+- Deep experience in at least one of the following AI-for-graphics areas: 3D modeling, asset generation, or 3D representations; animation or motion generation;
+simulation or physics-aware learning; rendering or neural rendering; world models or video prediction; or graphics and game-engine workflows.
+Preferred Qualifications:
+- Peer-reviewed publications at leading venues such as SIGGRAPH, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, RSS, CoRL, or related research communities.
+- Strong technical reports, open-source contributions, demos, project pages, or research projects that show technical depth, originality, and independent
+experimentation.
+- Experience with 3D or world generation conditioned on text, images, video, actions, or structured scene inputs.
+- Interest in collaborating with Software Engineers to move research prototypes into interactive engine pipelines.
+- Ability to understand recent research, design controlled experiments, analyze failures, and contribute to model training, data, or evaluation workflows.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here:
+https://careers.tiktok.com/legal/privacy
+As a condition of employment, all successful candidates must be able to establish authorization to work in the United States. For this position, the Company
+does not provide sponsorship or any immigration-related benefits.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $60- $60.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limi

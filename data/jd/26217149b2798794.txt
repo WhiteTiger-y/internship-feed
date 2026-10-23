@@ -1,0 +1,33 @@
+At IAT Insurance Group (IAT), interns are valued members of our organization. Our internship program aims to provide meaningful, thought-provoking work to each
+candidate that joins the team. Our internship program matches qualified students with the opportunity to participate in real world situations, obtain industry
+knowledge, receive on-the-job training, and gain career enhancing technical skills that will foster professional growth. Furthermore, our internships are
+designed to provide each participant the opportunity to network with subject matter experts within the industry as you work to build your professional skills.
+At IAT, we believe that our diverse backgrounds, life experiences and perspectives help us make better decisions and ultimately be more successful. That's why
+we're making an active effort to not only recognize the importance of diversity and inclusion for our growth, but to also root a culture that encourages and
+embraces unique perspectives. We believe that when employees feel comfortable enough to come to work and express themselves, innovation, and productivity
+flourish. The bottom line is, we want all employees at IAT to feel like they belong. Job Description: IAT Insurance Group has several openings for Data
+Engineering & Visualization Internships in our Raleigh, North Carolina location for the summer of 2027. This internship will allow you to work across multiple
+functional areas including our Analytics and Business Intelligence Teams providing you with daily exposure to top-level business intelligence analysts,
+actuaries, underwriters, and executives in the field. The internship is scheduled to begin on May 24th, 2027 and conclude on July 30th, 2027. Please note, IAT
+works on a hybrid schedule, working from the office Monday through Wednesday with the option of working remotely Thursday and Friday. Responsibilities: Document
+complex business requirements and translate to technical coding steps/UI Design Query Data Warehouse Tables and Develop ETL Pipelines Design and Construct
+Scalable Data Models to be leveraged for Data Analysis and Visualization Visualize data by creating interactive reports and dashboards for Business Partners
+Qualifications: Must have: Must be able to work out of our Raleigh, North Carolina office without housing assistance or relocation assistance from IAT Insurance
+Group. Must be able to complete the entirety of the 10-week internship program (May 24th, 2027 to July 30th, 2027). Rising undergraduate Junior or Senior
+(Graduate Students also encouraged) majoring in Data Engineering, Computer Science, Statistics, or related field Analytical thinking skills Problem Solver
+Strong communication skills both with Technical and business resources Willingness to learn Proficient with Microsoft office Ability to work independently Above
+average computer skills To qualify, applicants must be authorized to work in the United States and must not require VISA sponsorship, now or in the future, for
+employment purposes. Preferred to have: SQL/Python/PySpark Coding Experience Exposure to Data Modeling/Database Design best practices Experience with Data
+Visualization Tools (Power BI, Tableau, QlikView, etc.) Course work in Data Analytics, Systems Engineering, Computer Science Have a general knowledge of the
+Microsoft Fabric Platform Our Culture IAT is the largest private, family-owned property and casualty insurer in the U.S. Insurance Answers Together is how we
+define IAT, in letter and in spirit. We work together to provide solutions for people and businesses. We collaborate internally and with our partners to provide
+the best possible insurance and surety options for our customers. It’s about far more than being a workplace. At IAT, our fundamental belief is to a create a
+culture where all employees are heard and have a sense of belonging. Inclusion and Diversity are not just initiatives, it’s how we live. We’re committed to
+driving and building an open and supportive culture. By embracing the uniqueness of our employees, investing in their development, listening to, and engaging
+their ideas, we are stronger as an organization. Our employees propel IAT forward – driving innovation, stable partnerships, and growth. That’s why we continue
+to build an engaging workplace culture to attract and retain the best talent. All qualified applicants will receive consideration for employment without regard
+to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. We maintain a drug-free
+workplace and participate in E-Verify. #LifeAtIAT Ever wondered what a day in the #LifeAtIAT is like as an Intern? Check out this video from our former interns!
+IAT is the largest private, family-owned property and casualty insurer in the U.S. Insurance Answers Together® is how we define IAT, in letter and in spirit. We
+work together to provide solutions for people and businesses. We collaborate internally and with our partners to provide the best possible insurance and surety
+options for our customers.

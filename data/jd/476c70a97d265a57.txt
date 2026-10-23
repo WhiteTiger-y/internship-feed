@@ -1,0 +1,65 @@
+Are you obsessed with data, partner success, taking action, and changing the game? If you have a whole lot of hustle and a touch of nerd, come work with
+Pattern! We want you to use your skills to push one of the fastest-growing companies in the US to the top of the list.
+Pattern accelerates brands on global ecommerce marketplaces leveraging proprietary technology and AI. Utilizing more than 66 trillion data points, sophisticated
+machine learning and AI models, Pattern optimizes and automates all levers of ecommerce growth for global brands, including advertising, content management,
+logistics and fulfillment, pricing, forecasting and customer service. Hundreds of global brands depend on Pattern’s ecommerce acceleration platform every day to
+drive profitable revenue growth across 60+ global marketplaces—including Amazon, Walmart.com , Target.com , eBay, Tmall, TikTok Shop, JD, and Mercado Libre. To
+learn more, visit pattern.com or email [email protected] .
+Pattern has been named one of the fastest growing tech companies headquartered in North America by Deloitte and one of best-led companies by Inc. We place
+employee experience at the center of our business model and have been recognized as one of Newsweek’s Global Most Loved Workplaces®.
+We're looking for an outstanding Data Science Intern. This position assists in conducting advanced data analyses and producing industry insights that support
+projects all over Pattern. The successful candidate will be aligned with a high-priority project tailored to their unique skills, career interests, and our
+team’s evolving needs.
+This is a full-time 2027 Summer internship that will last approximately 12 weeks and work a hybrid schedule from our office in Lehi, UT.
+What is a day in the life of a Data Science Intern?
+- Having a passion for data and using data science to solve business problems
+- Working with business stakeholders to identify, scope, and build models and pipelines
+- Performing advanced data wrangling, model building, and evaluate project performance
+- Driving adoption of data science tools and best practices
+What will I need to thrive in this role?
+- Having a passion for data and using data science to solve business problems
+- Working with business stakeholders to identify, scope, and build models and pipelines
+- Performing advanced data wrangling, model building, and evaluate project performance
+- Driving adoption of data science tools and best practices
+What does high performance look like?
+- You follow through with all assignments in a timely manner
+- You give 100% to all tasks and projects you are given
+- You will take full ownership of your projects and follow through to completion
+What is my potential for career growth?
+You will work extensively with members of the Data Science team at Pattern. You will have the chance to learn and grow under their mentorship. The right
+candidate, executing at a high level, may be considered for a full-time role post internship, or an extension to continue working with the team part-time after
+returning to school. Full-time conversion will be considered if a full-time position is available.
+What is the team like?
+You will work with the other full-time Data Scientist as well as be supervised by a senior member of the Data Science team. This team is data driven and results
+oriented. You will collaborate regularly with members of your team to implement actionable solutions. Ideas and input are encouraged from all members.
+What is the hiring process?
+- Onsite technical assessment with a senior member of the Data Science team
+- Additional interviews as needed
+- Executive Review
+- Offer
+Sounds great! What's the company culture?
+- Game Changers: A game changer is someone who looks at problems with an open mind and shares new ideas with team members, regularly reassesses existing plans
+and attaches a realistic timeline to goals, makes profitable, productive, and innovative contributions, and actively pursues improvements to Pattern’s processes
+and outcomes.
+- Data Fanatics: A data fanatic is someone who recognizes problems and seeks to understand them through data, draws unbiased conclusions based on data that lead
+to actionable solutions, and continues to track the effects of the solutions using data.
+- Partner Obsessed: An individual who is partner obsessed clearly explains the status of projects to partners and relies on constructive feedback, actively
+listens to partner’s expectations and delivers results that exceed them, prioritizes the needs of your partners, and takes the time to create a personable
+experience for those interacting with Pattern.
+- Team of Doers: Someone who is a part of team of doers uplifts team members and recognizes their specific contributions, takes initiative to help in any
+circumstance, actively contributes to supporting improvements, and holds themselves accountable to the team as well as to partners.
+How can I stand out as an applicant?
+- Be prepared to talk about professional accomplishments with specific data to quantify examples
+- Be ready to talk about how you can add value and be the best addition to the team
+- Focus on mentioning how you would be partner obsessed at Pattern
+- Be prepared to talk about any side projects related to data and analytics
+Why should I work at Pattern?
+Pattern offers big opportunities to make a difference in the ecommerce industry! We are a company full of talented people that evolves quickly and often. We set
+big goals, work tirelessly to achieve them, and we love our Pattern community. We also believe in having fun and balancing our lives.
+Pattern provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without
+regard to race, color, religion, age, sex, national origin, disability, status, genetics, protected veteran status, sexual orientation, gender identity or
+expression, or any other characteristic protected by federal, state, or local laws.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.

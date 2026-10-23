@@ -1,0 +1,76 @@
+Overview
+The Credit Risk Strategy & Analysis team consists of analysts, modelers, and data scientists who develop analytical solutions and recommend strategies that
+support maximizing the net profitability of Lending portfolios while managing credit risk and serving members. This is done through the development of credit
+card line assignment and line increase strategies, pricing models for the consumer loan portfolio, and other analytical efforts.
+The team is looking for a Data Scientist Summer Associate to participate in projects and efforts related to enhanced analytics tracking, model building,
+dashboarding, or automation.
+Work Includes But Is Not Limited To
+- Providing independent data science, machine learning, and analytical insights using member, financial, and organizational data to support mission critical
+decision making for various areas of the organization.
+- Creating descriptive, predictive, and prescriptive models and insights to drive impact across the organization.
+The Summer Associate Program is a 12-week internship program beginning in May 2027 and ending in August 2027. Students will work on impactful projects and
+meaningful work during their internship. To qualify for this position, applicants must be currently pursuing a degree from an accredited college or university
+and have an anticipated graduation date of December 2027 or later.
+Responsibilities
+- Use modern technologies like Python, R, Scala, and Spark to analyze large data sets
+- Provide insights and solutions to solve business problems
+- Manage and analyze big data to build impactful data models
+- Evaluate and improve model design and performance
+- Collaborate with team members and stakeholders to deliver solutions
+- Transform data into useful formats for decision-making
+- Create visualizations and dashboards to monitor trends
+- Conduct model validations and assess performance
+- Create reports to assist with business planning and strategy
+- Lead initiatives to streamline or automate processes
+- Develop and refine strategies for underwriting, pricing, and/or portfolio monitoring
+Qualifications
+- Currently pursuing an undergraduate or graduate degree in Data Science, Statistics, Economics, Mathematics, Computer Science, Engineering, or another
+quantitative field
+- Ability to understand complex business problems and define analytical solutions
+- Coding experience with Python, R, Scala, or Spark as well as SQL
+- Ability to manipulate raw data within visualization tools to create effective dashboards that communicate end-to-end data outcomes visually
+- Proficiency in storytelling with data skills
+- Strong verbal, interpersonal and written communication skills
+- Familiarity using GitHub for documentation and code collaboration purposes
+- Familiarity with Databricks
+- Familiarity using Copilot or other AI agents to perform tasks
+Hours
+Additional Information
+- Monday - Friday, 8:00 AM - 4:30 PM
+Location:
+- 820 Follin Lane, Vienna, VA 22180
+About Us
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce
+appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+Our approach to careers is simple yet powerful: Make our mission your passion.
+- FORTUNE 100 Best Companies to Work For® 2026
+- Yello and WayUp Top 100 Internship Programs 2025
+- Computerworld® Best Places to Work in IT 2026
+- Most Loved Workplace – America’s Top Most Loved Workplaces® 2025
+- 2025 PEOPLE® Companies That Care
+- Newsweek Most Trustworthy Companies in America 2026
+- Military Times 2025 Best for Vets Employers
+- Forbes® 2026 America's Best Large Employers
+- Forbes® 2025 America's Best Employers for New Grads
+- Forbes® 2025 America's Best Employers for Tech Workers
+- 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+- Military.com Top Military Spouse Employers 2025
+- 2026 Handshake Early Talent Award
+- Newsweek America’s Greatest Workplaces for Culture, Belonging and Community 2026
+From Fortune Magazine. © 2026 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 100 Best Companies to Work For are
+registered trademarks of Fortune Media IP Limited and are used under license. Fortune Magazine, Fortune Media (USA) Corporation, and its affiliates are not
+affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national
+origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring
+process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot
+provide any information on job postings or application status.
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete
+for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on
+qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within
+the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page
+of the Navy Federal Career Site.
+Protect Yourself from Job Scams: Navy Federal Credit Union jobs are posted on our career site, jobs.navyfederal.org and reputable job boards (e.g., LinkedIn,
+Indeed). We do not post jobs on social media marketplaces, messaging apps or unverified websites. We will never ask candidates for payment, bank details or
+personal financial information during the hiring process.
+Bank Secrecy Act: Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.

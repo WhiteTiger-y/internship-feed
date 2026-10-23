@@ -1,0 +1,66 @@
+About Us
+At CNH, we're driven by a clear purpose: we serve and advance the people who feed and build a growing world.
+As a global leader in agriculture and construction, we create the equipment, technology, and solutions that help our customers work more productively and
+sustainably. Our success starts with our people, and we foster a collaborative culture where innovation thrives and every employee has the opportunity to grow.
+Grow a Career. Build a Future.
+If you're ready to make an impact and build a career with purpose, there's a place for you at CNH.
+Job Purpose
+The AI Engineer Intern will assist in developing innovative new products to solve problems using AI techniques, such as Machine Learning and Deep Learning to
+drive AI advancements in new product development and provide continual refinement of existing products. Generating software systems derived from various Machine
+Learning (ML) techniques to drive innovation. Generating software systems derived from various Deep Learning techniques to improve usability.
+Intern Program Overview:
+We are committed to building a strong talent pipeline by investing in early career professionals. Our internship and co-op programs provide mentorship,
+training, hands-on experience, and growth opportunities that empower students to explore their career paths with confidence. Through competitive wages,
+networking events, social and volunteer activities, professional development workshops, and housing support, we strive to deliver one of the best internship
+experiences—designed to develop and inspire the talent of tomorrow. Summer interns work full-time (40 hours per week) from May through August. Candidates must
+be currently enrolled college students actively pursuing a degree to participate in the internship program.
+Key Responsibilities
+- Design, implement, and deploy software systems incorporating classical machine learning techniques to solve well-scoped engineering and product problems.
+- Develop and integrate deep learning models (CNNs, transformers, and other architectures as appropriate) into production software, including training,
+evaluation, and inference pipelines.
+- Implement data preprocessing, feature engineering, and augmentation pipelines, and support model optimization for target hardware through techniques such as
+quantization, pruning, and format conversion (e.g., ONNX, TensorRT, TFLite).
+- Contribute as an active member of a Scrum team, delivering working, tested software within each sprint and participating in planning, estimation, and
+retrospectives.
+- Write, review, and document software using test-driven development (TDD), including unit, integration, and regression tests, with an emphasis on
+reproducibility and maintainable code.
+- Build automated test environments, simulation frameworks, and CI/CD pipelines to validate model and system behavior across releases.
+- Conduct manual and bench testing, and prepare software builds and configurations for field deployment and customer installation.
+- Support end users through software troubleshooting, root-cause analysis, defect resolution, and technical training.
+- Research and evaluate algorithms, libraries, datasets, and third-party tools relevant to assigned projects, and make evidence-based recommendations.
+- Collaborate with internal teams and external partners to gather, clarify, and communicate technical and data requirements.
+- Support software asset management, including dependency tracking, licensing, and maintenance contracts.
+- Prepare and present technical reports, metrics, and recommendations to engineering and stakeholder audiences.
+- Participate in continuous improvement of team tooling, processes, and engineering standards.
+Experience Required
+- Master's degree in Computer Science, Electrical/Computer Engineering, Applied Mathematics, or a related technical field (or a Bachelor's degree with
+equivalent relevant experience).
+- Proficiency in C++ (modern C++11/14/17 or later), including familiarity with memory management, concurrency, and performance-conscious development.
+- Programming experience in Python, particularly within the ML/scientific stack (e.g., NumPy, PyTorch or TensorFlow, scikit-learn).
+- Working understanding of machine learning and deep learning fundamentals, including model training, evaluation metrics, and common failure modes.
+- Experience with version control (Git) and collaborative development workflows.
+- Familiarity with software testing practices and CI/CD concepts.
+- Strong problem-solving skills and the ability to communicate technical concepts clearly, both written and verbally.
+What We Offer
+We offer dynamic career opportunities across an international landscape. As an equal opportunity employer, we are committed to delivering value for all our
+employees and fostering a culture of respect.
+Benefits
+At CNH, we understand that the best solutions come from the diverse experiences and skills of our people. Here, you will be empowered to grow your career, to
+follow your passion, and help build a better future. To support our employees, we offer regional comprehensive benefits, including:
+- Flexible work arrangements
+- Savings & Retirement benefits
+- Tuition reimbursement
+- Parental leave
+- Adoption assistance
+- Fertility & Family building support
+- Employee Assistance Programs
+- Charitable contribution matching and Volunteer Time Off
+Click here to learn more about our benefits offerings! (US only)
+US applicants: CNH Industrial is an equal opportunity employer. This company considers candidates regardless of race, color, religion, sex, sexual orientation,
+gender identity, national origin, disability, or veteran status. Applicants can learn more about their rights by viewing the federal "Know Your Rights" poster
+here. CNH Industrial participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work
+in the U.S. You can view additional information here.
+Canada applicants: CNH Industrial is an equal opportunity employer. This company considers candidates regardless of race, color, religion, sex, sexual
+orientation, gender identity, nationality, place of origin, disability, marital status, family status, age, or any other ground prohibited by applicable
+provincial human rights legislation.
+If you need reasonable accommodation with the application process, please contact us at narecruitingmailbox@cnh.com.

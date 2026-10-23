@@ -1,0 +1,66 @@
+Responsibilities
+About the team
+The USDS Platform and Community Integrity (PaCI) team is the architectural backbone of TikTok's Risk & Integrity in the US. We drive end-to-end integrity for
+TikTok and its expanding ecosystem, including Lemon8 and emerging affiliate platforms, by leveraging localized US data and state-of-the-art AI/LLM capabilities.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Work with large-scale data, logs, metrics, or experiments to understand user search behavior and improve product or system quality.
+- Collaborate with engineering, product, data science, and machine learning partners to define requirements and deliver project milestones.
+- Write clear, maintainable code and documentation for assigned workstreams.
+- Communicate progress, risks, and learnings with mentors and stakeholders throughout the internship.
+Qualifications
+Minimum Qualification(s):
+- Currently pursuing a PhD degree in Computer Science, Computer Engineering, Software Engineering, or a related technical field.
+- Able to commit to a 12-week internship during Summer 2027.
+- Solid foundation in Machine Learning; proficient in applying Transformer and GNN architectures to solve large-scale integrity challenges with social graph and
+behavior sequence data. Experience designing model evaluation systems that balance technical performance with product goals.
+- Strong engineering and coding skills. Proficient in at least one language among Python, C++, or Go; familiar with distributed computing (e.g., Spark, Flink)
+and deep learning frameworks (e.g., PyTorch).
+Preferred Qualifications:
+- Agentic AI Experience: Hands-on experience building LLM-based Agents capable of task planning, tool-use, or closed-loop autonomous decision-making.
+- LLM Security & Alignment: Experience in LLM Post-training or Fine-tuning (e.g., SFT, RLVR, RLHF) to optimize models for specific risk domains like fraud
+intent recognition or malicious redirection.
+- Multimodal Expertise: Proven track record in video understanding or multimodal representation; ability to integrate visual, audio, and textual features to
+solve complex behavioral modeling challenges.
+Job Information
+About USDS
+TikTok USDS Joint Venture LLC is dedicated to the safety and security of millions of Americans who create, discover, and connect with what they love on the apps
+we operate. The Joint Venture has been established in compliance with the Executive Order signed by President Trump on September 25, 2025. Our foundation is a
+comprehensive data privacy and cybersecurity program we operate under defined safeguards to protect national security and secure U.S. user data, apps and the
+algorithm. We safeguard the U.S. content ecosystem, holding decision-making authority for trust and safety policies and moderation. USDS Joint Venture helps
+ensure Americans can continue to express their creativity, discover new hobbies and interests, and build thriving communities and businesses on a global scale.
+On-site presence across teams allows the company to operate with greater speed, alignment, and agility — especially in areas like real-time decision-making,
+team development, and integrated execution. As such, the company is shifting from a hybrid work model to a fully in-person schedule up to 5 days a week.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless.
+Join us.
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to
+celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+USDS Reasonable Accommodation
+USDS is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious
+beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/USDS-
+RA
+【For Pay Transparency】Compensation Description (hourly)
+The hourly rate range for this position in the selected city is $60- $60.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology syst

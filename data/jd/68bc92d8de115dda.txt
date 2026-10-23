@@ -1,0 +1,73 @@
+The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania, and Cambridge, Massachusetts is a part
+of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a
+history spanning over 125 years. The Research and Technology Center North America (RTC-NA) is dedicated to providing technologies and system solutions for
+various Bosch business fields, primarily in the field of artificial intelligence, energy technologies, internet technologies, circuit design, semiconductors and
+wireless, as well as advanced MEMS design.
+As part of the global research organization, our AI research in Silicon Valley focuses on Foundation Models and Gen AI, Human-AI Collaboration and Trustworthy
+AI, AI for Advanced Driver-Assistance Systems (ADAS) and Autonomous Systems, AI Systems Engineering, and Industry AI. We develop scalable, intelligent, and
+trustworthy AI solutions to enable inspiring user experiences for Bosch products and services in application areas such as ADAS, smart manufacturing, enterprise
+AI, healthcare, smart home, and building solutions.
+Originating from Bosch AI research in Silicon Valley, our Agentic AI Research Group advances cutting-edge research in large language models (LLMs), AI agents,
+and intelligent autonomous systems. Our research spans autonomous and multi-agent systems, agent reasoning and planning, agent memory, self-improvement,
+retrieval-augmented generation (RAG), reinforcement learning, and multimodal foundation models. We aim to develop novel algorithms and systems that enable AI
+agents to reason, learn, collaborate, and act effectively in complex real-world environments. We actively collaborate with leading researchers and organizations
+across academia and industry to advance the state of the art in Agentic AI. Our work regularly contributes to internationally renowned conferences and journals,
+including NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, AAAI, COLM, and TMLR.
+You will work on cutting-edge Agentic AI research while tackling real-world challenges in domains such as Industrial AI, Manufacturing, Mobility, and Smart
+Home. Unlike purely academic environments, you will have the opportunity to develop and validate novel AI technologies on large-scale real-world applications
+with measurable impact.
+You will work closely with experienced Bosch researchers in Silicon Valley and across our global research network, receive mentorship from leading AI experts,
+and help transform cutting-edge research into real-world AI systems deployed in industrial domains.
+Responsibilities
+Depending on your expertise and interests, you will contribute to one or more cutting-edge research topics, including:
+- Agent systems for industrial applications
+- Autonomous AI agents and multi-agent systems
+- Agent reasoning, planning, and decision making
+- Agent memory and long-horizon task execution
+- Agent self-improvement, continual learning, and adaptation
+- Tool use, function calling, and agent-environment interaction
+- Retrieval-Augmented Generation (RAG) and Agentic RAG
+- Knowledge integration and grounding for agents
+- LLM post-training, reinforcement learning, and test-time scaling
+- Multi-modal agents leveraging language, vision, and structured data
+- Human-agent collaboration and interactive AI systems
+- Agent evaluation, benchmarking, reliability, and safety
+Key responsibilities include:
+- Conduct novel research in Agentic AI, LLMs, and related fields.
+- Design, implement, and evaluate research prototypes demonstrating innovative AI agent capabilities.
+- Collaborate closely with Bosch researchers and domain experts to address challenging industrial problems.
+- Analyze experimental results and identify opportunities for scientific innovation.
+- Publish research outcomes in top-tier AI conferences and journals, such as NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, AAAI, and COLM.
+Basic Qualifications
+- Currently enrolled in a Ph.D. or Master's program in Computer Science, Computer Engineering, Electrical Engineering, Artificial Intelligence, or a related
+field.
+- Strong research background in Agentic AI, Large Language Models (LLMs), machine learning, natural language processing, or related areas.
+- Experience developing AI agents using modern frameworks and ecosystems
+- Strong programming skills in Python and experience with modern AI/ML framework
+- Familiarity with agent workflows involves tool use, function calling, retrieval, memory, and multi-step reasoning.
+- Experience conducting independent research, designing experiments, and analyzing results.
+- Strong written and verbal communication skills and ability to work effectively in a collaborative research environment.
+- Minimum GPA of 3.0
+Preferred Qualifications
+- Publication record in top-tier AI, NLP, or machine learning venues (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, AAAI, COLM).
+- Research experience in LLM-based agents, agent architecture, task planning, reasoning, and autonomous decision making.
+- Research experience in agent optimization, including post-training, reinforcement learning, preference optimization, and self-improvement.
+- Experience with retrieval-augmented generation (RAG), agentic retrieval systems, and knowledge-grounded agents.
+- Experience with multi-agent systems, agent collaboration, and distributed agent workflows.
+- Experience with multi-modal foundation models involving language, vision, and structured data.
+- Experience in reinforcement learning, online learning, or adaptive decision-making systems.
+- Experience with agent benchmarking, evaluation methodologies, reliability, safety, or alignment.
+- Experience in applying Agentic AI technologies to real-world domains such as engineering design, or industrial automation.
+- Open-source contributions or demonstrated leadership in AI research communities.
+Equal Opportunity Employer, including disability / veterans
+*Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background
+check. Candidates who have been offered the position must pass both screenings before their start date.
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics)
+- FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+- AWIM (A World In Motion)
+The U.S. base salary range for this intern position is $53.00-70.00 hourly. Within the range, individual pay is determined based on several factors, including,
+but not limited to, type of degree, work experience and job knowledge, complexity of the role, type of position, job location, etc. Your Hiring Manager can
+share more details about the specific salary range for this position during the interview process.
+For more information on our culture and benefits, please visit:
+Culture and Benefits | Bosch in the USA
+All your information will b

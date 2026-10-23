@@ -1,0 +1,64 @@
+Responsibilities
+With the fast growth of ByteDance's business, ByteDance's system infrastructure is currently at a massive scale and requires versatile system solutions. Our lab
+collaborates with HQ teams on advanced R&D projects, focusing on LLM/AI + Infrastructure technologies, which includes both infrastructure for LLM/AI and LLM/AI
+for infrastructure. To name a few, we are building a new cloud-native vector index library. Our TextToSQL project ranks top on well known industry benchmarks.
+We also work on advanced AIOps technologies that are used by our Volcano cloud products.
+Besides achieving great business impacts, we also encourage publishing on top tier conferences. In year 2025 alone, our lab published nearly 20 papers in top
+tier conferences, such as SIGMOD, VLDB, FSE, ICLR, EuroSys, WWW etc. We hire students with great technical skills, willingness to learn and solve complex
+technical challenges and passion in making an impact on millions of users.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities
+- Do research survey and come up with a new system and algorithm design
+- Develop prototyping systems
+- Be able to debug systems and measure system performance
+- Collaborate with mentors and other lab members
+- Write technical reports and publish papers
+Qualifications
+Minimum Qualifications
+- Currently pursuing a PhD in Computer Science or related discipline.
+- Understand how distributed systems work
+- Great programming skill in one or more of the following programming languages: C/C++, Go, Java or Python
+- Be able to conduct advanced research under supervision
+Preferred Qualifications
+- Strong past research experience in infrastructure system areas
+- Research experience with LLM
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $57- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are
+committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope
+you are too.
+Reasonable Accommodation
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious
+beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-
+request

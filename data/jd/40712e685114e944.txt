@@ -1,0 +1,70 @@
+Insperity provides the most comprehensive suite of scalable HR solutions available in the marketplace with an optimal blend of premium HR service and
+technology. With more than 90 locations throughout the U.S., Insperity is currently making a difference for thousands of businesses and communities nationwide.
+Behind our success is the unshakeable belief in the value of our people. We value diversity, inclusivity and a sense of belonging. We celebrate work and life
+events, and we partner with our clients and communities to make great things happen.
+We’ve earned recognition time and again as a top place to work—named among the best by respected organizations like Glassdoor and U.S. News & World Report.
+We’re also proud to be recognized for one of the country’s Top 50 Midsize Early Talent Programs through RippleMatch’s Campus Forward Awards. There’s never been
+a better time to be part of Insperity, and our best work is still ahead. Learn more at Insperity.com.
+Why Insperity?
+Flexibility: Over 80% of Insperity’s jobs have flexibility. We want your time to have balance, whether it’s spent with coworkers, clients, family or your
+community.
+Career Growth: Insperity provides many ways to grow with the company. We offer continuous learning programs, mentorship opportunities and ongoing training.
+Well-Being: Our total rewards package includes generous paid time off, top-tier medical, dental and vision benefits, health & wellness support, paid volunteer
+hours and much more. We take care of our people so that you can do your best work.
+There's a reason Insperity has earned national recognition from organizations such as Forbes, Fortune, Great Place to Work, Newsweek, TIME, and U.S. News &
+World Report, and has been named one of the Top 100 Companies to Work for in the U.S. Our commitment to developing future talent is equally celebrated.
+Insperity's internship program has been recognized as a Top 100 Internship Program by Yello/WayUp and was honored with the 2026 Campus Forward Award by
+RippleMatch for excellence in Recruitment Strategy, Innovation in Action, and Candidate Experience.
+Want to work for us and find out why?
+As a trusted advisor to America's best businesses for more than 40 years, Insperity provides an array of human resource and business solutions designed to help
+improve business performance.
+Rotational AI Intern
+We are seeking an AI Intern to work on projects and assignments with various diverse teams to design, develop, test, deploy, and maintain advanced AI-focused
+solutions. Each rotation will have projects that apply cutting-edge concepts to real-world business challenges and engage actively in problem framing and system
+design, translating business requirements into effective AI solutions.
+Responsibilities
+- Completes AI-focused work assignments by applying current AI concepts and tools, following procedures, meeting deadlines, and collaborating cross-functionally
+to support business initiatives.
+- Communicates progress, insights, risks, and improvement opportunities to project teams and leaders.
+- Engages in self-development by sharing AI knowledge, seeking and incorporating feedback, adapting to change, and contributing to rotation-specific objectives.
+- Supports AI solution design by assisting in problem framing, system design, and defining required interfaces, methods, and parameters.
+- Helps develop and refine AI models and workflows using machine learning, data analysis, and programming techniques (e.g., Python or R) under guidance from
+senior staff.
+- Contributes to creation and review of technical documentation, including semantic layers, knowledge graphs, and ontologies.
+- Participates in model evaluation, integration testing, and user acceptance testing (UAT).
+- Provides troubleshooting support for non-complex issues related to algorithms, data pipelines, and API integrations.
+- Collaborates with IT and AI teams to ensure adherence to architectural standards, design patterns, and ethical AI practices (including bias mitigation and
+compliance).
+- Applies knowledge of emerging AI trends (e.g., Visual AI, Rules Engines, Recommender Systems, and Responsible AI) to develop insight into industry best
+practices.
+- Develops organizational and technical familiarity by engaging with AI publications, attending training events, and exploring generative AI tools.
+- Assists in implementation and post-implementation support for AI-driven business solutions, including configuration and enhancement of models and
+applications.
+- Participates in networking and learning events with interns and associates working across AI and related functions.
+- Provides feedback to support continuous improvement of the AI internship program.
+Qualifications
+- High School Diploma or equivalent is required.
+- Actively pursuing or has obtained a Bachelor’s Degree in AI or a related field is required.
+- GPA of 3.25 or higher is preferred.
+- Understanding of core AI and data concepts including:
+- Machine Learning Fundamentals (algorithms, model training, evaluation)
+- Data Structures & Pipelines for handling structured and unstructured data
+- Neural Networks & Deep Learning Basics
+- Natural Language Processing (NLP) and Computer Vision principles
+- Cloud & API Integration for deploying AI models
+- Understanding of ethical AI use, bias mitigation, and compliance standards.
+- Exposure to model optimization, performance tuning, and scalable deployment strategies.
+- Understanding of advanced AI concepts related to data relationships and reasoning.
+- Some level of proficiency with common AI and data science languages (e.g., Python, R, SQL) with exposure to scripting for automation and data manipulation.
+- Ability to adapt quickly, learn new skills quickly, and work effectively in ambiguous situations.
+- Strong analytical thinking, sound judgment, and problem solving skills.
+- High level of professionalism and ability to handle sensitive/confidential information appropriately.
+- Effective time management skills with the ability to multi-task and prioritize.
+- Strong problem-solving and collaboration skills.
+- Excellent verbal and written communication skills, including basic presentation skills.
+- Collaboration and leadership capability; works well in a team environments.
+- Initiative driven, intellectually curious, and motivated to deliver results.
+- Proficiency with computer applications and Microsoft Office Suite (Word, Excel, PowerPoint).
+At Insperity, we celebrate the diversity of our employees and our leadership. Insperity is an equal opportunity employer, and all qualified applicants will
+receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status or any other
+characteristic protected by law.

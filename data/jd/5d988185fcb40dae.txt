@@ -1,0 +1,54 @@
+Overview
+Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This
+opportunity will allow you to bring your aspirations, talent, potential—and excitement for the journey ahead.
+As a Security Research Intern, under supervision you will design and conduct security research including malware analysis, threat and vulnerability analysis,
+adversary tracking, threat intelligence, detection and remediation development and other technology application focuses related to the understanding of the
+threat landscape with intent to disrupt adversaries or provide protection via defensive products and services. You will help generate solutions including first
+party mitigation and working closely with customers and partners and support operational security and security incidents as well as security reviews and
+reporting.
+We are building a cutting-edge Cloud solution that gives customers visibility and control without impeding agility and helps them stay ahead of cyber threats as
+they evolve. You will join the group that is responsible for advanced threat detection capabilities, leveraging machine learning and behavioral profiling to
+detect emerging threats and advanced attacks by engineering a hyper-scale service to defend millions of hosts.
+At Microsoft, Interns work on real-world projects in collaboration with teams across the world, while having fun along the way. You’ll be empowered to build
+community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset,
+innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a
+culture of inclusion where everyone can thrive at work and beyond.
+#EiP
+Responsibilities
+- Begins to analyze threat trends and anomalies to determine operational impact. Determines vectors that introduce threat and potential mitigation strategies.
+Learns about systemic security issues and how to address them.
+- Processes threat reporting from internal and external sources. Provides discrete threat data based on intelligence requirements or customer requests.
+- Identifies security defects or vulnerabilities and deficiencies in security guidance.
+- Contributes code to technical implementation and automation of solutions to address security issues, such as signature detection, malware, threat analysis, or
+reverse engineering. Uses results from research and experimentation to support architecture or product direction.
+- Identifies areas of dependency and overlap with other teams or team members. Provides constructive input so the work is integrated and timely. Communicates
+the status of deliverables and dependencies to meet schedule.
+- Engages in measures to protect tools, techniques, information, and results of security practices. Responds to incidents for systems or products as needed.
+Uses results of pen testing to improve products and services.
+Qualifications
+Required Qualifications:
+- Currently pursuing a Bachelor's Degree in Statistics, Mathematics, Computer Science or related field
+- Must have at least one additional quarter/semester of school remaining following the completion of the internship
+Other Requirements:
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not
+limited to the following specialized security screenings:
+- Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years
+thereafter.
+Preferred Qualifications:
+- Currently pursuing a Master's Degree in Statistics, Mathematics, Computer Science or related field
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship,
+color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin,
+physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual
+orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations
+and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+Join Microsoft's global intern community and turn your aspirations into action. Our summer internship experience is where passion meets purpose, empow... Are
+you ready to take the first steps into your career and put your talents to work in the real world? Do you want to play a vital part in the busines... Microsoft
+Aspire MBA is designed to maximize the potential of MBA new hires who join Microsoft from around the world every year. The two-year learning... How do we
+empower every person and every organization to achieve more? Check out our mission in action.
+#Microsoft Balance what matters—your work, your life, and your team—through trust, autonomy, and shared accountability
+https://static.vscdn.net/images/careers/demo/microsoft/1761075555::flexibility+perk Stretch your skills, expand your impact, and grow with support that meets
+you where you are Support for your body, mind, and financial future—so you can stay energized and do your best work
+https://static.vscdn.net/images/careers/demo/microsoft/1761075686::wellbeing+perk
+https://static.vscdn.net/images/careers/demo/microsoft/1761075742::community+perk

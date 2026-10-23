@@ -1,0 +1,61 @@
+Job Description
+The Quantitative Genetics Intern supports the development of new genetic evaluations for economically and biologically relevant traits in internal beef and
+dairy breeding programs. Working with the Product Development and Innovation quantitative genetics team, the intern will apply contemporary single-step genomic
+evaluation methods and the BLUPF90 family of programs to phenotypic, pedigree, and genomic data. The internship is designed to produce a defined technical
+deliverable while providing practical experience with the development, validation, documentation, and application of genetic evaluations in commercial livestock
+breeding programs.
+Based in Madison, Wisconsin, the intern will work with R&D scientists and laboratory staff on basic and/or applied research related to reproductive biology,
+cell biology, embryology, or vitro fertilization.
+Responsibilities
+Genetic Evaluation Development and Implementation
+- Contribute to the development of one or more genetic evaluations for traits relevant to internal beef and dairy breeding programs.
+- Define analysis populations, contemporary groups, fixed and random effects, and other model specifications in collaboration with team geneticists.
+- Estimate or evaluate genetic parameters and implement single-step genomic evaluations using appropriate programs within the BLUPF90 family.
+- Compare alternative data edits, model specifications, or evaluation scenarios and summarize implications for prediction quality and operational use.
+Data Management and Quality Assurance
+- Prepare, integrate, and quality-control phenotypic, pedigree, and genomic datasets used in assigned evaluations.
+- Assess evaluation outputs for convergence, data integrity, predictive performance, bias, stability, biological plausibility, and suitability for use in
+breeding decisions.
+Analytical Programming and Workflow Development
+- Develop reproducible scripts and workflows for data preparation, program execution, results processing, validation, and reporting.
+- Document datasets, code, parameter files, methods, assumptions, quality-control rules, analytical decisions, limitations, and results to support
+reproducibility and future implementation.
+Technical Communication and Project Collaboration
+- Participate in regular project meetings, communicate progress and technical risks, and incorporate feedback from quantitative genetics and business
+stakeholders.
+- Prepare and deliver a final technical report and presentation summarizing methods, results, limitations, and recommended next steps.
+Professional Qualifications And Experience
+- Currently enrolled in a PhD program in quantitative genetics, animal breeding, animal science, genetics, genomics, or a closely related discipline.
+- Practical experience conducting genetic evaluations in livestock, preferably cattle.
+- Hands-on experience implementing single-step BLUP or single-step genomic BLUP evaluations using the BLUPF90 family of programs.
+- Sound understanding of mixed models, breeding value estimation, genomic relationship matrices, genetic parameter estimation, prediction accuracy, and
+evaluation validation.
+- Experience working with phenotypic, pedigree, and genomic data, including data editing, quality control, and construction of analysis-ready files.
+- Proficiency in Python for data manipulation, workflow development, quality control, or result processing; experience with Fortran is strongly preferred.
+- Experience working in Linux or Unix environments and using shell scripting, job scheduling, or high-performance computing resources is preferred.
+- Ability to write clear, well-documented, reproducible code and maintain organized analytical records.
+- Strong analytical judgment, attention to detail, problem-solving skills, and ability to work independently while seeking input when needed.
+- Effective written and verbal communication skills, including the ability to explain technical methods and findings to scientific and cross-functional
+audiences.
+- Ability to work remotely and participate reliably in meetings and collaborative work during regular Central Time business hours.
+DELIVERABLES
+- A documented, reproducible genetic-evaluation workflow for the assigned trait or traits.
+- Analysis-ready datasets and quality-control summaries, subject to applicable data-governance requirements.
+- Validated evaluation outputs with a concise assessment of model performance, limitations, and implementation readiness.
+- A final technical report, presentation, and organized handoff of code, parameter files, and supporting documentation.
+PHYSICAL DEMANDS & WORK ENVIRONMENT
+While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to sit, stand, walk, reach with
+hands or arms, lift files and operate a computer.
+Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust to
+focus.
+This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, copy machines, filing
+cabinets and fax machines.
+Remote internship with regular collaboration across the Product Development and Innovation team. The intern is expected to conduct work and attend meetings
+during regular Central Time business hours. Day-to-day supervision and technical coaching will be provided by a senior quantitative geneticist.
+Applications will close on November 6th, 2026.
+About Us
+As a holding company with cooperative and private ownership, URUS is a family of businesses at the heart of the dairy and beef industry – Alta Genetics, GENEX,
+Genetics Australia, Leachman Cattle, Jetstream, PEAK, SCCL, Trans Ova Genetics and VAS. Each organization has its unique identity, products, and services. These
+companies work globally to provide cutting-edge dairy and beef genetics, customized reproductive services to maximize conceptions, dairy management information
+to take producers to the frontline of progressive dairy farming, and an array of products and services to help bovines reach their full genetic potential. URUS
+has 9 brands in 17 retail countries and employs nearly 2,800 people globally.

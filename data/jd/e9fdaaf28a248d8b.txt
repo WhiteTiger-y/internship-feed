@@ -1,0 +1,58 @@
+Who We Are
+Atoms is building the machines that power the next era of progress.
+Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and
+industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that.
+Atoms builds Physical AI real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are
+designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more scalable, and
+more productive.
+This work requires more than robotics. It requires deep integration across hardware, software, AI, operations, manufacturing, and real estate. We don’t just
+build machines in a lab. We deploy them into real environments, operate them, learn from them, and improve them until they work at scale.
+We are roboticists, engineers, operators, and builders. We believe the next great technology companies will not only transform information, but the physical
+systems that shape everyday life.
+If you want to work on hard problems with real-world impact, join us.
+About The Role
+We are seeking a visionary AI/ML Research Intern to join our founding team and bridge the gap between high-level AI research and real-world physical actuation
+for our next-generation autonomous transport platforms.
+In this role, you will contribute to core research initiatives on World Models and Vision-Language-Action (VLA) models. You will help translate cutting-edge
+theoretical breakthroughs into scalable, real-world deployment on physical autonomous systems, driving how our platforms perceive, simulate, and navigate
+complex environments.
+What You'll Do
+- Research and develop cutting-edge RL and distillation techniques for trajectory planning.
+- Integrate emerging research from the broader AI community, identifying and prototyping the most promising solutions.
+- Design and prototype end-to-end multimodal models that translate real-time visual perception and high-level behavioral goals into physical vehicle actuation.
+- Develop interactive world models from raw multi-sensor logs, allowing the team to re-simulate events and query what a vehicle would see if it altered its
+trajectory.
+- Ensure core autonomous driving models can seamlessly adapt to novel urban environments and edge cases.
+- Partner with validation and research teams to run model experiments through rigorous simulated scenarios, detecting regressions and identifying systemic
+performance bottlenecks.
+What We're Looking For
+- Education: Currently enrolled in a PhD degree program in Computer Science, EECS, Robotics, Machine Learning, or a closely related quantitative field.
+- Research Track Record: Publications or submissions in top-tier machine learning or robotics venues (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, RSS, ICRA,
+CoRL).
+- Core Expertise: Graduate-level research background focused on at least one of the following domains:
+- Generative World Models / Video Generation / Diffusion Models
+- Vision-Language-Action (VLA) models or embodied AI
+- Reinforcement Learning (RL), trajectory optimization, or decision-making systems
+- Large-scale multimodal Transformer architectures applied to robotics or spatio-temporal data
+- Framework Fluency: Advanced hands-on proficiency with PyTorch or JAX for training and fine-tuning large-scale neural networks.
+- Programming: Proficiency in Python and working knowledge of C++.
+Preferred Qualifications
+- Hands-on experience with Sensor Fusion integrating inputs across multi-camera setups, LiDAR, and Radar.
+- Familiarity with Bird’s-Eye-View (BEV) visual representations, 3D occupancy forecasting, multi-task learning, or specialized data tokenization for spatial
+data.
+- Prior experience with large-scale distributed training on GPU/TPU clusters (e.g., DeepSpeed, Megatron-LM, Ray, or PyTorch FSDP).
+- Prior research or internship experience in autonomous driving, mobile robotics, or spatial AI.
+Why join us
+At Atoms, you’ll work on one of the defining challenges of our time bringing automation into the physical world to drive real, lasting impact. We exist to
+uncover valuable unknown truths and turn them into progress, which means constantly pushing beyond what’s known and building what doesn’t yet exist. The work is
+ambitious and often challenging, but it’s grounded in a shared sense of purpose and a team committed to seeing it through together. Our work only matters if it
+serves others, and we know that meaningful progress depends on the trust of the people we serve and the strength of our team so we invest in both, creating an
+environment where you can do your best work and grow.
+What Else You Need To Know
+This role is based in our Mountain View or San Francisco office. Atoms is a company driven by invention and continuous change, we are constantly reimagining our
+industries, building new products, and refining how we operate. We do our best work together. That’s why all of our office-based teams work onsite, five days a
+week.
+The hourly pay range for this internship role is $70/hr per hour.
+Actual compensation will be determined on an individual basis and may vary depending on experience, skills, and qualifications.
+Atoms accepts applications on an ongoing basis.
+Ready to join us as we serve those who serve others?

@@ -1,0 +1,74 @@
+Job Description
+About the role
+As a PhD AI/ML Engineering Intern within General Motors’ Autonomous Vehicles organization, you will advance reliable AI/ML capabilities by translating deep
+research into validated, production-oriented systems. Your work may support perception, prediction, planning, decision-making, embodied AI, simulation, sensor
+understanding, mapping, or large-scale model development. You will work with real-world driving and sensor data, modern machine learning methods, and autonomous
+vehicle evaluation environments. You will collaborate with researchers and engineers to design experiments, build and assess models, investigate failure cases,
+and integrate promising approaches into broader AV systems.
+What You’ll Do
+- Research and prototype advanced machine learning methods for perception, prediction, planning, or decision-making.
+- Design, train, evaluate, and improve models using large-scale multimodal driving and sensor data.
+- Build data pipelines, experimentation workflows, and evaluation tools for rapid model iteration.
+- Validate models through simulation, testing, performance analysis, and failure-case investigation.
+- Optimize models and systems for scalability, latency, reliability, and deployment constraints.
+- Collaborate with engineering and research partners to integrate prototypes into autonomous vehicle systems.
+- Document findings, present technical insights, and contribute to publications or other research outputs.
+Required Qualifications
+- Currently enrolled full-time in a PhD program in computer science, machine learning, artificial intelligence, robotics, engineering, or a related STEM field.
+- Must have at least one additional quarter/semester of school remaining following the completion of the internship
+- Demonstrated depth of AI/ML research through publications, research projects, advanced coursework, or equivalent technical work.
+- Strong understanding of modern machine learning and deep learning methods.
+- Proficiency in Python and hands-on experience with an ML framework such as PyTorch, TensorFlow, or JAX.
+- Experience designing experiments, analyzing results, and applying quantitative problem-solving methods.
+- Strong programming, debugging, and software development fundamentals.
+- Strong communication skills and the ability to collaborate across research and engineering disciplines.
+- Availability to work full-time, 40 hours per week, during the internship period.
+Preferred Qualifications
+- Candidates are not expected to meet every qualification listed below. Depending on the needs of a specific Autonomous Vehicles team, a combination of these
+skills and areas of knowledge may be relevant.
+- Conduct research in autonomous vehicles, ADAS, robotics, computer vision, or embodied AI.
+- Demonstrate knowledge of foundation models, transformers, generative and diffusion models, or vision-language architectures.
+- Apply multimodal learning techniques to camera, lidar, radar, or other sensor data.
+- Use self-supervised, imitation, reinforcement, or deep reinforcement learning methods.
+- Train models on large-scale datasets using distributed, parallel, or high-performance computing environments.
+- Develop ML systems, data pipelines, experimentation frameworks, or production-oriented model infrastructure.
+- Validate models through simulation, closed-loop environments, or real-world driving scenarios.
+- Apply expertise in trajectory prediction, behavior planning, motion planning, perception, mapping, or structured scene understanding.
+- Program in C++ or other systems programming languages.
+- Optimize models and systems using GPU programming, CUDA, accelerator frameworks, or performance profiling.
+- Apply numerical optimization, statistical estimation, probabilistic modeling, and systems-level tradeoff analysis.
+- Demonstrate a strong research record through first-authored publications, grants, fellowships, patents, or open-source contributions.
+Compensation:
+The compensation information is a good faith estimate only. It is based on what a successful applicant might be paid in accordance with applicable state laws.
+The compensation may not be representative for positions located outside of New York, Colorado, California, or Washington.
+- The salary range for this role is $12,300-$14,600 per month. The actual base salary a successful candidate will be offered within this range will vary based
+on factors relevant to the position.
+- GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of
+relocation benefits, please apply using the permanent address you would move from.
+What you’ll get from us (Benefits):
+- Paid US GM Holidays
+- GM Family First Vehicle Discount Program
+- Result-based potential for growth within GM
+- Intern events to network with company leaders and peers
+Work Arrangement:
+- Start dates for this internship role are May 24th and June 14th of 2027.
+- Assignments will be based on team placement to ensure interns are located with their working team and leader.
+- Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to their designated work location three times per week,
+at minimum.
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world
+better, safer and more equitable for all.
+Why Join Us
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every
+day, we want every employee to feel they belong to one General Motors team.
+Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career
+that rewards you personally by visiting Total Rewards resources.
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws.
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and
+capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessm

@@ -1,0 +1,76 @@
+Applied Scientist Intern - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Location :
+Seattle
+Employment Type :
+Intern
+Job Code :
+A77181
+Apply to this job Share this listing:
+Responsibilities
+We are looking for talented individuals to join our team in 2027. As a intern, you will get opportunities to pursue bold ideas, tackle complex challenges, and
+unlock limitless growth. Launch your career where inspiration is infinite at our Company.
+Successful candidates must be able to commit to an onboarding during the summer 2027. Please state your availability clearly in your resume.
+About the team
+Our Trust and Safety team is fast growing and responsible for building machine learning models and systems to protect our users from the impact of negative
+content. Our mission is to protect billions of users and publishers across the globe every day. We embrace state-of-the-art machine learning technologies and
+scale them to moderate the tremendous amount of data generated on the platform. With our team's continuous efforts, TikTok can provide the best user experience
+and bring joy to everyone in the world.
+Project Overview, Challenges & Value
+With the rapid development of AIGC and the globalization of content ecosystems, content moderation faces three major challenges: evolving policies, surging
+complexity in multilingual and multimodal content, and upgraded generative adversarial attacks. The traditional "perception → classification" paradigm has
+reached its limit.
+This topic focuses on two frontier directions: (1) Multimodal moderation foundation model: We study large-scale MoE architecture training and routing
+optimization, cross-modal alignment and reasoning for multimodality (text/image/video/audio), Unified Understanding & Generation, and high-quality synthetic
+data generation for moderation scenarios (self-play / adversarial augmentation). (2) Agentic moderation system: Drawing on advanced agent learning paradigms, it
+uses reinforcement learning to enhance the agent’s multi-step decision-making capabilities. It dynamically builds moderation context and integrates a flexible
+tool ecosystem, enabling autonomous planning, tool collaboration, and interpretable closed-loop reasoning. This drives a paradigm shift from passive
+classification to proactive intelligent decision-making in moderation.
+Key challenges include:
+1. MoE-based multimodal safety foundation model: training stability and routing optimization for large-scale sparse MoE, cross-modal token alignment, and
+unified architecture design for understanding and generation
+2. RL-driven agentic decision-making: end-to-end training of agent multi-step reasoning and tool-call strategies based on GRPO/PPO, overcoming bottlenecks in
+sample efficiency and training stability
+3. Context engineering and tool collaboration: dynamic context assembly, MCP-based tool ecosystem construction, multi-source heterogeneous evidence fusion, and
+GraphRAG strategy retrieval
+4. Generalization and adversarial robustness: generalization across 200+ languages/strategies, adversarial detection of AIGC content, and design of multi-
+dimensional reward signals for few-shot scenarios
+Project Value:
+1. Technological leadership: The integration of RL, Agentic, and multimodal foundation models represents the frontier of AI today. This topic pioneers their
+application to large-scale content moderation scenarios, with unique advantages in data volume and real-world feedback loops that are impossible to reproduce in
+pure academic settings.
+2. Business value: Serving content safety for billions of users globally and driving the evolution of moderation from dependance on humans and external APIs
+towards fully automated agentic moderation. This can directly reduce costs by hundreds of millions of US dollars while improving moderation consistency and
+response speed.
+3. Industry leadership: Mature RL-driven agentic moderation systems do not yet exist in the industry. This topic could hopefully define the technological
+paradigm for this direction and produce research outcomes with significant industry influence.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a PhD in Computer Science, Data Science, Artificial Intelligence, or a related field
+- Proficiency in programming languages such as Python, Rust, or C++ and a track record of working with deep learning frameworks (e.g., pytorch, deepspeed,
+megatron, vllm, etc.).
+- Strong understanding of distributed computing framework & performance tuning and verification for training/finetuning/inference;
+Preferred Qualifications
+- Excellent problem-solving skills and a creative mindset to address complex AI challenges. Demonstrated ability to drive research projects from idea to
+implementation, producing tangible outcomes.
+- Published research papers or contributions to the LLM community would be a significant plus.
+- Experience with inference tuning and Inference acceleration. Have a deep understanding of GPU and/or other AI accelerators, experience with large scale AI
+networks, pytorch 2.0 and similar technologies.
+- Experience with evaluation of AI systems, LLM application & agent development is desirable.
+- Strong understanding of cutting-edge LLM research (e.g., long context, multi modality, alignment research, agent ecosystem, etc.) and possess practical
+expertise in effectively implementing these advanced systems as a plus
+- Being familiar with PEFT, RL, MoE, CoT or Langchain is a plus.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $71.25- $71.25.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising soun

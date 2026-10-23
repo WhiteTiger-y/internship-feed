@@ -1,0 +1,73 @@
+Simbe is building the AI-powered operating system for physical retail. Our autonomous robots and multimodal computer vision platform turn complex, constantly
+changing stores into accurate, actionable intelligence for leading retailers around the world. Simbe combines robotics, computer vision, machine learning, data
+infrastructure, and customer-focused product design to help retailers improve shelf availability, price and promo execution, inventory accuracy, and store team
+productivity.
+Simbe is looking for a Computer Vision / Applied AI Intern to join the team building and improving the computer vision systems that transform imagery collected
+by Tally into actionable retail intelligence.
+This internship is designed for students who want hands-on experience applying computer vision and machine learning to real-world data and production systems at
+meaningful scale.
+Why This Internship Is High Impact
+- Work with real-world visual data. Help improve systems that interpret imagery collected by autonomous robots operating in live retail environments.
+- Learn production computer vision. Gain exposure to the full lifecycle of CV/ML systems, from datasets and experimentation through evaluation and production
+deployment.
+- Contribute to meaningful work. Your project will align with an active team initiative rather than being isolated “intern work.”
+- Own a defined project. You’ll be given clear goals and an appropriately scoped problem you can meaningfully contribute to during the internship.
+- Learn from experienced CV and ML engineers. You’ll work directly with Simbe engineers and have a dedicated mentor separate from your hiring manager.
+- See how models perform in the real world. Work with the challenges that come from noisy imagery, changing retail environments, data quality, edge cases, and
+production requirements.
+Responsibilities
+- Own and contribute to a scoped project aligned with the Computer Vision / Applied AI team’s priorities during your internship.
+- Develop, test, and evaluate computer vision and machine learning solutions using Python and modern ML frameworks.
+- Work with production image datasets and help identify patterns, failure modes, and opportunities for improvement.
+- Contribute to areas such as object detection, OCR, barcode decoding, segmentation, dataset curation, annotation quality, model evaluation, or error mining
+depending on current team needs.
+- Build or improve tools that support dataset analysis, model evaluation, experimentation, or production workflows.
+- Write maintainable, well-structured code and contribute tests where appropriate.
+- Use quantitative analysis to evaluate model performance and communicate findings clearly.
+- Collaborate with engineers across Computer Vision, Applied AI, Data, Robot Software, and other technical teams.
+- Communicate progress, technical decisions, challenges, and results throughout the internship.
+- Present your project, approach, results, and key learnings at the end of the program.
+Required Qualifications
+- Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Robotics, Machine Learning, Data Science, or a related technical field.
+- We primarily target students in their final year of study and will also consider strong juniors.
+- Strong Python programming skills, including familiarity with common data structures, algorithms, and software development practices.
+- Coursework or hands-on experience in computer vision, machine learning, or deep learning.
+- Experience with PyTorch, TensorFlow, or a comparable machine learning framework.
+- Experience working with structured Python projects beyond notebooks alone.
+- Familiarity with Git or another source-control system.
+- Comfortable working with data to evaluate results, investigate failures, and support technical decisions.
+- Strong technical problem-solving skills and willingness to work through ambiguous or unfamiliar problems.
+- Strong communication and collaboration skills.
+Bonus Qualifications
+- Personal computer vision, machine learning, robotics, or software projects outside of coursework.
+- Previous internship, research, or project experience involving computer vision or machine learning.
+- Experience with object detection, image segmentation, OCR, barcode recognition, image classification, or related vision problems.
+- Experience creating, cleaning, curating, or evaluating image datasets.
+- Familiarity with model evaluation techniques, error analysis, experiment tracking, or data-quality workflows.
+- Experience with pandas, NumPy, OpenCV, Jupyter, SQL, or related data and ML tooling.
+- Familiarity with Linux, shell scripting, Docker, or cloud-based development environments.
+- Experience with AI-assisted coding and engineering tools and the ability to thoughtfully validate generated output.
+Internship Program Structure
+Interns join Simbe as part of a structured cohort and work full time from our Burlingame, California headquarters.
+Each intern will have:
+- A defined technical project aligned with current team priorities
+- A hiring manager responsible for project scope, performance, and feedback
+- A dedicated mentor separate from the hiring manager
+- Structured midpoint feedback
+- Regular opportunities to collaborate with and learn from Simbe engineers
+- A final project presentation at the end of the internship
+We do not believe in creating busywork for interns. Your project will be selected closer to your start date based on active team priorities so that you can
+contribute to meaningful work alongside our full-time engineering team.
+Simbe Values: R. E. T. A. I. L.
+Result Driven — We are customer-centric and results-driven. We strive to create immense value for our team, partners, customers, and investors.
+Empathetic — We are sensitive and mindful. We support each other in challenging times, both professionally and personally.
+Transparent — We value open communication internally, and with our partners and customers. We are receptive to feedback.
+Agile — We are eager to learn and adapt quickly to changes and customer needs.
+Innovative — We are bold and innovative, with an intense focus on product design, user experience, and customer value.
+Leaders — We strive for excellence. We are accountable, the best at what we do, and leaders in our field.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.
+This internship is a W-2, non-exempt position that will last up to 12 weeks . Compensation within the posted range may vary based on relevant skills, prior
+experience, academic background, and ot

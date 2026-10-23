@@ -1,0 +1,57 @@
+Unlock the Future with Amazon Science!
+Calling all visionary minds passionate about the transformative power of machine learning! Amazon is seeking boundary-pushing graduate student scientists who
+can turn revolutionary theory into awe-inspiring reality. Join our team of visionary scientists and embark on a journey to revolutionize the field by harnessing
+the power of cutting-edge techniques in bayesian optimization, time series, multi-armed bandits and more.
+At Amazon, we don't just talk about innovation – we live and breathe it. You'll conducting research into the theory and application of deep reinforcement
+learning. You will work on some of the most difficult problems in the industry with some of the best product managers, scientists, and software engineers in the
+industry. You will propose and deploy solutions that will likely draw from a range of scientific areas such as supervised, semi-supervised and unsupervised
+learning, reinforcement learning, advanced statistical modeling, and graph models.
+Throughout your journey, you'll have access to unparalleled resources, including state-of-the-art computing infrastructure, cutting-edge research papers, and
+mentorship from industry luminaries. This immersive experience will not only sharpen your technical skills but also cultivate your ability to think critically,
+communicate effectively, and thrive in a fast-paced, innovative environment where bold ideas are celebrated.
+Join us at the forefront of applied science, where your contributions will shape the future of AI and propel humanity forward. Seize this extraordinary
+opportunity to learn, grow, and leave an indelible mark on the world of technology.
+Amazon has positions available for Machine Learning Applied Science Internships in, but not limited to Arlington, VA; Bellevue, WA; Boston, MA; New York, NY;
+Palo Alto, CA; San Diego, CA; Santa Clara, CA; Seattle, WA.
+Key job responsibilities
+We are particularly interested in candidates with expertise in: Optimization, Programming/Scripting Languages, Statistics, Reinforcement Learning, Causal
+Inference, Large Language Models, Time Series, Graph Modeling, Supervised/Unsupervised Learning, Deep Learning, Predictive Modeling
+In this role, you will work alongside global experts to develop and implement novel, scalable algorithms and modeling techniques that advance the state-of-the-
+art in areas at the intersection of Reinforcement Learning and Optimization within Machine Learning. You will tackle challenging, groundbreaking research
+problems on production-scale data, with a focus on developing novel RL algorithms and applying them to complex, real-world challenges.
+The ideal candidate should possess the ability to work collaboratively with diverse groups and cross-functional teams to solve complex business problems, and to
+communicate research findings clearly. A successful candidate will be a self-starter, comfortable with ambiguity, with strong attention to detail and the
+ability to thrive in a fast-paced, ever-changing environment.
+Leverage AI-powered tools where applicable to accelerate research, experimentation, and prototyping. Critically review and validate outputs from AI tools and
+automated systems.
+A day in the life
+- Develop scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation.
+- Design, development and evaluation of highly innovative ML models for solving complex business problems.
+- Research and apply the latest ML techniques and best practices from both academia and industry.
+- Think about customers and how to improve the customer delivery experience.
+- Use and analytical techniques to create scalable solutions for business problems.
+Basic Qualifications
+- Are enrolled in a PhD
+- Can relocate to where the internship is based
+- Experience programming in Java, Python with PyTorch or JAX
+- Experience with one or more of the following: Optimization, Programming/Scripting Languages, Statistics, Reinforcement Learning, Causal Inference, Large
+Language Models, Time Series, Graph Modeling, Supervised/Unsupervised Learning, Deep Learning, Predictive Modeling
+- Demonstrated science depth in a specific research area, evidenced through publications, thesis work, or equivalent contributions
+- Must be available for full-time (40 hours per week) internship for the whole duration of the internship
+Preferred Qualifications
+- Have publications at top-tier peer-reviewed conferences or journals
+- Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning
+- Experience implementing algorithms using modern RL and deep learning toolkits (e.g. PyTorch, JAX, Stable Baselines, RLlib, or custom RL frameworks)
+- Experience with AI-assisted development tools to accelerate research, coding, or evaluation
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k)
+matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits .
+Seattle, WA, USA - 135,660.00 USD Annually
+Job details
+- USA, WA, Seattle
+- Internships for students
+- Applied Science

@@ -1,0 +1,78 @@
+What You'll Do
+This Summer 2027 Quantitative Analyst Intern will support quantitative research and portfolio analysis for systematic multi-asset investment strategies. The
+intern will work closely with the investment team on research, data analysis, model evaluation, and portfolio analytics across global equities, fixed income,
+currencies, and commodities. Key responsibilities may include:
+- Conducting quantitative research and analyzing financial and macroeconomic data
+- Supporting the development, testing, and evaluation of systematic investment signals and portfolio models
+- Performing backtesting, performance attribution, risk analysis, and portfolio diagnostics
+- Working with large financial datasets and helping improve research and analytical workflows
+- Summarizing research findings and presenting results to portfolio managers and investment team members
+Principal Asset Management, a subsidiary of Principal Financial group, offers global asset management expertise across a diverse set of traditional and
+alternative asset classes. Our mission, integrity, and customer focus have made us a trusted leader for more than 140 years! Check us out at
+www.principalam.com.
+Who You Are
+- Currently pursuing a Bachelor’s, Master’s, or PhD degree in Financial Engineering, Finance, Economics, Mathematics, Statistics, Computer Science, or a related
+quantitative field
+- Proficiency in Python; familiarity with SQL
+- Strong interest in quantitative investing, financial markets, and global macro/multi-asset investment strategies
+- Strong analytical and problem-solving skills, with the ability to work with large and complex datasets
+- Availability to work full-time and onsite in New York City, NY, or Des Moines, IA during Summer 2027
+Skills That Will Help You Stand
+- GPA of 3.5 or higher
+- Previous internship, research, or project experience related to investments, quantitative research, asset management, or financial markets
+- Familiarity with financial derivatives (e.g., options and futures) and an understanding of how they are used to manage risk and support investment decisions
+- Chartered Financial Analyst (CFA) candidate
+- Experience with Bloomberg, FactSet, or similar financial data platforms
+- Experience conducting quantitative research and backtesting investment strategies, particularly strategies involving futures, forwards, or other derivatives
+- Familiarity with statistical analysis, time-series analysis, or quantitative modeling
+- Strong written and verbal communication skills, including the ability to clearly communicate quantitative research and investment insights
+- Candidates with advanced quantitative coursework or relevant research/project experience are especially encouraged to apply
+Salary Range Information
+Salary ranges below reflect targeted base salaries. Non-sales positions have the opportunity to participate in a bonus program. Sales positions are eligible for
+sales incentives, and in some instances a bonus plan, whereby total compensation may far exceed base salary depending on individual performance. Actual
+compensation for all roles will be based upon geographic location, work experience, education, licensure requirements and/or skill level and will be finalized
+at the time of offer.
+Salary Range (Non-Exempt expressed as hourly; Exempt expressed as yearly)
+$29 - $40 / hour
+Salary Details
+The following locations are examples of market-specific salary ranges across different geographies.
+- Des Moines, IA: $29/hr
+- New York City, NY: $40/hr
+Time Off Program
+Paid company holidays and any time off required in your state.
+Pension Eligible
+No
+Location(s)
+This internship will be located at our New York City, NY, offices. Check out what our global headquarters looks like here:
+Our Internship Culture
+Join an established program that provides hands-on experiences for 200+ interns each year! You'll learn new skills with dedicated teams and mentors, build your
+professional network and collaborate across a global Fortune 500 company. We care about offering you diverse experiences and exciting challenges that push you
+to reach for bigger life goals, all while enjoying our flexibility and work life balance. Join us for events such as our Executive Speaker Series, gain career
+direction, and much more! https://www.principal.com/about-us/careers/internships
+Internship
+You will receive a lump sum stipend of $4,000. This amount is intended to support incidental expenses you may incur as part of your internship. The Company will
+provide a tax gross-up on this stipend as a financial benefit, but is not intended to compensate for all tax liabilities.
+Work Authorization/Sponsorship
+At this time, we're not considering applicants that need any type of immigration sponsorship (additional work authorization or permanent work authorization) now
+or in the future to work in the United States. This includes, but IS NOT LIMITED TO: F1-OPT, F1-CPT, H-1B, TN, L-1, J-1, etc. For additional information around
+work authorization needs please use the following links.
+Nonimmigrant Workers and Green Card for Employment-Based Immigrants
+Investment Code of Ethics
+For Principal Asset Management positions, you’ll need to follow an Investment Code of Ethics related to personal and business conduct as well as personal
+trading activities for you and members of your household. These same requirements may also apply to other positions across the organization.
+Experience Principal
+At Principal, we value connecting on both a personal and professional level. Together, we’re imagining a more purpose-led future for financial services – and
+that starts with you. Our success depends on the unique experiences, backgrounds, and talents of our interns.
+Operating at the intersection of financial services and technology, Principal builds financial tools that help our customers live better lives. We take pride in
+being a purpose-led firm, motivated by our mission to make financial security accessible to all. Our mission, integrity, and customer focus have made us a
+trusted leader for more than 140 years!
+Principal Asset Management, a subsidiary of Principal Financial group, offers global asset management expertise across a diverse set of traditional and
+alternative asset classes. Check us out at www.principalam.com!
+Principal is an Equal Opportunity Employer
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, disability, or veteran status.
+Posting Window
+We will accept applications for 3 full days following the Original Posting Date, after which the posting may remain open or be removed based upon applications
+received. If we choose to post the job again, we will accept additional applications for at least 1 full day following the Most Recently Posted Date. Please
+submit applications in a timely manner as there is no guarantee the posting will be available beyond the applicable deadline.
+Original Posting

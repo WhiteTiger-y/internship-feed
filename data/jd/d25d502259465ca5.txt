@@ -1,0 +1,49 @@
+The Advanced Electro-Optical Systems Group specializes in the rapid design and prototyping of innovative electro-optic systems that address challenges facing
+the Department of Defense, Department of Homeland Security, NASA, and other U.S. government entities. The group maintains broad expertise in satellite systems,
+electro-optical and infrared sensors, charge-coupled devices, electronics, image processing, and low–size/weight/power optical communications systems. The
+vertically-integrated group leverages this core expertise to architect, design, prototype, and deploy hardware and software systems in support of mission needs.
+Position Description
+The Advanced Electro-Optical Systems Group is seeking curious, self-driven students with a passion for learning, exploration, and solving complex problems. As a
+summer intern, you’ll work alongside experienced engineers and scientists on real-world research, rapid prototyping, and operational system support that
+directly impact national security. Examples of past intern projects include:
+- Optimizing image processing algorithms for novel space-based systems
+- Implementing FPGA-based data serialization and laser modulation solutions
+- Prototyping sensorless brushless DC motor control algorithms for precision pointing
+- Building high-fidelity software simulations for stellar imaging systems
+- Investigating 3D scene reconstruction techniques for space imagery
+- Modeling reflectivity metrics for space materials
+Requirements
+- Currently enrolled in a degree program in Physics, Applied Mathematics, Electrical Engineering, Mechanical Engineering, Computer Engineering, Computer
+Science, or a related technical field
+- At least two years of undergraduate study completed (or equivalent experience) at time of employment
+- Relevant coursework, interest, and experience with at least one of the following areas: optics, space systems, orbital mechanics, image processing, control
+theory, signal processing, dynamic system modeling, robotics, microcontroller and embedded system development, digital and analog circuit design, serial
+communication protocols, real-time operating systems, or software development
+- Familiarity with C/C++, MATLAB, Python, or other scientific programming languages
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Compensation
+Hourly pay rates below are effective January 2026 – December 2026 and will be reviewed again for Summer 2027. Rates are based on the highest academic year or
+degree completed before the internship start date.
+- Freshman year completed: $25.00/hour
+- Sophomore year completed: $27.00/hour
+- Junior year completed: $29.00/hour
+- 4th year of 5 year program completed, no degree conferred: $32.00/hour
+- Bachelors completed: $34.50/hour
+- Bachelors + 1, one year of graduate study completed: $36.50/hour
+- Bachelors + 2, two years of graduate study completed: $38.00/hour
+- MS completed: $39.00/hour
+- MS + 1, one year of graduate study completed after the MS: $41.00/hour
+- MS + 2, two years of graduate study completed after the MS: $42.50/hour
+- MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43516

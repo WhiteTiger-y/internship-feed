@@ -1,0 +1,69 @@
+Are you obsessed with data, partner success, taking action, and changing the game? If you have a whole lot of hustle and a touch of nerd, come work with
+Pattern! We want you to use your skills to push one of the fastest-growing companies in the US to the top of the list.
+Pattern accelerates brands on global ecommerce marketplaces leveraging proprietary technology and AI. Utilizing more than 66 trillion data points, sophisticated
+machine learning and AI models, Pattern optimizes and automates all levers of ecommerce growth for global brands, including advertising, content management,
+logistics and fulfillment, pricing, forecasting and customer service. Hundreds of global brands depend on Pattern’s ecommerce acceleration platform every day to
+drive profitable revenue growth across 60+ global marketplaces—including Amazon, Walmart.com , Target.com , eBay, Tmall, TikTok Shop, JD, and Mercado Libre. To
+learn more, visit pattern.com or email [email protected] .
+Pattern has been named one of the fastest growing tech companies headquartered in North America by Deloitte and one of best-led companies by Inc. We place
+employee experience at the center of our business model and have been recognized as one of Newsweek’s Global Most Loved Workplaces®.
+We're currently filling spots for our 2027 full-time AI Engineer summer internships at our headquarters in Lehi, Utah. In this internship you will dive into
+some of the toughest problems for our users and across the international e-commerce space with a goal of figuring out how to solve those problems with
+technology. We are accepting applications for undergraduate and graduate students.
+This is a full-time Summer 2027 internship that will last roughly 12 weeks and work a hybrid schedule from our office in Lehi, Utah.
+What is a day in the life of an AI Engineer Intern?
+- Assist with data preprocessing, cleaning, and analysis to prepare high-quality datasets for model training.
+- Support the development and optimization of machine learning models, including tasks like fine-tuning hyperparameters and evaluating performance.
+- Participate in the deployment of AI solutions, collaborating with senior engineers to integrate models into production systems.
+- Document AI experiments, code, and project workflows to ensure clear and reproducible processes.
+- Research cutting-edge AI technologies and methodologies to contribute to the team's ongoing innovation efforts.
+What will I need to thrive in this role?
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, Data Science, or a related technical field.
+- Foundational knowledge of machine learning concepts and algorithms.
+- Proficiency in a programming language commonly used in AI, such as Python or Java.
+- Familiarity with at least one machine learning framework (e.g., TensorFlow, PyTorch) is preferred.
+- Strong problem-solving, analytical, and communication skills, with an eagerness to learn and contribute in a collaborative environment.
+What does high performance look like?
+- You give 100% to all tasks and projects you are given
+- You actively comment and participate in group collaborations
+- You will take full ownership of your projects and follow through to completion
+- You follow through with all assignments in a timely manner
+What is my potential for career growth?
+You will work extensively with members of the AI team at Pattern. You will have the chance to learn and grow under their mentorship. The right candidate,
+executing at a high level, may be considered for a full-time role post internship, or an extension to continue working with the team part-time after returning
+to school.
+What is the team like?
+Pattern’s AI team brings experience from the world’s top tech and ecommerce companies. The team is composed of a Director of Product - AI Research &
+Development, Senior AI Product Managers, and AI Engineers. You will work directly and cross functionally with these team members, as well as other members of
+the tech teams at Pattern.
+What is the hiring process?
+- Onsite technical assessment
+- Additional interviews as needed
+- Executive Review
+- Offer
+Sounds great! What's the company culture?
+- Game Changers: A game changer is someone who looks at problems with an open mind and shares new ideas with team members, regularly reassesses existing plans
+and attaches a realistic timeline to goals, makes profitable, productive, and innovative contributions, and actively pursues improvements to Pattern’s processes
+and outcomes.
+- Data Fanatics: A data fanatic is someone who recognizes problems and seeks to understand them through data, draws unbiased conclusions based on data that lead
+to actionable solutions, and continues to track the effects of the solutions using data.
+- Partner Obsessed: An individual who is partner obsessed clearly explains the status of projects to partners and relies on constructive feedback, actively
+listens to partner’s expectations and delivers results that exceed them, prioritizes the needs of your partners, and takes the time to create a personable
+experience for those interacting with Pattern.
+- Team of Doers: Someone who is a part of team of doers uplifts team members and recognizes their specific contributions, takes initiative to help in any
+circumstance, actively contributes to supporting improvements, and holds themselves accountable to the team as well as to partners.
+How can I stand out as an applicant?
+- Be prepared to talk about professional accomplishments with specific data to quantify examples
+- Be ready to talk about how you can add value and be the best addition to the team
+- Focus on mentioning how you would be partner obsessed at Pattern
+- Be prepared to talk about any side projects related to data and analytics
+Why should I work at Pattern?
+Pattern offers big opportunities to make a difference in the ecommerce industry! We are a company full of talented people that evolves quickly and often. We set
+big goals, work tirelessly to achieve them, and we love our Pattern community. We also believe in having fun and balancing our lives.
+Pattern provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without
+regard to race, color, religion, age, sex, national origin, disability, status, genetics, protected veteran status, sexual orientation, gender identity or
+expression, or any other characteristic protected by federal, state, or local laws.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.

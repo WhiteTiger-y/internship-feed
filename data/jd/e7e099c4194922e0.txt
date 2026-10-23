@@ -1,0 +1,43 @@
+Empower yourself! Start building your career with a national industry leader!
+Why intern at HSB?
+At Hartford Steam Boiler (HSB), a Munich Re company, you will learn what it is like to pursue a career at one of the world’s largest reinsurance companies.
+- As a valued Data Science Intern within our team in the Hartford, CT Office, you will work with HSB’s Data Science team on large scale machine learning
+projects supporting one of our major business areas (insurance, engineering or technology solutions).
+Desired Major(s) and Level of Education:
+- MS or PhD Student in Statistics, Computer Science, Mathematics, Physics, Electrical Engineering or a related applied science with a heavy quantitative
+emphasis.
+- The ideal candidate is adept at using large data sets to find opportunities for product and process optimization.
+- Exceptional undergraduate students will also be considered.
+Skills:
+- Strong programming experience with Python/R/SQL, with the ability to write well-documented production-level code.
+- Practical knowledge & experience with statistical methods
+- Strong analytical and problem-solving skills; ability to work creatively in problem solving environment.
+- Basic software engineering skills (Git, API, Docker Container, DevOps best practices)
+- Experience with Spark and distributed computing is a plus.
+- Experience with Azure cloud development is a plus.
+- Experience with learning frameworks such as PyTorch or Tensorflow is a plus.
+- Experience developing or experimenting with generative AI models (ex. LLMs) and associated utilties/workflows is a plus.
+- Available to start the internship in May 2027 and work a hybrid schedule in the Hartford, CT Office
+HSB’s Summer Internship Program provides a well-rounded, engaging and enjoyable experience.
+Below are some of the key experiences and benefits you can expect.
+Program Highlights:
+- Gain hands on experience.
+- Meet and gain insights from the Senior Leadership Team as well as other leaders and professionals in the organization to develop lasting professional
+relationships.
+- Networking opportunities.
+- Hybrid work schedule to include working on-site in the Hartford, CT office and working from home.
+- Participate in community outreach.
+- Opportunity to gain career advice and help you prepare for navigating your career search.
+- Learn about great careers within the insurance and the impact they make.
+- Potential full-time career opportunities after graduation.
+At The Hartford Steam Boiler, a subsidiary of Munich Re, we see Diversity and Inclusion as a solution to the challenges and opportunities all around us. Our
+goal is to foster an inclusive culture and build a workforce that reflects the customers we serve and the communities in which we live and work. We strive to
+provide a workplace where all of our colleagues feel respected, valued and empowered to achieve their very best every day. We recruit and develop talent with a
+focus on providing our customers the most innovative products and services.
+We are an equal opportunity employer. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual
+orientation, gender identity, national origin, disability or protected veteran status. The work environment characteristics, and any physical and mental
+requirements described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable
+accommodations may be made to enable individuals with disabilities to perform the essential functions.
+This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee.
+Other duties, responsibilities and activities may change or be assigned at any time with or without notice.

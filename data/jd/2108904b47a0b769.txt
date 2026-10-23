@@ -1,0 +1,39 @@
+Job Location: Pittsburgh, Pennsylvania
+Location Flexibility: Multiple Locations in Country
+Req Id: 11523
+Posting Start Date: 8/20/26
+At Fujitsu, we are driven by our purpose to make the world more sustainable by building trust in society through innovation.
+We have been a pioneer in technology and innovation for over 80 years, and we are committed to using our expertise to help businesses and organizations
+transform for the digital age. We believe that digital transformation is essential to creating a more sustainable future. That's why we are working with our
+customers to develop solutions that can help them reduce their environmental impact, improve their efficiency, and create a more equitable society.
+We are committed to contributing to the United Nations Sustainable Development Goals (SDGs). These goals are a blueprint for a better future for all, and we
+believe that technology can play a vital role in achieving them.
+If you share our passion for making a meaningful impact on the world, we invite you to join our global family of 130,000 employees spanning more than 50
+countries. We are a diverse workforce, and we offer a wide range of opportunities for you to grow and develop your career.
+Together, we can create a more sustainable future for all.
+The Security Science Laboratory, or SS Lab, at Fujitsu specializes in integrating research in AI and security to build trust in the increasingly diverse digital
+society. We are seeking fall-through-spring exceptional interns to join our SS Lab in the US. This position provides an opportunity to solve problems on safety,
+privacy, and AI alignment in LLM-based agentic systems and Robotics. We value individuals with vision to pick up new knowledge, see through complex scenarios
+and arrive at simple, elegant yet workable solutions. Self-driven nature, creativity, communication skills, and attention to details are traits of a successful
+researcher in this role. An intern has an option to work either full time or part time during the academic year.
+Job Responsibilities
+- Develop algorithms and systems, conduct experiments, and analyze the results. Potential research topics include, but are not limited to, detecting and
+preventing multi-turn and multi-stage jailbreaking, adversarial coordination, data poisoning, contextual privacy leakage, improving misalignment with user
+perceptions in agentic AI systems and robotics.
+- Publish research papers in scientific conferences on AI, NLP, ML, and Security. Showcase the work via presentation in talks, conferences and workshops.
+Requirements
+- Currently enrolled in a PhD program in computer science or a related discipline, with demonstrated research experience applying AI, NLP, and/or ML techniques
+to security and privacy challenges in agentic AI or robotics.
+- Track record of coming up with new ideas or improving upon existing ideas in computing, demonstrated by accomplishments such as publications, projects, or
+competitions.
+- Experience in evaluating tools and technologies in processing data from diverse but specialized fields of science.
+#Americas_Priority
+Relocation Supported: No
+Visa Sponsorship Approved: No
+At Fujitsu, we are committed to creating a diverse and inclusive workplace where everyone feels valued and respected. We believe that diversity and inclusion
+are essential to our success, and we are committed to creating an environment where all employees can thrive.
+We are an equal opportunity employer and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national
+origin, age, disability, marital status, sexual orientation, gender identity or expression, genetic information, veteran status, or any other characteristic
+protected by law.
+We believe that everyone has something to contribute, and we are committed to creating a workplace where everyone can reach their full potential.
+California Consumer Privacy Act (CCPA), read here

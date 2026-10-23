@@ -1,0 +1,54 @@
+Intelligence/Generative Artificial Intelligence (ML/AI/GenAI). Helping our customers use and integrate Big Data services in what is arguably our industry’s most
+exciting space. The portfolio of services covers EMR (Hadoop), DynamoDB (NoSQL), MongoDB, Apache Cassandra, Amazon Q, and Bedrock.
+Security - supports our services that have a focus on enabling security specialists using AWS Services including Identity Access Management (IAM), GuardDuty,
+Shield, Key Management Service (KMS), CloudTrail, CloudHSM, Inspector etc. Within AWS, security is job zero, and we believe that solid security practices are
+the foundation for using the Cloud. We are looking for candidates who are passionate about working with products targeted for security professionals.
+Modernization - Modernization resources are specialists in designing applications that run natively in the cloud using programming languages such as Python,
+JavaScript, Typescript, etc. They are experts in building programs that run on any number of platforms including virtualized instances, containers, or server
+less architecture. They are full stack developers with backend, frontend, and UX skillsets.
+About the team
+Upon successful completion of the internship program, selected interns will receive a full-time offer to join the ProServe Associate to Consultant (A2C)
+Delivery. A2C Delivery develops the next generation of ProServe consultants who use generative and agentic AI to solve customer challenges and drive innovation
+within ProServe. A2C Delivery focuses on accelerating career development for recent graduates and early career professionals entering technical roles, advancing
+their skills and helping customers design and build flexible and resilient cloud-based solutions. While in A2C, you will learn key technical and professional
+skills from top AWS subject matter experts that you can use in your career working with AWS’s customers.
+Mentorship & Career Growth:
+Our team is dedicated to supporting new team members in an environment that celebrates knowledge sharing and mentorship. Projects and tasks are assigned in a
+way that leverages your strengths and helps you further develop your skillset.
+Inclusive Team Culture:
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000
+employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on
+Race and Ethnicity (CORE) and AmazeCon conferences.
+Work/Life Harmony:
+Our team puts a high value on work-life harmony. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings
+energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and
+fulfillment. We offer flexibility and encourage you to find your own balance between your work and personal lives.
+Basic Qualifications
+- Are enrolled in a academic program that is physically located in the United States
+- Are 18 years of age or older
+- Work 40 hours/week minimum and commit to 12 week internship maximum
+- Experience with two or more of the following: networking fundamentals, security, storage or databases (relational or NoSQL), operating systems (Unix, Linux,
+and/or Windows)
+- Currently enrolled in a Bachelor or greater degree program (e.g. Bachelor degree, Master degree) in a STEM related field such as Computer Science, Computer
+Engineering, Information Technology, or other related fields, with a conferral date between December 2027 and June 2028
+- Experience with Java and Python
+- Experience with one or more of the following programming languages/technologies: Typescript, React, Angular, Node.js, Ruby, GoLang, R, C, or C++
+Preferred Qualifications
+- Experience with software development life cycle (sdlc) and agile/iterative methodologies
+- Experience setting up a cloud environment with AWS
+- Knowledge of the primary AWS services such as EC2, ELB, RDS, VPC, Route53, and S3
+- Experience with infrastructure as code, ops automation, and configuration management tools such as Chef, Puppet, or Ansible
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k)
+matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits .
+Arlington, VA, USA - 103,275.00 USD Annually
+New York, NY, USA - 113,645.00 USD Annually
+Job details
+- USA, VA, Arlington
+- USA, NY, New York
+- Internships for students
+- Operations, IT, & Support Engineering

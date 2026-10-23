@@ -1,0 +1,17 @@
+Introduction
+We are seeking Research Scientist candidates with demonstrated publication records in one or more of our focus areas and technical leadership potential. As part
+of the IBM Research team, you will conduct world-class research on innovative technologies and solutions and publish in top-tier conferences and journals. You
+will also can contribute to the commercialization of the resulting assets. Demonstrated communication skills and ability to work independently, as well as in a
+team, are highly desired traits.
+Your Role And Responsibilities
+In this role, you will apply your research skills toward new hardware design and applications from state-of-the-art chip architecture, design, fabrication and
+test to advanced chip packaging. Interns are expected to have a strong research background as evidenced by project or publication in semiconductor technology,
+materials science or relevant fields.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+Expertise in one or more of these areas: Semiconductor or memory device fabrication, Lithography, Plasma Etch, Novel Film deposition and epitaxial growth, Wet
+chemical processes, Device physics, Chip Packaging and thermal management, Polymer materials, Computational materials science, computational optics, Device
+simulation, Semiconductor test and characterization.
+Preferred Technical And Professional Experience
+Prior publications in focus areas and/or internship experience.

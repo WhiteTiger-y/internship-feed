@@ -1,0 +1,44 @@
+Start your engineering career by working with real data, real automated systems, and real customer challenges. This 2027 Kettering University Co-op opportunity
+with Dematic’s Digital Solutions Software team gives you the chance to apply what you’re learning in the classroom while building analytics solutions for some
+of the world’s most advanced warehouse automation systems. You’ll work alongside experienced software and analytics professionals to develop dashboards, analyze
+data, test solutions, and solve technical problems using tools such as SQL, Python, visualization platforms, and cloud technologies. We’re looking for a curious
+problem solver who enjoys learning new technologies, working with data, and building solutions that make an impact. We offer: Competitive pay and benefits Pay
+Transparency Global Opportunities Learn More Here: https://www.dematic.com/en-us/about/careers/what-we-offer Dematic provides equal employment opportunities to
+all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national
+origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by
+federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination,
+layoff, recall, transfer, leaves of absence, compensation and training. The base pay range for this role is estimated to be $19.00-$23.00 at the time of
+posting. Final compensation will be determined by various factors such as work location, education, experience, knowledge, and skills. Tasks and Qualifications:
+What You Will Do in This Role As an Advanced Analytics Co-op, you’ll work alongside software engineers, data analysts, and other technical team members to solve
+real-world problems using data. You’ll gain hands-on experience with analytics, dashboards, databases, cloud technologies, and warehouse automation while
+contributing to projects that are used by real customers. This is an opportunity to take what you’re learning in the classroom and apply it to large-scale,
+automated distribution and manufacturing environments. Key Responsibilities Work with engineers, analysts, and business partners to understand problems and turn
+them into practical analytics solutions. Help design, build, test, and improve dashboards, reports, and other data-driven applications. Query and analyze data
+using technologies such as SQL, Google BigQuery, or Microsoft SQL Server. Work with data visualization tools such as Power BI, Tableau, or Looker to turn data
+into useful insights. Learn how data moves through automated warehouse and material handling systems and how it can be used to improve operations. Assist with
+testing and validating analytics solutions to make sure the results are accurate and ready for customer use. Participate in requirements discussions, technical
+design sessions, troubleshooting, and solution reviews. Document solutions and communicate your findings to both technical and non-technical team members.
+Collaborate with a multidisciplinary engineering team while also taking ownership of individual assignments. Gain exposure to cloud platforms, modern data
+architectures, and large-scale industrial automation systems. What We Are Looking For Education Currently pursuing a bachelor’s degree at Kettering University,
+preferably in Computer Science, Computer Engineering, Data Science, Applied Mathematics, or a related technical field. Students at different points in their co-
+op journey are encouraged to apply. We’re looking for curiosity, problem-solving ability, and a willingness to learn, not someone who already knows everything
+on this list. Knowledge / Qualifications You don’t need to check every box. A strong candidate will have some of the following experience through coursework,
+personal projects, previous co-op rotations, or other hands-on learning: Basic experience with SQL and relational databases. Experience with or an interest in
+Python for data analysis, automation, or application development. Familiarity with data visualization tools such as Power BI, Tableau, or Looker is a plus. An
+interest in working with data to identify trends, investigate problems, and develop solutions. Strong problem-solving skills and a willingness to dig into
+unfamiliar technical challenges. Good written and verbal communication skills and the ability to explain technical ideas clearly. Experience working on team-
+based programming, engineering, or analytics projects through coursework, extracurricular activities, or previous co-op assignments. Exposure to cloud
+technologies, data engineering, APIs, or modern software development is a plus. An interest in automation, robotics, material handling equipment, manufacturing,
+logistics, or supply chain technology is a plus. Most importantly, a desire to learn, experiment, ask questions, and build things that solve real problems. What
+You’ll Get From the Experience Hands-on experience with real production data and customer-facing engineering solutions. Exposure to modern analytics, cloud, and
+data technologies. Experience working with software and data generated by automated warehouse systems. Opportunities to develop your skills in SQL, Python,
+visualization, data analysis, and software engineering. Experience working through the complete lifecycle of a solution, from understanding the original problem
+through development, testing, validation, and delivery. Mentorship and collaboration with experienced software, analytics, and automation engineers. Meaningful
+project ownership rather than purely observational or administrative co-op work. KION brands keep the world moving – globally, regionally, and locally. KION is
+the Supply Chain Solutions Company. With over 42,000 employees in more than 100 countries, we enable smart, sustainable, and reliable supply chains worldwide -
+wherever goods are stored, moved, or delivered. KION offers its customers the full spectrum of solutions to make their supply chains future-ready. Our
+international brands, Linde Material Handling, STILL, and Baoli and our regional brands, Fenwick and OM, stand for outstanding technological innovation,
+intelligent automation and service excellence in forklift trucks and warehouse equipment. Dematic complements this expertise with state-of-the-art automation
+technology and AI-supported software solutions that optimize intralogistics across warehousing, production, and distribution. Whether locally or globally – we
+offer exciting career opportunities in an innovative environment shaped by our core values: Integrity, Collaboration, Courage, and Excellence. Together, we
+create the magic of supply chain solutions. Join our team – Push it forward.

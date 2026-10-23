@@ -1,0 +1,41 @@
+We are now looking for a Deep Learning Performance Engineer Intern to join our team. Large language models are transforming how people interact with computing,
+while placing unprecedented demands on inference performance, memory efficiency, scalability, and deployment cost.
+Our team develops GPU-accelerated software for deep learning inference. We work across model architectures, algorithms, numerical representations, inference
+systems, and GPU architectures to continuously improve the performance and deployment capabilities of large language models on NVIDIA GPUs. Our work contributes
+to inference frameworks such as TensorRT-LLM and helps bring state-of-the-art models to production efficiently. We are looking for outstanding interns who are
+passionate about large language model inference, low-precision computing, GPU performance optimization, and hardware-software co-design.
+What you’ll be doing:
+- Analyze and optimize inference performance across model architecture, numerical precision, GPU kernels, memory systems, and end-to-end serving frameworks.
+- Develop low-bit quantization techniques for model weights, activations, attention operands, and KV caches.
+- Explore numerical formats and mixed-precision strategies involving FP8, NVFP4, MXFP4, and other emerging low-precision formats while preserving model accuracy
+and capabilities.
+- Design and evaluate techniques for KV cache compression, sparsification, hierarchical storage, and reuse across inference requests.
+- Optimize the inference of model architectures including MHA, GQA, MQA, MLA, sliding-window attention, sparse attention, linear attention, and state space
+models.
+- Investigate model-system co-optimization techniques such as speculative decoding, state reuse, and computation reuse.
+- Build performance models and optimization strategies for long-context inference and agentic workloads, with a focus on throughput, time to first token, inter-
+token latency, memory efficiency, and deployment cost.
+- Collaborate closely with model, framework, kernel, library, system software, and GPU architecture teams to influence the design of future models, software
+platforms, and hardware architectures.
+What we need to see:
+- Pursuing an MS or PhD from a leading university in Computer Science, Computer Engineering, Electrical Engineering, Applied Mathematics, or a related field,
+with an expected graduation date in 2028.
+- Available to work as an intern for at least three months and at least four days per week.
+- Strong understanding of Transformer architectures and large language model inference, including core components such as attention, MoE, and KV cache
+management.
+- Experience with at least one large language model inference framework, such as TensorRT-LLM, vLLM, SGLang, or a comparable framework.
+- Proficiency in Python and PyTorch, with strong experimental design, data analysis, debugging, and problem-solving skills.
+- Experience with at least one GPU programming technology, such as CUDA C/C++, Triton, or a comparable parallel programming framework.
+- Understanding of GPU architecture, memory hierarchy, Tensor Cores, parallel computing, and performance analysis.
+- Familiarity with low-precision computing concepts, including quantization error, scaling, rounding, clipping, group or block quantization, and mixed-precision
+computation.
+- Ability to evaluate an optimization technique across model accuracy, kernel performance, and end-to-end inference performance.
+- Good communication, technical writing, organization, and cross-functional collaboration skills.
+Ways to stand out from the crowd:
+- Hands-on experience optimizing kernels or end-to-end workloads on NVIDIA GPUs.
+- Research or engineering experience in model quantization, KV cache optimization, efficient attention, speculative decoding, or long-context inference.
+- Contributions to inference frameworks, GPU libraries, compilers, or other relevant open-source projects.
+- Experience profiling and optimizing production-scale LLM inference workloads.
+NVIDIA is committed to fostering a diverse work environment and is proud to be an equal opportunity employer. We highly value diversity among our current and
+future employees and do not discriminate in our hiring or employment practices on the basis of race, religion, color, national origin, gender, gender
+expression, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law.

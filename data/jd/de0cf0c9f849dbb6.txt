@@ -1,0 +1,68 @@
+Job Title: Data Science Intern
+FLSA Status: Non-Exempt
+Department: IT
+Reports To: Senior Data Scientist
+Ready to put your data and AI skills to work on real-world challenges? Join our team as a Data Science Intern and gain hands-on experience developing AI-powered
+solutions, machine learning applications, and automation tools in a Microsoft Azure environment. You'll collaborate with experienced data scientists, work with
+technologies like Python, LLMs, NLP, and computer vision, and help build innovative solutions that make a meaningful impact on our business and customers. If
+you're curious, analytical, and eager to learn, we'd love to hear from you.
+Position Summary
+This individual will participate in a full-time internship program, working 40 hours per week for approximately four months. The intern will contribute to data
+science and AI application development projects addressing real-world dental insurance challenges. Projects may include developing AI agents to support business
+operations and benefits inquiries, enhancing internal tools, and applying computer vision, natural language processing (NLP), and large language models (LLMs).
+The intern will gain hands-on experience in a cloud-based Microsoft Azure environment, with opportunities to build backend services, integrate APIs and data
+sources, automate workflows, and develop AI testing and evaluation capabilities. Additional responsibilities may include data preparation, model development,
+deployment, data visualization, and other assigned tasks based on business needs and the intern’s skills and interests.
+Essential Functions And Job Responsibilities
+- The intern may be assigned a wide variety of tasks depending on department workload and priorities, as well as the individual’s strengths, skillset, and
+background. Tasks may vary from routine work to complex, multi-step projects. Specific responsibilities include:
+- Supporting the development of AI agents that assist with dental operations and member and provider benefits inquiries
+- Assisting in building Azure Function Apps and backend services to orchestrate AI workflows and integrate with enterprise APIs and data sources
+- Developing automated evaluation tools and test scenarios to assess AI response accuracy, reliability, and adherence to business rules
+- Enhancing AI agent capabilities through improvements to prompts, data retrieval, tool integrations, and workflow logic
+- Utilizing computer vision, natural language processing (NLP), and large language models (LLMs) to support AI-powered applications and agentic workflows as
+required by the projects
+- Developing and supporting automated workflows to reduce manual processes
+- Collaborating with business users to gather requirements, test functionality, and incorporate feedback into AI applications
+- Documenting application workflows, technical components, and evaluation results to support ongoing maintenance and improvement
+Qualifications
+- Pursing or completed a bachelor's degree from an accredited college or university required; degrees in computer science, data science, mathematics, or related
+fields preferred
+- Experience with Python through coursework, personal projects, or professional experience preferred; familiarity with libraries such as Pandas, scikit-learn,
+PyTorch, or OpenCV a plus
+- Working knowledge of data analysis and visualization tools, such as Pandas, Matplotlib, or Seaborn
+- Familiarity with APIs, SQL, data processing, scripting, or backend development preferred
+- Familiarity with large language models (LLMs), prompt development, or AI agents preferred; experience with computer vision or natural language processing a
+plus
+- Interest in developing automated tests and evaluation methods to assess AI accuracy, reliability, and performance
+- Familiarity with AI-assisted coding tools such as Claude Code, Codex, or GitHub Copilot preferred, including an understanding of the importance of reviewing
+and validating generated code
+- Familiarity with Git and collaborative software development practices a plus
+- Experience with cloud platforms, particularly Microsoft Azure, and services such as Azure Functions, cloud databases, or workflow automation a plus
+- Ability to break down complex problems, research potential solutions, and seek guidance when needed
+- Attention to detail and a commitment to accuracy, data privacy, and responsible use of AI
+- Strong verbal and written communication skills, including the ability to explain technical concepts to nontechnical audiences
+- Motivated with a strong interest in learning new technologies, skills, and tasks
+- Ability to work independently and collaboratively in a team environment
+- Ability to manage multiple tasks, adapt to changing priorities, and meet deadlines
+- Motivated with a strong interest in learning new skills and tasks
+- Ability to work independently and in a team environment
+- Ability to multi-task and work under tight deadlines
+- Demonstrated commitment to the company’s core values of integrity, adaptability, service-focused, accountability, curiosity, and community.
+Work Environment
+This position currently functions as a hybrid role working from both home and in-office environments. Any home office setting must be conducive to all
+guidelines outlined by the organization. This role operates in a general office environment and may require prolonged periods of sitting and regular use of a
+computer and standard office equipment. This position also requires attendance at in-person meetings, with frequency determined by management based on
+departmental or organizational needs.
+Physical And Other Demands
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Specific vision abilities require the ability to focus distant and near objects clearly. While performing the duties of this job, the employee is regularly
+required to sit, talk, and hear. The employee is frequently required to use hands and arms to handle, feel, and reach as well as operate a personal computer.
+Disclaimer
+This job description is designed to provide a general overview of the requirements of the job and does not entail a comprehensive listing of all activities,
+duties, or responsibilities that will be required. The organization reserves the right to modify this job description, including assigning or reassigning job
+duties, at any time.
+Equal Opportunity Employer
+This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your
+Rights notice from the Department of Labor.

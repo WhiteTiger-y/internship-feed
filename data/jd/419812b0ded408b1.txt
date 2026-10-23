@@ -1,0 +1,47 @@
+Description
+The Details
+We are beyond proud to be a leading global property and casualty insurer providing a comprehensive range of insurance products and services to individuals,
+businesses, and organizations across multiple countries.
+If you have a knack for solving problems and seek a rewarding opportunity with a global Fortune 100 company, join us in helping our customers reduce risk,
+minimize costs, and stay safe.
+We are seeking a candidate to join our R&D (Research and Development) group, focusing on the development and creation of mapping solutions for risk assessment
+related to natural catastrophes and climate change impacts.
+What You'll Do
+As a Co-op within our Catastrophe R&D group, you’ll be working closely with senior scientists and engineers on various projects helping with tasks to:
+- Perform data mining and in-depth reviews of research literature, data, and models.
+- Collect, analyze and visualize data, using geospatial, statistical as well as other analytical methods.
+- Develop and maintain interactive maps and spatial databases for natural disaster risk assessment (floods, hurricanes, wildfires, earthquakes, etc.).
+This six-month co-op will challenge you with real-world projects and hands-on training, all while being mentored by leaders and experts in risk management R&D.
+Qualifications
+What You've Got
+- You must be available to work full-time from January - June 2027.
+- You are an undergraduate or graduate student in Geography, GIS, Environmental Science, Engineering working towards a degree with a strong academic record and
+a cumulative 3.0 GPA preferred.
+- You must be authorized to work in the United States without employer sponsorship now or in the future. We will not sponsor employment visas. Candidates who
+will require future sponsorship, including candidates on CPT/OPT/STEM‑OPT who will require future sponsorship, are not eligible to apply.
+- You have course work or experience in geospatial analytics and working with GIS applications (e.g., ArcMap, ArcGIS Pro, or QGIS).
+- You have strong analytical and problem-solving skills.
+- You are detail-oriented and thrive in a fast-paced work environment.
+- You have course work or experience in programming languages (Python or R).
+- You have a working knowledge of Microsoft Word and Excel.
+- You possess strong interpersonal and communication skills.
+About Us
+Pay Philosophy: The typical starting salary range for this role is determined by a number of factors including skills, experience, education, certifications and
+location. The full salary range for this role reflects the competitive labor market value for all employees in these positions across the national market and
+provides an opportunity to progress as employees grow and develop within the role. Some roles at Liberty Mutual have a corresponding compensation plan which may
+include commission and/or bonus earnings at rates that vary based on multiple factors set forth in the compensation plan for the role.
+At Liberty Mutual, our goal is to create a workplace where everyone feels valued, supported, and can thrive. We build an environment that welcomes a wide range
+of perspectives and experiences, with inclusion embedded in every aspect of our culture and reflected in everyday interactions. This comes to life through
+comprehensive benefits, workplace flexibility, professional development opportunities, and a host of opportunities provided through our Employee Resource
+Groups. Each employee plays a role in creating our inclusive culture, which supports every individual to do their best work. Together, we cultivate a community
+where everyone can make a meaningful impact for our business, our customers, and the communities we serve.
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being.
+To learn more about our benefit offerings please visit: https://www.libertymutualgroup.com/about-lm/careers/benefits
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation,
+gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.
+Fair Chance Notices
+- California
+- Los Angeles Incorporated
+- Los Angeles Unincorporated
+- Philadelphia
+- San Francisco
