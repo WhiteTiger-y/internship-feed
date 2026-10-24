@@ -1,0 +1,55 @@
+Kantara Initiative. ID.me is committed to “No Identity Left Behind” to enable all people to have a secure digital identity. To learn more, visit
+https://network.id.me/ .
+ID.me is a full-time, in-office culture. Unless a specific job description explicitly states otherwise, all roles are on-site five days per week at one of our
+offices in McLean, VA; Mountain View, CA; New York City, NY; or Tampa, FL. Certain roles — such as field-based sales or other remote-by-design positions — may
+have different work arrangements as noted in their individual postings.
+At ID.me, we embrace the thoughtful use of AI tools in our daily work and there are even occasions where we leverage AI in our hiring process. However, during
+the interview process, we want to understand your individual skills and experiences. Therefore, we have guidelines on how AI can be appropriately used during
+your application and interviews which can be found here .
+Role Overview
+ID.me is looking for an Analytics Engineer Intern to help us put AI to work across our data organization. You are a curious builder who loves turning data into
+answers, and you’re ready to use AI to put those answers in the hands of the teams who rely on them every day.
+As an intern, you'll build conversational analytics chatbots, automate data pipelines, and create detection agents that help us get more from our data and
+improve the member experience.
+Location: Mountain View, California- onsite in office five days a week
+What You'll Work On
+As an intern, you will own a focused set of AI enablement projects, working alongside analytics engineers, data analysts, and data engineers.
+- Conversational analytics chatbots: Build chatbots that let teams ask questions of our data in plain language and get trusted answers.
+- Data pipeline automation: Use AI-assisted tooling to automate and streamline parts of our data pipelines.
+- Detection agents: Design agents that monitor data and flag anomalies, quality issues, and unusual patterns.
+- Data architecture and domain-driven design: Explore how AI can improve our data models, documentation, and overall architecture.
+Responsibilities
+- Build and iterate on chatbot prototypes that support conversational analytics on top of Snowflake and dbt models
+- Automate data pipeline tasks such as testing, documentation, and monitoring using AI tools
+- Develop detection agents that surface data quality problems and anomalies
+- Apply domain-driven design principles to help improve data models, metric definitions, and metadata
+- Partner with analysts, engineers, and data scientists to understand needs and gather feedback
+- Document your work and present results and learnings to the team at the end of the internship
+Basic Qualifications
+- College junior with an expected graduation year of 2028, currently pursuing a Bachelor's degree in Computer Science, Software Engineering, Data Science, Data
+Analytics, Statistics, Math, or a related quantitative field. Students with a software engineering background who want to build a career in data are encouraged
+to apply.
+- Interest in AI and large language models, including prompting and building simple applications on top of them
+- Basic understanding of data modeling and data warehousing concepts
+What You'll Gain
+- Hands-on experience building AI-powered analytics tools on a modern data stack
+- Mentorship from experienced analytics engineers
+- A real project with visible impact on how ID.me uses its data
+- Exposure to data architecture, domain-driven design, and data governance in practice
+- A portfolio-ready project to present to the team at the end of the internship
+Our Culture
+At ID.me, we believe that an in-office culture fosters professional growth and development, mentorship, collaboration, and accelerated innovation. This position
+will be in-office based at our Mountain View, CA location. Working in an office together allows our culture to thrive and our team members to establish real
+connections with their coworkers and the opportunity for lifelong friendships. Our work is critical to protecting online identity and we're confident that
+working together is how we'll change the world.
+ID.me maintains a work environment free from discrimination, where employees are treated with dignity and respect. All ID.me employees share in the
+responsibility for fulfilling our commitment to equal employment opportunity. ID.me does not discriminate against any employee or applicant on the basis of age,
+ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical
+or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other
+characteristic protected by applicable laws, regulations and ordinances. ID.me adheres to these principles in all aspects of employment, including recruitment,
+hiring, training, compensation, promotion, benefits, social and recreational programs, and discipline. In addition, ID.me's policy is to provide reasonable
+accommodation to qualified employees who have protected disabilities to the extent required by applicable laws, regulations and ordinances where a particular
+employee works. Upon request we will provide you with more information about such accommodations.
+Please review our Privacy Policy, including our CCPA policy, at id.me/privacy . If you provide ID.me with any personally identifiable information you confirm
+that you have read and agree to be bound by the terms and conditions set out in our Privacy Policy.
+ID.me participates in E-Verify.

@@ -1,0 +1,86 @@
+This role is contingent upon contract funding.
+Lyntris is a defense technology company that connects sensing to action across the connected battlespace. Lyntris brings together the talents of Accelint and
+Vitesse teams under one mission, with each contributing deep expertise within their domain. Combining differentiated hardware, software and mission expertise,
+Lyntris helps customers sense threats, make sense of complex conditions and act with greater speed, precision and confidence in contested environments.
+Lyntris supports U.S. and allied defense organizations across every branch — including Navy, Army, Air Force, Space Force and allied partners — spanning
+strategic, operational and tactical missions and every domain: Space, Air, Land, Sea and Cyber. With more than 200 active defense programs, Lyntris works at
+every level of the mission, from national command authority to the tactical edge.
+Solutions are designed by operators who understand the mission, engineered for the conditions that degrade or defeat standard systems, and built on an open,
+modular architecture that integrates into existing programs without requiring them to start over. Lyntris moves faster than the traditional defense cycle — with
+integrated design, build and test capabilities in-house — and delivers systems that sustain and endure long after initial fielding.
+Artificial Intelligence/Machine Learning (AI/ML) Engineer Interns will help develop applications that utilize AI technologies which adapt and scale to solve
+sophisticated problems across a variety of problem domains.
+Duties And Responsibilities
+- Design, document, implement, debug, and test AI-enabled software components, including algorithms, knowledge bases, complex business logic, and LLM/agent
+integrations, for new and existing systems.
+- Build and maintain efficient, reusable, and reliable code.
+- Design, document, implement, debug, and test software.
+- Create plans and estimates for building software features that satisfy requirements.
+- Understand software system specifications and recommend improvements, this includes understanding the implications of system-level decisions and how to
+mitigate and leverage them.
+- Support activities to secure systems against cybersecurity threats.
+- Participate in integrated test sessions with industry partners, academia, and customers/sponsors.
+- Support project vision and milestone development as well as team initiatives to accomplish them.
+- Produces documentation on software design, system design, and testing.
+- Collaborate with other engineers, project leads, and program manager to accomplish project goals.
+- Perform other duties as assigned.
+Required Qualifications
+- Bachelor’s Degree or in progress degree in engineering, computer science, mathematics, physics, or a related discipline.
+- A general understanding of LLM-powered application development, including prompt and context engineering, agentic workflows, tool/function calling, retrieval-
+augmented generation (RAG), structured outputs, and model evaluation.
+- Proficiency with:
+- TypeScript or JavaScript
+- Java
+- Vue.js or React
+- REST API
+- A passion for working with Artificial Intelligence.
+- Ability to analyze and solve challenging technical problems.
+- Experience designing, integrating, evaluating, and debugging complex LLM-powered systems.
+- Excellent written and verbal communication skills.
+- Ability to travel to support technical presentations, testing, and integration.
+- Ability to obtain and maintain a Department of Defense (DOD) Security Clearance.
+Preferred Skills (Not Required)
+- An advanced degree in engineering, computer science, mathematics, physics, or a related discipline.
+- Experience with software development in a similar scope, program, and/or environment.
+- Knowledge or experience in any of the following technology areas:
+- Docker and/or Kubernetes
+- LLM frameworks such as HuggingFace
+- LLM inference servers (TGI, vLLM, etc). Solving reasoning problems with LLMs (chain/tree of thought reasoning, integration of external planners, etc.)
+- Multi-modal LLMs (vision, audio, and other non-textual input.)
+- Multi-agent, swarming and complex adaptive systems. Experience with additional programming languages, such as C++, C#, SQL, and JavaScript.
+- Experience with DevOps and CI/CD processes.
+- Experience using task tracking and project management software, such as GitLab or Jira.
+- Experience supporting development projects for defense or aerospace technology platforms.
+- Active-duty military experience.
+- Currently holds an active US national security clearance.
+Physical Requirements
+- This position typically requires working in a lab or office setting with some exposure to manufacturing and testing environments. The role may involve
+handling hardware components and using specialized equipment.
+- Prolonged periods sitting at a desk and working on a computer.
+- Must be able to lift up to 15 pounds at times.
+Clearance Requirements
+Some positions will require access to U.S. National Security information. Positions that require this access will be required to receive and maintain a U.S.
+government personnel security clearance (PCL). In order to qualify for this position, the candidate must be a US Citizen and either currently possess this
+National Security eligibility or be able to complete the investigation application process with a favorable determination and maintain that eligibility
+throughout their employment. To learn more about the security clearance process please access this link.
+EEOC & Know Your Rights
+Lyntris companies are Equal Opportunity Employers. All qualified applicants will receive consideration for employment without regard to race, color, religion,
+sex, national origin, age, disability, status as a protected veteran or any other status protected by applicable federal, state, and local law. We ensure that
+all employment decisions, including hiring, promotion, compensation, and other terms and conditions of employment, are based on merit, qualifications, and
+business needs. For more information about your rights, please review the "Know Your Rights" poster from the Equal Employment Opportunity Commission (EEOC).
+Know your Rights: English Spanish
+Pay Scales & Benefits
+The listed pay scale reflects the broad, minimum to maximum, pay scale for this position for the location for which it has been posted and is not a guarantee of
+compensation or salary. Other compensation considerations may include, but are not limited to, job responsibilities, education, experience, knowledge, skills,
+and abilities, as well as internal equity, alignment with market data, or other applicable factors.
+Benefits include…
+- Paid Time Off
+- Paid Company Holidays
+- Medical, Dental & Vision Insurance
+- Optional HSA and FSA
+- Base and Voluntary Life Insurance
+- Short Term & Long-Term Disability Insurance
+- 401k Matching
+- Employee Assistance Program
+The Pay Range For This Role Is
+25 - 28 USD per hour (Remote (United States))

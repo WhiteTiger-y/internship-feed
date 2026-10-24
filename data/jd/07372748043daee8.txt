@@ -1,0 +1,38 @@
+Itron is innovating new ways for utilities and cities to manage energy and water. We create a more resourceful world to protect essential resources for today
+and tomorrow. Join us. The AI Data Science Intern within the Human Resources (HR) Artificial Intelligence (AI) Enablement & Strategy team will play a hands-on,
+learning-focused role supporting the development and deployment of AI-driven solutions across global HR functions. This internship is designed to provide
+exposure to agentic AI systems, data science workflows, and HR analytics, while contributing directly to experimentation and prototyping efforts. The intern
+will assist with translating HR data into actionable insights, support AI agent training and evaluation, and help operationalize new AI workflows and features.
+Duties & Responsibilities Assist in the design, testing, and supervised deployment of AI‑agent–driven solutions that support HR processes and enhance the
+employee experience within a technology‑driven Utilities & Energy organization. Support data preparation, cleaning, and exploratory analysis of HR and workforce
+datasets, enabling customer‑centric and data‑informed decision making. Contribute to the training, evaluation, and continuous improvement of AI agents,
+including data annotation and feedback cycles while demonstrating accountability for data quality and ethical use. Participate in prototyping and
+experimentation with AI models, agentic workflows, and analytics features in an agile environment that values learning and innovation. Collaborate with HR, IT,
+and analytics partners to create clear visualizations, dashboards, and insights for HR and business stakeholders. Document approaches, learnings, challenges,
+and outcomes to promote transparency, knowledge sharing, and continuous improvement. Engage authentically in team meetings, brainstorming sessions, and
+cross‑functional projects, contributing ideas and learning from diverse perspectives. Required Skills & Experience Education: Enrolled in a related degree
+program (i.e. Data Science, Computer Science, Statistics, Business Analytics). Intermediate skills in Python, R, or similar programming languages, with exposure
+to data analysis or data science workflows. Basic understanding of AI and machine learning concepts, such as model training, evaluation, or automation.
+Curiosity, adaptability, and a growth mindset, with interest in learning how AI is responsibly applied in business. Professional communication and collaboration
+skills, with the ability to explain technical concepts to non‑technical partners. Ability to learn and self-teach new and emerging technical concepts related to
+AI as the information and tools evolve rapidly. Alignment with Itron values of being authentic, accountable, collaborative, agile, innovative, and
+customer‑focused. Preferred Skills & Experience Prior related work or project experience. Exposure to HR analytics, people data, or HR technology platforms.
+Experience creating data visualizations or dashboards using tools such as Power BI, Tableau, or Python visualization libraries. Familiarity with agentic AI
+systems, automation, or experimentation frameworks. Interest in how AI and analytics can support workforce efficiency, operational excellence, and employee
+experience. Ability to work effectively in a cross‑functional, enterprise technology environment. Duration: Start Summer 2027, May/June timeframe. Hybrid, must
+be available at least once a week to work on-site at Itron's Austin office. Itron is committed to building an inclusive and diverse workforce and providing an
+authentic workplace experience for all employees. If you are excited about this role but your past experiences don't perfectly align with every requirement, we
+encourage you to apply anyway. In the end, you may be just who we are looking for! The successful candidate's starting wage will be determined based on
+permissible, non-discriminatory factors such as skills and experience. Itron is proud to be an Equal Opportunity Employer. If you require an accommodation to
+apply, please contact a recruiting representative at 1-800-635-5461 or email Accessibility@itron.com. Itron is transforming how the world manages energy, water
+and city services. Our trusted intelligent infrastructure solutions help utilities and cities improve efficiency, build resilience and deliver safe, reliable
+and affordable service. With edge intelligence, we connect people, data insights and devices so communities can better manage the essential resources they rely
+on to live. Join us as we create a more resourceful world: www.itron.com We aren’t creating kitschy tech-gadgets that will end up in a landfill or junk drawer
+after a few years. At Itron you’ll contribute to building sustainable, next-generation utility and smart-city solutions that help grow resilient communities
+through thoughtful energy and water management. You can begin your career here and do work that truly matters. Read more about Itron and our Environmental,
+Social and Governance goals and achievements. Not ready to apply? Introduce yourself to our team so we can stay in touch. 5000+ global employees Products and
+solutions deployed in 100+ countries Headquarters: Liberty Lake, Washington, USA Publicly traded: ITRI Award-winning workplace Inclusion-first work culture
+Commitment to employee growth & development: iGrow program Employee resource groups*: iBelong program Paid internships, co-op and apprenticeships Generous and
+flexible paid time off* *Variable by location or position Hear from our Employees @ Itron Careers Your safety and trust are important to us. We want to make you
+aware of an increase in fraudulent activity targeting job seekers. Learn more Itron is proud to be an Equal Opportunity, Affirmative Action Employer. If you
+require an accommodation to apply, please contact a recruiting representative at 1-800-635-5461 or email accessibility@itron.com.

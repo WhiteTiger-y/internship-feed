@@ -1,0 +1,36 @@
+Job Requisition ID # 26WD101373 Position Overview As a PhD Research intern in Autodesk Research’s AI Lab, you will explore and apply advanced machine learning
+techniques to empower our customers in designing and building a better, safer, and more sustainable world. We are a team of researchers, engineers, and industry
+domain experts working on projects that range from learning-based design systems, computer vision, graphics, robotics, human-computer interaction,
+sustainability, simulation, manufacturing, architectural design and construction. We are seeking a research intern to join our research team focused on machine
+learning and generative methods for content creation in the media and entertainment space. In this role, you will conduct research on novel methods for
+character animation and related problems at the intersection of machine learning and computer graphics. Potential research directions include generative motion
+models, controllable character animation, data-efficient learning and adaptation, representation learning, and learning approaches that incorporate physics or
+simulation. The goal of this research is to enable more intuitive use of our animation tools by automating repetitive tasks. Autodesk's AI Lab is actively
+engaged in the broader research community, targeting publications at top-tier conferences such as CVPR, NeurIPS, ICML, SIGGRAPH, and ICLR. We collaborate with
+top academic & industry labs, combining the best of an academic environment with product-driven research. Minimum Qualifications Full-time student pursuing a
+Ph.D. in Computer Science, Computer Graphics, Computational Physics, Machine Learning or a discipline in an accredited program Broad understanding of machine
+learning and deep learning Excellent Programming and software development skills, with experience in Python Proficient with ML & DL platforms & libraries
+(PyTorch, TensorFlow, Keras, ONNX/Runtime, scikit-learn, etc.) Experience conducting research and publishing results An excellent communicator and team player
+Preferred Qualifications Deep expertise in one or more areas such as computer graphics, character animation, motion generation, 2D/3D geometry representation
+learning, generative models, and unsupervised/self-supervised learning Experience with differentiable physics, data-driven computational physics, solver-driven
+learning (physics-in-the-loop), physics-informed models Experience with transfer learning, fine-tuning, few-shot learning, or other data-efficient learning
+methods is a plus Bonus: experience with physics real-time engines (such as Bullet, Unreal, or PhysX) Bonus: experience with modeling tools (such as Maya,
+Houdini, or Blender) Responsibilities Conduct research on machine learning methods for character animation and related problems in media and entertainment
+Formulate research questions, conduct literature reviews, and design experiments to investigate them Build prototypes to test and explore concepts Evaluate
+research findings and prototypes to make recommendations for impacting business and products Author a full research paper Present the results of your research
+externally and internally About the Canada PhD Research Program The 2027 Canada Research intern program runs for 18 weeks (May 24th – Oct 1st, 2027). All
+internships are paid. As a research intern, you will contribute to meaningful projects, be mentored by industry leaders, and participate in tech talks and other
+activities designed to support your personal and professional development. Our internships align with Autodesk’s Flexible Workplace approach, which is designed
+to meet the needs of our business while providing flexibility in support of office, remote and hybrid work preferences. Learn More About Autodesk Welcome to
+Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit
+movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made. We take great pride in our culture
+here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and
+partners, and defines how we show up in the world. When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for
+all. Ready to shape the world and your future? Join us! Salary transparency Salary is one part of Autodesk’s competitive compensation package. Offers are based
+on the candidate’s experience, educational level, and geographic location. Belonging We take pride in cultivating a culture of belonging where everyone can
+thrive. Learn more here: https://www.autodesk.com/company/global-belonging In-Person Onboarding and Identity Verification This role may require in-person
+onboarding and/or in-person ID verification. Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and
+cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but
+what can be made. We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each
+other, informs how we connect with customers and partners, and defines how we show up in the world. When you’re an Autodesker, you can do meaningful work that
+helps build a better world designed and made for all. Ready to shape the world and your future? Join us!

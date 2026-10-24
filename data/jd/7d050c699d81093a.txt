@@ -1,0 +1,30 @@
+About Dexmate
+Dexmate is building the foundation for physical AI — combining a new generation of robots with a universal Physical AI OS, making robots as easy to build and
+deploy as software. Today, robotics is fragmented, slow, and closed: most builders are forced to reinvent the same stack again and again, and most ideas never
+make it past the prototype stage. We exist to change that. Our mission is to democratize robotics by lowering the barrier to entry, delivering a plug-and-play
+platform for developers, researchers, and enterprises, and cultivating an open ecosystem that accelerates the evolution of physical AI.
+If you want to help shape the next layer of human capability — and believe the future of robotics should be built together, not in isolation — we'd love to
+build it with you.
+The Role
+We are looking for PhD research interns to push the frontier of robot learning on real hardware. You will develop new algorithms for dexterous manipulation,
+navigation, and control, train and fine-tune large models, and validate your ideas on Dexmate robots alongside our research and engineering teams.
+Responsibilities
+- Develop new algorithms and methods for training AI models for enhancing the robot dexterity.
+- Conduct cutting edge research across multiple disciplines (Robotics, RL/IL, control, perception, LLM, VLM, etc.).
+- Work with large-scale ML systems and large-scale model training/fine-tuning.
+- Design and implement state-of-the-art learning-based manipulation/navigation/control algorithms on real robots.
+- Work with other teams to develop a diverse set of robust manipulation skills for robots.
+Minimum Qualifications
+- Currently enrolled in a PhD degree in Computer Science, Robotics, Electrical Engineering, Mechanical Engineering, etc., or related technical field.
+- Passionate about working with robots.
+- Research experience in embodied AI, robotics, computer vision, machine learning, human-AI interaction, and computer science.
+- Experience with deep learning frameworks such as PyTorch.
+- Must obtain work authorization in U.S. at the time of hire and maintain ongoing work authorization during employment.
+- Excellent analytical, problem-solving, and communication skills.
+- At least 2 years of experience conducting independent research.
+- Deep understanding of the SOTA robot learning techniques (reinforcement learning, imitation learning, etc.)
+- A track record of research excellence with your work published in top conferences and journals such as Science Robotics, IJRR, RSS, CoRL, ICRA, NeurIPS, ICML,
+ICLR, CVPR, etc.
+- Experienced with robot simulators such as Isaac Gym/ Isaac Sim/ SAPIEN/ MuJoCo/Drake, etc.
+- Experience setting up ML experiments and analyze their results.
+- Experience building systems based on machine learning and/or deep learning methods.

@@ -1,0 +1,68 @@
+Responsibilities
+The Applied Machine Learning Ark team combines system engineering and machine learning to develop and operate Large Language Model (LLM) service platforms that
+offer businesses Model-as-a-Service (MaaS) solutions, serving both large model providers and downstream users. The US team drives the design, development, and
+operation of MaaS solutions across the US and international markets outside mainland China. We are building full-stack, end-to-end solutions spanning text and
+multimodal LLM algorithms, LLM training/fine-tuning/inference frameworks, prompt engineering, model alignment, and intelligent agent systems. Beyond model
+serving, we operate large-scale log analytics pipelines that process massive volumes of invocation logs from text models, multimodal models, and agent systems —
+extracting usage patterns, quality signals, and actionable insights to inform model improvement, system optimization, and product decisions through continuous,
+data-driven feedback loops. We are actively seeking talented engineers and researchers specializing in Large Language Models and AI Agent systems to join our
+dynamic team.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Build evaluation systems for image and video models/agents, covering generation quality, instruction following, multimodal understanding, and safety.
+- Develop automated metrics and model-based evaluators, and design reproducible human evaluation protocols.
+- Design and develop video generation/debugging agents that orchestrate multi-step creative workflows.
+- Build large-scale image and video data pipelines, and turn evaluation findings into model and product improvements.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's degree in Computer Science, Artificial Intelligence, Machine Learning, Computer Vision, or a related field.
+- Solid foundation in deep learning and computer vision, including generative modeling fundamentals.
+- Practical experience in at least one of: visual generation, multimodal LLMs, video understanding, or visual quality assessment.
+- Strong Python skills and proficiency with PyTorch or an equivalent framework, or multimodal evaluation framework.
+- Demonstrated research or engineering ability through publications, substantial projects, internships, or open-source work.
+Preferred Qualifications:
+- Publications at top-tier vision or ML venues, e.g., NeurIPS, ICML, CVPR, ICCV, ECCV, etc.
+- Hands-on experience with modern visual generation stacks, including diffusion-based models and their post-training.
+- Familiarity with visual generation benchmarks, or experience building evaluation frameworks.
+- Experience applying agent frameworks to creative workflows, or working with large-scale video data infrastructure.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are
+committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope
+you are too.
+Reasonable Accommodation
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious
+beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-

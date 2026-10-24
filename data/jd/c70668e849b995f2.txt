@@ -1,0 +1,30 @@
+The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and
+professional development. You’ll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.
+Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your
+understanding of the financial services, technology, and mortgage industries.
+The Agentic AI Data Science Intern will contribute to the development of generative and agentic AI solutions by supporting model experimentation, integration,
+and research across real-world business use cases.
+Responsibilities
+- Assist in advancing generative AI and agentic AI solutions through rapid prototyping, model experimentation, fine-tuning, and evaluation
+- Support integration of AI solutions with enterprise applications and data platforms
+- Support the development of applications using LLMs, embeddings, and prompt engineering
+- Collaborate on research and experimentation in areas such as NLP, retrieval systems, knowledge graphs, and multi-agent systems, while documenting findings and
+participating in agile workflows
+- Perform additional duties and contribute to projects as assigned
+Knowledge And Experience
+- Must be currently enrolled in a degree program at an accredited university, be at least advancing to their junior year of study, and pursuing a degree in
+computer science, data science, AI/ML, or a related field
+- Familiarity with Python; exposure to tools like PyTorch, TensorFlow, or FastAPI is a plus
+- Exposure to NLP/NLU concepts, small language models, vector databases, and retrieval systems such as GraphRAG
+- Interest in agentic AI and multi-agent systems, including Model Context Protocol (MCP), agent-to-agent (A2A) communication, ontologies, and knowledge graphs
+- Comfortable using Git/GitHub and development environments like Jupyter Notebooks or VS Code, with strong communication skills and a willingness to learn and
+experiment
+Internship program schedule
+To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:
+- Option 1: May 24, 2027 – August 6, 2027
+- Option 2: June 7, 2027 – August 20, 2027
+Candidates will be asked to select their preferred session during the application process.
+Please Note: Interns must be available to work full-time, five days a week, at our Jacksonville office for the entire duration of one of the designated program
+schedules. Partial participation or alternate dates cannot be accommodated.
+Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally
+protected characteristics.

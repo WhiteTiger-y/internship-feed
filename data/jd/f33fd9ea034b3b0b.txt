@@ -1,0 +1,30 @@
+Job Location: Pittsburgh, Pennsylvania
+Location Flexibility: Primary Location Only
+Req Id: 13658
+Posting Start Date: 10/23/26
+At Fujitsu, we are driven by our purpose to make the world more sustainable by building trust in society through innovation.
+We have been a pioneer in technology and innovation for over 80 years, and we are committed to using our expertise to help businesses and organizations
+transform for the digital age. We believe that digital transformation is essential to creating a more sustainable future. That's why we are working with our
+customers to develop solutions that can help them reduce their environmental impact, improve their efficiency, and create a more equitable society.
+We are committed to contributing to the United Nations Sustainable Development Goals (SDGs). These goals are a blueprint for a better future for all, and we
+believe that technology can play a vital role in achieving them.
+If you share our passion for making a meaningful impact on the world, we invite you to join our global family of 130,000 employees spanning more than 50
+countries. We are a diverse workforce, and we offer a wide range of opportunities for you to grow and develop your career.
+Together, we can create a more sustainable future for all.
+Fujitsu Research America’s Physical AI team invites applications for research internships in Human-AI Interaction and Robotics. Interns will research and build
+systems that integrate LLMs, machine learning, computer vision, and robotics models, with the goal of publishing at top-tier conferences. Selected candidates
+will work with FRA’s Pittsburgh office, either remotely or in person. The internship is expected to last 12–24 weeks, with an anticipated start date in Fall
+2026 and possible extension to Winter 2026. Minimum QualificationsCurrently pursuing PhD in Computer Science, Robotics, ML, or related discipline in the
+U.S.Proficiency in Python programmingExperience with ML/CV/Robotics Preferred QualificationsFirst-author publications at top-tier Robotics, AI, or HCI
+conferences such as ICRA, IROS, RSS, CoRL, NeurIPS, ICRL, ICML, AAAI, CVPR, ECCV, ICCV, CHI, UIST, etc.Experience with ROS or other robot software and
+libraries.
+#Americas_Priority
+Relocation Supported: No
+Visa Sponsorship Approved: Yes
+At Fujitsu, we are committed to creating a diverse and inclusive workplace where everyone feels valued and respected. We believe that diversity and inclusion
+are essential to our success, and we are committed to creating an environment where all employees can thrive.
+We are an equal opportunity employer and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national
+origin, age, disability, marital status, sexual orientation, gender identity or expression, genetic information, veteran status, or any other characteristic
+protected by law.
+We believe that everyone has something to contribute, and we are committed to creating a workplace where everyone can reach their full potential.
+California Consumer Privacy Act (CCPA), read here

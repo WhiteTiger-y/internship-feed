@@ -1,0 +1,40 @@
+Shape the Future of Autonomous Systems: Navigation & Machine Learning Engineering Intern (16 Months) Apply your knowledge of machine learning technologies to
+cutting edge products and tackle complex engineering challenges. Joining Trimble Applanix, you will gain hands-on experience developing advanced firmware for
+real-time navigation systems while collaborating with a high-performing engineering team. What Makes This Role Great: In this role, you will be at the forefront
+of implementing cutting edge machine learning algorithms directly into navigation firmware, directly influencing system performance and shaping the future of
+autonomous positioning technology. Key Exciting Responsibilities Take part in machine learning development activities related to Trimble Applanix APX/AP+
+firmware. Drive critical engineering activities including debugging, data analysis, and algorithm implementation for real-time systems. Develop software using
+industry standard development tools such as GIT and JIRA within an agile team framework. Collect, structure, and organize high quality datasets to power
+continuous navigation model improvements. Produce comprehensive technical documentation to support system level integration and ongoing development. Essential
+Skills & Experience Enrolled in a Masters or PhD program in Electrical Engineering, Computer Engineering, Aerospace Engineering, or Mechatronics Engineering.
+Demonstrated experience with Google Tensor Python development. Practical experience with TinyML library deployment in MCU environments. Strong technical
+expertise in Kalman filtering and machine learning techniques. Fluent software development skills using C/C++ languages in real-time and Linux environments.
+Bonus Points For Knowledge of system level integration and multi-component hardware/software development. Proven ability to multi-task effectively in a dynamic,
+highly agile environment. Strong presentation skills and ability to communicate technical findings clearly. Logistics: Location: Richmond Hill, Ontario (In-
+Office) Travel Requirement: 0% Start Date: May 2027 Why You'll Love Working With Us At Trimble, we're not just a company that "does good"—we are a team
+dedicated to making a tangible, positive Real-World Impact. We build innovative solutions designed to solve the world's most critical challenges. From
+construction sites to transportation hubs, our work tangibly improves how people live, build, move, and grow. You'll work on projects that truly matter: Our
+purpose-driven culture means you'll be helping to build and deliver solutions that make work faster, safer, and more sustainable for millions of people
+worldwide. Our impact is tangible, from connected machines that save fuel to data-driven insights that reduce waste. Collaborate with like-minded people: Our
+strong internal culture is a "hidden gem." You will work with a collaborative, supportive team that shares your purpose and fosters a genuine sense of
+belonging. We're a company of "visionary pragmatists" who think boldly and build things that work. Be an owner: Trimble thrives on individuals who take
+initiative and embrace ownership. You'll find an entrepreneurial spirit where success is often "self-authored," empowering proactive "doers." Navigation
+Engineering, Machine Learning Intern, TinyML, Kalman Filtering, C++, Python, Linux, Firmware Development, MCU, Applanix How to Apply: Please submit an online
+application for this position by clicking on one of the Apply buttons located in this posting. Join a Values-Driven Team: Belong, Grow, Innovate. At Trimble,
+our core values of Belong, Grow, and Innovate aren't just words—they're the foundation of our culture. We foster an environment where you are seen, heard, and
+valued (Belong); where you have an opportunity to build a career and drive our collective growth (Grow); and where your innovative ideas shape the future
+(Innovate). We believe in empowering local teams to create impactful strategies, ensuring our global vision resonates with every individual. Become part of a
+team where your contributions truly matter. Candidate Privacy Notices by Country If you need assistance or would like to request an accommodation in connection
+with the application process, please contact careers@trimble.com. Trimble is a global technology company that connects the physical and digital worlds,
+transforming the ways work gets done. With relentless innovation in precise positioning, modeling and data analytics, Trimble enables essential industries
+including construction, geospatial and transportation. Whether it's helping customers build and maintain infrastructure, design and construct buildings,
+optimize global supply chains or map the world, Trimble is at the forefront, driving productivity and progress. For more information about Trimble (NASDAQ:
+TRMB), visit: www.trimble.com. At Trimble, we are committed to fostering a diverse, inclusive, and equitable workplace where everyone can thrive. Guided by our
+core values—Belong, Innovate, and Grow—we embrace and celebrate differences, knowing they make us stronger and more innovative. We are proud to be an equal
+opportunity employer, welcoming individuals of all backgrounds and advancing opportunities while embracing race, color, gender identity, sexual orientation,
+religion, disability, veteran status, or any other protected and diverse characteristic. We are committed to offering our candidates and employees with
+disabilities or sincerely held religious beliefs the ability to seek reasonable accommodations in accordance with applicable law and/or where it would not
+constitute undue hardship for Trimble. For more, please see Trimble's Code of Business Conduct and Ethics at https://investor.trimble.com, under “Corporate
+Governance.” Our mission to transform the way the world works starts with transforming how we work together. By actively listening, asking questions, and taking
+intentional actions, we cultivate a culture that provides equitable opportunities for everyone to contribute and grow. Candidate Privacy Notices by Country If
+you need assistance or would like to request an accommodation in connection with the application process, please contact careers@trimble.com.

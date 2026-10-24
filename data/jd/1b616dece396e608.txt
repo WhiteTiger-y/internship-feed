@@ -1,0 +1,18 @@
+Duration: 2 months
+Compensation: Unpaid Internship
+Philo Homes is an AI-powered home design and furniture platform transforming real-world spaces into interactive 3D environments.
+We're looking for a motivated Computer Vision Intern to join our team and work on AI-driven 3D reconstruction and computer vision technologies.
+Responsibilities
+- Research and implement computer vision techniques for 3D scene reconstruction.
+- Explore 2D-to-3D object reconstruction and 3D model generation.
+- Experiment with image processing, deep learning, and 3D geometry techniques.
+- Collaborate with our AI team to improve reconstruction quality and performance.
+Qualifications
+- Background in Computer Science, Computer Vision, Computer Graphics, or a related field.
+- Familiarity with Python and PyTorch.
+- Knowledge of 3D reconstruction, NeRF, Gaussian Splatting, or 3D geometry is a plus.
+- Strong problem-solving skills and enthusiasm for AI research.
+What You'll Gain
+- Hands-on experience with real-world AI and 3D vision projects.
+- Opportunities to explore cutting-edge computer vision technologies.
+- Collaboration with a multidisciplinary team at an early-stage startup.

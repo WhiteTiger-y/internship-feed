@@ -1,0 +1,26 @@
+Why Join Us
+Tractian combines hardware, software and AI to help industrial teams detect equipment problems early and prevent costly downtime. Our technology supports more
+than 3,761 plants and monitors over 370,000 industrial assets. As a Y Combinator company, we’ve been recognized on the Forbes AI 50, named a G2 Leader and
+ranked No. 24 on Deloitte’s Technology Fast 500 in North America. Join us to help build technology that keeps industry running.
+Research and Development at Tractian
+Research and Development turns open technical questions into tested approaches. This track combines quantitative research, programming and experimentation to
+explore problems relevant to Tractian’s products and business.
+What You Will Do
+Own a focused research problem with guidance from an engineering mentor. Define the question, implement a baseline and compare alternative approaches. Use the
+results to explain what works, what remains uncertain and what the team should investigate next.
+Responsibilities
+- Review relevant research and translate an open problem into testable hypotheses.
+- Implement models and experiments in Python, documenting data, assumptions and methods.
+- Compare approaches against meaningful baselines; assess generalization, failure cases and computational cost.
+- Deliver reproducible code and a concise technical report explaining the findings, limitations and recommended next steps.
+Requirements
+- Currently pursuing a PhD in Physics, Computer Science, Machine Learning, Engineering, Applied Mathematics, Statistics or a related quantitative field.
+- Strong Python programming skills and foundations in mathematical modeling, statistics and experimental design.
+- Research experience developing or evaluating computational methods through code and experiments.
+- Ability to investigate unfamiliar problems independently, question assumptions and communicate what the evidence supports.
+- Experience with predictive modeling, optimization, scientific computing or time-series analysis.
+Helpful Experience
+Familiarity with tools such as NumPy, JAX or PyTorch is useful. Papers, research software and technical projects are welcome; publications are not required.
+What You Will Gain
+Experience applying doctoral research skills to a practical technical problem, with mentorship on experimentation, implementation and communicating findings
+that inform engineering decisions.

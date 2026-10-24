@@ -1,0 +1,29 @@
+Rugged Robotics is on a mission to empower the construction industry to build better by innovating new approaches to tough problems using automation. We are a
+fast-paced start-up environment where every employee takes on multiple roles and wears many hats. To help our customers to build better, we need to build the
+best team.
+Join the dynamic software team at Rugged Robotics, where we bring cutting-edge automation to life for construction layout robots! As a Robotics Software Intern
+at a start-up, you'll tackle real-world challenges, enhance the performance of existing products, and help design groundbreaking solutions for the next
+generation of robotic systems. This is your chance to make a tangible impact and shape the future of robotics in construction!
+Internship / Coop Term: Spring 2027 and/or Summer 2027
+Location: Onsite in Houston, TX
+The Role
+- Iteratively prototype and test software directly on hardware platforms in our labs and on our customer’s jobsites.
+- Write the code that improves the speed, precision, and reliability of our current robotic platform by investigating, modifying and refining existing system
+kinematics, algorithms, and software features.
+- Quickly generate prototypes and proof-of-concept algorithms while collaborating with team-members in the field to troubleshoot, diagnose, determine the root-
+cause, and implement solutions to issues discovered on deployment.
+- Make informed & objective engineering decisions by creating simulations, methodically running experiments, and conducting analyses with a range of techniques.
+You Are
+- Experienced working with software and electromechanical systems from a prior internship, extra-curricular project, or lab research.
+- Knowledgeable with relevant areas of robotics & control such as kinematics, sensor fusion, path planning, perception, calibration algorithms, and firmware
+development.
+- Comfortable with development on hardware systems including ROS, Python, C++ and familiar with common coding practices including revision control and CI/CM
+- Hands-on with deploying code on physical hardware and root causing bugs related to mechanical, electrical, and software issues.
+- Enthusiastic about learning new techniques & technologies and are comfortable working in a fast-paced environment.
+Rugged Robotics is headquartered in Houston, TX in the vibrant neighborhood of East Downtown. This role requires close collaboration with teammates, and we
+value the interactions that come from working together around the robots in the lab.
+Interested in Rugged Robotics but don't tick all the boxes? Don't see a role that meets your skills? Reach out, let us know how you think you can contribute to
+the team, and define your own position.
+Rugged Robotics is an Equal Opportunity Employer, and we value diversity at our company. All qualified candidates will receive consideration regardless of race,
+color, religion, sex, sexual orientation, gender, identity, age, national origin, marital status, veteran status, disability status, or other protected legal
+status.

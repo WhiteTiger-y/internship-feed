@@ -1,0 +1,75 @@
+Machine Learning Engineer Intern (Ads Signal & Measurement) - 2027 Summer
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A155294
+Apply to this job Share this listing:
+Responsibilities
+The Signal & Measurement team at TikTok Ads owns the full stack of advertising effectiveness — from signal collection and identity resolution to attribution
+modeling and causal measurement. We build the systems and models that help advertisers worldwide understand and maximize the true business value of their ad
+spend on TikTok.
+Our work sits at the intersection of large-scale machine learning and causal inference, applied at massive scale to answer the hardest question in advertising:
+"Did this ad actually work?" The team's scope covers four pillars: signal, attribution, identity, and measurement. These outputs directly power downstream ads
+ranking and delivery models, closing the loop from measurement back to optimization. As a new grad on the team, you will be paired with an experienced mentor,
+own real projects from day one, and grow across both machine learning and large-scale systems.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Build and improve machine learning models for signal quality — anomaly detection, signal recovery, denoising, and correction — to ensure the reliability of
+advertiser conversion data at scale.
+- Contribute to cross-platform identity resolution: improve the precision and coverage of our Identity Graph through probabilistic matching models and graph
+algorithms.
+- Participate in attribution model design and implementation, including multi-touch attribution (MTA), modeled conversions, and incrementality measurement.
+- Drive the downstream application of signal, identity, and attribution data in ranking models — improve conversion prediction and bidding/ranking quality by
+feeding higher-fidelity signals, resolved identities, and modeled conversions into ads ranking systems, and own the data-to-model feedback loop end to end.
+- Help build large-scale experimentation infrastructure and data pipelines powering Conversion Lift, Brand Lift, Split Test, and cross-media measurement
+products.
+- Explore LLM-powered signal intelligence — apply large language models to the semantic understanding of advertiser conversion data, enabling intelligent
+classification, quality assessment, and automated correction of event signals.
+- Collaborate with Product, Data Science, and Infrastructure teams to turn algorithmic ideas into production systems serving advertisers globally.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's or above degree in Computer Science, Statistics, Mathematics, Electrical Engineering, or a related technical discipline.
+- Solid foundation in machine learning and statistics: comfortable with concepts such as hypothesis testing, regression, probabilistic models, and ideally
+causal inference.
+- Strong programming skills in at least one of Python, Go, Java, or C/C++, with a solid grasp of data structures and algorithms.
+- Hands-on ML experience through coursework, research, internships, or personal projects (e.g., training and evaluating models on real-world data).
+- Strong communication skills and eagerness to learn in a fast-paced environment.
+Preferred Qualifications:
+- Internship, research, or project experience in one or more of: computational advertising, recommendation/search ranking, causal inference or A/B
+experimentation, entity resolution/graph learning, anomaly detection, or applied LLMs/NLP.
+- Publications at ML/data mining venues (e.g., NeurIPS, ICML, KDD, WWW) or strong performance in algorithm/ML competitions (e.g., ACM-ICPC, Kaggle).
+- Experience with large-scale data processing frameworks (e.g., Spark, Flink) or ML frameworks (e.g., PyTorch, TensorFlow).
+- Genuine curiosity about ads tech and how advertisers think about ROI and measurement.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $45- $45.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovat

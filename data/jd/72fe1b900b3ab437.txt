@@ -1,0 +1,32 @@
+The group you’ll be a part of
+Join the SABRE Process Development team to help shape the next generation of semiconductor electroplating equipment. This is a 6-month internship preferably
+starting in January 2027.
+What You’ll Do
+This role focuses on applying engineering principles, data analytics, machine learning, and automation to improve tool performance, process understanding, and
+intelligent equipment capabilities. You will work on projects involving tool design concepts, experimental data analysis, predictive modeling, digital twins,
+machine vision, sensor integration, and AI-driven process optimization.
+Who We’re Looking For
+The ideal candidate enjoys solving complex engineering problems, working hands-on with hardware and data, and exploring how AI can transform advanced
+manufacturing systems.
+Preferred Qualifications
+- Pursuing MS or PhD in Mechanical Engineering, Electrical Engineering, Chemical Engineering, Computer Science, Data Science, Robotics, or related field
+- Strong engineering fundamentals and problem-solving skills
+- Experience with Python, data analytics, machine learning, or computer vision
+- Interest in semiconductor equipment, automation, control systems, or digital twins
+- Ability to work across hardware, software, and process disciplines
+Our commitment
+We believe it is important for every person to feel valued, included, and empowered to achieve their full potential. By bringing unique individuals and
+viewpoints together, we achieve extraordinary results.
+Lam Research ("Lam" or the "Company") is an equal opportunity employer. Lam is committed to and reaffirms support of equal opportunity in employment and non-
+discrimination in employment policies, practices and procedures on the basis of race, religious creed, color, national origin, ancestry, physical disability,
+mental disability, medical condition, genetic information, marital status, sex (including pregnancy, childbirth and related medical conditions), gender, gender
+identity, gender expression, age, sexual orientation, or military and veteran status or any other category protected by applicable federal, state, or local
+laws. It is the Company's intention to comply with all applicable laws and regulations. Company policy prohibits unlawful discrimination against applicants or
+employees.
+Lam offers a variety of work location models based on the needs of each role. Our hybrid roles combine the benefits of on-site collaboration with colleagues and
+the flexibility to work remotely and fall into two categories – On-site Flex and Virtual Flex. ‘On-site Flex’ you’ll work 3+ days per week on-site at a Lam or
+customer/supplier location, with the opportunity to work remotely for the balance of the week. ‘Virtual Flex’ you’ll work 1-2 days per week on-site at a Lam or
+customer/supplier location, and remotely the rest of the time.
+Our Perks And Benefits
+At Lam, our people make amazing things possible. That’s why we invest in you throughout the phases of your life with a comprehensive set of outstanding
+benefits.

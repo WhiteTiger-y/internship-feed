@@ -1,0 +1,45 @@
+Sun Life U.S. is one of the largest providers of employee and government benefits, helping approximately 50 million Americans access the care and coverage they
+need. Through employers, industry partners and government programs, Sun Life U.S. offers a portfolio of benefits and services, including dental, vision,
+disability, absence management, life, supplemental health, medical stop-loss insurance, and healthcare navigation. We have more than 6,400 employees and
+associates in our partner dental practices and operate nationwide. At Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial
+security and live healthier lives. Our values shape how we work: caring, authentic, bold, inspiring, and impactful. When you join Sun Life, you'll work with
+passionate colleagues and empowering leaders who support your growth and celebrate your contributions, so you can make a meaningful difference in our Clients'
+lives. Visit our website to discover how Sun Life is making life brighter for our customers, partners and communities. Job Description: US Campus Summer 2027
+Intern Job Description You are as unique as your background, experience, and point of view. Here, you’ll be encouraged, empowered, and challenged to be your
+best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help
+you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the
+heart of everything we do. Discover how you can make a difference in the lives of individuals, families, and communities around the world. What’s it like to
+work at Sun Life? You’ll find it dynamic and highly professional; collaborative and supportive. We encourage career mobility. Sun Life is also a socially
+responsible employer, supporting the communities in which we live and work, with a globally recognized commitment to the environment and sustainability. This
+internship will be hybrid, and interns must be located near one of our US based offices – Wellesley, MA; Kansas City, MO; Hartford, CT; Portland, ME; Milwaukee,
+WI. The Role This role will provide advanced analytics support within the Business Analytics function that applies the power of data with machine learning to
+improve business outcomes across the Health and Risk Solutions business. This team is expected to work closely with the other teams across the organization,
+including functional teams and the analytic agile squads supporting AI use cases within various business domains. This position reports to the Director of
+Advanced Analytics Transformation and offers the opportunity to work alongside experienced Data Scientist on high impact projects. Responsibilities include
+assisting in the development and monitoring of predictive models and AI solutions to support our pricing, underwriting and clinical review processes, as
+assigned. Additional responsibilities may include applying machine learning techniques to explore ways to streamline and automate aspects of these processes.
+Responsibilities will include, but are not limited to: Support the application of data science techniques to solve business problems across various analytical
+areas, including exploratory data analysis, feature engineering, predictive modeling, and visualization. Collaborate with the team to develop, validate, and
+maintain high-quality, robust predictive models and AI solutions. Utilize multiple sources of data, including structured and unstructured data, along with
+variety of machine learning techniques to improve model performance and interpretability. Follow team standards for writing, organizing, and documenting codes
+to ensure project work is reproducible and easy to be understood. Interpret data and model outputs to generate clear actionable insights and recommendations
+that drive business decisions. Other duties as assigned Core skill sets needed for this role: Strong academic foundation in developing and implementing data
+science techniques Strong knowledge of statistical and data science techniques, including machine learning, data visualization, and experience with databases
+Proficiency in Python and SQL for data manipulation, modeling, and automation Experience with machine learning framework and libraries Commitment to data
+compliance, model governance and security protocols Strong problem-solving skills and effective communication, with an ability to explain technical concepts to
+a non-technical audience Experience with generative AI, including prompt engineering, RAG workflows and integrating LLMs into business processes, is a plus The
+Candidate To be eligible for an internship at Sun Life, you must meet the following requirements: Currently enrolled in an accredited college or university
+during the time of internship (June 2027 – August 2027) Must be an undergraduate or graduate student in statistical, mathematical, or technical field (e.g.,
+Data Science, Computer Science, Statistics, or Actuarial Science) Eligible to legally work in the United States Ability to work full-time (40 hours/week) during
+Intern session Not ready to apply yet but want to stay in touch? Join our talent community to stay connected until the time is right for you! We are committed
+to fostering an inclusive environment where all employees feel they belong, are supported and empowered to thrive. We are dedicated to building teams with
+varied experiences, backgrounds, perspectives and ideas that benefit our colleagues, clients, and the communities where we operate. We encourage applications
+from qualified individuals from all backgrounds. Life is brighter when you work at Sun Life At Sun Life, we prioritize your well-being with comprehensive
+benefits, including generous vacation and sick time, market-leading paid family, parental and adoption leave, medical coverage, company paid life and AD&D
+insurance, disability programs and a partially paid sabbatical program. Plan for your future with our 401(k) employer match, stock purchase options and an
+employer-funded retirement account. Enjoy a flexible, inclusive and collaborative work environment that supports career growth. We’re proud to be recognized in
+our communities as a top employer. Proudly Great Place to Work® Certified in Canada and the U.S., we’ve also been recognized as a "Top 10" employer by the
+Boston Globe's "Top Places to Work" for two years in a row. Visit our website to learn more about our benefits and recognition within our communities. We will
+make reasonable accommodations to the known physical or mental limitations of otherwise-qualified individuals with disabilities or special disabled veterans,
+unless the accommodation would impose an undue hardship on the operation of our business. Please email thebrightside@sunlife.com to request an accommodation.
+For applicants residing in California, please read our employee California Privacy Pol

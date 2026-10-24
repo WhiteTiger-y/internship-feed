@@ -1,0 +1,45 @@
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine
+connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to
+prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The
+Position Job Title: Data Expert, Integration & Delivery, Data Capability, DDC, Computational Sciences Center of Excellence Location(s): Welwyn office based
+Advances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at
+Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact.
+Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new computational sciences Center of
+Excellence (CoE) is a strategic, unified group whose goal is to harness this transformative power of data and Artificial Intelligence (AI) to assist our
+scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide. Within the CoE organisation, the Data and
+Digital Catalyst organisation drives the modernisation of our computational and data ecosystems and integration of digital technologies across Research and
+Early Development to enable our stakeholders, power data-driven science and accelerate decision-making. The Opportunity The Data Expert, Integration & Delivery
+is responsible for the support of the data operations for discovery and research data management and automation solutions. This role serves as a team member to
+support data management, solution architecture and cloud implementation needs of the department. Work closely with the Automation teams, bioinformatics, and
+machine learning scientists to facilitate data ingestion, acquisition, and storage. Contributes to technical/functional initiatives related to modernization of
+data management and curation solutions. Contributes to the design of solutions that modernize and improve the efficiency of FAIR data management and curation
+processes, providing business impact. Is proficient in at least one scientific or data domain, and is able to provide support to initiatives based on that
+knowledge. Provide data management support for integrated systems. Contribute to and deliver Data architecture vision and standards in conjunction with data
+users, engineering capabilities and key stakeholders. Fosters a OneRoche data-centric mindset within the team, advocating for data standards, governance, and
+FAIR principles. Contributes to data strategies that ensure data is ready for AI/ML (AI data readiness). Contributes to tactical efforts that enable data
+quality tracking and policy compliance. Program Highlights: 13 months at full time (37.5 hours per week) paid placement. Program start date is 1st July 2027.
+Contribution to challenging and impactful business projects. Work with some of the most talented people in the biotechnology industry. Who You Are: Required
+Education - You meet one of the following criteria: Currently enrolled a Bachelor’s degree and have completed 2 years of course at start of the placement Degree
+courses of interest include: Computer science, or related engineering field , or scientific domains. Required Skills and Qualifications: Experience in coding,
+such as R or Python development. Experience in AI/ML usage. Experience with scientific data curation or computational methods and good data literacy. Excellent
+written communication skills, verbal communication/presentation skills, interpersonal skills and empathy for users. Previous coordination experience in a non-
+classroom setting (such as via extracurricular activities or a job). Complements our culture and the standards that guide our daily behavior & decisions:
+Integrity, Courage, and Passion. Application Process: Submit your application including your Curriculum Vitae and cover letter with responses to the following:
+Can you describe a time you performed data curation and the reason why? Please detail: the method, tools and/or programming languages you used, if you had to
+scale-up the process - what you would do differently, whether AI tools played a role in your process, and the key takeaways from the experience. Explain how you
+see this placement aligning with your personal, educational and career goals. Your cover letter should not exceed one page with double-spaced lines, and must
+reference the role you are applying for. Application submission by candidates: deadline Friday 30th October 2026 Purpose - our focus in the first and second
+stage is to understand why you have applied for this role and what you will bring to the role to ensure team and personal success. We want to learn more about
+you. Phase I: CV and Cover Letter review Phase II: Video interview If successful at the Video interview, you will be invited to the final stage of the
+application process. Phase III: Final Assessment Center at Roche UK head office (Welwyn Garden City, Hertfordshire). Expected date December 2026. This final
+stage will include a face to face interview, and relevant activities critical for the role, giving you a taste of Roche and the opportunity. Unfortunately, visa
+sponsorship is not available for this role. Candidates must already hold valid authorisation to work in the UK. Who we are A healthier future drives us to
+innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for
+generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics
+products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare
+solutions that make a global impact. Let’s build a healthier future, together. The statements herein are intended to describe the general nature and level of
+work being performed by employees, and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so
+classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of Roche Products Ltd. At Roche Products we
+believe diversity drives innovation and we are committed to building a diverse and flexible working environment. All qualified applicants will receive
+consideration for employment without regard to race, religion or belief, sex, gender reassignment, sexual orientation, marriage and civil partnership, pregnancy
+and maternity, disability or age. We recognise the importance of flexible working and will review all

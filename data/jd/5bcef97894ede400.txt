@@ -1,0 +1,30 @@
+Introduction
+At IBM Research, we are the innovation engine of IBM. Exploring what’s next in computing and shaping the technologies the world will rely on tomorrow. From
+advancing AI and hybrid cloud to pioneering practical quantum computing, we anticipate challenges and unlock new opportunities for clients, partners, and
+society. Working in Research means joining a team that accelerates discovery at the intersection of high-performance computing, AI, quantum, and cloud. You’ll
+collaborate with leading scientists, engineers, and visionaries to push boundaries and turn ideas into reality. With a culture built on curiosity, creativity,
+and collaboration, IBM Research offers the opportunity to grow your career while contributing to breakthroughs that transform industries and change the world.
+Your Role And Responsibilities
+Join a team conducting cutting-edge research in AI Native Distributed Systems. In this role, you will explore and advance one or more of many aspects of AI-
+native distributed computing we are currently working on, including: design, development, and optimization of software platforms for building, deploying, and
+managing large language models (LLMs) and agents; principles, methodologies, and frameworks for AI-native software development, evolution, and optimization;
+high-performance distributed inference for LLMs; frameworks, tools, and infrastructure that support the end-to-end AI lifecycle;
+networking for AI infrastructure, developing/prototyping networking solutions and techniques for future AI systems, including networking for distributed
+inference and RDMA over Ethernet networking, as well as evaluation of the solutions from performance, scalability, and resiliency perspectives; networking
+innovations that enable high-performance communication for AI workloads and emerging distributed inference patterns.
+The ideal candidate has a strong foundation in AI, large language models, and agentic workloads, combined with expertise in systems, networking, or software
+engineering. As an intern, you will contribute across the full industrial research lifecycle: formulating novel ideas, designing and building prototype systems,
+evaluating performance at scale, demonstrating real-world impact, and publishing results in leading scientific venues.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Currently pursuing a degree in Computer Science, Engineering, or related field (MS/PhD), with a focus on artificial intelligence, systems, networking, or
+software development.
+- Background in artificial intelligence and machine learning, including areas such as deep learning, LLMs, distributed LLM inference, or agentic patterns
+- Strong background in software development, including proficiency in languages such as Python, Go, C++, or Rust
+- Experience with containerization using Docker, Kubernetes, or other container orchestration tools.
+Preferred Technical And Professional Experience
+- Understanding of LLM technology, distributed inference, llm-d/vLLM
+- Designing and implementing distributed systems
+- Experience in cloud/data Center networking, Software-Defined Networking (SDN), network virtualization, or Linux networking
+- Research and development experience in AI platforms, including the design, implementation, and optimization of AI frameworks and tools

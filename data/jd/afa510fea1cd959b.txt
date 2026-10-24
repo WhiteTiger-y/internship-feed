@@ -1,0 +1,39 @@
+The 2027 Summer Internship Program will run from May 17, 2027, through August 6, 2027. Candidates must be available to start on May 17 and participate through
+the duration of the program. Applicants must be legally authorized to work in the United States. We are unable to sponsor or take over sponsorship of a
+school/employment or any other visa, regardless of expiration date, now or in the future. Who Are We? The Toro Company (TTC) has delivered market-leading,
+innovative products and outstanding customer care for more than 100 years. With over 11,000 employees worldwide, TTC is headquartered in Bloomington, Minnesota,
+USA. Our company designs and manufactures turf maintenance equipment; turf irrigation systems; landscape and lighting products; snow and ice management
+solutions; agricultural irrigation systems; rental, specialty and underground construction equipment; and residential turf and snow equipment. We market and
+sell TTC products worldwide through a network of distributors, dealers, mass retailers, hardware retailers, equipment rental center and home centers—as well as
+online direct to end users. At Ditch Witch in Perry, Oklahoma we pride ourselves on being the leading manufacturer in the underground pipe and cable market. Our
+plant in Perry stands out because it's a place for people to learn and thrive. We enjoy coming to work because our plant is our community, we see our teammates
+not only as co-workers but as neighbors and family members. All of our locations build the intricate network of machinery that contributes to The Toro Company.
+What Will You Do? In order to grow and build a successful career with The Toro Company, you will be responsible for: Partner with Strategic Technologies team
+members, business stakeholders, and IT teams to analyze data quality issues across enterprise applications and business systems. Perform data cleanup activities
+including identifying duplicate, incomplete, inaccurate, or outdated records and supporting remediation efforts. Assist in developing and testing data
+validation rules, monitoring processes, and governance practices to improve data accuracy and consistency. Research and evaluate AI-powered tools and techniques
+to automate data quality management, identify anomalies, and support ongoing data governance efforts. Collaborate with business and technical teams to design a
+sustainable, long-term process for maintaining clean and reliable data using AI and automation capabilities. Document requirements, workflows, and proposed
+future-state processes to support continuous improvement initiatives. Present findings and recommendations to team members and stakeholders, contributing
+innovative ideas that improve business processes and system effectiveness. What Do You Need? To be considered for this role, an individual should meet the
+following minimal requirements: Currently pursuing a Bachelor's or Master's degree in Information Systems, Business Analytics, Computer Science, Data Science,
+Business Administration, or a related field. Junior or Senior standing preferred. Demonstrated interest in data management, business systems, AI technologies,
+process improvement, or enterprise applications through coursework, projects, internships, or extracurricular activities. Basic understanding of data analysis
+and data management. Experience with Microsoft Excel (pivot tables, formulas, data validation, filtering). Basic knowledge of AI/ML concepts, generative AI
+tools, or automation technologies. Understanding of databases and data structures. Analytical & Detail-Oriented: Enjoys working with data, identifying quality
+issues, and ensuring information is accurate and reliable. Curious & Innovative: Passionate about learning new technologies and exploring AI-driven solutions to
+improve business processes. Collaborative Communicator: Works effectively with business and IT stakeholders and can clearly document findings and
+recommendations. Proactive Problem Solver: Takes initiative to identify opportunities for process improvement and develop sustainable, long-term solutions. What
+Can We Give You? At The Toro Company, we are always working to make sure our interns know just how valued they are. In addition to a competitive pay- The Toro
+Company offers interns a variety of perks, including: Dress for your day – We know you're more productive when you're comfortable, which is why TTC employees
+are encouraged to take advantage of our casual, corporate environment. Volunteerism – The Toro Company is proud to provide interns 8 hours of paid time to
+volunteer in the community. Competitive Pay – Competitive compensation with an anticipated hourly rate of $20–$24. Actual rates may vary based on factors such
+as academic standing, business function, and other relevant considerations. The Toro Company is an Equal Opportunity Employer. We consider all qualified
+applicants based on merit and do not discriminate on the basis of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation),
+parental status, national origin, age, disability, genetic information, military service, or other non-merit factors. We are committed to creating a welcoming
+environment for all employees. With roots dating back to 1914, The Toro Company was built on a tradition of quality and caring relationships. Today, the company
+is a leading worldwide provider of innovative solutions for the outdoor environment including turf and landscape maintenance, snow and ice management,
+underground utility construction, rental and specialty construction, and irrigation and outdoor lighting solutions. Through a strong network of professional
+distributors, dealers, rental stores and retailers in more than 125 countries, we proudly offer a wide range of products across a family of global brands to
+help golf courses, professional contractors, underground construction professionals, groundskeepers, agricultural growers, rental companies, government and
+educational institutions, and homeowners – in addition to many leading sports venues and historic sites around the world.

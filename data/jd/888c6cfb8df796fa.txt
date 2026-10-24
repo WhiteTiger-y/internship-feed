@@ -1,0 +1,73 @@
+Simbe is looking for a Robot Software Engineer Intern to join the team building the software that powers Tally, our autonomous mobile robot operating in live
+retail environments.
+As an intern, you’ll work alongside our Robot Software Engineering team and contribute to a meaningful project tied to the team’s active priorities. Your
+specific project will be selected by your hiring manager closer to your start date so that your work directly supports what the team is building at that time.
+Depending on current priorities and your background & interests, your work may touch areas such as autonomy and navigation, perception, hardware integration and
+drivers, ROS tooling, or other areas of our software stack.
+Why This Internship Is High Impact
+- Work on real robots. Contribute to the software and systems behind Tally robots operating every day in live retail environments.
+- Learn production robotics. Gain hands-on experience with C++, Python, Linux, ROS/ROS2, testing, debugging, hardware integration, and engineering workflows.
+- Contribute to meaningful work. Your project will align with an active team initiative rather than being isolated “intern work.”
+- Own a defined project. You’ll be given clear goals and an appropriately scoped problem you can meaningfully contribute to during the internship.
+- Learn from experienced roboticists. You’ll work directly with Simbe engineers and have a dedicated mentor separate from your hiring manager.
+- See the full robotics system. Gain exposure to how autonomy, perception, hardware, cloud systems, and field operations come together in a production robot
+fleet.
+Responsibilities
+- Own and contribute to a scoped project aligned with the Robot Software team’s priorities during your internship.
+- Design, implement, test, debug, and document software primarily in C++ and Python.
+- Work within a Linux development environment and use ROS/ROS2 tools and concepts.
+- Contribute to areas such as autonomy, navigation, perception support, hardware drivers, testing/evaluation, or developer infrastructure depending on current
+team needs.
+- Debug software and hardware/software integration issues using logs, telemetry, testing tools, and hands-on investigation.
+- Write maintainable, well-tested code and participate in code reviews.
+- Collaborate with engineers across Robot Software, Hardware, Perception, and other technical teams.
+- Communicate progress, technical decisions, challenges, and results throughout the internship.
+- Present your project, approach, results, and key learnings at the end of the program.
+Required Qualifications
+- Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, or a related technical field.
+- We primarily target undergraduate students in their junior or senior year, as well as students currently pursuing a master’s degree.
+- Strong programming fundamentals in C++ and/or Python.
+- Comfortable working in a Linux environment.
+- Familiarity with ROS or ROS2 and core concepts such as nodes, topics, messages, services, parameters, and launch systems.
+- Basic familiarity with Git or another source-control system.
+- Strong technical problem-solving and debugging skills.
+- Ability to learn quickly and take ownership of an unfamiliar technical problem.
+- Strong communication and collaboration skills.
+Bonus Qualifications
+- Personal robotics, programming, or open-source projects outside of coursework.
+- Previous robotics, software engineering, embedded systems, or related internship experience.
+- Experience with autonomous navigation, localization, SLAM, perception, motion planning, controls, or human-robot interaction.
+- Experience integrating sensors, motors, embedded devices, or other hardware with software.
+- Familiarity with CI/CD, automated testing, Docker, build systems, or developer tooling.
+- Experience participating in robotics clubs, research labs, competitions, or hands-on engineering teams.
+- Experience using AI-assisted coding and automation tools as part of software development, debugging, or engineering workflows, with good judgment around
+validating generated output.
+Internship Program Structure
+Interns join Simbe as part of a structured cohort and work full time from our Burlingame, California headquarters.
+Each intern will have:
+- A defined technical project aligned with current team priorities
+- A hiring manager responsible for project scope, performance, and feedback
+- A dedicated mentor separate from the hiring manager
+- Structured midpoint feedback
+- Regular opportunities to collaborate with and learn from Simbe engineers
+- A final project presentation at the end of the internship
+We do not believe in creating busywork for interns. Your project will be selected closer to your start date based on active team priorities so that you can
+contribute to meaningful work alongside our full-time engineering team.
+About Simbe
+Simbe is building the AI-powered operating system for physical retail. Our autonomous robots and multimodal computer vision platform turn complex, constantly
+changing stores into accurate, actionable intelligence for leading retailers around the world. Simbe combines robotics, computer vision, machine learning, data
+infrastructure, and customer-focused product design to help retailers improve shelf availability, price and promo execution, inventory accuracy, and store team
+productivity.
+Simbe Values: R. E. T. A. I. L.
+Result Driven — We are customer-centric and results-driven. We strive to create immense value for our team, partners, customers, and investors.
+Empathetic — We are sensitive and mindful. We support each other in challenging times, both professionally and personally.
+Transparent — We value open communication internally, and with our partners and customers. We are receptive to feedback.
+Agile — We are eager to learn and adapt quickly to changes and customer needs.
+Innovative — We are bold and innovative, with an intense focus on product design, user experience, and customer value.
+Leaders — We strive for excellence. We are accountable, the best at what we do, and leaders in our field.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.
+This internship is a W-2, non-exempt position that will last up to 12 weeks. Compensation within the posted range may vary based on relevant skills, prior
+experience, academic background, and other objective job-related considerations.

@@ -1,0 +1,72 @@
+Overview
+The Machine Learning & AI (ML&AI) team is a group of applied data scientists within Marketing Data Science who build machine-learning models, run experiments,
+and develop segmentation strategy to power smarter, more personalized marketing. We translate member data into predictive intelligence so our marketing partners
+can target the right members with the right message at the right time.
+Potential Summer Associate Project
+- Build, rebuild, and refine machine-learning models for marketing, Design and setup experiments, including A/B tests, statistical testing, randomized control
+tests (RCTs), Segmentation tests/Creative Testing
+The Summer Associate Program is a 12-week internship program beginning in May 2027 and ending in August 2027. Students will work on impactful projects and
+meaningful work during their internship. To qualify for this position, applicants must be currently pursuing a degree from an accredited college or university
+and have an anticipated graduation date of December 2027 or later.
+Responsibilities
+- Build, rebuild, and refine machine-learning models for marketing use cases (e.g., propensity and likelihood models)
+- Design and setup experiments, including A/B tests, statistical testing, randomized control tests (RCTs), Segmentation tests/Creative Testing
+- Analyze member data to better understand and predict customer needs and behaviors
+- Contribute to marketing segmentation strategy and support ad hoc analyses for current and upcoming campaigns
+- Develop dashboards that enable stakeholders to explore data and self-serve insights
+- Develop and present analytic findings to stakeholders, including senior executives
+- Collaborate with a range of partners to drive progress on cross-functional projects
+- Become acquainted with the functioning of the team
+Qualifications
+- Currently pursuing a Bachelor’s or Master’s degree in Mathematics, Statistics, Data Science, Computer Science, or a related field (AI-focused coursework a
+strong plus)
+- A passion for analytics, machine learning, and data-driven problem solving
+- Working knowledge of machine-learning algorithms, deep learning, and the statistical/mathematical logic behind analytical methods
+- Experience with data extraction/wrangling
+- Experience using analytic tools such as: Databricks, SQL, R, Python, PySpark, Power BI or Tableau
+- Good communication and presentation skills
+- Comfort working with large datasets and telling stories with data
+- Ability to work independently and think outside of the box
+- Strong strategic, critical, and analytical thinking skills
+- Basic knowledge of marketing a plus
+Hours
+Additional Information
+- Monday – Friday, 8:00 AM – 4:30 PM
+Locations:
+- 820 Follin Lane SE, Vienna, VA 22180
+- 5510 Heritage Oaks Dr, Pensacola, FL 32526
+About Us
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce
+appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+Our approach to careers is simple yet powerful: Make our mission your passion.
+- FORTUNE 100 Best Companies to Work For® 2026
+- Yello and WayUp Top 100 Internship Programs 2025
+- Computerworld® Best Places to Work in IT 2026
+- Most Loved Workplace – America’s Top Most Loved Workplaces® 2025
+- 2025 PEOPLE® Companies That Care
+- Newsweek Most Trustworthy Companies in America 2026
+- Military Times 2025 Best for Vets Employers
+- Forbes® 2026 America's Best Large Employers
+- Forbes® 2025 America's Best Employers for New Grads
+- Forbes® 2025 America's Best Employers for Tech Workers
+- 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+- Military.com Top Military Spouse Employers 2025
+- 2026 Handshake Early Talent Award
+- Newsweek America’s Greatest Workplaces for Culture, Belonging and Community 2026
+From Fortune Magazine. © 2026 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 100 Best Companies to Work For are
+registered trademarks of Fortune Media IP Limited and are used under license. Fortune Magazine, Fortune Media (USA) Corporation, and its affiliates are not
+affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national
+origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring
+process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot
+provide any information on job postings or application status.
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete
+for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on
+qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within
+the salary range, based on your experience, location and market position. For additional details regarding compensation and benefits, review the Benefits page
+of the Navy Federal Career Site.
+Protect Yourself from Job Scams: Navy Federal Credit Union jobs are posted on our career site, jobs.navyfederal.org and reputable job boards (e.g., LinkedIn,
+Indeed). We do not post jobs on social media marketplaces, messaging apps or unverified websites. We will never ask candidates for payment, bank details or
+personal financial information during the hiring process.
+Bank Secrecy Act: Remains cognizant of and adheres to Navy Federal policies and procedures, and regulations pertaining to the Bank Secrecy Act.

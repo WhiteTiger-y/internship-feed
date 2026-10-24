@@ -1,0 +1,44 @@
+You’ve invested a lot of time and energy in your education. Now you want the chance to make your mark. We offer challenging opportunities for you to learn and
+grow professionally. In our programs, you’ll be immersed in a culture of continuous improvement, with the goal of changing health care for the better. Position
+Summary: The Innovation & Technology - Data Science Internship is a 10.5-week full-time opportunity that begins on May 24th, 2027, and concludes on August 4th,
+2027. This is a hybrid position based in New York, NY, with three in-office days per week, generally Tuesday, Wednesday, and Thursday. The remaining two days
+may be worked remotely from home or another location of your choice. CVS Health follows a hybrid work model that provides office-based colleagues with
+flexibility between working in the office and remotely based on the work they need to accomplish. Relocation assistance will be provided for candidates who need
+to relocate more than 50 miles. As a CVS Health Corporate intern, you will participate in: Projects that contribute to the success of our business Community
+service activities Professional development workshops Mentorship and networking opportunities Interaction with senior leaders Your Innovation & Technology
+internship experience will also include: Leadership Insight Series, featuring leader spotlights and interactive Q&A sessions Intern Innovation Challenge,
+providing opportunities to collaborate with fellow interns across Innovation & Technology Additional learning experiences focused on topics such as impactful
+presentations and storytelling, emerging technology, and AI tools The hourly rate is $51.60, based on a 40-hour workweek. The internship includes two days of
+paid leave and no work on the July 4 company holiday. Additionally, our corporate interns have an increased likelihood to receive an offer for a future role
+with CVS Health. Sponsorship: Work visa sponsorship is not available for this role. This includes participation in Curricular Practical Training (CPT), Optional
+Practical Training (OPT), and F-1 Visa programs. About this business area: CVS Health's Analytics & Behavior Change (A&BC) team is an innovation engine that
+helps turn data into better decisions, experiences, and outcomes. Leveraging one of the nation's largest and most diverse health care data ecosystems, our teams
+apply advanced analytics, machine learning, behavioral science, and AI to solve complex business and health care challenges. From improving patient outcomes and
+advancing health equity to enhancing digital experiences and driving enterprise value, A&BC's work helps shape the future of health care. Our focus areas
+include: Personalized Consumer Experiences & Behavior Change Digital Health & Omnichannel Journeys Provider Performance & Network Optimization Patient Safety &
+Clinical Insights Enterprise Cost Management & Value Creation Care Management & Health Equity Fraud, Waste, and Abuse Prevention As a Data Science intern,
+you'll apply statistical methods and machine learning to real problems across the business. Working alongside experienced data scientists, engineers, and
+business partners, you'll analyze large datasets, build and evaluate predictive models, design experiments, and translate your findings into actionable
+recommendations. You'll have opportunities to: Analyze structured and unstructured data to uncover patterns and insights Build, test, and evaluate predictive
+and machine learning models Design and analyze experiments to inform business decisions Create visualizations and communicate findings to technical and business
+audiences Contribute to solutions that improve health care quality, affordability, and outcomes Required Qualifications Meet the educational requirements
+outlined in the Education section Knowledge of data science techniques, including statistical analysis, predictive modeling, and machine learning Experience
+using Python or R for data analysis and modeling Experience using SQL to query and analyze data Exposure to experimental design and quantitative methods, such
+as A/B testing and causal analysis Preferred Qualifications Familiarity with machine learning libraries and frameworks, such as scikit-learn, for building and
+evaluating models Experience analyzing large, complex datasets to identify patterns and insights Strong problem-solving and critical-thinking skills applied to
+ambiguous or open-ended analytical questions Experience communicating analytical findings through data visualizations, written summaries, and presentations to
+support decision-making Ability to clearly explain technical concepts and their implications to both technical and non-technical audiences Education Currently
+pursuing a Master's degree with an expected graduation date between December 2027 and June 2028 Preferred fields of study include Statistics, Biostatistics,
+Mathematics, Data Science, Health Data Science, Operations Research, or a related quantitative field. Pay Range The typical pay range for this role is: $51.60 -
+$51.60 Whether in our pharmacies or through our health service offerings, we are pioneering a bold new approach to total health care. As health care innovators,
+we are making quality care affordable, accessible, simple and seamless. We await your fresh ideas, new perspectives, and the unique contributions you will make
+to our organization. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our
+commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical,
+emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time
+off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during
+the application process and on Benefits Moments. This job does not have an application deadline, as CVS Health accepts applications on an ongoing basis.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws. Our Work
+Experience is the combination of everything that's unique about us: our culture, our core values, our company meetings, our commitment to sustainability, our
+recognition programs, but most importantly, it's our people. Our employees are self-disciplined, hard working, curious, trustworthy, humble, and truthful. They
+make choices according to what is best for the team, they live for opportunities to collaborate and make a difference, and they make us the #1 Top Workplace in
+the area.

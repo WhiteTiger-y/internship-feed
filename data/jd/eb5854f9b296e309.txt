@@ -1,0 +1,66 @@
+Envita Solutions, formerly known as Heritage Interactive Services, is a leading total waste management partner. The company is dedicated to fostering a
+healthier planet by transforming complex waste challenges into sustainable solutions. Headquartered in Indianapolis, Indiana, Envita Solutions operates in the
+U.S., Mexico, and Canada, has over 300 employees, and a network of over 3,000 supplier partners. A division of The Heritage Group, Envita Solutions is part of a
+portfolio of more than 30 companies specializing in heavy construction and materials, environmental services, and specialty chemicals. With unique access to
+research and development and a leading hard tech corporate venture capital portfolio, Envita Solutions is at the forefront of waste and climate challenge
+innovation.
+At Envita, our guiding principles are the foundation of our company. Our vision is to foster a healthier planet by transforming complex waste challenges into
+sustainable solutions. We exist to protect human health and the environment and build a safer, more sustainable world. We believe in creating enduring value,
+building long-term relationships and mutual trust, betting on our people, keeping our eyes open for opportunity, tackling the big problems, and doing the right
+thing-always.
+We are seeking a Software Engineering Intern to join Envita's Digital Innovation team for the summer. Our team builds and operates AI-powered applications for
+document processing, knowledge retrieval, and workflow automation that support Envita's operations and sustainability mission. This role is software engineering
+first: the intern will strengthen the foundations those applications depend on, including data quality, logging and observability, integrations, and test
+coverage, while gaining hands-on exposure to how LLM- and agent-based systems are built and run in production. This is a great fit for a student who enjoys
+making systems more reliable, readable, and maintainable and wants to understand how modern AI applications work under the hood.
+Essential Functions
+- Ensures Health & Safety is the number one goal by following policies, processes, and always acting in a safe manner.
+- Data Quality & Cleanup: Profile, clean, deduplicate, and normalize the structured and unstructured datasets that feed our AI applications; write repeatable
+scripts and validation checks so improvements persist.
+- Logging & Observability: Improve logging, error handling, and monitoring across Python and C# services and data pipelines so issues are easier to diagnose and
+system behavior is measurable.
+- Integration Development: Build and harden integrations using REST APIs, webhooks, and scripting to connect internal systems, data sources, and AI services.
+- Code Quality & Technical Debt: Refactor existing code, add automated tests, improve documentation, and work through backlog items that keep our AI systems
+maintainable.
+- AI Application Support: Contribute to LLM-based features such as structured data extraction from documents, retrieval (RAG / vector search), and agent
+workflows, including building evaluation and test harnesses for them.
+- Prototyping: Deliver small, well-scoped proof-of-concept tools or automations that demonstrate measurable value.
+- Cross-Team Collaboration: Partner with technology and business teams to understand how data and systems are used and where improvements will have the most
+impact.
+- Engineering Practices: Work within the team's standard development workflow, including version control (Git/GitHub), code review, issue tracking, and CI, and
+communicate progress clearly.
+- Additional duties and responsibilities as assigned, including but not limited to continuously growing in alignment with the Company’s core values,
+competencies, and skills.
+- Additional duties and responsibilities as assigned, including but not limited to continuously growing in alignment with the Company’s core values,
+competencies, and skills.
+Education Qualifications
+- Required High School or Equivalent
+- Preferred Bachelor's Degree and open to college sophomore, junior, senior, recent grad, or 1st or 2nd master’s student majoring in Computer Science, Software
+Engineering, AI/ML, Statistics/Mathematics, or a related field in progress.
+Experience Qualifications
+- Academic, internship, or project-based experience writing Python for real applications (scripts, services, data pipelines, or tools) beyond coursework
+exercises.
+- Experience consuming or building REST APIs and/or webhook-based integrations.
+- Familiarity with Git-based workflows (branching, pull requests, code review) through coursework, internships, or personal/open-source projects.
+- Exposure to LLM tooling preferred: prompt engineering, LLM APIs, agent frameworks (e.g., LangGraph, Claude Code, or similar), or RAG / vector search /
+embeddings.
+- Coursework or project experience in machine learning, databases, or data engineering is a plus.
+Skills And Abilities
+- Proficiency in Python, including writing clean, testable, well-structured code.
+- Working knowledge of SQL and comfort working with messy, real-world data.
+- Understanding of software engineering fundamentals: testing, debugging, logging, error handling, and version control.
+- Foundational understanding of how LLM-based applications are built (prompting, retrieval, structured output, tool and agent orchestration) and interest in
+going deeper.
+- Familiarity with cloud platforms (Azure preferred) and containerized deployments is a plus.
+- Strong problem-solving skills and the persistence to work carefully through ambiguous, detail-heavy problems.
+- Effective communicator, able to document work and explain technical decisions to technical and non-technical audiences.
+Working Conditions/Physical Demands
+- Must be able to make in office commute.
+Internships at The Heritage Group
+The Heritage Group Internship Program provides hands-on, paid experiences in a corporate function or within one of our many operating companies. Interns can
+expect to network with other students and professionals, gain useful skills, receive mentoring, and make their own contributions to the organization.
+Additionally, interns can participate in our weekly hosted events focused on professional development, team building, and community service.
+Intern pay is non-negotiable and is calculated based on current academic class standing $18/hour (Freshman) - $21/hour (Senior), etc.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, disability, or status as a protected veteran.
+#EnvitaSolutions

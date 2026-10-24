@@ -1,0 +1,73 @@
+Job Location
+WHBC - WINTON HILL BUS CENTER
+Job Description
+Research and Development (R&D) at Procter & Gamble, the largest consumer packaged goods company in the world, includes a diverse group of roles that contribute
+to the innovation and development of our products. It encompasses roles in product research, formulation, testing, and scientific analysis. You will find
+variety and excitement starting Day 1.
+This internship is specifically designed for individuals working towards a PhD who are developing proficiency in their field. As an intern or co-op in
+management, you will have the opportunity to learn from experienced professionals in a supportive environment. This is a 12-week paid internship, designed to
+provide you with a solid foundation for future career growth. The internship will take place from May (potentially early June) to August of 2027. Join us at
+P&G, where your contributions will play a vital role in shaping the future of consumer products!
+The Opportunity:
+P&G has an opportunity for a PhD intern to work in our Feminine Care business working in the space of Data Scientist & Gen AI. This role leverages current Gen
+AI technology, multi-discipline knowledge and R&D product innovation cycle, especially by leveraging data and digital approaches. The candidate will create Gen
+AI tool as co-pilot to guide and influence technical project direction and enable fast problem solving by leveraging collective knowledge in our data & modeling
+eco-system. The candidate should demonstrate strong scientific/engineering skills through advance model development and application development.
+You will investigate how active learning and sequential experimentation can accelerate learning in R&D. Using historical consumer study and simulation datasets,
+the project will evaluate whether uncertainty estimates can identify the most informative next study, measurement, or simulation to perform. Rather than
+exploring the design space uniformly, the goal is to prioritize experiments that are expected to provide the greatest reduction in uncertainty and the highest
+learning value. This work will treat consumer studies and first-principles simulations as two applications of the same underlying problem: how to allocate
+experimentation resources more efficiently.
+The Ideal Candidate:
+- Experience with entrepreneurial/startups and/or industrial experience are strongly preferred.
+- Has strong ownership & self-leadership skills to understand the business objective and technical problem to be solved.
+- Has experience collaborating with multi-functional teams.
+- Has the ability to recognize opportunities for capabilities or technologies that can be reapplied across programs.
+- Can independently work project priorities, multi-task, and handle a wide variety of complex, non-routine/routine tasks in a fast-paced environment.
+Key Responsibilities:
+- Using historical consumer study and simulation datasets to evaluate uncertainty
+- Identify next study, simulation, and measurement based on reduction of uncertainty
+- Optimize experimental resources
+- Create a prototype work process to demonstrate success
+Job Qualifications
+Required Qualifications:
+- Education: Working towards a PhD in Computer Science, Machine Learning, Statistics, Mechanical Engineering, Computational Physics, Computational Engineering,
+Applied Mathematics, or Data Science.
+- Active learning / sequential experimental design — central to recommending the next most informative consumer study or simulation.
+- Probabilistic machine learning / Bayesian statistics — needed to represent prediction uncertainty and update confidence as evidence arrives.
+- Surrogate modeling — needed for both consumer-response prediction and simulation-response approximation.
+- Python — required for model development, simulation, and analysis; PyTorch, scikit-learn, BoTorch, GPyTorch, or similar tools would be useful.
+- Experimental design and model evaluation — needed to compare active learning policies against baselines and define success metrics.
+- Available to work a 12-week internship from May/early June to August in the summer of 2027, and at least 3 days/week onsite at Winton Hill Business Center.
+Preferred Qualifications/Experience:
+- Bayesian optimization
+- Multi-armed bandits or reinforcement learning
+- Uncertainty quantification
+- Gaussian processes, evidential models, Bayesian neural networks, or ensembles
+- Scientific computing
+- CFD / FEA familiarity, if using first-principles simulation examples
+- Generative AI / AI-agent prototyping, but only as a communication layer, not the core research contribution
+Just so you know:
+At P&G, we believe that diverse experiences help build strong leaders. Mobility is a key component of many management careers, providing opportunities to grow
+through different assignments, locations, and business challenges. Candidates should be prepared to consider relocation opportunities throughout their career as
+business needs and development opportunities arise.
+Compensation for roles at P&G varies depending on a wide array of non-discriminatory factors including but not limited to the specific office location, role,
+degree/credentials, relevant skill set, and level of relevant experience. At P&G compensation decisions are dependent on the facts and circumstances of each
+case. Total rewards at P&G include salary + bonus (if applicable) + benefits. Your recruiter may be able to share more about our total rewards offerings and the
+specific salary range for the relevant location(s) during the hiring process.
+We are committed to providing equal opportunities in employment. We value diversity and do not discriminate on the basis of race, religion, color, national
+origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Immigration Sponsorship is not available for this role. For more information regarding who is eligible for hire at P&G along with other work authorization
+FAQ’s, please click HERE.
+Procter & Gamble participates in E-Verify.
+Qualified individuals will not be disadvantaged based on being unemployed.
+P&G is dedicated to meeting the needs of applicants requesting an accommodation/adjustment due to a disability in order to complete the online application
+process. If you have a disability that affects your ability to complete our online application process, please visit our Disability Accommodation Page.
+Job Schedule
+Full time
+Job Number
+R000158406
+Job Segmentation
+Internships
+Starting Pay / Salary Range
+$60.57 - $60.57 / hour

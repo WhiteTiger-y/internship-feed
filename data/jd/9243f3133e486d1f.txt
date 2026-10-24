@@ -1,0 +1,88 @@
+Company Overview
+Amperesand is reinventing how the world powers its most critical systems.
+We are facing a once-in-a-generation opportunity for infrastructure disruption. Electricity demand is skyrocketing, driven by AI factories, electric vehicles,
+and modern industrial growth. Energy supply is shifting to incorporate a more diverse mix of resources – including solar, gas, and batteries – at a massive
+scale.
+And yet the power infrastructure behind our latest mega-projects hasn’t meaningfully changed in nearly 100 years. Supply chains for today’s infrastructure
+equipment can’t match the pace and sophistication of critical energy projects. Amperesand is building hardware and software that rewrites this broken power
+infrastructure playbook to support a new era of energy abundance.
+We’ve built a new class of intelligent, software-defined power infrastructure products leveraging a decade of advanced medium voltage Solid State Transformer
+research that’s now ready for commercial deployment.
+Our products and solutions go far beyond the capabilities of traditional electrical equipment. We make power systems that are faster to deploy, dramatically
+smaller and more efficient, and capable of supporting modern, dynamic energy needs for tomorrow’s most demanding energy consumers.
+Scalable in-house advanced manufacturing capability is our foundation for meeting timeline and quality expectation to serve infrastructure customers around the
+world.
+Amperesand is led by breakthrough energy hardware development veterans and funded by top tier investors who share our vision of building a category-defining
+energy technology company.
+With hubs in San Francisco, Reno, and Singapore, our global team is laser focused on building foundational technology to solve the most pressing problems in
+power infrastructure at scale.
+Join us in building the power foundation of the future!
+About Amperesand
+Amperesand is building next-generation power infrastructure systems for Data Centers, EV charging platforms, and future energy applications. Our systems combine
+advanced power electronics, embedded controls, and scalable energy architectures to rethink how power is converted, controlled, and deployed.
+About The Role
+This internship is an opportunity to work hands-on with a startup engineering team that builds and experiments with the latest advancements in AI and Machine
+Learning. You will contribute to multiple teams, architecting and implementing AI/ML solutions to help improve reliability, and accelerate the development
+process
+You will work closely with engineers, product owners, and internal and external stakeholders who rely on our AI enabled solutions every day. This is a fast-
+paced, goal-oriented environment where you'll be expected to take ownership of real, production-facing work.
+What You’ll Do
+- Design and develop AI/ML solutions that accelerate product development and engineering workflows.
+- Build AI frameworks, agentic workflows, and knowledge assistants that help teams access and utilize engineering data.
+- Fine-tune, evaluate, and optimize Large Language Models (LLMs) for domain-specific engineering use cases.
+- Develop Retrieval-Augmented Generation (RAG) applications using engineering documentation, test data, and design knowledge.
+- Train and deploy machine learning models to support Mechanical Design Engineering and related teams.
+- Partner with Mechanical, Electrical, Manufacturing, and Software Engineers to solve high-impact business and engineering problems.
+- Build data pipelines, model evaluation frameworks, and AI experimentation workflows.
+- Document solutions and contribute production-quality code in a fast-paced startup environment.
+- Bring a customer-oriented, team-first mindset to a fast-paced startup environment.
+What You’ll Bring
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related field.
+- Strong programming skills in Python, Go, Rust, and TypeScript.
+- Experience with machine learning frameworks such as PyTorch, TensorFlow, Scikit-Learn, or similar.
+- Familiarity with LLMs, prompt engineering, Evals, and AI agents.
+- Understanding of machine learning fundamentals, model evaluation, and data processing.
+- Experience with Git and collaborative software development practices.
+- Strong communication, problem-solving, and teamwork skills.
+- Self-motivated, team-oriented, and comfortable working in a fast-paced, ambiguous startup environment.
+- Available to work on-site.
+Nice to Have
+- Experience fine-tuning or evaluating open-source LLMs.
+- Experience with LangChain, LlamaIndex, Hugging Face, vector databases, or agentic frameworks.
+- Exposure to MLOps, cloud platforms (AWS, Azure, or GCP), or model deployment.
+- Experience applying AI/ML to engineering, manufacturing, hardware, or industrial systems.
+- Familiarity with CAD, PLM, simulation tools, or engineering workflows.
+- Interest in energy systems, power electronics, AI infrastructure, or industrial automation.
+- Research, open-source contributions, hackathons, or personal AI/ML projects.
+Working Model
+Employment Type
+- Full-time
+Location:
+Sunnyvale
+Work Model
+- Onsite
+Please note: This role requires working on-site 5 days a week. We do not offer hybrid or remote options.
+While this role is listed for the location above, we may consider candidates in other locations on a case-by-case basis.
+Onsite Collaboration Rationale
+Given the highly collaborative and cross-functional nature of hardware, embedded systems, and product development, in-person partnership across engineering and
+product teams is critical to enabling rapid execution, technical alignment, and successful development outcomes.
+Why Join Amperesand
+- Work on next-generation power infrastructure systems
+- High ownership and visibility
+- Cross-functional collaboration
+- Opportunity to shape future products and infrastructure
+- Fast-moving startup environment
+Pay Disclosure & Benefits
+Compensation will be determined based on experience, location, and other factors permitted by law.
+The benefits outlined below apply exclusively to employees located in the United States:
+- Competitive Salary + Incentive Stock Options
+- Medical, vision, and dental benefits for employees and their dependents, effective from the start of hire
+- Company paid Basic Life, AD&D, short-term and long-term disability insurance
+- 401k retirement savings plan through Empower
+- Employees receive paid time off (PTO), paid sick days, and paid company holidays
+- Commuter Benefits
+- 100% paid maternal leave (12 weeks) and paternal leave (6 weeks)
+The benefits outlined below apply to employees located in Singapore:
+- Competitive Salary + Incentive Stock Options
+- Group medical, hospitalisation and surgical insurance, outpatient or GP coverage, group term life, dental and personal accident insurance
+- Employer and employee Central Provident Fund contributions in accordance with the CPF Act (for Singapore Citiz

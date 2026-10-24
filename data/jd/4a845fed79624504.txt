@@ -1,0 +1,45 @@
+At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in animal health, we are dedicated to innovation and delivering products and services to
+prevent and treat disease in farm animals and pets. At Elanco, we are driven by our vision of Food and Companionship Enriching Life and our purpose – all to Go
+Beyond for Animals, Customers, Society and Our People. At Elanco, we pride ourselves on fostering a diverse and inclusive work environment. We believe that
+diversity is the driving force behind innovation, creativity, and overall business success. Here, you’ll be part of a company that values and champions new ways
+of thinking, work with dynamic individuals, and acquire new skills and experiences that will propel your career to new heights. Making animals’ lives better
+makes life better – join our team today! Your Role: US Pet Health Sales Excellence Intern - AI Innovation & Enablement As the US Pet Health Sales Excellence
+Intern - AI Innovation & Enablement, you will serve as the team’s resident AI specialist embedded within the US Pet Health Sales Excellence and Training team.
+In this role, you’ll be responsible for evaluating and maximizing AI capabilities across existing and prospective learning platforms, engineering high-impact AI
+role-play simulations that deliver precise sales coaching, and identifying emerging AI/GenAI tools and automation workflows to dramatically increase overall
+team efficiency. This position will work closely with sales and marketing teams to create tailored, AI selling scenarios that drive skill development and
+elevated sales performance. Your Responsibilities: Audit & Roadmap AI Capabilities: Conduct comprehensive technical and functional audits of current learning
+systems and future platforms to identify gaps and build a roadmap for maximizing AI-driven learning and sales enablement. Engineer & Calibrate AI Role-Plays:
+Design, test, and optimize conversational AI role-play simulations (including advanced prompt engineering, custom personas, and evaluation rubrics) to deliver
+accurate, realistic, and constructive feedback to sales reps. Identify Team Efficiency & Automation Opportunities: Champion the adoption of Generative AI tools
+and automated workflows across the Sales Excellence team to streamline content creation, reporting, and operational processes. Monitor Quality & Feedback
+Precision: Implement quality assurance protocols to ensure AI feedback mechanisms are aligned with sales competencies, free of hallucinations/bias, and
+generating measurable commercial capability gains. Deliver Strategic Recommendations: Benchmark emerging AI technologies and deliver executive-ready
+presentations and proof-of-concept demonstrations to Sales Excellence leadership. What You Need to Succeed (minimum qualifications): Education: Currently
+enrolled in an undergraduate or graduate program in Artificial Intelligence, Business (Marketing, Communications, Management, etc.) or related technical field
+(or equivalent practical AI project experience). Experience: Significant hands-on experience building, fine-tuning, or deploying AI/GenAI solutions (e.g.,
+prompt engineering, LLM application development, conversational agents, workflow automations, or AI-driven analytics projects). Top 2 Skills: Deep practical
+proficiency with Generative AI / Large Language Models (LLMs) and strong consultative skills to translate complex technical AI capabilities into practical,
+efficiency-driving business solutions. Solid foundation in business principals and the selling process. What will give you a competitive edge (preferred
+qualifications): Prior experience with AI role-play simulation engines, speech-to-text/NLP tools, or sales enablement/LXP/LMS platforms. Experience with prompt
+chaining, system instructions, retrieval-augmented generation (RAG), or automation tools (e.g., Power Automate, Python scripting, API integrations). Familiarity
+with enterprise AI governance, model evaluation frameworks, and rubric-based output grading. Understanding of consultative sales methodologies, adult learning
+principles, or the healthcare/animal health industry. Additional Information: Travel: Less than 5% Location: Global Elanco Headquarters - Indianapolis, IN
+Elanco’s Internship Program Our internship program is designed to give students meaningful, hands-on experience as they kickstart their careers. Internships are
+project-based and focused on business-critical needs, giving every intern the opportunity to make a meaningful impact on Elanco’s success over the summer. At
+the heart of the experience is our belief that making life better for animals makes life better. Internship Dates: May 17th – August 6th, 2027 Competitive
+Salary: $20-$40/hour (dependent upon major and year in school) Professional Development: Networking events, assigned mentors, and learning resources are
+provided. Housing: Financial support and help securing housing is available Future opportunities: High-performing interns may be considered for full-time roles
+or additional internships, based on business needs. Don’t meet every single requirement? Studies have shown underrecognized groups are less likely to apply to
+jobs unless they meet every single qualification. At Elanco we are dedicated to building a diverse and inclusive work environment. If you think you might be a
+good fit for a role but don't necessarily meet every requirement, we encourage you to apply. You may be the right candidate for this role or other roles! Elanco
+is an EEO/Affirmative Action Employer and does not discriminate on the basis of age, race, color, religion, gender, sexual orientation, gender identity, gender
+expression, national origin, protected veteran status, disability or any other legally protected status. Elanco is an EEO/Affirmative Action Employer and does
+not discriminate on the basis of age, race, color, religion, gender, sexual orientation, gender identity, gender expression, national origin, protected veteran
+status, disability or any other legally protected status Elanco may use automated tools, including AI, to support parts of our recruitment process, such as
+reviewing applications against job‑related criteria and/or transferrable skills. These tools help ensure a consistent, structured evaluation, but they do not
+make hiring decisions. All decisions involve a human reviewer. For more information on how we handle personal data, please see our Elanco Workforce Privacy
+Notice. Elanco Animal Health Incorporated (NYSE: ELAN) is a global leader in animal health dedicated to innovating and delivering products and services to
+prevent and treat disease in farm animals and pets, creating value for farmers, pet owners, veterinarians, stakeholders, and society as a whole. With nearly 70
+years of animal health heritage, we are committed to helping our customers improve the health of animals in their care, while also making a meaningful impact on
+our local and global communities. At Elanco, we are driven by our v

@@ -1,0 +1,62 @@
+About Trace
+Trace is building the data, infrastructure, and research that enable robots to learn from the real world. General-purpose robotics requires a deeper
+understanding of how robots learn from real-world data. Our research explores how to transform human experiences, including egocentric video, demonstrations,
+hand-object interactions, and multimodal sensory signals, into transferable representations, actionable knowledge, and generalizable robot behaviors. At our
+Brooklyn research lab, we combine fundamental research in robot learning, computer vision, and embodied AI with large-scale datasets, machine learning
+infrastructure, and real-world robotic experimentation. Our goal is to advance the science of robot learning while developing the datasets and learning
+foundations for increasingly capable, adaptable, and reliable robots.
+About The Role
+We are looking for highly motivated Research Interns to join our research team and work on challenging, high-impact problems at the intersection of robot
+learning, embodied AI, and learning from human experience. This internship is designed for PhD students and exceptional Master's students who are passionate
+about advancing the state of the art in robotics and machine learning.
+As a Research Intern, you will take ownership of a focused research project, working closely with our scientists and engineers to formulate research questions,
+develop novel methods, design rigorous experiments, and evaluate results using real-world datasets, simulation, and/or robotic platforms. We encourage
+ambitious, scientifically grounded research with the potential to contribute to top-tier robotics, machine learning, and computer vision conferences. You will
+have opportunities to pursue original research, collaborate with an interdisciplinary team, and help shape Trace's long-term research directions.
+Research areas
+Research projects may span one or more of the following areas, but are not limited to:
+- Learning from Human Experience and Egocentric Data
+- Human-to-Robot and Cross-Embodiment Transfer
+- Foundation Models for Robot Learning
+- Visual-Tactile and Multimodal Robot Learning
+- Data-Centric Robot Learning and Scaling
+- Dexterous Manipulation and Generalizable Robot Skills
+- Robustness, Generalization, and Reliable Robot Learning
+We particularly welcome candidates who bring novel perspectives, strong methodological expertise, or creative research ideas that complement these directions.
+What you'll do
+- Lead an original research project from problem formulation and hypothesis development through method design, implementation, experimentation, and evaluation,
+with guidance and collaboration from Trace's research team.
+- Develop and evaluate novel robot learning methods, including learning algorithms, representations, models, or training strategies that leverage human
+demonstrations, multimodal datasets, and robotic interaction data.
+- Design rigorous experiments and benchmarks to investigate fundamental questions about data quality, human-to-robot transfer, policy learning, generalization,
+and real-world robotic performance.
+- Work with diverse data modalities, potentially including egocentric video, human hand and body motion, teleoperation demonstrations, visual-tactile signals,
+force measurements, and robot trajectories.
+- Collaborate with research scientists and engineers to build reproducible experimental pipelines, train and evaluate models, and validate research findings in
+simulation and/or on real robotic platforms.
+- Analyze experimental results and failure modes, draw actionable scientific insights, and communicate findings through technical discussions, presentations,
+and written reports.
+- Contribute to high-quality research publications and open research artifacts, with opportunities to submit work to leading robotics and machine learning
+venues.
+What we're looking for
+- Currently pursuing a PhD or Master's degree in Robotics, Machine Learning, Computer Science, Computer Engineering, Electrical Engineering, Mechanical
+Engineering, or a closely related field.
+- Strong research background in at least one relevant area, such as robot learning, imitation learning, reinforcement learning, computer vision, embodied AI,
+foundation models, dexterous manipulation, multimodal learning, or learning from human demonstrations.
+- Demonstrated research excellence and potential, evidenced by high-quality publications, impactful research projects, open-source contributions, or other
+substantial research accomplishments. Publications at leading venues such as RSS, CoRL, ICRA, IROS, T-RO, IJRR, NeurIPS, ICML, ICLR, or CVPR are highly valued.
+First-author or co-first-author publications are a strong plus.
+- Excellent programming skills in Python and hands-on experience with modern deep learning frameworks such as PyTorch or JAX. Experience with C++ and parallel
+programming, such as CUDA, is a plus.
+- Strong communication, collaboration, and problem-solving skills, with the ability to work effectively in a fast-paced, interdisciplinary research environment.
+Nice to have
+- Experience with real-world robot learning experiments, robotic manipulation platforms, or deployment of learned policies on physical robots.
+- Experience with egocentric video, human demonstrations, hand tracking, pose estimation, motion retargeting, or cross-embodiment learning.
+- Experience with vision-language-action models, diffusion-based policies, imitation learning, reinforcement learning, or world models.
+- Experience with tactile sensing, force estimation, multimodal sensor fusion, or contact-rich manipulation.
+- Experience with robotics simulation environments and tools such as MuJoCo, Isaac Sim, or related frameworks.
+- Previous research experience in an industrial research lab or a collaborative, interdisciplinary research environment.
+How to apply
+Please submit your CV/resume, along with links to your Google Scholar profile, personal website, GitHub, or other relevant research portfolio, if available.
+Internship start dates are flexible. Academic credit may be available if required by your degree program, subject to institutional requirements.
+Trace is an equal opportunity employer.

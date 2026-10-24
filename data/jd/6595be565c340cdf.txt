@@ -1,0 +1,41 @@
+Robotics & Software Engineering Intern
+What are we trying to solve?
+Openshelf is building an open-source system to automate physical inventory, combining hardware and software to handle storage, retrieval, and real-time
+tracking.
+- The problem: Managing physical inventory is messy. Manual processes are slow, error-prone, and don’t scale. It’s hard to know what you have, where it is, or
+how much space it’s taking up.
+- What we’re doing: We build compact automated storage and retrieval systems that capture weight, dimensions, and location data every time something moves.
+We’re now adding robotic automation on top: cherry-picking, tube decapping, and liquid handling, so labs can store, open, sample, and return samples without
+manual handling. Everything is open so others can adapt, improve, and deploy it, not just warehouses with big budgets.
+Our stack runs Python on the backend (FastAPI, hardware orchestration, event-driven robot control) and a SvelteKit frontend, all containerized with Docker and
+deployed on Raspberry Pi–based hardware. Mechanical design happens in Onshape.
+What you’ll be doing
+- Writing and debugging Python that controls real hardware: motors, motion axes, grippers, scales, barcode scanners, and sensors, over serial, Modbus, and GPIO.
+- Helping bring up and test new robotic modules, from first motion to reliable operation.
+- Supporting mechanical prototyping and testing: CAD changes in Onshape, 3D-printed fixtures, and tracking parts on the BOM.
+- Building internal tools and dashboards to monitor, configure, and debug devices in our lab and in the field.
+- Using AI coding agents (Claude Code, Codex, or similar) daily to move faster. We do, and we expect you to.
+- Joining code review, design discussions (API structure, data modeling, error handling, state management), and deployments to real devices.
+- Owning small projects end to end under the guidance of senior engineers, whether that’s a new sensor integration, a reliability fix, or a test rig.
+Who you are
+- You’re excited about software that moves things in the physical world.
+- You’re resourceful and high-agency. When you hit something you don’t know, you dig in and figure it out.
+- You’re comfortable with ambiguity and problems where the requirements aren’t settled yet.
+- You communicate clearly, ask questions when you’re stuck, and treat feedback as a way to get better.
+- You want to work in person on a small team where your work ships into the product.
+Requirements
+- Solid Python: readable, well-structured code, with an understanding of async, I/O, error handling, and testing.
+- Good engineering habits: git, debugging, reading documentation, breaking down vague tasks.
+- Willingness to get hands-on with hardware: motors that don’t move, sensors that return garbage, serial ports that disappear.
+- Interest in or experience with AI-assisted development.
+- Able to work on-site in Midtown Manhattan full-time.
+Nice to have
+- Robotics, motion control, or embedded experience (FIRST/FRC, club teams, personal projects all count).
+- CAD experience (Onshape preferred) or prototyping with 3D printers, laser cutters, or machine shop tools.
+- FastAPI, Docker, Linux, or Raspberry Pi experience.
+- Exposure to lab automation or industrial automation.
+Practical details
+- Schedule: Full-time, hourly, in person at our Midtown Manhattan office.
+- Start date: ASAP
+- Compensation: $22/hour
+- You’ll work directly with senior engineers who review your code and help you grow.

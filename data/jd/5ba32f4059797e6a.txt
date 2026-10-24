@@ -1,0 +1,73 @@
+Job Details
+Job Description:
+About The Job
+Intel is seeking exceptional Computer Science, Electrical Engineering, Computer Engineering, and AI/ML students to join an AI Hardware Engineering internship
+focused on the future of AI inference and AI infrastructure with hardware/software co-design expertise.
+This internship approaches AI infrastructure as a hardware/software co-design challenge. The intern will analyze how model architecture, inference behavior,
+memory movement, data-center constraints, and software stacks influence end-to-end customer outcomes, including throughput, latency, time-to-first-token, tokens
+per second, power consumption, utilization, total cost of ownership, and deployability.
+The successful candidate will be technically hands-on, capable of independent research and analysis, and comfortable working within a highly technical team of
+researchers and engineers addressing complex AI hardware and infrastructure challenges.
+What You Will Do
+- Conduct technical research on the next generation of AI infrastructure, including CPUs, GPUs, AI accelerators, ASICs, memory systems, networking, storage,
+rack-scale architecture, power delivery, cooling, and cluster management.
+- Analyze GenAI and agentic AI workloads to understand their hardware implications, including transformer architecture based inference, mixture-of-experts
+architectures, multimodal models, real-time interactive inference, and distributed serving.
+- Evaluate the hardware behavior of AI inference pipelines, including the distinct demands of prompt processing/prefill and token generation/decode, memory
+capacity, memory bandwidth, KV-cache management, compute utilization, interconnect bandwidth, and latency. For example, cluster architecture around optimizing
+both prefill and decode through hardware, memory, and system co-design.
+- Identify product and system gaps that may limit Intel's ability to serve AI customers effectively, including hardware capabilities, developer tooling,
+performance libraries, reference architectures, deployment models, observability, and ecosystem enablement.
+- Expertise in modern high-performance CPU, GPU, or AI accelerator architecture and hardware/software interactions.
+- Support Silicon HW programs through multiple phases of the silicon lifecycle, with end-to-end chip execution from concept to silicon.
+- Good understanding with firmware codebases, compilers, kernels, serving stacks and model architectures.
+- Familiar with driving silicon design for subsystems and/or top-level functions with ASICs and SOCs from an architecture specification to production silicon
+including memory subsystems and interconnects: scale up, scale out, scale across, power management , liquid cooling at rack scale level, deep system level
+observability & telemetry and dependent impact into Gen AI and LLM level performance/tco/execution KPIs
+- Develop technical recommendations for what Intel should build, optimize, enable, partner on to meet AI customer requirements based on deep understanding of
+customer use cases, workload performance, and ML systems research.
+- Benchmark and compare relevant AI hardware and infrastructure approaches across performance, power efficiency, cost, programmability, memory hierarchy,
+scalability, ecosystem maturity, and workload fit.
+- Develop technical models, simulations, prototypes, or analysis tools to evaluate hardware/software trade offs for AI workloads.
+- Investigate system bottlenecks across compute, memory, networking, storage, and software orchestration, and propose methods to improve end-to-end AI workload
+performance.
+- Work with Intel technical teams and external ISVs to collect data on model requirements, inference bottlenecks, deployment challenges, hardware optimization
+opportunities, and customer priorities.
+- Engage with AI software ecosystem partners, including model providers, inference-engine developers, cloud providers, framework teams, and ISVs, to understand
+how their stacks interact with underlying hardware.
+- Good understanding of modern AI software layers, including PyTorch, Hugging Face Transformers, vLLM, SGLang, model serving, TensorRT-LLM, Triton, Kubernetes,
+and Neocloud design efficiencies.
+- Present findings through architecture diagrams, benchmark analyses, technical reports, design recommendations, and executive-ready presentations.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a PhD in Computer Science, Computer Engineering, Electrical Engineering, AI/ML, Systems Engineering, or a related technical discipline.
+- Strong foundation in computer architecture, operating systems, distributed systems, parallel computing, AI/ML systems, high-performance computing, or systems
+software.
+- Familiarity with generative AI models and inference concepts, including transformers, attention, token generation, model serving, quantization, batching, KV
+cache, long-context workloads, and latency-throughput trade-offs.
+- Experience programming in one or more of the languages - C, C++, Rust, CUDA, SYCL, OpenCL, or a comparable low-level or performance-oriented language.
+- Strong academic performance with a cumulative GPA of 3.0 or higher required.
+Preferred Qualifications
+- Coursework, research, or project experience in computer architecture, VLSI, digital design, ASIC/FPGA systems, compilers, kernel development, GPU programming,
+distributed systems, high-performance computing, or AI systems.
+- Experience using profiling, tracing, or benchmarking tools to evaluate CPU, GPU, accelerator, network, memory, storage, or software performance.
+- Familiarity with AI hardware platforms such as Intel Xeon processors, Intel GPUs, NVIDIA GPUs, AMD GPUs, TPUs, custom AI accelerators, FPGAs, or domain-
+specific inference ASICs.
+- Understanding of memory hierarchies and performance concepts, including cache behavior, DRAM, HBM, memory bandwidth, memory capacity, latency, data locality,
+DMA, and data movement.
+- Experience with inference frameworks or runtimes such as vLLM, SGLang, Hugging Face Transformers, PyTorch, Triton, or Ray.
+- Familiarity with AI systems infrastructure such as Linux, containers, Kubernetes, distributed storage, RDMA over Ethernet, InfiniBand, CXL, PCIe, NVMe,
+UALink/eSUN based interconnects, silicon photonics and cluster-management software.
+- Some experience with simulation, modeling, emulation, RTL, FPGA prototyping, firmware, driver development, or low-level debugging.
+- Some experience contributing to open-source systems, ML infrastructure, compiler, kernel, framework, or performance-engineering projects.
+Job Type
+Student / Intern
+Shift
+Shift 1 (United States of America)
+Primary Location:
+US, California, Santa Clara
+Additional Locations:
+US, California, Folsom
+Posting Statement
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military 

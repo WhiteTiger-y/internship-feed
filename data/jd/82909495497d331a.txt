@@ -1,0 +1,53 @@
+community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play
+happen.
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a
+community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play
+happen.
+The Enterprise Intelligence (EI) team is involved in every aspect of data at EA, using it to deliver valuable insights and solutions for game teams and players.
+We drive strategy, build data and AI tools, and support personalization, experimentation, and analytics. Join D&I to work with experts dedicated to improving
+understanding, workflows, and player experiences.
+The Role
+As an Analytics Intern on The Sims, you will work with massive volumes of player behavioural data to deliver insights to inform game development. You’ll join a
+group of experienced analysts as a member of the embedded-and-dedicated analytics team and work closely with a large but tight-knit studio of enthusiastic
+industry craftspeople from all walks of life.
+This is a hybrid role based in Vancouver. You will report into an Advanced Analyst.
+Key Responsibilities
+Build dashboards and insight reports to help partners make better, faster decisions
+Propose and analyze experiments and causal studies to drive business performance
+Generate gameplay and player behaviour insights, embedding data in daily decision-making
+Present findings to both technical and non-technical audiences
+Explore and apply generative AI tools to increase the efficiency of your own work and support scalable insights
+Qualifications
+Pursuing an undergraduate degree in Statistics, Economics, Physics or a related field
+Experience with SQL (able to write aggregations, joins, window functions)
+Experience with at least one programming language for data analysis (e.g., Python, R)
+Experience working with large datasets (e.g., coursework, research, or internships)
+Experience with visualization tools (e.g., Looker)
+Familiarity with basic statistical concepts (e.g., probability, correlation, regression)
+Familiarity with experimentation
+Familiarity with causal inference is a bonus
+Familiarity with generative AI is a bonus
+Passion for gaming; familiarity with The Sims™ or life simulation titles
+You must be available for a full-time paid internship in the summer of 2027.
+At this time, we are considering Undergrad students who will be enrolled in an accredited degree program in the summer of 2027, slated to graduate no earlier
+than December 2027 . Applicants must be legally authorized to work in Canada on a full-time basis during the 16-week internship. Visa sponsorship is not
+available for this position.
+Please ensure that your graduation date is visible on your resume.
+Pay Transparency - North America
+* British Columbia (depending on location e.g. Vancouver vs. Victoria) *$60,000 - $65,000 CAD
+Pay is just one part of the overall compensation at EA.
+About Electronic Arts
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience,
+creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and
+pursue opportunities for growth.
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life.
+Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves,
+complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender,
+gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status,
+veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with
+applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+Post To
+External careers site, Internal careers site
+LinkedInID
+1449

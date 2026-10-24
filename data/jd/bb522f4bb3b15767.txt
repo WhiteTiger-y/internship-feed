@@ -1,0 +1,70 @@
+Job descriptions may display in multiple languages based on your language selection.
+What We Offer
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees,
+providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as
+a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+Group Summary
+Transforming mobility. Making automotive technology that is smarter, cleaner, safer and lighter. That’s what we’re passionate about at Magna Electronics, and we
+do it by creating world-class Electronic systems. We are a premier supplier for the global automotive industry with full capabilities in design, development,
+testing and manufacturing of complex Electronic systems. Our name stands for quality, environmental consciousness, and safety. Innovation is what drives us and
+we drive innovation. Dream big and create the future of mobility at Magna Electronics.
+Job Responsibilities
+Must be eligible under the US Export Administration Regulations (EAR) to support Magna Electronics' thermal camera product line.
+Position Overview
+Magna’s thermal technologies are shaping an autonomous future and improving lives.
+- As part of the Core Thermal Sensing team, the student intern will assist the systems and hardware engineering teams in the development and testing of next
+generation Thermal Sensing cameras related to creating safer automobile systems.
+Essential Duties And Responsibilities
+- Perform systems testing of products on bench and in vehicles making sure the product functions and performs as the customer expects per requirements.
+- Analyze infrared image data to understand noise, drift, stability, or other behaviors.
+- Build small scripts or tools to visualize and explore system behavior.
+- Develop metrics or simple models that help explain what the sensor is doing.
+- Design and run focused investigations of specific technical phenomena.
+- Summarize findings using plots, short writeups, or demo notebooks.
+- Collaborate with engineers and researchers across disciplines.
+- Support and participate in Demo activities in Vehicle and Bench.
+- Own one primary investigation and present results in a capstone demo at the end of the internship.
+Qualifications
+- This role is not eligible for visa sponsorship. Candidates must have current and ongoing authorization to work in the United States.
+- Willingness to work directly with hardware, test equipment, and experimental setups.
+- Comfort learning new tools and working in a lab or test environment.
+- Ability to work on site in Goleta, California, for the duration of the internship.
+Education / Experience
+- Currently enrolled in an undergraduate or graduate degree program in Engineering, Physics, or a related technical field
+- At least one year of relevant coursework or project experience.
+Special Knowledge / Skills
+- Interest in hands‑on engineering, testing, or experimental work
+- Experience with lab setups, optical testing, mechanical systems, or hardware projects
+- Familiarity with basic scripting or automation (Python or similar)
+- Comfort assembling, modifying, or troubleshooting physical systems
+- Ability to document procedures and results clearly
+- Enjoyment of practical problem solving and iteration
+- Ability to handle sensitive and confidential information professionally.
+Physical Demands / Work Environment
+- Normal amount of sitting or standing, average mobility to move around an office environment, able to conduct normal amount of work at a computer.
+- Ability to work in an engineering laboratory environment including sitting, standing, moving items up to 20lbs, reaching and operating scientific electrical
+equipment.
+Pay Scale
+Freshman $17.00
+Sophomore$20.00
+Junior$22.00
+Senior$24.00
+Masters$26.00
+PHD$38.00
+Awareness, Unity, Empowerment
+At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of
+experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual
+orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you
+from sending applications via email or traditional mail to comply with GDPR requirements and your local Data Privacy Law.
+AI-Assisted Screening Disclosure
+As part of our commitment to a fair, consistent, and efficient recruitment process, we may use artificial intelligence (AI) tools to assist in the initial
+screening of applications submitted through our Workday system. These tools help identify qualifications and experience that align with the role requirements.
+Please note that AI is used solely to support our recruiters. Final decisions are always made by the hiring manager and the hiring team. Importantly, no
+applicant data is shared externally through these AI tools. All information remains securely within our systems and is handled in accordance with our privacy
+and data protection policies.
+Under conditions defined by applicable law, you may have the right to request an explanation of how AI is used to support decision-making.
+If you have any questions or concerns about this process, feel free to contact our Talent Attraction team.
+Worker Type
+Student / Co-Op
+Group
+Magna Electronics

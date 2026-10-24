@@ -1,0 +1,63 @@
+ATTACH RESUME/CV Couldn't auto-read resume.
+Analyzing resume...
+Success!
+File exceeds the maximum upload size of 100MB . Please try a smaller size.
+- Full name ✱
+- Pronouns
+- He/him
+- She/her
+- They/them
+- Xe/xem
+- Ze/hir
+- Ey/em
+- Hir/hir
+- Fae/faer
+- Hu/hu
+- Use name only
+- Custom
+This helps us understand the best way to address you.
+- Email ✱
+- Phone
+- Current location
+No location found. Try entering a different location
+Loading
+- Current company
+Links
+- Where can we learn more about you? (LinkedIn, portfolio) URL
+- Where can we find samples of your code? URL
+- Where can we find your publications, papers, or research? URL
+U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)
+Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool,
+we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It
+will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+Gender
+Select ... Male Female Decline to self-identify
+Race
+Select ... Hispanic or Latino White (Not Hispanic or Latino) Black or African American (Not Hispanic or Latino) Native Hawaiian or Other Pacific Islander (Not
+Hispanic or Latino) Asian (Not Hispanic or Latino) American Indian or Alaska Native (Not Hispanic or Latino) Two or More Races (Not Hispanic or Latino) Decline
+to self-identify
+- Hispanic or Latino
+A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.
+- White (Not Hispanic or Latino)
+A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+- Black or African American (Not Hispanic or Latino)
+A person having origins in any of the black racial groups of Africa.
+- Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+- Asian (Not Hispanic or Latino)
+A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China,
+India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+- American Indian or Alaska Native (Not Hispanic or Latino)
+A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community
+attachment.
+- Two or More Races (Not Hispanic or Latino)
+All persons who identify with more than one of the above five races.
+Veteran status
+Select ... I am a veteran I am not a veteran Decline to self-identify
+Submit application
+Boson AI Home Page
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.
+Jobs powered by

@@ -1,0 +1,50 @@
+Meta was built to help people connect and share, and over the last decade, our tools have played a critical part in changing how people around the world
+communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Meta offers countless ways
+to make an impact in a fast growing organization.Meta is seeking Research Interns to join Monetization Ranking & AI Foundations where we strive to serve the
+best personalized ads to people, maximizing their personal utility and advertiser value. We are committed to making fundamental advances in artificial
+intelligence and machine learning technologies that can be applied to all aspects of Monetization, including but not limited to, ranking, retrieval, supply,
+model architecture, representation learning, optimization, and generally a deep understanding of the users, ads, and any signals and contents related to their
+interactions.Our interns closely collaborate with researchers and engineers within the organization and across the company (e.g., FAIR), push the boundaries of
+state-of-the-art research in AI and ML, share the latest findings through top-tier publications and open source, and integrate innovations at an unprecedented
+scale.Our internships are twelve (12) to sixteen (16), or twenty-four (24) weeks long and we have various start dates throughout the year.
+Research Scientist Intern, AI Core Machine Learning (PhD) Responsibilities:
+- Conduct state-of-the-art research to advance the science and technology of Machine Learning and Artificial Intelligence.
+- Develop novel algorithms and corresponding systems, leveraging various AI and ML techniques.
+- Analyze and improve efficiency, scalability, and stability of corresponding deployed algorithms.
+- Collaborate with researchers and engineers across varied disciplines, including communicating research plans, progress, and results.
+- Publish research results and contribute to research that can be applied to Meta product development.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Machine Learning, Artificial Intelligence, Computer Science, Information or Multimedia
+Retrieval, Computer Vision, Natural Language Processing, Reinforcement Learning, Optimization, Computational Statistics, Applied Mathematics, or related
+technical fields
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience with deep learning frameworks such as Pytorch or Tensorflow
+- Experience with Python, C++, C, Java, or other related languages
+- Experience with research and building systems based on machine learning and/or deep learning methods
+Preferred Qualifications:
+- Intent to return to degree program after the completion of the internship/co-op
+- Proven track record of achieving significant research results as demonstrated by grants, fellowships, patents, as well as first-authored publications at
+leading workshops or conferences such as NeurIPS, ICML, ICLR, AAAI, KDD, IJCAI, CVPR, ICCV, ACL, NAACL, ICASSP, or similar
+- Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories
+(e.g. GitHub)
+- Demonstrated experience and self-driven motivation in solving analytical problems using quantitative approaches
+- Experience manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources for large-scale training
+- Experience working and communicating cross functionally in a team environment
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

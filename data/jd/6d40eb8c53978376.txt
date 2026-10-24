@@ -1,0 +1,43 @@
+WHAT MAKES US EPIC?
+At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s
+building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.
+Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine
+and game development.
+ENGINEERING - UNREAL ENGINE
+What We Do
+Unreal-powered projects have been on the bleeding edge of real-time entertainment for over 20 years. Our team of engineering experts are always innovating to
+improve the tools and technology that empower content developers worldwide.
+TOOLS PROGRAMMER INTERN (GRAPHICS)
+What You'll Do
+We're looking for a Tools Programmer Intern to evolve artist tools within the Unreal Editor. An important aspect of this role is supporting both user-driven and
+agentic workflows, including exploring and implementing new interaction paradigms to accelerate content creation. You'll directly impact artist productivity by
+developing user-facing tools for one of the leading game engines used by developers worldwide.
+In this role, you will
+- Resolve bugs and workflow issues for our internal teams and licensees
+- Explore new artist workflows on the intersection of agentic and interactive tools
+- Work closely with team members to modify existing and add new features
+- Have independence in making and owning implementation decisions
+- Be part of an experienced distributed team
+What we're looking for
+- Strong C++ skills
+- Experience in collaborating with other developers
+- Demonstrated ability in working on graphics tools, e.g. geometry, texture processing, terrain authoring, procedural generation
+- Experience with using agentic coding tools
+- Someone who is pragmatic, professional, and has a positive attitude
+- Prior experience with Unreal Engine is a plus, but not required
+- Fluent written and verbal communication skills in English
+This internship has a flexible start date in 2027. Recruitment will be ongoing until teams find an ideal match. Applicants must be legally authorized to work in
+the posting location for the duration of the internship. For more information about Epic’s Early Career Program, visit epicgames.com/earlycareers . This is
+going to be Epic!
+ABOUT US
+Epic Games is a leading interactive entertainment company. For over 30 years we've been making award-winning games and engine technology that empowers others to
+make visually stunning games and 3D content that bring environments to life like never before. Epic's award-winning Unreal Engine technology not only provides
+game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content
+creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and
+develop remarkable games, we strive to build teams of world-class talent.
+Like what you hear? Come be a part of something Epic!
+Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal
+Employment Opportunity (EEO) Policy here .
+Note to Recruitment Agencies: Epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement
+agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). We will not pay any fees to any unauthorized third party.
+Further details on these matters can be found here .

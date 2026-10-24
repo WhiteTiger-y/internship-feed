@@ -1,0 +1,66 @@
+What You Will Do
+Come join the brightest minds in cutting edge space technology! The Intelligence and Space Research (ISR) Division at the Los Alamos National Laboratory is
+seeking highly motivated graduate students looking for a challenging internship. Our interdisciplinary teams of engineers, technicians, and scientists work,
+learn, and succeed through a highly creative and dynamic R&D environment.
+As an ISR GRA student, we will provide you with a mentor, a challenging project, and an opportunity to present your work and progress to colleagues. Projects
+will vary depending on your skills and interests and the Laboratory's current needs. The ISR GRA program offers paid summer and year-round internships for
+graduate students in a variety of Intelligence and Space Research projects. The GRA program provides mentoring, hands-on technical experience, and professional
+development opportunities through a normalized work plan complementing the student's chosen area of study.
+You will work closely with one of eight groups within ISR Division:
+- ISR-1: Space Science and Applications
+- The scientists of ISR-1 are interested in nuclear particle detection (neutrons, gammas, x-rays), plasma and energetic particle instruments, and space weather
+physics.
+- Academic backgrounds in ISR-1 are often in one or more of the following disciplines: nuclear physics, nuclear engineering, particle physics, astrophysics,
+space hardware development, and space weather.
+- ISR-2: Space and Remote Sensing
+- The engineers and scientists of ISR-2 are interested in radio-frequency sensing, ionospheric and lightning physics, space flight platforms and systems, space
+communications and networking, and photonics and quantum sensing.
+- Academic backgrounds in ISR-2 are often in one or more of the following disciplines: applied physics, astrophysics, atmospheric physics, computer/electrical
+engineering, lightning science, optics/quantum science, plasma physics, signal processing, software development, space hardware development, and space weather.
+- ISR-3: Space Data Science and Systems (Hot Skills)
+- The engineers, scientists, and professionals of ISR-3 work in flight software development, data processing, computing infrastructure, cybersecurity, and Mars
+operations.
+- Backgrounds in ISR-3 are often in one or more of the following disciplines and skills: physics/astrophysics, computer science, computer engineering,
+electrical engineering, data science, data engineering, embedded systems programming, FPGA design, and signal processing.
+- ISR-4: Space Electronics and Signal Processing
+- The Space Electronics and Signal Processing Group (ISR-4) develops innovative and high reliability instruments for unattended, long-term, failure-free
+operation in demanding environments such as high radiation, high temperature, and space. Capabilities include embedded electronics design & layout; analog
+circuit design for specialized detectors; digital signal processing and data collection, rad-hard single board computer, specialty power supply design; and
+applied RF & antenna design
+- Academic backgrounds in ISR-4 are often in electrical engineering and computer engineering.
+- ISR-5: Space Instrument Realization
+- The engineers of ISR-5 focus on mechanical design and analysis, fabrication, integration, and environmental testing in support of advanced space hardware
+development. Students will contribute by performing fundamental research, creating CAD models, conducting Finite Element Analysis, and supporting rigorous
+environmental test campaigns; including vibration, shock, and thermal vacuum cycling. These efforts directly prepare hardware for successful deployment in both
+ground-based and spaceflight missions, giving students the opportunity to see their work applied to real-world challenges.
+- Academic backgrounds in ISR-5 are often in mechanical and aerospace engineering.
+- ISR-6: Space Remote Sensing and Data Science (Hot Skills)
+- The Space Remote Sensing and Data Science Group (ISR-6) develops and deploys sophisticated and customized detection systems and analysis tools to address
+needs in our key mission areas of nuclear non-proliferation, space domain awareness, atmospheric science, planetary science and exploration, and applied
+research toward multi-source intelligence applications. ISR-6's engineers, physicists, geophysicists, geologists, computer scientists, and data scientists
+conceive and design advanced sensing and data technologies.
+- If you are a first-time student to ISR-6 and are interested in remote sensing, please consider applying to the Remote Sensing Summer School.
+- ISR-7: Space Systems Assurance and Modernization
+- The Space Systems Assurance and Modernization Group (ISR-7) ensures critical design and operational objectives are met through integration of enhanced
+processes, quality assurance and control, and project execution across all phases of custom space instrumentation development and deployment. Students in ISR-7
+have exceptional organizational skills and strong technical backgrounds including aerospace, mechanical, and electrical engineering. Students support our
+mission with systems engineering, integration and test support, and project management.
+- ISR-8: Space Nuclear Sensing
+- We provide unique space-based nuclear detection capabilities for national security and fundamental science by developing a comprehensive understanding of
+nuclear sources, signatures, and sensing. Our expertise includes detector modeling, radiation transport, and radiation effects; innovative detector development
+and deployment; and algorithm and scientific software development. Our work supports the United States Nuclear Detonation (NuDet) Detection System (USNDS)
+mission and other government sponsors while also contributing to fundamental nuclear and space physics.
+- Academic backgrounds in ISR-8 are often from one of the following disciplines: Nuclear/High Energy Physics, Nuclear Engineering, Astrophysics/Astronomy, and
+Space Weather.
+What You Need
+Minimum Job Requirements:
+- Currently enrolled in an accredited graduate degree program
+- Must be enrolled in at least 6 semester credit hours (or full-time equivalent).
+- Must currently have and maintain a cumulative GPA of at least 3.0 on a 4.0 scale (or equivalent).
+Work Location: The work location for this position is onsite and located in Los Alamos, NM. All work locations are at the discretion of management.
+Note to Applicants:
+A resume and current transcript, showing the above requirements, are required.
+Applicants must submit a comprehensive cover letter (2 pages or less) that addresses the job requirements of the position and, if applicable, the desired skills
+and education eligibility.
+Due to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China, the Islamic Republic of
+Iran, the Democratic People's Republic of North Korea, and the Russian Federation, who are not Lawful Permanent Residen

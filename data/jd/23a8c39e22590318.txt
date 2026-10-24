@@ -1,0 +1,74 @@
+About Tronox
+Tronox is the world’s leading vertically integrated manufacturer of titanium dioxide (TiO 2 ) pigment and other materials that add brightness and durability to
+products you encounter every day. We are 5,700 people strong, located across 12 countries and unified by a strong set of values that guide us in our work. At
+our mines and manufacturing plants, labs and offices, we responsibly transform the earth’s resources into products and opportunities that enhance lives. Our
+vision is to shape a sustainable, thriving world through enriched and refined minerals.
+Located on approximately 3,000 acres of beautiful landscape in Northeast Mississippi the Hamilton facility is Tronox's largest titanium dioxide manufacturing
+facility. Within an easy commute, you will find several world class attractions. For music lovers, there is the Beale Street historic district, Graceland, and
+Nashville. Fantastic Creole cuisine and music of New Orleans and the sparkling white beaches of the Gulf are also just a short drive away. Hamilton is in the
+heart of Southeastern Conference Sports, a premier location for college sporting events.
+Tronox is looking for a forward-thinking AI Intern to contribute to the development of intelligent systems across a wide range of domains. From humanoid
+robotics to AI applications in education, healthcare, space exploration, and even animal communication, you will help shape the next generation of adaptive and
+perceptive technology.
+This internship focuses on the end-to-end development of machine learning solutions, including data processing, model training, optimization, and real-world
+deployment. You’ll work hands-on with large datasets, neural network architectures, and innovative tools to solve complex challenges in AI perception,
+interaction, and decision-making.
+We also encourage interns to explore and incorporate the latest in AI development tools, helping the team stay agile and ahead of the curve in an ever-evolving
+tech landscape.
+Your work will be both technical and strategic, contributing not only to the functionality of AI systems, but also to cross-industry applications and
+collaborative documentation for knowledge transfer.
+Primary responsibilities:
+Assisting with AI Model Development
+- Assist in building and optimizing machine learning models, ensuring they meet project requirements.
+- Participate in the preprocessing of datasets and data cleaning to improve the performance of AI models.
+- Work with supervised, unsupervised, and reinforcement learning techniques, depending on the project.
+Conducting Research and Data Analysis
+- Perform research on current AI trends, technologies, and best practices to assist the team in staying up to date.
+- Analyze and process large datasets to extract meaningful insights for AI model development.
+Testing and Evaluation of AI Models
+- Assist in testing AI models to ensure they are functioning as expected.
+- Identify and address potential issues or inaccuracies in AI systems.
+Collaboration with Cross-functional Teams
+- Work closely with engineers, data scientists, and other teams to align AI solutions with business goals.
+- Contribute ideas and insights during team meetings, offering solutions to optimize AI solutions.
+Documentation and Reporting
+- Maintain detailed records of AI experiments, model development processes, and results.
+- Assist in preparing reports and presentations summarizing the outcomes of AI research or experiments.
+- Consistently demonstrate Tronox Core Values
+Qualifications
+About You
+- Enrollment in or recent completion of a degree in Computer Science, Data Science, Engineering, or a related field.
+- Previous coursework or projects related to machine learning or AI is a plus.
+- Familiarity with cloud platforms (AWS, Google Cloud), big data technologies (Hadoop, Spark), and version control systems (Git) is beneficial.
+- Proficiency in programming languages such as Python, R, or Java. Knowledge of AI/ML libraries like TensorFlow, PyTorch, or Scikit-learn is an advantage.
+- Strong understanding of statistical methods, linear algebra, and calculus to develop and evaluate machine learning models.
+- Familiarity with data manipulation, cleaning, and preprocessing techniques.
+- Strong analytical thinking and problem-solving skills to troubleshoot and optimize models.
+- Ability to clearly communicate findings, challenges, and solutions to team members.
+- Must possess and maintain a valid driver’s license.
+Physical Requirements
+- Must be clean-shaven in areas where facial hair would interfere with the proper fit and seal of a respirator. This includes no beards, goatees, mustaches that
+extend below the top lip or excessive sideburns.
+- Occasionally ascending or descending stairs and moving self in different positions to accomplish tasks.
+- Occasional prolonged periods of remaining in a stationary position, often standing or sitting at a desk and working on a computer
+- Constantly walking long distances from one worksite to another.
+- Occasionally lifting or moving objects up to 20 pounds in all directions
+Why Join Tronox?
+Our global reach is strengthened by our human connections. We challenge one another to deliver excellence and encourage our people to think big. Together, we
+develop innovations that make products vibrant and durable as we contribute to a cleaner world.
+When you join Tronox, you’ll work with brilliant people, close to home and around the world. We offer a dynamic, supportive environment that empowers you to
+achieve your fullest potential — because we recognize that when you grow, we grow.
+In addition to offering a competitive salary and benefits, we provide a work experience that prioritizes what truly matters:
+- We strive for excellence in safety and sustainability, focusing on what is critical to improve how we operate and to enhance the communities where we work and
+live.
+- We provide challenging work and encourage innovative thinking, collaborating closely to bring our best ideas forward and add value for our customers.
+- We invest in and value the success of our people, empowering them to take charge of their personal and professional development.
+- We are unified globally and strengthened locally, leveraging the most culturally and geographically diverse team in the industry to connect better around the
+world.
+Competitive Benefits
+- Perks & Extras: Onsite gym access, travel and entertainment discounts, a private hunting and fishing club.
+Ready to Get Started?
+We look forward to hearing from you. Click the “Apply Now” button below to begin the application process today.
+We are proud to be an Equal Employment Opportunity employer. All qualified applicants will receive consideration for employment without regard to any
+classification protected by law, including but not limited, to color, ethnicity, religion, creed, sex, pregnancy, sexual orientation, sexual and reproductive
+health decisions, gender identity and expression, national origin, ancestry, alienage or citize

@@ -1,0 +1,45 @@
+Date Posted: 2026-10-22 Country: United States of America Location: US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG Position Role Type: Onsite U.S.
+Citizen, U.S. Person, or Immigration Status Requirements: The ability to obtain and maintain a U.S. government issued security clearance is required. U.S.
+citizenship is required, as only U.S. citizens are eligible for a security clearance Security Clearance Type: DoD Clearance: Secret Security Clearance Status:
+Active and existing security clearance required after day 1 At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by purpose
+and inspired to make a difference solving the world’s most complex problems. With our three market leading businesses, world-class operations and investments in
+research and development, we offer capabilities and opportunity no one else can. Together, we push the boundaries of known science and find new ways to connect
+and protect our world.  Raytheon brings the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s
+mission and stay ahead of tomorrow’s threat. We deliver solutions that help our nation and allies defend freedoms and deter aggression, creating a safer, more
+secure world. Join us and help shape the future of aerospace and defense. As a Mission Analyst Intern, you will be part of a team of systems engineers dedicated
+to delivering best-in-class Raytheon products for the warfighter through modeling, simulation, and analysis. Your work will help demonstrate mission
+effectiveness of systems and system-of-systems operating in complex threat environments. On this team, you will be responsible for developing and analyzing
+solutions across mission technologies, including sensors, effectors, communications, command and control, and more. Responsibilities will include: ·
+Participating in the development and implementation of model-based solutions to support mission trade studies using mission and engagement level simulations. ·
+Participating in the development and integration of variable-fidelity computer models and simulations that effectively capture system and system of systems
+effects in complex threat environments. · Modeling of system and mission kill chains using Government, Commercial, and/or Raytheon simulation tools. · Executing
+mission system simulations and analyzing their results. · Development of metrics and results products that communicate the chain of events that led to an
+action. · You will contribute and collaborate in a team environment, receiving input from the program or team experts, and work on projects, as you determine,
+develop, and implement analytic approaches that will generate the supporting data to inform programmatic decisions. Qualifications You Must Have: · Must be
+pursuing Bachelor’s or Advanced degree in STEM (Science, Technology, Engineering, or Mathematics) and actively enrolled through the completion of the
+internship/co-op session. · Must have a minimum of 30 hours of credit by the start of the internship / co-op session. · Experience working with scripting
+languages such as Python, Bash, MATLAB, or other common languages. Experience may be obtained through on-the-job experience, research, coursework, or projects.
+Qualifications We Prefer: · Prior internship, co-op, or work experience. · Experience working in Linux environments. · Experience with standard government
+modeling tools including AFSIM, Suppressor, Brawler, or similar tools. · Experience in Sensors (RADARS, EOIR, etc.), Network Communications, Weapons/Effects
+(Missiles, Projectiles), Command & Control, and/or Resource Management · Ability to understand tactics as described by military experts and to represent their
+employment (verbally, graphically, and in simulations). · Experience with Military Operations Analysis, Modeling & Simulation experience in the defense
+industry, and/or data analysis & visualization. · Familiar with performing data analysis and statistics with large volumes of data. · Familiar with Numerical
+Optimization Techniques, Analysis of Alternatives, or Design of Experiments. · Active Secret Clearance What We Offer: · Our values drive our actions, behaviors,
+and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation. · Relocation
+Eligibility Learn More & Apply Now! Please consider the following role type definition as you apply for this role. · Onsite: Employees who are working in Onsite
+roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products. This
+position requires ability to obtain a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles
+and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here:
+Security Clearance FAQs - United States Department of State As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend
+select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote. The
+salary range for this role is 37,000 USD - 82,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers
+several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience,
+location, education/training, and key skills. Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life
+insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee
+Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the
+position is covered by a collective-bargaining agreement. Hired applicants may be eligible for annual short-term and/or long-term incentive compensation
+programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are
+not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the
+company’s performance. This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will
+apply. RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and
+business necessity may require RTX to shorten or extend the application window. RTX is an E

@@ -1,0 +1,97 @@
+The Midstream Services Intern will support EQT’s Midstream organization in the continued development of a modern, data-driven operating platform. The intern
+will gain hands-on experience working across Midstream operations, enterprise systems, data and analytics, asset management, financial reporting, and continuous
+improvement initiatives.
+The position will work closely with Midstream Services and cross-functional partners across Operations, Engineering & Construction, Finance, Information
+Technology/Digital, and other business functions. The internship is designed to provide exposure to both the operational and technology sides of the Midstream
+business while giving the intern ownership of meaningful projects and deliverables.
+Midstream Services is focused on strengthening enterprise systems and asset management, expanding business intelligence and enterprise integrations, improving
+data quality and governance, and increasing automation and operational efficiency.
+Key Responsibilities
+- Data & Analytics: Assist with analyzing operational, maintenance, financial, and project data to identify trends, exceptions, and opportunities for
+improvement.
+- Insights & Reporting: Support development and enhancement of dashboards, KPIs, scorecards, and reporting using tools such as Power BI, Databricks, and
+Salesforce. Midstream Services currently supports executive dashboards, operational and financial reporting, and integrations across multiple enterprise
+platforms.
+- Enterprise Systems: Gain exposure to systems supporting Midstream operations, including Maximo, Salesforce, GIS, SCADA, and related applications. Support data
+quality, standardization, and system improvement initiatives.
+- Asset Management & Reliability: Assist with initiatives involving equipment hierarchy, preventive maintenance, work management, asset lifecycle management,
+and reliability. Midstream's roadmap includes EAM master-data governance and continued maturation of reliability and lifecycle-management processes.
+- Budget & Business Support: Assist with CAPEX and O&M reporting, forecasting, variance analysis, project tracking, and other financial or business-performance
+activities.
+- Process Improvement: Identify opportunities to simplify processes, automate manual activities, improve data quality, and enhance reporting or workflows.
+- Cross-Functional Collaboration: Participate in meetings and working sessions with Operations, Engineering, Finance, Digital/IT, and other Midstream teams.
+- Project Ownership: Own one or more defined summer projects from initial assessment through recommendations and final presentation.
+- Final Presentation: Present internship accomplishments, findings, and recommendations to Midstream Services leadership at the conclusion of the internship.
+Potential Summer Projects
+Depending on business priorities in Summer 2027, assignments could include asset and maintenance data analysis, Maximo/EAM improvements, operational KPI
+development, Power BI/INSIGHTS enhancements, data-quality assessments, process automation, CAPEX/O&M analytics, reliability benchmarking, or evaluating emerging
+technologies such as AI and advanced analytics.
+Qualifications
+- Currently pursuing a bachelor’s degree in Engineering, Data Analytics/Data Science, Information Systems, Computer Science, Finance, Business, Supply Chain,
+Energy Management, or a related discipline.
+- Expected graduation date of December 2027 or later preferred.
+- Strong analytical and problem-solving skills.
+- Interest in energy, natural gas, Midstream operations, technology, data analytics, or asset management.
+- Proficiency with Microsoft Excel and PowerPoint; experience with Power BI, SQL, Python, Databricks, Salesforce, or similar tools is a plus but not required.
+- Ability to organize and analyze data and communicate findings clearly.
+- Strong written and verbal communication skills.
+- Ability to work independently while collaborating effectively across multiple teams.
+- Curiosity and willingness to learn unfamiliar systems, technologies, and business processes.
+What the Intern Will Gain
+This internship provides exposure to the intersection of energy operations, engineering, technology, data, finance, and asset management. The intern will have
+the opportunity to work with real Midstream business challenges, interact with leaders and subject-matter experts, visit operating facilities where appropriate,
+and see how technology and data are being used to modernize a large-scale natural gas Midstream organization.
+Selected incumbent will be placed into the position that best suits their abilities and experience level.
+EQT Corporation and its subsidiaries is an Equal Opportunity Employer -- Disabilities/Veterans.
+Create a Job Alert
+Interested in building your career at EQT Corporation? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Preferred First Name
+Email *
+Phone Country *
+Phone *
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree Select...
+Discipline Select...
+Start date month Select...
+Start date year *
+End date month * Select...
+End date year *
+Add another
+EQT internship opportunities are open only to individuals who are currently enrolled in an academic program or will be pursuing a post-graduate degree at the
+time of the internship.
+Please select the option that best describes your academic status: * Select...
+In order to qualify for this internship, you must be enrolled as an undergraduate student and/or pursuing a post-graduate degree.
+Address *
+Please include street, city, state, zip
+Residing State * Select...
+What state do you currently live in? If you are a resident of New Jersey, New York, or California (or present in the State of NJ, NY, or CA at the time of
+applying online), EQT will not accept and/or process any job applications from you submitted via this website. Instead your resume and job application must be
+emailed to recruiting@eqt.com.
+Are you willing to relocate? * Select...
+Previous EQT Employee * Select...
+Are you a current EQT employee or currently working for EQT as a contractor?
+Desired Hourly Rate *
+What base salary range are you targeting in this role?
+Related Employee(s)
+Are you related to anyone employed by EQT Corporation or any of its subsidiaries?
+Are you legally authorized to work in the United States? * Select...
+Will you immediately require EQT to sponsor you for an employment visa, such as an H-1B? * Select...
+Will you at any point in the future require EQT to sponsor you for an employment visa, such as an H-1B? * Select...
+Referral
+Were you referred to EQT by one of our employees? If so, whom?
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of im

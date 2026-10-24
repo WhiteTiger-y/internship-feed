@@ -1,0 +1,45 @@
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented,
+treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are
+uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health
+for humanity. Learn more at jnj.com As guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide
+an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and
+recognize their merit. Job Function: Career Programs Job Sub Function: Non-LDP Intern/Co-Op Job Category: Career Program All Job Posting Locations: Raritan, New
+Jersey, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America Job Description: About
+Innovative Medicine Our expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries
+like you work on teams that save lives by developing the medicines of tomorrow. Join us in developing treatments, finding cures, and pioneering the path from
+lab to life while championing patients every step of the way. Learn more at https://www.jnj.com/innovative-medicine We are searching for the best talent for
+IDAR Summer Intern (C&SP) to be in Raritan, NJ / Titusville, NJ or Spring House, PA. The Intern term is from May to August, 2027. Full time requirement (40
+hours per week). 2 vacancies are currently available. Purpose: The Integrated Data Analytics & Reporting (IDAR) organization within Global Development is
+seeking a highly motivated Summer Intern to join the Clinical & Statistical Programming (C&SP) function. C&SP applies programming, data, technology, and
+innovative ways of working to support clinical research analysis and reporting. This 12-week internship provides hands-on experience contributing to projects
+involving Artificial Intelligence (AI), data analytics, automation, programming, and digital workplace solutions that support clinical development. Based on the
+selected candidate's skills, interests, and business priorities, assignments may focus on AI-enabled solutions, programming and data applications, automation,
+or Microsoft 365/SharePoint digital workplace development. You will be responsible: Depending on the assigned project, responsibilities may include: AI,
+Programming & Data Solutions: Supporting the design, development, testing, and documentation of AI-enabled solutions, including intelligent agents and AI-based
+data transformations. Contributing to proof-of-concept solutions, applications, workflows, or automation that improve data integration, operational insights,
+and user experience. Applying programming and analytical tools such as Python, R, SAS, SQL, APIs, low-code technologies, or approved AI capabilities, as
+appropriate to the assignment. Preparing, structuring, evaluating, and documenting data used by analytical or AI-enabled solutions. Supporting solution and
+model testing while following applicable privacy, security, quality, and compliance expectations. Applying data analytics and automation approaches to real-
+world clinical development challenges. Digital Workplace & SharePoint Solutions: Supporting the design, development, and enhancement of the C&SP departmental
+SharePoint portal. Assessing existing content and contributing to improved information architecture, navigation, search, metadata, page layouts, and reusable
+templates. Creating and configuring SharePoint pages, web parts, Lists, forms, views, links, and embedded Microsoft Word and Excel content. Developing or
+enhancing Power Automate workflows for repeatable departmental processes such as content submissions, approvals, notifications, and reminders. Creating or
+supporting Power BI dashboards and reports and integrating them into the departmental portal, as appropriate. Supporting content organization, governance
+standards, ownership, review cycles, and publishing practices. Supporting user access and permission management in accordance with applicable security and
+compliance requirements. Conducting user-centered testing, gathering feedback, and implementing improvements to usability and accessibility. Reviewing existing
+content to identify duplicate, outdated, incomplete, or difficult-to-find information and recommending improvements. Project & Collaboration Responsibilities:
+Partnering with C&SP colleagues and cross-functional stakeholders to understand business problems, user needs, and technical requirements. Creating clear
+project documentation, process maps, user guidance, demonstrations, and presentations. Participating in team meetings, mentoring, networking, and learning
+activities across IDAR and Global Development. Presenting project outcomes, lessons learned, and recommendations to stakeholders at the conclusion of the
+internship. Qualifications / Requirements: Completion of Undergraduate Freshman year at an accredited University is required. Candidates must be actively
+enrolled in an accredited university for the duration of the internship while pursuing a Bachelor's, Master's, and/or MBA degree in Computer Science, Data
+Science, Data Engineering, Artificial Intelligence, Machine Learning, Software Engineering, Information Systems, Information Science, Information Technology,
+Informatics, Analytics, Statistics,Mathematics, Web or User Experience Design, Digital Media, Biomedical Engineering, Life Sciences, other related technical or
+scientific disciplines. Have a cumulative GPA of 3.5 or higher, which is reflective of all college coursework. Ability to work within a hybrid model, including
+three days at an assigned Johnson & Johnson site in New Jersey or Pennsylvania and two days remotely. Candidates must be able to provide their own
+transportation to and from the assigned work location and manage their own housing arrangements. Strong analytical, organizational, and problem-solving skills.
+Ability to learn quickly, work independently, manage assigned activities, and collaborate effectively within cross-functional teams. Permanently authorized to
+work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently
+on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an
+alternative long-term status that does not require company sponsorship. If you are under 18 years of age, you (the candidate) may need to obtain the necessary
+working papers or other documentation required by state law to start the assignme

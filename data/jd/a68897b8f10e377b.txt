@@ -1,0 +1,29 @@
+The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and
+professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.
+Beyond your day-to-day responsibilities, you'll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your
+understanding of the financial services, technology, and mortgage industries.
+The Data Science Intern will support the team’s use of AI tools to research and develop quantitative models and explore new data sources that provide insight
+into financial markets.
+Responsibilities
+- Engage with the team to learn about all the tools and data sources
+- Meet with business partners and contribute to projects that drive significant value
+- Use AI tools to research, prototype, and validate quantitative models for financial data products
+- Analyze structured and alternative datasets to uncover relationships with financial markets
+- Apply statistical and machine learning techniques to model market behavior and pricing
+- Perform additional duties and contribute to projects as assigned
+Knowledge And Experience
+- Must be currently enrolled in a degree program at an accredited university and be at least advancing to their junior year of study
+- Interest in financial markets, with a drive to learn more about them
+- Experience with AI tools such as Claude, Codex, or Copilot, with an interest in learning more
+- Deep knowledge of Python with SQL
+Internship Program Schedule
+To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:
+- Option 1: May 24, 2027 – August 6, 2027
+- Option 2: June 7, 2027 – August 20, 2027
+Candidates will be asked to select their preferred session during the application process.
+Please Note: Interns must be available to work full-time, five days a week, at our New York (11 Wall Street) office for the entire duration of one of the
+designated program schedules. Partial participation or alternate dates cannot be accommodated.
+Hourly Pay Rate for New York Candidates
+The expected hourly rate for this role is $35 per hour.
+Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally
+protected characteristics.

@@ -1,0 +1,68 @@
+About Trace
+Trace is building the data, infrastructure, and research that enable robots to learn from the real world. General-purpose robotics requires a deeper
+understanding of how robots learn from real-world data. Our research explores how to transform human experiences, including egocentric video, demonstrations,
+hand-object interactions, and multimodal sensory signals, into transferable representations, actionable knowledge, and generalizable robot behaviors. At our
+Brooklyn research lab, we combine fundamental research in robot learning, computer vision, and embodied AI with large-scale datasets, machine learning
+infrastructure, and real-world robotic experimentation. Our goal is to advance the science of robot learning while developing the datasets and learning
+foundations for increasingly capable, adaptable, and reliable robots.
+About The Role
+We are looking for highly motivated and technically curious Robotics Engineering Interns to join our team in a hands-on hardware-and-software role, contributing
+to the development of robotic systems, data infrastructure, and experimental platforms that support cutting-edge research in robot learning and embodied AI.
+This internship is designed primarily for Master's and undergraduate students, although PhD students are also welcome to apply. We value practical robotics
+experience, strong engineering fundamentals, problem-solving ability, and a genuine interest in robotics research. Prior research publications are not required.
+As a Robotics Engineering Intern, you will work closely with our research scientists, research interns, and engineers to build and operate robotic platforms,
+develop reliable data collection and processing pipelines, implement and evaluate learning-based robotic systems, and support experiments that connect human and
+robot data to downstream policy performance. You will have opportunities to take ownership of well-defined engineering and experimental projects, from hardware
+and software integration through implementation, testing, evaluation, and documentation. Depending on your background and interests, you may also contribute to
+research experiments, algorithm development, and technical publications. Our goal is to provide meaningful hands-on experience at the intersection of robotics
+engineering and robot learning research, while giving students opportunities to develop practical skills, deepen their research understanding, and contribute to
+advances in physical AI.
+Projects you may work on
+Depending on your experience and interests, your projects may involve one or more of the following areas:
+- Robotic Hardware and System Integration
+- Multimodal Data Collection and Infrastructure
+- Data Processing, Calibration, and Quality Evaluation
+- Human Demonstration and Robot Learning Systems
+- Robot Policy Implementation and Evaluation
+- Simulation and Experimental Validation
+We welcome students with diverse technical backgrounds. You do not need prior experience in every area, and projects will be matched to your skills, interests,
+and available opportunities.
+What You’ll Learn And Build
+- Build and integrate robotic systems, working with robot arms, dexterous hands, sensors, cameras, and associated software and hardware interfaces.
+- Develop and maintain robotics software and data pipelines for data acquisition, synchronization, processing, storage, visualization, and experimental
+evaluation.
+- Support robot learning research experiments by implementing existing methods, preparing datasets, running model training or evaluation, and executing
+experiments in simulation and/or on real robotic platforms.
+- Design and execute systematic tests to assess hardware reliability, sensor accuracy, data quality, policy performance, and experimental reproducibility.
+- Debug and troubleshoot complex robotic systems, identifying issues across hardware, perception, control, data processing, and learning components.
+- Analyze experimental results and failure cases, helping the research team understand how system design, data collection, and implementation choices affect
+robotic learning and performance.
+- Collaborate with researchers and engineers to improve experimental workflows, prototype new capabilities, and translate research ideas into functioning
+robotic systems.
+- Document implementations, experimental procedures, and results to support reproducibility, knowledge sharing, and continued development.
+What we're looking for
+- Currently pursuing a Bachelor's, Master's, or PhD degree in Robotics, Computer Science, Electrical Engineering, Mechanical Engineering, Computer Engineering,
+Mechatronics, or a closely related field.
+- Solid programming skills in Python and/or C++, with experience developing, testing, or debugging software for robotics, machine learning, or related technical
+applications.
+- Foundational understanding of robotics concepts, such as robot kinematics, control, perception, sensing, or robotic system integration.
+- Hands-on experience with robotics hardware, simulation, or substantial robotics software projects, gained through coursework, research labs, internships,
+personal projects, or robotics competitions.
+- Strong practical problem-solving skills, willingness to learn unfamiliar tools and technologies, and ability to troubleshoot technical challenges
+independently.
+- Good communication and collaboration skills, attention to technical detail, and enthusiasm for working in a fast-paced, interdisciplinary research and
+engineering environment.
+Nice to have
+- Experience with robotic platforms such as manipulators, dexterous hands, mobile robots, or humanoid robots, including hardware integration, control, or
+experimental deployment.
+- Familiarity with ROS/ROS 2, robot communication interfaces, motion planning, or robotic control software.
+- Experience with cameras, depth sensors, tactile sensors, force/torque sensors, motion capture systems, or multimodal sensor integration.
+- Experience with data acquisition, sensor calibration, temporal synchronization, data processing, or large-scale robotics datasets.
+- Familiarity with robot learning methods such as imitation learning, reinforcement learning, diffusion policies, or vision-language-action models.
+- Experience with machine learning frameworks such as PyTorch or JAX, including training, fine-tuning, or evaluating learning-based models.
+- Experience with robotics simulation tools such as MuJoCo, Isaac Sim, or related environments.
+- Experience with CAD, mechanical prototyping, 3D printing, electronics, or embedded systems.
+- Previous experience in an academic robotics lab, robotics competition, engineering internship, or substantial independent robotics project.
+- Contributions to open-source robotics software, technical projects, datasets, or research publications are a plus, but not required.
+How to apply
+Please submit your resume/CV along with 1-3 examples of relevant technical or research work, such as GitHub repositories, project pages, rob

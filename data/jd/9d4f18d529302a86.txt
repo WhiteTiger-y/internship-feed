@@ -1,0 +1,79 @@
+Research Scientist Intern – TikTok Recommendation(NextGen LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A242061
+Apply to this job Share this listing:
+Responsibilities
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+About the team
+Our team's mission is to empower genAI and content understanding in TikTok businesses. Computer vision and natural language processing are important dimensions
+in both content generation and understanding. We are working on various foundational models, including multi-modality pretraining, multi-modal large language
+model, image generation, video generation etc. As a genAI team on the business side, we try to succeed in both achieving business metric gains (recommendation
+metrics), and also producing state-of-the-art research outputs.
+Project Overview, Challenges & Value
+We aim to integrate recommendation large models multimodal large models, and the Agentic Rec framework to fundamentally reshape the underlying content
+distribution logic, empowering the system with deep semantic association and autonomous planning capabilities, exploring new frontiers in algorithmic design.
+1. Recommendation Large Models: Address challenges such as gradient convergence and representation drift in ultra-long behavioral sequences, enabling the system
+to achieve true ""logical reasoning"" capabilities.
+2. Unified Multimodal Semantic Space: Explore alignment across video, image-text content, and user intent, constructing a fully multimodal semantic space that
+goes beyond text.
+3. Agentic Rec:Develop recommendation agents with capabilities such as self-reflection, tool invocation, and long-horizon planning, driving a transformation of
+recommendation and content distribution experiences.
+Key challenges include:
+1. Extreme-scale reasoning:
+Performance gains and bottlenecks associated with ultra-large model parameters and ultra-long sequence modeling.
+2. Multimodal fusion: Challenges in representation learning for cross-modal intent alignment.
+3. Autonomous evolution: Breakthroughs in long-horizon planning and decision-making paradigms for agent systems.
+Project Value:
+1. Technical value: Explore new paradigms for recommendation, significantly improving recommendation performance and system efficiency.
+2. Business value: Enable deeper understanding of user interests and content, improving distribution efficiency and enhancing satisfaction for both users and
+creators.
+Responsibilities:
+- Design and develop next-generation large-scale recommendation systems optimized for personalized, engaging, and scalable user experiences.
+- Leverage state-of-the-art machine learning and deep learning techniques, including large model technologies（LLM and MLLM, etc), to enhance recommendation
+performance and accuracy.
+- Collaborate with cross-disciplinary teams, including infrastructure engineers, pmo, and researchers, to create advanced systems that improve recommendation
+relevance, diversity, and user engagement.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a PhD in Computer Science, Machine Learning, Artificial Intelligence, Statistics, or a related field.
+- Experience in one of more areas of computer vision, natural language processing and machine learning
+- Solid knowledge and experience with at least one major deep learning framework (e.g. PyTorch, Tensorflow, MXNet, Caffe/Caffe2).
+- Familiar with deep neural network architectures such as transformer/SSM/CNN/RNN/LSTM etc.
+- Strong analytical and problem solving skills. Ability to work collaboratively in cross-functional teams.
+Preferred Qualifications:
+- Research experience demonstrated through projects, publications, or open-source contributions.
+- Authors with publications in top-tier venues such as SIGGRAPH, SIGGRAPH Asia, CVPR, ICCV, ECCV, ICML, NeurIPS, ICLR,
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $75- $75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow toget

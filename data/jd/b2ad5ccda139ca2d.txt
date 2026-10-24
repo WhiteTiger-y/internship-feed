@@ -1,0 +1,47 @@
+What do we do in the Cyber Operations and Analysis Technology Group?
+Come and help defend the nation in cyberspace! In the Cyber Operations & Analysis Technology Group at MIT Lincoln Laboratory, we research challenging technical
+problems in cyber security, develop new technologies, and prototype first-of-a-kind systems. We aim to ensure critical national security missions and systems
+are assured against cyber threats, by architecting them for resilience and empowering cyber defenders.
+As an interdisciplinary group, we innovate by drawing insights from computer science, software engineering, data engineering, data science, artificial
+intelligence/machine learning, cryptography, electrical engineering, mathematics, statistics, and allied technical fields. We collaborate with research partners
+across MIT, offering frequent opportunities to team and learn in new areas. If you want a career in R&D with the opportunity to have real impact on important
+problems, join us!
+Job Description
+As a summer research intern, you will help our group create advanced technologies for ensuring security and resiliency of next-generation mission-critical
+and/or cyber operational systems. You will perform analysis, develop technology, and/or build software. As a member of a research team, you will work with a
+principal investigator and other seasoned researchers. You will have considerable autonomy and independence in your research tasks, but also many collaborative
+work opportunities. Candidates should be working toward a BS, MS, or PhD in Computer Science, Computer Security, Mathematics, Data Science, AI, or a related
+field.
+Experience in the following is required:
+- Demonstrated ability to work both independently and collaboratively as part of technical team
+- Demonstrated interest in cyber security or cyber operations
+- Interest in and ability to analyze a problem including collecting and evaluating data and presenting your analysis and findings to the rest of the team
+- Experience with Proficiency in Python, Java, or similar
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you'll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events-all while building connections within a vibrant community of peers.
+- Internships are typically 10-12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Learn more about the Summer Research Program at: https://www.ll.mit.edu/careers/student-opportunities/summer-research-program
+Compensation
+Hourly pay rates below are effective January 2026 – December 2026 and will be reviewed again for Summer 2027. Rates are based on the highest academic year or
+degree completed before the internship start date.
+- Freshman year completed: $25.00/hour
+- Sophomore year completed: $27.00/hour
+- Junior year completed: $29.00/hour
+- 4th year of 5 year program completed, no degree conferred: $32.00/hour
+- Bachelors completed: $34.50/hour
+- Bachelors + 1, one year of graduate study completed: $36.50/hour
+- Bachelors + 2, two years of graduate study completed: $38.00/hour
+- MS completed: $39.00/hour
+- MS + 1, one year of graduate study completed after the MS: $41.00/hour
+- MS + 2, two years of graduate study completed after the MS: $42.50/hour
+- MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret-level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43510

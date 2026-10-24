@@ -1,0 +1,35 @@
+Reality Labs (RL) teams bring together a world-class R&D team of researchers, and engineers to build innovative photo, video, and AR/VR experiences. We work on
+technologies that ship across all Meta surfaces ranging from Facebook to Instagram to the AR/VR Oculus products. We work at the intersection of Computer Vision,
+Computer Graphics, and Machine Learning. The aim of this role is to develop and advance the state-of-the-art in computational photography. The goal of the
+internship is to contribute to a research project and contribute to new methodologies that can be experienced by billions of people around the globe.
+Research Scientist Intern, Computational Photography (PhD) Responsibilities:
+- Responsibilities Research, develop and prototype advanced technologies in the domain of Computer Vision, Computer Graphics, and Machine Learning. Deliver
+research results that are both publishable and have a direct impact on Facebook and/or Oculus products. Analyze the efficiency, accuracy, scalability, and
+stability of currently deployed technologies to identify opportunities for impact through novel research. Collaborate with team members throughout the lifetime
+of a project, from research to prototyping to deploying products.
+Minimum Qualifications:
+- Minimum Qualifications Currently is in the process of obtaining a PhD degree in computer science, electrical engineering, or related fields Experience in one
+or more areas of Computer Science, such as Computer Vision, Machine Learning, Computer Graphics, Image Processing, and Computational Photography. Experience
+with modern C++ and/or Python. Experience with deep learning frameworks such as PyTorch
+Preferred Qualifications:
+- Preferred Qualifications Intent to return to their degree program after the completion of the internship Interpersonal experience: cross-group and cross-
+culture collaboration. Strong communication skills and ability to convey research ideas to a broad audience. Broad understanding of the full machine vision
+pipeline from sensors to high-level algorithms
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

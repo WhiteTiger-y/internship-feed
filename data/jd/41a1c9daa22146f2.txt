@@ -1,0 +1,60 @@
+Apply
+Data Analyst Summer Internship
+Systems & Technology Research (STR) is a growing technology company. We specialize in advanced research and development for defense, intelligence, and national
+security.
+We are seeking a Data Analyst Intern to support data analysis, business systems, process improvement, and operational documentation across STR. This is an in-
+person role out of our Arlington, VA or Woburn, MA site. This position will provide hands-on experience in data interpretation, reporting, workflow analysis,
+software applications, and the development of standardized procedures and training materials. The intern will collaborate with cross-functional teams to improve
+data visibility, streamline business processes, maintain accurate documentation, and support operational efficiency.
+Responsibilities
+In this role, you will:
+- Assist with collecting, organizing, validating, and analyzing data to support business operations and internal decision-making.
+- Develop and maintain spreadsheets, reports, dashboards, and data trackers using Microsoft Excel and other analytical tools.
+- Analyze data trends, identify discrepancies, and summarize findings to support operational reporting and process improvement initiatives.
+- Support the use and administration of business systems, software applications, databases, and other operational tools.
+- Evaluate existing workflows and business processes to identify inefficiencies, opportunities for improvement, and potential areas for automation or
+standardization.
+- Assist with documenting business processes, developing standard operating procedures (SOPs), and maintaining clear, consistent process documentation.
+- Create training documentation, instructional materials, and presentations to support employee education and the adoption of business systems and processes.
+- Develop and update user guides, training materials, and presentations using Microsoft Word, PowerPoint, and applicable content development tools such as
+Articulate.
+- Assist with organizing, maintaining, and improving SharePoint sites, document libraries, and other document management systems.
+- Support data and document quality initiatives by maintaining accurate records, validating information, and ensuring documentation is current and accessible.
+- Collaborate with cross-functional teams to gather requirements, troubleshoot system or process issues, and communicate findings and recommendations.
+- Assist with implementing standardized reporting methods, improving data accessibility, and enhancing operational workflows.
+- Perform other duties as assigned.
+Requirements
+- Currently pursuing a degree in Data Analytics, Computer Science, Information Systems, Business Analytics, Information Technology, or a related field.
+- Must be a U.S. citizen due to the nature of STR's work and applicable regulations.
+- Strong analytical and problem-solving skills, with the ability to interpret data, recognize patterns, and identify opportunities for improvement.
+- Proficiency in Microsoft Office applications, particularly Excel, Word, and PowerPoint.
+- Experience with or an interest in data visualization and reporting tools such as Power BI, as well as querying languages such as SQL, is preferred.
+- Ability to learn new software applications, business systems, and technical tools quickly.
+- Strong written communication skills, with the ability to develop clear, organized, and user-friendly documentation, SOPs, and training materials.
+- Strong organizational skills and attention to detail, particularly when working with data, documentation, and business processes.
+- Familiarity with or an interest in SharePoint, document management, workflow analysis, and process standardization.
+- Self-motivated, adaptable, and collaborative, with the ability to work independently and communicate effectively with cross-functional teams.
+- Previous experience with data analysis, reporting, technical documentation, process improvement, or business systems is beneficial but not required.
+Perks:
+- Competitive pay
+- Free housing for interns at our Massachusetts site, or bonuses at other sites
+- Flexible working hours
+- Fun summer activities both in and outside the office
+Pay Information
+Hourly Range: $25.20–$54.00/hour
+The salary range listed is based on external market data. Offers are based on factors, such as but not limited to, the candidate’s experience, education,
+training, key skills/critical skills, security clearances, and prevailing market and business conditions.
+STR is a growing technology company with locations near Boston, MA, Arlington, VA, near Dayton, OH, Melbourne, FL, Carlsbad, CA, Atlanta, GA, and Denver, CO. We
+specialize in advanced research and development for defense, intelligence, and national security in: cyber; next generation sensors, radar, sonar,
+communications, and electronic warfare; and artificial intelligence algorithms and analytics to make sense of the complexity that is exploding around us.
+STR is committed to creating a collaborative learning environment that supports deep technical understanding and recognizes the contributions and achievements
+of all team members. Our work is challenging, and we go home at night knowing that we pushed the envelope of technology and made the world safer.
+STR is not just any company. Our people, culture, and attitude along with their unique set of skills, experiences, and perspectives put us on a trajectory to
+change the world. We can't do it alone, though - we need fellow trailblazers. If you are one, join our team and help to keep our society safe! Visit us at
+www.str.us for more info.
+STR is an equal opportunity employer. We are fully dedicated to hiring the most qualified candidate regardless of race, color, religion, sex (including gender
+identity, sexual orientation and pregnancy), marital status, national origin, age, veteran status, disability, genetic information or any other characteristic
+protected by federal, state or local laws.
+If you need a reasonable accommodation for any portion of the employment process, email us at appassist@str.us and provide your contact info.
+Pursuant to applicable federal law and regulations, positions at STR require employees to obtain national security clearances and satisfy the requirements for
+compliance with export control and other applicable laws.

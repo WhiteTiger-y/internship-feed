@@ -1,0 +1,79 @@
+Overview
+The Real Estate Lending (REL) AI & Data Science team develops AI-enabled capabilities, machine learning solutions, and advanced analytics that support mission
+critical decision making across REL. By leveraging member, financial and organizational data, the team enhances the member experience, improves operational
+efficiency, and helps business partners achieve strategic objectives through cutting-edge AI and data science solutions. The Summer Associate will support the
+team's AI and data science initiatives by contributing to projects involving machine learning, advanced analytics, or AI agents that drive measurable impact
+across REL and Navy Federal.
+The Summer Associate Program is a 12-week internship program beginning in May 2027 and ending in August 2027. Students will work on impactful projects and
+meaningful work during their internship. To qualify for this position, applicants must be currently pursuing a degree from an accredited college or university
+and have an anticipated graduation date of December 2027 or later.
+Responsibilities
+Potential Projects
+- Explore opportunities to apply large language models (LLMs) or AI agents to enhance information retrieval, analytical workflows, the member experience, or
+operational efficiency.
+- Build a machine learning propensity model to predict the likelihood that an NFCU member will refinance a loan within a defined time period.
+- Perform advanced analytics on large and complex datasets to identify patterns in member behavior, engagement, and loan activity, translating findings into
+actionable business insights.
+Responsibilities
+- Support data science, machine-learning, and AI initiatives for Real Estate Lending.
+- Design, develop, and evaluate large and complex predictive models, advanced algorithms, and LLM-driven AI agents.
+- Develop actionable insights and data-driven recommendations that support business decision-making.
+- Use evaluation, judgment, and interpretation to select right course of action.
+- Work on problems of diverse scopes where analysis of information requires evaluation of identifiable factors.
+- Transform data into charts, tables, or format that aids effective decision making.
+- Utilize effective written and verbal communication to document analyses and present findings and analyses to a diverse audience of stakeholders.
+- Develop and maintain strong working relationships with team members, subject matter experts, and leaders.
+- Model best practices and ethical AI.
+- Participate in all team activities and knowledge shares.
+- Perform other related duties as assigned
+Qualifications
+- Currently pursuing a graduate degree in Data Science, Statistics, Mathematics, Computer Science, Engineering, or another quantitative field.
+- Working knowledge of statistics, machine learning, data mining, data auditing, data aggregation, data reconciliation, and data visualization.
+- Working knowledge of programming, data modeling, simulation techniques, and quantitative analysis.
+- Experience with SQL, R, Python/Pyspark, Hadoop, SAS, AWS, Github and APIs.
+- Experience with Databricks, Azure Environment (AI Foundry), Copilot Studio and PowerBI.
+- Interest in or exposure to AI/LLMs and agent development (prompt engineering, RAG architectures, vector databases, embeddings, AI guardrails, LLM evaluations,
+fine-tuning fundamentals).
+- Ability to understand business problems, identify analytical approaches, and develop practical, data-driven recommendations.
+- Strong research, critical-thinking, analytical, and problem-solving skills, including the ability to identify assumptions, constraints, and risks.
+- Excellent written, verbal, interpersonal, data-storytelling, and presentation skills, with the ability to explain technical concepts to non-technical
+audiences.
+- Ability to collaborate effectively, build relationships, take initiative, manage priorities, and work through ambiguity with sound judgment.
+- Curious, energetic, and growth-oriented approach with a willingness to learn new tools, methods, and business concepts
+Hours:
+Additional Information
+- Monday – Friday, 8:00AM - 4:30 PM ET
+Locations:
+- 820 Follin Lane, Vienna, VA 22180
+- 5550 Heritage Oaks Dr Pensacola, FL 32526
+- 141 Security Dr. Winchester, VA 22602
+About Us
+Navy Federal provides much more than a job. We provide a meaningful career experience, including a culture that is energized, engaged and committed; and fierce
+appreciation for our teams, who are rewarded with highly competitive pay and generous benefits and perks.
+Our approach to careers is simple yet powerful: Make our mission your passion.
+- FORTUNE 100 Best Companies to Work For® 2026
+- Yello and WayUp Top 100 Internship Programs 2025
+- Computerworld® Best Places to Work in IT 2026
+- Most Loved Workplace – America’s Top Most Loved Workplaces® 2025
+- 2025 PEOPLE® Companies That Care
+- Newsweek Most Trustworthy Companies in America 2026
+- Military Times 2025 Best for Vets Employers
+- Forbes® 2026 America's Best Large Employers
+- Forbes® 2025 America's Best Employers for New Grads
+- Forbes® 2025 America's Best Employers for Tech Workers
+- 2025 RippleMatch Campus Forward Award Winner for Overall Excellence
+- Military.com Top Military Spouse Employers 2025
+- 2026 Handshake Early Talent Award
+- Newsweek America’s Greatest Workplaces for Culture, Belonging and Community 2026
+From Fortune Magazine. © 2026 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 100 Best Companies to Work For are
+registered trademarks of Fortune Media IP Limited and are used under license. Fortune Magazine, Fortune Media (USA) Corporation, and its affiliates are not
+affiliated with, and do not endorse products or services of, Navy Federal Credit Union.
+Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to age, race, sex, color, religion, national
+origin, disability, veteran status, pregnancy, sexual orientation, genetic information, gender identity or any other basis protected by applicable law.
+Accommodations: If you need accommodation or assistance for a qualifying condition to complete the online application (or during any stage of the hiring
+process), you can contact Navy Federal's Medical Accommodations team at medicalaccommodations@navyfederal.org or by calling 1-888-503-6013. This team cannot
+provide any information on job postings or application status.
+Disclaimers: Navy Federal reserves the right to fill this role at a higher/lower grade level based on business need. An assessment may be required to compete
+for this position. Job postings are subject to close early or extend out longer than the anticipated closing date at the hiring team’s discretion based on
+qualified applicant volume. Navy Federal Credit Union assesses market data to establish salary ranges that enable us to remain competitive. You are paid within
+the salary range, based on your experience, location and market position. For additional details reg
