@@ -1,0 +1,64 @@
+Job Description:
+Building trusted markets — powered by our people.
+At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that
+powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment
+solutions to market participants around the world.
+Cboe interns work with a variety of staff across multiple departments and have the opportunity to put their skills to work in their field of interest, while
+learning about Exchange technology and operations through our robust Options Institute courses.
+The three main foundational pillars of our internship program are: develop, educate and network. We want to ensure each of our interns receive a real-world
+working experience that encourages academic, professional and personal growth.
+Candidates should be versatile, eager and able to work in a fast-paced, time-sensitive financial and technical environment. Our interns will be working 5 days
+in office per week at one of our state-of-the-art offices in Chicago, Kansas City, and New York City. To be eligible for this internship, applicants must be
+enrolled in a university or college program and should not be scheduled to graduate before December of the internship year. Our internship program runs from
+June to August and you will wrap up your internship with a final presentation and retreat. Visit our student page for more information about our internship
+program!
+The Cboe Quantitative Risk Analyst & Data Analytics intern.
+The Quantitative Risk Analyst & Data Analyst Intern’s at Cboe will assist members of the various groups across Cboe with their innovations and risk management
+programs.
+Your responsibilities and learning objectives will be:
+The Quantitative Risk Analyst Intern at Cboe will
+- Assist the team with quantitative analysis of historical market data as well as portfolios and margin requirements to determine scope for improvements to the
+margin model. This will give interns an opportunity to utilize programing and quantitative skills on real world data and impact on Cboe products.
+- Create (or improve) reports using tools such as Python, Power BI or other tools available within the organization. The intern will have opportunities to
+utilize tools that we widely used for creating reports and will get opportunities to understand how to design impactful analytics and reports.
+- Assist in documentation of risk management process and reports which would prepare interns with necessary skills for technical roles in corporate setting.
+- Support daily monitoring efforts and document observations when exceptions are noted.
+- Have the opportunity to design additional analysis and/or monitoring tools to assist in the clearinghouse’s risk management efforts.
+The ideal candidate has:
+- Should be currently a rising senior in their Bachelors for the Data Analyst roles and second year in a Master’s program for the Quant roles in Financing
+Mathematics, Financial Engineering, Computer Science, or related field and should not be scheduled to graduate before December of the year in which the
+internship takes place.
+- Proficiency in SQL.
+- Proficiency in programming languages such as Python.
+- Strong communication skills and analytical skills.
+- Able to work on multiple assignments and prioritize initiatives.
+You’ll really stand out with:
+- Experience with github for checking in and checking out code, creating pull requests
+Benefits And Perks
+- Competitive compensation
+- Flexible, hybrid work environment, 5 days in office.
+- 2:1 401(k) match, up to 8% match immediately upon hire.
+Some of our employees’ favorite benefits and perks include:
+- Daily complimentary in-office lunch from local restaurants
+- Endless free coffee and snacks to fuel your workday
+- Monthly in office networking events and happy hours
+- Associate Resource Groups (ARGs) and affinity groups for support and community building
+More About Cboe Global Markets
+We’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in
+leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities,
+inside and out, and welcome new perspectives with equity, inclusion and belonging.
+We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders
+and embracing growth in all its forms to achieve incredible outcomes.
+Learn more about life at Cboe on our website, LinkedIn, and our student page for more information about our internship program!
+Equal Employment Opportunity
+We're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender
+identity, national origin, age, disability, and Veteran status.
+This position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States without the need for employer sponsorship
+now or in the future.
+Our pay range for interns is determined by function and education level. The national new hire base pay range for this job in the United States is $22.00 -
+$42.00 per hour. This range represents the minimum and maximum base pay target for new hires working in the position full time.
+Within the range, individual pay is determined by years of education completed. In addition to base pay, eligibility for our total rewards program may include
+benefits such as 401 (k) with a generous company match and paid sick time. Your recruiter will provide more details about the total compensation package during
+the hiring process
+Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use
+any other third party communication tools for recruiting purposes.

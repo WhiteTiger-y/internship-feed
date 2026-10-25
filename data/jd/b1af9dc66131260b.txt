@@ -1,0 +1,65 @@
+About Marvell
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and
+carrier architectures, our innovative technology is enabling new possibilities.
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those
+looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+Your Team, Your Impact
+Marvell is building the silicon that makes AI possible — the custom XPUs, the 224G and 448G SerDes, the Silicon Photonics interconnects, the co-packaged optics
+platforms that hyperscalers depend on to train and deploy the world's most advanced models. Designing that silicon at the pace and complexity the AI era demands
+requires more than engineering talent. It requires intelligence applied to the design process itself. Marvell's AI and machine learning teams are working on
+exactly that — using AI to accelerate how silicon is designed, verified, and deployed, and building the enterprise AI infrastructure that makes Marvell's
+engineering organization faster and smarter at every level.
+This Ph.D. intern pool spans two distinct but connected tracks. The first is hardware-focused: applying ML and AI techniques directly to chip design challenges
+— EDA automation, design space exploration, predictive modeling for timing and power, and AI-driven approaches to physical design and verification at advanced
+process nodes. The second is enterprise-focused: building and deploying the internal AI tools and platforms — including large language model integrations,
+agentic workflows, and AI-assisted engineering systems — that Marvell's global engineering teams use every day. Both tracks sit at the frontier of what applied
+AI research looks like in a production semiconductor environment, and both are grounded in problems that do not yet have off-the-shelf solutions.
+Marvell's Ph.D. Intern Program places doctoral candidates directly inside these active efforts, working on problems that are inseparable from their academic
+research. The work done here is the applied dimension of doctoral research in machine learning, computer science, and electrical engineering — conducted at
+production scale, on real design data, with real consequences for the silicon that ships to the world's largest AI infrastructure operators. What you will take
+away is something no coursework or academic dataset can replicate: the experience of deploying your research inside one of the most complex engineering
+environments in the semiconductor industry.
+What You Can Expect
+Track 1 — AI/ML for Hardware & Chip Design
+As Our Ph.D. AI/ML Intern On The Hardware Track, Every Day You Will Apply Machine Learning Research To Real Chip Design Problems Across Marvell's Advanced
+Silicon Development Flow. Specifically, You Can Expect To
+- Develop and apply ML models — including graph neural networks, reinforcement learning, and generative approaches — to chip design tasks such as placement,
+routing, timing closure, power estimation, and design rule checking
+- Work directly with production EDA tool flows and real design data from active tapeouts in 3nm and 2nm FinFET and Gate-All-Around processes
+- Build predictive models that reduce design iteration cycles and improve first-pass silicon success rates
+- Collaborate with analog, digital, and physical design engineers to identify high-value automation targets and validate model outputs against ground-truth
+silicon results
+- Present research findings and model performance to engineering leadership and contribute to internal technical documentation
+Track 2 — Enterprise AI Tools & Implementation
+As Our Ph.D. AI/ML Intern On The Enterprise Tools Track, Every Day You Will Work On The Deployment And Integration Of Large Language Models And Agentic AI
+Systems Into Marvell's Engineering Workflows. Specifically, You Can Expect To
+- Design, implement, and evaluate LLM-based tools and agentic workflows — including systems built on models such as Claude — for use by Marvell's global
+engineering and operations teams
+- Build retrieval-augmented generation (RAG) pipelines, fine-tuning workflows, and prompt engineering frameworks grounded in Marvell's internal knowledge and
+tooling ecosystem
+- Evaluate model performance, safety, and reliability in production enterprise environments and iterate based on real user feedback from engineering teams
+- Collaborate with IT, security, and engineering stakeholders to ensure responsible and scalable AI deployment across the organization
+- Present implementation results and adoption metrics to cross-functional leadership
+What We're Looking For
+To thrive in this role, you must have hands-on experience building and deploying machine learning systems — not just academic familiarity with the theory.
+Specifically:
+- Currently enrolled in a Ph.D. program in Computer Science, Electrical Engineering, Data Science, or a related field, with a research focus in machine
+learning, AI systems, or a related area
+- Demonstrate applied experience training, evaluating, and deploying ML models using frameworks such as PyTorch or TensorFlow
+- Write production-quality Python; familiarity with version control (Git) and software development best practices is required
+- Apply rigorous experimental methodology — you design experiments, measure results, and draw defensible conclusions from data
+- Communicate technical work clearly to both research and engineering audiences — you will present your work and defend your approach to the teams you work with
+Track 1 — Additional Requirements
+- Coursework or research experience in VLSI design, digital or analog circuit design, computer architecture, or EDA — sufficient to understand the design
+problems your models are solving
+- Familiarity with graph-based ML methods (GNNs), reinforcement learning, or generative models applied to structured engineering data
+- Exposure to EDA tools or chip design flows (Cadence, Synopsys, or equivalent) is a strong plus
+Track 2 — Additional Requirements
+- Design and implement agentic GenAI systems with demonstrated experience across the full stack — LLMs, multimodal models, RAG pipelines, and agentic protocols
+such as MCP and A2A
+- Apply hands-on knowledge of SOTA architectures and frameworks including transformers, diffusion models, and orchestration tools such as LangChain, LangGraph,
+AutoGen, CrewAI, LlamaIndex, or Hugging Face
+- Benchmark and evaluate model performance rigorously — you identify failure modes, propose enhancements, and back conclusions with data
+Preferred Qualifications — Track 2
+- Experience with agentic reasoning, planning, and tool-use patterns in multi-agent orchestration frameworks such as n8n or AutoGen
+- Exposure to end-to-end data pipeline development and model deployment in collaboration with data engineering or p

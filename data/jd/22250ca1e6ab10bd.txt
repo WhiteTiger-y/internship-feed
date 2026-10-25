@@ -1,0 +1,26 @@
+MERL is looking for a self-motivated intern to work on problems at the intersection of multimodal large language models and embodied AI in dynamic indoor
+environments. The ideal candidate would be a PhD student with a strong background in machine learning and computer vision, as demonstrated by top-tier
+publications. The candidate must have prior experience in designing synthetic scenes (e.g., 3D games) using popular graphics software, embodied AI, large
+language models, reinforcement learning, and the use of simulators such as Habitat/SoundSpaces. Hands on experience in using animated 3D human shape models
+(e.g., SMPL and variants) is desired. The intern is expected to collaborate with researchers in computer vision at MERL to develop algorithms and prepare
+manuscripts for scientific publications.
+Required Specific Experience
+- Experience in designing 3D interactive scenes
+- Experience with vision based embodied AI using simulators (implementation on real robotic hardware would be a plus).
+- Experience training large language models on multimodal data
+- Experience with training reinforcement learning algorithms
+- Strong foundations in machine learning and programming
+- Strong track record of publications in top-tier computer vision and machine learning venues (such as CVPR, NeurIPS, etc.).
+Mitsubishi Electric Research Labs, Inc. "MERL" provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to
+race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, MERL complies with applicable state and local
+laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of
+employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+MERL expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national
+origin, age, genetic information, disability, or veteran status. Improper interference with the ability of MERL’s employees to perform their job duties may
+result in discipline up to and including discharge.
+Working at MERL requires full authorization to work in the U.S and access to technology, software and other information that is subject to governmental access
+control restrictions, due to export controls. Employment is conditioned on continued full authorization to work in the U.S and the availability of government
+authorization for the release of these items, which might include without limitation, obtaining an export license or other documentation. MERL may delay
+commencement of employment, rescind an offer of employment, terminate employment, and/or modify job responsibilities, compensation, benefits, and/or access to
+MERL facilities and information systems, as MERL deems appropriate, to ensure practical compliance with applicable employment law and government access control
+restrictions.

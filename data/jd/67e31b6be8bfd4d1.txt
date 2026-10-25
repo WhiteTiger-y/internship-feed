@@ -1,0 +1,27 @@
+Company Description
+Ededge is a ground-breaking organization dedicated to nurturing the potential of our youth and empowering them to explore the vast world of technology and other
+high-growth fields. We have conducted numerous inspiring webinars that have reached an audience exceeding 100 individuals. Our upcoming initiatives will provide
+invaluable learning experiences by allowing audiences to gain insights from accomplished leaders, who will share not only their successes but also their
+journeys through failure. Despite our accomplishments, we remain dedicated to continuous growth, as our ultimate goal is to advance collectively as an
+organization and as a community. We elevate the industry of Ed-Tech by brining in the trainings in the specific fields along with the industry experience.
+Visit Our Website to know about us : www.ededgelearning.com
+Role Description
+This is a remote internship role for a Data Analyst Internship And Training Program. The role will involve day-to-day tasks related to data analytics, including
+data management, data analysis, data modeling, and developing analytical skills. The intern will have the opportunity to work on real-world data projects and
+gain practical experience in the field of data analytics.
+Resposibilities
+- Work closely with our esteemed data science team to gather, refine, and analyze extensive datasets, refining skills in data preprocessing and visualization.
+- Apply machine learning and data mining methods to derive insights from large datasets, including identifying Excel interface structures.
+- Utilize Python programming for Exploratory Data Analysis (EDA) in practical business contexts, with a focus on risk analytics in banking and finance.
+- Develop scientific tests and optimize model performance using cutting-edge modeling technologies such as no-code databases and data mining.
+- Collaborate with a multidisciplinary team to construct machine learning pipelines for various applications in commerce, finance, and procurement.
+- Engage with internal stakeholders to explore and comprehend business data, develop hypotheses, and evaluate strategies using techniques like T-tests.
+- Address specific challenges and devise innovative solutions by leveraging modeling technologies such as bike share systems.
+- Acquire and apply advanced analytical techniques using tools like Tableau.
+- Create reports and presentations to effectively convey data analysis methodologies and findings.
+Qualifications
+- Strong problem-solving and critical thinking abilities
+- Currently pursuing any degree showcasing a strong commitment to continuous learning and professional growth.
+- Excellent communication and teamwork skills
+- Ability to work independently and remotely
+Note : This is an unpaid internship. Upon application, our team will contact you to proceed with the application details and joining process.

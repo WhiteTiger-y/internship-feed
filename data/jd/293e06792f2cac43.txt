@@ -1,0 +1,52 @@
+Join our cutting-edge research team to help advance the next generation of Embodied AI and Humanoid Robotics. As a research intern, you will develop AI
+technologies that enable humanoid robots to understand, reason, and interact with the physical world through complex manipulation, assembly, and tool-use tasks.
+This is a unique opportunity to contribute to impactful research with the goal of publishing at leading AI and robotics conferences.
+What You'll Work On
+Depending On Your Background And Interests, Projects May Include
+- Embodied AI for dexterous manipulation, assembly, and tool use
+- Vision-Language-Action (VLA) models and Foundation Models for robotic control
+- World-Action Models (WAM) for long-horizon planning and decision making
+- Learning from human demonstrations, teleoperation, and autonomous data collection
+- Sim-to-real transfer, reinforcement learning, and real-world robot deployment
+What We're Looking For
+We Are Seeking Highly Motivated Graduate Students With
+- Strong research experience in robotics, embodied AI, machine learning, computer vision, or related fields
+- Experience with deep learning frameworks such as PyTorch or JAX, and strong Python programming skills
+- Familiarity with one or more of the following:
+- Vision-Language-Action (VLA) models
+- Foundation Models or multimodal AI
+- Reinforcement learning or imitation learning
+- Robot manipulation, motion planning, or control
+- Agentic AI systems for robotics
+Preferred Qualifications
+- Hands-on experience with humanoid or loco manipulators (e.g., Unitree G1)
+- Experience with teleoperation systems (e.g., Pico, Sonic)
+- Experience with robotics simulators (e.g., Isaac Sim, MuJoCo, Genesis)
+- Familiarity with ROS/ROS 2 and real-world robot experimentation
+- Familiarity with policy deployment on edge AI devices (e.g., Jetson GPUs)
+Internship Details
+- Duration: Approximately 4 months
+- Start Date: Flexible
+- Location: Cambridge, MA
+- Objective: Conduct high-impact research leading to publications at premier AI and robotics conferences (e.g., CoRL, RSS, ICRA, IROS, NeurIPS, ICML)
+If you are excited about building AI that enables robots to perform complex real-world tasks—including assembly, tool use, and dexterous manipulation—we
+encourage you to apply.
+The pay range for this internship position will be 6-8K per month.
+Mitsubishi Electric Research Labs, Inc. "MERL" provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to
+race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, MERL complies with applicable state and local
+laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of
+employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+MERL expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national
+origin, age, genetic information, disability, or veteran status. Improper interference with the ability of MERL’s employees to perform their job duties may
+result in discipline up to and including discharge.
+Working at MERL requires full authorization to work in the U.S and access to technology, software and other information that is subject to governmental access
+control restrictions, due to export controls. Employment is conditioned on continued full authorization to work in the U.S and the availability of government
+authorization for the release of these items, which might include without limitation, obtaining an export license or other documentation. MERL may delay
+commencement of employment, rescind an offer of employment, terminate employment, and/or modify job responsibilities, compensation, benefits, and/or access to
+MERL facilities and information systems, as MERL deems appropriate, to ensure practical compliance with applicable employment law and government access control
+restrictions.
+In addition to base pay, interns receive a relocation stipend, covered travel to and from MERL, and a monthly Charlie Card for local commuting. Interns are
+invited to participate in weekly social gatherings and professional development opportunities, including research talks by both internal and external speakers.
+Interns who meet the 90-day waiting period are also eligible for health insurance coverage. MERL provides immigration support for qualified candidates as
+needed. Employment is considered “at-will,” and the Company reserves the right to modify base salary or any other compensation program at any time, including
+for reasons related to individual performance, departmental or Company performance, and market conditions.

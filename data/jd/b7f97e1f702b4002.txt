@@ -1,0 +1,48 @@
+Agios is a full stack research organization within Reality Labs Research, spanning materials and manufacturing, sensors and actuators, simulation, and learned
+control. Our mission is to build systems that enhance human capabilities through intelligent machine collaboration. Today that work centers on what we call the
+last bottleneck: AI has compressed the digital side of research and development, while the physical side still moves at human speed. Dexterous Manipulation is
+the pillar attacking that problem directly, pairing a custom dexterous robotic hand with in-house wearable sensing, high accuracy simulation, and glove-driven
+teleoperation.As a Research Scientist Intern, you will work on fast, stable, learned feedback control for multi-fingered robotic hands. Your focus will be
+reinforcement learning in high-fidelity simulation, tactile and proprioceptive feedback, and transfer to real robot hands, with mentors who span hardware,
+simulation, controls, and policy learning.Our internships are sixteen (12) to twenty-four (24) weeks long and we have various start dates throughout the year.
+Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD) Responsibilities:
+- Drive an independent research thread on learned reactive control for dexterous hands, from problem formulation through simulation studies and real-robot
+evaluation.
+- Design controlled experiments and benchmarks that isolate issues with manipulation dexterity.
+- Integrate proprioceptive signals into control policies, and close the sim-to-real gap for contact through system identification, domain randomization, and
+realistic models of upstream policy error.
+- Collaborate across an interdisciplinary team of hardware, simulation, controls, and policy researchers, and communicate research plans, progress, and results.
+Minimum Qualifications:
+- Research experience in reinforcement learning or learning-based control for robotic manipulation or locomotion, demonstrated through publications, open-source
+code, or substantial projects
+- Experience with Python, and with a physics simulator such as MuJoCo, Isaac, or Drake
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading
+workshops or conferences such as RSS, CoRL, ICRA, IROS, T-RO, IJRR, NeurIPS, ICML, or ICLR
+- Experience with sim-to-real transfer of contact-rich, locomotion, or dexterous manipulation policies, including domain randomization, system identification,
+and teacher–student distillation
+- Experience using tactile sensing, force/torque sensing, or contact estimation in policy learning or control
+- Experience in retargeting for locomotion or manipulation
+- Grounding in manipulation mechanics and control, such as contact modeling, impedance and admittance control, and trajectory optimization
+- Hands-on experience with multi-fingered robotic hands or grippers on real hardware
+- Experience working and communicating cross functionally in a team environment
+- Availability for minimum 16 consecutive week internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

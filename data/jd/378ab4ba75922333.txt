@@ -1,0 +1,78 @@
+Ally and Your Career
+Ally Financial only succeeds when its people do - and that’s more than some cliché people put on job postings. We love this stuff! We see our people as, well,
+people - with interests, families, friends, dreams, and causes that are all important to them. Our focus is on the health and safety of our teammates as well as
+work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage
+employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. You’re constantly evolving, so shouldn’t your
+opportunities be, too?
+Work Schedule: Ally designates roles as (1) fully on-site, (2) hybrid, or (3) fully remote. Hybrid roles are generally expected to be in the office a certain
+number of days per week as indicated by your manager. Your hiring manager will discuss this role's specific work requirements with you during the hiring
+process. All work requirements are subject to change at any time based on leader discretion and/or business need.
+The Opportunity
+At Ally, we’re in the business of putting people first and we’ve been doing just that for over 100 years. Our mission isn’t performative either: we show up for
+our customers when it comes to their financial needs. We’re making banking smarter and simpler while serving our communities. We value and encourage the mantra
+of working better together.
+That’s where you come into play. Test drive the tools in your educational toolbox and learn some new skills along the way with an 11-week paid internship with
+us. Your internship with Ally will move you from educated to experienced.
+The Ally Internship Program guides and mentors students with development opportunities and experiences that support your career interests while also driving the
+business forward. You’ll have the opportunity to connect with diverse teams and functions across the company. You will interact with Ally’s leadership and learn
+from their personal successes. You will gain the experience to know what it means to be an Ally!
+The Work Itself
+As part of our Internship Program, you will have an opportunity to:
+- Have hands on experience and project-based work
+- Attend Orientation, Executive Speaking Series, and learning sessions as an Intern cohort
+- Participate in Mentoring Program and Giving Back Events
+- Network with your peers, your team, and those Allys you find interesting
+- Lead an end of assignment presentation
+The Details
+- Internship Program Timing: May 21 – July 31, 2027 (tentative)
+- 40 hours each week with a mix of in-office and remote working days
+- Project-based work
+- Market competitive hourly compensation and a sign-on bonus, as well as financial housing assistance for those who qualify
+- Successful interns will have the opportunity to return to Ally in an Early Talent Program or full-time role, or to a second internship, depending upon
+graduation timing.
+The Work Itself
+Consumer Banking
+Consumer Banking is all about the customer. The primary focus of the internship role will be supporting the Forecasting & Data Science analytics team as they
+focus on producing and maintaining robust forecasts of interactions with the contact centers.
+Intern Key Experiences
+- Learn to query and transform large datasets into business insights using SQL, with an emphasis on time series analysis techniques
+- Effectively leverage AI tools for coding, automation, data analysis, and insight discovery.
+- Develop, automate, and publish information reports (Power BI, automated Excel dashboards, etc.) and present analysis to key stakeholders and leadership using
+data storytelling best practices
+The Skills You Bring
+Required Qualifications.
+- Rising Junior or Senior (during the time of internship) in a full-time undergraduate program.
+- Excellent leadership, interpersonal and communication skills.
+- Available for the full duration of the internship program.
+- Eligible to work in the US for any employer without sponsorship from the company now or in the future.
+- A passion for the financial services and technology industry is strongly preferred.
+Preferred Qualifications.
+- Technical Skills - Experience with a wide variety of tools: Snowflake, Excel, Power BI, Posit (Python and/or R).
+- Communication skills - strong written skills and verbal communication, ability to present ideas clearly and professionally, and comfort working with multiple
+stakeholders.
+- Problem solving - strategic, problem-solving, customer-focused proactive mindset, ability to troubleshoot small issues and escalate when needed, and openness
+to feedback and continuous improvement.
+- Collaboration and adaptability - Comfortable collaborating with partner analytics teams and product managers, and a positive attitude and eagerness to learn.
+- Organizational skills - ability to manage multiple tasks and deadlines, strong attention to detail, and good follow-through and reliability
+- Responsive to feedback.
+- Preferred degrees: Computer Science, Data Science
+Minimum Qualifications
+- 0+ years of experience
+- High school Diploma or GED equivalent
+How We'll Have Your Back
+Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. Our
+Total Rewards program includes industry-leading compensation and benefits plus additional incentives that are designed to meet your needs and those of your
+family so you can get the most out of your career and your life, including:
+Time Away: Program starts at 20 paid time off days in addition to 11 paid holidays and 8 hours of volunteer time off yearly (time off days are prorated based on
+start date and program varies based on full or part-time status and management level).
+Planning for the Future: plan for the near and long term with an industry-leading 401K retirement savings plan with matching and company contributions, student
+loan pay downs and 529 educational save up assistance programs, tuition reimbursement, employee stock purchase plan, and financial learning center and financial
+coach access.
+Supporting your Health & Well-being: flexible health and insurance options including medical, dental and vision, employee, spouse and child life insurance,
+short- and long-term disability, pre-tax Health Savings Account with employer contributions, Healthcare FSA, critical illness, accident & hospital indemnity
+insurance, and a total well-being program that helps you and your family stay on track physically, socially, emotionally, and financially.
+Building a Family: adoption, surrogacy and fertility assistance as well as paid parental and caregiver leave, Dependent Day Care FSA back-up child and
+adult/elder care days and childcare discounts.
+Work-Life Integration: other benefits including Mentally Fit Employee Assistance Program, subsidized and discounted Weight Watchers® program and other employee
+discount programs.
+Other Compensations: depending on t

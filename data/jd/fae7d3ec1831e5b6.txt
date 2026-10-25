@@ -1,0 +1,65 @@
+Work Location Type: Hybrid
+Req Number 332746
+About Grainger
+W.W. Grainger, Inc., is a leading broad line distributor with operations primarily in North America, Japan and the United Kingdom. At Grainger, We Keep the
+World Working® by serving more than 4.5 million customers worldwide with products and solutions delivered through innovative technology and deep customer
+relationships. Known for its commitment to service and award-winning culture, the Company had 2024 revenue of $17.2 billion across its two business models. In
+the High-Touch Solutions segment, Grainger offers approximately 2 million maintenance, repair and operating (MRO) products and services, including technical
+support and inventory management. In the Endless Assortment segment, Zoro.com offers customers access to more than 14 million products, and MonotaRO.com offers
+more than 24 million products. For more information, visit www.grainger.com.
+Compensation
+This position is hourly, and the starting pay rate is $33/hour
+The rate of pay provided above is not a guarantee of compensation. The rate reflects the expected base pay for this role at the time of this posting based on
+the job grade for this position.
+Grainger reserves the right to amend, modify, or terminate its compensation and benefit programs in its sole discretion at any time, consistent with applicable
+law.
+Internship Overview
+The Grainger Technology Group (GTG) internship is a 10-week, paid program based in our downtown Chicago office where interns work across teams such as Product
+Engineering, Cybersecurity, Applied Machine Learning User Experience, Digital Experience Analytics, and more to help build the technology that keeps Grainger
+and its customers moving. As a GTG intern, you will be treated as a member of the team and contribute to meaningful work tied to real customer and business
+outcomes, not a separate side project. You will gain hands-on exposure to modern technology stacks, digital platforms, AI-enabled workflows, and enterprise
+systems while learning from experienced team members. Throughout the summer, you will also participate in networking, social, and professional development
+events and present the work you accomplished to senior leadership.
+Position Details
+As a Data Science Intern on the Digital Experience Analytics team, you will use statistics, modeling, experimentation, and data storytelling to help Grainger
+better understand digital customer behavior and improve customer-facing and enterprise digital experiences. You will partner with analytics, product,
+technology, and business stakeholders to frame questions, evaluate data, develop models or analyses, and translate findings into recommendations that can guide
+decisions.
+This role is ideal for someone who enjoys solving ambiguous problems, exploring large datasets, and connecting technical analysis to business impact. You will
+gain exposure to modern data platforms, statistical and machine learning techniques, digital analytics tools, and AI-enabled workflows while learning how data
+science influences product and customer experience decisions at scale.
+You Will
+- Analyze customer experience across digital channels to uncover opportunities to create value for Grainger and our customers.
+- Work with senior analytics team members and business stakeholders to understand business needs and scope projects.
+- Gather, clean, explore, aggregate, and analyze data from large digital and business data ecosystems.
+- Build models, automation, tooling or AI agents for analytics that make insights easier for stakeholders to understand and act upon.
+- Use tools and platforms such as Snowflake, Power BI, Excel, Adobe Analytics, SQL, Python, R, and AI-enabled productivity tools when appropriate.
+- Summarize insights, implications, limitations, and tradeoffs for both technical and non-technical audiences.
+- Partner closely with current team members on ongoing activities such as ad hoc analysis, A/B testing, troubleshooting, and measurement planning.
+- Learn how a modern analytics team operates and how data influences digital products, customer experience, and technology decisions.
+- Demonstrate ownership, curiosity, adaptability, and critical thinking while contributing as part of the team.
+- Present your work, impact, and key learnings to technology leaders at the end of the internship.
+You Have
+- Currently pursuing a degree in quantitative fields such as Data Science, Statistics, Mathematics, Engineering, Analytics, Operations Research, Economics,
+Computer Science, or a related field.
+- Expected graduation with a bachelor’s degree between December 2026 and June 2027; current enrollment in a Masters program is preferred.
+- Evidence of self-directed learning, project work, case competitions, internships, coursework, or other experiences using data to solve problems.
+- General knowledge of analytics, statistics, or data science and the curiosity to explore large data ecosystems in a business context with an interest in
+digital customer behavior and customer experience measurement.
+- Experience coding for data science or analytics applications; Python or R preferred.
+- Experience with statistical modeling or machine learning techniques such as regression, classification, clustering, natural language processing, time-series
+modeling, or experimentation.
+- Knowledge of database design and logic (e.g. Teradata, Snowflake), with the ability to build queries in SQL or similar query languages.
+- Ability to explain technical decisions, compare approaches, and describe the tradeoffs behind models, tools, or methods.
+- Ability to communicate clearly through written summaries, visualizations, presentations, and stakeholder conversations.
+- Willingness to use AI and analytics tools thoughtfully while validating outputs and explaining assumptions.
+- Strong collaboration skills to effectively work with partners across analytics, product, technology, and business teams.
+- Cumulative GPA of 3.2 or higher.
+- Does not require sponsorship.
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex (including pregnancy), national origin, sexual orientation,
+age, citizenship, marital status, disability, gender identity or expression, protected veteran status or any other protected characteristic under federal,
+state, or local law. We are proud to be an equal opportunity workplace.
+We are also committed to fostering an inclusive, accessible work environment that includes both providing reasonable accommodations to individuals with
+disabilities during the application and hiring process as well as throughout the course of one’s employment, should you need a reasonable accommodation during
+the application and selection process, including, but not limited to use of our website, any part of the application, interview or hiring process, please advise
+us so that we can provide appropriate assistance.

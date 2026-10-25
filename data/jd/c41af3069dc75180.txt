@@ -1,0 +1,31 @@
+Overview
+We are seeking a full-time Data Scientist Intern at Garmin's U.S. headquarters in the Greater Kansas City area. In this role, you will be responsible for
+learning and training to develop complex data sets, machine learning models, and collaborate with cross-functional teams to provide actionable insights and AI
+products.
+Essential Functions
+- Contribute to the collecting, cleaning, and preprocessing of large datasets from multiple sources
+- Contribute to exploratory data analysis (EDA) to identify trends, patterns, and anomalies
+- Learn to develop and implement predictive models using machine learning and statistical methods
+- Collaborate with cross-functional teams to translate data insights into actionable recommendations
+- Learn to build and deploy annotation, training, and evaluation pipelines and automate workflows to improve efficiency
+- Learn to develop processes and tools to monitor and analyze model performance and data accuracy
+- Learn to visualize and present data for stakeholders using basic graphics/technologies
+- Use predictive modeling to enhance user experiences, revenue generation, and business initiatives
+- Learn and adapt methods from senior team members
+- Participate in peer reviews and provide constructive feedback
+- Demonstrate a drive to learn and master new technologies and techniques
+Basic Qualifications
+- Pursuing a degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math or relevant field
+- Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+- Familiarity using systems such as SQL, Python or R
+- Understanding of basic descriptive and inferential statistics
+- Knowledge in data analysis methods and tools
+- Demonstrated strong and effective verbal, written, and interpersonal communication skills
+- Must be team-oriented, possess a positive attitude and work well with others
+- Driven problem solver with proven success in solving difficult problems
+- Consistently demonstrates quality and effectiveness in work documentation and organization
+Desired Qualifications
+- Previous experience working in a team environment
+Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color,
+national origin, citizenship, sex, sexual orientation, gender identity, veteran's status, age or disability.
+This position is eligible for Garmin's benefit program. Details can be found here: Garmin Intern Benefits

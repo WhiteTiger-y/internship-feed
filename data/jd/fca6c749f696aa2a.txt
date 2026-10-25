@@ -1,0 +1,34 @@
+Introduction
+At IBM Research, we are the innovation engine of IBM. Exploring what’s next in computing and shaping the technologies the world will rely on tomorrow. From
+advancing AI and hybrid cloud to pioneering practical quantum computing, we anticipate challenges and unlock new opportunities for clients, partners, and
+society. Working in Research means joining a team that accelerates discovery at the intersection of high-performance computing, AI, quantum, and cloud. You’ll
+collaborate with leading scientists, engineers, and visionaries to push boundaries and turn ideas into reality. With a culture built on curiosity, creativity,
+and collaboration, IBM Research offers the opportunity to grow your career while contributing to breakthroughs that transform industries and change the world.
+Your Role And Responsibilities
+We are seeking a highly motivated Research AI Engineer Intern to join our team and help build, test, and deploy real-world applications of AI. In this role,
+you’ll work closely with engineers, researchers, and product managers to translate cutting-edge AI techniques into practical solutions for enterprise and user-
+facing applications, as well as contribute to the development of AI tools and platforms that improve how AI systems are built and deployed.
+This internship is ideal for MS/PhD students who are passionate about LLMs, generative AI, and applied machine learning—and who want hands-on experience
+creating AI-driven tools, workflows, and prototypes.
+Responsibilities
+- Collaborate with AI researchers and engineers to design, prototype, and implement AI solutions.
+- Work with large language models (LLMs), multimodal models, and agentic frameworks to solve real-world use cases.
+- Design, build, and maintain AI agent frameworks and platforms that enable scalable orchestration, tool integration, and autonomous task execution across
+enterprise and user-facing applications.
+- Develop experimental demos, proof-of-concepts, and integrations that showcase the value of AI.
+- Stay current with recent AI research and propose ways to bring new methods into practical applications.
+What You’ll Gain
+- Hands-on experience working with state-of-the-art AI models and systems.
+- Mentorship from experienced engineers and researchers.
+- Opportunity to build portfolio-worthy AI applications and demos.
+- Exposure to enterprise-scale AI development and deployment practices.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Currently pursuing a degree in Computer Science, Engineering, or related field (MS/PhD).
+- Strong programming skills in Python.
+- Familiarity with machine learning fundamentals, natural language processing and generative AI.
+- Strong problem-solving mindset and ability to work in a collaborative team environment.
+Preferred Technical And Professional Experience
+- Understanding of MLOps concepts (model deployment, monitoring, scaling).
+- Prior experience with open-source contributions, research projects, or hackathons related to AI.

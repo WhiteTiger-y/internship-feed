@@ -1,0 +1,50 @@
+AI Engineer Intern
+Division: Business Technology – Data & AI
+Location: Hybrid | Omaha, NE (Tower)
+Reports to: Manager, AI Strategic Delivery
+About WoodmenLife’s Data & AI Team
+Our Data & AI organization is made up of 23 talented professionals—including Data Engineers, Data Analysts, Data Architects, Data Scientist and AI
+Engineers—working together to build modern, scalable data and AI solutions that move WoodmenLife forward. As an AI Engineer Intern, you’ll be part of a
+collaborative team building cutting‑edge Enterprise AI solutions. AI solutions that directly support major business operations.
+Why You’ll Love This Internship
+- Work directly with frontier AI technologies
+- Build real solutions that go into production
+- Join a supportive, high-energy team pushing innovation forward
+Role Overview
+The AI Engineer Intern will work closely with experienced AI Engineers to design, develop, test, and document AI‑driven solutions using Microsoft’s Azure AI
+ecosystem. This role is ideal for a student or early‑career technologist who wants hands‑on experience with frontier AI technologies and real‑world production
+systems.
+What You’ll Do (Daily Responsibilities)
+- Participate in daily stand‑ups and collaborate with teammates on project priorities
+- Work with senior AI Engineers to build agentic and automation solutions
+- Assist in testing and validating technologies being developed for production
+- Create documentation and contribute to the team’s internal knowledge base
+- Partner with business stakeholders to understand processes and identify opportunities for automation
+Tools & Technologies You’ll Use
+- Microsoft 365
+- Copilot Studio
+- Microsoft Foundry
+- Claude Code
+- Azure AI ecosystem
+Career Growth Opportunities
+This internship provides a strong foundation for future full‑time roles in AI engineering. Top‑performing interns may have the opportunity to transition into an
+AI Engineer I role.
+What We’re Looking For
+- Interest in AI, Machine Learning, Custom CoPilots, and unstructured data
+- Curiosity, adaptability, and willingness to learn
+- Ability to collaborate with technical and business partners
+- Strong problem‑solving and communication skills
+Team Culture & Leadership
+You’ll report to our Manager, AI Strategic Delivery, who leads with a collaborative management style and values open communication. The team prides itself on
+being supportive, innovative, and fun—always exploring new ways to leverage AI to reinvent how work gets done.
+WoodmenLife offers a competitive compensation package and a comprehensive benefits package (https://www.woodmenlife.org/careers/home-office/benefits/). As part
+of WoodmenLife’s employment process, candidates will be required to complete a criminal background check, credit check (where required for position),
+Fingerprint check (where required for position), drug screen and reference checks. Any offer of employment will be contingent upon successfully passing the
+above.
+WoodmenLife is committed to excellence in diversity by creating an inclusive work environment that values and respects all individuals. We welcome and embrace
+associates, regardless of background and beliefs. WoodmenLife respects every associate’s unique perspective and contribution. We are committed to creating an
+inclusive environment that values differences, and creates opportunities for growth, leadership and service. This commitment includes providing equal
+opportunity in recruitment, employment and promotion, training and community outreach. WoodmenLife is also dedicated to strengthening the communities in which
+its employees live.
+APPLICANTS WITH DISABILITIES SHOULD ADVISE THE HUMAN RESOURCES DEPARTMENT AT THE TIME OF APPLICATION IF SPECIAL ACCOMMODATIONS ARE NEEDED.
+Woodmen of the World Life Insurance Society (WoodmenLife) is an equal opportunity employer.

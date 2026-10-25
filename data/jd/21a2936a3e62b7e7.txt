@@ -1,0 +1,56 @@
+The Meta Reality Labs Research Team brings together a world-class team of researchers, developers, and engineers to create the future of AR and VR. The Surreal
+Vision group at RL Research is seeking exceptional Research Scientists to research and help build the egocentric machine perception functionalities and digital
+twins of 3D scenes that will underpin future VR and contextual-AI-enabled AR devices. This internship focuses on developing a learned model for motion analysis
+for swing sports as an alternative to heuristic, threshold-based methods. Research goals include: improving analysis accuracy, generalization across players and
+equipment, and generating interpretable feedback outputs. The intern will contribute to egocentric data collection using the team's simulator research setup, in
+addition to model development. Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year. Some projects
+may require a minimum of 24 consecutive weeks.
+Research Scientist Intern, Wearable Sensing & Human Motion Analysis Responsibilities:
+- Operate egocentric data collections on our state-of-the-art in-lab simulator - instrument participants with Aria Gen 2 and Neural Band wearables, run capture
+sessions, and use the simulator's ground-truth as supervision and validation signal for your models.
+- Design and train models over multimodal egocentric time-series: Aria Gen 2 (SLAM/IMU, eye gaze, RGB) fused with Neural Band surface EMG and wrist IMU.
+- Tackle the core modeling problems: temporal swing phase segmentation (address → takeaway → impact → follow-through), kinematic/intent estimation from a head-
+mounted and wrist-worn viewpoint, and swing-quality scoring.
+- Build an evaluation harness that benchmarks the model against the existing threshold baseline on held-out players - accuracy, phase-boundary error, and cross-
+subject generalization.
+- Define the capture and labeling protocol, and handle the realities of small, noisy, personalized datasets (self-supervised pretraining, augmentation, subject-
+adaptive fine-tuning).
+- Integrate the winning model back into our prototype and demo it end to end.
+- Write up results
+- strong work is a candidate for publication or an internal tech report.
+Minimum Qualifications:
+- Currently has, or is in the process of obtaining a PhD degree in the domain of Computer Science, Electrical Engineering, Robotics, Biomechanics, or a related
+field
+- Strong Python and hands-on experience training models in PyTorch
+- Working knowledge of sequence/time-series modeling (temporal CNNs, transformers, state-space models, HMM/CTC-style segmentation)
+- Experience working with real sensor data, not just curated benchmarks
+- Comfortable running hands-on hardware experiments with human participants in a lab setting
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Experience designing and executing your own data collections with wearable or motion-capture hardware
+- Research experience with IMU-based human activity recognition, pose/motion estimation, or wearable biosignals
+- Experience with surface EMG: filtering, rectification, envelope extraction, electrode-shift and cross-session variability
+- Familiarity with egocentric perception (Project Aria, Ego4D/Ego-Exo4D, Aria Digital Twin) or multimodal sensor fusion
+- Background in sports biomechanics or motion analysis
+- self-supervised or few-shot learning for personalization
+- First-author publications at CVPR/ICCV/ECCV/NeurIPS/ICLR, or in biomechanics and wearables venues
+- Plays swing sports - genuinely helpful for labeling and sanity-checking feedback
+- Intent to return to a degree-program after the completion of the internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

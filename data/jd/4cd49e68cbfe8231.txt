@@ -1,0 +1,40 @@
+Meta Reality Labs Research is looking for an intern to help us develop the next-generation of policy learning algorithms for robotics applications. In
+particular, we are seeking candidates who have experience with reinforcement learning, robotic policy learning, diffusion and flow models, vision-language-
+action models (VLAs), and sim2real to devise effective algorithms to train control policies for dexterous robot manipulation.Our internships are twelve (12) to
+twenty-four (24) weeks long and we have various start dates throughout the year.
+Research Scientist Intern, Policy Learning for Robotics (PhD) Responsibilities:
+- Develop and implement strategies for training dexterous robot manipulation policies that are efficient and robust under the complexity of contact.
+- Implement and optimize the methods devised on a large-scale cluster infrastructure.
+- Collaborate with research scientists and software engineers to build demos and experiences based on the developed tools.
+- Plan, write and submit the research to high impact conferences, journals or workshops in the field of robot learning or reinforcement learning for broader
+visibility.
+Minimum Qualifications:
+- Research skills involving defining problems, exploring solutions, and analyzing and presenting results
+- Experience implementing numerical methods and/or deep learning models in a large-scale code
+- Proficient in Python
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading
+workshops or conferences such as NeurIPS, ICML, ICLR, RLC, IROS, ICRA, RSS, CoRL or similar
+- Experience with training deep learning models and familiarity with tools like PyTorch
+- Experience with parallel distributed large-scale model training on CPU/GPU clusters
+- Experience working and communicating cross functionally in a team environment
+- Availability for minimum 16 consecutive week internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

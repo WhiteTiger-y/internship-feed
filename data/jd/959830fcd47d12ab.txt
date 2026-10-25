@@ -1,0 +1,57 @@
+Meta was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world
+communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Meta offers countless ways
+to make an impact in a fast growing organization.Meta is seeking Research Interns to join our research team within Meta Recommendation Systems (MRS). This team
+brings together a world-class team of AI Research Scientists and Engineers. The team is exploring and advancing SoTA technology, centering around AI and ML, to
+arrive at a unified infrastructure and model service to leapfrog recommendation systems (Recsys), its theory and algorithms across Meta (Facebook, Instagram and
+WhatsApp, the “Family of Apps” (FoA)). Our interns will have the opportunity to perform cutting-edge research on AI for Recsys with the potential to have an
+impact at Meta’s scale.Our vision is to leverage AI frontier models and technology in all aspects of recommendation systems including but not limited to deep
+understanding of multi-modal content (especially images/videos, posts, user interactions), modeling user interests and preference, agentic AI for recsys,
+recursive self-improvement for recsys, values of the ecosystems. We contribute to the mission of connecting users to the content they enjoy, are inspired by,
+and that they want to see more of. To this end, we conduct cutting-edge research using the complete suite of audio, visual, text and metadata signals associated
+with posts and videos to improve recommendation relevance across all surfaces and provide a better, more meaningful experience to users. We build tools, create
+frameworks and train models that we deploy together with product and infrastructure teams to gain adoption across the FoA. We also publish scientific papers to
+help advance the state of the art in all aspects of the technology stack.Our team offers twelve (12) to twenty-four (24) weeks long internships and we have
+various start dates throughout the year.
+Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD) Responsibilities:
+- Initiate and lead efforts towards long-term ambitious research goals, while identifying intermediate milestones in the area of recommendation systems and
+models, user and content understanding and multi-modal (video, audio, and text) LLM analysis for classification and relevance use cases.
+- Conduct original research that can eventually be applied to Meta product development, engage with the wider research community, including publishing and
+releasing open source software where appropriate.
+- Design, train and support AI/ML libraries and models to implement new features and functionality for use internally at Meta.
+- Collaborate with researchers and cross-functional partners including communicating research plans, progress, and results.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Machine Learning, Computer Vision, Artificial Intelligence, or relevant
+technical field
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience with Python, with experience in machine/deep learning libraries such as Pytorch and Transformers
+- Familiarity with AI/ML modeling and algorithmic techniques (e.g., various components of multimodal LLM, RAG, LSTM, GRU, Transformers, RL, and/or its
+acceleration for large scale use cases) and new emergent technologies such as agentic AI, RSI, autoresearch, etc
+- Experience building systems based on machine learning and/or deep learning methods
+Preferred Qualifications:
+- Intent to return to the degree program after the completion of the internship
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops or
+conferences such as NeurIPS, ICLR, KDD, ICML, SIGIR, WSDM, RecSys, CIKM, CVPR, ECCV/ICCV/WACV, ACL, EMNLP, ICASSP, CoLM, or similar venues
+- Experience working and communicating cross functionally in a team environment
+- Prior research or project experience in sequence modeling, recommendation systems, or user modeling, RL, etc
+- Prior research or project experience about LLMs (e.g., pre/mid-training, alignment, post-training, RLVR, etc.) and agents (e.g., meta-harness, self-evolving
+agents, etc.)
+- Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories
+(e.g. GitHub)
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

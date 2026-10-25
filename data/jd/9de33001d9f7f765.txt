@@ -1,0 +1,53 @@
+Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable
+the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of
+identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who
+trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s
+biggest brands.
+About Our Summer Internship Program
+Our Summer Internship Program is designed for students entering their final year of university who are eager to gain meaningful, real-world experience in a fast
+paced, collaborative, and professional environment.
+As a Summer Intern, you'll participate in a comprehensive onboarding experience led by our University Relations team to set you up for success from day one.
+Throughout the program, you'll also have the opportunity to participate in weekly professional development sessions, networking events, social activities, and
+other engaging experienced designed to support your personal and professional growth.
+The program takes place from June – August 2027 (10-week program).
+Your Role
+The Center of Expertise (CoE) is a global team built to solve our customers' most complex technical challenges and turn what we learn into repeatable value for
+the rest of the business. As our AI & Automation Engineering Intern, you'll spend the summer building. You'll prototype AI-assisted tools, agents, and
+automations that help a small, fast-moving team scale its impact without scaling its headcount. This is a hands-on, build-focused role: what you create is meant
+to still be running after your internship ends.
+- Design, prototype, and test AI-driven tools, agents, and workflow automations that reduce manual effort across the team’s core processes
+- Partner with team leads to identify repetitive, high-volume work and convert it into automated or AI-assisted solutions
+- Build automation around internal feedback loops so information moves faster and more consistently between teams
+- Evaluate AI platforms, frameworks, and tooling, and make practical recommendations on where they add real value
+- Document and hand off what you build so the team can maintain, extend, and scale it after the program ends
+- Present your work, results, and recommendations to CoE leadership at the close of the internship
+Requirements
+- Rising Junior or Senior pursuing a Bachelor’s degree or a graduate student in an accredited college or university, preferably in Computer Science, Software
+Engineering, Data Science, or a related technical field
+- Excellent written, verbal and communication skills
+- Hands-on experience with at least one programming language preferred (Python preferred) through coursework, personal projects, or a prior internship
+- Familiarity with AI and large language model concepts, and demonstrated curiosity for applying them to real problems — coursework, personal projects, and
+hackathons all count
+- Comfort working with APIs, scripting, and connecting systems together
+- Proficiency in Windows and Microsoft Office
+- Ability to work independently with limited direction in a fast-paced environment; must be a high-energy, motivated self-starter
+Benefits
+As a paid intern at Veeam, you’ll receive:
+- Paid Company Holidays during your internship
+- Tech Stipend to help set up your workspace
+- 8 Hours of Paid Volunteer Time through our Veeam Cares Program
+- Personal and Professional Development through our Internship Program
+- Access to Enterprise- Grade Software Gain new exposure and experience to multiple new tools, including the latest and cutting edge AI products in the market
+We’re committed to providing a supportive and rewarding internship experience.
+The pay range posted is an hourly rate of base pay. When making an offer of employment, Veeam will take into consideration the candidate’s expectations,
+experience, education, scope of responsibility for the role, and the current market demands.
+United States of America Intern Pay Range
+$20 - $25 USD
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national
+origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept
+confidential.
+Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice, which explains how your information
+is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.
+By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your
+knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins,
+termination of employment.

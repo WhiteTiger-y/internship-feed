@@ -1,0 +1,27 @@
+Introduction
+At IBM Research, we are the innovation engine of IBM. Exploring what’s next in computing and shaping the technologies the world will rely on tomorrow. From
+advancing AI and hybrid cloud to pioneering practical quantum computing, we anticipate challenges and unlock new opportunities for clients, partners, and
+society. Working in Research means joining a team that accelerates discovery at the intersection of high-performance computing, AI, quantum, and cloud. You’ll
+collaborate with leading scientists, engineers, and visionaries to push boundaries and turn ideas into reality. With a culture built on curiosity, creativity,
+and collaboration, IBM Research offers the opportunity to grow your career while contributing to breakthroughs that transform industries and change the world.
+Your Role And Responsibilities
+Join a team pioneering the next generation of storage systems for AI and agentic AI. In this role, you will conduct innovative research at the intersection of
+AI, systems, and storage, tackling fundamental challenges in performance, scalability, and efficiency. You will contribute across the entire industrial research
+cycle, from developing novel ideas and system designs to building prototypes, evaluating performance at scale, demonstrating real-world impact, and publishing
+your findings in leading scientific venues. Candidates should have a strong interest in systems research and experience with performance measurement,
+benchmarking, and analysis.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Currently pursuing a degree in Computer Science, Engineering, or related field (MS/PhD), with a focus on systems or at the intersection of systems and AI;
+- Experience with system performance measurement and analysis;
+- Programming languages: Python, Go, Bash, Rust
+- Using, administering, and programming for Linux environment;
+- Tools and platforms: Kubernetes, Docker, Git;
+- Basic understanding of the storage stack in Linux
+Preferred Technical And Professional Experience
+- Understanding of LLM technology, distributed inference, llm-d/vLLM and KVCache in particular;
+- Designing and implementing distributed systems and storage systems;
+- GPU programming;
+- High-performance storage systems;
+- C++ programming language
