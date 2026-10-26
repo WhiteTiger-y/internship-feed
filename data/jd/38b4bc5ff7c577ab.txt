@@ -1,0 +1,68 @@
+Responsibilities
+The Data-AML-Engine Orchestration team builds large-scale machine learning infrastructure that powers online model serving across ByteDance products, including
+TikTok. We develop the orchestration, scheduling, and resource management systems that connect heterogeneous compute infrastructure with production ML
+workloads.
+You will work on systems that directly affect GPU utilization, serving latency and availability, infrastructure reliability, and MLE productivity. Depending on
+your background and interests, you may focus on one or more of the following areas.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities:
+- Design and build foundational orchestration capabilities for machine learning platforms, including Kubernetes Operators, container runtimes, and lifecycle
+management for jobs, services, and stateful workloads.
+- Build multi-tenant resource and quota systems that support priorities, preemption, fair sharing, elasticity, and cross-cluster scheduling. Improve GPU
+utilization and cost efficiency through resource pooling and FinOps.
+- Build lifecycle orchestration for online model serving, including model and image distribution, deployment, upgrades, rollback, autoscaling, multi-cluster
+operation, and disaster recovery.
+- Build serving orchestration and traffic management capabilities for disaggregated serving clusters, including topology-aware scheduling, KV Cache affinity,
+intelligent request routing, and QoS/SLA management.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, Artificial Intelligence, or a related technical field.
+- Proficiency in at least one of Go, C++, or Python, with a solid foundation in data structures, algorithms, and software engineering principles.
+- Familiarity with Linux and a foundational understanding of operating systems, computer networks, concurrent programming, and distributed systems.
+- Strong hands-on and exploratory abilities, with a willingness to investigate systems through source code, metrics, logs, profiling, and experiments.
+- A systematic and quantitative approach to problem solving, with the ability to define measurements, test hypotheses, and validate system improvements.
+- Demonstrated ownership and collaboration through coursework, research, internships, open-source contributions, or other engineering projects.
+Preferred Qualifications:
+- Experience with Kubernetes, container runtimes, resource scheduling, quota management, multi-tenant systems, or FinOps.
+- Contributions to open-source infrastructure projects such as Kubernetes, Volcano, Koordinator, or OpenKruise.
+- Experience with model serving systems such as vLLM, SGLang, Triton, KServe, or Ray Serve, or an understanding of KV Cache, Continuous Batching, Prefill/Decode
+disaggregation, or model parallelism.
+- Experience with online services, gateways, traffic management, autoscaling, performance optimization, or highly available distributed systems.
+- Experience with GPU/NPU programming, heterogeneous resource scheduling, model distribution, or inference performance analysis.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $42.75- $42.75.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are
+committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hop

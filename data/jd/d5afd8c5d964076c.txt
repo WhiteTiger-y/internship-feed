@@ -1,0 +1,47 @@
+Job Description
+Job Title : AI/ML Engineer Intern – AI Technology & Product Support
+Position Overview
+Gain practical exposure to AI/ML development, emerging AI technologies, enterprise applications, and technology product support in an apprenticeship role. This
+opportunity combines AI research and prototyping with AI governance, business process improvement, application administration, and collaboration across
+technical and business teams.
+Working under supervision, you will contribute to AI initiatives, help evaluate technology solutions against business needs, and support application portfolios,
+project delivery, and continuous improvement activities.
+What You'll Do / Key Responsibilities
+- Research emerging AI trends, tools, technologies, and vendor solutions, evaluating their relevance to defined business use cases.
+- Contribute to the development of AI/ML models and prototype applications for prioritized use cases.
+- Help design and document data and AI pipelines that integrate with existing systems.
+- Prepare reports, analyses, presentations, and recommendations that clearly communicate research findings and outcomes.
+- Collaborate with data, engineering, software development, and governance teams.
+- Support AI governance activities, including risk assessments, compliance tracking, and documentation maintenance.
+- Identify opportunities to improve business processes through AI, automation, and digital solutions.
+- Administer assigned enterprise applications, supporting configuration, access management, and operational activities.
+- Act as a Technical Product Owner (TPO) for assigned divisions and application portfolios.
+- Partner with project managers, architects, developers, vendors, and stakeholders to support project delivery and application enhancements.
+- Build and maintain relationships with business stakeholders and division leadership.
+- Coordinate production support activities, monitor issues, and manage escalations through resolution.
+- Assist with application modernization, continuous improvement, and innovation initiatives.
+- Support vendor management, software renewals, governance activities, and portfolio planning efforts.
+Required Qualifications
+- Ability to work under supervision in an AI apprenticeship environment.
+- Ability to contribute to AI/ML model development and prototype applications.
+- Ability to research and evaluate emerging AI technologies, tools, and vendor solutions against business use cases.
+- Ability to support data and AI pipeline design and documentation.
+- Ability to prepare clear reports, analyses, presentations, and recommendations.
+- Ability to support AI governance documentation, risk assessments, and compliance tracking.
+- Ability to support enterprise application administration, stakeholder collaboration, and application operations.
+Preferred Qualifications
+No separate preferred qualifications were specified in the source. Additional preferred skills, education, experience, certifications, and technology
+requirements should be confirmed with the recruiter or hiring team before publication.
+What Makes HTC A Great Place To Build Your Future
+HTC Global Services wants you to join our team. Come build new things with us and advance your career. At HTC Global, you’ll collaborate with experts, work
+alongside clients, and be part of high-performing teams driving success together. You’ll have long-term opportunities to grow your career and develop skills in
+the latest emerging technologies.
+At HTC Global Services, our employees have access to a comprehensive benefits package. Benefits can include Group Health (Medical, Dental, and Vision), Paid
+Time Off, Paid Holidays, 401(k) matching, Group Life and Disability insurance, Professional Development opportunities, Wellness programs, and a variety of other
+perks.
+Our success as a company is built on inclusion and diversity. HTC Global Services is committed to providing a workplace free from discrimination and harassment,
+where every employee is treated with dignity and respect. We celebrate differences and believe that diverse cultures, perspectives, and skills drive innovation
+and success. HTC is an Equal Opportunity Employer and a proud National Minority Supplier. We seek to empower each individual, fostering an environment where
+everyone feels valued, included, and respected.
+#AI #MachineLearning #AIEngineer #AIIntern #ArtificialIntelligence #AIMLIntern #AIGovernance #TechnicalProductOwner #TPO #DataPipelines #AIPrototyping
+#EnterpriseApplications #ApplicationSupport #ProcessAutomation #DigitalTransformation #ApplicationModernization #TechnologyResearch

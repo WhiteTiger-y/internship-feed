@@ -1,0 +1,73 @@
+Job Summary
+WebstaurantStore, the world’s largest online restaurant supply company, is looking for a Data Science Intern to join the Data Science team. Our Data Scientists
+use statistics, machine learning, experimentation, and data analysis to discover actionable insights and build solutions that improve the customer experience
+and business performance.
+As a Data Science Intern, you will work alongside experienced Data Scientists on a well-defined, real-world project. You will gain hands-on experience working
+with large datasets, applying statistical and machine learning techniques, and communicating your findings to technical and business partners.
+This internship is designed for someone who is eager to learn, comfortable asking questions, and excited to apply their technical knowledge to real business
+problems.
+This will be a full-time summer internship, with the possibility of continuing part-time into the fall. Extension into the fall is optional and is not a
+requirement of the internship.
+Responsibilities
+Responsibilities include, but are not limited to:
+- Work with a Data Scientist or manager to understand a well-defined business problem and translate it into an analytical or modeling approach.
+- Gather, query, clean, and explore data needed to support your project.
+- Conduct exploratory data analysis to identify patterns, relationships, and potential data quality issues.
+- Apply appropriate statistical or machine learning techniques to solve a defined problem.
+- Evaluate model or analytical results using appropriate metrics and validation techniques.
+- Create clear visualizations that help technical audiences understand your findings.
+- Write clean, logical, readable, and well-documented Python and SQL code.
+- Communicate project progress, challenges, assumptions, and results to your manager and other Data Scientists.
+- Ask questions and seek clarification when requirements, data, or methodology are unclear.
+- Incorporate feedback from other Data Scientists and iterate on your work.
+- Present your approach, findings, and recommendations at the conclusion of your project.
+Physical Requirements
+- Work is performed while sitting/standing and interfacing with a personal computer.
+- Requires the ability to communicate effectively using speech, vision, and hearing.
+- Requires the regular use of hands for simple grasping and fine manipulations.
+- Requires occasional bending, squatting, crawling, climbing, and reaching.
+- Requires the ability to occasionally lift, carry, push, or pull medium weights, up to 50lbs.
+Remote Work Qualifications
+- Access to a reliable and secure high-speed internet connection. Cable or fiber internet connections (at least 75mbps download/10mbps upload) are preferred, as
+satellite connections often cannot support the technologies used to perform day-to-day tasks.
+- Access to a home router and modem.
+- A dedicated home office space that is noise- and distraction-free. The space should have strong wireless connection or a wired Ethernet connection (wired
+connection is preferred, if possible).
+- A valid, physical address (apartment, suite, etc.). PO Boxes are not supported, as a physical address is required for you to receive your computer equipment.
+- The desire and ability to work and communicate with other team members via chat, webcam, etc.
+- Legal residents of one of the following states: (AK, AL, AR, AZ, CT, DE, FL, GA, IA, ID, IN, KS, KY, LA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NM, NV,
+OH, OK, PA, SC, SD, TN, TX, UT, VA, VT, WI, WV, or WY). H-1B Visa Sponsorship Not Available, W2 only.
+Experience
+Previous professional Data Science experience is not required.
+We are looking for candidates who have:
+- Experience using Python for data analysis, coursework, research, or personal projects.
+- Experience using SQL or a demonstrated understanding of querying structured data.
+- Familiarity with at least one class of machine learning methods, such as supervised or unsupervised learning, and a basic understanding of when those methods
+are appropriate.
+- Understanding of common data preparation and exploratory analysis techniques, including handling missing values, outliers, and other data quality issues.
+- Basic understanding of how to evaluate a statistical or machine learning model.
+- Experience communicating analytical results through visualizations, presentations, coursework, or projects.
+Experience can come from coursework, research, personal projects, internships, Kaggle competitions, or other practical work.
+Education
+This role does not require a degree. We value relevant skills and experience and alignment with our core values above all else.
+Desired Traits & Skills
+The ideal candidate will possess the following qualities:
+You’re Eager to Learn: You actively seek to expand your understanding of machine learning, statistics, data manipulation, exploratory analysis, and Data Science
+best practices.
+You Ask Questions: You are comfortable saying “I don’t know” and see asking questions as an important part of learning and solving problems correctly.
+You Communicate Effectively: You can explain your approach, findings, and challenges clearly to your manager and other technical team members.
+You Have an Entrepreneurial Spirit: You are curious about why things work the way they do and are willing to ask, “What if we tried this?” or “Could there be a
+better way?”
+You Desire to Grow: You seek feedback, incorporate it into your work, and continuously look for opportunities to improve your technical and professional skills.
+You Have High Standards: You care about producing accurate analysis and clean, logical, readable code.
+You Connect the How and Why: You want to understand not only how to apply a Data Science technique, but why it is appropriate for the problem you are solving.
+Company Overview
+The foodservice professional’s premier source for restaurant equipment, supplies, and knowledge online. Our purpose is to empower and equip people to run their
+businesses more profitably and efficiently.
+Benefits
+- 401(k) matching
+- Employee Assistance Program
+- Company Discounts
+Available at HQ Locations Only
+- On-Site Fitness Centers
+- Dog-friendly Offices

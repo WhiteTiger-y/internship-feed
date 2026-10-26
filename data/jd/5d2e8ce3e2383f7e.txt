@@ -1,0 +1,50 @@
+About Man Group
+Man Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and
+Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span
+public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with
+clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they
+represent.
+Headquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the
+ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at www.man.com
+At Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are
+designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open
+and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants here.
+- As at 30 June 2026
+Join Man Systematic’s Quant Intern Program with an opportunity to work alongside the Systematic Quantitative Research and Portfolio Management teams.
+Within the Quant Research team, you will conduct research and develop strategies which will improve our trading of financial markets in equities and across the
+business in general. You will develop and enhance quantitative investment strategies using statistical and quantitative techniques, including econometrics,
+machine learning, and/or AI. In addition to developing new trading strategies, you will also get the opportunity to conduct research on various implementation
+aspects of quant strategies such as optimization, transaction cost, and portfolio construction.
+Within the Portfolio Management teams, you will gain exposure to a broad spectrum of research, investment, and technical tasks – gaining exposure to what it
+means to own a quant strategy for a client. That will involve both validating the inputs of our models as well as the output from the quantitative signals used
+to make buy/sell decisions. You will monitor portfolio risk and country/sector exposures, analyze portfolio returns, and conduct analysis for client
+communications. You will analyze the output of our portfolio construction process to ensure the integrity of our investment philosophy, assist research and
+portfolio management teams with enhancing existing signals, and create new signals. You will potentially rotate through the Fixed Income, Equities (EM or DM),
+Alternatives or Tax Aware portfolio management teams.
+Key competencies
+- Strong academic record and undergraduate coursework in a quantitative discipline such as economics, physics, engineering, computer science, mathematics, etc
+- Strong programming and statistical analysis skills (e.g., Python, R), with the ability to apply statistical and quantitative techniques to complex datasets
+- Demonstrated problem solving ability and ability to quantitatively reason around problems
+- Ability to think creatively and independently, developing ideas from first principles and testing them rigorously
+- Ability to communicate complex concepts clearly to both technical and non-technical audiences
+- Self-organized with the ability to effectively manage time across multiple projects
+The anticipated based salary range for this position is listed below. Compensation packages would also include benefits and a discretionary bonus. This is the
+base salary range that the Company believes it will pay for this position at the time of this posting based on the location and requirements of the position as
+well as the skills, qualifications, and experience of the applicant. The Firm reserves the right to modify this pay range at any time.
+US Pay Range: $35 USD - $45 USD
+Inclusion, Work-Life Balance And Benefits At Man Group
+You'll thrive in our working environment that champions equality of opportunity. Your unique perspective will contribute to our success, joining a workplace
+where inclusion is fundamental and deeply embedded in our culture and values. Through our external and internal initiatives, partnerships and programmes, you'll
+find opportunities to grow, develop your talents, and help foster an inclusive environment for all across our firm and industry. Learn more at
+www.man.com/diversity.
+You'll have opportunities to make a difference through our charitable and global initiatives, while advancing your career through professional development, and
+with flexible working arrangements available too. Like all our people, you'll receive two annual 'Mankind' days of paid leave for community volunteering.
+Our comprehensive benefits package includes competitive holiday entitlements, pension/401k, life and long-term disability coverage, group sick pay, enhanced
+parental leave and long-service leave. Depending on your location, you may also enjoy additional benefits such as private medical coverage, discounted gym
+membership options and pet insurance.
+Equal Employment Opportunity Policy
+Man Group provides equal employment opportunities to all applicants and all employees without regard to race, color, creed, national origin, ancestry, religion,
+disability, sex, gender identity and expression, marital status, sexual orientation, military or veteran status, age or any other legally protected category or
+status in accordance with applicable federal, state and local laws.
+Man Group is a Disability Confident Committed employer; if you require help or information on reasonable adjustments as you apply for roles with us, please
+contact TalentAcquisition@man.com.

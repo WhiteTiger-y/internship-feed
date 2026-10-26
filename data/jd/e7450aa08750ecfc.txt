@@ -1,0 +1,81 @@
+What Your Job Will Be Like
+Are you interested in developing transformational pulsed power capabilities and learning from elite scientists and engineers advancing science on the world's
+premier pulsed power facilities? Graduate science and engineering students interested in learning and contributing to cutting edge research in pulsed power
+science, engineering, and technology are encouraged to apply for this summer 2027 internship. Pulsed power compresses energy in both time and space and can
+produce short electrical pulses with more power than the world's total electrical generation capability. Sandia is a world leader in pulsed power and its
+applications to study radiation effects, materials properties under extreme conditions, and inertial confinement fusion. Our team is rapidly developing the
+advanced pulsed power components and subsystems to execute the ZX Initiative, which aims to double the stored energy and delivered power of the world's largest
+experimental pulsed power facility.
+As an intern, you will join the team that will be part of the Science of Extreme Environments Research and Innovation (SEERI). This will include an opportunity
+to participate in a seminar series on the fundamentals of pulsed power and tours of cutting-edge pulsed power facilities.
+Our program is highly interdisciplinary and designed for students pursuing degrees in the following majors (in alphabetical order):
+- Computer Science
+- Electrical Engineering
+- Materials Science
+- Mathematics
+- Mechanical Engineering
+- Nuclear Engineering
+- Physics
+Some of the potential areas of research include experiments, modeling and simulation of transformational pulsed power components and systems including:
+- High-voltage, high-current switches and associated gas physics
+- High-voltage insulators and interfaces, including novel materials to increase breakdown thresholds
+- Controlled breakdown of dielectric fluids
+- Power flow in magnetically insulated transmission lines
+- Surface treatments to delay or minimize parasitic plasma formation during operation of high-power vacuum transmission lines
+- Improved spectroscopic and/or laser-based diagnostics of plasma parameters
+You will have an opportunity to learn from and work with a diverse group of Sandia staff, technologists, postdocs, and fellow student interns. Sandia National
+Laboratories, and our team, highly value supporting interns in their professional and academic growth.
+On any given day, you may be called on to:
+- Assemble, operate, and troubleshoot laboratory-scale experiments evaluating pulsed power component performance
+- Design apparatuses to couple new diagnostics to pulsed power platforms
+- Perform finite element analysis, particle-in-cell, or fluid simulations of high voltage systems, including dielectric breakdown and plasma phenomena
+- Assist with data collection and analyze large datasets from pulsed power experiments
+- Document your findings in reports, presentations, and/or journal articles
+Due to the nature of the work, the selected applicant must be able to work onsite.
+Salary Range
+At Sandia, we value the important work done by our interns and its contribution to National Security. Because of this, our interns earn competitive pay rates.
+Our pay structure is based on earned credit hours, classification, and degree level. Your pay rate will be determined during the hire process and included in
+your offer package. You can view the Intern Pay Rate chart here .
+Qualifications We Require
+You bring the confidence and skills to be eligible for the job by meeting these minimum requirements:
+- Earned bachelor's degree
+- Currently attending and enrolled full time in the spring term immediately preceding the internship (or scheduled to graduate in the spring) in an accredited
+science, engineering, or math graduate program
+- Minimum cumulative GPA of 3.0/4.0
+- Ability to work up to 40 hours per week during the summer
+- U.S. citizens, legal permanent residents, asylees or refugees in the U.S.
+Note: If you have not yet started your graduate program, please apply to an undergraduate intern position.
+Qualifications We Desire
+- Cumulative GPA of at least 3.5 out of 4.0
+- Experience with pulsed power science and technology
+- Experience with radiation, electrical and/or high energy density science
+- Experience with laboratory equipment, data collection, and analysis
+- Experience with modeling and simulation of electromagnetic and/or fluid phenomena
+- Knowledge of engineering fundamentals, engineering analysis, and design
+- Experience documenting and presenting work in reports, memos, and presentations
+- Authorship of one or more peer-reviewed publications
+Posting Duration
+This posting will be open for application submissions for a minimum of three (3) calendar days, including the 'posting date'. Sandia reserves the right to
+extend the posting date at any time.
+About Our Team
+Department 1656, part of the Pulsed Power Science and Technology group (1650), is dedicated to advancing the capabilities of the Z-machine and future high-
+energy density machines. We lead the development of advanced pulsed power energy storage and switching technologies. Our focus includes pioneering research in
+advanced Marx technology, new capacitor assessments, and innovative gas switch advancements. By collaborating closely with sister departments in 1650, we aim to
+rapidly advance the state of the art in pulsed power, executing the ZX Initiative and preparing for the design of next-generation pulsed power machines. We led
+design of the injector for the cutting-edge Scorpius flash x-ray radiography system and continue overseeing assembly and commissioning. The Injector final
+assembly and commissioning will occur at the North Las Vegas facility before being installed underground at the Nevada National Security Site (NNSS).
+About Sandia
+Sandia National Laboratories is the nation's premier science and engineering lab for national security and technology innovation, with teams of specialists
+focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+- Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+- Extraordinary co-workers
+- Some of the best tools, equipment, and research facilities in the world
+- Career advancement and enrichment opportunities
+- Flexible work arrangements for many positions include 9/80 (work 80 hours every two weeks, with every other Friday off) and 4/10 (work 4 ten-hour days each
+week) compressed workweeks, part-time work, and telecommuting (a mix of onsite work and working from home)
+- Generous vacation, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid
+work/life balance*
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov
+- These benefits vary by job classification.
+Security Clearance
+This position does not currently require a Dep

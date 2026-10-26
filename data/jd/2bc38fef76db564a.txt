@@ -1,0 +1,51 @@
+Job Title: Machine Learning Internship, Manipulation
+Department: Robotics Software Engineering
+Employment Type: Internship
+Location: Houston, TX – Onsite
+Who We Are
+Persona AI is developing and commercializing rugged, multi-purpose humanoid robots that perform real work. Persona AI’s founding team has a decades-long history
+in humanoid robotics, bionics, and product development delivering robust hardware that has touched the stars, worked miles below the surface of the ocean, and
+even roamed Disney Parks. Our mission is focused squarely on shipping beautiful, reliable products at massive scale, while building a customer-focused team to
+achieve these aims.
+About The Role
+We're looking for a Machine Learning Intern (Manipulation) to help build Persona's machine learning models and infrastructure. We are primarily interested in
+candidates with experience and relevant projects in robot learning, but can be flexible depending on aptitude and energy.
+As a Machine Learning Intern at Persona, you will have an incredible opportunity to work with humanoid robots and solve practical problems in the real world.
+What You'll Do
+- Work with the ML team to develop and improve machine learning models and the infrastructure.
+- Monitor and evaluate the performance of models in the real world.
+- Collaborate on the design and development of the Persona ML software stack and support its application in manipulation, navigation, locomotion, and
+perception.
+What We're Looking For
+- Courage and grit to tackle some of the hardest problems in embodied AI.
+- Enthusiasm for working collaboratively in a high paced team environment.
+- Experience with deep learning frameworks (Pytorch, JAX, TensorFlow, etc.)
+- Experience with cloud computing to develop models, manage data, etc. (AWS, Azure, GCP)
+- Strong understanding of the state of the art research in robot learning (behavior cloning and reinforcement learning for manipulation, world models, etc.).
+- Understanding of the challenges of deploying neural network models in the real world.
+- Capable of writing high-quality software.
+- Thrive in fast-paced and ambiguous environments.
+- Strong first principles thinker.
+Preferred Or Bonus Qualifications
+- An advanced degree (Master's or PhD) in computer science, robotics, machine learning, or another related field.
+- Published papers at top ML/Robotics conferences (ICML, ICRA, CoRL, RSS, NeurIPS).
+Our Internship Program
+At Persona AI, Our Internship Program Gives You Direct, Hands-on Experience Building Cutting-edge Humanoid Robotics Alongside Industry Experts. We Offer Full-
+time Term Opportunities Across Three Upcoming Cohorts
+- Fall 2026: August – December
+- Spring 2027: January – May
+- Summer 2027: May – August
+As an intern, you’ll be paired 1:1 with a senior engineer mentor to accelerate your growth and guide your technical contributions. You will bond with your
+cohort through intern group lunches, gain cross-functional perspective during company-wide learning lunches, and unwind with fun team activities throughout the
+term. Whether you're working on advanced motion planning or real-world system testing, you'll tackle meaningful engineering challenges while immersing yourself
+in our collaborative startup culture.
+Application Review Process
+We evaluate applications as they are received rather than waiting for the posted deadline to pass. Positions for each cohort are filled on a first-come, first-
+served basis, and the portal will close as soon as all available roles are finalized.
+To give yourself the best chance of securing a spot, keep these tips in mind:
+- Apply Early: Submitting your resume as soon as possible ensures your materials are reviewed before interview slots fill up.
+- Cohort Availability: Popular terms—especially Summer 2027—tend to reach capacity quickly.
+- Rolling Interviews: Interviews and candidate evaluations begin immediately upon application receipt.
+Persona AI is an Equal Opportunity Employer.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+identity, age, disability, veteran status, or any other characteristic protected by applicable federal, state, or local law.

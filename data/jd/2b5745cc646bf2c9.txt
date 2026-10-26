@@ -1,0 +1,65 @@
+At USA Baseball, we are on the lookout for passionate people who truly believe in our mission and values, ready to take charge in Leading the Growth of Our
+Pastime’s Future®. As the national governing body for baseball in the United States, we are all about teamwork and embrace a fast-paced, demanding, and
+rewarding environment befitting of our national pastime. If you lead off with authenticity, are ready to slide in headfirst, value diversity and inclusion, and
+can acknowledge a broader vision, then we want you on our team!
+As the Intern, Baseball Systems & Analytics, you will report to the Coordinator of Systems and Analytics. This internship at USA Baseball is an essential role
+within the Technology and Sports Performance Department, supporting both the Prospect Development Pipeline (PDP) and USA Baseball’s development and national
+team programs. This position will assist with organizing and analyzing athlete data collected through advanced technologies to support player identification,
+development, and performance initiatives.
+Additionally, The Baseball Systems & Analytics intern will support a range of USA Baseball player identification and development programs and initiatives. USA
+Baseball’s National Training Complex (NTC) in Cary, N.C. is equipped with the latest TrackMan V3 radar, AWRE Cameras and integrated data collection systems. The
+TrackMan radar system allows USA Baseball to enhance its evaluation and selection processes as well as assist in player development and training by adding in
+individual pitch and hit tracking data. The Baseball Systems and Analytics Intern will work with both large and small datasets to verify dataset accuracy, build
+player reports, identify performance trends, assist with player evaluation and selection, and develop tools that enhance USA Baseball’s understanding and
+application of athlete performance data. The Baseball Systems and Analytics Intern will also help to oversee and manage the function of the NTC’s TrackMan and
+AWRE systems during events, and aid in the supervision of the TrackMan and AWRE Operators assigned to each field. Additionally, this position may be asked to
+support the operations of the PDP, such as assisting with data collection or aiding in the Player Reporting process.
+Through this single application, USA Baseball will hire two (2) Interns, Baseball Systems & Analytics.
+Position Details
+- Full-time hours (40+ hours/week)
+- Duration: May (NO later than June 1) – August 2027 (flexible start and end dates)
+- On-site work required (locations vary by assignment)
+- Domestic travel involved in this position (all travel costs accrued during internship are covered by USA Baseball)
+In This Role
+As an Intern, Baseball Systems and Analytics, you will gain hands-on experience in sports technology, data management, and performance analysis while supporting
+USA Baseball’s Technology and Sports Performance Department. You may:
+- Aggregate and analyze athlete performance data to support player evaluation and development efforts.
+- Query databases, clean datasets, and generate insights to assist in athlete identification and program improvement.
+- Develop dashboards and tools to monitor data quality and identify areas for improvement.
+- Operate and manage advanced baseball technology systems including TrackMan and AWRE to support data collection, analysis, and player evaluation.
+- Coordinate and manage scheduling of TrackMan and AWRE operators for events at the NTC.
+- Communicate with athletes, families, and stakeholders to coordinate logistics and share reports.
+- Attend PDP and USA Baseball events to oversee technology setup, manage data collection, and contribute to player development initiatives.
+- Suggest and implement improvements for analytics workflows, reporting systems, and data visualization tools.
+Qualifications
+Worried that you do not meet every single requirement on the list below? Don’t be. If you're excited about this opportunity and our mission, we want to hear
+from you! At USA Baseball, we embrace inclusivity and are committed to building a team with diverse experiences and backgrounds. Apply even if you don't check
+all the boxes!
+- You are currently pursuing or have recently completed a bachelor’s degree in computer science, statistics, communications, technology, or a related field.
+- You have prior experience with TrackMan, or similar baseball tracking technologies
+- You are proficient in coding languages such as R and Python, with experience building dashboards or visualizations in R Shiny and R Markdown.
+- You have a strong interest in sports science, data analytics, player development, and player safety initiatives, paired with a passion for baseball.
+- You demonstrate strong organizational and analytical skills, with the ability to clean, manage, and interpret complex data sets.
+- You possess advanced quantitative analysis and computing skills with attention to accuracy and consistency.
+- You are proficient in Microsoft Office Suite and Google Drive.
+- You exhibit a positive attitude and thrive in a fast-paced, team-oriented environment.
+- You can relocate to the Raleigh/Durham/Cary, NC area for the duration of the internship.
+- You can successfully complete a background check prior to employment.
+Preferred
+- You have prior experience with AWRE or similar video capture technologies.
+- You have experience supporting a team, coaching staff, or analytics department within a baseball or sports environment.
+- You are skilled in processing, editing, and organizing video or visual data for analysis and reporting.
+- You can effectively utilize emerging technologies in baseball to enhance evaluation and player development intiatives.
+Compensation
+Hourly
+Equal Opportunity
+It is the policy of USA Baseball to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, national origin,
+religion or creed, sex, age, pregnancy, disability, marital status, genetic information, sexual orientation, gender, gender identity or expression, veteran or
+military status, or any other characteristic protected by applicable law. Discrimination and unlawful harassment are not tolerated at USA Baseball.
+USA Baseball is dedicated to building an authentic and inclusive workplace. If you are interested in an open position but are hesitant to apply because of your
+experience, we encourage you to apply anyway. You may be a great fit for USA Baseball and the right candidate for this position or other roles in our
+organization.
+About USA Baseball
+Headquartered in Cary, North Carolina, USA Baseball serves as the national governing body for baseball in the United States. Since 1978, the organization has
+been dedicated to Leading the Growth of Our Pastime’s Future, supporting and protecting the game for its 15.6 million participants nationwide.
+A proud member of the United States Olympic & Paralympic Committee (USOPC) and the World Baseball Softball Confederation (WBSC), USA Baseball’s nationa

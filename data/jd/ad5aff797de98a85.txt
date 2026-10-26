@@ -1,0 +1,45 @@
+Who We Are   FTI Consulting is the leading global expert firm for organizations facing crisis and transformation. We work with many of the world’s top
+multinational corporations, law firms, banks and private equity firms on their most important issues to deliver impact that makes a difference. From resolving
+disputes, navigating crises, managing risk and optimizing performance, our teams respond rapidly to dynamic and complex situations. At FTI Consulting, you’ll
+work side-by side with leaders who have shaped history, helping solve the biggest challenges making headlines today. From day one, you’ll be an integral part of
+a focused team where you can make a real impact. You’ll be surrounded by an open, collaborative culture that embraces diversity, recognition, professional
+development and, most importantly, you. Are you ready to make your impact? About the Role As professionals in FTI Consulting’s Forensic & Litigation Consulting
+practice, we are involved in complex, global and high-profile litigation, arbitration and investigations combining end-to-end risk advisory, investigative and
+disputes expertise to deliver holistic solutions for our clients. Consultants within the Data & Analytics (D&A) team support this by providing advanced
+analytics and delivering strategic business solutions for client matters involving large and disparate sets of financial, operational and transactional data.
+Our objective is to make data tell a story, revealing truths underlying commercial disputes, regulatory inquiries and operational activities. Our work sits at
+the intersection of data, technology, investigations and business problem-solving. Whether supporting regulatory investigations, helping clients review large-
+scale programmes, deploying AI-enabled review solutions, or analysing complex commercial disputes, we use data to uncover evidence, answer critical questions
+and help clients make decisions with confidence. Example projects: A large bank needed to find out whether any activity across its millions of customers might
+be connected to sanctioned individuals or organisations. D&A brought together large volumes of customer and transaction data and developed tools to compare
+customer names against sanctions lists. The team then presented potential matches in a review platform, helping investigators identify higher-risk activity and
+focus their work more efficiently. FTI supported the UK Government in reviewing national energy-support schemes introduced during the cost-of-living crisis.
+Working alongside forensic accountants, D&A combined data from multiple energy suppliers and tested nearly half a billion billing records covering more than 21
+million properties. The team also used machine learning to extract information from customer bills. This work helped identify billing errors and potential fraud
+and ensured that more customers received the discounts to which they were entitled. During a fast-moving financial investigation, an FTI team needed to review a
+large collection of emails, instant messages and documents. D&A developed a secure and traceable process to organise and analyse the material using FTI’s
+Generative AI technology. This helped the investigation team quickly identify important themes and information while ensuring that the analysis could be clearly
+explained and reviewed. D&A supported an independent panel investigating potential match-fixing in professional tennis. The team combined match results with
+alerts about suspicious activity and used statistical analysis and interactive visualisations to identify patterns involving particular players, matches and
+demographic groups. This helped the panel focus its investigation on the areas of greatest concern and turn complex sporting data into clear, evidence-based
+findings. What You’ll Do Collect, combine and analyse large and varied datasets from different sources Apply analytical thinking and technology to answer
+complex investigative, regulatory and commercial questions Design and implement complex data pipelines incorporating both private and publicly available data to
+facilitate analysis. Leverage modern AI and agentic tools to assist with development, analysis and research activities. Work with senior colleagues and directly
+with clients and other stakeholders to understand and identify their requirements Perform analytical work, individually and in project teams Help ensure the
+quality of the delivered work, by performing quality control checks and quality control documentation Carry out a broad range of data analysis, engineering, and
+visualisation tasks. How You’ll Grow Work on dynamic and challenging engagements that appear on the news and have impacts measured in the billions of dollars
+Receive training and support to develop your technical, consulting and professional skills, and gain accreditation where applicable Learn from experts in areas
+including anti-money laundering, sanctions, financial analysis and investigations Gain direct exposure to clients and stakeholders across a range of industries
+and backgrounds Develop practical experience across the full data lifecycle, from data engineering and cloud technologies to advanced analytics, machine
+learning and AI. Receive regular feedback and professional guidance to support along a well-defined career path What You Will Need to Succeed Basic
+Qualifications Currently in the penultimate year of a degree in a quantitative or related subject, such as mathematics, data science, computer science, physics
+or engineering, and graduating in 2028 Available to work full-time from 5th July – 27th August 2027 A passion for problem-solving and strong analytical skills
+The ability to perform in demanding, deadline-orientated situations Excellent communication, interpersonal and organisational skills Preferred Technical Skills
+Working knowledge of relational databases and SQL Experience with programming or scripting languages such as Python Knowledge of general machine learning and AI
+concepts would be advantageous (e.g. supervised/unsupervised learning, regression and classification, clustering, feature extraction, graph theory) Experience
+using modern AI-assisted coding tools such as GitHub Copilot, Claude Code, Codex, Cursor or similar tools. Our Application Process The deadline for applications
+is: 19th November 2026 STEP 1: Complete our online application form and submit your CV (no cover letter required). STEP 2: Complete online skills test (data &
+analytics test), and a pre-recorded video interview. STEP 3: Attend a competency-based virtual interview to explore your skills and motivations between 25th -
+29th January 2027. STEP 4: Attend an assessment centre between 8th-19th February 2027. STEP 5: Job offers are made to successful candidates before 1st March
+2027. #LI-RR1 #EMEAJT FTI Consulting is an equal opportunity employer and does not discriminate on the basis of race, color, national origin, ancestry,
+citizenship status, protected veteran status, relig

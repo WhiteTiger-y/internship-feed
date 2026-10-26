@@ -1,0 +1,45 @@
+About this role: Wells Fargo is seeking aspiring Data Engineers to join the 2027 Technology Internship Program. Program Overview: The Wells Fargo Technology
+Internship Program provides participants with a 10-week experience designed to immerse students in enterprise-scale data engineering, platform development, and
+modern software engineering practices. Participants will help build and maintain data products, pipelines, and technology foundations that power critical
+business processes, applications, analytics, and AI capabilities across Wells Fargo. The program blends technical execution with business context, emphasizing
+modern engineering principles, responsible AI adoption, data quality, and scalable technology solutions. Participants will: Work hands-on with impactful,
+production-aligned data engineering and platform initiatives Gain exposure to enterprise data platforms, AI-enabled engineering practices, cloud technologies,
+and modern development workflows Participate in structured training, mentorship, and networking opportunities with senior technology leaders Upon successful
+completion of the internship, qualified candidates may be considered for a full-time position in the Technology Analyst Program the following year, within the
+same market where the internship was completed. #earlycareers In this role, your responsibilities as a Data Engineering Intern may include: Data Engineering &
+Platform Development Design, develop, test, and maintain scalable data pipelines, integration frameworks, and data products supporting enterprise platforms
+Build and enhance reusable APIs, services, and data solutions that enable trusted and efficient consumption of data across applications and business functions
+Apply software engineering fundamentals including testing, code reviews, version control, automation, CI/CD, and observability practices Develop solutions to
+ingest, transform, validate, and distribute large volumes of structured and unstructured data Partner with software engineers, architects, and product teams to
+deliver secure, reliable, and maintainable technology solutions Support platform modernization efforts through engineering best practices, automation, and
+reusable frameworks Contribute to cloud-based and distributed computing platforms supporting enterprise-scale data workloads AI-Enabled Data Engineering &
+Modern Development Practices Leverage enterprise-approved generative AI tools (e.g., coding agents) and enterprise AI platforms to accelerate engineering
+activities, including: Code development, refactoring, and optimization Automated testing and validation Data transformation and pipeline development Technical
+documentation generation Rapid prototyping and solution design exploration within approved environments Apply prompt engineering techniques to improve the
+quality, reliability, and efficiency of AI-assisted outputs while adhering to data handling, confidentiality, and governance standards Partner with senior
+engineers to review, validate, and govern AI-generated code, designs, and technical artifacts Contribute to AI-augmented engineering workflows including
+automated documentation, code review assistance, testing acceleration, and developer productivity tooling Support development of intelligent data capabilities
+such as anomaly detection, automated quality monitoring, metadata enrichment, and predictive insights in alignment with Model Risk Management (MRM) guidelines
+and regulatory requirements Explore emerging AI and machine learning technologies and their application within enterprise-scale data platforms and engineering
+ecosystems Data Reliability, Governance & Business Enablement Support development and maintenance of enterprise data models, metadata management processes, and
+data architecture standards Implement data quality controls, monitoring solutions, lineage capabilities, and validation frameworks to improve trust and
+reliability Assist with data governance initiatives focused on data integrity, consistency, security, risk management, and policy adherence Partner with
+technology and business teams to improve accessibility, discoverability, and usability of enterprise data assets Contribute to standards and best practice for
+enterprise-scale data engineering, architecture, and platform operations Assist in identifying opportunities to improve operational insights and business
+outcomes through scalable engineering solutions Program Duration: June 2027 – August 2027 (10 weeks) Required Qualifications: 6+ months of work experience, or
+equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications:
+Currently pursuing a bachelor's degree in Data Science, Computer Science, Computer Engineering, or a related STEM field with an expected graduation between
+December 2027 and June 2028 Foundational knowledge of Python, SQL, data structures, algorithms, and object-oriented programming concepts Familiarity with
+software development lifecycle practices including version control, testing, deployment, and CI/CD pipelines Demonstrated exposure to AI tools or AI-assisted
+engineering workflows (e.g., Copilot, code assistants, enterprise AI platforms) Familiarity with prompt engineering concepts, responsible AI principles, and AI
+governance practices Experience or coursework involving machine learning, artificial intelligence, statistical modeling, or advanced analytics concepts Interest
+in how AI is transforming data engineering, software development, platform operations, and developer productivity Exposure to data engineering concepts
+including data pipelines, distributed computing, data modeling, or large-scale data environments Understanding of cloud technologies, APIs, data services, and
+modern application architectures Experience working with structured and unstructured data through coursework, research projects, internships, or other relevant
+experiences Basic understanding of data governance, data quality, metadata management, or regulatory compliance principles Strong problem solving and
+interpersonal skills, including the ability to articulate technical challenges and recommend solutions Exposure to data visualization and reporting tools such
+as Tableau, Power BI, Grafana, SAS, or similar technologies Demonstrated ability to work effectively both independently and within collaborative, fast-paced
+environments Energetic self-starter who proactively takes initiative, acts with urgency, remains curious, and demonstrates a passion for learning and growth
+Involvement in extracurricular enrichment activities through one or more of the following: volunteerism, student organization involvement, study abroad
+program(s), leadership position(s), non-profit involvement Job Expectations: Position will require onsite presence at one of the required locations listed below
+in a hybrid work schedule Must take and pass required technology skills assessment This position is 
