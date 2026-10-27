@@ -1,0 +1,57 @@
+Description
+Boehringer Ingelheim is currently seeking talented and innovative co-op candidates to join our IT Ops and Labs department, working at our Animal Health campus
+in Athens, GA. As a member of the IT O&L team, you will be responsible for collecting, evaluating and implementing IT- and data-centric improvement ideas. Co-Op
+candidates will work with a global team of colleagues to deliver innovative solutions in the areas of AI, Data Science, Software Engineering, APIs, IoT,
+business intelligence and/or other state-of-the-art technologies in order to support our company’s operations and decision-making processes.
+As an employee of Boehringer Ingelheim, you will actively contribute to the discovery, development and delivery of our products to our patients and customers.
+Our global presence provides opportunity for all employees to collaborate internationally, offering visibility and opportunity to directly contribute to the
+companies´ success. We realize that our strength and competitive advantage lie with our people. We support our employees in a number of ways to foster a healthy
+working environment, meaningful work, mobility, networking and work-life balance. Our competitive compensation and benefit programs reflect Boehringer
+Ingelheim´s high regard for our employees.
+This role is an Co-op role is an on-site position 2-3 days per week in Athens, GA. Applicants will need to be located within commuting distance for the duration
+of the Co-op / Internship.
+Before applying please ensure you can commit to the following:
+-Expect to be on-site for at least 3 days per week and must be located in the local area for the Co-op.
+-Co-op Students will work for at least 4 months after the start date. We may extend you up to 6 months in total depending on business needs. These are Full time
+positions. Duties & Responsibilities
+- Collaborate with business partners to collect ideas for application/process improvements
+- Propose IT-centered enhancements, technology use-cases, and/or solutions
+- Work with local IT team to develop a pilot project to implement an improvement project. This project will seek to utilize a state-of-the-art technology,
+framework, tool or technique, in a way that provides value. Technologies may include:
+- AI\Machine Learning\Data Science\LLMs
+- IoT
+- APIs
+- Database\SQL
+- RPA
+- Execute the pilot project using Agile methodologies and framework
+- Upon execution of the pilot project(s), document the solution design, and transfer the necessary knowledge and lessons learned to local IT team
+- Support business partners with technology-related needs
+Requirements
+- At least two years of experience with software development, preferrably with ASP.net, Java or Python coding language(s)
+- Must be an Undergraduate, Graduate, or Professional Student in good academic standing
+- Must have completed 12 credit hours within a related major and/or other related coursework
+- Overall, cumulative GPA (from last completed quarter) must be at least 3.0 on 4.0 scale (no rounding up)
+- Major must be related to the field of internship
+Eligibility Requirements:
+- Must be legally authorized to work in the United States without restriction
+- Must be willing to take a drug test and post-offer physical (if required)
+- Must be 18 years of age or older
+Desired Skills, Experience and Abilities
+- Experience with Artificial Intelligence or Data Science preferred
+- Experience with cloud-based systems preferred
+- Self-driven, independent and curious with good communication skills
+- Ability to relate technology-related inforomation to non-technical audience
+- Ability to prioritize, and work with colleagues around the world
+Our Company
+Boehringer Ingelheim is a biopharmaceutical company active in both human and animal health. As one of the industry's top investors in research and development,
+the company focuses on developing innovative therapies that can improve and extend lives in areas of high unmet medical need. Independent since its foundation
+in 1885, Boehringer takes a long-term perspective, embedding sustainability along the entire value chain. Our approximately 54,300 employees serve over 130
+markets to build a healthier and more sustainable tomorrow. Learn more at www.boehringer-ingelheim.com.
+Why Boehringer Ingelheim?
+With us, you can develop your own path in a company with a culture that knows our differences are our strengths - and break new ground in the drive to make
+millions of lives better.
+Here, your development is our priority. Supporting you to build a career as part of a workplace that is independent, authentic and bold, while tackling
+challenging work in a respectful and friendly environment where everyone is valued and welcomed.
+Alongside, you have access to programs and groups that ensure your health and wellbeing are looked after - as we make major investments to drive global
+accessibility to healthcare. By being part of a team that is constantly innovating, you'll be helping to transform lives for generations.
+Want to learn more? Visit https://www.boehringer-ingelheim.com

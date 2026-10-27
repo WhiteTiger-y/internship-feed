@@ -1,0 +1,48 @@
+Introduction
+AI is changing both the systems we build and the way we conduct research and engineering. Within IBM Research AI Native Systems, our mission is to position IBM
+at the forefront of enterprise AI deployment while transforming how future systems are designed and built.
+The AI-Native Hardware-Software Co-design Methodologies organization brings hardware and software together through a continuous co-design loop. Our research
+portfolio spans AI-assisted compiler development, kernel generation and optimization, RTL generation, hardware implementation, verification, and cross-layer
+system optimization. We also investigate reinforcement learning and other post-training techniques that can extend open models to solve increasingly difficult
+hardware and software engineering problems.
+Interns join focused projects within this broader research portfolio based on their experience and interests. By connecting insights across teams and technical
+layers, we aim to shorten development cycles, improve end-to-end system performance and efficiency, and uncover optimization opportunities that may be missed
+when hardware and software are developed independently.
+This internship offers the opportunity to work with a multidisciplinary research team, contribute to emerging AI-native engineering methods, and explore ideas
+that can shape future IBM systems and the broader computing ecosystem.
+Your Role And Responsibilities
+As an AI-Native Hardware-Software Co-design Research Intern, you will join a project aligned with your technical background and interests. Project areas may
+include AI-assisted compiler development, kernel generation and optimization, RTL generation, hardware verification, cross-layer hardware-software optimization,
+or reinforcement learning methods that extend open models to address challenging engineering problems. You are not expected to have experience across all these
+areas.
+Working with a research mentor and an interdisciplinary team, you will:
+- Contribute to research and prototype development in one or more project areas aligned with your expertise.
+- Apply machine learning, generative AI, automated reasoning, reinforcement learning, or systems techniques to a well-defined hardware or software engineering
+challenge.
+- Depending on the project, investigate reinforcement learning and related post-training methods for extending the capabilities of open models on complex tasks
+such as RTL generation, optimization, and verification.
+- Design experiments and benchmarks to evaluate correctness, performance, efficiency, engineering productivity, or development-cycle improvements.
+- Explore connections between your assigned area and adjacent layers of the computing stack.
+- Collaborate with researchers and engineers across AI, compilers, computer architecture, digital design, verification, and systems software.
+- Document your methods and findings and communicate results through technical presentations, reports, code, and potential research publications.
+Projects may involve the IBM Spyre accelerator software stack and IBM Systems, including IBM Z and IBM Power, while also exploring methods applicable to future
+processors, accelerators, and computing platforms.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Currently enrolled in a Master's or PhD program in computer science, computer engineering, electrical engineering, or a closely related field.
+- Strong programming or hardware-development skills using languages relevant to the candidate's area of expertise, such as Python, C, C++, Verilog, or
+SystemVerilog.
+- Demonstrated experience in at least one of the following areas: compilers, kernel development, machine learning systems, reinforcement learning, computer
+architecture, digital design, RTL development, hardware verification, or hardware-software co-design.
+- Experience conducting technical experiments, debugging complex systems, analyzing quantitative results, or developing research prototypes.
+- Ability to communicate technical ideas and collaborate effectively in a multidisciplinary research environment.A44
+Preferred Technical And Professional Experience
+Experience in one or more of the following areas is beneficial. Candidates are not expected to meet every preferred qualification.
+- Reinforcement learning, reward modeling, model evaluation, or related post-training techniques for extending open models to address complex reasoning, code-
+generation, or engineering tasks.
+- Applying generative AI, large language models, program synthesis, or automated reasoning to code, systems, hardware design, or verification.
+- Compiler or kernel technologies such as LLVM, MLIR, Triton, CUDA, PyTorch, JAX, or related frameworks.
+- Verilog or SystemVerilog development, hardware simulation, synthesis, formal verification, or electronic design automation tools.
+- AI accelerators, heterogeneous computing, performance modeling, workload characterization, or cross-layer hardware-software optimization.
+- Research demonstrated through publications, technical projects, open-source contributions, previous internships, or advanced coursework.

@@ -1,0 +1,58 @@
+Job Description
+An internship at onsemi offers a dynamic opportunity to gain hands-on experience through real-world projects that drive innovation in the semiconductor
+industry. Interns are entrusted with meaningful responsibilities and exposed to cutting-edge technologies, fostering both technical skill development and
+professional growth.
+onsemi views internships as a strategic pipeline for entry-level career positions, providing a collaborative and inclusive environment where interns work
+alongside diverse teams and contribute to high-impact initiatives. The company’s commitment to sustainability, including its goal of achieving net-zero
+emissions by 2040, enables interns to engage in projects that align with global environmental priorities.
+Key benefits include:
+- Competitive compensation and medical benefits
+- Flexible work hours aligned with academic schedules
+- Access to Employee Resource Groups (ERGs) which foster a sense of belonging and provide opportunities for mentorship and community engagement
+- Networking events, professional development workshops, and project showcases that build career readiness and visibility across the organization
+Internship roles span multiple disciplines including engineering, business operations, data analytics, and finance, and are designed to align with onsemi’s
+strategic goals of innovation and workforce development. Structured programs such as rotational field sales and finance analyst tracks offer additional career
+pathways for interns transitioning into full-time roles.
+Responsibilities
+We are seeking a highly motivated Data Science Intern to join our Digital Transformation team. This role offers an opportunity to work on real-world business
+challenges in supply chain, procurement, logistics, and AI-driven decision support systems.
+The intern will collaborate with data scientists, business stakeholders, and technology teams to develop analytical solutions, build data models, and support AI
+initiatives that improve operational efficiency and business outcomes.
+Responsibilities:
+- Analyze large datasets to identify trends, patterns, and business insights.
+- Develop and validate machine learning and statistical models.
+- Build data pipelines and support data engineering activities.
+- Design and create dashboards and visualizations to communicate key findings.
+- Work with structured and unstructured data from enterprise systems.
+- Support AI and GenAI initiatives, including agentic workflows and intelligent decision-support solutions.
+- Assist in graph data modeling and knowledge graph development for supply chain and logistics use cases.
+- Collaborate with cross-functional teams to understand business requirements and translate them into analytical solutions.
+- Document methodologies, assumptions, findings, and recommendations.
+- Present project results and recommendations to technical and business stakeholders.
+Qualifications
+Qualifications – External
+Requirements:
+To be considered for an internship, you must be currently enrolled in a degree seeking program. This position is specifically looking for someone who will be
+enrolled in Master's Degree in Data Science, Computer Science, Statistics, Mathematics, Analytics, Operations Research, Industrial Engineering, Business
+Analytics, or a related quantitative field.
+Here at onsemi we take great pride in our internship program and the efforts we take to provide students with hands-on industry experience. We provide
+competitive pay medical benefits, various networking event opportunities, and flexible hours based on school schedule.
+onsemi is excited to share the base salary range for this position is $26.75/hr.The final pay rate for the successful candidate will depend on geographic
+location, skills, education, experience, and/or consideration of internal equity of our current team members. We also offer a competitive benefits package.
+https://www.onsemi.com/site/pdf/Benefits-Summary-USA.pdf
+About Us
+onsemi (Nasdaq: ON) is driving disruptive innovations to help build a better future. With a focus on automotive and industrial end-markets, the company is
+accelerating change in megatrends such as vehicle electrification and safety, sustainable energy grids, industrial automation, and 5G and cloud infrastructure.
+With a highly differentiated and innovative product portfolio, onsemi creates intelligent power and sensing technologies that solve the world’s most complex
+challenges and leads the way in creating a safer, cleaner, and smarter world.
+More details about our company benefits can be found here:
+https://www.onsemi.com/careers/career-benefits
+About The Team
+We are committed to sourcing, attracting, and hiring high-performance innovators, while providing all candidates a positive recruitment experience that builds
+our brand as a great place to work.
+onsemi is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion,
+ancestry, national origin, age, marital status, pregnancy, sex, sexual orientation, physical or mental disability, medical condition, genetic information,
+military or veteran status, gender identity, gender expression, or any other protected category under applicable federal, state, or local laws.
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability
+or unable to access or use this online application process and need an alternative method for applying, you may contact Talent.acquisition@onsemi.com for
+assistance.

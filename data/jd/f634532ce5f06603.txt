@@ -1,0 +1,34 @@
+Engineering Intern – Robotics & 3D Sensing Technology
+Location: San Francisco, CA (Mission District)
+Work Arrangement: 100% Onsite
+Compensation: $28–$32/hr W2
+Employment Type: Contract Internship | Potential for Conversion
+About the Opportunity
+Red Oak Technologies is hiring an Engineering Intern to join an innovative technology company developing advanced 3D sensing and robotics solutions.
+This opportunity is ideal for an engineering student or recent graduate looking to gain practical experience with LiDAR technology, hardware/software
+integration, product testing, and engineering automation in a collaborative, hands-on environment.
+Key Responsibilities
+- Assist engineering teams with testing, evaluating, and improving advanced sensing systems.
+- Develop and execute test procedures to validate product functionality, performance, and reliability.
+- Participate in hands-on hardware setup, equipment installation, troubleshooting, and system integration.
+- Use Python and other technical tools to support automation, data processing, and testing activities.
+- Contribute to proof-of-concept projects, technical demonstrations, and prototype development.
+- Assist with connecting sensing technology to third-party software and video management platforms.
+- Analyze test results, investigate technical issues, and document engineering findings.
+- Collaborate with product, software, and hardware teams to support customer applications and technical improvements.
+Required Qualifications
+- Currently pursuing or recently completed a Bachelor's or Master's degree in Engineering, Computer Science, Robotics, or a related technical discipline.
+- Academic projects, internships, or practical exposure to robotics, automation, manufacturing, or electromechanical systems.
+- Familiarity with Python or similar programming/scripting languages.
+- Interest in working with both physical equipment and software applications.
+- Strong analytical, troubleshooting, and communication skills.
+- Ability to work onsite five days per week in San Francisco.
+Preferred Qualifications
+- Exposure to LiDAR, 3D sensing, computer vision, or robotics applications.
+- Experience with engineering validation, test automation, or data analysis.
+- Familiarity with hardware integration, technical documentation, or system-level testing.
+- Exposure to video management software or third-party system integrations.
+Why Consider This Opportunity?
+Gain hands-on experience with emerging sensing technologies while working alongside experienced engineers on real-world product development, testing, and
+integration projects.
+This contract internship offers potential for conversion based on individual performance and business needs.

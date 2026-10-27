@@ -1,0 +1,68 @@
+Make IT Personal at TD SYNNEX through our Early Careers Summer Internship Program. This 10-week Technical, Applied Innovation Track is an experience designed
+for technology students who are ready to sharpen their technical skills, explore engineering and data career pathways, and contribute to meaningful work across
+a global IT distributor.
+This application is for students interested in Information Technology, Systems and Cloud, and Artificial Intelligence. Applicants will be asked to indicate
+their preferred area of interest when applying.
+The program runs 10 weeks, full time, beginning May 17, 2027, with internships hosted in Greenville, SC, Clearwater, FL, and Gilbert, AZ.
+Each internship is aligned to a department and business function, giving students the opportunity to apply classroom learning to real technical projects in
+systems support, data, security, and cloud. Interns will build professional networks through senior leader speaker sessions, peer engagement events, job
+shadowing, and exposure to the business operations behind a global IT distribution company.
+Applications for the 2027 Summer Internship Cohort will close at 11:59 PM on Sunday, January 3rd. Students are encouraged to submit their materials early to
+ensure full consideration.
+What We Are Looking For
+- Pursuing a technology-related major, including Computer Science, Information Technology, Management Information Systems, Data Science or Analytics,
+Cybersecurity, or a related field
+- Current undergraduate student with junior standing or above by summer 2027, including May 2027 graduates
+- Authorized to work in the United States without current or future sponsorship
+- Available to work full time, 40 hours per week, for the full 10-week program
+- Able to work from one of the listed locations on a hybrid schedule of three plus days per week in office
+- Proficient in Microsoft Office, including Word, Excel, PowerPoint, and Outlook, with coursework or project exposure to a programming or query language such as
+Python or SQL
+- Preferred: familiarity with AI tools, such as Microsoft Copilot, and an interest in using technology to automate work and improve business outcomes
+- Structured problem solving and the ability to document technical work clearly for non-technical audiences
+- Interest in contributing to a values-driven culture guided by Together, We Own It; We Dare to Go; We Grow and Win; and We Do the Right Thing
+Example Duties and Projects
+Information Technology Intern
+- Troubleshoot and resolve hardware, software, and network issues across enterprise systems
+- Configure user accounts, permissions, and access in corporate systems and applications
+- Support deployment, testing, and documentation of IT projects, including system upgrades and new tool rollouts
+- Monitor system performance and help report on uptime, usage, and security compliance
+- Partner with IT staff on cybersecurity best practices, including patching and vulnerability monitoring
+- Example project: build a knowledge base of IT troubleshooting guides for common employee requests to improve response time
+Systems and Cloud Intern
+- Contribute to enterprise infrastructure projects that keep a global IT distributor running, including server migrations, cloud adoption, and system
+integrations
+- Get hands on with cloud platforms such as Azure and AWS, testing and documenting new applications before they reach the business
+- Work alongside senior engineers, monitoring system health and learning how issues are triaged and resolved in a live enterprise environment
+- Help build the documentation and runbooks that internal teams rely on, turning technical work into something any audience can follow
+- Example project: design and test a proof of concept cloud migration for a live workload, then present your findings and a recommendation to the engineering
+team
+Artificial Intelligence Intern
+- Explore practical uses of AI tools and assistants that support everyday business workflows
+- Help test, document, and refine prompts, workflows, and outputs for accuracy and usefulness
+- Support enablement efforts, including training materials and adoption tracking for internal teams
+- Example project: pilot an AI-assisted workflow with one team, measure time saved, and present a recommendation for wider rollout
+Selected interns will complete a background check before the program begins.
+Housing may be available in Greenville, SC, for eligible students.
+Participation in TD SYNNEX early careers programs, including the internship program does not guarantee an offer of, or placement into, a permanent position with
+TD SYNNEX. At the conclusion of the program-or at any point during the program-participants may be released from the role based on performance outcomes,
+business needs, or failure to meet TD SYNNEX policies or procedures."
+Actual annual compensation offered will be based on several variables including geographic location, work experience, education and skills/ achievements, and
+will be mutually agreed upon at the time of offer. The Discovery Representative Program average starting rate is approximately $22.00 per hour.
+At TD SYNNEX, our values guide everything we do: Together, We Own It, We Dare to Go, We Grow and Win, and above all, We Do the Right Thing. These principles
+shape how we work with each other, our partners, and our communities as we drive innovation and create lasting impact.
+What's In It For You?
+- Elective Benefits: Our programs are tailored to your country to best accommodate your lifestyle.
+- Grow Your Career: Accelerate your path to success (and keep up with the future) with formal programs on leadership and professional development, and many more
+on-demand courses.
+- Elevate Your Personal Well-Being: Boost your financial, physical, and mental well-being through seminars, events, and our global Life Empowerment Assistance
+Program.
+- Diversity, Equity & Inclusion: It's not just a phrase to us; valuing every voice is how we succeed. Join us in celebrating our global diversity through
+inclusive education, meaningful peer-to-peer conversations, and equitable growth and development opportunities.
+- Make the Most of our Global Organization: Network with other new co-workers within your first 30 days through our onboarding program.
+- Connect with Your Community: Participate in internal, peer-led inclusive communities and activities, including business resource groups, local volunteering
+events, and more environmental and social initiatives.
+Don't meet every single requirement? Apply anyway.
+At TD SYNNEX, we're proud to be recognized as a great place to work and a leader in the promotion and practice of diversity, equity and inclusion. If you're
+excited about working for our company and believe you're a good fit for this role, we encourage you to apply. You may be exactly the person we're looking for!
+We are an equal opportunity employer and committed to building a team that represents and empowers a variety of backgrounds, perspectives, 

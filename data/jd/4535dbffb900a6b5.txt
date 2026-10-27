@@ -1,0 +1,60 @@
+Job Description
+Reporting to a Senior Manager within the Post-Irradiation Examination Characterization Department, you will support the development of an integrated and
+autonomous platform for testing mechanical properties, combining multiple testing modes and length scales into a single automated workflow. The platform
+integrates mechanical testing through nanoindentation and tensile tests, alongside characterization using digital image correlation (DIC) and electron
+backscattered diffraction (EBSD). Using real-time data generated during testing, you will help develop intelligent decision-making algorithms to dynamically
+recommend additional testing under varying conditions to evaluate mechanical properties
+These algorithms will leverage Bayesian optimization with Gaussian process (GP) surrogate models to adaptively select the next experimental condition, while
+active learning and convolutional neural networks (CNNs) will enable real-time interpretation of nanoindentation and DIC datasets. This adaptive approach
+ensures the testing protocol is continuously optimized to thoroughly probe material behavior. This work will be conducted in the Structural Properties
+Laboratory (SPL) at the Materials and Fuels Complex (MFC), Idaho National Laboratory (INL).
+This team works a 4x10 schedule onsite. Start date and duration of internship vary based on project and student availability.
+Required
+- Enrolled full time in a PhD program at an accredited college/university studying Computer Science, Artificial Intelligence, Machine Learning, or Data Science
+- A minimum overall 3.0 GPA
+- Authorization to work in the U.S. (including CPT and OPT)
+- Current Resume or CV
+- Unofficial Transcripts (include current and completed degree programs)
+- Current class schedule and number of credits
+The Ideal Candidate Will Possess
+- Experience with Bayesian optimization and Gaussian process surrogate models for adaptive experimental design
+- Experience developing or applying convolutional neural networks (CNNs) for image-based data interpretation
+- Familiarity with active learning methods for real-time or iterative decision-making
+- Exposure to materials characterization techniques (e.g., nanoindentation, DIC, EBSD) or automated/autonomous experimental platforms, through coursework,
+research, or prior internship
+Compensation And Benefits
+- PhD Internships Pre-Candidacy ($36.83/hour - $39.33/hour)
+- PhD Internships Post-Candidacy ($38.65/hour - $41.29/hour)
+- Eligible interns are provided with paid holiday time off, and many of our internships offer travel reimbursements.
+- Multi-Level: Internships are typically multi-level posting and you will be placed at the appropriate level dependent on degree field and level of education.
+Physical Requirement
+While performing the duties of this classification, the employee is frequently required to stand, walk, sit, stoop, kneel, bend, use hands to handle materials,
+manipulate tools, type on a keyboard, reach with hands and arms, and operate job-related equipment. The employee must occasionally lift and/or move up to 35
+pounds without assistance. Sufficient visual acuity and hearing capacity to perform the essential functions and interact with people is required. Reasonable
+accommodation may be made to enable individuals with disabilities to perform the essential functions.
+About Us
+Benefits and Relocation
+- Paid holiday time off
+- Travel reimbursement may be available for eligible interns
+At this time, BEA will not sponsor any H1-B visas obtained outside of the United States of America (U.S.A.), including consular visas.
+INL is a science-based, applied engineering national laboratory dedicated to supporting the U.S. Department of Energy's mission in nuclear energy research,
+science, and national defense. With more than 6,300 scientists, researchers, and support staff, the laboratory works with national and international
+governments, universities and industry partners to change the world's energy future and secure our nation's critical infrastructure.
+INL Mission
+Our mission is to discover, demonstrate and secure innovative nuclear energy solutions, other clean energy options and critical infrastructure.
+INL Vision
+Our vision is to change the world's energy future and secure our nation's critical infrastructure.
+Selective Service Requirements
+To be eligible for employment at INL males born after December 31, 1959 must have registered with the Selective Service System (SSS). For more information see
+www.sss.gov .
+Equal Employment Opportunity
+Idaho National Laboratory (INL) is an Equal Employment Opportunity (EEO) employer. It is the policy of INL to provide equal employment opportunities to all
+qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled
+status, or genetic information.
+Reasonable Accommodation
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform
+essential job functions, and to receive other benefits and privileges of employment. Please contact us at ada@inl.gov to request accommodation.
+Other Information
+When applying to positions please provide a resume and answer all questions on the following screens. Applicants, who fail to provide a resume or answer the
+questions, may be deemed ineligible for consideration.
+INL does not accept resumes from third party vendors unsolicited.

@@ -1,0 +1,47 @@
+Your Impact at LILA
+Lila Sciences is building scientific superintelligence by pairing large-scale automated experimentation with frontier machine learning. Within Lila, the Life
+Science AI (LSAI) function researches automated reasoning on biological data, combining state-of-the-art ML with breakthrough biology.
+This co-op sits with the nucleic acid design group in LSAI, which builds models and design strategies for RNA and DNA sequences. You'll join our Nucleic Acid
+Design team for a 6-month co-op focused on open-ended research questions that could shape how Lila designs nucleic acid sequences in the future.
+You'll work at the intersection of machine learning, sequence modeling and nucleic acid biology, on problems such as UTR design, regulatory element design, and
+using large reasoning models for scientific discovery. You'll own a defined research project with mentorship from ML scientists, and you'll work closely with
+experimental scientists to connect your models to real biological data.
+The ideal candidate is curious, comfortable with open-ended problems, and excited to learn both the ML and biology behind sequence-to-function modeling.
+What You'll Be Building
+- Lead a scoped research project in nucleic acid sequence modeling or design.
+- Build ML models on RNA and DNA sequence-function data, including prototyping new methods for property prediction, generative design or candidate selection.
+- Investigate model behavior and propose biological hypotheses about why sequences succeed or fail.
+- Explore how large reasoning models can drive scientific discovery and sequence design, for example by generating hypotheses, reasoning over experimental
+results or guiding design choices.
+- Collaborate with experimental scientists to understand assays and to propose experiments that test new ideas.
+- Present findings to the team and contribute to research write-ups, and where possible to external publications or presentations.
+What You'll Need To Succeed
+- Currently enrolled in an MS or PhD program in machine learning, computational biology, bioengineering, computer science, statistics or a related quantitative
+field.
+- Hands-on experience building and training ML models, with strong Python skills and experience with PyTorch, JAX or a similar framework.
+- Coursework or research experience with biological sequence data (DNA or RNA).
+- Curiosity about nucleic acid biology, such as RNA biology, gene regulation or sequence-to-function relationships.
+- Available for a full-time, 6-month co-op term onsite in San Francisco.
+Bonus Points For
+- Experience with sequence-to-function models, genomic language models, or models trained on MPRA, reporter assay or other functional genomics data.
+- Familiarity with RNA secondary structure prediction, UTR or codon design, or inverse design methods.
+- Experience with generative modeling, active learning or Bayesian optimization.
+- Exposure to wet-lab data or collaboration with experimental scientists.
+- A research publication, preprint or open-source project in ML or computational biology.
+- Experience using or building with large language or reasoning models, AI agents, or LLM-based tools for scientific tasks.
+About LILA
+Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI.
+Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves.
+LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific
+method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai.
+Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this
+sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply.
+We’re All In
+Lila Sciences is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age,
+citizenship, marital status, disability, gender identity or Veteran status.
+Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy.
+A Note to Agencies
+Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing
+agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume
+submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral
+or other fees with respect thereto.

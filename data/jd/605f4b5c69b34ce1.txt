@@ -1,0 +1,95 @@
+Job Details
+Job Description:
+Intel is seeking an AI Infrastructure Solution Architect Intern to join our AI Platforms team. As an intern, you will work alongside experienced engineers to
+support AI accelerator platforms, cluster deployments, system validation, and AI workload benchmarking. This role provides hands-on experience across AI
+infrastructure, system software, cluster operations, firmware debugging, and end-to-end AI solution development.
+The ideal candidate is passionate about AI systems, computer architecture, Linux, and large-scale computing environments, and enjoys solving complex technical
+problems.
+Responsibilities
+AI Infrastructure and Cluster Operations:
+- Assist in deploying and validating AI accelerator systems and multi-node AI clusters.
+- Support cluster bring-up activities, including system provisioning, software installation, and health verification.
+- Execute performance benchmarks and collect system telemetry.
+- Help troubleshoot system, networking, and software issues in AI environments.
+System Debugging And Validation
+- Analyze hardware, firmware, driver, and software logs to identify failures.
+- Assist with validation of BIOS, firmware, and system software configurations.
+- Support development of test plans and automated validation workflows.
+- Participate in root-cause investigations of system performance and stability issues.
+- AI/ML Workloads
+- Deploy and evaluate AI models using frameworks such as PyTorch and vLLM.
+- Benchmark AI workloads and identify performance bottlenecks.
+- Assist in reproducing customer-reported issues in lab environments.
+- Contribute to optimization studies for AI inference and training workloads.
+Automation And Tool Development
+- Develop Python-based tools to automate testing, monitoring, and data collection.
+- Create dashboards, scripts, and utilities for cluster management and diagnostics.
+- Contribute to documentation, runbooks, and technical knowledge bases.
+- End-to-End AI Solutions
+- Participate in building end-to-end AI solutions, such as generative AI, agentic AI, computer vision, robotics, or intelligent automation projects.
+- Work with cross-functional teams to integrate hardware, software, AI models, and applications into complete solutions.
+Qualifications
+Minimum Qualifications
+- Currently pursuing Master's in: Computer Science, Computer Engineering, Electrical Engineering, Data Science, or AI/ML or related fields
+- Experience with Python programming.
+- Familiarity with Linux command line and system administration concepts.
+- Understanding of computer architecture, operating systems, networking, or distributed systems.
+- Demonstrated ability to solve complex engineering or technical problems through coursework, research, personal projects, robotics competitions, hackathons,
+open-source contributions, or previous internships.
+- Strong analytical and problem-solving skills.
+- Ability to work independently and collaborate in a team environment.
+Preferred Qualifications
+Technical Skills - Experience with:
+- Python, C/C++, or Bash scripting
+- Linux/Unix environments
+- Git and software development workflows
+- Docker or containerized applications
+Familiarity With
+- PyTorch, TensorFlow, or other AI frameworks
+- LLMs, RAG, agentic AI, or generative AI applications
+- Cloud or cluster computing environments
+- GPU or AI accelerator technologies
+Project Experience - Coursework, research, personal projects, or internships involving:
+- AI/ML applications
+- Robotics systems
+- Autonomous systems
+- Computer vision
+- Distributed computing
+- High-performance computing (HPC)
+- End-to-end AI solution development
+Soft Skills
+- Strong communication and presentation skills.
+- Curiosity and willingness to learn new technologies.
+- Ability to diagnose problems systematically and communicate findings clearly.
+What You Will Learn
+- AI accelerator and cluster architecture
+- AI infrastructure deployment and operations
+- System-level debugging and performance optimization
+- AI model deployment and benchmarking
+- Automation, monitoring, and validation frameworks
+- Customer-facing AI solution development and deployment best practices
+Job Type
+Student / Intern
+Shift
+Shift 1 (United States of America)
+Primary Location:
+US, California, Santa Clara
+Additional Locations:
+Posting Statement
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel.
+Annual Salary Range for jobs which could be performed in the US: $133,498.00 - 133,502.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

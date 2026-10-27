@@ -1,0 +1,42 @@
+Position Overview
+Generac is seeking a highly motivated Master's-level Engineering Intern to join the AI Solutions team supporting Corporate Operations and Supply Chain. This
+internship offers the opportunity to work at the intersection of artificial intelligence, advanced analytics, manufacturing operations, and supply chain
+optimization.
+You will partner with business leaders, data scientists, engineers, and operational stakeholders to identify opportunities where AI, machine learning,
+automation, and digital technologies can improve efficiency, decision-making, quality, and customer outcomes. The role provides hands-on experience developing
+and evaluating innovative solutions that support digital transformation and operational excellence.
+This position is required to work on site at our corporate headquarters in Waukesha, WI during scheduled work hours,
+Essential Duties
+Support the development, testing, and implementation of AI-enabled solutions for manufacturing, supply chain, quality, and corporate operations.
+Analyze operational and supply chain data to identify trends, inefficiencies, and opportunities for automation or process improvement.
+Assist in building data models, dashboards, predictive analytics, and decision-support tools using enterprise data.
+Collaborate with cross-functional stakeholders to gather business requirements and translate operational challenges into analytical solutions.
+Contribute to pilot projects involving machine learning, generative AI, optimization algorithms, process automation, and intelligent workflows.
+Research emerging AI technologies and industry practices relevant to manufacturing and supply chain environments.
+Prepare clear presentations and recommendations that summarize findings, potential business value, and implementation considerations.
+Document methodologies, results, and lessons learned to help scale successful solutions across the enterprise.
+Potential Project Areas
+- Supply and demand planning optimization
+- Supplier collaboration and procurement analytics
+- Inventory forecasting and replenishment modeling
+- Quality improvement through AI-driven insights
+- Manufacturing process automation
+- Generative AI for operational productivity
+- Predictive maintenance analytics
+- Advanced reporting and business intelligence
+Education
+Currently pursuing master's degree in Industrial Engineering, Manufacturing Engineering, Systems Engineering, Mechanical Engineering, Data Science, Operations
+Research, Supply Chain Analytics, Computer Engineering, or a related discipline.
+Knowledge, Skills & Abilities
+Strong analytical, quantitative, and problem-solving skills.
+Experience with statistical analysis, quantitative modeling, or data analysis.
+Advanced proficiency in Microsoft Excel.
+Strong written and verbal communication skills, with the ability to explain technical concepts to varied audiences.
+Ability to work independently while collaborating effectively across functions.
+Preferred Qualifications
+Experience with Python, R, SQL, or a similar programming language.
+Exposure to machine learning, artificial intelligence, predictive analytics, or optimization.
+Familiarity with manufacturing, supply chain, or operations environments.
+Experience With Power BI, Tableau, Or Another Visualization Platform.
+Knowledge of simulation, operations research, or process-improvement methodologies.
+Experience working with large datasets or cloud-based analytics environments.

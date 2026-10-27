@@ -1,0 +1,48 @@
+Our paid internship program offers an opportunity to build practical skills, grow your leadership capabilities, and see how your ideas can make an impact.
+You’ll work alongside experienced professionals and connect with mentors, industry experts and senior leaders, while gaining career insights, building
+relationships and exploring how CHS businesses work together to empower agriculture.
+CHS has an exciting opportunity within our Information Technology division. We are seeking a Data Engineer Intern to join our Data Engineering team for the
+summer 2027 and gain hands-on experience building scalable, governed, and business-aligned data products across the enterprise.
+The ideal candidate is curious, analytical, eager to learn, and interested in data engineering, analytics, or cloud technologies. This internship provides an
+opportunity to work alongside data engineers, analysts, data scientists, product owners, and business stakeholders while gaining practical experience with
+modern data engineering tools, development practices, and enterprise data platforms.
+Responsibilities
+- Work alongside data engineers and business partners to understand business requirements, source systems, and analytics needs.
+- Assist with building, testing, and maintaining data pipelines, transformations, data models, and analytics-ready datasets.
+- Develop SQL and Python solutions with guidance from experienced engineers.
+- Gain hands-on experience with Snowflake, dbt, AWS, Microsoft technologies, and other modern data engineering tools.
+- Support the development of governed data products used for reporting, analytics, data science, automation, and business decision-making.
+- Participate in testing, documentation, version control, and CI/CD development practices.
+- Assist with investigating data quality issues, pipeline failures, and opportunities to improve or automate existing processes.
+- Collaborate with data engineers, analysts, data scientists, DevOps teams, architects, and other technology partners.
+- Learn and apply enterprise data governance concepts including access controls, naming standards, data quality, and documentation.
+- Contribute to team discussions, technical problem-solving, and continuous improvement initiatives.
+- Develop an understanding of how data engineering solutions move from business requirements through development and into production.
+- Embody a culture of ownership, curiosity, collaboration, continuous improvement, innovation, and learning.
+Minimum Qualifications (required)
+- Currently pursuing a Bachelor’s Degree in Computer Science, Data Science, Information Technology, Management Information Systems, Engineering, Mathematics, or
+a related field.
+Additional Qualifications
+- Foundational knowledge of SQL and/or Python through coursework, personal projects, internships, or other hands-on experience.
+- Basic understanding of databases, data structures, software development, analytics, or data engineering concepts.
+- Coursework or project experience involving SQL, Python, databases, data pipelines, data modeling, analytics, or software development.
+- Exposure to cloud technologies such as AWS, Microsoft Azure, or similar platforms.
+- Exposure to Snowflake, dbt, Git, Azure DevOps, APIs, Power BI, or related technologies.
+- Familiarity with version control, software development practices, or CI/CD concepts.
+- Experience through academic projects, student organizations, personal projects, or previous internships involving data or software development.
+- Interest in modern data engineering, cloud platforms, artificial intelligence, analytics, automation, or enterprise technology.
+- Interest in agriculture, energy, supply chain, logistics, trading, finance, gtm, or operations data domains.
+CHS offers a competitive total rewards package. Compensation includes base wage and, depending upon position, may include other earnings such as bonus,
+incentives and commissions. Actual pay offered will vary based on multiple factors which may include, without limitation, experience, education, training,
+specialized skills and certifications, minimum wage/salary requirements under local law.
+If eligibility requirements are met, you may participate in 401(k).
+CHS is an Equal Opportunity Employer/Veterans/Disability.
+Please note that any communication from a CHS recruiter would be sent using a chsinc.com email address. In addition, a CHS recruiter will not ask for
+confidential information over the phone or in an email, or request money from a candidate involved in an offer process. If you have questions regarding an
+employment opportunity, please reach out to chscareers@chsinc.com ; to verify that the communication is from CHS.
+Apply now »
+Find similar jobs:
+Opens in a new tab.
+Opens in a new tab.
+Opens in a new tab.
+Opens in a new tab.

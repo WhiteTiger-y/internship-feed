@@ -1,0 +1,45 @@
+About the team Zillow's Data Science and Analytics organization turns complex data into insights that inform decisions across the company. As an intern, you'll
+join the team and explore how data can help us understand customer behavior, measure outcomes, and find ways to improve the customer experience. You'll work
+with data scientists and cross-functional partners, building your analytical skills while bringing a fresh perspective to real business questions. Interns may
+focus on areas such as: Business: build reporting, models, and insights that help specific Zillow organizations assess current initiatives and find
+opportunities to innovate. Marketing: develop experimentation-first strategies for consumer and business marketing, and measure how each channel performs.
+Product: analyze how people use our web and app products so we can deliver a better experience for everything home. Pricing: help develop pricing strategies
+that deliver strong value for customers such as Premier Agents, lenders, and landlords. Tools: turn the large volume of data Zillow collects every day into data
+products that help partners make informed decisions. About the role At Zillow, interns do meaningful work that contributes to the business from day one. As a
+Data Science Intern, you’ll apply the quantitative and programming skills you’re building in school to a scoped, real-world project. With guidance from your
+manager and team, you’ll work through the analytical process—from defining a question and preparing data to interpreting results and sharing recommendations.
+Our nine-week summer internship program, running June 14 through August 13, 2027, gives students the opportunity to bring their ideas and perspectives to real
+projects alongside Zillow teams. Interns build hands-on experience, connect with mentors and leaders, and take part in learning and community experiences with
+their intern cohort. Our 2027 internships are based in Seattle and follow a hybrid schedule, with interns generally working together in person Tuesday through
+Thursday. Eligible interns will receive a stipend to help offset summer housing and relocation costs. During your internship, you will have opportunities to:
+Partner with your manager and stakeholders to turn an open-ended business question into an analytical plan with clear goals and deliverables. Use SQL and
+Python/R to explore, prepare, and validate data, documenting assumptions and flagging data-quality issues. Analyze patterns in customer behavior or business
+performance to uncover insights and potential opportunities. Apply statistical methods, such as regression, hypothesis testing, or experiment analysis
+(including A/B tests and pilots), as fits your project. Help define and interpret metrics that connect your analysis to customer and business outcomes, and
+support ongoing performance tracking. Create clear visualizations and reproducible analyses that make your findings useful to others. Work with engineers,
+product managers, marketers, and other teammates to build a shared approach to analyzing and communicating insights. Communicate your approach, results,
+recommendations, and limitations to technical and nontechnical audiences. Document your work and deliver a final presentation and handoff so the team can build
+on your findings. This role has been categorized as an Office position. “Office” employees regularly work at an existing ZG corporate office for approximately
+80 to 100 percent of their time each month. Employees must live within reasonable commuting distance of their designated ZG office. ZG has not defined a
+reasonable distance, and expects employees will use judgment in determining this for themselves and understand the implications re: time commitment and cost of
+daily commute. In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for
+this role is $104,000.00 - $166,000.00 annually. This base pay range is specific to these locations and may not be applicable to other locations. Actual amounts
+will vary depending on experience, performance and location. Who you are Currently pursuing a Bachelor's or Master's degree in Data Science, Statistics,
+Mathematics, Computer Science, Economics, Engineering, Finance, or a related quantitative field. You’re targeting a graduation date before December 2028. Have a
+foundation in probability, statistics, and data analysis through coursework, research, or projects. Can use Python or R, or a similar programming language, to
+manipulate data and perform analysis. Have familiarity with SQL and relational data, or a demonstrated ability and willingness to learn. Enjoy asking questions,
+investigating patterns, and bringing structure to ambiguous problems. Approach analysis thoughtfully: you check assumptions, validate results, and distinguish
+what the data supports from what remains uncertain. Can explain your thinking clearly and collaborate with people who bring different technical and non-
+technical backgrounds. Are curious about using AI tools to support your work while maintaining independent judgment, validating outputs, and following data-
+handling guidelines. Experience from coursework, academic research, student organizations, and personal projects is welcome. Prior professional data science
+experience is not required. Helpful, but not required: Exposure to A/B testing, experimental design, or causal inference. Experience with data visualization
+tools or libraries. Familiarity with regression, predictive modeling, or other statistical learning methods. Experience organizing reproducible work using
+notebooks, version control, or clear technical documentation. Get to know us At Zillow, we’re reimagining how people move—through the real estate market and
+through their careers. As the most-visited real estate platform in the U.S., we help people navigate buying, selling, financing and renting with greater ease
+and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company reshaping an industry and helping more people make
+home a reality. How we work is a key part of that transformation. Through Cloud HQ, our strategic approach to distributed work, most employees have the
+flexibility to work from wherever they’re most productive—enabling us to move fast, stay connected and deliver on our people promise. Zillow is honored to be
+recognized among the best workplaces in the U.S. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2026, and included on TIME’s America’s Best
+Companies 2026 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow. No matter where
+you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together. Zillow Group
+is an equal opportunity employer committed to fostering an inclusive, innovative en

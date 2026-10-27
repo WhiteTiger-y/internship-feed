@@ -1,0 +1,52 @@
+Who we are
+Aurora’s mission is to deliver the benefits of self-driving technology safely, quickly, and broadly.
+The Aurora Driver will create a new era in mobility and logistics, one that will bring a safer, more efficient, and more accessible future to everyone.
+At Aurora, you will tackle massively complex problems alongside other passionate, intelligent individuals, growing as an expert while expanding your knowledge.
+For the latest news from Aurora, visit aurora.tech or follow us on LinkedIn .
+What we are looking for
+We're searching for Summer 2027 Data & ML Platform Engineering Intern. You'll join one of the teams building the infrastructure that makes Aurora's ML work at
+scale — data pipelines, ML platforms, labeling and data-engine systems, distributed compute, and the cloud tooling that turns raw sensor and behavioral data
+into model-ready datasets.
+In this role you will
+Build and maintain data pipelines and workflow automation that turn raw fleet and sensor data into model-ready datasets
+Design or extend ML platform tooling (labeling systems, data engines, distributed compute) used across autonomy teams
+Use cloud infrastructure (AWS/GCP) to scale data ingestion, storage, and processing workloads
+Partner with ML engineers to understand downstream model requirements and translate them into pipeline/platform design decisions
+Instrument systems for observability and help harden a prototype into something that can run in production
+Required qualifications
+Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Engineering, or a related field
+Strong programming skills in Python and/or Golang
+Working knowledge of data pipeline/ETL concepts and basic distributed systems tradeoffs (e.g. CAP theorem)
+Experience with cloud platforms (AWS or GCP)
+Some applied exposure to ML, robotics, maps/geospatial systems, or a comparable domain
+Hands-on experience building or extending a backend system or pipeline with real scale-up/scale-out requirements
+Desired qualifications
+Experience with parallel execution / distributed processing frameworks (e.g. Spark, Ray, Dask)
+Fluency with AI/agentic coding tooling
+Prior internship or industry experience with production data infrastructure
+Compensation
+The hourly pay rate for this internship in Mountain View or San Francisco is:
+$52.00 per hour for interns pursuing a bachelor’s degree; and
+$58.00 per hour for interns pursuing a master’s degree
+The hourly pay rate for this internship in Pittsburgh is:
+$47.00 per hour for interns pursuing a bachelor’s degree; and
+$52.00 per hour for interns pursuing a master’s degree
+Working at Aurora
+At Aurora, we bring together extraordinarily talented and experienced people united by the strength of our values. We operate with integrity, set outrageous
+goals, and build a culture where we win together — all without any jerks.
+We believe in-person work increases collaboration, empathy, and our ability to lead effectively. As a result, Aurorans are expected to work from the office at
+least 3 days per week, with some roles requiring more frequent in-office presence, up to 5 days per week, based on operational needs.
+Our Careers page provides insight into what it is like to work at Aurora, and you can find all the latest updates in our Newsroom .
+Our commitment to safety
+At the core of everything we do is our commitment to safety. Building best-in-class self-driving technology will take time, and we believe that each employee at
+Aurora has a role in contributing to safety, every step of the way. Aurora expects commitment to our safety policies from every employee, and seeks candidates
+who take an active responsibility, can contribute to building an atmosphere of trust, and invest in the organization’s long-term success by prioritizing working
+safely, no matter what.
+Our commitment to inclusion
+Aurora considers candidates without regard to their race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual
+orientation, marital status, pregnancy status, parent or caregiver status, ancestry, political affiliation, veteran and/or military status, physical or mental
+disability, or any other status protected by federal or state law. Aurora considers qualified applicants with criminal histories, consistent with applicable
+federal, state, and local law. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in
+our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at careersiteaccommodations@aurora.tech .
+For California applicants, information collected and processed as part of your application and any job applications you choose to submit is subject to Aurora’s
+California Employment Privacy Policy.

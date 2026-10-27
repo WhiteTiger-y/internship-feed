@@ -1,0 +1,53 @@
+Who We Are
+Aurora’s mission is to deliver the benefits of self-driving technology safely, quickly, and broadly.
+The Aurora Driver will create a new era in mobility and logistics, one that will bring a safer, more efficient, and more accessible future to everyone.
+At Aurora, you will tackle massively complex problems alongside other passionate, intelligent individuals, growing as an expert while expanding your knowledge.
+For the latest news from Aurora, visit aurora.tech or follow us on LinkedIn.
+What We Are Looking For
+We're searching for Summer 2027 Behavior & Planning Interns. You'll work on how the Aurora Driver decides what to do — forecasting how other agents move,
+planning and selecting trajectories, and the imitation-learning/reinforcement-learning models behind motion planning.
+In this role you will
+- Develop end-to-end planning or prediction models for the Aurora Driver using imitation learning, reinforcement learning, and/or classical motion planning
+- Formulate ambiguous driving-behavior problems as concrete ML or optimization problems
+- Reason about competing objectives (e.g. progress vs. safety) and uncertainty in your model design and evaluation
+- Work with autonomy/robotics-scale datasets and benchmarks, not just toy datasets
+- Present a project plan and regular progress updates to the team, working closely with a mentor
+Required Qualifications
+- Currently pursuing a Bachelors, Master's or PhD in Computer Science, Robotics, or a related field, with a research or ML focus
+- Strong ML foundations with hands-on experience in PyTorch, including custom dataloaders, architectures, and loss functions
+- Some exposure to imitation learning, reinforcement learning, or motion planning
+- Experience training models on large-scale, non-toy datasets or benchmarks
+- Ability to reason mathematically about optimization objectives
+- Awareness of the compounding-error / distribution-shift problem in imitation learning
+Desirable Qualifications
+- Publication record at a peer-reviewed venue
+- Experience with constrained optimization or preference tuning (e.g. RLHF, DPO)
+- Experience with online reinforcement learning or interactive learning (e.g. DAgger)
+Compensation
+The hourly pay rate for this internship in Mountain View or San Francisco is:
+- $52.00 per hour for interns pursuing a bachelor’s degree;
+- $58.00 per hour for interns pursuing a master’s degree; and
+- $65.00 per hour for interns pursuing a doctoral degree.
+The hourly pay rate for this internship in Pittsburgh is:
+- $47.00 per hour for interns pursuing a bachelor’s degree;
+- $52.00 per hour for interns pursuing a master’s degree; and
+- $58.00 per hour for interns pursuing a doctoral degree.
+Working at Aurora
+At Aurora, we bring together extraordinarily talented and experienced people united by the strength of our values. We operate with integrity, set outrageous
+goals, and build a culture where we win together — all without any jerks.
+We believe in-person work increases collaboration, empathy, and our ability to lead effectively. As a result, Aurorans are expected to work from the office at
+least 3 days per week, with some roles requiring more frequent in-office presence, up to 5 days per week, based on operational needs.
+Our Careers page provides insight into what it is like to work at Aurora, and you can find all the latest updates in our Newsroom.
+Our commitment to safety
+At the core of everything we do is our commitment to safety. Building best-in-class self-driving technology will take time, and we believe that each employee at
+Aurora has a role in contributing to safety, every step of the way. Aurora expects commitment to our safety policies from every employee, and seeks candidates
+who take an active responsibility, can contribute to building an atmosphere of trust, and invest in the organization’s long-term success by prioritizing working
+safely, no matter what.
+Our commitment to inclusion
+Aurora considers candidates without regard to their race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual
+orientation, marital status, pregnancy status, parent or caregiver status, ancestry, political affiliation, veteran and/or military status, physical or mental
+disability, or any other status protected by federal or state law. Aurora considers qualified applicants with criminal histories, consistent with applicable
+federal, state, and local law. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in
+our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at careersiteaccommodations@aurora.tech.
+For California applicants, information collected and processed as part of your application and any job applications you choose to submit is subject to Aurora’s
+California Employment Privacy Policy.

@@ -1,0 +1,40 @@
+Meta Reality Labs brings together researchers and engineers to invent the future of visual computing. Our teams develop technologies that enable people to
+capture, create, understand, and interact with immersive visual experiences across Meta’s products and AR/VR platforms.We work at the intersection of artificial
+intelligence, computer vision, computer graphics, and computational photography. Our research spans generative image and video models, multimodal foundation
+models, neural rendering, novel-view synthesis, and learned 3D and 4D representations of people, objects, and environments.As a Research Scientist Intern, you
+will help advance the state of the art through an ambitious research project. You will collaborate with researchers and engineers to develop new models,
+representations, datasets, and evaluation methods—with opportunities to publish your work and influence future products used by people around the world.
+Research Scientist Intern, Generative AI & Computational Photography (PhD) Responsibilities:
+- Research, develop and prototype advanced technologies in the domain of Computer Vision, Computer Graphics, and Machine Learning. Deliver research results that
+are both publishable and have a direct impact on Reality Labs or Meta’s Family of Apps Analyze the efficiency, accuracy, scalability, and stability of currently
+deployed technologies to identify opportunities for impact through novel research. Collaborate with team members throughout the lifetime of a project, from
+research to prototyping to deploying products.
+Minimum Qualifications:
+- Currently is in the process of obtaining a PhD degree in computer science, electrical engineering, or related fields. Experience in one or more areas of
+Computer Science, such as Computer Vision, Machine Learning, Computer Graphics, Image Processing, and Computational Photography. Proven track record of
+achieving significant results as demonstrated by grants, fellowships, patents, as well as co-authored publications at top-tier conferences. Experience with
+modern C++ and/or Python. Experience with deep learning frameworks such as PyTorch
+Preferred Qualifications:
+- Intent to return to their degree program after the completion of the internship Interpersonal experience: cross-group and cross-culture collaboration. Strong
+communication skills and ability to convey research ideas to a broad audience. Broad understanding of the full machine vision pipeline from sensors to high-
+level algorithms. Mathematical background and understanding of linear algebra, numerical optimization, probabilistic estimation, Understanding of 3D geometry
+Relevant research or software engineering work experiences, including internship, work experience, coding competitions, or widely used contributions in open
+source repositories
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

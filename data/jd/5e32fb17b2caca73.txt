@@ -1,0 +1,68 @@
+Research Intern – Machine Learning for Neuroscience
+12 Month Duration - starting late fall 2026
+The Allen Institute accelerates science for a healthier world through large-scale research designed to answer some of the most complex questions in biology. Our
+multi-disciplinary teams generate foundational knowledge, tools, and data to understand how our brain, cells, and immune system work. We share our work openly
+so others can build on it, move faster, and ask bigger questions. We drive discovery forward and create new possibilities for improving human health.
+The goal of the Neural Dynamics accelerator is to understand how the brain generates flexible behavior. We aim to uncover the algorithms—implemented by dynamics
+in brain-wide neural circuits—that allow animals to build internal models, process information, and choose actions.
+We are searching for a graduate student intern who will analyze large-scale neural and behavioral recordings to uncover how populations of neurons coordinate to
+control movement.
+This is a one-year, part-time research position at the intersection of machine learning and neuroscience. The intern will work with a rich existing dataset: two
+intermingled but genetically distinct populations of neurons in the striatum, recorded simultaneously, with individual cells tracked stably across many days,
+alongside a continuously measured motor output and synchronized muscle activity and video. The central question is a latent-variable modeling problem — how do
+the two populations jointly encode the motor output, and how much of their activity is shared between them versus private to each? Understanding how these
+circuits specify movement is also foundational for closed-loop brain-machine interfaces that aim to restore movement after injury or disease, an active area of
+work in the team. No prior neuroscience background is required; the intern will be mentored directly. The position is a one-year commitment so that the intern
+has time to carry a project through to a scientific result, and strong work may contribute to a conference presentation or publication. Students at the
+University of Washington may be able to arrange academic credit for this work, including toward a master’s thesis, in coordination with their degree program and
+faculty advisor.
+At the Allen Institute, we believe that science is for everyone – and should be open to everyone. We are dedicated to combating biases and reducing barriers to
+STEM careers more broadly.
+We also believe that science is better when it includes different perspectives and voices. We strive to make the Allen Institute a place where everyone feels
+like they belong and are empowered to do their best work in a supportive environment.
+We are an equal-opportunity employer and strongly encourage people from all backgrounds to apply for our open positions.
+- A cover letter is required to be considered for this position.**
+Essential Functions
+- Characterize how coordinated activity across two simultaneously recorded neural populations encodes forelimb force
+- Implement, fit, and evaluate machine learning and latent variable models that partition shared versus population-specific covariance, and benchmark them
+against recently published alternatives
+- Relate neural population activity to behavioral variables using regression and classification methods, with appropriate cross-validation and controls
+- Extend the analysis to electromyography (EMG) and synchronized behavioral video, and to how neural coding and behavior change across days of learning
+- Produce documented, version-controlled Python analysis code that other team members can build on
+- Communicate results to the mentoring scientists and the wider team, and contribute figures and methods text toward posters and manuscripts
+Note: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This description reflects management’s
+assignment of essential functions; it does not proscribe or restrict the tasks that may be assigned.
+Educational Objectives
+- Hands-on experience applying machine learning and signal processing methods to large-scale neural and behavioral datasets
+- Practical understanding of latent variable and dimensionality reduction models for multi-population data
+- Experience with reproducible, collaborative scientific computing and open science practices
+- Direct mentorship from staff scientists, exposure to systems neuroscience as a research area, and development of scientific writing and presentation skills
+Required Education And Experience
+- Currently enrolled in a master’s or PhD program in electrical and computer engineering, computer science, or a related quantitative field
+- Completed coursework, prior to the start of the position, in programming, linear algebra, probability and statistics, and at least one of machine learning or
+signal processing
+- Demonstrated experience with scientific computing in Python (numpy, scipy, pandas)
+- Available to start in late October / early November 2026 and able to commit to the position for one year
+- Able to work onsite at least one day per week
+Preferred Education And Experience
+- Coursework or project experience with linear regression and discrete classifiers (e.g., support vector machines)
+- Coursework or project experience with dimensionality reduction and latent variable models (e.g., PCA, factor analysis, canonical correlation analysis)
+- Experience with time series analysis and signal processing (filtering, spectral methods)
+- Experience with scikit-learn and with deep learning frameworks such as PyTorch
+- Experience with video-based pose estimation tools (e.g., DeepLabCut, SLEAP, Lightning Pose) or with biosignal analysis such as EMG
+- Experience with software best practices (version control, code review, testing)
+- Interest in computational or systems neuroscience; prior neuroscience coursework or research is welcome but not required
+- Strong written and verbal communication skills, and the ability to work both independently and in a collaborative, multi-disciplinary environment
+Physical Demands
+- Fine motor movements in fingers/hands to operate computers and other office equipment
+Position Type/Expected Hours of Work
+- During academic school year: part-time, up to 19 hours per week
+- During academic summer break: full-time, approximately 40 hours per week
+- Weekly hours are flexible and can be scheduled around academic coursework
+- One-year fixed-duration term position
+- This role is currently able to work both remotely and onsite in a hybrid work environment. We are a Washington State employer, and the primary work location
+for all Allen Institute employees is 615 Westlake Ave N.; any remote work must be performed in Washington State
+- Able to work onsite at least one day per week
+Salary
+- $38.00 per hour (non-negotiable)
+It is the policy of the Allen Institute to provide equal employment opportunity (EEO) to all persons regardless of age, co

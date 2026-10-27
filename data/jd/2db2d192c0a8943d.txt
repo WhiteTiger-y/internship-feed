@@ -1,0 +1,72 @@
+Data & AI Intern
+At Salas O’Brien we tell our clients that we’re engineered for impact. This passion for making a difference applies just as much to our team as it does to our
+projects. That’s why we’re committed to living our values every day: inspiring, achieving, and connecting as shared owners of our success with a focus on a
+sustainable future.
+Building for the long-term means that all of our team members can expect to work on amazing projects with a people-first approach to problem solving. It also
+means that each member of our team has truly limitless potential to build a unique, meaningful, and high-impact career—and they’ll receive great total rewards
+along the way.
+About Us
+Founded in 1975, Salas O’Brien is an employee-owned engineering and professional services firm focused on achieving impact for our clients, our team, and the
+world. We know that tomorrow’s requirements are today’s opportunities, and we are here to design lasting solutions for pressing challenges.
+We work across a variety of industries providing integrated engineering and consulting services. Our specialized experience includes design for data centers,
+healthcare, science and technology, high-rise buildings, clean energy, education, and other building types as well as structural and building sciences,
+infrastructure asset management, advanced robotics, and more.
+Our technical expertise is paired with an exceptional team of business development, human resources, finance and accounting, information technology, and
+marketing professionals, all of whom play a key role in bringing our commitments to life every day.
+Position Summary
+As a Data & AI Product Engineer Intern, you will support the development of data pipelines, models, and applications that power practical Data & AI products.
+You will contribute to real product work while learning established platform patterns, engineering practices, and quality standards.
+This is a hands-on internship designed to provide experience working on real business problems alongside experienced engineers. You will have opportunities to
+build your Python and SQL skills, learn modern data and AI technologies, and see how solutions move from an idea through development and testing.
+You will be part of a small product pod, working with a Product Manager and engineers to deliver and improve useful, reliable products.
+Reporting and Scope
+This role reports to the Data & AI Product Manager for the assigned product, with technical guidance and support from engineers on the product pod.
+As an intern, you will work on defined projects and product backlog items with guidance from the team. The scope of your work may grow throughout the internship
+as you become more familiar with the platform, products, and engineering practices.
+Responsibilities
+- Assist with building and maintaining data pipelines, including ingestion, transformation, data quality checks, and monitoring.
+- Contribute to product features through coding, testing, documentation, and troubleshooting.
+- Support machine learning or generative AI components when they are part of the product roadmap.
+- Write and test Python and SQL with guidance from experienced engineers.
+- Learn and follow established platform patterns, engineering standards, and development practices.
+- Participate in code reviews to learn from feedback and develop stronger engineering practices.
+- Help investigate defects, data quality issues, and other technical problems.
+- Support testing and evaluation to help determine whether data and AI solutions are working as intended.
+- Participate in product pod discussions to better understand business requirements and technical decisions.
+- Maintain documentation for the components, processes, and projects you support.
+How The Work Arrives
+Work is driven by a prioritized product backlog and often begins with a business problem to solve. You will work with the product pod to understand the need,
+contribute to a solution, and learn how Data & AI products are developed and improved over time.
+You will have guidance from experienced team members as you learn the platform and products. As you build your skills and demonstrate greater independence, you
+may take on broader or more complex assignments.
+Qualifications And Experience
+Who You Are
+- You are interested in building practical solutions and seeing how technology is applied to real business problems.
+- You are curious and willing to ask questions when you do not understand something.
+- You enjoy learning new technologies and applying what you have learned.
+- You are interested in both the business problem and the technology used to solve it.
+- You welcome feedback and enjoy working collaboratively with others.
+Required
+- Currently pursuing a bachelor’s or master’s degree in computer science, data science, engineering, mathematics, information systems, or a related discipline.
+- Foundational knowledge of Python and SQL through coursework, projects, previous internships, or other experience.
+- Basic understanding of databases, data structures, data modeling, software development, or related concepts.
+- Strong problem-solving skills and attention to detail.
+- Ability to learn new technical concepts and apply feedback.
+- Ability to communicate progress, questions, and challenges clearly.
+- Interest in data engineering, machine learning, artificial intelligence, or software development.
+Preferred
+- Coursework or project experience involving Python, SQL, data engineering, machine learning, or software development.
+- Exposure to cloud data platforms or distributed data processing.
+- Familiarity with version control tools such as Git, including basic concepts such as branches, commits, and pull requests.
+- Exposure to Databricks, Delta Lake, or Unity Catalog.
+- Coursework, projects, or personal experience involving machine learning or generative AI.
+- Experience developing a technical project individually or as part of a team.
+Location: Remote
+Compensation & Benefits
+The expected base salary range for this role is $22-$27 USD per year. Actual compensation will be determined based on a number of factors including skills,
+experience, qualifications, and location.
+Equal Opportunity Employment Statement
+Salas O’Brien provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type
+without regard to race, colour, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity
+or expression, or any other characteristic protected by federal, state/provincial, or local laws. Salas O’Brien will accommodate the disability-related needs of
+applicants as required by law.

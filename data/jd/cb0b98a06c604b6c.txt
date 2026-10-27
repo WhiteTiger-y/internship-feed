@@ -1,0 +1,36 @@
+About the Role -
+We are seeking a Quantum Computing Intern to join our research team and contribute to the development, benchmarking, and improvement of cutting-edge quantum
+algorithms. The intern will work at the intersection of variational quantum computing, quantum machine learning, and scientific computing — tackling challenges
+such as barren plateaus, hardware execution, and algorithmic efficiency. This is a hands-on research role where you will help push the boundaries of what is
+possible on near-term quantum hardware.
+Roles and Responsibilities -
+• Design, implement, and improve variational quantum algorithms, with a focus on the Variational Quantum Linear Solver (VQLS) and related solvers.
+• Develop and benchmark Quantum Machine Learning (QML) models, including Quantum-Assisted Physics-Informed Neural Networks (PINN / QAPINN) and Physics-Informed
+Neural Operators (PINO / QAPINO).
+• Work on quantum optimization algorithms such as the Quantum Approximate Optimization Algorithm (QAOA), including ansatz design, parameter initialization, and
+performance analysis.
+• Investigate and apply techniques to mitigate barren plateaus in variational quantum circuits (e.g., layer-wise training, smart initialization, problem-
+inspired ansätze, symmetry-preserving circuits).
+• Execute and benchmark algorithms on real quantum hardware, manage noise, and analyze hardware-specific performance trade-offs.
+• Document results clearly through technical reports, internal presentations, and contributions to publications.
+Required Qualifications -
+• Demonstrated experience improving variational quantum algorithms such as VQLS.
+• Hands-on experience with Quantum Machine Learning (QML), including PINN / QAPINN and PINO / QAPINO architectures.
+• Practical experience with quantum optimization algorithms, particularly QAOA.
+• Working knowledge of barren plateau phenomena and strategies for handling them.
+• Experience executing quantum algorithms on real quantum hardware (e.g., IBM Quantum, IonQ, Quantinuum, Rigetti, or similar).
+• Proficiency in Python and at least one quantum SDK (e.g., Qiskit, PennyLane, Cirq, or Braket).
+• Strong foundation in linear algebra, probability, and numerical methods.
+Good to Have -
+• Experience with Quantum Monte Carlo (QMC) methods.
+• Familiarity with uncertainty quantification techniques.
+• Upper-level / advanced linear algebra (tensor methods, spectral analysis, matrix decompositions, Krylov methods).
+• Background in Computational Fluid Dynamics (CFD) and partial differential equations (PDEs).
+• Knowledge of quantum error correction (QEC) and error mitigation techniques.
+• Experience with quantum data loading / state preparation methods (e.g., amplitude encoding, QRAM-style approaches).
+Along with your resume, please submit copies of any posters and papers you have authored or co-authored. Preference will be given to candidates with
+demonstrable research output, even if preliminary or unpublished.
+Company Description -
+BQP is a pioneering company advancing quantum-inspired simulation technologies under its platform BQPhy®, designed to tackle the most complex computational
+problems in aerospace, space, and defense industries. Leveraging quantum-inspired algorithms and high-performance computing, BQPhy® delivers significantly
+higher speed and accuracy compared to existing GPU-based solutions, empowering organizations with accelerated innovation and sustainable competitive advantages.

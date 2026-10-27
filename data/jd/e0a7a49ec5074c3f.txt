@@ -1,0 +1,45 @@
+Company : enGen Job Description : Applicants must be authorized to work in the U.S. independently. At this time, we do not offer visa sponsorship for this role.
+The Summer 2027 Data Analyst enGen Undergraduate Internship provides students with an opportunity to gain practical, hands-on experience supporting enterprise
+data platforms, data operations, analytics, and AI-driven initiatives within enGen. This internship is designed to develop the next generation of data and
+technology professionals through direct exposure to modern DataOps practices, data engineering concepts, analytics platforms, and enterprise data management
+solutions. As a member of the DataOps Platform team, the intern will work alongside data engineers, data analysts, platform administrators, architects, and
+business stakeholders to support strategic data initiatives and enterprise business projects. Participants will gain valuable experience working with industry-
+leading data technologies, including Atlan, Monte Carlo, Starburst, and dbt, while contributing to efforts that improve data accessibility, quality, governance,
+observability, and business intelligence capabilities. The program provides hands-on training and exposure to a variety of career paths within Data Analytics,
+Data Engineering, Data Operations, Artificial Intelligence, Information Management, and Business Intelligence. Interns will collaborate across multiple data
+teams to support data-driven decision-making, improve operational processes, and help deliver innovative solutions that drive business value. Typical
+responsibilities include analyzing data, developing SQL-based queries and reporting solutions, supporting data engineering and DataOps initiatives, assisting
+with data quality and observability efforts, participating in AI-related projects, researching technical solutions, and collaborating with cross-functional
+teams to support enterprise data platforms. Through mentorship, project-based learning, and real-world experience, participants will strengthen their
+analytical, technical, and business skills while building a strong foundation for future careers in data and technology. SUMMARY OF JOB RESPONSIBILITIES This
+job has the goal of providing the opportunity to acquire practical experience through direct exposure to the related business line(s) and to develop the next
+generation of diverse business professionals. To that end, the program will provide hands-on training and experience in the business line, expose the various
+career opportunities in the business line and related areas, and prepare participants for positions in the business. Typical responsibilities include, providing
+services to the day-to-day operating objectives of the assigned area, participating in projects and programs appropriate to the needs of the assigned area,
+participating in the planning and implementation of projects and initiatives, conducting research and reporting including recommendations or proposals for
+action. REQUIRED QUALIFICATIONS Full or part-time enrollment in an accredited college or university baccalaureate program. PREFERRED QUALIFICATIONS Currently
+pursuing a degree in Information Science & Technology (IST), Computer Science, Management Information Systems (MIS), Data Analytics, Data Science, or a related
+technology discipline. Experience with SQL and writing database queries. Experience with or coursework in Python programming. ESSENTIAL JOB FUNCTIONS 1.
+Communicate effectively while interacting directly with colleagues, clientele, and/or other internal or external constituencies in the planning of assignments
+and the resolution of day-to-day operational problems. 2. Under supervision, provide entry-level professional services as appropriate to the day-to-day
+operating objectives of the area. Receives guidance, training, and mentoring from senior personnel in planning and carrying out activities and assignments. 3.
+Undertake and/or participates in projects and programs designed to develop professional skills and expertise appropriate to the needs of the organization. 4.
+Participate in the planning and implementation of unit projects and initiatives within area of expertise and ability. 5. As specifically requested by
+management, conduct research and reporting inclusive of recommendations or alternative proposals for action. 6. Undertake related studies or enrichment programs
+as appropriate to the specific objectives of the operating unit. 7. Perform miscellaneous job-related duties as assigned. Disclaimer: The job description has
+been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within this job title. It may not contain
+a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job. Compliance Requirement: This position
+adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and company policies As a component of job
+responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must be protected at all
+times. In connection with this, all employees must comply with both the Health Insurance Portability Accountability Act of 1996 (HIPAA) as described in the
+Notice of Privacy Practices and Privacy Policies and Procedures as well as all data security guidelines established within the Company’s Handbook of Privacy
+Policies and Practices and Information Security Policy. Furthermore, it is every employee’s responsibility to comply with the company’s Code of Business
+Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and training
+requirements. Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or
+individuals with disabilities and prohibit discrimination against all individuals based on any category protected by applicable federal, state, or local law.
+California Consumer Privacy Act Employees, Contractors, and Applicants Notice Highmark Health is a national, blended health organization that includes one of
+America’s largest Blue Cross Blue Shield insurers and a growing regional hospital and physician network. Based in Pittsburgh, Pa., Highmark Health’s 35,000
+employees serve millions of customers nationwide through the nonprofit organization’s affiliated businesses, which include Highmark Inc., Allegheny Health
+Network, HM Insurance Group, United Concordia Dental, HM Health Solutions and HM Home & Community Services. Highmark Health’s businesses proudly serve a broad
+spectrum of health-related needs including health insurance, health care delivery, population health management, dental solutions, reinsurance solutions, and
+innovative, technology solutions.

@@ -1,0 +1,63 @@
+Company
+Highmark Health
+Job Description
+Applicants must be authorized to work in the U.S. independently. At this time, we do not offer visa sponsorship for this role.
+The Summer 2027 Predictive Modeling & Data Science Graduate Internship provides graduate students with an opportunity to gain hands-on experience developing
+advanced analytics and data science solutions that support meaningful business decisions, processes, and strategic initiatives. This internship is designed for
+students who are passionate about using data, statistics, and machine learning to solve complex problems and translate analytical findings into actionable
+business insights.
+As a member of the advanced analytics team, the intern will work alongside experienced data scientists, analysts, and business partners to help design, develop,
+and evaluate analytical solutions that address real-world business challenges. Participants will gain practical experience applying statistical and machine
+learning methodologies, developing predictive models, analyzing complex datasets, and visualizing results to support data-driven decision-making.
+The program provides exposure to the end-to-end analytics lifecycle, from understanding a business question and exploring available data through model
+development, evaluation, visualization, and delivery of findings. Interns will also have opportunities to explore new data sources, analytical tools, and
+emerging techniques while contributing to next-generation analytics initiatives.
+Typical responsibilities include conducting exploratory and statistical analysis, supporting predictive model development, preparing and transforming data,
+evaluating model results, creating data visualizations, researching new analytical approaches, and communicating findings and recommendations to technical and
+business audiences. Through mentorship, cross-functional collaboration, and project-based learning, participants will strengthen their technical, analytical,
+problem-solving, and storytelling skills while building a strong foundation for a career in data science and advanced analytics.
+Summary Of Job Responsibilities
+This job has the goal of providing the opportunity to acquire practical experience through direct exposure to the related business line(s) and to develop the
+next generation of diverse business professionals. To that end, the program will provide hands-on training and experience in the business line, expose the
+various career opportunities in the business line and related areas, and prepare participants for positions in the business.
+Required Qualifications
+Bachelor’s degree.
+Pursuance of a graduate degree full or part-time in an accredited college or university.
+Preferred Qualifications
+- Pursuing a graduate degree in Data Science, Statistics, Analytics, Mathematics, Computer Science, or another related quantitative discipline.
+- Coursework, research, or project experience involving predictive modeling, machine learning, statistical analysis, or advanced analytics.
+- Experience working with large or complex datasets through academic research, internships, professional experience, or graduate coursework.
+- Familiarity with programming and analytical tools commonly used for data science and statistical modeling.
+- Experience with data preparation, exploratory data analysis, feature engineering, and model evaluation.
+- Experience developing data visualizations and presenting analytical findings to diverse audiences.
+- Knowledge of machine learning concepts, statistical modeling techniques, and predictive analytics methodologies.
+- Ability to translate business questions into structured analytical approaches and actionable recommendations.
+- Interest in exploring emerging data science technologies, analytical techniques, and new sources of data.
+- Demonstrated initiative, creativity, and curiosity when approaching complex analytical problems.
+Essential Job Functions
+- Communicate effectively. This position displays effective communication skills while interacting directly with colleagues, clientele, and/or other internal or
+external constituencies in the planning of assignments and the resolution of day-to-day operational problems.
+- Under supervision, provide professional services as appropriate to the day-to-day operating objectives of the area. Receives guidance, training, and mentoring
+from senior personnel in planning and carrying out activities and assignments.
+- Undertake and/or participate in projects and programs designed to develop professional skills and expertise appropriate to the needs of the organization.
+- Participate in the planning and implementation of unit projects and initiatives within area of expertise and ability.
+- As specifically requested by management, conducts research and reporting inclusive of recommendations or alternative proposals for action.
+- Undertake related studies or enrichment programs as appropriate to the specific objectives of the operating unit.
+- Perform miscellaneous job-related duties as assigned.
+Disclaimer The job description has been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within
+this job title. It may not contain a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job.
+Compliance Requirement This position adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and
+company policies
+As a component of job responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must
+be protected at all times. In connection with this, all employees must comply with both the Health Insurance Portability Accountability Act of 1996 (HIPAA) as
+described in the Notice of Privacy Practices and Privacy Policies and Procedures as well as all data security guidelines established within the Company’s
+Handbook of Privacy Policies and Practices and Information Security Policy. Furthermore, it is every employee’s responsibility to comply with the company’s Code
+of Business Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and
+training requirements.
+Pay Range Minimum
+Pay Range Maximum
+Base pay is determined by a variety of factors including a candidate’s qualifications, experience, and expected contributions, as well as internal peer equity,
+market, and business considerations. The displayed salary range does not reflect any geographic differential Highmark may apply for certain locations based upon
+comparative markets.
+Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with
+disabilities and prohibit discrimination against all individuals based on any category protected by applicable federal, state, or lo

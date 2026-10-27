@@ -1,0 +1,62 @@
+Job Description
+Position overview:
+The Linac Coherent Light Source (LCLS) at SLAC National Accelerator Lab is the world’s first hard X-ray free electron laser. LCLS produces pulses of X-rays more
+than a billion times brighter than the most powerful existing synchrotron sources. Scientists use these highly focused, intense beams of X-rays to reveal the
+identity and arrangement of atoms in a wide range of materials. The tiny wavelength of X-rays enables study of the arrangement of atoms in metals,
+semiconductors, ceramics, polymers, catalysts, plastics, and biological molecules. The ultrashort duration of these X-ray pulses can capture images of atoms and
+molecules in motion. LCLS is operated as an international user facility, attracting hundreds of scientists from around the world to conduct first-of-a-kind
+experiments to study fundamental processes of chemistry, technology, and life itself.
+Example Laboratory Projects From Previous Internships
+LCLS has centrally managed summer internship program for students currently enrolled in an educational program or recently graduated. Each intern is partnered
+with a mentor, typically a scientist, engineer, or other technical staff, who directs the internship project during the summer. The primary goal of the program
+is to provide interns with a stimulating, real-world research experience. To some extent technical projects are matched to the interests and skills of each
+intern but are ultimately determined by the programmatic needs of the facility. Projects from previous internships have included the following:
+- Design of instrument and measurement of the timing jitter between ultrafast laser pulses.
+- Development of a non-linear optical system for high-contrast laser pulses.
+- Development of multi-photon pulse-width diagnostic.
+- Micro-machining capillaries for deep-UV jet sources.
+- Design and construction of an ultra-high vacuum experimental chamber for attoscience experiments.
+- Characterization of reflectivity and dispersion characteristics of optical coatings.
+- ASIC development for high-speed X-ray detectors.
+- Characterization of a pulsed sample delivery system for X-ray protein crystallography.
+- Characterization of saturable absorption properties of laser safety glass.
+- Characterization of beam pointing stabilization system.
+- Example programming/modeling projects from previous internships:
+- Analysis of data from LCLS experiments on X-ray interactions with diatomic molecules.
+- Modeling of ultrafast laser propagation through dispersive media.
+- Modeling of THz generation by coherent transition radiation.
+- Implementation of on-line data analysis algorithms for LCLS experiments.
+- Interfacing centralized data acquisition system with laser timing system.
+- Analysis of publication data to determine scientific productivity of facility.
+Opportunities And Benefits
+- Great experience for students seeking real-world experience in a scientific and research environment.
+- Engage with students and staff in the multidisciplinary Stanford/SLAC scientific community.
+- Develop a network of mentors and colleagues.
+- Housing on Stanford campus will be offered during the internship.
+Note: Please note that the LCLS Summer Internship requires a poster submission towards the end of the program to summarize, document your work and to have the
+opportunity to communicate with your peers and colleagues at SLAC.
+This is an hourly, non-benefits eligible temporary-nonexempt, summer internship position, not to exceed 980 hours in 12 consecutive months. Eligible applicants
+must be at least 18 years of age and currently enrolled in an educational program or recently graduated and have US work authorization. All accepted candidates
+must have or be able to timely acquire US work authorization. The program duration is 10 weeks and is full-time on-site; see LCLS Internship Program website for
+additional details and requirements.
+In addition to completing the job application, applicants must complete the “Intern Candidate Form” linked on the LCLS Internship website.
+To Be Successful In This Position
+- Must be currently enrolled in an educational program or recently graduated in engineering, physics, chemistry, biology, computer science or related field.
+- Problem-solving and analysis skills.
+- Ability to work independently as well as in a team environment.
+- Organizational skills and ability to multi-task and complete assignments.
+SLAC Employee Competencies
+- Effective Decisions: Uses job knowledge and solid judgment to make quality decisions in a timely manner.
+- Self-Development: Pursues a variety of venues and opportunities to continue learning and developing.
+- Dependability: Can be counted on to deliver results with a sense of personal responsibility for expected outcomes.
+- Initiative: Pursues work and interactions proactively with optimism, positive energy, and motivation to move things forward.
+- Adaptability: Flexes as needed when change occurs, maintains an open outlook while adjusting and accommodating changes.
+- Communication: Ensures effective information flow to various audiences and creates and delivers clear, appropriate written, spoken, presented messages.
+- Relationships: Builds relationships to foster trust, collaboration, and a positive climate to achieve common goals.
+Work Standards
+- Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+- Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for environment, safety and security; communicates related concerns;
+uses and promotes safe behaviors based on training and lessons learned. Meets the applicable roles and responsibilities as described in the ESH Manual, Chapter
+1—General Policy and Responsibilities: http://www-group.slac.stanford.edu/esh/eshmanual/pdfs/ESHch01.pdf
+- Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other
+policies found in the University's Administrative Guide, http://adminguide.stanford.edu

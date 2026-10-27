@@ -1,0 +1,44 @@
+The Role
+We are excited to offer an internship opportunity for a talented student to join the data science team at Schonfeld. The data science team is responsible for
+creating Schonfeld's proprietary curated and feature datasets, conducting data analytics and research, and ultimately add value to various investment
+strategies.
+What You’ll Do
+As a data scientist, you will work closely with the engineering teams to optimize data ingestion pipelines, ensuring high-quality data input. You will also
+collaborate with portfolio manager teams to extract insights from data and systematically generate features or signals that feed into the alpha generation
+process. Additionally, you will develop domain expertise across various financial asset classes and datasets, produce curated datasets to standardize research,
+conduct quantitative analysis to generate ideas and validate hypothesis through backtesting. The ideal candidate will possess both a passion for data science
+disciplines and a strong interest in financial markets.
+What You’ll Bring
+What you need:
+- Knowledge of Python, SQL, or other programming languages
+- Proficiency with statistical and machine learning packages for quantitative analysis
+- Experience researching and analyzing financial datasets
+- Attention to detail and strong communication skills
+- Degree in quantitative field such as computer science, data science or financial engineering
+We’d Love If You Had
+- Strong passion for financial markets and related datasets
+- Knowledge of deep learning models
+- Familiarity with AI tools to accelerate work, with a focus on adding analysis and insight
+- Experience with any of the following technologies: Spark, Kafka, Docker, Airflow
+- Knowledge of financial asset classes such as equity, futures, and fixed Income
+Our Internship
+Kick-start your career in finance with the Schonfeld Summer Internship! Over the course of 10 action-packed weeks, you will have the opportunity to build
+solutions that tackle real-world challenges and leave a lasting impact on the firm. As an intern, you’ll join a close-knit team that is ready to support your
+growth and accelerate your career. We will pair you with a dedicated manager and a mentor who’ll guide your development over the course of the internship and
+beyond. Throughout the program, you will have the chance to connect with senior leaders through a series of learning sessions, attend hands-on skills workshops,
+network at social events and get a behind-the-scenes look at how various functions power the firm. We’ll empower you to bring your ideas to life and make an
+impact.
+Who We Are
+Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and
+external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of
+experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical,
+Fundamental Equity and Discretionary Macro & Fixed Income.
+Our Culture
+At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with
+exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented,
+collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational
+offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote
+inclusion and purpose beyond the firm’s walls.
+The annual base pay for this role is expected to be between $100,000 and $110,000 which will be prorated based on internship start and end date. The expected
+base pay range is based on information at the time this post was generated. Actual compensation for the successful candidate will be determined based on a
+variety of factors such as skills, qualifications and experience and level of education.

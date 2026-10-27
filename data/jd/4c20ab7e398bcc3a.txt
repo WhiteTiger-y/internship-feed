@@ -1,0 +1,32 @@
+Introduction
+At IBM Research, we are the innovation engine of IBM, exploring what’s next in computing and shaping the technologies the world will rely on tomorrow. From
+advancing AI and hybrid cloud to pioneering practical quantum computing, we anticipate challenges and unlock new opportunities for clients, partners, and
+society.
+Working at IBM Research means joining a team that accelerates discovery at the intersection of high-performance computing, AI, quantum computing, and cloud
+technologies. You’ll collaborate with leading scientists, engineers, and visionaries to push boundaries and turn ideas into reality. With a culture built on
+curiosity, creativity, and collaboration, IBM Research offers the opportunity to grow your career while contributing to breakthroughs that transform industries
+and change the world.
+Your Role And Responsibilities
+We are looking to grow our team of research scientists and engineers. AI agents are being integrated across the technology stack and granted access to extensive
+computational and data resources. While these capabilities have immense potential to increase productivity and accelerate scientific discovery, they also
+introduce significant security risks.
+We are looking for candidates who can help us address the real-world security challenges posed by AI agents and develop systems that provide strong security
+guarantees. Successful candidates will design, implement, and evaluate state-of-the-art tools and systems to secure AI agents and agentic applications. The
+ideal candidate will have experience with AI agents, vulnerability discovery and analysis, and system hardening.
+Your Primary Responsibilities Will Include
+- Designing systems to address emerging security risks
+- Creating proof of concept implementations
+- Conducting experiments, evaluations, and data analysis
+- Communicating technical ideas and research findings to others
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Strong programming skills in languages such as Python, Rust, or Go
+- Experience building, debugging, and testing software systems
+- Knowledge of systems security and software security
+- Excellent written and verbal communication skills
+Preferred Technical And Professional Experience
+- Experience with AI agents and agentic software development
+- Experience designing, conducting, and evaluating experiments
+- Knowledge of access control and language-based security concepts
+- Knowledge of distributed systems and operating system concepts

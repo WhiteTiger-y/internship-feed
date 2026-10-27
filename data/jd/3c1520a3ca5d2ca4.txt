@@ -1,0 +1,42 @@
+Description
+Data Science Summer Internship Program
+It’s a data-driven world. Be part of a growing community of data science professionals that harness the power of data and cutting-edge technology to analyze
+performance trends, identify opportunities, and keep Liberty Mutual moving forward.
+The details
+Calling all aspiring data scientists! Here’s the perfect opportunity to grow your knowledge and skills in key areas such as GenAI, machine learning, and various
+modeling techniques and software, just to name a few.
+In this 11-week Data Science Summer Internship Program, you’ll work both independently and as part of a team to research, gather, and analyze data, build or
+enhance robust models, and recommend solutions that impact business decisions – all while you augment your technical skillset and build business acumen.
+This internship program may be your first step toward pursuing a rewarding career at Liberty Mutual, one of the leading property and casualty insurers in the
+United States and a global Fortune 100 company. Our interns often transition into full-time data scientists at our Boston Headquarters.
+Note: We encourage interested candidates to apply promptly, as the role may be unposted once we’ve received a sufficient number of candidates. We conduct
+interviews and extend offers on a rolling basis.
+Qualifications
+What you’ve got
+- Currently pursuing a master’s degree in Statistics, Data Science, Analytics, Mathematics, Computer Science, or a related discipline
+- 0-2 years of professional experience
+- Intermediate experience with programming languages such as Python or R
+- Foundational knowledge of statistical analysis concepts, techniques, and tools
+- Demonstrated experience with exploratory data analysis, regression analysis, and model development and evaluation through coursework and/or internships
+- Strong communication, analytical, critical thinking, and interpersonal skills
+- Permanent work authorization in the United States
+About Us
+Pay Philosophy: The typical starting salary range for this role is determined by a number of factors including skills, experience, education, certifications and
+location. The full salary range for this role reflects the competitive labor market value for all employees in these positions across the national market and
+provides an opportunity to progress as employees grow and develop within the role. Some roles at Liberty Mutual have a corresponding compensation plan which may
+include commission and/or bonus earnings at rates that vary based on multiple factors set forth in the compensation plan for the role.
+At Liberty Mutual, our goal is to create a workplace where everyone feels valued, supported, and can thrive. We build an environment that welcomes a wide range
+of perspectives and experiences, with inclusion embedded in every aspect of our culture and reflected in everyday interactions. This comes to life through
+comprehensive benefits, workplace flexibility, professional development opportunities, and a host of opportunities provided through our Employee Resource
+Groups. Each employee plays a role in creating our inclusive culture, which supports every individual to do their best work. Together, we cultivate a community
+where everyone can make a meaningful impact for our business, our customers, and the communities we serve.
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being.
+To learn more about our benefit offerings please visit: https://www.libertymutualgroup.com/about-lm/careers/benefits
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation,
+gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.
+Fair Chance Notices
+- California
+- Los Angeles Incorporated
+- Los Angeles Unincorporated
+- Philadelphia
+- San Francisco
