@@ -1,0 +1,45 @@
+Company Overview
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep
+people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical
+for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a
+safer future.
+Department Overview
+Seeking an innovative, data-driven AI & Data Analytics Intern to lead the development of an intelligent, predictive supply chain risk assessment tool. In this
+role, you will leverage internal enterprise data, external market intelligence, and advanced machine learning models to build an AI solution capable of
+forecasting supply chain disruptions before they impact operations.
+Job Description
+Are you ready to build data-driven solutions that protect and strengthen global supply chains? As the AI & Data Analytics Intern - Supply Resilience, you will
+integrate internal metrics—such as lead times, supplier performance, and inventory levels—with external market data, including geopolitical risks, weather
+events, commodity prices, and trade tariffs. In this hands-on role, you will design and validate predictive machine learning models (such as risk scoring, time-
+series forecasting, and anomaly detection) to flag supply bottlenecks and vendor risks before they occur. Using tools like Python/R and Power BI or Tableau, you
+will transform model outputs into actionable dashboards for supply chain planners and communicate key insights to business stakeholders.
+This Internship Includes
+Data Integration & Pipeline Development: Identify, aggregate, and ingest internal supply chain metrics (lead times, supplier performance, inventory levels)
+alongside external market data (geopolitical risks, weather events, commodity price trends, trade tariffs).
+AI/ML Model Development: Design, train, and validate predictive algorithms (e.g., risk scoring, time-series forecasting, anomaly detection) to flag potential
+supply bottlenecks and vendor risks.
+Tool & Interface Creation: Build a functional prototype/dashboard or integrate model outputs into an actionable tool for supply chain planners.
+Market Research & Feature Engineering: Analyze macro-market trends to engineer features that improve model accuracy and early-warning alerts.
+Documentation & Communication: Present model logic, accuracy benchmarks, and actionable insights to key stakeholders and operations teams.
+Additional Qualified Skills
+- Power BI, or Tableau for user interface creation.
+- Python or R, Scikit-learn, TensorFlow or PyTorch, Pandas, NumPy
+- Analytical problem-solving, independent initiative, ability to translate complex data into business insights
+- Desired: Understanding of logistics, lead times, procurement dynamics, and risk factors
+Basic Requirements
+- Currently pursuing a Bachelor’s degree in Supply Chain Management, Logistics, Business Analytics, Operations, or a related field
+- Graduation date not later then Dec.2029
+Travel Requirements
+None
+Relocation Provided
+None
+Position Type
+Intern
+EEO Statement
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion
+or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver
+on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you
+think you’d be a great addition to our team.
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions.
+To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.

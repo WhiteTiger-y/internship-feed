@@ -1,0 +1,37 @@
+Position Summary
+The AI Developer Co-op/Intern will support the design, development, and deployment of AI-driven applications and workflows that improve business processes and
+decision-making. Working closely with AI developers, data scientists, and business stakeholders, this role provides hands-on experience developing applications
+using the PCC data platform, Databricks, and modern Python and JavaScript frameworks.
+This position offers an opportunity to gain practical experience building AI-enabled solutions, integrating data services and APIs, and contributing to projects
+that leverage artificial intelligence and automation technologies.
+Primary Duties And Responsibilities
+- Assist in the development of AI-powered applications, workflows, and proof-of-concept solutions.
+- Support front-end and back-end application development using Python, JavaScript, and modern web frameworks.
+- Help integrate APIs, data sources, and AI model outputs into business applications.
+- Collaborate with AI developers, data scientists, and analysts to test and deploy AI-enabled solutions.
+- Participate in application testing, debugging, and performance improvements.
+- Assist with documenting application functionality, development processes, and technical requirements.
+- Support data preparation and validation activities for AI and analytics projects.
+- Learn and apply enterprise standards related to security, data governance, and responsible AI practices.
+- Contribute to code reviews, team meetings, and continuous improvement initiatives.
+Education And Qualifications
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, Data Science, Information Systems, Computer Engineering,
+Mechanical Engineering, Electrical Engineering or a related technical field.
+- Completion of coursework in programming, software development, data structures, databases, artificial intelligence, or machine learning preferred.
+- Previous internship, academic project, research experience, or personal project involving software development, data analytics, or AI is a plus.
+Required Skills
+- Basic proficiency in Python and/or JavaScript.
+- Familiarity with software development concepts and object-oriented programming.
+- Exposure to web application frameworks such as Streamlit, Flask, Dash, React, Angular, or similar technologies.
+- Basic understanding of AI, machine learning, and data analytics concepts.
+- Familiarity with SQL and database fundamentals.
+- Understanding of version control tools such as Git.
+- Strong analytical and problem-solving skills.
+- Ability to learn new technologies and work effectively in a collaborative environment.
+- Strong written and verbal communication skills.
+- Demonstrated ability to work on the manufacturing floor, building strong relationships and engaging directly with hourly employees.
+Preferred Skills
+- Exposure to cloud platforms such as AWS, Azure, or Google Cloud.
+- Coursework or project experience involving AI, machine learning, or data science.
+- Familiarity with Databricks, Jupyter notebooks, or data visualization tools.
+- Experience using APIs or developing small web applications.

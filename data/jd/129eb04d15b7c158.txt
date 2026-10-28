@@ -1,0 +1,39 @@
+At Sonos we want to create the ultimate listening experience for our customers and know that it starts by listening to each other. As part of the Sonos team,
+you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and
+empowered to do the best work of their lives. We’re seeking talented students to join Sonos’s Internship Program and explore what it means to blend creativity,
+technology, and sound. Our co-ops are an essential part of our team, bringing fresh ideas, learning from experts, and helping us push the boundaries of what’s
+possible. Come broaden your skills, share your input and pursue your passion with our 11-week internship experience. Work Period: June 7 - August 20, 2027
+Location & Schedule: This is a 40-hour-per-week position with a minimum of 4 days per week onsite in our Boston, MA office. There is no relocation or housing
+assistance for this position. WHAT YOU’LL DO Write and run SQL queries in Snowflake to investigate, validate, and reconcile data across multiple systems,
+identifying discrepancies and tracing anomalies back to their root cause Partner with data engineers to scope, prioritize, and implement fixes for identified
+data issues, and help document recurring issues and their resolutions Use Claude and other AI tools to speed up data validation, anomaly detection, process
+automation or quality reporting As a capstone, compile a suite of data quality findings on one aspect of the business and present the issues identified, root
+causes, and resolutions to the Enablement & Analytics leadership team SKILLS AND ATTRIBUTES Basic Qualifications Currently working towards an undergraduate BS
+degree in Computer Science, Data Science, Information Systems, Statistics, Mathematics, or a related field Coursework or project experience with SQL and
+relational databases Curiosity about how AI and automation tools can be applied to data quality and data engineering workflows Organizational, problem-solving,
+and attention to detail skills Comfortable communicating findings to both technical and non-technical audiences Preferred Qualifications Hands-on experience
+with Snowflake Experience with Claude or similar AI tools Familiarity with ETL/ELT processes, data pipelines, or data modeling concepts Familiarity with version
+control (e.g., Git) and collaborative development workflows PROGRAM QUALIFICATIONS Currently enrolled in an undergraduate program at a College or University in
+a related field of study, with expected graduation date of Winter 2027/2028 or Spring 2028/2029. Available to participate in our full-time co-op program from
+June 7 - August 20, 2027 Ability to work out of our Boston office a minimum 4 days per week Applicants must be authorized to work for any US employer, both now
+and in the future. Sonos is unable to sponsor or take over sponsorship of an employment visa for this role at this time 2027 PROGRAM OVERVIEW The Internship
+Program includes the following elements to round out the work you do with your team on a day to day basis: Multi-day orientation and robust onboarding Speaker
+Series with business leadership Social Activities with Cohort Real, meaningful projects Mentorship from industry leaders Collaborative, creative culture Your
+profile will be reviewed and you'll hear from us once we have an update. At Sonos we take the time to hire right and appreciate your patience. We also offer a
+comprehensive benefits program with choice and flexibility in mind to help support the health, wealth, and overall well-being of our employees. Interns and
+Coops in the US are eligible for benefits on day one, unless otherwise noted, including: Medical, Dental and Vision Insurance after 90 days of continuous
+employment Eligibility for our 401(k) plan, with company matching, after 1000 hours of service or 3 years averaging 500 hours of service per year, whichever
+comes first 80 hours of sick time upon hire, refreshed annually Up to 12 paid holidays per calendar year A generous employee discount program & Sonos Radio HD -
+on us! Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of
+any bonus, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless
+and until paid and may be modified at the Company’s sole discretion, consistent with the law. Notice to U.S. Job Applicants: Sonos is an equal opportunity
+employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability,
+veteran status, and other legally protected characteristics. Sonos is committed to working with and providing reasonable accommodations to individuals with
+disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to
+accommodations@sonos.com and let us know the nature of your request and your contact information. Sonos is a sound experience company. We connect millions of
+listeners all around the world to the content they want, where and how they want it. Since inventing multiroom wireless audio in 2005, we have continuously
+innovated the listening experience, designing hardware and software that celebrates sound, empowers our customers, and brings the home to life. Our team is made
+up of passionate players united by a culture of respect, transparency, collaboration, and ownership who want to inspire the world to listen better. Interested
+in a career at Sonos but don’t see the right role for you today? Join the Sonos Talent Community to stay connected on new openings, events, and career
+opportunities that match your interests. Sonos takes your privacy seriously and is committed to protecting your personal data. To learn more, please review the
+Sonos Recruiting Privacy Notice. This Notice explains how we collect, use and protect your personal information in connection with our recruitment process.

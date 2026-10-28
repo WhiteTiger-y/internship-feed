@@ -1,0 +1,67 @@
+What Your Job Will Be Like
+The Computer Science Research Institute (CSRI) seeks several students (job title: summer R&D undergraduate intern) to participate in collaborative research
+across a wide range of areas in computer science, applied mathematics, discrete mathematics, mathematical modeling, artificial intelligence, computational
+science and engineering, and high-performance computing. Possible research areas include quantum computing, advanced computer architectures, systems software,
+parallel algorithms, programming languages and paradigms, machine learning, data sciences, inverse methods, topology and shape optimization, computational
+geometry, materials, combinatorial mathematics, discrete event simulation, scalable solvers, continuous and discrete optimization, uncertainty quantification,
+statistics, multiscale methods and mathematics, Multiphysics modeling, visualization, advanced modeling and simulation, human decision modeling, and brain
+inspired computing. Students are also sought with interests in applying computational methods to scientific and engineering applications molecular dynamics,
+magnetohydrodynamics, computational fluid dynamics, electrical systems, rapid advanced manufacturing, and climate security.
+These student internships are for motivated and enthusiastic individuals with excellent communication skills and who have the desire to gain research experience
+in a highly collaborative research environment. Successful applicants will be exposed to a wide range of computational research at Sandia and will have strong
+project-based research experience working directly with Sandia staff scientists. This opportunity is for Sandia's Livermore, California laboratory.
+On Any Given Day, The Intern Maybe Involved In Activities Related To The Above Research Areas. Depending On The Intern Interests, The Work May Be More Focused
+On Research Or Software Development. Potential Activities Include
+- Assisting with research and development activities (reviewing existing techniques, seeking new approaches, developing computing solutions)
+- Helping to develop algorithms and software for the research area
+- Helping to run simulation codes
+- Collaboration with Sandia staff involved in the research area
+- Assisting with publication of analysis
+- Presenting results to the research group
+Salary Range
+At Sandia, we value the important work done by our interns and its contribution to National Security. Because of this, our interns earn competitive pay rates.
+Our pay structure is based on earned credit hours, classification, and degree level. Your pay rate will be determined during the hire process and included in
+your offer package. You can view the Intern Pay Rate chart here (https://www.sandia.gov/app/uploads/sites/51/2024/12/Student-Rate-Sheet-2025.docx) .
+Qualifications We Require
+You bring the confidence and skills to be eligible for the job by meeting these minimum requirements:
+- Currently attending and enrolled full time in the spring term immediately preceding the internship (or scheduled to graduate in the spring) in an accredited
+undergraduate program
+- Pursuing a science, engineering, or math major
+- Minimum cumulative GPA of 3.0/4.0
+- Ability to work up to 40 hours per week during the summer
+- U.S. citizens, legal permanent residents, asylees or refugees in the U.S.
+Note: If you have not earned a HS diploma or equivalent, please apply to a high school intern position.
+Qualifications We Desire
+- Majoring in artificial intelligence, chemistry, computer science, engineering, mathematics, neuroscience, physics, statistics, or a related field
+- Communication skills appropriate for participating in multi-disciplinary research teams
+- Software development and programming experience (C++, C, Fortran, Matlab, Java, Python)
+- Knowledge or the interest to learn parallel programming such as MPI, OpenMP, and/or threads
+- Experience with mathematical modeling techniques (e.g., linear and integer programming, statistical modeling, system dynamics modeling)
+Posting Duration
+This posting will be open for application submissions for a minimum of three (3) calendar days, including the 'posting date'. Sandia reserves the right to
+extend the posting date at any time.
+About Our Team
+The Computer Science Research Institute (CSRI) at Sandia creates technology and solutions for many of our nation's most demanding national security challenges.
+The Institutes' portfolio spans the spectrum from fundamental research to state-of-the-art applications. Our work includes computer system architecture (both
+hardware and software); enabling technology for modeling physical and engineering systems; and support research in discrete mathematics, data analytics, and
+decision support.
+The CSRI enterprise is closely tied to the laboratories' broader set of missions and strategies. Application areas include nuclear weapons, climate security,
+alternative energy technologies, and improvements to the power grid. We also serve as stewards of important capabilities for the nation in high-strain-rate
+physics, scientific visualization, mesh generation, and computational materials. We maintain world-class research programs in computational and discrete
+mathematics, computer science, scalable algorithms, and large-scale high performance computer systems.
+The CSRI is an exciting and highly multidisciplinary research environment. CSRI interns have access to Sandia's state-of-the-art parallel-computing environment
+including numerous large-scale clusters, visualization servers, and other specialized computing systems.
+The Quantitative Modeling and Analysis Department conducts research, development, and systems engineering in computer science and engineering to address
+important, complex national security problems. Key research areas include uncertainty quantification, optimization, inference modeling, data analysis, and
+algorithm development. Much of our application development work focuses on verification, validation and uncertainty quantification of complex problems. We
+provide trusted design and software development for large, operations software as well as detailed scientific computing software. The work is focused on
+providing efficient, validated information and technologies for use in predictive modeling and decision making.
+About Sandia
+Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists
+focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+- Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+- Extraordinary co-workers
+- Some of the best tools, equipment, and research facilities in the world
+- Career advancement and enrichment opportunities
+- Flexible work arrangements for many positions include 9/80 (work 80 hours every two weeks, with every other Friday off) and 4/10 (work 4 ten-hour days each
+week) compressed 

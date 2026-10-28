@@ -1,0 +1,74 @@
+Posting Title
+Graduate Intern – Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts
+Location
+CO - Golden
+Position Type
+Intern (Fixed Term)
+Hours Per Week
+40
+Working at NLR
+NLR is located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for energy systems research and development.
+Join the National Laboratory of the Rockies (NLR), where world-class scientists, engineers, and experts are accelerating energy innovation through breakthrough
+research and systems integration. From our mission to our collaborative culture, NLR stands out in the research community for its commitment to an affordable
+and secure energy future. Spanning foundational science to applied systems engineering and analysis, we focus on solving complex challenges to deliver advanced,
+secure, reliable, and cost-effective energy solutions. Our work helps strengthen U.S. industries, support job creation, and promote national economic growth.
+At NLR, you'll find a mission-driven environment supported by state-of-the-art facilities, multidisciplinary research teams, and strong collaborations with
+industry, academia, and other national laboratories. We offer robust professional development opportunities, and a competitive benefits package designed to
+support your career and well-being.
+Job Description
+The Advance Computing Solutions group in the NLR Computational Science Center has an opening for a graduate intern in computational synthesis, with a particular
+emphasis on development and utilization of an agentic AI framework that automates the exploration of relevant reaction energetics using machine-learned
+interatomic potentials (MLIPs). The researcher will work with an interdisciplinary team to develop agentic AI that automates the training of MLIPs of desirable
+accuracy and uses the trained MLIPs to discern the effect of varying different reaction conditions on the final synthesized Fe-N-C fuel cel catalyst.
+We are looking for a dynamic, motivated researcher with a strong technical background and an interest in the mission of NLR. The successful candidate will
+collaborate with NLR staff and researchers to develop agentic AI for the optimization of Fe-N-C catalyst synthesis.
+Responsibilities Include
+- Development of agentic AI framework that automates the training of MLIPs and the exploration of the combinatorial space of reactions relevant to Fe-N-C
+catalyst synthesis and their energetics
+- Collaboration with NLR researchers to use the developed AI to study the chemistry of graphitization and Fe incorporation into the N-C matrix for different
+synthetic precursors, e.g. iron salts and zeolitic imidazolate framework (ZIF) linkers.
+- Development of AI that processes, analyzes, and visualizes results from simulations provide chemical insight and intuition into important chemical reactions.
+- Authoring, presenting and assisting in the preparation of technical papers, reports and conference proceedings on topics related to AI-automated MLIP studies
+of the synthesis of Fe-N-C fuel cell catalysts.
+This role will be a hybrid work arrangement primarily at our South Table Mountain campus with some work from home time.
+Basic Qualifications
+Minimum of a 3.0 cumulative grade point average.
+Undergraduate: Must be enrolled as a full-time student in a bachelor’s degree program from an accredited institution.
+Post Undergraduate: Earned a bachelor’s degree within the past 12 months. Eligible for an internship period of up to one year.
+Graduate: Must be enrolled as a full-time student in a master’s degree program from an accredited institution.
+Post Graduate: Earned a master’s degree within the past 12 months. Eligible for an internship period of up to one year.
+Graduate + PhD: Completed master’s degree and enrolled as PhD student from an accredited institution.
+Please Note
+- Applicants are responsible for uploading official or unofficial school transcripts, as part of the application process.
+- If selected for position, a letter of recommendation will be required as part of the hiring process.
+- Must meet educational requirements prior to employment start date.
+- Must meet educational requirements prior to employment start date.
+Additional Required Qualifications
+- Excellent written and verbal communication skills.
+- Excellent knowledge of AI automation, including skills files and deterministic frameworks such as LangChain
+- Experience with chemistry and materials science, especially with incorporation of ML/AI into the workflow.
+- Experience with creating python environments for AI/ML tasks and workflows
+Preferred Qualifications
+AI workflow automation of MLIP calculations for exploration of the chemical space relevant to Fe-N-C catalyst synthesis.
+Experienced running density functional theory (DFT) software packages such as JDFTx or VASP.
+Experience with the MACE-based machine-learned interatomic potentials, especially foundational models
+Job Application Submission Window
+The anticipated closing window for application submission is up to 30 days and may be extended as needed.
+Annual Salary Range (based on full-time 40 hours per week)
+Job Profile: / Annual Salary Range: $44,500 - $71,200
+NLR takes into consideration a candidate’s education, training, and experience, expected quality and quantity of work, required travel (if any), external market
+and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In
+compliance with the Colorado Equal Pay for Equal Work Act, a potential new employee’s salary history will not be used in compensation decisions.
+Benefits Summary
+Benefits include medical, dental, and vision insurance; 403(b) Employee Savings Plan with employer match*; and sick leave (where required by law). NLR employees
+may be eligible for, but are not guaranteed, performance-, merit-, and achievement- based awards that include a monetary component. Some positions may be
+eligible for relocation expense reimbursement. Internships projected to be less than 20 hours per week are not eligible for medical, dental, or vision benefits.
+- Based on eligibility rules
+Badging Requirement
+NLR is subject to Department of Energy (DOE) access restrictions. All employees must also be able to obtain and maintain a federal Personal Identity
+Verification (PIV) card as required by Homeland Security Presidential Directive 12 (HSPD-12), which includes a favorable background investigation. Intern
+assignments extending beyond six months will be subject to this requirement.
+Drug Free Workplace
+NLR is committed to maintaining a drug-free workplace in accordance with the federal Drug-Free Workplace Act and complies with federal laws prohibiting the
+possession and use of illegal drugs. Under federal law, marijuana remains an illegal drug.
+If you are offered employment at NLR, you must pass a pre-employment drug test prior to commencing employment. Unless prohibited by state or local law, the 

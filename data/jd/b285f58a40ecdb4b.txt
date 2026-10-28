@@ -1,0 +1,48 @@
+Analytics Intern – Summer 2027
+Location: Atlanta, Georgia (Buckhead)
+Duration: May 17, 2027 – July 30, 2027
+Department: Data & Analytics
+About Us
+Hive Financial Systems is a fintech company expanding financial inclusion through AI-driven lending technology. Our multi-portfolio loan management platform
+powers multiple lending partners serving tens of thousands of active consumers, building the infrastructure that makes responsible lending possible for
+underserved markets.
+Role Overview
+We’re looking for a curious, detail-oriented Analytics Intern to join our Data & Analytics team for the summer. You’ll work with real lending data, including
+applications, approvals, payments, and delinquency, to answer business questions, build reporting, and support decisions that affect thousands of borrowers.
+You’ll partner with Engineering, QA, Product, and Operations, and you’ll finish the summer with projects you can point to.
+What You’ll Do
+- Write and run SQL queries against our Azure SQL / SQL Server and Microsoft Fabric lakehouse to answer business questions, investigate issues, and build
+reports.
+- Build and maintain dashboards in Hex covering metrics such as the application-to-funded funnel, payment success rates, and delinquency trends.
+- Use Python (pandas, Jupyter/Hex notebooks) to clean, explore, and summarize data, and present findings to stakeholders in plain language.
+- Learn core lending metrics (vintages and cohorts, days-past-due buckets, roll rates, first-payment default) and apply them in your analysis.
+- Help measure borrower communication and marketing campaigns, including tracking results and supporting A/B test analysis.
+- Gather requirements from business stakeholders and translate them into clear specs and acceptance criteria for the development team.
+- Support data quality: flag anomalies, document data definitions in our data catalog, and help validate pipeline outputs.
+- Assist with vendor data and reporting relationships.
+Tools You’ll Use
+SQL (T-SQL), Microsoft Fabric / Azure Synapse, Hex, Python, Git / Azure DevOps, Hex, Claude, Jira and Confluence, and AI assistants for analysis and
+documentation.
+Qualifications
+- Junior, senior, or master’s student in Information Systems, Data Analytics, Statistics, Computer Science, Finance, or a related field.
+- Working knowledge of SQL (SELECT, JOIN, WHERE, GROUP BY). Window functions or CTEs are a plus.
+- Some exposure to Python or R for data analysis.
+- Familiarity with relational database concepts.
+- Strong problem-solving and critical-thinking skills.
+- Clear written and verbal communication, including the ability to explain numbers to non-technical audiences.
+- Ability to work both independently and collaboratively in a fast-paced environment.
+Nice to Have
+- Experience with a BI tool (Hex, Power BI, Tableau, or similar).
+- Interest in fintech, consumer lending, or credit risk.
+- Exposure to cloud data platforms (Azure, Fabric, Snowflake, Databricks).
+- Basic statistics, such as distributions, hypothesis testing, and A/B testing.
+What You’ll Gain
+- Hands-on experience with an enterprise lending data platform and real business problems.
+- Practical skills in SQL, Python, BI, and business analysis.
+- Mentorship from experienced engineering and analytics professionals.
+- A portfolio-ready project presented to company leadership at the end of the summer.
+REQUIRED:
+In a 60–90 second video, tell us about a time you used data to figure something out. It can be from a class, a job, a club, or your personal life. What was the
+question, what did you look at, and what did you learn? Then tell us one thing about consumer lending or fintech you’re curious to learn this summer.
+No editing or production needed. Just record yourself talking, phone quality is fine. We want to hear how you think, not a polished script. Send this to
+recruiting@hivefs.com

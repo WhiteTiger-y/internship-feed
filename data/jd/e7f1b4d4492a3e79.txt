@@ -1,0 +1,35 @@
+"
+At Relativity Space, we’re building rockets to serve today’s needs and tomorrow’s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit,
+meeting the growing demand for launch capacity. But that’s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance
+science, exploration, and innovation, pioneering progress that reaches beyond the known.
+Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're
+solving problems that haven’t been solved before, helping develop a rocket, a factory, and a business from the ground up. Whether you’re in propulsion,
+manufacturing, software, avionics, or a corporate function, you’ll collaborate across teams, shape decisions, and see your work come to life in record time.
+Relativity is a place where creativity and technical rigor go hand in hand, and your voice will help define the stories we’re writing together. Now is a unique
+moment in time where it’s early enough to leave your mark on the product, the process, and the culture, but far enough along that Terran R is tangible and
+picking up momentum. The most meaningful work of your career is waiting. Join us.
+About The Team
+The Additive Technology team operates at the frontier of research and development, where creativity meets capability. This is an R&D-driven environment where
+problems are open-ended and solutions are yours to define. You’ll work alongside welders, robotics engineers, data scientists, and systems engineers at the
+intersection of hardware and software, creating an end-to-end additive manufacturing platform that serves a wide variety of applications. From exploring new
+materials to unlocking faster print speeds, to designing complex, organic geometries that can’t be built any other way, it’s high-impact work that sets the
+foundation for the future of additive manufacturing
+About The Role
+- Develop and test perception pipelines integrating LiDAR, stereo/depth cameras, and advanced 3D sensors for robotic arms and mobile robots.
+- Contribute to localization, mapping, and cooperative autonomy algorithms enabling multi-robot teams to work together in large-scale environments.
+- Prototype and evaluate sensor fusion approaches that combine vision, thermal, and laser scanning data.
+- Support toolpath generation and motion planning for robotic welding, grinding, and gouging tasks and mobile robots.
+- Collaborate with robotics engineers to integrate perception with real-world mobile robotic platforms and production systems.
+About You
+- Currently pursuing a degree in Computer Science, Robotics, Electrical, or Mechanical Engineering.
+- Proficient in Python and/or C++ with experience in robotics or perception applications.
+- Familiarity with ROS2 or other robotics middleware.
+- Strong problem-solving skills and an interest in cooperative robotics and autonomy and Prototyping.
+Nice To Haves But Not Required
+- Hands-on experience with mobile robots and/or industrial robotic arms (KUKA, Fanuc, ABB, etc.).
+- Background in SLAM, multi-robot coordination, or next-best-view (NBV) algorithms.
+- Experience with GPU programming, CUDA, or real-time computer vision pipelines, NVIDEA Jetsons, Orins etc.
+- Exposure to additive or subtractive manufacturing processes.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender,
+sexual orientation, age, marital status, veteran status, or disability status.
+"

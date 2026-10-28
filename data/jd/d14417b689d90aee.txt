@@ -1,0 +1,29 @@
+Introduction
+The Imaging Engineering Intern role supports ASML's mission to advance lithography technology through innovative software and imaging solutions. You will work
+with experienced engineers to evaluate advanced deep ultraviolet (DUV) and extreme ultraviolet (EUV) imaging concepts, perform feasibility studies, and
+contribute to software solutions that help customers tackle increasingly complex semiconductor manufacturing challenges. This internship provides valuable
+exposure to computational lithography, imaging algorithms, simulation technologies, and product development in a collaborative engineering environment.
+Roles and Responsibilities
+As a Imaging Engineering Intern, you will support imaging product engineering activities focused on computational lithography and advanced scanner technologies.
+You will collaborate with cross-functional teams to investigate new concepts, develop software capabilities, and generate data-driven insights that support
+future product innovation.
+- Conduct feasibility studies related to advanced DUV and EUV imaging technologies.
+- Support computational lithography investigations through modeling, simulation, and data analysis.
+- Perform prototype testing and generate technical data to evaluate imaging concepts and software features.
+- Develop and enhance software functionality that meets customer requirements and product specifications.
+- Create and maintain technical documentation, including user guides and engineering reports.
+- Analyze simulation results and communicate findings to engineering teams.
+- Collaborate with software engineers, imaging specialists, and product teams to support ongoing development efforts.
+Education and Experience
+- Currently pursuing a bachelor's degree or master's degree in Computer Science, Electrical Engineering, Physics, Applied Mathematics, Optical Engineering, or a
+related technical field.
+- Junior, senior, or graduate-level student.
+- Experience through coursework, research, academic projects, or internships related to imaging, lithography, simulation, software development, or data
+analysis.
+- Familiarity with technical computing tools such as Python, MATLAB, or similar programming environments.
+- Exposure to machine learning, optimization methods, scientific computing, or data analytics is preferred.
+Inclusion and diversity
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit,
+hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual
+orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+Need to know more about applying for a job at ASML? Read our frequently asked questions.

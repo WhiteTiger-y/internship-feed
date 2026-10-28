@@ -1,0 +1,51 @@
+Meta’s mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a
+different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer
+together. Whether we're creating new products or helping a small business expand its reach, people at Meta are builders at heart. Our global teams are
+constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we
+can help people build stronger communities — we're just getting started.Meta Reality Labs Research is looking for upcoming scientists and researchers with great
+interest in efficient AI algorithms and acceleration of AI machine learning applications for wearable smart glasses [Rayban Meta]. Our team specializes in
+developing state-of-the-art system optimized algorithms for machine perception. With the vision of always-on AI assistance, our team is focusing on cutting edge
+systems that can facilitate and bring AI assistants powered by LLMs to wearables systems. This internship will focus on aspects of foundational AI technologies
+around world foundation models, multitasking, multimodal understanding (audio, visual, spatial, etc), Generative models, or others that support AI assistant and
+embodied AI functionalities.Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year.
+Research Scientist Intern, Efficient World Foundation Models (PhD) Responsibilities:
+- Research on design / model / execution of efficient ML algorithms.
+- Develop and optimize novel ML, computational imaging, and generative AI algorithms for edge applications.
+- Research on development and optimization of edge and distributed computing algorithms.
+- Collaboration with and support of other researchers across various disciplines.
+- Communication of research agenda, progress and results.
+- Prototyping, building and characterizing experimental systems with real hardware.
+Minimum Qualifications:
+- Currently has, or is in the process of obtaining a PhD in the fields of Computer Science, Electrical Engineering, or related field
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- 2+ years research experience in one or more of the following: developing machine learning and computer vision models, optimization of edge computing
+algorithms, or distributed compute architectures
+- 2+ years experience programming in Python/C++
+- Experience with Deep Learning frameworks (Pytorch, TensorFlow, etc)
+Preferred Qualifications:
+- Experience with customizing Multi-Modal LLM
+- Experience with world foundation models, self-supervised learning, and embodied AI
+- Experience with generative models and high-quality visual generation
+- Experience in deploying ML algorithms for real-time execution on mobile and distributed platforms
+- Experience with NAS or developing and deploying algorithms with hardware constraints
+- Proven track record of achieving significant results, as demonstrated by first- and/or co-authored publications at leading workshops or conferences (e.g.,
+CVPR, ICCV, TinyML, NeurIPS, ICML), patents, or grants
+- Intent to return to the degree program after the completion of the internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

@@ -1,0 +1,51 @@
+HackerRank helps companies like NVIDIA, Amazon, and Microsoft hire and upskill the next generation of developers based on skills, not pedigree. Our platform is
+trusted by over 2,500 of the world’s most innovative companies to build strong engineering teams ready for what’s next.
+Software has entered an era where humans and AI build side by side. As this shift accelerates, the definition of strong technical talent is changing. We give
+companies better ways to identify and invest in next-generation skills.
+People at HackerRank care deeply about the impact of their work and sweat the small details so our customers can be wildly successful with products they
+genuinely love to use. We move with urgency and believe great outcomes come from high standards.
+About The Role
+HackerRank is advancing AI-driven Technical Interviewing, assessment of Integrity, and the measurement of Engineering skill to use AI assistance effectively in
+the agentic era. We are looking for research-oriented M.S./Ph.D. scholars to explore and develop novel Deep Learning architectures and build efficient,
+trustworthy AI systems. A key research direction is to develop a model-agnostic external Recursive Reasoning Engine that enables smaller models (SLM/SSM/Hybrid
+etc.) to solve complex, repository-grounded software engineering tasks with greater effectiveness, traceability, and lower inference cost.
+Open problems
+The agentic era is reshaping every layer of the hiring stack. These are some of the core problems you’ll be working across, none of them fully solved.
+- Chakra: Building an autonomous AI interviewer that conducts, adapts to, and evaluates technical interviews end to end.
+- Integrity: Detecting fraud and suspicious behavior across multiple signal types. The ways candidates game assessments change frequently, and the models need
+to keep up.
+- Evaluation: Measuring technical skill in a world where AI writes the code. The old proxies no longer hold and the new ones have not been defined yet.
+Your focus will shift across these depending on where the highest-leverage work is at any given time.
+What You Will Do
+- Research, Design, and Develop advanced Deep Learning models and novel Neural architectures.
+- Explore architectures beyond Transformers, including State Space Models (SSMs), Liquid Neural Networks (LNNs), and Hybrid approaches.
+- Design and implement Agentic AI systems, Recursive Reasoning Engines, and tool-augmented architectures.
+- Fine-tuning of models using PEFT (e.g. LoRA, QLoRA etc.), and Knowledge Distillation
+- Optimize model Performance, Inference Efficiency, Latency, and Memory utilization.
+- Design rigorous experiments, evaluation frameworks, and benchmarks to validate research hypotheses.
+- Translate cutting-edge research into scalable, production-grade AI systems.
+Who You Are
+- M.Tech./M.S./Ph.D. in AI/ML or related disciplines.
+- 2-3 years of experience in Deep Learning, Machine Learning, or Applied AI Research.
+- Strong foundations in Linear Algebra, Probability, Statistics, Optimization, and Deep Learning algorithms.
+- Proficient in frameworks like PyTorch/JAX, with hands-on model development experience.
+- Demonstrated ability to implement, reproduce, and extend research papers, including building neural architectures from scratch.
+- Strong understanding of experimental design, model evaluation, benchmarking, and statistical validation.
+- Demonstrated research aptitude through publications, open-source contributions etc.
+Even better if you have
+- Understanding of Evaluation Benchmarks for S/W Engineering Tasks and Human-Agent Collaborations
+- Familiarity with distributed computing, GPU acceleration, and scalable ML infrastructure.
+You will thrive here if you
+- You enjoy solving open-ended research problems and challenging established assumptions.
+- You prefer first-principles thinking and rigorous experimentation over simply applying existing models.
+- You are excited to explore next-generation AI architectures beyond traditional Transformers.
+- You thrive in a fast-paced environment with intellectual freedom, ownership, and direct collaboration with leadership.
+- You are passionate about turning novel AI research into efficient, scalable, real-world systems.
+Want to learn more about HackerRank? Check out HackerRank.com to explore our products, solutions and resources, and dive into our story and mission here.
+HackerRank is a proud equal employment opportunity and affirmative action employer. We provide equal opportunity to everyone for employment based on individual
+performance and qualification. We never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, marital,
+veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+Linkedin | X | Blog | Instagram | Life@HackerRank
+Notice To Prospective HackerRank Job Applicants
+- Our Recruiters use @hackerrank.com email addresses.
+- We never ask for payment or credit check information to apply, interview, or work here.

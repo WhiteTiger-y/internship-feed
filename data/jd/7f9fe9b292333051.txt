@@ -1,0 +1,61 @@
+Applications are reviewed on a rolling basis; we encourage early submission. The anticipated application window is open until July 16, 2027, but may close
+earlier if all available projects are full.
+- While the Student Researcher Program is open to students at all degree levels, the majority of our projects are designed for PhD talent. We actively welcome
+exceptional researchers pursuing a Bachelor’s or Master’s degree in Computer Science or a related field; however, please note that these opportunities are
+available in a highly limited capacity and require a demonstrated research focus or a strong publication record.
+- Unlike the Research Internship, which is a structured seasonal placement, the Student Researcher role offers greater flexibility in weekly time commitment,
+project duration, and onsite/remote options. Specific work arrangements and engagement timelines are confirmed during the offer stage.
+- This program is intended for students who will continue their academic studies. Participation in this program does not guarantee automatic full-time hiring
+consideration. Individuals interested in pursuing a full-time role at Google following their Student Researcher engagement are encouraged to apply through
+standard external hiring channels.
+- Participation in this program requires that you are located in the United States for the duration of the engagement, though select remote arrangements from
+within the United States or Canada may be permitted depending on project requirements. Candidates residing in other countries must relocate to the United States
+for the engagement.
+- Because projects are approved on an ongoing basis throughout the application cycle, application review takes place continuously and may take several months.
+You will be contacted directly if your application is selected to advance in the hiring process.
+To be considered, please provide:
+- Updated CV or Resume: You must include your anticipated graduation date (MM/YY).
+- Transcripts: A current unofficial or official transcript in English (PDF preferred).
+- Research Focus: Highlighting publications, specialized lab work, or significant research contributions is highly recommended for BS/MS applicants.
+Start dates for this role are typically between January and August 2027. Applications submitted after the window closes or once all projects are filled will not
+be considered.
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Ann Arbor,
+MI, USA; Atlanta, GA, USA; Austin, TX, USA; Boulder, CO, USA; Cambridge, MA, USA; Chicago, IL, USA; Houston, TX, USA; Irvine, CA, USA; Kirkland, WA, USA; Los
+Angeles, CA, USA; Madison, WI, USA; New York, NY, USA; Palo Alto, CA, USA; Princeton, NJ, USA; Pittsburgh, PA, USA; Raleigh, NC, USA; Durham, NC, USA; Goleta,
+CA, USA; San Bruno, CA, USA; Seattle, WA, USA; San Francisco, CA, USA; San Jose, CA, USA; Sunnyvale, CA, USA; Washington D.C., DC, USA.Minimum qualifications:
+- Currently enrolled in a Bachelor's or Master’s degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research,
+Economics, Natural Sciences, or a related technical field.
+- Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep
+Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
+Preferred qualifications:
+- Currently enrolled in a PhD degree program in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics,
+Natural Sciences, or related technical field.
+- Currently enrolled in a full-time degree program and returning to the program after completion of the internship.
+- Currently attending a degree program in the United States.
+- Experience as a researcher, including internships, full-time, or at a lab.
+- Experience contributing research communities or efforts, including publishing papers in major conferences or journals.
+- Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.).
+About The Job
+This role may also be located in our Playa Vista, CA campus.
+Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco
+Fair Chance Ordinance for Employers and the California Fair Chance Act.
+In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based Interns. Benefits
+for this role include:
+- Health, dental, vision insurance
+- Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance
+- Holidays: 13 paid days per year
+The Student Researcher Program fosters academic collaborations by hiring students onto research projects aligned to company priorities in scientific
+advancement. The program offers placements on teams across Google, for research, engineering, and science roles. As a Student Researcher, you will have the
+opportunity to participate in research projects focused on developing solutions for real-world, large-scale problems.
+Student Researcher projects are exploratory and experiences that drive scientific advancement across a multitude of research areas. Students will work
+collaboratively on projects that explore innovative research challenges and support the creation of breakthrough technologies.
+Projects vary in duration and location based on team and student requirements. It is required that you are located in one of the specific country locations
+identified for this role for the full duration of the engagement. When you apply, you will be considered for Student Researcher positions across all of Google's
+research teams including DeepMind, Google Research, Google Cloud and more. This allows us to find the right project match for your skills and interests.
+Researchers across Google are working to advance the state of the art in computing and build the next generation of intelligent systems for all Google products.
+To achieve this, we invest in foundational research and work on projects that utilize the latest computer science techniques developed by skilled software
+developers and research scientists. Whether we're shaping the future of sustainability, optimizing algorithms, or pioneering AI systems, our teams strive to
+continuously progress science, advance society, and improve the lives of billions of people.
+Individual pay is determined by factors including job-related skills, experience, and relev

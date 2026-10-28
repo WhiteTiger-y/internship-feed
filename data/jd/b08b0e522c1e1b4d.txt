@@ -1,0 +1,53 @@
+Job Details:
+Job Description:
+The Role and Impact
+As an AI Software Engineering Graduate Intern, you'll play a pivotal role in designing, developing, and optimizing AI software solutions across domains such as
+computer vision, machine learning, and deep learning. You'll contribute to implementing and fine-tuning models for enhanced performance and accuracy, while also
+exploring techniques like model compression to improve efficiency. This internship provides an excellent opportunity to build technical skills and knowledge
+through hands-on projects, directly supporting Intel's AI goals in a collaborative environment.
+Business group
+This position is part of Intel's Sales and Marketing Group (SMG), which focuses on connecting customers with innovative solutions that drive Intel's success in
+global markets. SMG is committed to addressing customer challenges, fostering collaboration, and delivering technologies that shape the future of AI and
+computing. The team offers an engaging and growth-oriented environment aligned with Intel's broader mission to advance cutting-edge technologies.
+Key Responsibilities
+- Design, develop, and optimize AI software solutions, including algorithms, frameworks, and architectures.
+- Assist in implementing and fine-tuning deep learning models for improved accuracy and performance.
+- Explore model compression techniques such as quantization and pruning to enhance system efficiency.
+- Collaborate with internal teams and external partners to develop scalable AI solutions for system-level deployment.
+- Conduct applied research to refine AI methodologies and support hardware-software integration.
+- Document technical findings and contribute to knowledge-sharing initiatives within Intel.
+Qualifications:
+Minimum Qualifications
+- Bachelor's degree in Computer Science, Software Engineering, or a related field, with 0-1 years of hands-on experience in the domain, including demonstrated
+skills gained through internships, academic projects, coursework, or hands-on training, OR a Master's degree in a relevant field with no prior professional
+experience.
+- Proficiency in Python or C++ for AI software development and debugging.
+- Solid understanding of deep learning fundamentals, including large language models (LLMs).
+- Familiarity with model compression techniques such as quantization and pruning.
+- Knowledge of AI frameworks like TensorFlow or PyTorch.
+Preferred Qualifications
+- Strong problem-solving skills and self-motivation to tackle technical challenges.
+- Passion for technological exploration, innovation, and practical engineering applications.
+- Experience in fine-tuning AI models, inference optimization, or agent development is a plus.
+Join Intel and contribute to shaping the future of AI technologies. Your skills and creativity can help drive innovation and impact the world. Apply today to
+embark on this exciting journey.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (China)
+Primary Location:
+PRC, Shanghai
+Additional Locations:
+PRC, Beijing, PRC, Shenzhen
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

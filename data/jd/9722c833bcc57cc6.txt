@@ -1,0 +1,41 @@
+The future of defense will be decided by those who field intelligent machines at scale. At Scout, we’re developing Fury, the first robotic foundation model for
+defense, to give U.S. forces overwhelming, adaptable, and autonomous power across every domain. Fury enables human operators to command fleets of robots through
+natural language, and empowers those machines to sense, decide, and act together as one. It’s not just a leap in autonomy, it’s a force multiplier built for
+real-world conflict. This mission will ask everything of us: urgency, precision, and relentless work.
+The Role
+We’re seeking an AI Engineer Intern for Summer 2027 who is passionate about machine learning, robotics, and the future of autonomous systems. As part of the
+Fury Team, you'll work alongside leading AI and robotics engineers to prototype and test cutting-edge multimodal models that will become the cognitive engine of
+our robotic platforms. Your work will run on robots in complex, adversarial environments. Expect to move fast, test ideas aggressively, and break new ground as
+we create the first robotic foundation model for defense.
+This 10-week internship is ideal for students looking to apply their research and engineering skills to high-stakes, real-world applications. You’ll gain
+exposure to the full AI stack, from perception to control, and work on models that run in real world environments.
+What You’ll Do
+Support the design, training, and evaluation of state-of-the-art VLA models for robotic systems
+Help develop and test scalable ML architectures for perception, robotic actuation, multi-agent coordination, and multi-step reasoning
+Build model experimentation and evaluation pipelines, utilizing synthetic data gen, simulation, and benchmarking environments
+Translate research insights into code, experiments, and tests for embodied agents
+Collaborate with mentors and team members on AI model integration and realtime performance tuning
+Participate in and help plan data collection and model testing on real robotic hardware and simulation platforms
+Track, digest, and incorporate breakthroughs from the latest literature in VLMs, RL, CV, and autonomous agents
+Support field trials and mission operations to validate model performance under real-world constraints
+Qualifications
+Currently pursuing a BS, MS, or PhD in Computer Science, Robotics, AI, or a related field
+Strong programming skills in Python, and experience with PyTorch or TensorFlow or JAX
+Familiarity with deep learning application to at least one of: control policies, visual understanding, language modeling, or reinforcement learning
+Comfortable navigating open-ended problems and proposing technical solutions
+Bonus: Experience with robotics or real-time systems
+Bonus: Experience training models on large-scale compute resources
+Must be a U.S. Person due to required access to U.S. export controlled information or facilities
+Why Join Scout
+Work on the world’s most important frontier, ensuring U.S. and allied dominance in the age of intelligent machines
+Be a core part of a team building the first defense-specific robotic foundation model
+Collaborate with some of the top engineers in autonomy, AI, and national security
+See your work deployed on real systems
+Help define the future of intelligent defense systems
+Backed by Draper Associates, Booz Allen Ventures, and other top investors
+Benefits
+Competitive Cash Compensation
+Company holiday calendar
+Catered lunch daily and fully stocked kitchen
+EV charging
+Housing stipend assistance (depending on role eligibility)

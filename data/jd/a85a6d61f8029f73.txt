@@ -1,0 +1,58 @@
+Location(s): Dallas, TX or Franklin, TN
+Job Schedule: Full-time, 12-week program
+Degree Level: Junior or Senior
+Preferred Degree: Data Science, Computer Science, Artificial Intelligence, Machine Learning, Statistics, Applied Mathematics, Data Analytics, Information
+Systems, Engineering, or a related field
+Sponsorship: Not Available
+Shape the Future of Mobility at Nissan: Launch Your Career, Drive Innovation
+We are currently looking for an AI Intern to join our team in Dallas, TX or Franklin, TN. Our team manages technology systems and applications supporting
+Nissan's Sales Finance companies across the United States and Canada. We are responsible for delivery and operations across core lending systems while also
+supporting customer and dealer systems, data quality initiatives, and artificial intelligence solutions. This internship opportunity will be within the Data
+Quality & AI team, where the selected candidate will develop predictive AI models to support NMAC portfolio risk analysis. The intern will work closely with the
+NMAC Risk team and may have the opportunity to present their solutions and findings to senior leaders, including the VP of Operations and President.
+A Day in the Life:
+- Develop predictive AI and machine learning models to support portfolio risk analysis and business decision-making.
+- Build Early Warning Vintage Monitoring models to improve loss forecasting and proactive risk detection.
+- Develop forecasting and planning models to enhance lifetime loss projections and net credit loss forecasts.
+- Perform data quality assessments, feature engineering, and analysis of large datasets to identify meaningful risk indicators.
+- Partner with Risk, Operations, and Technology teams to translate portfolio behavior into actionable model features and business insights.
+- Present project outcomes, recommendations, and analytical findings to business stakeholders and leadership.
+Who We're Looking For: Required:
+- Must be currently enrolled in an undergraduate or graduate degree program in Data Science, Computer Science, Artificial Intelligence, Machine Learning,
+Statistics, Applied Mathematics, Data Analytics, Engineering, Information Systems, or a related field.
+- Students entering their Junior or Senior year at the start of the upcoming academic term.
+- Strong experience with Python, SQL, scikit-learn, XGBoost, and statistical modeling techniques.
+- Experience with data quality analysis, feature engineering, and working with large datasets.
+- Ability to build models related to delinquency, default probability, loss forecasting, prepayment behavior, and portfolio risk segmentation.
+- Knowledge of model validation, back-testing, bias and fairness assessments, drift monitoring, and model explainability techniques.
+- Strong analytical, problem-solving, and communication skills.
+- GPA of 3.0 or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.)
+- Ability to perform work onsite in Dallas, TX or Franklin, TN.
+Preferred:
+- Experience working with cloud and data platforms such as Snowflake, AWS, or similar technologies.
+- Exposure to predictive analytics, machine learning, and artificial intelligence applications in financial services.
+- Experience developing risk models, forecasting solutions, or analytical tools using large-scale datasets.
+- Ability to translate complex analytical findings into clear business recommendations.
+- Interest in risk management, portfolio analytics, auto finance, or financial technology.
+What You'll Look Forward to at Nissan:
+Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our employees to strengthen their relationships and meet people from
+similar and diverse backgrounds to foster a culture of belonging.
+Professional Training and Development: Expand your knowledge and skills through Nissan's rich innovation offerings, seminars, learning platforms, and leadership
+trainings.
+Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background screenings in accordance with
+Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los Angeles County Fair Chance
+Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with these laws.
+It is Nissan's policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any other status
+protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of employment
+eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility.
+NISSAN FOR EVERYONE
+People are our most valuable assets, and Nissan seeks to maximize the power of each individual member of our team. When everyone belongs, the power of NISSAN is
+undeniable. Nissan aims to improve business results through a workplace and business that meets the needs of our employees and customer base.
+Nissan is committed to creating a culture where everyone belongs and employees, customers, and partners feel respected, valued, and heard. We have Business
+Synergy Teams (BSTs) across the Americas that are open to all employees and seek to connect employees through common interests and foster a company culture
+where all employees feel supported and included.
+Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are
+committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our
+customers competitively designed, market-driven products.
+Join us as we carry our commitment to our employees and customers into the future.
+Irving Texas United States of America

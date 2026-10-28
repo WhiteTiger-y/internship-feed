@@ -1,0 +1,28 @@
+Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries
+of American Financial Group. We combine a "small company" culture where your ideas will be heard with "big company" expertise to help you succeed. With over 30
+specialty and property and casualty operations, there are always opportunities here to learn and grow. At Great American, we value and recognize the benefits
+derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees
+feel included, empowered, and enabled to perform at their best. P&C IT Services provides professional services to help our business units and corporate
+functions use technology to create, manage, and optimize information and business processes. IT Services can include a wide range of activities such as:
+software development, data management, Cloud services, IT security, network security, technical support, establishing and overseeing access rights, procuring
+and maintaining equipment or software, managing the infrastructure, and defining security procedures, The overall goal of IT Services is to provide technology
+solutions that increase efficiency, reduce costs, and give our company a competitive advantage over our competitors. Great American’s culture is built on
+connection, shared learning, and strong relationships. This is a hybrid role that combines in-office and remote work. Employees are expected to maintain a
+meaningful on-site presence to support collaboration, relationship building, and business success. The Reporting Systems team is seeking a Cloud Data Platform
+Intern for summer 2027. Responsibilities: Assist with developing and maintaining Python-based data processing and automation solutions, including integrations
+with REST APIs, databases, and Snowflake. Write clean and reusable Python code Work with API authentication and error handling Query and manage data using SQL
+Support ETL and data pipeline workflows Help validate data quality Troubleshoot pipeline issues Maintain technical documentation and operational logs
+Collaborate with senior engineers and analysts to deliver solutions while following coding, Git, and development best practices. Requirements: Ability to work
+in the office at minimum three days a week. Education: Pursuing a degree In Computer Science or related 2030 graduation year preferred Experience/skills:
+Proficient in Python (data manipulation, API calls, error handling). APIs: Experience with REST API integration and JSON/XML data formats. Databases: SQL
+skills; familiarity with Snowflake preferred. Version Control: Basic knowledge of Git/GitHub. Problem-Solving: Ability to debug and resolve issues
+independently. Business Unit: Property & Casualty IT Services Benefits: We offer competitive benefits packages for full-time and part-time employees*. Full-time
+employees have access to medical, dental, and vision coverage, wellness plans, parental leave, adoption assistance, and tuition reimbursement. Full-time and
+eligible part-time employees also enjoy Paid Time Off and paid holidays, a 401(k) plan with company match, an employee stock purchase plan, and commuter
+benefits. Compensation varies by role, level, and location and is influenced by skills, experience, and business needs. Your recruiter will provide details
+about benefits and specific compensation ranges during the hiring process. Learn more at http://www.gaig.com/careers. *Excludes seasonal employees and interns.
+Great American Insurance Group understands the importance of choosing a financially strong company. We are an organization built for the long term and are
+committed to giving you that strength. Why can you trust Great American Insurance Group? For nearly 150 years, Americans have trusted us to protect them. Our
+innovative insurance solutions and specialization serves niche marketplaces that we know well. This expertise gives us a successful foundation that spans
+generations. You never know where a career in insurance will take you. Whether you are starting your career or are looking for a company to grow your
+experience, at Great American Insurance Group, you can join our more than 8,500 employees to “Be Here. Be GREAT!” To learn more, visit our Career Page

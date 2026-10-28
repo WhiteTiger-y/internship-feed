@@ -1,0 +1,93 @@
+ATTACH RESUME/CV Couldn't auto-read resume.
+Analyzing resume...
+Success!
+File exceeds the maximum upload size of 100MB . Please try a smaller size.
+- Full name ✱
+- Pronouns
+- He/him
+- She/her
+- They/them
+- Xe/xem
+- Ze/hir
+- Ey/em
+- Hir/hir
+- Fae/faer
+- Hu/hu
+- Use name only
+- Custom
+Let CFS know what pronouns you use so that they can address you correctly.
+- Email ✱
+- Phone ✱
+- Current location
+No location found. Try entering a different location
+Loading
+- Current company ✱
+Links
+- LinkedIn URL
+- Twitter URL
+- GitHub URL
+- Portfolio URL
+- Other website
+- Please Upload a Cover Letter
+Upload file
+- Please tell us what interested you to apply to CFS
+- If offered a position at CFS, will you be able to start within 3 weeks? ✱
+- yes
+- no
+- Optional: Additional information may be added in reference to a start date.
+Export Control Laws 1.0
+- The following question is asked for the purpose of ensuring compliance with U.S. Export Control Laws. Are you one of the following: a U.S. citizen, a U.S.
+national, a lawful permanent resident of the U.S. (e.g. green card holder), or a protected individual as defined by 8 U.S.C. 1324b(a)(3) (e.g., a refugee or
+asylee)?* ✱
+- Yes
+- No
+- If you answered “No” to the above, please provide the country or countries of which you are a current citizen or national, and if applicable, where you are
+currently granted lawful permanent resident status. If you answered “Yes,” please enter N/A* ✱
+Intern/Co-op
+- Please tell us what interested you to apply to CFS ✱
+- Please list specific dates of internship availability- Include start date and end date. ✱
+- Are you interested in an Intern position (3 months) or a Co-op position (4 or 6 months) ✱
+- Intern
+- Co-op
+- Either
+- Most positions require the intern to be onsite at one of our locations. Will you be available to work onsite for the duration of the internship? ✱
+- Yes- Somerville, MA only
+- Yes- Devens, MA only
+- Yes- Either Somerville or Devens works for me
+- Yes- Milpitas, CA only
+- No- I cannot work onsite
+- Please list the school or university you will be enrolled in during the internship or co-op? ✱
+- If offered a position at CFS, will you be able to start within 3 weeks? ✱
+- Yes
+- No
+U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)
+Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool,
+we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It
+will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+Gender
+Select ... Male Female Decline to self-identify
+Race
+Select ... Hispanic or Latino White (Not Hispanic or Latino) Black or African American (Not Hispanic or Latino) Native Hawaiian or Other Pacific Islander (Not
+Hispanic or Latino) Asian (Not Hispanic or Latino) American Indian or Alaska Native (Not Hispanic or Latino) Two or More Races (Not Hispanic or Latino) Decline
+to self-identify
+- Hispanic or Latino
+A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.
+- White (Not Hispanic or Latino)
+A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+- Black or African American (Not Hispanic or Latino)
+A person having origins in any of the black racial groups of Africa.
+- Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+- Asian (Not Hispanic or Latino)
+A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China,
+India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+- American Indian or Alaska Native (Not Hispanic or Latino)
+A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community
+attachment.
+- Two or More Races (Not Hispanic or Latino)
+All persons who identify with more than one of the above five races.
+Veteran status
+Select ... I am a veteran I am not a veteran Decline to self-identify
+Submit application
+Commonwealth Fusion Systems Home Page
+Jobs powered by

@@ -1,0 +1,41 @@
+"
+At Relativity Space, we’re building rockets to serve today’s needs and tomorrow’s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit,
+meeting the growing demand for launch capacity. But that’s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance
+science, exploration, and innovation, pioneering progress that reaches beyond the known.
+Joining Relativity means becoming part of something where autonomy, ownership, and impact exist at every level. Here, you're not just executing tasks; you're
+solving problems that haven’t been solved before, helping develop a rocket, a factory, and a business from the ground up. Whether you’re in propulsion,
+manufacturing, software, avionics, or a corporate function, you’ll collaborate across teams, shape decisions, and see your work come to life in record time.
+Relativity is a place where creativity and technical rigor go hand in hand, and your voice will help define the stories we’re writing together. Now is a unique
+moment in time where it’s early enough to leave your mark on the product, the process, and the culture, but far enough along that Terran R is tangible and
+picking up momentum. The most meaningful work of your career is waiting. Join us.
+About The Team
+The Additive Technology team operates at the frontier of research and development, where creativity meets capability. This is an R&D-driven environment where
+problems are open-ended and solutions are yours to define. You’ll work alongside welders, robotics engineers, data scientists, and systems engineers at the
+intersection of hardware and software, creating an end-to-end additive manufacturing platform that serves a wide variety of applications. From exploring new
+materials to unlocking faster print speeds, to designing complex, organic geometries that can’t be built any other way, it’s high-impact work that sets the
+foundation for the future of additive manufacturing.
+About The Role
+We are seeking a highly skilled and motivated Data Science Intern to join our dynamic R&D team. You will be responsible for developing and implementing ML
+models and algorithms that drive advancements in Relativity's Stargate additive manufacturing platform. You will work closely with cross-functional teams such
+as Simulation, Robotics, and Software to identify and implement ML-based solutions that drive technology development. You will work to understand data from a
+wide variety of sources in and around the printer and select appropriate model architectures to achieve business goals. You'll be at the cutting edge of large
+scale additive manufacturing and you'll get to see the solutions you develop implemented in the Stargate platform.
+Key Responsibilities
+- Design, implement, and evaluate machine learning models related to large scale additive manufacturing systems.
+- Use a strong theoretical understanding of ML to guide model selection and optimization based on the data on hand and model performance requirements
+- Collaborate with other team members to deploy ML models into production environments.
+- Extract insights from a wide range of data sources such as sensors, cameras, and physical simulations to understand and optimize the interactions between
+materials, printing processes, and product performance.
+- Communicate effectively with stakeholders
+About You
+- Actively pursuing a degree in Computer Science, Data Science, Mathematics, Statistics, Physics, Engineering, or a related field
+- Strong programming skills in Python using machine learning frameworks (e.g., TensorFlow, PyTorch, Scikit-learn).
+- Strong theoretical understanding of machine learning and statistics
+- Proficiency in statistical analysis, optimization, and data visualization tools.
+Nice To Haves But Not Required
+- Proficiency with collaborative software development concepts such as git, code review, and CICD
+- Background in the field of Additive Manufacturing
+- Proficiency with databases and SQL
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender,
+sexual orientation, age, marital status, veteran status, or disability status.
+"

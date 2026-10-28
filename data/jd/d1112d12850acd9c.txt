@@ -1,0 +1,62 @@
+Job Title: Autonomy Software Engineering Intern, World Modeling
+Department: Robotics Software Engineering
+Employment Type: Internship
+Location: Houston, TX – Onsite
+Who We Are
+Persona AI is building humanoid robots for the most demanding environments in heavy industry — shipyards, steel mills, fabrication facilities, and offshore
+platforms — performing welding, grinding, maintenance, inspection, and material-handling work that is dangerous, physically demanding, and increasingly
+difficult to staff.
+We are backed by leading strategic and financial investors and engaged with global industrial leaders across Korea, Japan, the United States, and Singapore.
+Korea is the center of gravity for our early commercial strategy, anchored by relationships with the world’s leading shipbuilders and steelmakers. Our work
+spans both the robot platform itself and the systems, partners, and playbooks required to deploy it at scale.
+We're looking for an Autonomy Software Engineering Intern to help build the world modeling layer of our autonomy stack. You will work hands-on with NVIDIA
+Cosmos3, curating real-world industrial video data from our customer facilities and fine-tuning models to give our humanoid robots a grounded understanding of
+the environments they operate in.
+This is a paid summer internship based in Houston, TX. You will report to the Behavior Coordination Lead and work directly with the autonomy team alongside our
+machine learning, perception, and simulation engineers.
+Your Role
+- Design and implement autonomy and behavior coordination algorithms for an industrial humanoid platform
+- Work with manipulation, locomotion, and perception engineers to integrate robot skills into autonomous robot behaviors
+- Implement data curation pipelines that enable our robots to understand a variety of real-world industrial tasks.
+- Develop synthetic data generation pipelines for post-training of humanoid world models
+- Design and implement pipelines for autonomous behavior evaluation, benchmarking, and regression testing
+- Turn raw industrial video footage (shipyards, steel fabrication, welding cells) into structured, high-quality training data.
+- Design and evaluate reasoning benchmarks that measure how well a fine-tuned world model grounds language queries in real shipyard and fabrication-plant
+scenes.
+We're Looking For
+- Currently pursuing a BS, MS, or PhD in Robotics, Computer Science, Machine Learning, Electrical Engineering, or a related field; recent graduates are also
+welcome.
+- Hands-on experience training, fine-tuning, or evaluating modern deep learning models in PyTorch.
+- Strong Python skills; comfortable writing data processing scripts, training loops, and evaluation harnesses.
+- Working familiarity with at least one vision-language model, large language model, or video understanding model.
+- Practical experience building data pipelines: ingestion, filtering, labeling workflows, deduplication, train/val/test splits.
+- Comfortable working in Linux environments with Git, containers (Docker), and cloud GPU infrastructure.
+- Self-directed and able to make steady progress on an open-ended research problem with weekly check-ins rather than daily direction.
+Preferred Or Bonus Qualifications
+- Direct experience with NVIDIA Cosmos or comparable world foundation models.
+- Exposure to NVIDIA Isaac Sim, Omniverse, or OpenUSD for synthetic data generation and scene variability.
+- Familiarity with humanoid or mobile-manipulator robotics, ROS/ROS 2, and the broader autonomy stack.
+- Experience with motion capture data, egocentric video capture, or first-person dataset construction.
+- Exposure to behavior trees, task and motion planning, or LLM-driven planning architectures.
+- Familiarity with NVIDIA Isaac Lab, NIM microservices, or the Hugging Face training ecosystem.
+- Prior internship, research, or open-source work on physical AI, embodied reasoning, or robot learning.
+Our Internship Program
+At Persona AI, Our Internship Program Gives You Direct, Hands-on Experience Building Cutting-edge Humanoid Robotics Alongside Industry Experts. We Offer Full-
+time Term Opportunities Across Three Upcoming Cohorts
+- Fall 2026: August – December
+- Spring 2027: January – May
+- Summer 2027: May – August
+As an intern, you’ll be paired 1:1 with a senior engineer mentor to accelerate your growth and guide your technical contributions. You will bond with your
+cohort through intern group lunches, gain cross-functional perspective during company-wide learning lunches, and unwind with fun team activities throughout the
+term. Whether you're working on advanced motion planning or real-world system testing, you'll tackle meaningful engineering challenges while immersing yourself
+in our collaborative startup culture.
+Application Review Process
+We evaluate applications as they are received rather than waiting for the posted deadline to pass. Positions for each cohort are filled on a first-come, first-
+served basis, and the portal will close as soon as all available roles are finalized.
+To give yourself the best chance of securing a spot, keep these tips in mind:
+- Apply Early: Submitting your resume as soon as possible ensures your materials are reviewed before interview slots fill up.
+- Cohort Availability: Popular terms—especially Summer 2027—tend to reach capacity quickly.
+- Rolling Interviews: Interviews and candidate evaluations begin immediately upon application receipt.
+Persona AI is an Equal Opportunity Employer.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+identity, age, disability, veteran status, or any other characteristic protected by applicable federal, state, or local law.

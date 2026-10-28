@@ -1,0 +1,42 @@
+If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high-performance analog
+semiconductors whose solutions are powering the wireless networking revolution. Through our broad technology expertise and one of the most extensive product
+portfolios in the industry, we are Connecting Everyone and Everything, All the Time.
+At Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, minimal layers of management, and the freedom to make
+meaningful contributions in a setting that encourages creative thinking. We are excited about the opportunity to work with you and glad you want to be part of a
+team of talented individuals who together are changing the way the world communicates.
+Requisition ID: 78719
+Description
+Skyworks' Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Skyworks offers real
+work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available.
+Skyworks' Internship Program Offers
+- Challenging, skill-building assignments
+- Mentoring and coaching from industry experts
+- Launch & Learns and other learning opportunities
+- Collaborative team-based work environment
+- Networking and social events
+- Final presentation to business leaders
+Skyworks' Data Analytics Internships are offered in our Advanced Cellular business groups. Specific projects and responsibilities will be determined based on
+the business needs at the time of the internship assignment.
+This position is not eligible for visa sponsorship by the Company.
+Responsibilities
+- Assist in collecting, cleaning, and preprocessing large datasets from various sources
+- Perform exploratory data analysis to identify trends, patterns, and insights
+- Support the development and validation of predictive models and machine learning algorithms
+- Collaborate with cross-functional teams to understand data needs and deliver actionable insights
+- Create clear visualizations and reports to communicate findings effectively
+- Document methodologies and maintain data pipelines and workflows
+Required Experience And Skills
+- Currently pursuing a degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, or a related field
+- Basic knowledge of programming languages such as Python or R
+- Familiarity with data analysis libraries (e.g., pandas, NumPy, scikit-learn)
+- Understanding of statistical concepts and machine learning fundamentals
+- Strong problem-solving skills and attention to detail
+- Good communication skills and ability to work collaboratively in a team environment
+Desired Experience And Skills
+- Prior experience with SQL and data visualization tools (e.g., PowerBi, DataBricks, Spotfire) is a plus
+The typical pay range for an Engineering intern across the U.S. is currently USD $29.00 - $49.00 per hour and for a Non-Engineering intern across the U.S. is
+currently USD $23.00 - $42.00 per hour. Starting pay will depend on level of education, the ultimate job duties and requirements, and work location. Skyworks
+has different pay ranges for different work locations in the U.S.
+Skyworks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex,
+sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Skyworks strives to
+create an accessible workplace; if you need an accommodation due to a disability, please contact us at accommodations@skyworks.com.

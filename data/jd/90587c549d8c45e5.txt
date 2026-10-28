@@ -1,0 +1,49 @@
+Job Details
+Job Description:
+Contributes to the design, development, and optimization of AI software solutions including algorithms, frameworks, and AI software architectures across domains
+such as computer vision, machine learning, and deep learning. Assists in implementing and tuning models for performance and accuracy, applied research, and
+hardware - software integration. May also include the creation of AI software solutions in partnership with internal product teams and external partners as well
+as system level deployment to enable scalable and efficient AI solutions. As an intern, learns and applies knowledge, builds skills, and explores future career
+opportunities through hands-on experience and projects that support Intel business goals in a collaborative environment.
+Qualifications
+Minimum Qualifications
+- PhD Candidate from an accredited engineering or computer science program with emphasis on Artificial Intelligence, in particular on topics related to
+federated learning, image classification, or multiscale attention for object detection, computer vision, image processing, and feature engineering. Minimum 3.0
+GPA or higher and proven track record of academic success.
+- Research/Course work on explainability tools
+- Data engineering and preparation: data engineering, feature engineering, data imbalance, noisy dataset
+- Strong grasp of linear algebra, statistics, and probability.
+- Strong analytical, problem-solving, communication skills. Self-motivation, and teamwork.
+- Experience or skills in the following languages: Python, C++, PyTorch, TensorFlow, and OpenCV
+- Familiarity with Git, cloud, cloud concepts, containers, docker and MLOps.
+Preferred Qualifications
+- Experience in deploying AI applications in production environments, requiring high levels of precision and accuracy.
+- Experience in working within the semiconductor industry or similar.
+- Research: First-author publications in top CV conferences (CVPR, ICCV, NeurIPS).
+- A portfolio with projects in CV/Image AI (e.g., open-source contributions, research papers/projects)
+Job Type
+Student / Intern
+Shift
+Shift 1 (United States of America)
+Primary Location:
+US, Arizona, Phoenix
+Additional Locations:
+US, Oregon, Hillsboro
+Posting Statement
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel.
+Annual Salary Range for jobs which could be performed in the US: $170,598.00 - 170,602.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.
