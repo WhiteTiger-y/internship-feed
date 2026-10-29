@@ -1,0 +1,45 @@
+About the Role We are seeking a motivated and analytical Summer Intern to join our Insurance Data and Technology team. This internship offers a unique
+opportunity to work on real-world projects involving Artificial Intelligence, data analytics, insurance operations, and risk management technology. The intern
+will collaborate with business and technology professionals to develop innovative solutions that improve operational efficiency, data quality, and decision-
+making across the insurance lifecycle. Responsibilities Assist in the development and testing of AI-powered tools and automation solutions. Analyze insurance,
+claims, and risk-related datasets to identify trends and business insights. Support enhancement and optimization of existing insurance technology platforms and
+applications. Participate in requirements gathering, user interviews, and solution design sessions. Create reports, dashboards, and visualizations using
+business intelligence tools. Document business processes, workflows, and technical solutions. Research emerging technology trends, including Generative AI,
+machine learning, and automation. Collaborate with cross-functional teams including Risk, Claims, Operations, Data Analytics, and Technology. Present project
+findings and recommendations to business leaders at the conclusion of the internship. Potential Internship Projects Examples of projects may include: Building
+an AI agent for document extraction and data validation. Enhancing insurance technology platforms and workflow automation. Developing predictive analytics
+models for claims or premium analysis. Creating Business Intelligence dashboards and operational reporting solutions. Evaluating opportunities to leverage
+Generative AI within insurance business processes. Supporting data integration and modernization initiatives. Qualifications Required Current junior
+undergraduate student at an accredited four-year institution Currently pursuing a Bachelor's or Master's degree in: Computer Science Information Systems Data
+Analytics Data Science Business Analytics Engineering Mathematics Related field Strong analytical and problem-solving skills. Basic understanding of databases
+and data analysis concepts. Excellent verbal and written communication skills. Ability to work independently and within a team environment. Preferred Experience
+with Python, SQL, or similar programming languages. Familiarity with Power BI, Tableau, or data visualization tools. Interest in Artificial Intelligence and
+Machine Learning. Understanding of cloud technologies and modern software development practices. Exposure to insurance, financial services, or risk management
+concepts. What You'll Gain Hands-on experience working on enterprise technology initiatives. Exposure to insurance operations, risk management, and analytics.
+Mentorship from technology and business leaders. Opportunity to present recommendations directly to senior leadership. Experience developing AI and automation
+solutions with real business impact. Success Measures By the end of the internship, successful candidates will: Deliver a meaningful project with measurable
+business value. Demonstrate growth in technical and analytical skills. Present findings and recommendations to leadership. Develop an understanding of insurance
+technology and risk management operations. Base Compensation Range: $25.00 To $30.00 Hourly. This represents the presently-anticipated low and high end of the
+Company’s base compensation range for this position. Actual base compensation range may vary based on various factors, including but not limited to location and
+experience. Who We Are Revantage, a Blackstone Real Estate portfolio company, is a global provider of corporate services. With a corporate purpose of ‘In
+Pursuit of Better,’ Revantage delivers value-added services and world-class talent for Blackstone Real Estate portfolio companies, spanning diverse asset
+classes, including residential, logistics, office, hospitality and retail sectors. Headquartered in Chicago, the company’s footprint extends across North
+America, Europe and Asia Pacific. Rooted in a commitment to collaboration and inclusivity, Revantage goes beyond traditional corporate services and acts as a
+trusted partner. Across offerings that include finance, technology, human resources and operations, Revantage proactively anticipates stakeholder needs,
+recruits exceptional talent and enables its business partners to thrive. What We Value: Our Culture Our people are our most important asset, enabling Blackstone
+portfolio companies and investments to scale and thrive. Together, we foster a workplace where everyone can be themselves, enabling them to do their best work.
+At Revantage, we have exceptional people who live our values and help us pursue better every day. We offer dynamic and meaningful work, competitive
+compensation, benefits and flexibility. We listen and take action to ensure our organization evolves to reflect our employees’ voices and support an inclusive
+culture. Our demonstrated commitment to our people and collaborative culture have earned us numerous awards as a top employer. Our culture is built on our
+shared core values and commitment to be: Learners – We learn from our challenges and successes Leaders – We commit to continuous improvement Enthusiasts – We
+face challenges with optimism and believe anything is possible Achievers – We expect high standards for ourselves and enable the success of our teams Partners –
+We deliver value and positive impact to our partners Grow your career with us. As a member of our team, you'll gain hands-on experience in the real estate
+industry and benefit from a supportive environment that fosters personal and professional growth. Please review the Job Applicant Privacy Notice. EEO Statement
+Revantage is an equal opportunity employer. In accordance with applicable law, we prohibit discrimination against any applicant, employee, or other covered
+person based on any legally recognized basis, including, but not limited to: veteran status, uniformed servicemember status, race, color, caste, immigration
+status, religion, religious creed (including religious dress and grooming practices), sex, gender, gender expression, gender identity, marital status, sexual
+orientation, pregnancy (including childbirth, lactation or related medical conditions), age, national origin or ancestry, citizenship, physical or mental
+disability, genetic information (including testing and characteristics), protected leave status, domestic violence victim status, or any other consideration
+protected by federal, state or local law. We are committed to providing reasonable accommodations, if you need an accommodation to complete the application
+process, please email talent@revantage.com Revantage, a Blackstone Real Estate portfolio company, is a global corporate services leader headquartered in
+Chicago. In Pursuit of Better, the company delivers value-add services and best-in-class talent to

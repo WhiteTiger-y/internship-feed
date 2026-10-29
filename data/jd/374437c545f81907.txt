@@ -1,0 +1,64 @@
+built on them.
+Welcome to the Movement
+You are joining a team of driven, mission-aligned individuals ready to make an impact. They share your passion for sustainability, your ability to thrive in a
+fast-paced environment —and, just like you, want to be part of something bigger!
+We are goal-getters, go-getters, and changemakers . We celebrate wins, tackle challenges head-on, and push the boundaries of what can be achieved when
+technology and finance seamlessly integrate. We are fueled by purpose and growth, and with you on board, we will reach new heights in achieving our lofty goals.
+What to Expect as a Research & Development Intern:
+You're about to embark on a bold, challenging, and game-changing journey. By joining our Research & Development team, you will gain valuable insights into the
+inner workings of a fintech start up, sustainability, solar lending and what it takes to be a reliable technology partner to purpose-driven financial
+institutions. You will also gain insight into Climate First Bank, a OneEthos client and subsidiary under our Holding Company. As the remote Research &
+Development Intern , your primary focus is to understand the early stages of software development and provide critical support in all aspects of research,
+development, testing and implementation of OneEthos' products.
+What You'll Contribute in This Role:
+•Your main focus will be on one of the following projects, which will be assigned on or before the start date:
+- Green Bank Platform Project: Supporting the overall objective of revenue diversification and solar loan growth, you will collaborate with the Senior Engineer
+on launching a brand new product for Green Bank in Colorado. Additionally, you will support a second objective to increase deposit growth by building technology
+to generate a stunning "EcoStatement" describing the impact of deposits.
+- Small Business Database Project: Supporting the overall objective of deposit growth, you will collaborate with our AI team to help build a Better Business
+Bureau inspired database for mission-driven small businesses.
+•You will also support the NextGen SDLC Project — a joint project with other interns. Completing the overall objective of increasing speed of development while
+maintaining quality and making it easy to transition from R&D to Product, you and your team will:
+- Automate the PM process including PRD, Risk Assessments, etc...(AI Agent + PM)
+- Use the following standards: ShadCN Design System, Tailwind CSS, Next.JS Framework/standard, Cursor IDE, use Cursor rules and keep refining how they are used.
+•You will conduct research and help implement new technology . Heavily utilizing Al and other available resources to compile data points and logic that will
+help Software Developers and leadership make informed decisions.
+•You will learn how to write and debug code for feature development gaining exciting real-world exposure into coding and debugging for a fintech startup and
+working on small projects autonomously.
+•You will help troubleshoot software issues and help the internal and extended Climate First Bank team get back to enjoying our products quickly.
+•You will work closely with other developers to improve product functionality and help make meaningful improvements to our existing products.
+•You will support integrating 3rd-party APls and toolsets.
+•You will attend all developer meetings , gaining valuable insights into the product development process and help identify solutions and suggestions.
+•You will participate in code reviews and quality assurance activities, helping the team produce cutting edge technology solutions.
+•Continually improve your coding skills . This is YOUR internship. Your growth is our growth, and we want to see you learn and develop as much as possible
+•You will champion our Mission fiercely and passionately adopting and practicing a commitment to social, economic, environmental, and racial justice. You will
+apply curiosity and interest in our core values and pursue education related to sustainability practices.
+What You Will Leverage in this Internship:
+•Your Education and Enthusiasm
+Your education in Computer Science or a comparable major is equipping you with the technical understanding and tools to be successful in this role. You take the
+initiative to build onyour education with high-profile projects, participation in targeted clubs and proactive completion of certifications. You are passionate
+about all things technology and continue to seek broad exposure in this field. You are knowledgeable in the following tools and languages: Javascript, HTML/CSS,
+Node.js, Git, SQL or NoSQL Database, Typescript, MongoDB, Azure/AWS/Google Cloud, No-Code or Low-Code solutions.
+•Entrepreneurial Self-Starter
+You love taking charge of your work product and take great pride in delivering consistently great results. Once you know what is expected of you, you run with -
+and know when to slow down and ask for help. You understand what it takes to bring tasks to completion, have the ability to anticipate and mitigate slowdowns
+and have a unique ability to balance efficiency and attention to detail. A high-pace and high-expectation environment excites you and you can't wait to push
+yourself to new professional heights in a company that rewards high performance.
+•Master Communicator
+Whether it's on camera, phone, or chat-you're confident, concise, and professional. You listen deeply and respond thoughtfully.
+•Tech-Forward Thinking
+You're quick to learn new tools and excited by innovation.
+•Organization & Efficiency Guru
+You manage your time like a pro, stay focused under pressure, and keep your workflow humming. You love putting your head down and getting into the groove but
+also appreciate changing routines. You're a master note-taker and checklist fanatic and consider "dropped balls" a four-letter word.
+•Team Player with a Spark
+You lift others up, share ideas, and bring positive energy to everything you do.
+How We Work Together at OneEthos:
+At OneEthos, we believe that how we work is just as important as what we do. Every team member is expected to deliver high-quality results on time-whether
+independently or in collaboration with others. You'll be part of a supportive, mission-driven team where professionalism, communication, and collaboration are
+key to our collective success. We are also committed to providing tobacco free environments to all employees and follow a zero-tolerance policy on smoking and
+other tobacco related consumption.
+What to Expect in Your Work Environment:
+Work Schedule: This is a part-time internship requiring 20 hours per week, consisting of four hours per day five days a week (Monday-through Friday).
+This role requires the ability to perform essential functions such as sitting, talking, hearing, and occasionally lifting up to 20 lbs. You may also be asked to
+attend remote meeting, travel, or work evenings and weekends as needed. We're committed to supporting our team, and reasonable accommodation

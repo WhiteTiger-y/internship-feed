@@ -1,0 +1,26 @@
+The Data Scientist Intern will be responsible for assisting our full-time Data Scientist team in the analysis, development, and testing of code supporting our
+existing and future products and services. Specifically, they will be asked to learn, analyze, and utilize our data to solve problems and answer questions that
+lead us to better serve our customers. These duties will often require the ability to visualize or contextualize raw data, train, evaluate, and deploy various
+types of modeling techniques, and communicate the resulting trends and observations. Additionally, the Data Scientist Intern may be asked to help facilitate the
+curation of our data upstream from the work described above, making the actual analysis and modeling of the data possible. This work would still require the
+foresight of how the data will eventually be utilized to ensure it is made available in the most advantageous way possible. Ideally, the Data Scientist Intern
+would gain the knowledge and experience necessary to be transitioned into a full-time Data Scientist role as soon as they prove to be ready, and the opportunity
+presents itself.
+Internships at Sandhills Global can start at any point in the semester - we are having new hires start their journey with us every single week! Pick a start
+date that works for you.
+Qualifications:
+- Completion of or progress towards a degree in Data Science, Mathematics, Statistics, or any other applied or quantitative discipline
+- Experience in Python or R, and various libraries/packages
+- Some understanding of machine learning concepts and techniques, including tree-based models and neural networks
+- Ability to perform critical thinking and statistical analysis
+- Strong oral and written communication skills
+- Knowledge around computer vision, Natural Language Processing, or Large Language Models preferred
+- Experience with SQL, stored procedures, or APIs preferred
+- Familiarity with platforms like Spark, Kubernetes, Docker, or Jenkins preferred
+- Ability to commute when scheduled to the local office is required
+- Able to work independently and communicate within a team environment
+- Results oriented
+- Flexible and open to change
+- Stable and progressive work history
+- Professional appearance and demeanor
+- Hours during regular work week, Ability to commute daily to local office is required.

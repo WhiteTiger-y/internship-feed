@@ -1,0 +1,45 @@
+Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted
+advice. We seek to be the #1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty,
+integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity The
+Opportunity Our internship program lets you showcase your skills, while gaining real-life experience that’ll help you jump-start your career. Throughout the
+internship, you'll participate in professional development opportunities, networking events, mentorship programs, and team-based projects designed to help
+prepare you for a successful career in technology. Our interns deliver innovative solutions to real business challenges, while building enduring relationships
+in a collaborative culture with their manager and an assigned mentor. This position is based in Plano, TX. What you'll do: Under direct supervision and with
+guidance from senior engineers and your mentor, your day will involve transforming complex data into predictive models, insights, intelligent models, and AI-
+powered solutions that accelerate business outcomes, improve member experiences, optimize operations, and enable data-driven decision making across USAA. The
+work will be aligned with USAA's technology strategy, potentially involving the use of AI tools and automation to enhance efficiency. Primary Responsibilities:
+Develop predictive, prescriptive, and machine learning models to solve complex business problems Explore structured and unstructured datasets to uncover
+actionable insights Design experiments and evaluate model performance using statistical methods Develop and fine-tune AI and machine learning models to improve
+business outcomes Communicate analytic findings and recommendations to technical and executive audiences To qualify, you must be pursuing a degree from an
+accredited college or university, and plan to graduate after the final day of the internship. Most of our interns participate in the summer between their junior
+and senior years. Our 2027 internship will start on June 2nd, 2027, and last through August 13, 2027. Currently pursuing a Bachelor's or Master's degree in
+Computer Science, Computer Engineering, Software Engineering, or a related technical field. Anticipated graduation date between September 2027 and May 2028.
+Foundational understanding of: Python and R Machine Learning Frameworks Statistical modeling and experimentation SQL and data querying Problem-solving and
+analytical thinking Strong verbal and written communication skills. Demonstrated leadership through coursework, projects, student organizations, employment, or
+community involvement. What sets you apart: Data visualization tools Communication and storytelling Experience integrating AI into enterprise systems.
+Coursework or project experience involving software development. Understanding of Agile development concepts. Interest in AI-assisted development and emerging
+technologies. Compensation range: The salary range for this position is: $26.50 - $36. Interns will receive an intern stipend to assist with expenses. USAA does
+not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e.,
+H-1B, TN, STEM OPT Training Plans, etc.). USAA views its internship program as a pipeline to possible future employment. This is based on an individual’s
+graduation date, performance, role qualifications, and business need. To be considered for possible future employment opportunities interns must meet the full-
+time work eligibility requirements for any given role. Thus, interns should ensure their sponsorship status and other provided information is accurately
+reflected on their intern application. Inadequate completion of your application may render you ineligible for further consideration in the hiring process.
+Compensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the hourly
+range based on your experience and market data of the position. The actual hourly rate for this role may vary by location. The above description reflects the
+details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements
+that may be performed in the job. Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness.
+These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off
+program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists
+employees with their professional goals. Interns may not be eligible for all benefits, for more details on our outstanding benefits, please visit our benefits
+page on USAAjobs.com. Applications for this position are accepted on an ongoing basis, this posting will remain open until the position is filled. Thus,
+interested candidates are encouraged to apply the same day they view this posting. USAA is an Equal Opportunity Employer. All qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a
+protected veteran. If you are an existing USAA employee, please use the internal career site in OneSource to apply. Please do not type your first and last name
+in all caps. Find your purpose. Join our mission. USAA is unlike any other financial services organization. The mission of the association is to facilitate the
+financial security of its members, associates and their families through provision of a full range of highly competitive financial products and services; in so
+doing, USAA seeks to be the provider of choice for the military community. We do this by upholding the highest standards and ensuring that our corporate
+business activities and individual employee conduct reflect good judgment and common sense, and are consistent with our core values of service, loyalty, honesty
+and integrity. USAA attributes its long-standing success to its most valuable resource: our 35,000 employees. They are the heart and soul of our member-service
+culture. When you join us, you'll become part of a thriving community committed to going above for those who have gone beyond: the men and women of the U.S.
+military, their associates and their families. In order to play a role on our team, you don't have to be connected to the military yourself – you just need to
+share our passion for serving our more than 13 million members. USAA is an E

@@ -1,0 +1,51 @@
+T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to
+the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career
+opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!
+Get hands-on experience, training—and a leg up on a bright future.
+T-Mobile didn’t become a leader by following the playbook. We got here by breaking it. We’re a disruptor that now plays on a higher tier, and we’re still
+raising the bar for millions of customers nationwide. If you want to work somewhere that sets the standard instead of matching it, this is your place.
+This is an 11-week paid learning experience where you’ll do real work, not busywork. You’ll build relationships with other interns and leaders across the
+company, and you’ll be paired with mentors who will challenge you to grow skills that matter. We’ll give you hands-on projects with real stakes, and we expect
+your creativity and sharp ideas to make an immediate impact. You’ll work alongside T-Mobile employees who have your back and who still believe the best ideas
+can come from anyone.
+What It's Like:
+Our team focuses on leveraging Artificial Intelligence (AI) and emerging technologies to enhance T-Mobile's customer experience and improve operational
+efficiency. We develop, optimize, and integrate AI-driven solutions that enable smarter customer interactions and automate customer service processes. We
+collaborate with cross-functional teams to build reliable, scalable, and effective AI applications that support business goals. Our work drives innovation by
+applying Generative AI, prompt engineering, and machine learning technologies to solve real-world challenges and deliver meaningful value to T-Mobile and its
+customers.
+What You'll Do:
+Our team serves as the **Decision Engine for Next Best Actions (NBA)**, leveraging Artificial Intelligence (AI), Machine Learning, and advanced decisioning
+technologies to deliver personalized, intelligent customer experiences across T-Mobile. We design, develop, and optimize AI-driven solutions that determine the
+most relevant actions and recommendations based on customer needs, context, and business objectives. We collaborate with cross-functional teams to build
+scalable, reliable, and real-time decisioning capabilities that enhance customer engagement and operational efficiency. Our work plays a critical role in
+enabling smarter, data-driven decisions that improve customer satisfaction and drive meaningful business outcomes.
+Key Responsibilities:
+- Support the development of proof-of-concept solutions, conduct testing, document findings, and present recommendations to improve the reliability,
+scalability, and effectiveness of AI-driven decisioning.
+What It Takes:
+Currently pursuing a Bachelor's degree in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related technical field.
+Foundational knowledge of Artificial Intelligence (AI), Machine Learning (ML), Generative AI, and Large Language Models (LLMs).
+Familiarity with Python and/or Java programming, data analysis, cloud computing, and software development concepts.
+Exposure to prompt engineering, AI model optimization, data modeling, or AI-driven decisioning through coursework, academic projects, or personal projects.
+Interest in developing intelligent decisioning solutions, personalization, and Next Best Action (NBA) recommendations to improve customer experiences.
+Strong analytical thinking, problem-solving, communication, and collaboration skills, with a willingness to learn emerging technologies.
+Preferred but not required: Hands-on experience with AI/ML frameworks, cloud platforms (AWS, Azure, or GCP), or relevant AI/ML certifications.
+- Minimum Qualifications
+- At least 18 years of age
+- Legally authorized to work in the United States now and in the future
+- Must have one or more course(s) remaining in a Bachelors or Graduate degree program post internship
+- Employees of T-Mobile or Metro by T-Mobile are ineligible for external Summer Internships, please see Magenta Accelerator if interested
+Relocation assistance will be provided to program participants who reside more than 50 miles from the internship location.
+Intern wages range from $27/hour to $50/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation.
+Never stop growing!
+As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our
+employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career
+opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!
+T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity,
+color, religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status,
+citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or
+local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.
+Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or
+interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a
+means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.

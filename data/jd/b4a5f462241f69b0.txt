@@ -1,0 +1,45 @@
+The driving force behind our success has always been the people of AspenTech. What drives us, is our aspiration, our desire and ambition to keep pushing the
+envelope, overcoming any hurdle, challenging the status quo to continually find a better way. You will experience these qualities of passion, pride and
+aspiration in many ways — from a rich set of career development programs to support of community service projects to social events that foster fun and
+relationship building across our global community.
+The Role
+As part of Emerson Electric, AspenTech is a global leader in industrial software, delivering advanced asset optimization solutions for capital-intensive
+industries. With a presence around the world, we are uniquely positioned to drive innovation and sustainability across energy, chemical, manufacturing, and
+infrastructure sectors. With origins at MIT over 40 years ago, AspenTech has continually pushed the boundaries of what’s possible in optimization technology.
+Now, as a key innovation engine within Emerson, our Technology organization includes more than 1,300 experts in performance engineering, subsurface science,
+manufacturing and supply chain, digital grid management, and asset performance monitoring.
+Joining this team means transforming cutting-edge ideas into impactful solutions used by hundreds of thousands of professionals globally—shaping the future of
+industry through technology.
+As a Data Science Intern in our AI Technology Group, you bring deep technical expertise in build the next generation of Asset Performance Monitoring AI
+technology. We are looking for sharp, disciplined, and highly quantitative individuals who have a passion for playing with complex data and cutting-edge
+technologies, in all its forms, including data mining, mathematical modeling, cognitive computing and expert systems. You will leverage your skills and passion
+for Machine Learning, AI and Cognitive Computing to drive innovations in AspenTech’s software platforms.
+Your Impact
+- Collaborate with data scientists, engineers, and software developers to develop new machine learning applications for the manufacturing and process industries
+- Collaborate with customers, product managers and technical staff to develop technology strategies to promote continuous innovation in our Engineering Design
+and Simulation offerings
+- Investigate new and developing technologies as they appear in industry and academia and determine how to leverage these new technologies into our software
+applications
+- Provide thought leadership and represent AspenTech at industry and academic meetings and conferences
+What You'll Need
+- Master’s in Computer Science, Engineering, Operation Research, or a related major; PhD candidates preferred
+- 5+ years of experience in data analysis and software development/programming with one or more of Python, C++/C and C#
+- Strong expertise required in engineering mathematics, statistics and optimization
+- Demonstrated experience with machine learning algorithms (regression, semi-supervised learning, deep learning, reinforcement learning, time series analysis,
+predictive modeling, data mining, cognitive computing)
+- Experience with LLM, generative AI, MLops, Graph Knowledge, and/or cloud technologies is a plus
+- History of publishing research and results in the ML field
+- Participated in the design, development, evaluation, and deployment of scalable data-driven models and analytical solutions for machine learning application
+- Problem-solving ability and attention to details
+- Demonstrated ability to use scientific research to deliver value to customers and are motivated to deliver results in a fast-paced environment
+- Excellent interpersonal, communication, writing, and presentation skills
+- Demonstrated ability to convey complex information in a clear and concise manner
+Hourly Internship Pay Rate: $40.00 - $50.00
+Work Location:
+Aspen Technology has a global hybrid workplace for most of our roles. Employees are expected to work in the office 4 days per week and may work remotely 1 day
+per week, unless the employee has a reasonable accommodation or other approved exception to the hybrid workplace schedule. Our Internship role is based in our
+global headquarters in Bedford, MA.
+Work Authorization
+AspenTech will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided.
+Individuals with temporary visas such as E, F-1(including those with OPT or CPT) , H-1, H-2, L-1, B, J or TN, or who need sponsorship for work authorization now
+or in the future, are not eligible for hire.

@@ -1,0 +1,71 @@
+Company Description
+It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we
+do at Intuitive. As a global leader in robotic-assisted surgery and minimally invasive care, our technologies—like the da Vinci surgical system and Ion—have
+transformed how care is delivered for millions of patients worldwide.
+We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care
+teams perform with greater precision and patients recover faster, improving outcomes around the world.
+The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the
+potential to change a life.
+If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.
+Job Description
+Primary Function of Position
+You will join Future Forward, Intuitive's advanced concepts group, and report to an engineering lead on the team building AI for the next generation of robotic-
+assisted surgery. You will own an open-ended research and prototyping project in areas such as supervised autonomy and automation for robotic-assisted surgery,
+and AI that helps care teams deliver care more consistently and efficiently. The work draws on computer vision, generative AI, robotics, and agentic AI, and we
+will shape the exact project with you based on your background and the team's priorities. A successful internship ends with a working prototype, clear evidence
+of how well it works, and findings the team can keep building on.
+Essential Job Duties
+- Own an open-ended research and prototyping project, scoped with your mentor.
+- Explore how computer vision, generative AI, and agentic AI can be applied to new problems in surgery and the operating room.
+- Build working prototypes and evaluate them against clear baselines.
+- Work closely with researchers, engineers, and clinical experts.
+- Share your results through documentation and a final presentation and contribute to publications or patent filings where results warrant it.
+Qualifications
+Required Skills and Experience
+- Research or applied experience in at least one of computer vision, generative AI, robotics or autonomy, or agentic AI (LLM agents and tool use).
+- Strong Python skills and hands-on experience with a deep learning framework such as PyTorch.
+- A track record of taking a loosely defined problem to a result, shown through publications, open-source work, or projects others have used.
+- Sound experimental practice: you can set up a fair comparison and tell a real improvement from noise.
+- Clear written and verbal communication with both technical and non-technical audiences.
+University Hiring Program Eligibility Requirements
+- University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship.
+- Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start
+dates are shared during the recruiting process.
+Required Education And Training
+- Current enrollment in a Computer Science, Electrical Engineering, Robotics, Mechanical Engineering, or related degree-seeking program at the Doctorate level.
+- Master's level students would also be considered based on two or more years of relevant industry or research experience.
+Working Conditions
+- None
+Preferred Skills And Experience
+- Publications at leading venues such as CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, CoRL, RSS, ICRA, or IROS.
+- 3D vision, scene understanding, or spatial reasoning.
+- Generative models (for example diffusion or vision-language models) or LLM agents applied to real-world tasks.
+- Robot learning, robotics simulation (for example NVIDIA Isaac Sim/Lab or MuJoCo), or ROS 2.
+- Industry experience building ML or AI systems that other people relied on.
+- Interest in or exposure to healthcare, surgical, or medical robotics.
+Additional Information
+Due to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination
+against certain diseases including COVID-19. Details can vary by role.
+Intuitive is an Equal Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and
+harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or
+disability status, genetic information or any other status protected under federal, state, or local applicable laws.
+Mandatory Notices
+U.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR
+- 743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on
+embargo or sanctions status.
+Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export
+license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan
+(“TCP”) (note: typically adds 2 weeks to the hiring process).
+For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the
+prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable,
+candidates will be notified and instructed on any requirements for these purposes.
+We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.
+Accommodation & Accessibility Notice
+Intuitive is committed to providing reasonable accommodations to qualified individuals with disabilities. If you require assistance or an accommodation during
+any part of the application or interview process, please contact People Services at HRHelpNow@intusurg.com.
+We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical
+for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and
+experience for this internship, degree-seeking academic program (PhD, Master’s, Bachelor’s, etc), year in school, and location. The hourly rate is prorated
+against the intern program salaries listed and total program compensation will be based on internship duration.
+Base Salary Range Region 1:$73 - $82
+Base Salary Range 

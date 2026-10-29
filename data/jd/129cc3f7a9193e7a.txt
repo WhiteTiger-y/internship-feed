@@ -1,0 +1,37 @@
+NVIDIA has been transforming computer graphics and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great
+technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the
+brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s
+best talent. As an NVIDIAn, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see
+how you can make a lasting impact on the world.
+We, the Human Performance and Experience (HPX) team at NVIDIA Research, strive to lead AI innovation by deeply understanding humans. We are looking for
+individuals who are passionate about cross-disciplinary research in vision between humans and machines. We expect candidates with backgrounds in computer
+vision, human vision science, robotic vision, and related fields to be well-suited to this position. You will be working in a team of research scientists and
+engineers from varied backgrounds and closely collaborating with product engineers. Join us in transforming the future of AI and human interaction.
+What You’ll Be Doing
+- Decompose research questions into smaller, more manageable parts and tackle them in iterative steps.
+- Think critically to identify unseen gaps, and creatively bridge them with non-traditional, high-impact solutions.
+- Connect with researchers and product engineers to ground research findings in real-world problems.
+- Lead knowledge dissemination effort, with options for conference, journal, and in-house publication.
+What We Need To See
+- Currently pursuing a Ph.D. or equivalent academic program, demonstrated by a track record of research and publications.
+- Deep interest in gaming and/or human behavior in related application domains.
+- Training or systematic knowledge and skill in the field of Cognitive Science, Neuroscience, Computer Science/Engineering, Electrical Engineering, or related
+fields.
+- Proficiency with Python, Rust, and/or C++.
+- Experience with AI model training and evaluation frameworks, like PyTorch.
+Ways To Stand Out From The Crowd
+- Experience with quantitatively modeling human perception, cognition, movement, and/or decision-making.
+- Comfortable with modern software development, version-control systems, like git(hub/lab).
+- Experience with multi-node, multi-GPU training and inference workflows.
+- Familiarity with and interest in modern deep learning models, including working with large-scale, multi-modal foundation models (such as recent LLMs, VLMs).
+- Demonstrated public portfolio (e.g. repositories, OSS contributions, notebooks, packages, or technical blog posts with code).
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+38 USD - 94 USD.
+You will also be eligible for Intern benefits.
+Applications for this job will be accepted at least until October 16, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+, , JR2026499

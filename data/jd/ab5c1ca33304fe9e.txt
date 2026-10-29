@@ -1,0 +1,65 @@
+Role Overview
+ABS Global, a Genus Company, is seeking a Genetic Data Applications Intern to join our Dairy Product Development Team in DeForest, Wisconsin (greater Madison
+area). This internship offers a unique opportunity to work at the intersection of genetics, data, and business decision-making while collaborating with a team
+of PhD geneticists and data professionals. The intern will support the development, maintenance, and continuous improvement of applications, programs, and data
+pipelines that provide critical insights across our dairy business. Through hands-on experience with root cause analysis, data pipeline optimization,
+application enhancement, and data-driven decision-making, the intern will gain valuable exposure to real-world business challenges, process improvement
+initiatives, and cross-functional collaboration. This role is ideal for a highly analytical individual with an interest in data applications, quantitative
+analysis, and advancing genetic improvement through innovative technology solutions.
+In this position you will work 40 hours per week, typically during normal office hours, but times could range on a day-to-day basis.
+The hourly compensation range for this position is ($20 - $24) USD. The compensation provided is a good faith estimate representative of all experience levels.
+Genus considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work
+experience, location, education/training, and key skills.
+This position will close for applications on November 15th.
+You Will
+You will:
+- Use various statistical and analytic tools to complete data mining, data pipeline development, and data analysis.
+- Conduct experiment design and/or investigate new models and methods.
+- Generate information to inform genetic strategies, genetic program development, and custom genetic indices in support of advances within the ABS proprietary
+genetic program.
+- Uphold the Genus core values, mission, and vision.
+- Position may require working outside of normal business hours.
+- Perform other projects and responsibilities as assigned.
+Requirements
+Basic Qualifications: (required)
+- MS or PhD student in Animal Science, Plant Science, Quantitative Genetics, Statistics, Data Science, or related field, required
+- Strong analytical skills, familiarity with statistical packages (R, Python, etc.), and preferred experience with scripting or programming tools
+- Available for at least 12 weeks during the summer
+- Authorized to work in the U.S. without sponsorship
+Preferred Qualifications:
+- Experience with genetic/genomic data, bioinformatics, estimating breeding values, and/or breeding index development.
+- Direct agricultural experience (plant or animal).
+- Strong interest in genetic data analysis, using data to develop on-farm genetic strategies, genetic program development, and custom genetic indices.
+Business Overview
+Genus is an agricultural biotechnology pioneer. We are a global FTSE 250 company, headquartered in the UK, and listed on the London Stock Exchange. Genus PLC
+has a presence in over 70 countries and a global workforce of over 3,000 employees and growing. We are a worldwide leader in porcine and bovine animal genetics,
+partnering with farmers to transform how we nourish the world – a mission that is important to a sustainable future.
+Our vision is clear: Pioneering animal genetic improvement to sustainably nourish the world.
+Our Values
+Collaborate as One Team
+Create Value for Customers
+Innovate with Purpose
+Never stop improving
+ABS Global is a Genus company and is the world-leading provider of bovine genetics, reproductive services, technologies and udder care products. Marketing in
+more than 70 countries around the globe, ABS has been at the forefront of animal genetics and technology since its founding in 1941. We are uniquely positioned
+as a global player with a dedicated research and development function and an international distribution network. We breed and distribute the genes of the
+world’s best bulls, scientifically selecting livestock whose offspring is designed to increase the profitability of our customers who are some of the world’s
+biggest farmers and food producers. IntelliGen Technologies is the technology within ABS that develops sexed bovine genetics that helps customers maximize their
+profitability and reach their end goals in a fast and efficient manner.
+Benefits Overview
+Internships at Genus are not eligible for benefits. However, we offer paid internships with competitive compensation. Permanent roles at Genus come with a
+comprehensive benefits package, including health, dental, vision, FSA/HSA, long and short-term disability, 401K, tuition reimbursement, paid holidays, and ETO
+(employee time off). Interns who excel in their roles are often considered for permanent positions after their internship.
+- Relocation stipend and Housing recommendations available if needed!
+- Two all-expenses paid trips to company headquarters (Madison, WI area) for North American Internship program engagement
+- Business Equipment for this role includes a Laptop and monitor desk set-up
+For more information on our student program, please visit- https://earlycareer.genusplc.com/
+Equal Employment Opportunities
+Genus is an equal opportunity employer. In accordance with anti-discrimination law, it is the purpose of this policy to effectuate these principles and
+mandates. Genus prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to
+race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information,
+protected veteran status, or any other characteristic protected by law. Genus conforms to the spirit as well as to the letter of all applicable laws and
+regulations.
+Recruitment Fraud Warning
+Genus plc will never ask you to provide fees or payment for computer, software, or other equipment or supplies during the recruitment and/or onboarding process.
+If you have any questions about your individual application, please contact the Genus Talent Acquisition team at recruiting@genusplc.com .

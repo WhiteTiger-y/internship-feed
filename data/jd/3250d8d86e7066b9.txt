@@ -1,0 +1,37 @@
+At Regeneron, we use science and innovation to develop life-changing medicines for people with serious diseases. Regeneron is currently seeking multiple 2027
+Interns in AI/ML & Data Engineering teams. These teams build the AI tools, data pipelines, and machine learning systems that help Regeneron develop medicines
+faster and reduce manual work. These positions offer the opportunity to contribute to a fast-growing, science-driven organization making a meaningful difference
+to patients worldwide.    When & where: Location: Tarrytown, NY / Warren, NJ / Armonk, NY / Cambridge, MA / Sleepy Hollow, NY Timeframe: Our internship
+positions are full-time from May/June-August; most are onsite, and some roles are hybrid Pay: Intern and Co-op pay ranges are determined by level of education
+(year in school) and degree program. The hourly rate range for these locations is: $17.90-$50.90 per hour.   What you'll do: Build and test AI solutions that
+are used on real systems — not shadow projects. Projects may include building AI agents and LLM-powered applications, mining text with natural language
+processing, building and modernizing data pipelines and semantic data models, evaluating and validating AI tools and models, and automating routine workflows
+with AI-assisted coding tools. Expect hands-on software and data engineering, working with scientists and business teams to understand the problem, and
+responsible, well-governed use of AI. Python, SQL, and software engineering fundamentals are typically expected, along with familiarity with LLM prompting or
+machine learning packages. Several projects are better suited to master's students. Relevant majors: Computer Science, Data Science, Statistics, Bioinformatics,
+Information Technology, Mathematics, Biomedical Engineering Let's find out if we're a fit: Demonstrated leadership in areas such as campus activities, clubs,
+sports, current or previous work, or within the community preferred Must be enrolled in, or accepted to, an academic program pursuing an Undergraduate or
+Graduate degree (and be returning to school the semester following the position or graduating after the position) Cumulative GPA of 3.0 or higher preferred Does
+this sound like you? Apply now to take your first step towards living the Regeneron Way! We are committed to building a workplace with an inclusive culture.
+Regeneron is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion or
+belief (or lack thereof), sex, sexual orientation, gender identity or expression, gender reassignment, marital or civil partnership status, civil status,
+pregnancy or parental status, age, disability, nationality, citizenship status, ethnic or national origin, membership of the Traveler community, familial
+status, genetic information, military or veteran status, or any other characteristic protected under applicable law. Where required, we will provide reasonable
+accommodation to applicants with known disabilities or chronic illnesses during the recruitment process, unless such accommodation would impose undue hardship.
+Where necessary, we disclose salary ranges for roles in all countries in which we operate. The final offer will be determined within the relevant range based on
+the country of employment, specific role level, and your skills and experience. In some countries, collective bargaining agreements (CBAs) may apply and
+influence certain elements of pay or benefits. Regeneron offers a competitive and comprehensive total rewards package which may include, depending on country
+and role: annual bonuses or other incentive plans, equity awards, pension or retirement benefits, 401(k) company match, health and wellness programs, fitness
+centers, insurance benefits (e.g. medical, dental, vision, life and disability), paid time off, and family support benefits. For additional information about
+Regeneron benefits in the U.S., please visit https://careers.regeneron.com/en/working-at-regeneron/total-rewards/. For other locations, additional information
+will be provided during the recruitment process. If you have any questions, please speak with your recruiter. Please be advised that at Regeneron, we believe we
+do our best work when we are together. For that reason, many roles are required to be performed on‑site. Please speak with your recruiter and hiring manager for
+more information about on‑site expectations for your role and location. As part of the recruitment process, certain background checks may be conducted in
+accordance with the laws of the country where the position is based. The purpose of such checks is to verify certain information prior to the commencement of
+employment such as identity, right to work and educational qualifications. For jobs in Canada: this posting is for an existing position. Regeneron is a leading
+biotechnology company that invents life-transforming medicines for people with serious diseases. Founded and led for over 30 years by physician-scientists, our
+unique ability to repeatedly and consistently translate science into medicine has led to nine FDA-approved treatments and numerous product candidates in
+development, almost all of which were homegrown in our laboratories. Our medicines and pipeline are designed to help patients with eye diseases, allergic and
+inflammatory diseases, cancer, cardiovascular and metabolic diseases, neurology, infectious diseases and rare diseases. Regeneron is also proud of award winning
+culture of innovation, being recognized as a Great Place to Work in 2021, Fast Company’s Best Workplace for Innovators in 2020, and Forbes JUST companies in
+2020, among others.

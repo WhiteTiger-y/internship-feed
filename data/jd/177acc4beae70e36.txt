@@ -1,0 +1,118 @@
+Job Application for Operations Summer Intern at SoundExchange
+Back to jobs
+Operations Summer Intern
+Washington, DC
+Apply
+Title: Operations/Royalty Processing & Business Intelligence Summer Intern
+Department: Operations
+Job Location: Washington, DC (Hybrid: in office Tuesdays & Wednesdays)
+Position Summary
+SoundExchange 2027 Summer Internship Program
+We’re SoundExchange, and we’re on a mission to efficiently collect and distribute royalties, advocate on behalf of creators, and develop trusted business
+solutions for the music industry. Why? Because we love music and we value the people behind it.
+If you’re as passionate about music and championing creators as we are, we want you to join the band! SoundExchange offers a robust 10‐week paid internship
+program each summer for talented, motivated students to work in our Washington, DC office. The program is designed to expand exposure to the music tech industry
+and provide relevant and practical work experience in an area of interest.
+As a SoundExchange intern, we’ll welcome you as an integral member of our dedicated and diverse team. You will have the unique opportunity to take on roles
+similar to those of a full‐time hire and dive into projects that contribute to the organization’s mission while growing your skills, forging new professional
+relationships, and enhancing your resume.
+Program Highlights & Details
+- $20.00 per hour
+- One‐time taxable stipend of $2,000.00 to assist with housing and transportation
+- 35‐40 hours per week
+- Flexibility to work hybrid (two days, Tues and Weds on‐site required)
+- Participate in a comprehensive educational series and engage with various SoundExchange leaders across the organization
+- Build your network with your fellow interns and SoundExchange staff
+Internship Key Dates
+- Program dates: Approximately June 1, 2027 – August 6, 2027
+- Deadline: All applications must be received no later than November 7th, 2026
+- Internship interviews: September 2026 ‐ November 2026
+- Selection & Notification: December 2026
+What To Expect As an Operations/Royalty Processing & Business Intelligence Intern
+- BI Analytics Potential Work: Move queries that previously went off staging tables to use the new Datamart tables developed by DW. The intern will learn about
+staging vs datamart tables and how ETLs transform data.
+- BI Engineer Potential Work: Develop a DV Report that helps track BI Report Usage and flags any reports that have not been used recently. The intern will learn
+BI Development and governance skills.
+- Data Mining Potential Work: We need help getting results of data mining exercises into confluence so we have documentation and can use in the future. The
+intern will learn about what goes into data mining and skills on technical documentation.
+- All interns are required to give a presentation at the conclusion of their internship
+Eligibility & Requirements
+- Personify SoundExchange’s Core Values (Driving Excellence, Integrity In All That We Do, Championing Creators, Respect Why We’re Here, Teamwork That Empowers)
+- Demonstrate inclusivity, advocacy, and appreciation for diversity in personal, academic, or professional experiences
+- Thrive in a fast‐paced environment
+- Resourceful, have great attention to detail, highly organized
+- Ability to collaborate well with others and tackle challenges enthusiastically
+- Sharp written and verbal communication skills
+- Be 18 years of age or older on or before the first day of the internship program
+- Undergraduates preferred (heading into your junior or senior year is also preferred); graduate students may still apply
+- Be enrolled in a degree‐seeking program in an accredited college or university (with a minimum 3.0 GPA), or be a student at a relevant professional boot camp
+or advanced educational program
+To be considered for this exciting opportunity, attach your cover letter, most recent transcript, and resumé .
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Email *
+Phone Country *
+Phone *
+Location (City) *
+Locate me
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Degree * Select...
+Discipline * Select...
+Start date month Select...
+Start date year
+End date month Select...
+End date year
+Add another
+Current Address *
+City *
+State * Select...
+Zip Code *
+Website
+LinkedIn Profile
+Please list any current professional certifications
+If not applicable, please type N/A.
+Are you legally eligible for employment in the United States? * Select...
+Do you now, or will you in the future, require sponsorship from an employer in order to obtain, extend or renew your authorization to work in the United States?
+* Select...
+Will your school require F1 - CPT (Curricular Practical Training) documentation? * Select...
+Will you be 18 years of age or older on or before the first day of the internship program? * Select...
+Have you ever been employed by our organization? * Select...
+How did you hear about this opening? * Select...
+If you selected "Referral", "Another Job Board" or "Other" in your previous response please provide details here.
+What is your classification? * Select...
+Please enter your GPA: *
+Please select a secondary department you may be interested in interning in if we cannot place you with your first choice. * Select...
+Please upload a copy of your transcript (unofficial transcripts will be accepted). *
+Attach Attach
+Dropbox
+Google Drive
+Accepted file types: pdf, doc, docx, txt, rtf
+Have you ever been discharged or asked to resign from a job? * Select...
+Have you ever served in the U.S. Armed Forces? If yes, list duties in the service including special training that is relevant to the position for which you are
+applying. *
+PLEASE READ CAREFULLY BEFORE SIGNING *
+The information that I have provided is true and complete to the best of my knowledge. I understand that any misrepresentation or material omission made by me
+on this application will be sufficient cause for cancellation of this application or immediate termination of employment if I am employed, whenever it may be
+discovered. If I am employed, I acknowledge that there is no specified length of employment and that this application does not constitute an agreement or
+contract for employment. Accordingly, either SoundExchange or I can terminate the relationship at will, with or without cause, at any time, so long as there is
+no violation of applicable federal or state law.
+I hereby authorize SoundExchange to contact, obtain, and verify the accuracy of information contained in this application from all previous employers,
+educational institutions, background and references. I also hereby release from liability SoundExchange and its directors, employees and agents from all
+liability for any claims arising from its or their for seekin

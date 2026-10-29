@@ -1,0 +1,41 @@
+Riverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical
+services, research and development, and prototype solutions to some of the country’s most challenging technical problems.
+All Riverside Research opportunities require U.S. Citizenship.
+Position Overview
+The Secure and Resilient Systems group seeks a Formal Methods Research Intern to support the specification and verification of systems-level software. This role
+offers the opportunity to work alongside a team of experienced computer scientists and cybersecurity professionals on cutting-edge research initiatives.
+This position will focus on establishing meaningful cyber and systems security properties. Throughout the internship, you will gain hands-on experience with and
+develop a deep understanding of formal methods, building valuable skills in secure systems development.
+This position can be located in either Lexington, MA or Beavercreek, OH and is for the summer of 2027.
+Responsibilities
+- Develop technical fluency in formal methods for cyber and system security
+- Build specifications/proofs in proof assistants like Rocq and Lean
+- Build tools/capabilities in programming languages like Rust and OCaml
+- Document and communicate design decisions, technical challenges, and progress to technical management
+- Collaborate with team members on all aspects of formal methods research, identifying machine-checkable properties of interest, developing and applying tools
+to check such properties, verifying such tools, reviewing papers/proposals, etc.
+Qualifications
+Required Qualifications
+- Enrolled in an undergraduate or graduate program in Computer Science, Computer Security, Formal Methods, Automated Reasoning, or related major
+- Ability to work collaboratively on speculative research projects
+- Experience with functional and imperative programming
+- Exposure to programming language concepts, definitions, and implementations (type systems, operational semantics, interpreters, compilers, etc.)
+- Exposure to Linux or Unix-like systems
+- Excellent written and verbal communication skills
+- Able to obtain a clearance in the future if needed.
+Desired Qualifications
+- Experience with Rocq, Lean, or similar proof assistant
+- Exposure to the Rust programming language
+- Exposure to proof techniques (progress and preservation, logical relations, separation logic, refinement, translation validation, symbolic execution, etc.)
+- Foundational knowledge of cybersecurity principles (non-interference, robust property preservation, etc.)
+- Experience with version control or other software collaboration tools
+- Superior written and verbal communication skills
+Global Comp
+$25.00/hr- $35.00 This represents the typical compensation range for this position based on experience, location and other factors.
+Closing Statement
+Riverside Research Institute is a not-for-profit, technology-oriented defense company, where service to our customers and support of our staff is our overall
+mission. Riverside is an affirmative action-equal opportunity employer and complies with all applicable federal, state, and local laws regarding recruitment and
+hiring. Riverside offers comprehensive compensation and benefit packages to our employees.
+Riverside bases its employment decisions solely on technical experience, qualifications and other job-related criteria related to our organizational purpose as
+a not-for-profit company, and without regard to race, color, religion, age, sex marital status, sexual orientation, national origin, physical or mental
+disability, veteran’s status or any other status legally protected by applicable federal, state, and local law.

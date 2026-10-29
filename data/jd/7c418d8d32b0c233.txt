@@ -1,0 +1,59 @@
+15000 Valmont Plaza Omaha Nebraska 68154
+Why Valmont
+We’re Here to Move the World Forward.
+Valmont impacts millions of people around the world every day, yet they might not realize the many ways. Our technology is helping feed the growing population,
+supplying the world with more reliable energy and access to renewables, enhancing connectivity in remote and urban locations to create a sustainable future and
+so much more. Simply put, Valmont is advancing agricultural productivity and reimagining vital infrastructure to make life better.
+Join a Fortune 1000 company that respects hard work, honors diversity and invests in our employees as we focus on creating the world of tomorrow, today. We are
+the modern workforce. Are you ready to move the world forward? Apply now.
+Location: Omaha, NE | Start Date: Spring 2027
+A Brief Summary Of This Position
+At Valmont, we believe a career here is a career with a future! As a global leader in agriculture and infrastructure, we design solutions that help our
+customers grow smarter and work more efficiently.
+As an AI and Data Engineering Intern within Valmont’s Agriculture Division Software Engineering Department, you’ll play an important role in advancing data-
+driven decision-making and irrigation optimization. You’ll gain hands-on experience working with cloud-based data systems, developing predictive models, and
+collaborating with engineering and product teams to deliver impactful data insights.
+Valmont’s internship program provides a hands-on learning experience through project work, leadership development, job shadowing, and interaction with senior
+leaders across the company.
+What You’ll Do
+- Extract, clean, and preprocess data from Azure-based databases
+- Perform exploratory data analysis (EDA) to identify trends, anomalies, and opportunities
+- Engineer features for predictive modeling and decision-making
+- Develop and evaluate machine learning models to support irrigation optimization
+- Document methodologies, findings, and present insights to key stakeholders
+- Collaborate with engineering and product teams to integrate data solutions
+- Identify data quality issues and propose process improvements
+What We’re Looking For
+- Junior, Senior, or recent graduate pursuing a degree in Data Science, Computer Science, Statistics, Engineering, or a related field
+- Proficiency in SQL for data extraction and manipulation
+- Strong programming skills in Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn)
+- Familiarity with cloud platforms such as Microsoft Azure
+- Strong experience in data cleaning, feature engineering, and model development, with the ability to interpret data, solve problems analytically, and translate
+findings into actionable insights
+- Experience working with time-series or sensor data, particularly in agriculture or environmental contexts, is preferred
+- Familiarity with geospatial analysis tools such as GeoPandas or QGIS is preferred
+- Understanding of precision agriculture, irrigation systems, or agronomy preferred
+- Exposure to MLOps practices and deploying machine learning models in production environments is preferred
+- Experience with dashboarding and data visualization tools like Power BI, Tableau, or Plotly Dash preferred
+- Ability to work in the office, either Tuesday or Thursday
+What You’ll Gain
+- Paid internship with meaningful, career-related work experience
+- Tuition assistance and other benefits available based on hours worked
+- Part-time during the academic year, full-time and flexible in the summer, with potential for a full-time position post-graduation
+- A supportive culture focused on learning and growth
+- Opportunities to collaborate with intern peers and company leaders
+Benefits
+Valmont offers employees and their families a comprehensive Total Wellbeing benefit package to ensure their individual and family’s overall wellness needs are
+met. Some offerings are dependent upon the role, work schedule, or location and can include the following:
+- Healthcare (medical, prescription drugs, dental and vision)
+- 401k retirement plan with company match
+- Paid time off
+- Employer paid life insurance
+- Employer paid short-term and long-term disability including maternity leave
+- Work Life Support
+- Tuition Reimbursement up to $5,250 per year
+- Voluntary programs like tobacco cessation, Type 2 diabetes reversal, one-on-one health coaching, mortgage services and more
+Valmont does not discriminate against any employee or applicant in employment opportunities or practices on the basis of race, color, religion, sex, sexual
+orientation, gender identity, national origin, age, genetic information, veteran status, disability or any other characteristic protected by law. Reasonable
+accommodation may be made to enable individuals with disabilities to perform the essential functions.
+If you have a disability and require any assistance in filling out the application for employment email EEOCompliance@Valmont.com.

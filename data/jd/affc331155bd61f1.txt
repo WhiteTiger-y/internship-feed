@@ -1,0 +1,52 @@
+Data Scientist Intern
+- Intern
+Company Description
+About Syngenta
+At Syngenta Vegetables and Flowers, we're cultivating tomorrow's variety through innovative breeding that brings vibrant colors to gardens and nutritious
+vegetables to tables worldwide. We combine centuries of seed heritage with cutting-edge innovation to develop resilient, high-performing varieties that thrive
+in varied climates. Join us in shaping the future of sustainable horticulture, where every seed holds the potential to enhance lives through better nutrition
+and natural beauty.
+Job Description
+At Syngenta, our goal is to build the most collaborative and trustworthy team in agriculture, providing top-quality seeds and innovative crop protection
+solutions that improve farmers' success. We invite you to help shape the future of agriculture and play a role in safely feeding the world while caring for our
+planet.
+Syngenta's Vegetables R&D team is seeking a Data Scientist Intern in Raleigh, NC. This summer intern will work on cutting-edge projects developing ML models for
+data-driven recommendations to support product advancement and placement decisions.
+As part of Syngenta's Emerging Talent Program, you will gain hands-on experience, exposure to day-to-day business operations, and opportunities to apply your
+academic knowledge to real-world challenges while developing your professional skills.
+Estimated Duration: May 2027– August 2027
+Accountabilities
+- Collaborate with data scientists on the product advancement and placement analytics team for research initiatives.
+- Gather, transform, and process large structured and unstructured datasets for model training.
+- Develop methodologies to integrate and analyze varied data types.
+- Develop and validate different ML models for placement predictions.
+- Document research findings, model limitations, and strategic recommendations for future development.
+Qualifications
+Required
+- PhD candidate in data science, quantitative genetics, computer science or related field.
+- Demonstrated experience in AI/ML model development and evaluation.
+- Proven ability to handle large, complex datasets efficiently.
+- Strong programming skills in Python (preferred) and other relevant languages.
+- Hands-on experience with R&D data, such as genetic data, phenotypic trial data, or environmental data, etc.
+Desired
+- Good written and oral communication skills with a proactive, collaborative approach.
+- Proven ability to work effectively in cross-functional teams.
+- Strong analytical curiosity with ability to investigate complex problems and deliver innovative solutions.
+Additional Information
+Salary for this position ranges between $20 - $45 hourly.
+What We Offer:
+- A culture that celebrates belonging and collaboration, promotes professional development and strives for a work-life balance that supports the team members.
+- ⁠Competitive wages.
+- Ongoing career development resources.
+- The opportunity to work on meaningful, innovative projects that solve problems.
+Syngenta is committed to creating a culture that celebrates belonging and collaboration, promotes professional development, and strives for a work-life balance
+that supports the team members
+Syngenta has been ranked as a top employer by Science Journal. Learn more about our team and our mission here: https://www.youtube.com/watch?v=OVCN_51GbNI
+Syngenta is an Equal Opportunity Employer and does not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of
+race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.
+#LI-DNI
+By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party
+website's terms and privacy policy apply
+I'm interested I'm interested
+Privacy Notice
+I'm interested Refer a friend

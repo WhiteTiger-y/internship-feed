@@ -1,0 +1,67 @@
+The undergraduate research intern in HED and IFE project supports a research effort to develop a laser-driven alpha-particle source for investigating charged-
+particle transport and energy deposition in high-energy-density plasmas. The intern will work with a multidisciplinary research team to model the transport and
+energy selection of laser-driven alpha particles. Using Monte Carlo particle-transport simulations, the intern will investigate how particle energy, energy
+spread, divergence, source size, and selector geometry affect energy resolution and transmission efficiency. The student will contribute to the development and
+optimization of an advanced alpha-particle selector and help establish design requirements for future experiments. In addition, the student will have an
+opportunity to participate in a hands-on experiment at a world-class petawatt laser facility. This work is relevant to inertial fusion energy, plasma physics,
+particle-beam transport, and diagnostic development.
+A U.S. Department of Energy National Laboratory managed by Princeton University, the Princeton Plasma Physics Laboratory (PPPL) is tackling the world’s toughest
+science and technology challenges using plasma, the fourth state of matter. With more than 75 years of history, PPPL is a leader in the science and engineering
+behind the development of fusion energy, a potentially limitless energy source. PPPL is also using its expertise to advance research in the areas of
+microelectronics, quantum sensors and devices, and sustainability sciences. Whether it be through science, engineering, technology or professional services,
+every team member has an opportunity to contribute to our mission and vision. Come join us!
+Responsibilities
+The key responsibilities for this position will be:
+- Conduct Monte Carlo simulations of alpha particle transport through magnetic energy- selection systems
+- Model the effects of particle energy, energy spread, divergence, source size, and charge state on selector performance.
+- Evaluate key performance parameters, including energy resolution, transmission efficiency, particle losses, and temporal dispersion.
+- Participate in a relevant experiment on alpha particle generation and selection at international laser user facility.
+- Analyze simulation results and compare them with analytical estimates and available experimental data
+- Support the development and optimization of an advanced alpha particle selector design.
+- Perform parameter scans to determine how selector geometry and field configuration affect particle trajectories and energy selection
+- Participate in regular research meetings and collaborate with members of the experimental and computational teams.
+- Present research progress and results through technical presentations and a written final report.
+Qualifications
+Education and Experience:
+- Must be an undergraduate student
+Knowledge, Skills And Abilities (including Unique Software/hardware Requirements)
+- Undergraduate coursework in physics, engineering, applied mathematics, or computer science.
+- Basic understanding of classical mechanics and electromagnetism.
+3, Experience with scientific programming in Python, MATLAB, C++, or a similar
+language.
+- Ability to analyze numerical data and create clear scientific plots
+- Ability to work both independently and collaboratively within a research team.
+- Prior experience with Monte Carlo methods, particle-transport software, or CAD tools is helpful but not required
+Princeton University is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to age, race, color,
+religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic
+protected by law.
+The University considers factors such as (but not limited to) scope and responsibilities of the position, candidate's qualifications, work experience,
+education/training, key skills, market, collective bargaining agreements as applicable, and organizational considerations when extending an offer. The posted
+salary range represents the University's good faith and reasonable estimate for a full-time position; salaries for part-time positions are pro-rated
+accordingly.
+If the salary range on the posted position shows an hourly rate, this is the baseline; the actual hourly rate may be higher, depending on the position and
+factors listed above.
+The University also offers a comprehensive benefit program to eligible employees. Please see this link for more information.
+Please be aware that the Department of Energy (DOE) prohibits DOE employees and contractors from participation in certain foreign government talent recruitment
+programs. All PPPL employees are required to disclose any participation in a foreign government talent recruitment program and may be required to withdraw from
+such programs to remain employed under the DOE Contract.
+Standard Weekly Hours
+40.00
+Eligible for Overtime
+Yes
+Benefits Eligible
+No
+Probationary Period
+N/A
+Essential Services Personnel (see Policy For Detail)
+No
+Estimated Appointment End Date
+1/29/2027
+Comments Related to End Date
+This is a 2-month internship
+Physical Capacity Exam Required
+No
+Valid Driver's License Required
+No
+Salary Range
+$23 to $23

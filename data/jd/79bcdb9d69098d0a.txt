@@ -1,0 +1,42 @@
+About Marvell Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud
+and AI, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the arc of individual lives, lift the
+trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation,
+above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Your Team, Your Impact Marvell’s Compute and Custom Solutions (CCS)
+organization is seeking a talented Data Scientist Intern to join our Business Automation team. Our team applies data science, AI, and intelligent automation to
+improve business processes, increase efficiency, and enable better data-driven decision-making across CCS. We partner with business and technical teams to
+analyze data, develop predictive capabilities, and create innovative solutions to real-world business challenges. What You Can Expect As an intern, you will
+contribute directly to a data science project focused on transforming historical business data into predictive insights. You can also expect to: Clean and
+prepare historical business data for analysis and machine learning, identifying and resolving data quality issues, inconsistencies, and missing values. Analyze
+historical datasets to identify trends, relationships, outliers, and features that may contribute to predictive performance. Develop and train machine learning
+models using Python and established data science libraries to predict business outcomes based on historical data. Evaluate and compare modeling approaches using
+appropriate statistical and machine learning techniques to assess accuracy and reliability. Document and present the methodology, model performance, findings,
+and recommendations to the Business Automation team and business stakeholders. What We're Looking For Minimum Requirements: Currently pursuing a Bachelor’s
+Degree in Data Science, Computer Science, Statistics, Applied Mathematics, or a related field, with an expected graduation date between Fall 2027 and Summer
+2028. Proficiency in Python for data processing, analysis, and machine learning, including experience with libraries such as pandas, NumPy, and scikit-learn.
+Strong foundation in statistics, exploratory data analysis, feature engineering, and machine learning fundamentals. Experience working with structured datasets
+and using SQL to query, manipulate, and analyze data. Ability to analyze technical results and clearly communicate findings to both technical and non-technical
+audiences. Preferred Requirements: Experience developing and evaluating predictive models using techniques such as regression, classification, decision trees,
+random forests, or gradient boosting. Experience developing and evaluating predictive models using modern and classical techniques such as LLM inference,
+embedding models, SVM, or XGBoost. Familiarity with Git or similar source-control and collaborative development tools. Prior academic, research, or project
+experience using real-world datasets to develop machine learning or predictive analytics solutions. Expected Base Pay Range (USD) 29 - 57, $ per hour. The
+successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The
+expected base pay range for this role may be modified based on market conditions. Additional Compensation and Benefit Elements Marvell is committed to providing
+exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our
+offerings are built around four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns:
+medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional
+compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview process. All qualified applicants will
+receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected
+veteran status. Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com.
+Interview Integrity To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer
+generators like ChatGPT or Copilot, or automated note-taking bots) during interviews. These tools must not be used to record, assist with, or enhance responses
+in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without
+prior instruction from the interviewer will result in disqualification from the hiring process. This position may require access to technology and/or software
+subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access
+export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce
+and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all
+applicants may be subject to an export license review process prior to employment. #LI-JY1 Join our talent community to hear about company news, job openings
+and events. Join our Talent Community! Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world.
+Across enterprise, cloud and AI, automotive, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the
+arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on
+purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Recruitment fraud is a well-known way that
+third parties try to get personal information or to steal money from you. Please review Marvell’s guidance here to learn more on how you can protect yourself.

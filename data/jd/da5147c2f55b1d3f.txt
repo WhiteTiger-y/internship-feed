@@ -1,0 +1,54 @@
+Join Vylor—Powering the Future of Agriculture
+At Vylor, we’re advancing agriculture through breakthrough science—combining elite germplasm, cutting-edge biotech, and next-generation expertise in gene
+editing and molecular breeding. Our portfolio includes trusted industry brands like Pioneer®, Brevant®, and Hoegemeyer®, delivering performance farmers rely on.
+Join us to help scale innovation globally and shape what’s next in crop science.
+Vylor is seeking a motivated Digital Agriculture & AI Integration Intern to support strategic digital-transformation initiatives across global seed production
+and agricultural operations. Working with regional field teams, agronomy and data partners, and global seed production support teams, the intern will help
+coordinate digitization projects, organize approved knowledge resources for internal AI tools, and validate digital insights for field use.
+This internship offers hands-on experience in project coordination, stakeholder engagement, data quality, responsible AI enablement, and digital-tool validation
+within a global agricultural business.
+Duration: Six months preferred; qualified candidates available for a three-month summer internship may also be considered.
+Key Responsibilities
+Digital Project Coordination and Feasibility
+- Support project scoping, requirements gathering, and documentation for regional digitization efforts
+- Assist in evaluating the use and effectiveness of current digital tools, such as SCiO moisture sensors, and help assess their potential scalability
+- Coordinate with regional field teams, global support teams, and approved technology partners to clarify integration pathways and internal-system requirements
+- Track actions, risks, decisions, and project progress, and communicate updates to key stakeholders
+AI Knowledge Preparation and Validation
+- Collect, organize, and curate approved standard operating procedures, training materials, and product information for potential use by internal large language
+model (LLM) and AI tools
+- Support the development and testing of prompt-and-response approaches for internal Copilot and AI use cases
+- Evaluate AI-generated responses for accuracy, relevance, consistency, and alignment with approved source materials
+- Document gaps, errors, and improvement opportunities while following Vylor's data-governance, privacy, information-security, and responsible-AI requirements
+Field-Tool Validation and Insight Enablement
+- Collaborate with agronomy, field, and data teams to evaluate insights from internal digital platforms, remote sensing, and weather and soil data
+- Support field teams in assessing irrigation insights and validating digital monitoring methods against field observations
+- Help improve dashboards and reporting by identifying missing data, inconsistencies, outliers, and opportunities to improve usability
+- Summarize findings and communicate practical recommendations to technical and nontechnical stakeholders
+Qualifications
+Required
+- Currently pursuing a bachelor's degree in agricultural engineering, data science, agronomy, computer science, information systems, agricultural systems
+technology, or a related field
+- Minimum 3.0 cumulative GPA
+- Strong interest in digital agriculture, artificial intelligence, data integration, or agricultural technology
+- Strong written and verbal communication skills, with the ability to work across technical and nontechnical teams
+- Demonstrated organization, attention to detail, critical thinking, and problem-solving skills
+- Ability to handle company information responsibly and follow established data, privacy, and information-security requirements
+Preferred
+- Experience with Microsoft Excel, Power BI, or similar data-analysis and visualization tools
+- Basic scripting or data-analysis experience using Python, R, SQL, or a comparable language
+- Exposure to agricultural field operations, remote sensing, geographic information systems (GIS), irrigation, or environmental data
+- Familiarity with generative AI, prompt development, data curation, or evaluating AI-generated outputs
+What You Will Gain
+- Exposure to global digital-agriculture and seed-production strategies
+- Practical experience supporting responsible AI use cases, knowledge preparation, and data governance
+- Understanding of field operations, irrigation strategies, agronomic data, and digital monitoring tools
+- Experience coordinating projects and communicating with regional and global stakeholders
+- Opportunities to strengthen data-analysis, digital-tool validation, and professional communication skills
+Join Vylor to help connect agricultural knowledge, field insights, data, and emerging technology in ways that support better decisions across global seed
+production.
+Are you a good match? Apply today! We seek applicants from all backgrounds to ensure we get the best, most creative talent on our team.
+Vylor is an equal opportunity employer. We are committed to embracing our differences to enrich lives, advance innovation, and boost company performance.
+Qualified applicants will be considered without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national
+origin, age, military or veteran status, pregnancy related conditions (including pregnancy, childbirth, or related medical conditions), disability or any other
+protected status in accordance with federal, state, or local laws.

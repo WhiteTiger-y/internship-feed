@@ -1,0 +1,55 @@
+Job Application for 2027 Enterprise AI Intern at Schonfeld
+New
+2027 Enterprise AI Intern
+New York, New York, United States
+Apply
+The Role
+We are seeking an exceptional AI Enablement intern to join our Enterprise AI team in the New York City metro area, where they will own a backlog of prioritized
+use case solutions and deliver them end to end - from requirements gathering with business stakeholders through solution design, build, testing, rollout and
+adoption tracking. You will work hands-on with the business teams who use what you build, partnering with our Platform & Tools function to build on the firm's
+shared AI infrastructure rather than reinventing it. This is a conversion-track role: strong performers are considered for a full-time offer at the conclusion
+of the program.
+What You’ll Do
+You will own a backlog of prioritized AI use cases and take each one from idea to adoption. That means sitting down with business stakeholders to gather and
+sharpen requirements, designing a solution that fits the problem, building and testing it, rolling it out to users, and tracking adoption and impact after
+launch so we know what is actually working. You will partner closely with our Platform & Tools function, building on the firm's shared services, APIs, SDKs and
+evaluation tooling, and feeding back what your use cases need from that platform.
+You will collaborate with senior team members to learn what it takes to deliver AI solutions that stick in a fast-paced, technology-driven investment
+environment. Additionally, you'll get the opportunity to network and socialize with peers throughout the internship.
+What You’ll Bring
+What you need:
+- A Bachelor’s, Master’s, or PhD degree in a technical field such as computer science, statistics, mathematics, physics, or electrical engineering (ideally with
+one year left in your academic program)
+- Excellent programming skills in Python, with Go, Java or TypeScript experience being a bonus
+- A working understanding of how LLM-based applications are built and operated (prompting, retrieval, agents, model APIs), and judgment about where they are and
+aren't the right solution
+- The ability to translate an ambiguous business problem into clear requirements and a scoped, deliverable solution
+- Excellent communication skills, with the confidence to work directly with non-technical business stakeholders and drive adoption of what you build
+- Creative problem-solving skills and a bias toward shipping working solutions end to end
+- Strong attention to detail
+We’d love if you had:
+- Previous financial industry experience although it is not required
+- Hands-on exposure to cloud platforms (e.g., AWS or Azure) and to building on shared internal services, APIs or SDKs
+- Experience delivering a project directly to end users, including gathering requirements, running testing and measuring usage after launch
+Our Internship
+Kick-start your career in finance with the Schonfeld Summer Internship! Over the course of 10 action-packed weeks, you will have the opportunity to build
+solutions that tackle real-world challenges and leave a lasting impact on the firm. As an intern, you’ll join a close-knit team that is ready to support your
+growth and accelerate your career. We will pair you with a dedicated manager and a mentor who’ll guide your development over the course of the internship and
+beyond. Throughout the program, you will have the chance to connect with senior leaders through a series of learning sessions, attend hands-on skills workshops,
+network at social events and get a behind-the-scenes look at how various functions power the firm. We’ll empower you to bring your ideas to life and make an
+impact.
+Who We Are
+Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and
+external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of
+experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical,
+Fundamental Equity and Discretionary Macro & Fixed Income.
+Our Culture
+At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with
+exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented,
+collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational
+offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote
+inclusion and purpose beyond the firm’s walls.
+The annual base pay for this role is expected to be between $100,000 and $110,000 which will be prorated based on internship start and end date. The expected
+base pay range is based on information at the time this post was generated. Actual compensation for the successful candidate will be determined based on a
+variety of factors such as skills, qualifications and experience and level of education.
+__PRESENT

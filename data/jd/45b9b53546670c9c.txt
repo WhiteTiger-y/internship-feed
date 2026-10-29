@@ -1,0 +1,66 @@
+What You Will Do
+Come join the brightest minds at the most innovative R&D facility supporting our national security! The Computing and Artificial Intelligence (CAI) Division is
+seeking graduate students looking for a challenging internship. As a CAI graduate student, we will provide you with a mentor, a challenging project, and an
+opportunity to present your work and progress to colleagues. The projects will vary depending on your skills and interests and the Laboratory's current needs.
+The CAI Graduate Student (GRA) Program offers paid summer and year-round internships for graduate students in a variety of Computer Science, Mathematics, and
+Statistics projects. The GRA program provides mentoring, hands-on technical experience, and professional development opportunities through a normalized work
+plan complementing the student's chosen area of study. You will work closely with one of four groups within the CAI Division.
+- Computational Physics and Methods conduct research in numerical methods and algorithms, physical model development, and software engineering.
+- Information Sciences engages in a wide variety of basic and applied research activities that are directly applicable to core needs.
+- Statistics provides statistical reasoning and rigor to multidisciplinary scientific investigation and the development, application, and communication of
+cutting-edge statistical sciences research.
+- Applied Computer Science is to be the vanguard for scientific simulations at extreme scale through the co-design of applications, algorithms, and
+architectures.
+What You Need
+Minimum Job Requirements:
+- Currently enrolled in an accredited graduate degree program in any Computer Science or Mathematics (or related) discipline.
+- Must be enrolled in at least 6 semester credit hours (or full-time equivalent).
+- Must currently have and maintain a cumulative GPA of at least 3.0 on a 4.0 scale (or equivalent).
+Desired Qualifications:
+- Computer programming (Python, C++, etc.) in support of scientific or engineering applications.
+- Application of advanced mathematical methods to develop models of physical phenomena.
+- Familiarity with cutting edge computational research in applications such as cybersecurity, artificial intelligence, machine learning, and quantum computing.
+- Demonstrated ability to communicate (verbal and written) well in a professional scientific context; and Commitment to achieving results in a complex social
+and organizational setting.
+Work Location: The work location for this position is onsite and located in Los Alamos, NM. All work locations are at the discretion of management.
+Note to Applicants:
+- A resume and current transcript, showing the above requirements, is required
+- Applicants must submit a comprehensive cover letter (2 pages or less) that addresses the job requirements of the position, if applicable the desired skills,
+and education eligibility.
+- Your letter or resume should provide contact information for 2-4 references who are familiar with your capabilities related to this job.
+Due to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China-including the special
+administrative regions of Hong Kong and Macau-as well as citizens of the Islamic Republic of Iran, the Democratic People's Republic of Korea (North Korea), and
+the Russian Federation, who are not Lawful Permanent Residents ("green card" holders) are prohibited from accessing facilities that support the mission,
+functions, and operations of national security laboratories and nuclear weapons production facilities, which includes Los Alamos National Laboratory.
+Where You Will Work
+Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on
+behalf of national security. Our generous benefits package includes:
+- PPO or High Deductible medical insurance with the same large nationwide network
+- Dental and vision insurance
+- Free basic life and disability insurance
+- Paid childbirth and parental leave
+- Award-winning 401(k) (6% matching plus 3.5% annually)
+- Learning opportunities and tuition assistance
+- Flexible schedules and time off (PTO and holidays)
+- Onsite gyms and wellness programs
+- Extensive relocation packages (outside a 50 mile radius)
+Additional Details
+Directive 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2. Please
+note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142.3A.
+No Clearance: Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that
+includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under
+federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre-offer.
+Internal Applicants: Regular appointment employees who have served the required period of continuous service in their current position are eligible to apply for
+posted jobs throughout the Laboratory. If an employee has not served the required period of continuous service, they may only apply for Laboratory jobs with the
+documented approval of their Division Leader. Please refer to Policy Policy P701 for applicant eligibility requirements.
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer. All employment practices are based on qualification and merit, without
+regard to protected categories such as race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation, marital status or
+spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the
+limits imposed by federal, state, and local laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with
+disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an
+accommodation, please send an email to applyhelp@lanl.gov or call (505)-664-6947.Instructions on How to Activate/Create a LANL Jobs Account:
+Follow the instructions below if you have ever had an employee Z number, been a contractor, or received Los Alamos Lab insurance coverage to activate your
+account:
+- Select the Click Here button if you have been employed with the Lab or received insurance coverage.
+- Please enter only your first and last name and current email address (an email with your 

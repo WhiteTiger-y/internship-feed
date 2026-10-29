@@ -1,0 +1,41 @@
+Meta AI is currently seeking Research Scientist interns. Our team creates spoken language technology to make it faster and easier for people to build community
+and connect with others around the world. We conduct product-motivated research in ML/AI and design, develop and deploy state-of-the-art algorithms to the rest
+of Meta. We work in all aspects of AI for speech and audio processing, with a primary focus on speech with large language models (LLM) to power various speech-
+LLM-based products. As a Research Scientist Intern, you will help us develop innovative models and algorithms and apply them to large-scale production speech
+tasks.Our teams at Meta AI offer twelve (12) to twenty-four (24) weeks long internships and we have various start dates throughout the year.
+Research Scientist Intern, AI Research - Speech & Audio (PhD) Responsibilities:
+- Perform research to advance the science and technology of intelligent machines.
+- Develop novel and accurate speech algorithms and systems, leveraging deep learning and machine learning on big data resources.
+- Contribute research that can be applied to Meta product development.
+- Analyze and improve efficiency, scalability, and stability of various deployed systems.
+- Collaborate with team members from prototyping to production.
+Minimum Qualifications:
+- Research and/or work experience in machine learning, deep learning, and speech technology
+- Experience in Python
+- Experience in deep learning frameworks (PyTorch, Tensorflow, etc)
+- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Proven track record of achieving results as demonstrated by grants, fellowships, patents, as well as first-authored publications at workshops or conferences
+such as Interspeech, ACL, ICASSP or similar
+- Experience working on speech LLMs
+- Experience manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+- Experience working and communicating cross functionally in a team environment
+- Intent to return to a degree-program after the completion of the internship/co-op
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

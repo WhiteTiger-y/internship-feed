@@ -1,0 +1,46 @@
+The Homeland Sensors and Analytics Group builds technology to counter threats to our critical infrastructure, land and maritime borders, transportation systems,
+military installations, and public places. We focus on the development and fielding of advanced sensors, AI and data analytics, and integrated human-machine
+decision making to help recognize and disrupt these threats. We often apply advanced machine learning or data science methods to convert raw data into
+actionable insights about the activities of threat actors, networks, or organizations. Our ultimate goal is to field solutions that significantly enhance the
+decision-making process of analysts and operators who secure the Homeland.
+Position Description
+The Homeland Sensors and Analytics group seeks summer research interns who are highly motivated by National Security or Homeland Security missions.
+Specifically, we are looking for students who are building their expertise in AI, machine learning, and data science, and would like to apply their skillset to
+practical problems with real-world impact. Selected interns will have an opportunity to work alongside experts in the fields of computer vision, machine
+learning, natural language processing, network and graph analytics, AI explainability, statistical models, software architectures, and autonomy. Candidate
+project assignments include AI-enabled surveillance video processing, automated threat recognition within RF imagery, and characterization of information flow
+over large-scale social media networks.
+Job Requirements
+- Current enrollment in a program working toward a BS, MS, or PhD degree in engineering, computer science, mathematics, statistics, information science, or
+related technical fields
+- Demonstrated effective organizational skills and ability to work independently and in a team environment
+- Ability to manage time and work toward deadlines
+- Openness to learning new skills
+- Familiarity with one or more programming languages (e.g., Python, C/C++)
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Learn more about the Summer Research Program at: https://www.ll.mit.edu/careers/student-opportunities/summer-research-program
+Compensation
+Hourly pay rates are based on the highest academic year or degree completed before the internship start date.
+Freshman year completed: $25.00/hour
+Sophomore year completed: $27.00/hour
+Junior year completed: $29.00/hour
+4th year of 5 year program completed, no degree conferred: $32.00/hour
+Bachelors completed: $34.50/hour
+Bachelors + 1, one year of graduate study completed: $36.50/hour
+Bachelors + 2, two years of graduate study completed: $38.00/hour
+MS completed: $39.00/hour
+MS + 1, one year of graduate study completed after the MS: $41.00/hour
+MS + 2, two years of graduate study completed after the MS: $42.50/hour
+MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43498

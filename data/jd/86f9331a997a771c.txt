@@ -1,0 +1,61 @@
+Job Location
+BOSTON GO & TECH CENTER
+Job Description
+Research and Development (R&D) at Procter & Gamble, the largest consumer packaged goods company in the world, includes a diverse group of roles that contribute
+to the innovation and development of our products. It encompasses roles in product research, formulation, testing, and scientific analysis. You will find
+variety and excitement starting Day 1.
+This internship is specifically designed for individuals working towards a PhD who are developing proficiency in their field. As an intern or co-op in
+management, you will have the opportunity to learn from experienced professionals in a supportive environment. This is a 12-week paid internship, designed to
+provide you with a solid foundation for future career growth. The internship will take place from May (potentially early June) to August of 2027. Join us at
+P&G, where your contributions will play a vital role in shaping the future of consumer products!
+The Opportunity:
+P&G has an opportunity for a PhD intern to work in the Grooming Research & Development business to develop innovative new solutions at the intersection of Data
+Science, Generative AI and Cognitive Science. The work will focus on understanding how consumers perceive changes in their skin and hair before and after
+shaving. The intern will explore key aspects of the shaving experience, such as perceived skin smoothness, evenness, and tone, by combining image-based
+technical measurements with visual perception and consumer data. Using approaches such as computer vision, multimodal AI, and Generative AI, the goal is to
+identify the skin and hair characteristics that drive what consumers see and experience, and better connect technical product performance with consumer
+perception. The ideal candidate is a curious and proactive PhD student with strong scientific, analytical, and problem-solving skills who enjoys tackling open-
+ended research problems, working across disciplines, and developing creative solutions.
+Key Responsibilities:
+- Develop and evaluate multimodal GenAI approaches to understand skin and hair perception from images.
+- Connect image-based measurements with consumer data to identify key visual drivers of perception and product experience.
+- Build benchmarks, evaluation datasets, and metrics to assess model alignment with human perception.
+- Explore agentic and multimodal AI workflows that integrate images, technical measurements, and consumer data to address open-ended R&D problems.
+- Translate findings into actionable insights for R&D and product development.
+Job Qualifications
+Required Qualifications:
+- Education: Working towards a PhD in Computer Science, Computer Engineering, Electrical Engineering, Biomedical Engineering, Physics, Data Science, Statistics,
+Cognitive Science, Human Factors, or a related quantitative/scientific field
+- Technical Skills: Proficiency in Python and experience with machine learning, computer vision, multimodal AI, image analysis, data analysis, statistics, or
+quantitative modeling.
+- Available to work a 12-week internship from May/early June to August in the summer of 2027 in Boston, Massachusetts. Expected in-office schedule is 3 days a
+week in office at Gillette’s Boston, MA location.
+Preferred Qualifications:
+- Analytical Methods: Experience with computer vision, image processing, machine learning, statistical modeling, perception research, human-subject studies, or
+multimodal data analysis. Experience connecting objective measurements to human perception is especially relevant.
+- Generative AI: Familiarity with multimodal GenAI, vision-language models (VLMs), foundation models, or agentic AI workflows.
+- Development Tools: Familiarity with collaborative development tools and workflows, such as Git and GitHub.
+Just so you know:
+At P&G, we believe that diverse experiences help build strong leaders. Mobility is a key component of many management careers, providing opportunities to grow
+through different assignments, locations, and business challenges. Candidates should be prepared to consider relocation opportunities throughout their career as
+business needs and development opportunities arise.
+Compensation for roles at P&G varies depending on a wide array of non-discriminatory factors including but not limited to the specific office location, role,
+degree/credentials, relevant skill set, and level of relevant experience. At P&G compensation decisions are dependent on the facts and circumstances of each
+case. Total rewards at P&G include salary + bonus (if applicable) + benefits. Your recruiter may be able to share more about our total rewards offerings and the
+specific salary range for the relevant location(s) during the hiring process.
+We are committed to providing equal opportunities in employment. We value diversity and do not discriminate on the basis of race, religion, color, national
+origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Immigration Sponsorship is not available for this role. For more information regarding who is eligible for hire at P&G along with other work authorization
+FAQ’s, please click HERE.
+Procter & Gamble participates in E-Verify.
+Qualified individuals will not be disadvantaged based on being unemployed.
+P&G is dedicated to meeting the needs of applicants requesting an accommodation/adjustment due to a disability in order to complete the online application
+process. If you have a disability that affects your ability to complete our online application process, please visit our Disability Accommodation Page.
+Job Schedule
+Full time
+Job Number
+R000159786
+Job Segmentation
+Internships
+Starting Pay / Salary Range
+$61.00 - $61.00 / hour

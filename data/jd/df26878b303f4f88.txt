@@ -1,0 +1,62 @@
+Job descriptions may display in multiple languages based on your language selection.
+What We Offer
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees,
+providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as
+a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+Group Summary
+Transforming mobility. Making automotive technology that is smarter, cleaner, safer and lighter. That’s what we’re passionate about at Magna Electronics, and we
+do it by creating world-class Electronic systems. We are a premier supplier for the global automotive industry with full capabilities in design, development,
+testing and manufacturing of complex Electronic systems. Our name stands for quality, environmental consciousness, and safety. Innovation is what drives us and
+we drive innovation. Dream big and create the future of mobility at Magna Electronics.
+Job Responsibilities
+Position Overview
+Magna’s ADAS technologies are shaping an autonomous future and improving lives. The ADAS Intern/Co-op supports the ADAS Environmental Modelling teams by
+integrating, developing, testing, and debugging low-speed ADAS algorithms such as parking, trailering, surround view, and camera calibration, as well as high-
+speed sensor fusion algorithms.
+Essential Duties And Responsibilities
+- Develop building blocks for ADAS features and algorithms
+- Design and implement conventional image processing algorithms
+- Design, develop/tune, and optimize deep learning models for ADAS computer vision features
+- Demonstrate knowledge of late (object-level) and early (raw-data) sensor fusion
+- Create or modify test cases based on requirements to cover new or modified functionality
+- Debug and root-cause issues
+- Report and document issues; propose corrections
+- Perform system testing on bench and in vehicles to ensure the product functions and performs per customer requirements
+Qualifications
+- Holds bachelor’s degree in engineering
+- Valid Driver’s license
+Education / Experience
+- Enrolled in a master’s or PhD degree program in Mechanical Engineering / Electrical Engineering / Automotive Engineering/ Computer Science or equivalent
+Mandatory
+Special Knowledge / Skills:
+- Experience in Digital Image Processing or Machine Learning or vehicle dynamics OR control systems OR digital signal processing through coursework or industry
+experience
+- Coursework or project with vehicle simulation/testing
+- Experience with C/C++, Python
+- MS Office Tools knowledge
+- Basic knowledge of ADAS features
+- Working knowledge in structured engineering approach
+- troubleshooting and debugging skills
+Preferred
+- Experience in ADAS/AD academic/industry projects
+- Execution of test suites in a model/software in the loop environment (MIL/SIL)
+- Working knowledge in development of portable, reusable and modular software in automotive environment.
+Physical Demands / Work Environment
+- Normal amount of sitting or standing, average mobility to move around an office environment, able to conduct normal amount of work at a computer.
+Awareness, Unity, Empowerment
+At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of
+experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual
+orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you
+from sending applications via email or traditional mail to comply with GDPR requirements and your local Data Privacy Law.
+AI-Assisted Screening Disclosure
+As part of our commitment to a fair, consistent, and efficient recruitment process, we may use artificial intelligence (AI) tools to assist in the initial
+screening of applications submitted through our Workday system. These tools help identify qualifications and experience that align with the role requirements.
+Please note that AI is used solely to support our recruiters. Final decisions are always made by the hiring manager and the hiring team. Importantly, no
+applicant data is shared externally through these AI tools. All information remains securely within our systems and is handled in accordance with our privacy
+and data protection policies.
+Under conditions defined by applicable law, you may have the right to request an explanation of how AI is used to support decision-making.
+If you have any questions or concerns about this process, feel free to contact our Talent Attraction team.
+Worker Type
+Student / Co-Op
+Group
+Magna Electronics

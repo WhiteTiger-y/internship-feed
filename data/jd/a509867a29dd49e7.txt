@@ -1,0 +1,94 @@
+Pay Rate/Hourly Range
+- The hourly range is $20.00 - $43.00 per hour.
+- Pay is based on factors including school year, program of study, role responsibilities, etc.
+CCC Intelligent Solutions Inc. (CCC) is a leading cloud platform for the multi-trillion-dollar insurance economy, creating intelligent experiences for insurers,
+repairers, automakers, part suppliers, and more. At CCC, we’re making life just work by empowering more than 35,000 businesses with industry-leading technology
+to get drivers back on the road and to health quickly and seamlessly. We’re pushing boundaries with innovative AI solutions that simplify and enhance the claims
+and repair journey. Through purposeful innovation and the strength of its connections, CCC technologies empower the people and industry relied upon to keep
+lives moving forward when it matters most. Learn more about CCC at www.cccis.com.
+The RoleImportant: This is an evergreen resume submission for the Resume Review and Open House and is not an application for a specific internship opening.
+Submission of a resume does not guarantee participation in the event or consideration for a current position.
+CCC is hosting a Resume Review and Open House on October 27 for students interested in learning more about internship opportunities and career paths at CCC.
+This posting allows you to share your resume with a hiring team in your area of interest. Reviewing resumes in advance helps our teams better understand your
+experience, coursework, projects, and career interests so they can prepare the most relevant feedback possible.
+Please select the area that most closely aligns with your interests. You do not need to meet every preferred qualification listed below. We encourage you to
+submit your resume based on your interests, academic experience, personal projects, student organizations, internships, or other relevant experiences.
+Key Responsibilities
+Data Science and AI interns at CCC may explore how machine learning, deep learning, computer vision, data analysis, and AI technologies can be used to address
+real business challenges. Interns may work with structured or unstructured datasets, conduct exploratory analysis, develop and compare models, visualize
+results, and communicate findings to technical and nontechnical audiences.
+Potential project areas may include machine learning, deep learning, computer vision, data exploration, data visualization, data storytelling, ETL, model
+development, and model deployment. CCC’s supporting internship description also references the use of vehicle claim images and other data to produce insights
+for the auto insurance industry.
+What a Data Science or AI Internship May Include
+Depending On The Team, An Intern May
+- Explore, clean, organize, and analyze data
+- Conduct feasibility studies or experiments
+- Build and evaluate machine learning or deep learning models
+- Compare modeling approaches
+- Generate predictions and evaluate results against project requirements
+- Apply computer vision techniques to image-based data
+- Create visualizations and communicate findings
+- Support data pipelines or ETL processes
+- Collaborate with data scientists, machine learning engineers, software engineers, and business partners
+- Help translate analytical findings into understandable business insights
+- Learn how models move from experimentation into scalable products
+Requirements
+This Area May Be a Good Fit If You Are Interested In
+- Data science
+- Artificial intelligence
+- Machine learning or deep learning
+- Computer vision
+- Statistics or mathematical modeling
+- Data exploration and visualization
+- Predictive analytics
+- Experiment design
+- Building data-driven products
+- Communicating technical findings to a general audience
+Helpful Experience or Coursework
+Your Resume May Highlight Experience Or Interest In
+- Python
+- Machine learning or deep learning
+- Mathematics, statistics, or modeling
+- Data preparation or ETL
+- Data visualization
+- Computer vision
+- SQL or working with structured datasets
+- Research, experimentation, or model evaluation
+- Coursework or projects involving real-world datasets
+The supporting description welcomes students pursuing an associate, bachelor’s, master’s, or doctoral degree and identifies coursework or project experience in
+Python, machine learning, deep learning, mathematics, statistics, or modeling as relevant preparation.
+What to Include on Your Resume
+Consider Highlighting
+- Data science, AI, machine learning, statistics, or computer science coursework
+- Research, capstone projects, personal projects, or competitions
+- The type and size of datasets you have used
+- Models, methods, or analytical techniques you applied
+- Programming languages and analytical tools
+- How you measured results or evaluated a model
+- Visualizations, presentations, publications, or project links
+- Your specific contribution to collaborative projects
+Interview Policy & Privacy Notice
+A video interview is required for this position. Video interviews are transcribed. Transcriptions are retained and may be reviewed by CCC and our recruiters.
+Candidates are not permitted to use generative AI or automated assistance during the interviews unless explicitly allowed by the interview team for a specific
+exercise. Our Job Applicant Privacy Notice is available HERE.
+About CCC's Commitment To Employees
+CCC Intelligent Solutions understands that our employees play an integral role in our vision to shape a world where life just works. Our team is defined by our
+values of Integrity, Customer-Focus, Innovation, Inclusion & Diversity, Tenacity, and Connection. Through diverse perspectives, purposeful innovation, and the
+strength of connections, our technologies empower the people and industry relied upon to keep lives moving forward when it matters most.
+At CCC, together everyone can thrive as we innovate and collaborate, creating employee experiences that just work. We are committed to providing opportunities
+for our people to make real-life impacts, advance in their careers, and contribute to CCC’s success.
+CCC offers competitive compensation and benefits to support you and your families, including:
+- 401K Match
+- Paid time off
+- Annual Incentive Plan Performance Bonus
+- Comprehensive health insurance
+- Adoption Assistance
+- Tuition Reimbursement
+- Wellness Programs
+- Stock Purchase Plan options
+- Employee Resource Groups
+For more information about our benefits, please check out our careers site.
+Here, you belong. You are seen, valued, and respected. We celebrate you for who you are and all you bring. Every voice is heard and is important to our success.
+You can hear what employees have to say about our culture here
+If you require reasonable accommodation to complete a job application, please contact (800) 621-8070.

@@ -1,0 +1,45 @@
+Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company
+and a leading AI platform for managing people, money, and agents, we’re shaping the future of work so teams can reach their potential and focus on what matters
+most. The minute you join, you’ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy,
+and shared enthusiasm. We’re in this together, tackling big challenges with bold ideas and genuine care. We look for curious minds and courageous collaborators
+who bring sun-drenched optimism and drive. Whether you're building smarter solutions, supporting customers, or creating a space where everyone belongs, you’ll
+do meaningful work with Workmates who’ve got your back. In return, we’ll give you the trust to take risks, the tools to grow, the skills to develop and the
+support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in
+Workday, and we hope to be a match for you too. About the Team In 2024, Workday launched the Enterprise Data and Analytics (ED&A) team with a mission to
+transform and optimize the way Workday creates and shares trusted data to drive actionable insights and data-led innovation across the enterprise. About the
+Role As an Analytics Engineer Intern, you focus on high-quality technical execution, data curiosity, and rapid skill acquisition within the ED&A data
+transformation lifecycle. Operating under the direct guidance of senior engineering leaders, you are responsible for transforming raw data ingestion streams
+into structured, reliable data assets that support downstream business intelligence frameworks. Your technical execution centers on writing clean, modular dbt
+code blocks within our repository controls, logging schema updates, and turning raw inputs into discoverable data views. Your soft skills development focuses on
+foundational data literacy, active team collaboration, and building a strong baseline understanding of how data translates into business metrics. You actively
+participate in squad rituals, collaborating with peers to turn execution requests into actionable items while learning to navigate Workday's enterprise systems.
+Concurrently, you accelerate your day-to-day delivery speed by aggressively adopting workspace AI productivity tools, including Sana and Gemini, using them to
+eliminate routine administrative reporting friction, automate standard documentation tasks, and scale your personal capacity. Workday Early Career Programs: In
+addition to collaborating with engineers, you’ll engage in our Early Career Programs — specifically structured to support and empower you to succeed throughout
+your internship! Workday Intern Program Brighter work days start with real work and real support from a community that helps you shine from day one. During our
+in-person internship experience, you’ll jump into meaningful projects and see how your ideas can help shape the future of work. Interns build enterprise skills
+through applied learning, personalized coaching, and connection events designed so our Early Talent can bring their best self to work. If you’re invested in
+your growth, team-oriented, and ready to bring fresh ideas to work that makes an impact, we’d love to meet you. The future is now — apply today to launch your
+career as a member of the Workday Intern Program. P&T Atmosphere: As a member of the Product & Technology org, you’ll participate in our P&T Atmosphere program
+— a dedicated investment in your growth that offers tailored technical training and deep dives into the Workday ecosystem. This specialized program equips you
+with job-critical skills and connects you directly with P&T leaders and peers to fast-track your technical career. #LI-DNI About You Basic Qualifications:
+Currently enrolled in a Bachelor’s or Master's degree program in Computer Science, Information Systems, Mathematics, or related degree program Less than 12
+months of professional work experience Anticipated graduation date between December 2027 and June 2028 Available for a full-time, in-person 12-week internship
+for the Summer of 2027 in the listed locations, and you will return to your university degree program after the conclusion of the internship Hands-on experience
+writing, debugging, and executing SQL queries to manipulate and extract datasets for verification Demonstrated knowledge of working in Python, SQL, Data
+Structures and Algorithms, and database management Other Qualifications: Demonstrated knowledge of working in cloud platforms: AWS (preferred), GCP, or Azure
+Knowledge of object oriented programming concepts Familiarity with AI tooling such as Gemini, Claude, Cursor, Codex, or similar tools Prior internship
+experience Experience working in a team or a collaborative environment Strong problem solving and communication skills, with the ability to share ideas clearly
+and collaborate across teams Visa sponsorship is not available for this role. Workday Pay Transparency Statement The annualized base salary ranges for the
+primary location and any additional locations are listed below. Workday pay ranges vary based on work location. As a part of the total compensation package,
+this role may be eligible for the Workday Bonus Plan or a role-specific commission/bonus, as well as annual refresh stock grants. Recruiters can share more
+detail during the hiring process. Each candidate’s compensation offer will be based on multiple factors including, but not limited to, geography, experience,
+skills, job duties, and business need, among other things. For more information regarding Workday’s comprehensive benefits, please click here. Primary Location:
+USA.CA.Pleasanton Additional US Location(s) Base Pay Range: $ USD - $154,500 USD Our Approach to Flexible Work With Flex Work, we’re combining the best of both
+worlds: in-person time and remote. Our approach enables our teams to deepen connections, maintain a strong community, and do their best work. We know that
+flexibility can take shape in many ways, so rather than a number of required days in-office each week, we simply spend at least half (50%) of our time each
+quarter in the office or in the field with our customers, prospects, and partners (depending on role). This means you'll have the freedom to create a flexible
+schedule that caters to your business, team, and personal needs, while being intentional to make the most of time spent together. Those in our remote "home
+office" roles also have the opportunity to come together in our offices for important moments that matter. Pursuant to applicable Fair Chance law, Workday will
+consider for employment qualified applicants with arrest and conviction records. Workday is an Equal Opportunity Employer including individuals with
+disabilities and protected veterans. Workday is committe

@@ -1,0 +1,46 @@
+The Video Intelligence team is seeking highly motivated Research Interns to join us in advancing the next generation of video generation technologies. The Video
+Intelligence team is an applied AI research team within the Facebook pillar, and is responsible for building state-of-the-art GenAI technology to empower video
+generation and understanding, enabling innovative AI-driven video creation experiences and enhancing our ability to comprehend video content.As a Research
+Intern, you will work alongside leading experts in computer vision, generative modeling, and multimodal learning, contributing to research projects at the
+frontier of developing advanced video generation models. Our work not only advances the academic field but also lays the groundwork for future video
+intelligence systems and applications.
+Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd) Responsibilities:
+- Conduct research on advanced topics in video generation and understanding, including but not limited to text-to-video generative models, image-to-video
+generative models, video understanding models, unified native video generative models.
+- Design, implement, and evaluate novel algorithms and model architectures.
+- Collaborate closely with researchers and engineers across the Video Intelligence group and broader GenAI teams.
+- Contribute to publications in top-tier conferences and journals in AI, computer vision, and machine learning.
+- Present findings and share insights that help shape both ongoing research and future directions.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Electrical Engineering, or related field with a focus on generative
+modeling, computer vision, or machine learning
+- Programming experience in Python and hands-on experience in deep learning frameworks such as PyTorch
+- Experience working on generative models e.g. diffusion models, LLM, autoregressive transformers, etc
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Intent to return to the degree program after the completion of the internship/co-op
+- Proven track record of solid research achievements as demonstrated by grants, fellowships, patents, as well as publications at leading AI conferences such as
+CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, or SIGGRAPH
+- Strong track record of contributions to open-source projects, benchmarks, or shared research artifacts
+- Research experience in video generation, temporal modeling, multimodal learning or unified native video generative models
+- Experience working and communicating cross functionally in a fast-paced team environment. Ideal candidates should have the ability to quickly understand and
+identify the research opportunities behind real-world applications, select the appropriate ML methods to explore, and proactively drive the iterations based on
+clear analysis of the current results
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

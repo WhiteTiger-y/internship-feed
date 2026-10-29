@@ -1,0 +1,45 @@
+When you join Sallie, you become a champion for all students. Sallie’s Education Services team is a diverse group of growth-obsessed entrepreneurs, data
+analysts, engineers, and developers with a passion for imagining and building scalable businesses for students and families on their unique journey to-through
+and immediately after higher education. We’re on a mission to revolutionize how students and their families plan, pay and complete this journey with confidence.
+Join a team of seekers, challengers and creative thinkers to change the way students plan for their future for the better. Sallie Mae is proud to help Americans
+aspiring to create the life they want, whether that means helping them make college happen, or something more. Our colleagues across departments and across the
+country are united in our passion and our customer-first approach. Whether you want to join a growing company, be part of an agile workforce, or gain new
+skills, you're in the right place. Program Overview: The Sallie Mae Internship program seeks to attract and develop exceptional early talent while adding value
+to our organization. Our goal is to tie academic learning into a practical business setting while fostering professional and personal growth within a student’s
+area of focus. Over the course of the summer, interns will gain exposure to senior leaders, attend meetings, work alongside mentors, and receive valuable
+performance feedback. Position Summary: Would you like to work in an exciting fast-paced start-up place with the backing of a household name company like Sallie
+Mae to help millions of people meet their educational needs every day? Together, we’re connected by the same drive—to be a champion for all students and help
+them make smart decisions with confidence. Do more than join something—change something…for students, for future generations, and for the future of education.
+Our new venture, Sallie, is looking for people like you who will define the future of education services for students and their families in the US. As the first
+education solutions company, we’re creating products and experiences that help students when they need it most. We’re connecting students to free money for
+school, providing tools and resources to plan for college, sharing inside advice on campus life, and so much more. Visit https://www.sallie.com/about to learn
+more about us. Key Responsibilities: The Data Science & Engineering Intern will work with our data team on projects supporting digital marketing, digital
+products, business analytics, and student lending. Projects may involve contributing to data pipelines, predictive analytics, dashboards, backend development,
+AI agents, or other data projects that enable our businesses. Responsibilities include: Use SQL and Python to prepare, transform, and analyze data from multiple
+sources. Work with team members to understand business requirements and translate them into technical solutions. Support the development of data pipelines,
+analytical solutions, and reporting tools. Contribute to predictive models, time series forecasts, and AI enablement. Investigate data quality issues and
+validate the logic and results of analyses and data products. Document technical methods and findings and communicate results to nontechnical partners. Use AI-
+assisted development tools while generating code and validate its outputs. The ideal candidate is curious about both how data systems work and the businesses
+and products they support. They are comfortable learning unfamiliar tools, asking clarifying questions, and taking responsibility for the accuracy of their
+work. Education: Currently enrolled in an accredited university pursuing a degree in Data Science, Computer Science, Statistics, Business Analytics,
+Mathematics, Data Engineering, Artificial Intelligence, or related technical field. Open to undergraduate and graduate level students with expected graduation
+dates of Dec 2027 - May 2028 Availability: This is a 12-week paid internship and expectations for a 40-hour work week for the following dates 6/7/2027 –
+8/28/2027. We follow a flexible 3-day per week in-office policy and open to working out of our Newark, DE or Arlington, VA offices. Knowledge, Skills, and
+Abilities: Qualifications: Experience using SQL to query, join, filter, and aggregate data. Experience using Python for data analysis, machine learning, or
+artificial intelligence. Working knowledge of digital marketing measurement, including funnel metrics such as click-through rates, UTM tracking, campaign
+attribution, and traffic sources. Ability to explain analytical findings and technology solutions to a nontechnical audience. Strong attention to detail,
+communication skills, and willingness to learn. Preferred Qualifications Experience with a cloud data platform such as Snowflake, Databricks, or AWS Experience
+with version control systems such as GitHub Experience analyzing website, paid media, or CRM data from platforms such as Meta, HubSpot, or Salesforce Feeling
+your best helps you do your best: Our benefits take care of the whole you—so you can build your work around your life (not the other way around!). Competitive
+base salaries Bonus incentives Generous PTO, Floating Holidays and 12 Federal Holidays observed Support for financial-well-being and retirement 401k with
+employer match Comprehensive medical, dental, vision, hospital indemnity, critical illness, pet insurance and more Employer paid short-term/long-term disability
+and basic life insurance Flexible hybrid working arrangements. Paid parental leave and adoption reimbursement programs Free access to on-site staffed fitness
+centers (in Delaware) and gym subsidy (for locations outside Delaware) Confidential counseling support (EAP), Health Advocacy services and Wellness program with
+financial incentives Tuition Reimbursement and Family Scholarship Programs Career development and training opportunities Not the right fit? Let us know you're
+interested in a future opportunity by clicking Introduce Yourself in the top-right corner of the page or create an account to set up email alerts as new job
+postings become available that meet your interest! Sallie Mae is proud to be an equal opportunity (EEO) employer. All qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex, gender, sexual orientation, national origin, age, genetic information, gender
+identity, disability, Veteran status or any other characteristic protected by federal, state or local law. Click here to view the U.S. Pay Transparency Policy,
+here for federal job applicant notices, and here to view the California Employee Privacy Notice. Reasonable accommodations are available for applicants with
+disabilities in all phases of the application and employment process. To request an accommodation please call (855) 756-2007 and choose option 9. All
+information you provide will be kept confidential and will be used only to the extent r

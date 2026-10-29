@@ -1,0 +1,43 @@
+Charles River Analytics, a GRVTY company, creates solutions and technology to tackle the world's most challenging problems. Our team of technological
+entrepreneurs works together to push at the forefront of enhanced AI, robotics, smart sensing, and human-centered computing. The resulting research and
+development help to continuously advance government programs and discover new possibilities in the commercial marketplace. At Charles River, we take great pride
+in our success at attracting and retaining the most talented and creative problem-solvers in our field. Now as part of GRVTY, we offer the same trusted
+capabilities with increased organizational depth and expanded capacity across mission-critical national security domains. Are you ready to accelerate our
+mission-focused innovations? We'd love to hear from you!
+We are looking for enthusiastic AI Scientist Intern for our Human-Centered AI division. We are seeking students with an interest in learning about and a
+successful academic background in the following areas: software engineering, computer science, machine learning, artificial intelligence, or applied
+mathematics. Our interns work on real projects and cutting-edge technology. We believe strongly in promoting within, which is demonstrated by the fact that we
+not only have hired former interns, but that several of our senior-level staff began their careers at Charles River as interns!
+You will use a variety of technologies such as machine learning, probabilistic modeling, cybersecurity, data analytics, knowledge representation, natural
+language processing, computational social science, and search and optimization. During your time at Charles River, you will work in small project-oriented
+groups of scientists and software engineers to build working prototypes in Human-Centered AI.
+What You Need:
+- U.S. Citizenship
+- Currently pursuing a graduate-level degree (M.S., PhD) in Computer Science or similar
+- Proven proficiency in Python and a solid background in designing, programming, and documenting complex software systems
+- Demonstrated ability to rapidly learn new programming languages, technologies, and programming tools
+- Candidates should have demonstrated the capability to work independently as well as effectively within a team environment
+- Experience working for a defense customer or contractor
+Additional Skills:
+- Algorithms (artificial intelligence, optimization, machine learning)
+- Natural language processing
+- Probabilistic modeling and reasoning (e.g., Bayesian networks)
+- Cyber security
+- Data analytics
+Salary Range
+$20.00 - $30.00 per hour
+The above salary range is an estimate based on the internal job level(s) for which this role is being considered. The final salary will be decided after careful
+evaluation of the individual's work experience, education, and overall qualifications. This range does not include the substantial total rewards, as listed
+below, that you will also be eligible for as an employee owner at Charles River Analytics.
+Benefits:
+Charles River Analytics offers an attractive benefits package that includes, but is not limited to the following:
+- Casual work environment
+- Free snacks and beverages
+- Eligible for medical plan enrollment or opt-out incentive
+- Paid sick/excused time
+- Free onsite parking and easily accessible by public transportation (the MBTA)
+Internship Activities:
+Interns at Charles River Analytics can participate in activities such as:
+- Intern challenge problems
+- Seminars
+- Company-wide outings

@@ -1,0 +1,49 @@
+Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you
+intellectually and professionally?
+About Analog Devices
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent
+Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help
+drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's
+innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X.
+At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on
+meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that
+will become a part of your professional network.
+ADI’s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features
+various lunch-and-learn topics and social events with other interns and full-time employees.
+At ADI, our goal is to develop our interns so they are the first to be considered for full-time roles.
+Apply now for the opportunity to grow your career and help innovate ahead of what’s possible.
+About The Role
+The AI/ML Engineer Intern role provides students with the opportunity to apply machine learning and artificial intelligence concepts to real-world engineering
+challenges. Working alongside experienced engineers and researchers, you will contribute to the development, evaluation, and optimization of AI/ML solutions
+while gaining hands-on experience with modern tools, frameworks, and technologies.
+Key Responsibilities
+- Assist in developing, training, and evaluating machine learning and deep learning models.
+- Support data preparation, analysis, and model performance assessment activities.
+- Contribute to AI/ML research, experimentation, and proof-of-concept projects.
+- Help optimize and deploy machine learning models for efficiency and scalability.
+- Collaborate with cross-functional teams to develop AI-driven solutions.
+- Document technical findings, methodologies, and project outcomes.
+Must-Have Skills
+- Knowledge of machine learning and deep learning fundamentals.
+- Proficiency in Python programming.
+- Familiarity with machine learning frameworks such as PyTorch or TensorFlow.
+- Understanding of data structures, algorithms, and software development principles.
+- Strong analytical, problem-solving, and communication skills.
+Preferred Education And Experience
+- Currently pursuing a Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Data Science, Artificial Intelligence, or a related
+field.
+- Academic, research, or project experience involving AI, machine learning, deep learning, or data analytics.
+- Exposure to model optimization, edge AI, computer vision, signal processing, or related technologies is a plus.
+- Familiarity with tools such as PyTorch, TensorFlow, CUDA, C/C++, or similar development frameworks.
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce -
+Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US
+Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion,
+age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy,
+parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other
+legally protected group.
+EEO is the Law: Notice of Applicant Rights Under the Law.
+Job Req Type: Internship/Cooperative
+Required Travel: No
+The expected wage range for a new hire into this position is $22 to $41.
+Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.

@@ -1,0 +1,74 @@
+Job Application for 2027 Machine Learning Summer Internship at Advanced Space
+Back to jobs
+2027 Machine Learning Summer Internship
+Westminster, CO
+Apply
+Advanced Space | 2027 Summer Internship | Onsite
+We’re going to the Moon. Think you’ve got what it takes?
+About the Role
+At Advanced Space, we're enabling humanity's return to the Moon and building the technologies that will take us to Mars and beyond. We're looking for a 2027
+Machine Learning Summer Intern to join our team and help push the state of the art in aerospace applications.
+As a Machine Learning Intern, you'll work alongside experienced technical staff who will provide mentorship and guidance throughout your internship. You'll gain
+hands-on experience designing, developing, testing, and applying machine learning models to solve complex engineering challenges supporting the future of space
+exploration.
+This internship is ideal for students passionate about artificial intelligence, machine learning, aerospace applications, and applied research. You'll have the
+opportunity to work on meaningful projects while collaborating with engineers and researchers developing innovative solutions for real space missions.
+About Advanced Space
+Advanced Space exists to enable the sustainable exploration, development, and settlement of space through innovative software, mission services, and technology
+solutions. As the owner and operator of NASA's CAPSTONE™ mission and the Prime Contractor for AFRL's Oracle mission, we're helping shape the future of cislunar
+exploration while supporting commercial, civil, and national security customers.
+Our team combines deep technical expertise with an entrepreneurial mindset. We move quickly, collaborate across disciplines, and empower every engineer to make
+meaningful contributions. If you're passionate about solving challenging problems and seeing your work fly in space, you'll fit right in.
+What You'll Actually Do
+Develop machine learning solutions for aerospace applications.
+Research, implement, and evaluate state-of-the-art machine learning algorithms and techniques to solve challenging engineering problems.
+Build and test ML models.
+Design, develop, and improve machine learning models and systems supporting applications such as:
+- Spacecraft autonomy
+- Anomaly detection
+- Natural language processing
+- Uncertainty quantification
+- Multimodal signal detection
+Analyze data and optimize performance.
+Perform data preprocessing, feature engineering, model evaluation, and optimization to improve the performance, scalability, and reliability of ML solutions.
+Collaborate with engineering teams.
+Work alongside aerospace and software engineers to integrate machine learning solutions into mission-focused applications.
+Share your research and findings.
+Document technical work and present project results through reports, presentations, and discussions with the technical team.
+Who Thrives Here
+- You are currently pursuing a degree in Computer Science, Engineering, Mathematics, Statistics, or a related field .
+- You have experience programming in Python and working with data processing libraries such as Pandas, NumPy, or Scikit-learn.
+- You have experience with machine learning frameworks such as TensorFlow or PyTorch.
+- You understand foundational machine learning concepts, including supervised and unsupervised learning, classification, regression, clustering, and
+dimensionality reduction.
+- You are familiar with software development best practices, including Git version control.
+- You enjoy solving complex technical problems and conducting applied research.
+- You communicate technical concepts clearly and collaborate effectively with teammates.
+Bonus Points if You Have Experience With
+- CUDA C/C++ or GPU computing
+- High-performance or scientific computing
+- Natural language processing
+- Computer vision
+- Aerospace engineering concepts such as nonlinear estimation, optimization, or control theory
+- Machine learning applied to engineering or scientific problems
+Success is Measured By
+- Developing and evaluating machine learning solutions for real aerospace challenges.
+- Applying ML techniques to meaningful mission-focused projects.
+- Collaborating effectively with engineers and technical staff.
+- Communicating research findings clearly through documentation and presentations.
+- Building technical skills through mentorship and hands-on experience.
+Why Join Advanced Space
+- Gain hands-on experience applying machine learning to real space missions.
+- Work alongside engineers and researchers solving complex aerospace challenges.
+- Contribute to innovative projects supporting missions to the Moon and beyond.
+- Receive mentorship and guidance from experienced technical staff.
+- Be part of a growing company where your contributions directly support mission success.
+Compensation & Benefits
+- Competitive internship compensation: $28–$37/hour
+- Housing stipend
+- Mentorship and guidance from technical staff
+- Opportunities to contribute to research projects directly tied to active space missions
+- Collaborative work environment at our Westminster, Colorado headquarters
+Advanced Space is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive workplace for all employees. Employment
+decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected characteristic under
+applicable law.

@@ -1,0 +1,60 @@
+Meta is seeking Research Interns to join the Fundamental AI Research (FAIR) team within Meta Superintelligence Labs (MSL). Our mission is to advance the science
+of intelligence and develop technologies that push the boundaries of AI. We are looking for individuals interested in video generation, post-training of large-
+scale models, and self-improving agentic systems to help build the perceptual and generative foundations for next-generation AI systems. This internship offers
+the opportunity to collaborate with a highly interdisciplinary team of scientists, engineers, and cross-functional partners, leveraging cutting-edge technology,
+resources, and research facilities. Our interns have the opportunity to make core algorithmic advances and apply their ideas at an unprecedented scale.We're
+especially interested in candidates with expertise across video generation, computer vision, and multimodal AI, including:Generative modeling for video
+(diffusion, flow matching, video synthesis)Post-training of large-scale video and multimodal models (SFT/RL, optimization, data curation)Multimodal
+understanding, reasoning, and generationSelf-improving and agentic systems (multi-agent LLM/VLM systems, tool use, planning)Reward modeling and LLM/VLM-as-a-
+judgeOur team at Meta AI offers twelve (12) to twenty-four (24) weeks long internships and we have various start dates throughout the year. To learn more about
+our research, visit https://ai.meta.com/research/.
+Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD) Responsibilities:
+- Conduct fundamental and applied research in video generation, including generative models, video synthesis, and multimodal learning.
+- Develop and optimize post-training paradigms for large-scale video and multimodal models, including reinforcement learning from human and AI feedback and
+reward modeling.
+- Research self-improving and agentic generation systems, including multi-agent LLM/VLM pipelines and LLM/VLM-as-a-judge.
+- Collaborate with teams across Meta to build perceptual foundations for real-time embodied agents and conversational AI.
+- Contribute to the development of frontier models (e.g., Llama, LMMs) and push the boundaries of video and media generation.
+- Brainstorm with research mentors, review literature and existing solutions of a challenging real-world research problem.
+- Develop novel solutions, implement prototypes, and perform extensive experiments to test the proposed solutions in meaningful benchmarks and metrics, analyze
+the results and verify the conclusions.
+- Draft and polish research reports and/or publications.
+- Present research outcomes to internal and/or external audiences.
+- Contribute research that can be applied to Meta product development.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a PhD degree in Computer Science, Electrical Engineering, Computer Vision, Machine Learning, Artificial
+Intelligence, relevant technical field, or equivalent
+- Research and/or work experience in video generation, computer vision, or multimodal AI
+- Experience with large-scale model training, post-training optimization techniques, and/or data curation
+- Experience in Python, C++, or other related languages, and deep learning frameworks (e.g., PyTorch, TensorFlow)
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Demonstrated research and software engineering experience via internships, industry or academic work experience, coding competitions, or widely used
+contributions in open source repositories (e.g., GitHub)
+- Experience with video generation, video synthesis, or multimodal fusion techniques
+- Experience with video-language models and architectures relevant to video generation and post-training
+- Experience with LLM/VLM agents, reward modeling, or evaluation of generative models
+- Proven track record of achieving significant results, as demonstrated by grants, fellowships, patents, or publications at leading workshops, journals, or
+conferences (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV)
+- Experience manipulating and analyzing complex, large scale, high-dimensionality data from varying sources
+- Experience solving complex problems and evaluating alternative solutions, tradeoffs, and perspectives to determine a path forward
+- Experience working and communicating cross-functionally in a collaborative, interdisciplinary team environment
+- Intent to return to degree-program after the completion of the internship/co-op
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.
