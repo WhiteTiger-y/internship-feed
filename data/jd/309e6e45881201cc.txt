@@ -1,0 +1,67 @@
+PIMCO is a global leader in active fixed income. With our launch in 1971 in Newport Beach, California, PIMCO introduced investors to a total return approach to
+fixed income investing. In the 50+ years since, we have worked relentlessly to help millions of investors pursue their objectives – regardless of shifting
+marketing conditions. As active investors, our goal is not just to find opportunities, but to create them. To this end, we remain firmly committed to the
+pursuit of our mission: delivering superior investment returns, solutions, and service to our clients.
+Since 1971, our people have shaped our organization through a high-performance inclusive culture, in which we celebrate diverse thinking. We invest in our
+people and strive to imprint our CORE values of Collaboration, Openness, Responsibility and Excellence. We believe each of us is here to help others succeed and
+this has led to PIMCO being recognized as an innovator, industry thought leader and trusted advisor to our clients.
+2027 PhD Summer Internship – Portfolio Management, Quantitative Research Analyst
+Internship positions are located at PIMCO’s Newport Beach, CA Headquarters
+Eligibility Criteria
+To apply, you must meet the following requirements:
+- Be a Ph.D. candidate from a top program in quantitative fields such as Finance, Economics, Statistics, Computer Science, Operations Research, Physics, or
+Mathematics.
+- Expected graduation from the Ph.D. program between Dec 2027 and June 2028
+- Have business proficiency in English.
+PM Analytics
+The PM Analytics team collaborates closely with Portfolio Management to provide quantitative inputs to PIMCO’s investment process. This includes developing
+models for alpha generation and risk management. Team members may specialize in specific markets (e.g., credit, rates, mortgages) or take on cross-market roles
+such as asset allocation, portfolio construction, or execution. Key responsibilities involve conducting econometric analyses of historical returns, building
+empirical and risk-neutral valuation models, applying macroeconomic research, and analyzing extensive transaction data to enhance trade execution.
+Desired Candidates Should Possess The Following Skills And Characteristics
+- A strong interest and background in quantitative disciplines, with knowledge of asset pricing, fixed income markets, economic theory, and optimization methods
+preferred.
+- Formal training in empirical research, particularly in time series and panel data econometrics, with experience in analyzing large datasets preferred.
+- Proficiency in programming, with a strong preference for Python; knowledge of C++ is also beneficial.
+- High energy, a results-driven mindset, and strong analytical, problem-solving, and communication skills.
+- Demonstrate curiosity and experience in using new emerging technologies and AI tools in your work or school projects to solve problems and drive better
+outcomes
+The PIMCO Internship Experience
+- The PIMCO Internship is a 10-week program that runs from early June to mid-August, with the expectation that you will be available for the full duration of
+the program
+- The first week includes PIMCO Fundamentals Training, equipping you with essential skills and knowledge for success.
+- You will then be assigned a project to complete under the mentorship of a supervisor and peer mentor.
+- You are also encouraged to take advantage of the expertise of your teammates and subject matter experts throughout the firm.
+- Regular feedback will be provided at mid-summer and at the end of the program to help you achieve your goals.
+- At the conclusion of the internship, you will present your findings to the team.
+- Your supervisor, peer mentor, senior leaders and team offer guidance and mentorship throughout the summer
+- You will gain hands-on experience with AI-powered tools from day one, with training and resources that help build future ready skills and make an impact from
+the start
+- You will also have opportunities to explore the diverse range of products traded at PIMCO and participate in various educational, networking, and social
+events.
+- Want to learn more? Hear about The PIMCO Internship Experience from past interns
+- As a PIMCO intern, you’ll receive competitive compensation, along with a transition bonus to help with relocation to one of our office locations
+Interview Process
+- After receiving your application, we will conduct an initial resume review.
+- If selected, you will participate in a first-round interview via video conference to discuss your interests and skills.
+- Successful candidates will proceed to final-round interviews, which will also be conducted live via video conference and will cover both behavioral and
+technical topics.
+Applications for the internship program are reviewed in phases. Candidates are strongly encouraged to apply as early as possible to be considered in the initial
+review. Later applications received may still be considered; however, due to the high volume of interest, we cannot guarantee that all applications will be
+reviewed.
+PIMCO is an equal opportunity employer committed to creating an inclusive, cognitively diverse environment.
+For more information on PIMCO and Career Opportunities, please visit https://www.pimco.com/us/en/about-us/careers
+PIMCO follows a total compensation approach when rewarding employees which includes a base salary and a discretionary bonus. Base salary is the fixed component
+of compensation that is determined by core job responsibilities, relevant experience, internal level, and market factors. The discretionary bonus is used to
+award performance and therefore is determined by company, business, team, and individual performance.
+Salary: $ 205,000.00
+Equal Employment Opportunity and Affirmative Action Statement
+PIMCO recruits and hires qualified candidates without regard to race, national origin, ancestry, religion (including religious dress and grooming practices),
+sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender (including gender identity and expression), age,
+military or veteran status, disability (physical or mental), any factor prohibited by law, and as such affirms in policy and practice to support and promote the
+concept of equal employment opportunity and affirmative action, in accordance with all applicable federal, state, provincial and municipal laws. The company
+also prohibits discrimination on other basis such as medical condition, or marital status under applicable laws.
+Applicants with Disabilities
+PIMCO is an Equal Employment Opportunity/Affirmative Action employer. We provide reasonable accommodation for qualified individuals with disabilities, including
+veterans, in job application procedures. If you have any difficulty using our online system due to a disability and you would like to request an accommodation,
+you may contact us at 949-720-7744 and leave a message. This is a dedicated line designed exclusively to assist job s

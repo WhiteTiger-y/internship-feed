@@ -1,0 +1,54 @@
+Who We Are
+With its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates
+advanced robots in a high-density, end-to-end system – reinventing warehouse automation for increased efficiency, speed and flexibility.
+Term{{:}} Summer (May-Aug)
+At Symbotic, early career talent plays a meaningful role in helping us reimagine the future of supply chain automation. Through our Internship and Co-op
+programs, students have the opportunity to contribute to real projects, collaborate with experienced engineers and business leaders, and gain hands-on exposure
+to the technologies powering our end-to-end robotics and automation solutions. We are looking for curious, motivated students who are excited to solve complex
+problems, bring new perspectives to cross-functional teams, and see their work make an impact in a fast-moving, innovative environment.
+Along the way, Interns and Co-ops are supported through mentorship, professional development, networking opportunities, and a robust calendar of events designed
+to help them build community and grow their careers. Symbotic offers transportation and housing benefits for students who meet our relocation requirements.
+Continue reading below to learn more about this exciting opportunity!
+What We Need
+Symbotic is seeking for an Intern- Machine Learning Ops to join our ML Operations team within our Software organization. Your job will be to help build, scale,
+and deploy machine learning systems that improve the health, reliability, and performance of our autonomous robot fleet.
+What We Do
+The ML Operations team takes machine learning and perception technologies from research environments into reliable production use across Symbotic's autonomous
+warehouse robots. The team partners with machine learning research, software, hardware, perception, and operations groups to scale predictive monitoring,
+computer vision, deployment infrastructure, and robotic health monitoring capabilities.
+What You'll Do
+- Architect and scale software platforms that support current and future autonomous capabilities.
+- Collaborate with machine learning research and development teams to ensure new models meet production deployment requirements.
+- Optimize robotic fleet deployment pipelines from merge requests through testing and rollout using ONNX, TensorRT, and custom hardware.
+- Maintain and improve edge computing infrastructure to support real-time performance and reliability.
+- Build machine learning pipelines for dataset curation, labeling, training, validation, and evaluation metrics.
+- Develop simulation, diagnostics, monitoring, and alerting capabilities that accelerate robotic system evaluation and reduce mechanical maintenance during
+fleet scale-up.
+- Improve robotic software, compilation architectures, and Docker Compose configurations to increase machine learning performance and balance shared hardware
+resources.
+What You'll Need
+- Pursuing PhD or Master's Degree in related field
+- Coursework or project experience in computer science, software engineering, robotics engineering, machine learning, or a related technical discipline.
+- Proficiency in Python or C++ and the ability to deliver high-quality, working code.
+- Experience with cloud-based infrastructure or services, including Google Cloud Platform (GCP) or Microsoft Azure.
+- Experience working with complex data systems, including data storage, telemetry, camera, or sensor data.
+- Familiarity with machine learning deployment technologies such as ONNX, TensorRT, Docker, or edge computing platforms.
+- Strong collaboration and problem-solving skills for work across machine learning, software, hardware, perception, and operations teams.
+Our Environment
+- Up to 10% of travel may be required. Employees must have a valid driver's license and the ability to drive and/or fly to client locations and company HQ.
+- Employees may be required to use a personal credit card for business travel expenses, which are reimbursed based on the program guidelines. Eligible employees
+may receive a corporate credit card based on role and travel requirements, but a personal credit card may be needed during onboarding until the corporate card
+is issued.
+About Symbotic
+Symbotic is an automation technology leader reimagining the supply chain with its end-to-end, AI-powered robotic and software platform. Symbotic reinvents the
+warehouse as a strategic asset for the world’s largest retail, wholesale, and food & beverage companies. Applying next-gen technology, high-density storage and
+machine learning to solve today's complex distribution challenges, Symbotic enables companies to move goods with unmatched speed, agility, accuracy and
+efficiency. As the backbone of commerce the Symbotic platform transforms the flow of goods and the economics of supply chain for its customers. For more
+information, visit www.symbotic.com.
+We are a community of innovators, collaborators and pioneers who embrace our differences, because we know unique perspectives make us stronger and smarter.
+Every perspective matters. We depend on the collective voices of our employees, customers and community to help guide us as we build a better place to work –
+for you and the world. That’s why we’re proud to be an equal opportunity employer.
+We do not discriminate based on race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status,
+disability, gender identity, gender expression, veteran status, or genetic information.
+The base range for this position in the posted location is $32.00 - $41.80 however, base pay offered may vary depending on job-related knowledge, skills, and
+experience. The compensation package includes medical, dental, vision, disability, 401K, PTO and/or other benefits.

@@ -1,0 +1,54 @@
+The ML Innovation for Products (MLIP) team is an applied machine learning and research team within Meta's Ranking & Foundational AI org, focused on the state-
+of-the-art (SOTA) 0-to-1 ML that powers retrieval, ranking, and auction across Meta's ads systems. This is a very unique team that functions like an applied
+research lab with a production deploy button: we imagine, evaluate, prototype, and ship 10x ideas into one of the largest recommender systems in the world, a
+system that serves billion-scale users every single day and is the engine behind Meta's revenue. As a horizontal team, we have the unique leverage to develop
+SOTA techniques alongside expert engineers and researchers, then scale them into the head models powering Facebook, Instagram, and beyond.What you would work
+onBecause the team works at the boundary of research and production, our research and its applications are intertwined, and much of the work is published at
+major ML and recommender systems conferences. Some of the work the team is involved in includes:Memora, a new scaling paradigm for ads recommendation inspired
+by memory research in LLMs. Learned representations in large recommenders turn out to be highly concentrated, so much of the input signal is effectively ignored
+and further architectural scaling yields flattening returns. We build memory modules that store and retrieve historical model-generated representations and
+inject them back as differentiating signals, improving model quality without proportionally scaling compute. Two workstreams: Learning from Memory (LFM) and
+Enriched Ad Sequences (EAS). Graph Learning at billion-node scale. We build heterogeneous graph representations of users, ads, and their interactions, including
+user journey graphs, and we push the modeling frontier: k-hop induced subgraph methods, temporal GNNs, graph transformers, and deeper architectures with
+residual and spectral rewiring to counter over-smoothing and over-squashing. A parallel track turns this into a self-serve platform so that experiment
+throughput, not infrastructure, is the bottleneck. LLM and Multimodal Fusion. Ad-side and user-side content understanding are both crowded research areas, but
+almost no one combines them with graph-structured relational signals. That gap is the opening. Our SELF workstream, for Semantic-Engagement LLM Fusion,
+contrastively trains ad and user encoders so that engagement structure from the interaction graph and semantic content from multimodal LLMs land in one shared
+embedding space that retrieval can search directly. Agentic AI. We are building a shared agentic layer that abstracts planning, tool orchestration, memory, and
+execution into reusable services. The flagship is IDEA, which has already taken techniques from paper to validated production model improvements end to end,
+with domain overlays that specialize it for memory, sequences, graph learning, retrieval policies, and foundation models. The research questions it raises about
+autonomous experimentation are wide open. Reinforcement Learning. Large parts of the ads retrieval flow are still tuned by hand: how many candidates to keep at
+each stage, how to mix retrieval routes, where to set recall cutoffs. These decisions have no clean ground-truth label to supervise against, which is exactly
+the gap RL is built to close. We replace static global constants with per-request policies learned from logged traffic that optimize the realized system outcome
+directly rather than a low-fidelity offline proxy. Our first production policy personalizes a retrieval keep ratio per request on Facebook Mobile Feed. The
+longer-term direction is joint multi-knob optimization across the flow on one shared reward and off-policy evaluation foundation.Who we are:We are a team of 15
+ML engineers and research scientists spanning Sunnyvale and the Bay Area, supported by senior technical leads with deep experience taking research from idea to
+production. We partner closely with product groups across Meta, so the surface area available to an intern is much wider than any single pod. The team values
+knowledge sharing and continuous learning, and runs regular technical deep dives and AI best-practice workshops alongside a buddy system for onboarding.
+ML Innovation for Products, PhD Research Intern Responsibilities:
+- Conduct state-of-the-art research to advance the science and technology of Machine Learning and Artificial Intelligence.
+- Develop novel algorithms and corresponding systems, leveraging various AI and ML techniques including LLMs and agentic pipelines.
+- Analyze and improve efficiency, scalability, and stability of corresponding deployed algorithms.
+- Collaborate with researchers and engineers across varied disciplines, including communicating research plans, progress, and results.
+- Publish research results and contribute to research that can be applied to Meta product development.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Machine Learning, Artificial Intelligence, Computer Science, Information or Multimedia
+Retrieval, Computer Vision, Natural Language Processing, Reinforcement Learning, Optimization, Computational Statistics, Applied Mathematics, or related
+technical fields
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience with deep learning frameworks such as Pytorch or Tensorflow
+- Experience with Python, C++, C, Java, or other related languages
+- Experience with research and building systems based on machine learning and/or deep learning methods
+Preferred Qualifications:
+- Intent to return to degree program after the completion of the internship/co-op
+- Proven track record of achieving significant research results as demonstrated by grants, fellowships, patents, as well as first-authored publications at
+leading workshops or conferences such as NeurIPS, ICML, ICLR, AAAI, KDD, IJCAI, CVPR, ICCV, ACL, NAACL, ICASSP, or similar
+- Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories
+(e.g. GitHub)
+- Demonstrated experience and self-driven motivation in solving analytical problems using quantitative approaches
+- Experience manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources for large-scale training
+- Experience working and communicating cross functionally in a team environment
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by buildin

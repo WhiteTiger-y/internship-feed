@@ -1,0 +1,44 @@
+Location(s): Franklin, TN Job Schedule: Full-time, 12-week program Degree Level: Master's Level Students Preferred Degree: Data Science, Computer Science,
+Artificial Intelligence, Information Systems, Business Analytics, Engineering, Supply Chain Management, or related field Sponsorship: Not Available Shape the
+Future of Mobility at Nissan: Launch Your Career, Drive Innovation We are currently looking for a Procurement Transformation Intern to join our team in
+Franklin, TN. Join the Nissan Americas Indirect Procurement and Procurement Transformation team as we modernize how Nissan sources the goods and services that
+support the business. Our team combines strategic sourcing and category management with digital procurement, analytics, automation, process improvement,
+training, and governance to drive operational excellence. As an intern, you will work on real business challenges where AI, data, and digital tools can improve
+sourcing insights, reduce manual work, simplify workflows, and enhance the employee experience. This opportunity provides hands-on experience with procurement
+analytics, automation, AI-enabled solutions, low-code development, and cross-functional collaboration. It is ideal for a technology-oriented graduate student
+who enjoys solving business problems through data, digital tools, and innovation. A Day in the Life: Prototype digital workflows and AI-enabled solutions using
+Microsoft Copilot, Copilot Studio, Power Automate, and other approved technologies. Support testing, documentation, governance reviews, and deployment readiness
+activities for automation solutions. Clean, organize, query, and analyze procurement, supplier, sourcing, process, and adoption data using tools such as Python,
+Excel, SQL, APIs, and Power BI. Develop dashboards, reports, and visualizations that provide actionable insights to procurement stakeholders. Create, test, and
+optimize prompts, reusable instructions, and AI-assisted workflows for sourcing, supplier management, contract management, analytics, and procurement knowledge
+use cases. Evaluate AI-generated outputs for accuracy, consistency, traceability, limitations, and appropriate human-review requirements. Collaborate with
+Procurement, Technology, Legal, Compliance, and business stakeholders to support transformation initiatives. Who We’re Looking For: Required: Must be currently
+enrolled in a Master's degree program in Computer Science, Data Science, Artificial Intelligence, Information Systems, Business Analytics, Engineering, Supply
+Chain Management, or a related discipline. Strong problem-solving, written communication, presentation, and collaboration skills. Ability to explain technical
+concepts clearly to both technical and non-technical audiences. Experience creating documentation, training materials, or supporting user adoption activities.
+Foundational experience with Python and data analysis techniques. Exposure to SQL, APIs, data querying, data preparation, visualization tools, or libraries such
+as pandas. Ability to learn new technologies quickly and validate results independently. Experience or strong interest in Microsoft Copilot, Copilot Studio,
+Power Automate, Power Apps, Power BI, or similar AI and workflow automation platforms. Familiarity with generative AI solutions and prompt engineering concepts.
+Understanding of how to develop structured prompts, evaluate model responses, identify unsupported outputs, and refine instructions. Strong analytical thinking
+with the ability to translate business needs into practical AI, analytics, and automation solutions. Interest in procurement, sourcing, digital transformation,
+process improvement, automation, and emerging technologies. Strong organizational skills with the ability to manage multiple projects simultaneously. GPA of 3.0
+or above (Candidates will be required to provide an official or unofficial transcript during the application process for verification.) Ability to perform work
+onsite at Franklin, TN. What You’ll Look Forward to at Nissan: Connection and Collaboration: We offer Business Synergy Teams (ERGs) and opportunities for our
+employees to strengthen relationships and collaborate with colleagues from diverse backgrounds, fostering a culture of belonging. Professional Training and
+Development: Expand your knowledge and skills through Nissan’s rich innovation offerings, seminars, learning platforms, certifications, and leadership
+development programs. Nissan is committed to a drug-free workplace. All employment is contingent upon the successful completion of drug and background
+screenings in accordance with Nissan policies and in compliance with federal, state, and local laws, including the California Fair Chance Act and the Los
+Angeles County Fair Chance Ordinance. Nissan will consider qualified candidates with arrest or conviction records for employment in a manner consistent with
+these laws. It is Nissan’s policy to provide Equal Employment Opportunity (EEO) to all persons regardless of race, gender, military status, disability, or any
+other status protected by law. Candidates for this position must be legally authorized to work in the United States and will be required to provide proof of
+employment eligibility at the time of hire; Nissan uses E-Verify to validate employment eligibility. NISSAN FOR EVERYONE People are our most valuable assets,
+and Nissan seeks to maximize the power of each individual member of our team. When everyone belongs, the power of NISSAN is undeniable. Nissan aims to improve
+business results through a workplace and business that meets the needs of our employees and customer base. Nissan is committed to creating a culture where
+everyone belongs and employees, customers, and partners feel respected, valued, and heard. We have Business Synergy Teams (BSTs) across the Americas that are
+open to all employees and seek to connect employees through common interests and foster a company culture where all employees feel supported and included.
+Nissan also values inclusion in our business as we respect and recognize the diversity of our customer base and the communities where we do business. We are
+committed to procuring innovative goods and services, retailing our products, and communicating from a position that will help us continue to offer our
+customers competitively designed, market-driven products. Join us as we carry our commitment to our employees and customers into the future. Franklin Tennessee
+United States of America Nissan is more than a car company. We are an innovation company. We take the most innovative thinking in the industry and combine it
+with performance, value, efficiency, safety and style. The result: Cars that thrill you every time you get behind the wheel. With over 150 million vehicles
+produced globally, Nissan continues with the goal to enrich the lives of our employees and customers alike.

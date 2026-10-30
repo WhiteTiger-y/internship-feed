@@ -1,0 +1,49 @@
+About Ancestry
+When you join Ancestry, you join a human-centered company where every person’s story is important. Ancestry®, the global leader in family history, connects
+everyone with their past so they can discover, preserve, and share their unique family stories. With our unparalleled collection of more than 65 billion
+records, over 3.5 million subscribers, and over 27 million people in our growing DNA network, customers can discover their family story and gain a new level of
+understanding about their lives. Over the past 40 years, we’ve built trusted relationships with millions of people who have chosen us as the platform for
+discovering, preserving, and sharing the most important information about themselves and their families.
+We are committed to our location flexible work approach, allowing you to choose to work in the nearest office, from your home, or a hybrid of both (subject to
+location restrictions and roles that are required to be in the office- see the full list of eligible US locations HERE). We will continue to hire and promote
+beyond the boundaries of our office locations, to enable broadened possibilities for employee diversity.
+Together, we work every day to foster a work environment that's inclusive as well as diverse, and where our people can be themselves. Every idea and perspective
+is valued so that our products and services reflect the global and diverse clients we serve.
+Ancestry encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. Passionate about dedicating your
+work to enriching people’s lives? Join the curious.
+Ancestry is seeking an exceptional and highly motivated Data Science Co-Op to join our Content AI team, a dynamic group at the forefront of Document
+Understanding. You’ll play a vital role in developing innovative AI models that extract and organize text and image information from billions of historical and
+genealogical records enabling customers to discover, share, and connect with their family history. As a Co-Op on the Content AI team, you will build, train and
+fine-tune models that process historical documents to detect meaningful, personalized insights within historical documents that connect people to their
+ancestors. You will also work closely with engineering teams to train, optimize, and deploy models that promote product development, customer success, and
+content creation across our Family History business.
+What You Will Do
+- Innovate with State-of-the-Art AI: Implement and experiment with cutting-edge transformer and generative AI solutions for key Document Understanding tasks,
+including OCR, handwriting recognition, transcription, Named Entity Recognition (NER), Relation Extraction (RE), Coreference Resolution, Summarization, and
+Knowledge Graphs working with diverse genealogical and historical collections spanning newspapers, city directories, family history books, and vital records
+(birth, marriage, death).
+- Analyze and Optimize Multi-Modal Models: Evaluate the performance of multi-modal models in zero-shot and few-shot learning scenarios for comprehensive
+document understanding.
+- Collaborate on Cloud Deployment: Partner closely with ML Ops and Data Science Engineers to seamlessly deploy datasets, truth sets, models, and pipelines for
+training and inference in cloud environments.
+- Communicate Insights Effectively: Clearly and confidently present your findings, deliverables, and proposed solutions to technical and non-technical
+audiences, including teams, stakeholders, and executives.
+Who You Are
+- Currently pursuing an advanced degree (Master's or PhD preferred) in Computer Science, Data Science, Statistics, Mathematics, Linguistics, Engineering or
+related quantitative field with a strong data focus.
+- Specialization in generative AI & LLMs, embeddings, LoRA, QLoRA, vector databases, transformer models, Natural Language Processing (NLP), with software
+development expertise including data structures, distributed model training, and inference optimizations.
+- Exhibit strong proficiency in Python and relevant tools and libraries, including those for transformer models, multi-modal models, and general NLP (e.g.,
+Hugging Face Transformers, agentic frameworks and workflows, LangChain, LangGraph, NLTK).
+- Familiarity with cloud platforms and related AI/ML services such as Google Gemini API, Vertex AI, AWS EC2, S3, SageMaker, Model Registry, and Bedrock is a
+plus.
+Additional Information
+Ancestry is an Equal Opportunity Employer that makes employment decisions without regard to race, color, religious creed, national origin, ancestry, sex,
+pregnancy, sexual orientation, gender, gender identity, gender expression, age, mental or physical disability, medical condition, military or veteran status,
+citizenship, marital status, genetic information, or any other characteristic protected by applicable law. In addition, Ancestry will provide reasonable
+accommodations for qualified individuals with disabilities.
+All job offers are contingent on a background check screen that complies with applicable law. For candidates who live in San Francisco, CA, pursuant to the San
+Francisco Fair Chance Ordinance, Ancestry will consider for employment qualified applicants with arrest and conviction records.
+Ancestry is not accepting unsolicited assistance from search firms for this employment opportunity. All resumes submitted by search firms to any employee at
+Ancestry via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole
+property of Ancestry. No fee will be paid in the event the candidate is hired by Ancestry as a result of the referral or through other means.

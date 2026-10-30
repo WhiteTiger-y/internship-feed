@@ -1,0 +1,42 @@
+The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offers may vary based
+on factors such as work experience, education and/or training, critical skills, and/or business considerations. Offers reflect the total compensation package.
+This position is 100% onsite
+The Marvin Group is a Strategic Partner for Global Alternate Mission Equipment and Sustainment
+The Marvin Group, a leading defense contractor, plays a crucial role in the development and manufacturing of various systems for military aerospace and
+vehicles. Based in Southern California near the Los Angeles International Airport, The Marvin Group consists of Marvin Engineering (MEC), Marvin Test Solutions
+(MTS) and Marvin Land Systems (MLS). Marvin Engineering designs and produces military Alternate Mission Equipment. Marvin Test Solutions designs and
+manufactures armament Test Equipment. Marvin Land Systems specializes in the design and build of power and thermal management systems. For over 60 years we have
+maintained “A Tradition of Excellence”, serving as a trusted source for our unwavering commitment to supporting all branches of the Department of Defense and
+our global allies. Our collaboration extends across a diverse array of programs and platforms, including major military prime contractors such as Lockheed
+Martin, Northrop Grumman, and Raytheon.
+Summary
+The selected Intern, will support AI Development, prototyping, building, and shipping useful AI-enabled internal applications. The intern works directly with
+users, turns practical workflow needs into maintainable software, and improves solutions through feedback and measured results.
+Essential Responsibilities
+- Build and iterate on AI-enabled internal web applications from working prototype through reliable release.
+- Integrate LLM APIs, structured outputs, retrieval, and tool or function calling where they solve a clear user need.
+- Develop application logic in Python and/or TypeScript, with practical front-end, back-end, API, and web-interface work.
+- Connect applications to databases, business data, and external services while handling authentication, errors, and data quality.
+- Create evaluations and automated tests; review outputs, dependencies, permissions, and data handling with a security-minded approach.
+- Work with users to observe results, troubleshoot issues, document systems and decisions, and improve usefulness, reliability, and maintainability.
+Required Qualifications
+- Must be enrolled or have completed an undergraduate or postgraduate, or accredited technical program and be a Sophomore, Junior, Senior or Postgraduate
+student by the start of summer, pursuing Information Technology, Computer Science, or related field.
+Preferred Qualifications
+- Demonstrated ability to build and ship functioning software applications, including examples that use LLMs or other AI services.
+- Working proficiency in Python and/or TypeScript plus core web concepts such as APIs, HTML/CSS, and client-server behavior.
+- Experience with SQL or other application databases, data integration, version control, debugging, testing, and deployment workflows.
+- Ability to evaluate nondeterministic AI behavior, define acceptance checks, recognize failure modes, and communicate tradeoffs clearly.
+- Hands-on familiarity with modern AI-assisted development tools such as Claude Code and OpenAI Codex, paired with sound engineering judgment and review of
+generated changes.
+This position must meet export control compliance requirements. All applicants must be “U.S. persons” within the meaning of ITAR, as defined: a U.S. Citizen, a
+lawful permanent resident, political asylee, or refugee.
+U.S. citizenship is required for roles involving government security clearances or access to export‑controlled information. Certain positions may also restrict
+dual citizenship in accordance with U.S. government regulations.
+Interested parties please apply online and submit resume to https://jobs.marvingroup.com/
+Visit us at https://http://marvingroup.com/
+The Marvin Group is an EEO/Disability/Vets Employer.
+Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and
+responsibilities, please visit www.dhs.gov/E-Verify.
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability
+or unable to access or use this online application process and need an alternative method for applying, you may contact People & Culture at 310.674.5030.

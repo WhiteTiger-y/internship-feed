@@ -1,0 +1,81 @@
+##
+Company:
+Qualcomm Canada ULC
+## Job Area:
+Interns Group, Interns Group > Interim Engineering Intern - SW
+## Qualcomm Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform
+industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform
+5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+General Summary:
+About Qualcomm
+Qualcomm relentlessly innovates transforming businesses, enriching lives and fortifying societies. Our solutions are pivotal in crafting a smarter,
+interconnected world. Building on our nearly 40-year history of era-defining technology breakthroughs, we deliver leading-edge AI, high performance, lower-power
+computing, and unrivaled connectivity. We’re proud to be the partner of choice to many of the world’s largest enterprises. Together with our ecosystem partners,
+we enable next-generation digital transformation. At Qualcomm, we are engineering human progress.
+Join Us in Shaping the Future
+At Qualcomm, we're committed to engineering human progress by delivering intelligent computing everywhere. We're passionate about harnessing the power of
+technology to transform industries and improve lives. Our early career programs offer limitless opportunities for growth, mentorship, and meaningful work. By
+joining our team, you'll be part of a community that's pushing the boundaries of what's possible in AI, computing, and connectivity. With a global footprint
+spanning over 30 countries, you'll have the chance to collaborate with diverse talent and contribute to projects that are shaping the future of technology.
+Our early career programs are designed to attract inventive minds, offering a platform to contribute to our long-term innovation pipeline. You'll be part of a
+community that values collaboration, creativity, and continuous learning. Our programs provide real-world experience, technical skills, and professional
+development opportunities, empowering you to make a meaningful impact and achieve your career goals. Join us for our 2027 intern class in Toronto, Canada!
+Maximize Your Opportunities:
+Our internship hiring model routes candidates from this application into multiple project specific roles. Your "Profile Visibility" choice will guide how we
+manage your data across our systems. To be considered for the full breadth of internship opportunities, select the option to use your profile data for "Any
+Roles Globally".
+If you choose to limit your data to "Only The Role I'm Applying For", it will restrict the opportunity for you to be considered across matching internship
+opportunities.
+You can update your profile visibility preferences at any time through the Candidate Home Portal.
+Steps:
+* Log Into Your Eightfold Candidate Home Account
+* Hover Over The "Profile" Dropdown
+* Open Settings
+* Edit "Profile Visibility"
+Role Overview
+Qualcomm develops leading-edge ASIC and SoC solutions spanning compute, connectivity, and AI acceleration, including Snapdragon processors. Our team focuses on
+connectivity and data-center silicon, developing advanced ASIC/SoC solutions for high-bandwidth networking, infrastructure compute, and AI workloads.
+We are looking for a motivated Software Systems & AI Co-op student to build ASIC design flows and methodologies into full-stack applications, AI-powered tools,
+and automation for engineering teams. We’re looking for someone who has hands-on experience with EDA/CAD tools, ASIC Design, Firmware Development and also good
+understanding of Node.js, React, PostgreSQL, JavaScript/TypeScript/python, modern web technologies and project management, plus an interest in applying AI to
+real engineering problems.
+Responsibilities may include:
+* Building responsive web applications using React
+* Developing backend services and APIs using Node.js (JavaScript/TypeScript/python)
+* Designing and working with PostgreSQL databases
+* Building AI-powered tools and agentic workflows, including orchestrating AI agents and integrating LLMs with tools, APIs, and engineering systems
+* Exploring AI-assisted CAD/design and engineering automation
+* Improving developer tools, testing, automation, and engineering workflows
+* Collaborating across software, hardware, firmware, AI, and DevOps teams
+* AI assisted project management, including tracking tasks and deliverables, coordinating across teams, following up on action items, and helping keep projects
+on track
+Minimum Qualifications:
+* Pursuing Computer Science, Software Engineering, Computer/Electrical Engineering, or a related degree
+* Demonstrated experience building full-stack applications using React, Node.js, and PostgreSQL
+* Strong JavaScript/TypeScript, SQL, REST API, Git, and Linux fundamentals
+* Understanding of LLMs, generative AI, AI agents, tool calling, and agent orchestration
+* Interest or experience in AI-assisted CAD/design or engineering workflows
+* Strong problem-solving skills and ability to learn and build quickly
+Preferred Qualifications:
+* Python and experience with LLM APIs, RAG, or agent frameworks
+* CAD/EDA, design automation, or hardware/software experience
+* C/C++, networking, Docker, CI/CD, or automated testing
+* Personal, academic, or internship projects demonstrating full-stack or AI development
+Education Requirements:
+* In study towards a bachelor’s degree in one of the following: Electrical Engineering, Computer Engineering, Engineering Science, Computer Science, or related
+field
+* For 4-month internships: must be available January 2027 - April/May 2027
+* Expected graduation date of November 2027 or later.
+* 1+ years of academic experience with programming languages such as C, C++, Python, etc
+Qualcomm’s Internship Program
+Our interns join world-class teams to help define and build what is next for mobility and the world. You’ll be paired with a mentor with visibility to your
+project and team, receive support from your manager, and have access to the entire Qualcomm employee community to ensure your success. To round out your
+internship, we host professional development workshops, social events, cross-functional speaker sessions, and an executive speaker series. In addition to
+competitive hourly pay and accrued vacation time, you will receive housing stipend to accommodate for the duration of your internship.
+Application Process
+We will review resumes on an ongoing basis, and a recruiter may reach out to you. Advancing candidates may be invited to complete a timed HackerRank challenge
+to evaluate their technical skill set.
+Export Control Notice
+This role may require an export license for candidates with citizenship in certain countries (see current country list below – subject to change). Qualcomm,
+like other companies, is experiencing significant delays in the export license process. Please be advised that if an

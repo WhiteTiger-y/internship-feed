@@ -1,0 +1,79 @@
+General Summary
+GTI Energy, a leading energy research, development, and training organization, is seeking an intern to join its Modeling and Energy Systems Analytics (MESA)
+Team for Summer 2027. The intern will enhance our capabilities in data science, modeling, analytics, statistics, or other quantitative methods by supporting
+enterprise-wide initiatives. In this role, the Intern will support ongoing projects, including scientific research and the development of new technologies,
+novel insights, and low-carbon energy systems using data-driven modeling and analysis.
+Why GTI Energy?
+GTI Energy is where complex energy challenges meet bold solutions. With deep expertise in energy research, technology development, and business innovation, we
+help partners across industries build and demonstrate solutions for better-performing energy systems. Collaboration, innovation, and systems thinking guide our
+progress.
+Joining GTI Energy means joining a purpose-driven team motivated by learning, growing, and making an impact. We offer competitive compensation, strong benefits,
+and opportunities for professional development in a culture that values respect and belonging. Recognized as a Chicago Tribune Top Workplace for seven
+consecutive years, our people-focused culture reflects our commitment to creating an environment where people feel supported, valued, and able to thrive.
+Benefits Overview
+GTI Energy offers a competitive total rewards package including health coverage, retirement plans, paid time off, and professional development opportunities. A
+high-level overview is available at: 2026 Benefits at a Glance GTI Energy.
+Work Location
+The position will be based in the Chicagoland area at the GTI Energy Headquarters. We offer a hybrid/core work week, where employees are remote Mondays and
+Fridays, and required to be on-site Tuesday through Thursday, subject to manager discretion. This position may require some field travel to GTI Energy’s offsite
+Fort Collins, CO office location as needed.
+Travel
+- Less than 5%
+Primary Responsibilities
+In this role, you may:
+- Perform exploratory data analyses and apply statistical modeling and machine learning approaches to answer research questions and develop tools to support
+data-driven decision making
+- Scrape and wrangle data from open-source repositories
+- Create data visualizations and dashboards to communicate insights and findings to stakeholders
+- Develop energy systems models to characterize interactions among energy supply and demand, as impacted by new technologies, climate, and weather
+- Apply and develop advanced analytical techniques such as AI, computer vision, and neural networks
+- Develop presentations and written reports to communicate findings
+- Develop unique approaches to investigating key research questions, including leading programs related to methane emissions mitigation, digitalization in
+energy, and net zero energy systems
+- Support ongoing research efforts using a disciplined approach and standard best practices
+- Participate in 1-on-1 and team meetings and contribute to team projects
+- Participate in GTI Energy Modeling and Energy System Analytics team building and networking events
+- Perform other duties as assigned
+Required Knowledge, Skills, And Abilities
+- Excellent problem-solving skills and ability to work independently
+- Strong written and oral communication, including an ability to translate technical information into a format that is understandable and valuable to non-
+technical audiences
+- Ability to work collaboratively on teams with both technical and non-technical members
+- General knowledge of the energy industry, particularly related to the natural gas supply chain (including emissions management), hydrogen, energy efficiency,
+or engineering methods
+- Willingness to learn new analytical techniques and data science methods
+- Strong organizational and time management skills with excellent attention to detail
+- Strong programming skills, preferably in R, Python, or similar software
+- Ability to wrangle and process data using programming libraries (e.g., tidyverse, pandas)
+- Policy and Regulation knowledge related to energy is a plus
+- Familiarity with/interest in environmental justice is a plus
+- Familiarity with and ability to implement basic statistical analyses and concepts, such as t-tests, linear regression, hypothesis testing, and confidence
+intervals, and machine learning techniques, such as classification, clustering, and predictive modeling
+- Familiarity with advanced statistical methods such as Bayesian analysis, time-series or spatial analyses, or survey statistics a plus
+- GIS experience and programming is a plus
+Education And Experience
+- Currently enrolled in or completed within the last year a Bachelor or Master’s degree program in computer science, data science, statistics, mathematics or a
+related field
+- Experience demonstrating ability to communicate technical statistical/analytical concepts a plus
+- Experience using data visualization techniques and programming libraries (e.g., scatterplots, boxplots, ggplot2, pandas, matplotlib)
+Engineering and Science: Physical & Work Environment Requirements
+Work is performed in laboratory, pilot plant, or technical facility environments and may involve:
+- Remaining in a stationary position, often standing or sitting for prolonged periods
+- Repeating motions that may include the wrists, hands and/or fingers
+- Stand for extended periods and move between workspaces while adhering to established safety procedures
+- Work in laboratory environments with exposure to noise, temperature variations, and controlled chemical or mechanical hazards
+- Lift up to 30 pounds
+- Perform repetitive lifting of moderate weight
+- Climb stairs and ladders and stand for up to 4 hours per day
+- Work outdoors in varying environmental conditions
+- Remaining in a stationary position, often standing or sitting for prolonged periods.
+- Repeating motions that may include the wrists, hands and/or fingers.
+Pay Transparency
+The salary range for this position is $17/hour - $28/hour USD annually. This salary range is GTI Energy’s good faith estimate, and the actual salary may vary
+based on a number of factors including, but not limited to, GTI Energy’s business or organizational needs and an individual’s relevant experience, education,
+qualifications, certifications, skills, seniority, geographic location, and/or performance. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus. The range listed is just one component of GTI Energy’s total compensation package for
+employees. Other rewards may include annual bonuses, paid time off, and region-specific benefits.
+EEO Statement
+GTI Energy is committed to developing a barrier-free recruitment process and work environment. If you require any accommodation, please e-mail us at
+HumanResources@gti.energy and we’ll work with you to meet your accessibility needs. Y

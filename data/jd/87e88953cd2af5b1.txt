@@ -1,0 +1,82 @@
+Archer is collaborating with J.P. Morgan to connect them with exceptional professionals for this role.
+JOB DESCRIPTION
+At JPMorganChase, we champion your innovative ideas through a supportive culture that helps you every step of the way as you build your career. If you are
+passionate, curious and ready to make an impact, we are looking for you.
+Job Summary
+As a Quantitative Research – Risk and Treasury Summer Associate in the Quantitative Modeling Program, you will work alongside top-tier professionals in a
+dynamic environment. You'll apply academic knowledge to real-world financial challenges, gain hands-on experience, and build a valuable network. This program
+sets a solid foundation for your career, with potential full-time offers upon successful completion.
+Job Responsibilities
+- Analyze data to identify patterns and trends.
+- Conduct back testing and assess strategies.
+- Maintain and improve software systems and tools for risk and treasury operations.
+- Assess models for conceptual soundness, risks, and enhancements.
+- Propose creative solutions to complex challenges.
+- Collaborate with internal teams to advance risk and treasury services.
+- Focus on model development and review of conceptual design.
+- Develop, validate, and enhance mathematical models and algorithms.
+- Optimize financial solutions across asset classes and instruments.
+Required Qualifications, Capabilities, And Skills
+- Enrolled in a Master's, or PhD program in mathematics, statistics, physics, engineering, computer science, economics, or data science/machine learning,
+graduating between December 2027 and August 2028 in the U.S.
+- Proficiency in Python, and/or C++ programming.
+- Strong modeling, analytical, quantitative, and problem-solving skills.
+- Excellent communication skills for presenting complex concepts.
+- Interest in banking analytics, global markets, and quantitative research.
+- Ability to thrive in a fast-paced, collaborative environment.
+Preferred Qualifications, Capabilities And Skills
+- Preferred to have candidates who enrolled in a 2 years Master's or PhD program.
+- Experience with R, MATLAB, or SQL.
+- Understanding of banking products, financial instruments, and market dynamics.
+- Strong organizational skills for managing multiple projects.
+- Ability to articulate complex quantitative concepts to diverse audiences.
+- Familiarity with AI tools used in research and programming.
+Locations
+- New York Metro
+- Plano, TX
+- Chicago, IL
+Teams Available
+Risk - Model Risk Governance Review Team
+Team Role:
+The Model Risk Governance and Review (MRGR) group is responsible for conducting model validation to help identify, measure, and mitigate Model Risk. The
+objective is to ensure that models are used appropriately in the business context and that model users are aware of the models' strengths and limitations and
+how these can impact their decisions.
+Team Task:
+Evaluate conceptual reasonableness of assumptions, reliability of inputs and the estimation methodology, completeness of testing, and correctness of
+implementation associated with development and use of the model. Draft validation reports. Interact with model developers.
+Team Role:
+Risk - Wholesale Credit Team
+Work as a quantitative researcher/engineer in the Wholesale Credit team, contributing to innovative credit risk solutions. Collaborate with experts to design
+and implement financial engineering models for wholesale credit portfolios. Apply advanced quantitative techniques to analyze credit exposures and forecast
+performance under various scenarios. Support the development of new methodologies to address emerging risks in wholesale lending.
+Team Task:
+Develop statistical, AI/ML, and platform engineering solutions for grading, forecasting, and risk management activities. Build robust models to assess borrower
+creditworthiness and predict potential defaults. Enhance risk management frameworks by integrating data-driven insights and automation. Partner with business
+stakeholders to deliver actionable analytics that inform strategic credit decisions.
+Treasury - Quantitative Balance Sheet Strategy Team
+Team Role:
+Quantitative Balance Sheet Strategy (QBSS) delivers quantitative analytics to support JPMorganChase's Global Corporate Treasury in Asset & Liability Management
+and balance sheet strategy. Key functions include ALM, research, capital and liquidity strategy, quantitative modelling and analytics across all lines of
+business. QBSS supports initiatives such as firm-wide balance sheet optimization, interest rate risk modeling, internal transfer pricing, capital allocation,
+and industry-leading research on financial flows.
+Team Task:
+In QBSS we provide our interns with broad exposure to business activities under the Corporate Treasury umbrella. A typical summer internship includes one or two
+major projects as well as multiple ad-hoc exercises. Past projects have spanned interest rate risk forecasting, liquidity position modeling, capital buyback
+optimization, risk-adjusted performance measurement of investment portfolio allocation, balance sheet optimization via dimensionality reduction, analysis of
+industry-wide deposit flow dynamics, and market share evolution in major lending markets.
+About You
+We are looking for innovative problem-solvers with a passion for developing complex solutions that support our global business.
+Beyond that, what we're most interested in are the things that make you unique: the personal qualities, outside interests and achievements beyond academia that
+demonstrate the kind of person you are and the difference you could bring to the team.
+About Us
+At JPMorganChase, we're creating positive change for the diverse communities we serve. We do this by championing your innovative ideas through a supportive
+culture that helps you every step of the way as you build your career. If you are passionate, curious and ready to make an impact, we are looking for you.
+What's Next?
+Help us learn about you by submitting a complete and thoughtful application, which includes your resume. Your application and resume are way for us to initially
+get to know you, so it's important to complete all application questions so we have as much information about you as possible. To start the application, you
+will be prompted to enter your email address. Your email address will be used to create and maintain your profile so make sure it is one you will have long term
+access to. Do not use an email address with “.edu” extension as doing so could result in delays receiving updates regarding your candidacy.
+After you confirm your application, we will review it to determine whether you meet required qualifications. If you are advanced to the next step of the
+process, you'll receive an email invitation progress to the Technical Screen Interview.
+JPMorganChase is committed to creating an inclusive work environment that respects all people for their unique skills, backgrounds and professional experiences.
+We strive to hire qualified, diverse candi

@@ -1,0 +1,38 @@
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created
+by our global community of developers and creators.
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine
+the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and
+looking for amazing talent to help us get there.
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer,
+more civil shared experiences for everyone.
+At Roblox, we believe advanced research belongs in production, driving core algorithmic advances at a global scale. Machine Learning is a key growth lever,
+powering everything from real-time 3D generative AI to complex ecosystem economics across our global platform. As an Applied Scientist - PhD Intern, you’ll be
+part of a community of curious scientists and engineers building the foundational and applied ML methods at a scale of millions of daily active users and
+billions of daily AI requests. We combine innovative research—including Computer Vision and Graphics, multimodality, NLP, and recommendation systems—with world
+scaling distributed engineering.
+During your 12 or 16 week internship in the Winter, Summer, or Fall, you’ll own a high-impact project from ideation and experimentation to production and
+publication. There’s also the possibility of continued collaboration beyond your internship, as we support experimentation and production with top researchers,
+engineers, faculty, and PhD candidates globally that can lead to publications at esteemed venues.
+You Will
+- Prototype, experiment with, and deploy advanced AI, machine learning, and 3D technologies to solve real-world challenges at scale.
+- Translate cutting-edge research into production-ready features alongside our community of curious, cross-functional engineering and product teams.
+- Develop, deliver, and optimize solutions that measurably enhance user experience, safety, and creativity on our platform.
+You Have
+- Possess or are pursuing a PhD in computer science, engineering, or a related field, with a thesis aligned to Roblox’s research areas.
+- Deep expertise in a relevant technical domain, including deep learning, computer vision, NLP, reinforcement learning, or distributed systems.
+- Proficiency in one or more programming languages (e.g., Python, C++, Go, Java) with experience building and optimizing large-scale systems.
+- A strong research track record, evidenced by multiple publications and presentations in highly regarded peer-reviewed venues.
+You may redact age, date of birth, and dates of attendance/graduation from your resume.
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon
+a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some
+circumstances, the actual hourly rate could fall outside of this expected range. This pay range is subject to change and may be modified in the future. Please
+note that not all benefits shown on this page are applicable to internship opportunities.
+Hourly Pay Range
+$72—$72 USD
+Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without
+regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or
+expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying
+disabilities or religious beliefs during the recruiting process.
+For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain
+U.S. visa categories, or support future H-1B sponsorship at this time.

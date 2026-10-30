@@ -1,0 +1,45 @@
+Axiom Space is a human space exploration company, building era-defining space infrastructure and delivering technology-driven solutions that will empower
+civilization to transcend Earth. Beginning with Axiom Station, successor to the International Space Station, the company is pioneering a next-generation orbital
+settlement that will foster groundbreaking innovation and research in microgravity and drive the global space economy of tomorrow. Today, guided by the vision
+of leading humanity's expansion off planet, Axiom Space is the principal provider of commercial human spaceflight services and developer of advanced spacesuits
+for the Moon and beyond. For more information about Axiom Space, visit www.axiomspace.com. Axiom Space fosters a work environment inclusive of all perspectives.
+We are the pioneers of commercial space, leading the transformation of low-Earth orbit into a global space marketplace. Our mission-driven team is seeking a
+bold and dynamic Data Analyst Intern who is fueled by high accountability, execution horsepower, and driven to understand our world, science/technology, and
+life itself, for the benefit of all on Earth and beyond. POSITION SUMMARY Since Axiom Space is a very complex work environment, we are looking for a curious,
+detail-oriented Data Analyst Intern who enjoys finding the story in the numbers and making sure the numbers can be trusted. The Digital Integration team builds
+and maintains the enterprise analytics environment that gives leadership and program teams visibility into KPIs across Finance, Operations, Supply Chain, and
+Engineering. This internship offers hands-on experience with a production analytics platform during an active modernization of our data pipelines. Reporting to
+the Manager of Digital Integration, you will work alongside our Data Analyst and Data Engineer on bounded projects with clear deliverables. This is a learning
+role: you will be mentored, your work will be reviewed, and you will finish with a portfolio of real work. The internship will be onsite at Axiom Space in
+Houston, Texas from June 1 to August 20. Interns are responsible for arranging their own transportation and accommodations. KEY DUTIES & RESPONSIBILITIES
+Supports validation of data as pipelines are modernized, comparing outputs between existing and new sources (row counts, totals, and key metrics) and
+documenting discrepancies Tests Power BI reports after dataset changes to confirm figures remain accurate, and logs results Documents KPI definitions, business
+logic, and DAX measures in a central reference to support a governed, single-source-of-truth metrics layer Builds and maintains a data dictionary covering
+tables, fields, grain, and source mappings Reviews data quality exception reports, identifies recurring patterns, and summarizes findings for the team Develops
+Power BI dashboards or report pages for internal stakeholders using approved data models, under review by a senior team member Supports user acceptance testing
+by writing test cases and coordinating feedback from business users Presents a summary of work to the team and IT leadership at the end of the internship
+Perform additional job duties as assigned WHAT YOU’LL GAIN Hands-on experience with a production analytics platform during an active data pipeline modernization
+Mentorship from the Digital Integration team, with your work reviewed by senior team members A portfolio of real work you can speak to in future interviews The
+opportunity to present your work to the team and IT leadership QUALIFICATIONS: To perform this job successfully, an individual must be able to perform each
+essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may
+be made to enable individuals with disabilities to perform the essential functions. Education & Experience Rising Junior, Senior, or Graduate student (MS/MA or
+Ph.D.) pursuing a degree in Management Information Systems, Computer Science, Data Science, Statistics, Mathematics, Engineering, Business Analytics, or a
+related field Cumulative GPA of 3.0 or higher Coursework or project experience with SQL (joins, aggregations, filtering) Working knowledge of Excel (pivot
+tables, formulas); VBA is a plus Exposure to Power BI or a similar tool such as Tableau, through coursework or personal projects Strong attention to detail and
+a habit of checking your own work Ability to handle confidential information with discretion Familiarity with Python, DAX, cloud data platforms (AWS), or Agile
+practices preferred Core Skills Passion for space and the mission Entrepreneurial, growth mindset High EQ and ability to collaborate within teams and cross-
+functionally Tech-solutioning in using systems and tools to move smarter and faster Clear written and verbal communication, including the ability to explain
+findings to non-technical audiences Excellent organizational skills and ability to manage multiple tasks Result oriented personality with a creative approach to
+problem solving Self-motivated, with the willingness to ask questions early Ability to work in a team environment Core Competencies: Embody our core values of
+leadership, innovation, and teamwork. In addition, to perform the job successfully, an individual should demonstrate the following competencies: Accountability
+Technical Rigor Execution Discipline Pride of Delivery WORK ENVIRONMENT: Generally, an office environment, but can involve inside or outside work depending on
+the task. Requirements This position may require access to export controlled technical data or technology subject to NASA regulations, International Traffic in
+Arms Regulations (ITAR), or Export Administration Regulations (EAR). In accordance with U.S. export control laws, final candidates may be required to undergo
+additional export control screening to determine eligibility for access. Meeting these requirements is a condition of employment. Must qualify as a “U.S.
+person” under U.S. export control laws (U.S. citizen, lawful permanent resident, or protected individual) Must be able to complete a U.S. government background
+investigation Must sign Axiom Space’s confidentiality and intellectual property agreements as a condition of the internship Access to data models and datasets
+is limited to approved, role-based access under supervision; the work may involve Finance, Supply Chain, and Engineering data Management has the prerogative to
+select at any level for which the position is advertised Physical Requirements Work may involve sitting or standing for extended periods (90% of the time) May
+require lifting and carrying up to 25 lbs. (5% of the time) Equipment and Machines Standard office equipment (PC, phone, printer, etc.) Axiom Space is proud to
+be an equal opportunity employer. Axiom Space does not discriminate on the basis of race, regional color, national origin, gender (including pregnancy,
+childbirth, or related medical conditions), se

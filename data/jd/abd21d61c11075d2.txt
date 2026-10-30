@@ -1,0 +1,59 @@
+Summary
+As a FedEx Intern, you will be working on projects gaining you valuable, real-world experience in a professional environment as it relates to your field of
+study.
+Essential Functions
+- Under close supervision, the successful candidate may assist with providing analytical support to drive efficiency, consistency and control throughout current
+business initiatives. The intern may assist with industry market research, global business intelligence, and emerging trends analysis.
+- The intern will analyze specific business metrics and research/analyze data, industry trends, and market information to gain insight into transportation and
+logistics metrics in identified industry vertical.
+- Present and deliver long-term solutions that will have significant impacts to the business and/or customer experience.
+- Participates in various networking and/or community service events.
+- Perform other duties as assigned.
+Additional Detail
+- Assist in building, testing, and scaling state-of-the-art pricing recommendation engines, predictive models, and agentic solutions utilizing machine learning
+frameworks.
+- Support the research, development, and testing of AI agents and automated optimization systems that improve pricing decision-making and operational speed.
+- Work with large, complex datasets to perform data extraction, cleaning, mapping, and pipeline automation.
+Preferred Qualifications
+- Hands-on Modern Data Stack Experience: Practical experience or academic project work utilizing Python, SQL, PySpark/Spark within Azure or GCP environments.
+- Cloud Native Exposure: Familiarity with cloud infrastructure concepts. Knowledge of GCP services like BigQuery, Cloud Storage, Vertex AI is a plus.
+- Mathematical & Predictive Modeling Foundations: Strong academic coursework or background in predictive modeling, price optimization, machine learning
+frameworks and statistical analysis.
+Minimum Education
+Currently enrolled student or recent college graduate (within 6 months of graduation) at a college/university obtaining a 3.0 GPA or higher. Degree: Master’s
+degree program such as Business, Finance/Economics, Computer Science, Management, Project Management, Information Systems, Operations Management, Operations
+Research, Supply Chain/Logistics, Transportation, Engineering, Technology, Math, Marketing or other related major.
+Minimum Experience
+No experience required.
+Knowledge, Skills And Abilities
+- Ability to work productively and proactively, both independently and as a part of a team.
+- Working knowledge of Microsoft Word, Excel, Outlook and PowerPoint.
+- Demonstrates interpersonal communication skills.
+- Time management, organizational and multi-tasking skills necessary to work in a fast-paced environment, handling various tasks and changing priorities, while
+maintaining a high attention to detail and accuracy to achieve daily assignments and goals.
+- Verbal and written communication skills necessary to communicate with across business units and to all levels of management.
+- Ability to analyze, review, and make recommendations.
+Domicile
+This is a hybrid position located in Memphis, TN. Candidates must live within 50 miles of the campus location. Employees will be required to work at the FedEx
+campus location several times per week.
+Availability to work 40 hours/week for a 10-week program, June 7th - August 13th. Resumes should include the following information: email address, telephone
+number, name of college/university, degree, major, GPA, date of intended graduation (month & year).
+Immigration sponsorship is not available for intern positions. Sponsorship may be available for full-time, exempt positions, depending on the specific role and
+federal regulations. Note, sponsorship is never guaranteed under any circumstances.
+Preferred Qualifications: ﻿﻿ ﻿﻿
+Pay Transparency: ﻿﻿ ﻿﻿ ﻿﻿
+Pay: ﻿﻿
+Additional Details: ﻿Posting closes on: 11/06/2026 at 4:00 PM CST / 5:00 PM EST.﻿
+For details on our comprehensive benefits, click here.
+Federal Express Corporation is an Equal Opportunity Employer including, Vets/Disability.
+Reasonable accommodations are available for qualified individuals with disabilities throughout the application process. Applicants who require reasonable
+accommodations in the application or hiring process should contact recruitmentsupport@fedex.com.
+Applicants Have Rights Under Federal Employment Laws
+- Know Your Rights
+- Pay Transparency
+- Family and Medical Leave Act (FMLA)
+- Employee Polygraph Protection Act
+E-Verify Program Participant: Federal Express Corporation participates in the Department of Homeland Security U.S. Citizenship and Immigration Services’
+E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:
+- E-Verify Notice (bilingual)
+- Right to Work Notice (English) / (Spanish)

@@ -1,0 +1,44 @@
+Position Summary...
+What you'll do...Role summary:
+As a Market Strategy Data Science Intern, you will analyze demographic, competitive and geographic trends that inform real estate and market growth strategies.
+You will collaborate with cross-functional partners to evaluate site opportunities, identify patterns in large datasets and generate predictive insights for
+store location planning and portfolio optimization.
+About the team:
+Walmart Real Estate supports the places and physical assets that enable Walmart to serve customers and communities. Our work spans the full real estate
+lifecycle and brings together teams across strategy, portfolio and development, design, construction, facilities, fuel and convenience, data, technology, and
+other supporting functions.
+This graduate/MBA internship supports Market Strategy through data science, artificial intelligence, and geospatial analysis. The role will help identify high-
+priority growth opportunities and strengthen data-informed real estate decisions.
+What you'll do:
+- Analyze demographic, competitive and geographic data to support market prioritization.
+- Use SQL, machine learning and geospatial methods to identify patterns and generate actionable insights.
+- Build a market prioritization model in Power BI.
+- Explore an agentic AI and optimization solution to improve market and site opportunity decisions.
+- Translate analytical results into recommendations for market strategy and real estate leaders.
+- Collaborate with data science, real estate, strategy and other cross-functional teams.
+- Document assumptions, methods and findings and deliver a final presentation.
+What you'll bring:
+- Currently pursuing a MBA or graduate degree in data science, analytics, business, economics, computer science, engineering or a related field.
+- Ability to work with structured data and communicate analytical findings to non-technical partners.
+- Strong analytical, problem-solving and presentation skills.
+- Ability to work independently while collaborating in a deadline-driven environment.
+- Experience with SQL, Power BI, machine learning, geospatial analysis or optimization.
+- Coursework or project experience involving artificial intelligence, predictive analytics or real estate strategy.
+- Interest in applying advanced analytics to growth, site selection and portfolio decisions.
+At Walmart, we offer competitive pay and other great benefits for a happier mind, body, and wallet!
+For Information About Benefits And Eligibility, See One.Walmart.
+The hourly wage range for this position is $21.00 - $40.00* *The actual hourly rate will equal or exceed the required minimum wage applicable to the job
+location.
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+‎
+Minimum Qualifications...
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+Preferred Qualifications...
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+Primary Location...
+814 Respect Dr, Bentonville, AR 72716, United States of America
+Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on
+the job. This policy applies to all employees and aims to create a safe and productive work environment.

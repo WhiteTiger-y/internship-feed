@@ -1,0 +1,50 @@
+"
+Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000
+employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide
+life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work
+we do changes the world for the better.
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join
+us!
+Job Description
+The AI Software Engineering Co-op role involves working on software development projects within AI. This co-op provides hands-on experience developing AI-
+powered solutions that enhance software quality, security, delivery velocity, and engineering efficiency.
+You will collaborate with experienced software engineers, AI champions, architects, and engineering leaders while contributing to real-world projects that
+support enterprise-scale industrial automation software development. You will be assigned a dedicated mentor to guide you through your experience and
+participate in networking events and company activities.
+This role is on a hybrid schedule working in Milwaukee, WI or Mayfield Heights, OH.
+This role is full-time and your eligibility must be for either January-August 2027, or June-December 2027.
+Your Responsibilities
+- You'll work with development teams, gaining hands-on experience in software development environments and using development techniques.
+- You will have exposure to the full development life cycle, agile methodology, system design, test-driven development, test automation, and build and
+configuration management.
+- Build software applications, services, and integrations using modern software engineering practices and AI technologies.
+The Essentials - You Will Have
+- Currently pursuing a bachelor's or advanced degree from an accredited college or university
+- Legal authorization to work in the U.S. We will not sponsor individuals for employment visas, now or in the future, for this job opening.
+- Must be available full-time, for 6-8 months (either January-August 2027 or June-December 2027)
+The Preferred - You Might Also Have
+- Bachelor's or advanced degree from an accredited college or university in Computer Science, Software Engineering, or a related field.
+- Graduating in May 2028 or later (December 2027 if co-op starts in January 2027).
+- Interest in continuous innovation and improvement in software development
+- Proficiency in one or more programming languages, such as Angular/Node, C++, C#, Java, JavaScript (Typescript), Kotlin, Go, or Python.
+- Familiarity with Generative AI tools, LLMs, AI agents, machine learning concepts, or prompt engineering is a plus.
+- Some experience in Angular, React, and modern web application frameworks
+- Familiarity with GitHub Copilot, Microsoft Copilot, Azure AI Services, and cloud-native technologies
+- Familiarity with CI/CD pipelines, DevOps tooling, and test automation frameworks
+- Experience in industrial automation software, PLC development, and manufacturing technologies
+What We Offer
+- Health Insurance including Medical, Dental and Vision
+- 401k
+- Flexible Work Schedule where you will work with your manager to enjoy a work schedule that can be flexible with your personal life.
+- To learn more about our benefits package, please visit at www.raquickfind.com.
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience
+doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other
+roles.
+This position is part of a job family. Experience will be the determining factor for position level and compensation.
+For this role, the hourly compensation for this role is $20-32. Actual pay will be based on factors such as skills, knowledge, education, and experience.
+We are an Equal Opportunity Employer including disability and veterans.
+If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services
+team at +1 (844) 404-7247.
+Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have
+a business obligation out of the office.
+"

@@ -1,0 +1,45 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
+sciences.
+This is a paid 12-week internship opportunity and is a hybrid, in-office role.
+Here’s a glimpse into the Internship experience from some of our TRI interns!
+The Team
+Within the Extreme Performance Intelligent Control team, we develop techniques to advance vehicle safety and performance capabilities using tools from
+optimization, machine learning, and computer vision. We are pursuing a cooperative approach to high-performance driving by developing accelerated perception and
+filtering frameworks for on-board extreme vehicle maneuvering that match or exceed the skills of expert drivers. We envision a world where these vehicles enable
+their drivers, creating a safe and enjoyable experience for all.
+The Opportunity
+We are looking for a research intern to develop new perception, embodied reasoning, modeling, and/or control methodologies for high-performance driving. This is
+an opportunity to apply your knowledge to novel problems and develop impactful research that is validated in hardware. This paid, 12-week, Summer 2027
+internship is a hybrid in-office role at our headquarters in Los Altos, CA, and will involve experiments with high-performance vehicles on a closed racetrack.
+Responsibilities
+- Develop new perception, modeling, embodied reasoning, and/or control algorithms
+- Implement, deploy, and evaluate models and algorithms on high-performance cars
+- Present results in verbal and written form internally and at international conferences
+Qualifications
+- Ph.D. candidate working in: computer vision, machine learning, robotics, embodied reasoning, or related fields
+- Proficiency in at least one of the following: Python, C++, ROS(2), PyTorch, JAX
+- Experience with geometric foundation models, LiDAR/visual inertial odometry stacks, and/or Bayesian filtering methods
+- Experience in deploying algorithms on real-world platforms
+- Excellent collaboration and communication skills
+- Strong interest in pushing the limits of vehicle autonomy and embodied AI
+Please include links to any relevant open-source contributions or technical project write-ups with your application.
+The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles. Base pay offered will
+depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI
+offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional
+details regarding these benefit plans will be provided if an employee receives an offer of employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status
+protected under federal, state or local laws.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with
+arrest and conviction records for employment.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.

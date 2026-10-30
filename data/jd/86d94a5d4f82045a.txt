@@ -1,0 +1,56 @@
+About GlobalFoundries
+GlobalFoundries (GF) is a leading manufacturer of essential semiconductors, enabling AI at scale from the cloud to the physical world. Through deep partnerships
+with customers, GF delivers differentiated, power‑efficient and high‑performance solutions for high‑growth markets. GF is a trusted and holistic technology
+partner for customers around the world. GF’s talented, global team remains focused every day on security, longevity and sustainability. For more information,
+visit www.gf.com.
+Internship Program Overview
+Our Interns & Co-ops are our entry-level talent pipeline for GF across the globe. Our goal is to provide students with a meaningful work experience that will
+equip them with the skills to embark on a career in the fast-paced and growing semiconductor industry after graduation. As an intern at GF, you’ll experience
+one-on-one mentorship, work assignments that prioritize your growth and potential, professional development opportunities, and the chance to network with
+executives.
+Summary Of Role
+You will be working as an intern on the AI Research team developing solutions that accelerate GlobalFoundries product development across design, PDK and
+specifications. You will collaborate with ecosystem startups, universities, internal AI researchers and semiconductor domain experts to evaluate and develop AI
+solutions, GPU acceleration capabilities, and agentic digital-backend flows for advanced 2D and 3D design.
+Essential Responsibilities Include
+- Create benchmarks for evaluating vendor, startup, AI, agentic-AI, and GPU-acceleration solutions.
+- Evaluate and create agentic AI digital-backend workflows that improve automation and productivity.
+- Support the establishment of engineering data environments and data warehouses that enable digital-backend agentic flows.
+- Develop monolithic 3D place-and-route flows, improve QoR, evaluate partitioning algorithms, and convert design-space exploration into agentic workflows.
+Other Responsibilities
+- Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs.
+Required Qualifications
+- Education – Actively pursuing a PhD in Artificial Intelligence, Computer Science, Electrical Engineering, VLSI Design, Computer Engineering or related field
+through an accredited degree program during the time of internship.
+- Must have at least an overall 3.0 GPA and be in good academic standing.
+- Language Fluency - English (Written & Verbal)
+- Must be willing to come on-site to the GlobalFoundries Santa Clara office.
+- Ability to work at least 10 hours per week during the internship.
+Preferred Qualifications
+- Prior related internship or co-op experience
+- Demonstrated prior leadership experience in the workplace, school projects, competitions, etc.
+- Strong interest in leveraging AI tools and emerging technologies to enhance productivity, streamline workflows, and support effective decision-making.
+- Project management skills, i.e., the ability to innovate and execute on solutions that matter; the ability to navigate ambiguity.
+- Strong written and verbal communication skills
+- Strong planning & organizational skills
+- Solved challenges on competitive platforms suchas Kaggle or equivalent AI/ML competitions; proficiency in Python, Pandas, NumPy, SQL, and graph-search
+techniques.
+- Experience with semiconductor design and automation; familiarity with Hugging Face, LangChain, Ollama, or related AI frameworks is a plus.
+#InternshipProgramUS
+Expected Salary Range
+$20.00 - $40.00
+Expected Salary Range
+$0.00 - $0.00
+The exact Salary will be determined based on qualifications, experience and location.
+If you need a reasonable accommodation for any part of the employment process, please contact us by email at usaccommodations@gf.com and let us know the nature
+of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning
+a request for reasonable accommodation will be responded to from this email address.
+An offer with GlobalFoundries is conditioned upon the successful completion of pre-employment conditions, as applicable, and subject to applicable laws and
+regulations.
+GlobalFoundries is fully committed to equal opportunity in the workplace and believes that cultural diversity within the company enhances its business
+potential. GlobalFoundries goal of excellence in business necessitates the attraction and retention of highly qualified people. Artificial barriers and
+stereotypic biases detract from this objective and may be illegally discriminatory.
+All policies and processes which pertain to employees including recruitment, selection, training, utilization, promotion, compensation, benefits,
+extracurricular programs, and termination are created and implemented without regard to age, ethnicity, ancestry, color, marital status, medical condition,
+mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, sexual orientation, gender identity or
+expression, veteran status, or any other characteristic or category specified by local, state or federal law

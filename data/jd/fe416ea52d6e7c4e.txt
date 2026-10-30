@@ -1,0 +1,85 @@
+Who We Are
+Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and
+advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation
+semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work
+we do together advances the world’s technology.
+What We Offer
+Location:
+Santa Clara,CA
+You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative
+solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company.
+Visit our Careers website to learn more.
+At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and
+professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits.
+Applied Materials is the leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. Our expertise in
+modifying materials at atomic levels and on an industrial scale helps our customers - who make smartphones, supercomputers, virtual reality headsets, autonomous
+vehicles and more - transform their ideas into reality. Our innovations Make Possible® a Better Future.
+Inside our company, we apply the idea of make possible as we work together. We value our people and teams who turn possibilities into reality by advancing our
+strategy, accomplishing great things and empowering others. We are deeply committed to fostering a Culture of Inclusion where every person knows they belong,
+feels empowered to bring their whole self to work, and is inspired to grow.
+Team Overview
+Join our dynamic Supply Chain Analytics team as a Data Scientist Intern! Our mission is to revolutionize efficiency by harnessing the power of machine learning,
+statistical and simulation modeling, generative AI, and actionable insights.
+We are dedicated to transforming process efficiency through deep analysis, cutting-edge visualization, and enhanced UI/UX. Our goal is to elevate decision
+support systems and measurement capabilities, driving substantial improvements in key business metrics. Be a part of our journey to make a significant impact!
+How We Work
+AI has changed how fast a data scientist can move. It has not changed what makes one good.
+We look for people who use AI tools aggressively to move faster, and who can still explain every line they ship, defend the assumptions behind a model, and
+recognize an answer that is fluent but wrong. Strong fundamentals first, AI as a multiplier.
+Key Responsibilities
+- Learn the business: how our supply chain operations run, what the underlying data represents, and where decisions get made.
+- Perform exploratory data analysis to identify trends, opportunities, and actionable insights.
+- Write and optimize SQL queries to extract, transform, and analyze data from multiple sources.
+- Develop statistical and machine learning models to support supply chain decision-making.
+- Contribute to GenAI and LLM initiatives, including AI-powered search, automation, and business applications, building reusable components where the work can
+scale.
+- Design and enhance dashboards and reports using Tableau and/or Power BI.
+- Partner with stakeholders to understand business challenges, gather requirements, and identify opportunities for improvement.
+- Translate business needs into technical requirements and develop scalable analytical solutions.
+- Communicate findings and recommendations to both technical and non-technical audiences.
+Technical Skills
+Required foundations
+- Working knowledge of databases and data modeling (RDBMS concepts, normalization, primary and foreign keys, indexing).
+- Working knowledge of SQL (joins, aggregations, CTEs, window functions).
+- Working knowledge of Python for data analysis (Pandas, NumPy, scikit-learn).
+- Machine learning and statistical fundamentals (supervised and unsupervised methods, train/test methodology, evaluation metrics, distributions, sampling,
+correlation versus causation).
+- Coursework or project experience with a cloud data platform and data at scale (Databricks, Snowflake, or BigQuery; distributed processing and partitioning
+concepts).
+- Data visualization with Tableau and/or Power BI.
+Applied and AI skills
+- Exposure to data engineering concepts (ETL/ELT, ingestion from multiple sources, pipeline design).
+- Exposure to GenAI and LLMs (prompting, retrieval augmented generation, LLM APIs, output evaluation).
+- Understanding of version control frameworks such as Git and Bitbucket is a plus.
+Requirements / Education
+- Currently pursuing a Master's degree in Data Science, Computer Science, Statistics, Operations Research, Industrial Engineering, Supply Chain Analytics, or
+another quantitative field.
+- GPA of 3.0 or above preferred.
+IDEAL CANDIDATE
+The ideal candidate learns a new domain quickly, asks questions, and turns feedback into better work. This role is equally technical and collaborative, and
+strong technical skills alone will not carry the work. Prior supply chain experience is preferred but not required. Curiosity about how a global supply chain
+works matters more, and you will learn the domain here.
+You are someone who:
+- Investigates the data instead of accepting it, and asks the question behind the question.
+- Traces a number end to end - from the process that generated it, to the table it lands in, to the decision it drives.
+- Partners with stakeholders instead of taking requirements at face value, and asks what decision the work needs to support.
+- Is proactive and takes initiative.
+ADDED ADVANTAGE
+- Interest in supply chain, or a stated desire to build a career in supply chain and operations.
+- A supply chain project taken end to end, from raw data through something someone actually used.
+- Class or personal projects using LLM applications (RAG pipelines, agents, or evaluation harnesses).
+- Public portfolio such as GitHub, Kaggle, or Tableau Public demonstrating applied projects.
+Applications will be reviewed on a rolling basis. Please apply by December 30, 2026. Note: This position may close early based on application volume or
+candidate selection.
+Additional Information
+Time Type:
+Full time
+Employee Type:
+Intern / Student
+Travel:
+No
+Relocation Eligible:
+Yes
+The salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with
+consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of
+compensation such as part

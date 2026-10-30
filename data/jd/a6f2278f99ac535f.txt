@@ -1,0 +1,45 @@
+Application Deadline: October 31, 2026
+Nassau’s 10-week, 2027 summer internship program in our Hartford, CT office prepares college students for careers on the cutting edge of insurance and asset
+management. The AI Center of Excellence (CoE) Intern will help employees use approved enterprise AI tools effectively and support the organization’s early
+exploration of agentic AI. Working with the AI CoE Lead, business teams, technology, information security, privacy, risk, and compliance, the intern will
+research use cases, document workflows, build limited prototypes in approved environments, and test results against agreed criteria. This is a supervised
+learning role with meaningful project ownership. Business and control owners retain responsibility for approvals, production changes, and decisions that affect
+customers, investments, or financial records.
+Principal Duties And Responsibilities
+- Everyday AI enablement: Develop practical example and training materials for approved enterprise ChatGPT and Claude capabilities. Gather user feedback and
+summarize adoption barriers and recurring support questions.
+- Use case discovery: Interview process owners and map selected annuity, investment operations, finance, and IT workflows. Record the current steps, data
+involved, handoffs, decision points, potential benefits, and human approvals.
+- Agent pilot preparation: Help distinguish tasks suited to drafting, search, workflow automation, and agentic AI. Assist in writing pilot requirements, tool
+permissions, escalation rules, and acceptance criteria for approved use cases.
+- Prototype and evaluation: With supervision, create representative test cases; measure quality, failure modes, time saved, and whether reviewers can understand
+and correct outputs.
+- Risk and documentation: Document privacy and security considerations, source traceability, human review points, and known limitations. Maintain a use case
+inventory, test evidence, decision log, and concise readouts for the CoE
+Knowledge, Skills And Abilities
+- Currently pursuing an undergraduate or graduate degree in computer science, information systems, data science, business analytics, finance, insurance, or a
+related field; equivalent relevant projects or experience are welcome.
+- Able to explain a process clearly, ask useful questions, and document findings for technical and nontechnical colleagues.
+- Familiarity through coursework or projects with generative AI, data analysis, software development, business process improvement, or automation.
+- Comfortable learning unfamiliar tools and testing claims against evidence rather than assuming an AI output is correct.
+- Able to handle confidential information responsibly and follow access, data handling, and review procedures.
+- Experience with Python, SQL, APIs, low code automation, or cloud services such as AWS.
+- Experience comparing AI outputs with reference answers, creating test cases, or assessing errors and edge cases.
+- Interest in annuities, investment operations, asset management, finance, and regulated business processes.
+- Experience designing short demonstrations or training content for end users
+Compensation
+Nassau maintains a holistic compensation philosophy focused on competitive base salaries, performance driven incentives, and unique professional development
+opportunities. The combination of compensation, benefits, and an entrepreneurial culture along with related experiences is key to recruiting and retaining
+talent. Our compensation system is designed to reward performance, support development and job growth, and compensate individuals relative to their contribution
+to our organization. The base pay for this role is: $23/hr
+Visit our Careers page and apply online at http://www.nfg.com/.
+Based in Hartford, Connecticut, Nassau Financial Group is a growth focused and digitally enabled financial services company with a fully integrated platform
+across insurance and asset management. Nassau was founded in 2015 and has grown to $1.6 billion in total adjusted capital, $24.8 billion in assets under
+management, and 350,000+ policies and contracts as of June 30, 2026.
+As part of a young and growing financial services enterprise, our employees are tapping into a new entrepreneurial spirit while they build on a long track
+record of putting customers first, understanding the evolving income and protection needs, and developing quality products to meet those needs.
+Nassau provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without
+regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or
+expression, or any other characteristic protected by federal, state or local laws.
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves
+of absence, compensation, and training.

@@ -1,0 +1,38 @@
+NVIDIA is looking for an AI Systems Software Engineering Intern to apply AI agents, machine learning, and performance engineering to compilers and developer
+tools. You will work with compiler and AI engineers on a scoped project involving code, compiler and performance feedback, experiments, and optimization.
+Depending on your background and interests, the work may focus on agentic workflows, learned models, performance analysis, or AI-enabled developer tools.
+Experience in every area is not expected.
+What you’ll be doing:
+- Build AI-agent workflows that interact with code, compilers, benchmarks, performance tools, and engineering systems.
+- Develop tools that help agents collect data, run experiments, analyze compiler and performance feedback, identify optimization opportunities, and recommend
+next steps.
+- Explore data-driven approaches for compiler optimization, performance prediction, decision support, and workflow automation.
+- Build reliable interfaces between AI agents and compiler or developer-tool infrastructure.
+- Prototype improvements to compiler flows, optimization tools, experimentation systems, or developer workflows.
+- Work with compiler, architecture, AI, and performance engineers to evaluate ideas on representative workloads.
+- Measure correctness, runtime performance, compile time, reliability, and other relevant outcomes.
+- Document the design, experiments, results, limitations, and next steps.
+What we need to see:
+- Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field.
+- Strong programming skills in Python, C, C++, or a similar language.
+- Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.
+- Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, systems,
+performance engineering, optimization, or developer tools.
+- Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.
+- Interest in learning across AI, compiler, performance, and systems boundaries.
+Ways to stand out from the crowd:
+- Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.
+- Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.
+- Familiarity with GPU architecture, CUDA, GPU programming, or performance optimization.
+- Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.
+- Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer
+productivity.
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
+20 USD - 71 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until November 2, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

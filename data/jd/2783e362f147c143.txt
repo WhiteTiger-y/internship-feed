@@ -1,0 +1,52 @@
+Role Description & Responsibilities
+Our Dassault Systemes SIMULIA brand provides best-in-class simulation technologies integrated into the 3DEXPERIENCE platform in the most effective way possible.
+The Fluids group in SIMULIA consists of a world-class group of experts who develop the next generation of fluids solver capabilities. As part of SIMULIA
+software simulation products, these innovations impact how Computational Fluid Dynamics (CFD) is used in many industrial settings worldwide.
+We are looking for a CFD engineer with AI experience who can test and validate our AI-infused fluids technology. This is a paid six month internship/co-op. The
+position is based at the Dassault Systemes Office at 175 Wyman Street, Waltham, MA.
+We are developing the next generation of Computational Fluid Dynamics technologies spanning advanced numerical methods, machine learning surrogate models, and
+agentic AI capabilities. Our vision is to transform engineering simulation by combining physics-based modeling, data-driven methods, and AI workflows into an
+integrated engineering platform.
+We are seeking a highly motivated intern with interests spanning CFD, artificial intelligence, and product development.
+This role offers a unique opportunity to work at the intersection of engineering simulation, AI, and product development. The intern will collaborate closely
+with software developers, AI engineers, and product managers to evaluate new capabilities, provide technical feedback, and help shape the future direction of
+AI-enabled engineering software. The position combines rigorous engineering validation with product-focused testing, ensuring that emerging technologies meet
+the standards required for industrial CFD applications.
+We will provide you with the steps, tools, and leadership that will help advance your career at Dassault Systemes and help our customers reach their goals.
+In this role you will:
+- Perform industrially-relevant CFD simulations
+- Validate machine learning surrogate models against high-fidelity CFD simulations and experimental data where appropriate
+- Test and validate new CFD solver capabilities, including verification of flow physics across representative engineering applications
+- Evaluate and test emerging AI-driven and agentic CFD workflows
+- Assess the quality, reliability, and usefulness of AI-generated engineering outputs
+- Work directly with developers to identify usability issues, performance gaps, and opportunities for improvement
+- Collaborate with product managers to define validation requirements, prioritize product improvements, and refine future capabilities
+- Document validation results, recommendations, and technical findings for both engineering and product teams
+Qualifications
+REQUIRED
+- Pursuing a Master's or Ph.D. degree in Mechanical Engineering, Aerospace Engineering, Applied Mathematics, or a related field
+- Strong understanding of CFD fundamentals including Navier-Stokes algorithms and turbulence modeling
+- Experience with one or more CFD tools such as: ANSYS Fluent, STAR-CCM+, OpenFOAM, Simcenter FLOEFD, COMSOL Multiphysics, or similar CFD software
+- Familiarity with AI and machine learning concepts.
+- Ability to work independently and collaboratively within a multidisciplinary team
+- Excellent written and verbal communication skills.
+- Ability to evaluate technical systems critically and provide actionable feedback.
+Preferred
+- Experience applying machine learning to engineering or scientific problems
+- Experience developing or validating surrogate models or reduced-order models
+- Familiarity with large language models, generative AI, or agentic AI systems
+- Understanding of AI agents, multi-agent systems, or agentic workflows.
+- Exposure to simulation automation, scripting, or workflow orchestration.
+- Experience with Python and scientific computing libraries.
+Shape your career with 3DS! #WeAre3DS
+Inclusion statement
+In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and
+abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color,
+religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity,
+gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for
+military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable
+accommodations for qualified individuals with known disabilities, in accordance with applicable law. Qualified applicants with arrest or conviction records will
+be considered for employment in accordance with applicable state laws and local ordinances. We are committed to fair employment practices and will evaluate all
+candidates based on their qualifications, regardless of past arrest or conviction history.
+Salary Pay Transparency
+Compensation for the role will be commensurate with experience. The total expected compensation range will be between $23 and $40 per hour.

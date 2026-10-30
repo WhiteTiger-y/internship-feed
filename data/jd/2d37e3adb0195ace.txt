@@ -1,0 +1,60 @@
+Donaldson is committed to solving the world’s most complex filtration challenges. Together, we make cool things. As an established technology and innovation
+leader, we are continuously evolving to meet the filtration needs of our changing world. Join a culture of collaboration and innovation that matters and a
+chance to learn, effect change, and make meaningful contributions at work and in communities.
+The Modeling and Data Science Graduate Level Intern will help advance practical engineering and data solutions for filtration research and product development.
+Working with the Modeling and Data Science team, the graduate level intern will gain valuable hands-on experience at the intersection of engineering simulation,
+software development, data engineering, and data science by developing next-generation digital engineering capabilities that help accelerate innovation and
+product development at Donaldson.
+The Donaldson internship program provides innovative students with meaningful, hands-on experience in a collaborative industry environment. Through real-world
+projects, mentorship, and development opportunities, we aim to support career growth and build professional talent aligned with our values and goals.
+Qualified candidates must be able to work an on-site schedule at our Bloomington, MN facility.
+Role Responsibilities
+- Own a scoped technical project from problem definition to development and final recommendations.
+- Build and evaluate Python-based engineering or data-science workflows using version-controlled, reproducible methods.
+- Prepare, clean, validate, and analyze simulation or laboratory datasets; document data quality issues and assumptions.
+- Develop and test models or applications such as deep-learning surrogates, reduced-order models, data-ingestion tools, or parameterized geometry workflows.
+- Develop a parameterized geometry workflow for simulation setup, simulation execution, and results evaluation.
+- Compare simulation results, laboratory results, or baseline engineering methods using appropriate technical metrics or baseline engineering methods.
+- Collaborate with simulation engineers, data scientists, and subject-matter experts to interpret practical requirements.
+- Document architecture, methods, assumptions, and recommended next steps so the work can be extended after the internship.
+- Provide progress updates, incorporate technical feedback, and communicate findings to both technical and non-technical stakeholders.
+- Follow Donaldson requirements for data access and security.
+Travel: Up to 5%.
+Minimum Qualifications
+- Currently pursuing a graduate degree in mechanical engineering, aerospace engineering, computer science, data science, data engineering, applied mathematics,
+or a related technical field.
+- Coursework or project experience using Python for data analysis, numerical methods, machine learning, scientific computing, or application development.
+- Experience working with technical datasets and communicating methods and results through written documentation or presentations.
+- Must be U.S. persons (U.S. Citizen, U.S. Permanent Resident (i.e., 'Green Card Holder'), Political Asylee, or Refugee).
+Preferred Qualifications
+- Graduate-level study or research experience in computational fluid dynamics, machine learning, scientific computing, or data engineering.
+- Experience or project work in any subset of these areas:
+- Deep-learning methods for spatial or high-dimensional data, including designing neural networks architectures and training models using structured datasets.
+- CFD software and flow-field data, including pressure, velocity, pressure-drop, or particle-transport results.
+- Reduced-order modeling, surrogate modeling, regression, validation, uncertainty analysis, or model performance metrics.
+- Experience with SQL, Snowflake or another cloud data warehouse, Streamlit, data validation, and layered data pipelines.
+- CAD, parameterizing geometry, 3D scanning, or scan-to-CAD workflows.
+- Familiarity with Git, software architecture, or AI-assisted development tools such as GitHub Copilot.
+- Ability to gather requirements from engineers or laboratory users and convert them into a clear technical scope.
+- Strong problem-solving, technical communication, collaboration, and ability to work through an open-ended development problem.
+Relocation: This position is not eligible for relocation assistance.
+Hourly Pay Rate: $29.00 - 32.00, depending on projected undergraduate graduation date, educational degree in progress and major of study upon time of hire.
+This position is overtime eligible as per state and federal regulations.
+Employee benefits are part of the total rewards package that Donaldson Company, Inc. provides to you. Our benefits program includes retirement plan (401k), paid
+time away – sick and safe time (MN only), and the employee assistance program.
+Immigration Sponsorship Not Available
+- Applicants for this position must be currently and legally authorized to work in the United States without the need for current or future sponsorship (e.g.,
+H-1B, J-1, F-1, CPT, OPT, etc.).
+- Donaldson will not offer immigration sponsorship or assume sponsorship of an employment visa for this position.
+- International relocation or remote work arrangements outside of the U.S. will not be considered.
+Equal Opportunity Employer, including Disability and Veterans
+Employment opportunities for positions in the United States may require use of information which is subject to the export control regulations of the United
+States. Hiring decisions for such positions are required by law to be made in compliance with these regulations. Applicants for employment opportunities in
+other countries must be able to meet the comparable export control requirements of that country and of the United States.
+Donaldson Company has been made aware that there are several recruiting scams that are targeting job seekers. These scams have attempted to solicit money for
+job applications and/or collect confidential information, Donaldson will never solicit money during the application or recruiting process. Donaldson only
+accepts online applications through our Careers | Donaldson Company, Inc. website and any communication from a Donaldson recruiter would be sent using a
+donaldson.com email address. If you have any questions about the legitimacy of an employment opportunity, please reach out to talentacquisition@donaldson.com to
+verify that the communication is from Donaldson.
+Our policy is to provide equal employment opportunities to all qualified persons without regard to race, gender, color, disability, national origin, age,
+religion, union affiliation, sexual orientation, veteran status, citizenship, gender identity and/or expression, or other status protected by law.

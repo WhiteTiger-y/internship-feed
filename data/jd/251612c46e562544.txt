@@ -1,0 +1,47 @@
+Overview
+Working across the globe, V2X builds smart solutions designed to integrate physical and digital infrastructure from base to battlefield. We bring 120 years of
+successful mission support to improve security, streamline logistics, and enhance readiness. Aligned around a shared purpose, our $3.9B company and 16,000
+people work alongside our clients, here and abroad, to tackle their most complex challenges with integrity, respect, responsibility, and professionalism.
+V2X has AI Engineering Intern opportunities for current college students pursuing STEM degrees focusing on artificial intelligence, machine learning, or
+software development in Indianapolis, IN. As an AI Engineering Intern, you will work within a team of talented and experienced engineers and gain hands‑on
+exposure to AI Engineering by performing core activities related to designing, developing, training, and testing AI and ML models. Many assignments will involve
+integrating AI capabilities into software systems and working with target hardware in a lab environment. The AI intern will apply technical standards,
+principles, theories, concepts, and techniques to help solve customer needs by delivering customized AI-enabled engineering services and products for unique
+customer missions. We have a hybrid work schedule, and employees are expected to be in the office Tu–Thu at a minimum.
+Responsibilities
+- Gain an understanding of typical AI/ML documentation and assist in preparing them.
+- Learn commonly used AI and software engineering tools and best practices (e.g., Git, ADO, Python libraries, ML frameworks, VSCode).
+- Provide basic support for AI and software development across various software environments and target hardware (e.g., Linux, Android, Windows).
+- Expand your AI/ML knowledge, including model development, data preparation, and evaluation techniques.
+- Participate as a member of a multi‑disciplinary engineering team.
+- Contribute to project/program milestones under general guidance from supervisors, team leads, and mentors.
+- Learn and follow established AI and Software Engineering processes and procedures.
+Qualifications
+Required Skills:
+- Positive attitude and proven leadership skills
+- Customer focus and ability to collaborate
+- Excellent written and verbal communication skills
+- Coursework in Software Engineering, Computer Engineering, AI, Machine Learning, or related fields
+- Basic coding skills in one or more of the following: Python, Java, C/C++, Bash, etc.
+Desired Skills
+- Knowledge of MS Office or other presentation tools
+- Previous engineering or AI/ML project experience or internships
+- Ability to work effectively in a team environment
+- A cumulative GPA of 3.0+ is strongly desired (Please upload an unofficial transcript when applying)
+Security Clearance & Other Requirements
+- Ability to access systems with information restricted to U.S. citizens per federal contract requirements is required.
+- Eligibility to obtain and maintain a U.S. Department of Defense (DoD) Secret security clearance.
+Benefits Include The Following
+- Healthcare coverage
+- Retirement plan
+- Life insurance, AD&D, and disability benefits
+- Wellness programs
+- Paid time off, including holidays
+- Learning and Development resources
+- Employee assistance resources
+Pay and benefits are subject to change at any time and may be modified at the discretion of the company, consistent with the terms of any applicable
+compensation or benefit plans.
+At V2X, we are deeply committed to both equal employment opportunity, including protection for Veterans and individuals with disabilities, and fostering an
+inclusive and diverse workplace. We ensure all individuals are treated with fairness, respect, and dignity, recognizing the strength that comes from a workforce
+rich in diverse experiences, perspectives, and skills. This commitment, aligned with our core Vision and Values of Integrity, Respect, and Responsibility,
+allows us to leverage differences, encourage innovation, and expand our success in the global marketplace, ultimately enabling us to best serve our clients.

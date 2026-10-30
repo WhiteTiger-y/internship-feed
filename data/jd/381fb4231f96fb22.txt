@@ -1,0 +1,32 @@
+Overview
+Cook Medical's Global IT team is looking for interns who want to put AI to work on real problems. You'll join a group that is actively building the automation,
+platforms, and data capabilities behind a global medical device company, and your work will ship into processes that clinicians and patients ultimately depend
+on. This is hands-on technical work with AI, not a shadowing assignment.
+This position is a 12-week paid internship located in Bloomington, Spencer, or Ellettsville Indiana. It is offered for a period extending from mid-May through
+mid-August (exact dates depend on school calendars.) This position includes 401(k) options, an assigned mentor, capstone presentation, and intern events. If
+working onsite, you will also have access to a fitness center, an onsite cafeteria option, and a one-time housing stipend. All internships provide hands-on
+experience with meaningful projects in the Medical Device Manufacturing Industry.
+Responsibilities
+- The primary objective of the AI Engineer Intern in IT is to gain practical experience, contribute to AI projects, learn and apply AI skills, support research
+and innovation, enhance AI knowledge, collaborate effecively, contribute to responsible AI practices, build a professional network, create documentation and
+work toward personal development.
+- Automate critical processes. Design and build AI-driven automation that removes manual work from the business processes Cook runs on, and see your solutions
+move into production.
+- Make IT itself smarter. Prototype and apply AI across IT capabilities, from service delivery to software development, to raise the level of service we provide
+the enterprise.
+- Turn data into decisions. Pair AI with Cook's data estate to deliver insights and advanced analytics that IT and business partners use in the decisions they
+make every day.
+Qualifications
+Required Skills:
+- Strong programming skills in languages such as Python, TensorFlow, PyTorch, or similar.
+- Basic understanding of machine learning algorithms, neural networks, and deep learning concepts.
+- Familiarity with data preprocessing, feature engineering, and data analysis.
+- Motivated self-starter, excellent problem-solving skills and the ability to work independently as well as in a team.
+- Eagerness to learn, adapt, and take on new challenges in the AI field.
+- Strong communication skills and the ability to convey complex technical concepts.
+- All candidates should have an interest in a career in the Life Sciences field, a willingness to take initiative, and an ability to work well with others
+- Candidates should be students entering their Junior or Senior year the following fall semester or entering graduate school; candidates who graduate the spring
+semester before this internship are also eligible
+- A minimum GPA of 3.0 is preferred
+- All candidates must provide proof of enrollment (including pre-registration certification for the following fall) for consideration
+- Multiple disciplines will be considered (e.g., Marketing, Life Sciences, General Business, and Management)

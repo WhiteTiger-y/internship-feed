@@ -1,0 +1,66 @@
+Shape what comes next | Discover careers in Tech
+At Amazon, our tech isn't just a tool, it's your playground. Our engineers work on scalable systems, cloud services, and customer-facing products that operate
+at global scale. This is an environment where you learn by building. Whether you're creating cloud-native solutions, optimizing machine learning models, or
+building products that drive experiences for millions of customers around the globe, your work reaches the world, fast. You'll take ownership early, collaborate
+across teams and disciplines, and grow your skills as you tackle new problems. There's no single path forward here, with a chance to explore different
+directions and shape your journey as you go. This is where ambition meets opportunity and, where the impact of what you build helps define what comes next, for
+customers and for you.
+What's in it for you? An internship at Amazon means real responsibility from day one. You'll build, test, and learn alongside people who want to see you
+succeed, while making an impact that reaches far beyond campus.
+Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you
+want to see your code directly impact millions of customers worldwide?
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made
+us one of the world's most beloved brands.
+Our SDE interns use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDE interns solve at Amazon are
+meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and
+services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
+At Amazon, we believe in ownership at every level. As a SDE intern, you'll own the entire lifecycle of your code - from design through deployment and ongoing
+operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
+We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can
+be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
+________________________
+By applying to this position, your application will be considered for Summer 2027 internship roles. All intern roles require in-person work and are 12 weeks in
+duration, starting in May/June and ending in August/September. Applicants will be considered at all locations we host interns in the United States.
+Please note that the majority of our internships are in the Summer of 2027 and applicants will be processed based on business need; however, there may be
+additional openings that include the following period(s):
+1.Fall 2027 (Start August/September; End November/December)
+During the application process, you will be given the opportunity to select a preference or interest in other seasonal start dates. Please note that placement
+in a non-summer season is not guaranteed and is subject to availability.
+Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically
+between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other
+employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship
+concludes.
+We will take your location preferences into consideration. Preferences are based on business availability and are not guaranteed. Applicants will be considered
+at all locations we host interns in the United States including but not limited to:
+• CA (Irvine, San Diego, Sunnyvale)
+• TX (Austin)
+• MA (Boston)
+• NY (New York)
+• VA (Arlington)
+• WA (Bellevue, Redmond, Seattle)
+***Locations are subject to change***
+During your application, you will have the opportunity to highlight your expertise in one or more of these specialized areas:
+• Machine Learning • Query Processing and Optimization • Automated Reasoning • Prompt Engineering • Distributed Systems
+While team placement is based on business needs, sharing your specific skills and interests helps us better align your experience with potential roles.
+Key job responsibilities
+• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that
+delight our customers, while participating in technical discussions to drive solutions forward.
+• Break down complex, ambiguous problems into well-defined, solvable components before implementation
+• Contribute to the design and development of scalable, reliable services, with distributed-systems scope varying by team.
+• Participate in code reviews as a core engineering practice, providing constructive feedback and validating correctness, including for AI-generated code.
+• Contribute to clear and accurate technical documentation.
+• Use GenAI and AI-powered tools to enhance development productivity, and critically validate, verify, and integrate AI-generated code, exercising sound
+judgement about when to trust AI output and when not to
+• Write clean, maintainable code following best practices and design patterns, including AI-assisted.
+• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties.
+• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
+A day in the life
+As an intern, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical
+projects early in your career.
+In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand
+your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to
+own your project and learn in a real-world setting. - Are 18 years of age or older
+- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
+- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
+- Experience using AI-assisted development tools in academic 

@@ -1,0 +1,77 @@
+Req ID: 140471
+Remote Position: Yes
+Region: Americas
+Country: USA
+3 Month Internship
+As a global technology leader, Celestica designs, engineers, and manufactures industry-leading products and services that drive customer success and market
+advancement. Headquartered in Toronto, Canada, we bring together over 33,000 employees across more than 45 sites in North America, Europe, and Asia.
+With deep expertise in design, engineering, manufacturing, supply chain management and platform solutions, Celestica enables critical data center infrastructure
+for AI, cloud, and hybrid cloud and advances technologies in high-growth markets. Working with the world’s leading technology companies across a broad range of
+industries, Celestica helps its customers achieve a competitive advantage. These products span key areas such as data centre technology, aerospace and defense,
+healthtech, and capital equipment.
+Working at Celestica is more than a job. It’s about being part of something bigger and shaping the future with your work. You’ll take on exciting and
+challenging projects, get hands-on experience, collaborate with a global team, and learn from some of the greatest minds in the industry. And just as we aspire
+to imagine, develop and deliver a better future with our customers, we’re just as committed to delivering the best employee experience.
+Benefits For Students Include
+- Experience working for one of the largest Canadian global technology companies
+- Possibility of a student casual contract position after completion of internship
+- Possibility of a full-time position after completion of degree
+- Access to Celestica’s development programs and projects
+- Celestica's Time Off to Volunteer program – two paid days off to volunteer per year
+- Fun intern activities including celebration events and networking
+- Internal recognition programs and rewards for stellar performance
+What’s in it for you?
+- Opportunity: Job experience at a large Canadian-based global company
+- Innovation: We look to our employees to implement new ideas and improve the way we do things
+- Collaboration: Students work as part of global teams, enabled by collaborative technology
+- Sustainability: We uphold strong ethics, reduce our impact on the environment and empower employees to give back to the community with two paid days off per
+year to volunteer
+- Development opportunities: including soft skills courses, innovation projects and mentorship
+- Networking: Strategically build your professional network to advance your career and deepen relationships across your peers and colleagues.
+- Fun: Our interns have the opportunity to participate in fun activities including intern social events, Celestica’s charitable initiatives and our Spirit Week
+activities
+About This Opportunity
+We are seeking an innovative Student Intern - AI Engineer to join our team. In this role, you will design and implement agentic solutions and machine learning
+models to solve complex technical problems. You will collaborate with cross-functional teams to drive projects from concept to delivery, showing technical rigor
+and strong teamwork. This position offers hands-on experience with emerging GenAI technologies and strong potential for future career growth within the company.
+Preferred Skills
+- Strong proficiency in Python and core software development principles.
+- Foundational knowledge in Data Science and Machine Learning (e.g., data analysis, model evaluation, and predictive modeling).
+- Familiarity with Generative AI concepts, large language models, and autonomous agent architectures.
+- Demonstrated ability to take ownership of tasks, drive projects forward, and deliver reliable results.
+- Excellent cross-functional collaboration and teamwork capabilities.
+Activities
+- Design, build, and evaluate intelligent agents and machine learning workflows.
+- Apply data science techniques to analyze datasets, optimize model performance, and enhance agent capabilities.
+- Collaborate with cross-functional teams to gather requirements and integrate AI/ML solutions into existing workflows.
+- Conduct experimental testing and benchmarking to ensure technical rigor and solution accuracy.
+- Present technical findings, project progress, and working prototypes to internal stakeholders.
+Physical Demands, duties of this position are varied and will include:
+- Duties of this position are performed in a normal office environment.
+- Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data.
+- Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required.
+Additional Details
+Area: Engineering
+Start Date: May/June 2027
+Location: Remote
+Vacancies: 1
+Experience: No Formal Experience Required.
+Education: Enrolled in a Engineering, Computer Science, or Mathematics Program
+Celestica is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex,
+sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected
+category under applicable federal, state, and local laws.
+This policy applies to hiring, promotion, discharge, pay, fringe benefits, job training, classification, referral and other aspects of employment and also
+states that retaliation against a person who files a charge of discrimination, participates in a discrimination proceeding, or otherwise opposes an unlawful
+employment practice will not be tolerated. All information will be kept confidential according to EEO guidelines.
+Celestica is an E-Verify employer.
+Location: This is a remote position, with travel as necessary. We are open to considering candidates close to any of our US locations in Massachusetts,
+Pennsylvania, Minnesota, Texas, Arizona, Oregon or California as well as locations near major airports such as the Northeast, Southeast, Midwest and Pacific
+Coast.
+Company Overview
+Celestica, Inc. (NYSE: CLS; TSX: CLS) is a technology leader dedicated to driving customer success and market advancements. With deep expertise in design,
+engineering, manufacturing, supply chain, and platform solutions, Celestica enables critical data center infrastructure for AI, cloud, and hybrid cloud and
+advances technologies in high-growth markets. With a talented team and a strategic global network, Celestica helps its customers achieve competitive advantages.
+Today, Celestica delivers innovative supply chain solutions globally to customers in strategic two operating and reporting segments: Advanced Technology
+Solutions (ATS) and Connectivity and Cloud Solutions (CC):
+ATS: This segment serves customers in complex, regulated and high-reliability markets such as Industrial & Smart Energy, Aerospace & Defense, Semiconductor
+Capital Equipment, and HealthTech. It is engineering led, with deep expertise in design, manu

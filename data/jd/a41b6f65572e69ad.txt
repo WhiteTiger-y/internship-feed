@@ -1,0 +1,63 @@
+About Our Group
+The Data Analytics (DA) team in the Characterization and Analytics Group develops big-data analytics, machine learning (ML), artificial intelligence (AI), and
+production software technologies that support R&D design and development activities within the Recording Head Technology organization.
+Our work connects engineering data, Linux compute clusters, production data pipelines, monitoring, and AI-enabled analysis to help R&D teams move from data to
+decisions more efficiently.
+Help modernize the data and compute systems behind next-generation recording-head R&D. You will build practical monitoring and automation solutions, improve
+production data flow, and explore frontier AI approaches such as natural-language-to-SQL and causal root-cause analysis.
+About The Role - You Will
+- Modernize and improve the efficiency of Linux cluster management and data-analytics production workflows.
+- Develop monitoring capabilities that show production data volume and flow, including how much data enters and leaves pipelines, processing status, throughput,
+failures, delays, and resource utilization.
+- Analyze production workflows to identify bottlenecks, repetitive manual steps, reliability risks, and automation opportunities.
+- Design and implement dashboards, alerts, logs, and operational metrics that improve visibility into production health and data quality.
+- Prototype frontier AI solutions, including large language model (LLM) applications that translate natural-language questions into safe, validated SQL queries.
+- Explore root-cause analysis (RCA) methods using causal analysis, statistical techniques, machine learning, and engineering domain knowledge.
+- Develop maintainable software and automation in Python and Rust, with appropriate testing, documentation, and version control.
+- Work with R&D engineers, data analysts, and infrastructure partners to define requirements, evaluate solutions, and communicate findings.
+- Document designs, code, results, and recommendations, and present progress and insights to teammates and stakeholders.
+About You
+- You are curious about how data, software, infrastructure, and AI work together in real production environments.
+- You approach ambiguous technical problems with structured thinking, experimentation, and attention to data quality.
+- You can work independently while collaborating effectively in a cross-functional, high-technology R&D environment.
+- You communicate clearly, seek feedback, and turn prototypes into documented, reusable solutions.
+- You are motivated to learn new technologies and evaluate them based on measurable engineering value.
+Required Skills
+- Python
+- SQL
+- Linux
+- Data pipeline and production monitoring
+- Software engineering and Git
+Your Experience Includes
+- Programming experience with Python, including data processing, automation, APIs, testing, or analytics applications.
+- Working knowledge of SQL and relational data concepts, including querying, joins, validation, and performance-aware data access.
+- Experience using Linux and command-line tools for software development, data processing, or compute workloads.
+- Understanding of software engineering practices such as Git version control, modular design, debugging, testing, and documentation.
+- Familiarity with data pipelines, production monitoring, observability, or workflow automation.
+- Foundational knowledge of machine learning, statistical analysis, or AI application development.
+- Strong analytical, troubleshooting, and problem-solving skills.
+You Might Also Have
+- Experience with Rust or another systems programming language, or a strong interest in learning Rust for reliable, high-performance services and tools.
+- Experience with high-performance computing or cluster technologies such as Slurm, containers, job scheduling, resource monitoring, or distributed workloads.
+- Experience building dashboards or monitoring systems using tools such as Grafana, Prometheus, Power BI, Streamlit, or similar technologies.
+- Knowledge of LLM application patterns such as tool use, retrieval-augmented generation, structured outputs, guardrails, evaluation, or natural-language-to-SQL
+workflows.
+- Experience with causal inference, Bayesian methods, time-series analysis, anomaly detection, fault trees, or other RCA methods.
+- Familiarity with REST APIs, Docker, Kubernetes, CI/CD, message queues, or workflow orchestration.
+- Experience working with engineering, manufacturing, experimental, log, image, or time-series data.
+Master's or PhD student studying in Computer Science, Data Science, Software Engineering, Electrical Engineering, Mechanical Engineering, Physics, or a related
+engineering or quantitative field and must be continuing school into Fall 2027 semester.
+Location:
+Our Normandale campus spans two suburbs, Edina and Bloomington, and serves as the Recording Head development and manufacturing arm of Seagate. Located in the
+heart of a bustling community, Seagate offers an on-site café, or if you prefer, you can drive to one of many restaurants just minutes away. Need to grab a gift
+over lunchtime? Shopping is abundant in the area. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, outdoor
+activities, tournaments, and group workouts. Looking for something more laid back? Reset in one of our meditation rooms, or simply take a walk around our indoor
+walking path. On-site cultural festivals, celebrations, and community volunteer opportunities also abound.
+The estimated base wage range for this position is $35.00-45.00/hr. The individual base wage is based on work location and additional factors, including job-
+related skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to,
+medical, dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid
+sick leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and
+tenure with the Company.
+#internship
+Location: Normandale, United States
+Travel: None

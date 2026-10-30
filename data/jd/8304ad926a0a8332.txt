@@ -1,0 +1,45 @@
+Job Title: 2027 Summer Intern US Advanced Analytics Grade: Intern Location: Cambridge, MA Duration: 10-12 weeks About the Job Looking to launch your career at
+the cutting edge of healthcare? Join Sanofi for a chance to develop with mentoring and guidance from inspirational leaders while helping to make an impact on
+the lives of countless people worldwide. We are seeking a highly motivated Summer Intern to join our US Advanced Analytics team. You will be responsible for
+leveraging data science expertise in machine learning, statistics, and optimization. This person will join the US Advanced Analytics team within the overarching
+US Go to Market Capabilities (GTMC) Insights and Analytics team, which serves as strategic partner to the US commercial teams (Executive Leadership, Marketing,
+Sales, and Patient Support Services). Key responsibilities of this internship will include developing a proof-of-concept model for a prioritized business use
+case. Furthermore, this role will be responsible for creating innovative data visualizations and interpreting model outputs to communicate findings to
+leadership to drive business decisions at the conclusion of the summer internship. This position will report to the Senior Director, US Advanced Analytics and
+will be based in either Cambridge, MA or Morristown, NJ. Ready to grow your skills while helping shape the future of healthcare? At Sanofi, you’ll be empowered
+to learn, ask questions, and bring your ideas to life – all while supported by inspiring mentors and collaborative teams. About Sanofi We’re an R&D-driven, AI-
+powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative
+pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to
+improve people’s lives. Main Responsibilities Build effective relationship with stakeholders (Commercial and Commercial Brand + Advanced Analytics teams), work
+collaboratively to prioritize work and deliver on time-sensitive requests. Interact/partner with Digital Accelerator, Digital Data Science, Data Management,
+Market Research, Marketing, Strategy, Finance and BD groups. Collaborate with extended US Advanced Analytics team Develop model using key business insights from
+various market to support commercial excellence. Lead marketing and sales-related problem-solving activities, leveraging AI/ML techniques. Projects may include
+marketing mix modeling, ROI analysis, next best action, customer segmentation, patient prediction, and drivers analyses. Prepare high-quality, accurate analysis
+using cutting-edge analytical methods. Strategic thinking – frame the key marketing and sales issues to guide model development and analysis. Communication –
+present model results and implications to commercial stakeholders. Results Orientation - Ability to work cross-functionally, gather requirements, analyze data,
+and generate insights and reports that can be used by the business. About you Basic Qualifications: Currently pursuing an undergraduate or masters’ degree in
+applied quantitative field, such as mathematics, statistics, computer science with plans to graduate by Spring 2028 or 2029. Must be permanently authorized to
+work in the U.S. and not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on
+CPT, OPT, or STEM OPT usually require future sponsorship for long term employment and do not meet the Internal requirements for this program unless eligible for
+an alternative long-term status that does not require company sponsorship. Must be enrolled in an accredited college or university throughout the duration of
+the co-op/internship. Must be able to relocate to the office location and work 40hrs/week, Monday to Friday for the full duration of the co-op/internship.
+Preferred Qualifications: Experience/coursework in predictive modelling and analytics Strong analytical acumen and quantitative skills with a demonstrated
+ability to translate information and data into actionable insights and strategic recommendations. High proficiency with core data science languages (Python, R,
+Scala), Snowflake, and familiarity with different data-base systems (e.g. SQL, NoSQL) Experience with the following modelling areas: supervised learning,
+unsupervised learning, deep learning, reinforcement learning, federated learning, time series forecasting, Bayesian statistics, optimization High proficiency in
+MS Office (Excel, PowerPoint, Word) Self-starter, proactive in nature, and actively participates. Ability to synthesize complex information into clear and
+actionable insights. Why Choose Us Bring the miracles of science to life alongside a supportive, future focused team. Stretch your skills through
+apprenticeships, internships, graduate programs, and international experiences that grow with you. Learn from inspiring mentors and collaborative teams while
+contributing to real projects that shape the future of healthcare. Build your future with access to the latest tools, digital innovation, and continuous
+learning that keep you ahead of the curve. Compensation The salary range for this position is $36 - 47 USD hourly. All compensation will be determined
+commensurate with demonstrated experience. #LI-Onsite #vhd Pursue progress, discover extraordinary Better is out there. Better medications, better outcomes,
+better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one
+thing: a desire to make miracles happen. So, let’s be those people. Sanofi US endeavours to make our career center accessible to any and all users. If you are
+experiencing difficulty and need assistance applying online, please call 1-866-SANOFI2 (1-866-726-6342) or click here US and Puerto Rico Residents Only Sanofi
+Inc. and its U.S. affiliates are Equal Opportunity employers committed to a culturally inclusive workforce. All qualified applicants will receive consideration
+for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality; marital, domestic partnership or civil union status;
+sex, gender, gender identity or expression; affectional or sexual orientation; disability; veteran or military status or liability for military status; domestic
+violence victim status; atypical cellular or blood trait; genetic information (including the refusal to submit to genetic testing) or any other characteristic
+protected by law. We are an R&D driven, AI-powered biopharma company committed to improving people’s lives and creating compelling growth. Our team is guided by
+one purpose: we chase the miracles of science to improve people’s lives. We want to build a healthier, more resilient world, and turn the impossible into the
+possible by discovering, developing, an

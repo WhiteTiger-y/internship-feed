@@ -1,0 +1,63 @@
+At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where
+everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways.
+Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to
+action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate
+uncertainty with clarity, speed, and confidence.
+If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open
+roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into
+actions, and uphold trust through integrity.
+Applications for this position will be accepted from October 28th – November 4th. We encourage interested candidates to apply early to ensure full
+consideration.
+Skills And Competencies
+- Demonstrated proficiency in HTML, CSS, and JavaScript - the foundation of interactive data visualization and web-based creative production
+- Portfolio that includes data visualization and design-driven examples - interactive, static, or both, reflecting strong visual thinking and a clear editorial
+point of view
+- Working knowledge of Adobe Creative Cloud, particularly Illustrator and Photoshop, with an understanding of how design tools connect to web production
+workflows
+- Some experience with open-source data visualization libraries such as D3, Three.js, or comparable tools, and/or data analysis languages such as Python, R, or
+Node.js
+- Strong writing skills and a sharp editorial instinct, with the ability to shape clear narratives around complex data and global themes
+- Exceptional attention to detail, high degree of self-motivation, and the ability to manage work independently while remaining deeply collaborative
+- Strong interpersonal skills and genuine eagerness to learn through shadowing, feedback, and hands-on iteration
+- Comfortable working in a Mac OS environment
+- Familiarity with Svelte or other JavaScript frameworks and templating systems preferred
+- Familiarity with geospatial tools such as QGIS, Mapbox, or similar platforms preferred
+- An eye for print and editorial design, including grid systems, typographic hierarchy, and layout composition preferred
+- Basic understanding of artificial intelligence concepts, with curiosity and enthusiasm for learning how AI tools can be used to improve processes and drive
+efficiency. Interest in exploring AI systems and a willingness to develop awareness of responsible AI practices, including risk management and ethical use
+Education
+- Currently pursuing a bachelor's or master's degree in data visualization, journalism, graphic design, computer science, information design, or a closely
+related field
+- Graduation date of May 2028 – June 2029
+- Ability to work during program dates: June 7th - August 13th 2027
+Responsibilities
+A dual-track internship spanning data visualization and brand design, with direct contribution to the full creative pipeline from raw data to published story.
+- Explore and interrogate real-world datasets to extract meaning, identify visual opportunities, and shape editorial narratives around complex global themes
+- Conceptualize and build interactive and static charting components using JavaScript, HTML, CSS, and data visualization libraries, contributing to stories in
+the active production queue
+- Support digital design projects across the brand portfolio, including editorial layouts, marketing materials, campaign assets, and digital templates, applying
+principles of typography, hierarchy, and visual storytelling
+- Work with geospatial data and mapping tools to bring geographic context and dimension to data-driven stories
+- Collaborate with designers, developers, data analysts, researchers, and subject-matter experts — attending partner meetings, contributing perspective, and
+learning how a high-functioning creative team operates
+- Develop and sharpen technical and professional skills including coding, data analysis, AI-assisted workflows, presentation, and cross-functional communication
+under the mentorship of an experienced creative team
+About The Team
+Moody's award-winning Data Story Team is a web-first creative unit producing dynamic, data-driven visual journalism that elevates the Moody's brand on a global
+stage. We sit at the intersection of editorial strategy, data visualization, and design — transforming complex, high-stakes information into compelling stories
+and immersive digital experiences that move markets and inform decisions. Our work spans interactive data narratives, motion graphics, editorial illustration,
+and print and web design, all anchored by a commitment to visual clarity, narrative precision, and brand excellence. By joining our team, you will be part of a
+curious, driven group that leverages AI tools and creative innovation to translate data into revelatory visual experiences — shaping tomorrow's conversation
+around the world's most consequential risk themes.
+Moody's 10-week summer internship program is a premier opportunity for students to immerse themselves in a hands-on learning experience, guided by Moody's
+commitment to integrity, excellence, and insight. The program takes place each summer from June – August and positions are available for undergraduate and
+select graduate students. Internships are full-time, offering a comprehensive view of Moody's business and culture, and a chance to build professional and
+technical skills. Programmatic elements include networking, mentorship, leadership speaker series and volunteering events. Interns complete project work
+determined by their team that have real impact, fostering a sense of accomplishment and professional growth. Throughout the internship, participants receive
+mentorship from Moody's professionals, gaining insights into diverse career paths and cultivate a comprehensive understanding of the company. Networking events
+and workshops further enrich the experience, providing a platform for professional development and collaboration. As a Moody's intern, you will gain real-world
+experience, turn inputs into actions, and be integral part of the team.
+For US-based roles only: the anticipated hiring hourly wage for this position is $35/hr.
+Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age,
+religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic
+information, physical or mental disability, military or veteran status, or any other chara

@@ -1,0 +1,50 @@
+We are Lenovo. We do what we say. We own what we do. We WOW our customers.
+Lenovo is a US$83 billion revenue global technology powerhouse, ranked #153 in the Fortune Global 500, and serving millions of customers every day in 180
+markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack
+portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance
+computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more
+equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992)
+(ADR: LNVGY).
+This transformation together with Lenovo’s world-changing innovation is building a more inclusive, trustworthy, and smarter future for everyone, everywhere. To
+find out more visit www.lenovo.com, and read about the latest news via our StoryHub.
+Lenovo is looking for a Knowledge Management Data Analyst to join our team. The ideal candidate will be a skilled data analyst who’s passionate about turning
+data into actionable insights. In this role, you’ll help improve our customer self-support experience by analyzing user behavior, optimizing knowledge models,
+and enhancing our data platforms. If you’re passionate about technology and enjoy solving problems with data, we’d love to hear from you.
+Key Responsibilities
+Customer User Behavior Analysis
+- Analyze customer browsing data from Adobe Analytics to identify trends and improvement opportunities.
+- Evaluate internal knowledge usage using Power BI to uncover gaps and optimize content.
+- Support issue diagnosis by analyzing user behavior across multiple support channels.
+Data Platform Development
+- Build and maintain data analytics platforms and dashboards.
+- Design metric systems and develop visualization tools to support decision-making.
+AI Knowledge Optimization
+- Use AI tools to identify missing or underperforming knowledge content.
+- Track emerging search trends and compare them with historical data.
+- Analyze diagnostic results to identify potential product issues and support product improvements.
+Model Evaluation Collaboration
+- Collaborate with other analysts to align on best practices and share insights.
+- Explore new machine learning algorithms, LLM tools, and model architectures to enhance diagnostic performance.
+- Work with engineers to ensure accurate data collection, storage, and processing.
+- Partner with IT vendors to improve data quality and expand data fields.
+Required Qualifications
+- Currently pursuing a degree in computer science, statistics, mathematics, data science, or related fields.
+- Technical data analysis skills and mining capabilities, able to independently perform data cleaning, feature engineering, and model training.
+- English speaking skills are necessary for communicating with a global team.
+- Proficient in Python, SQL, and other data analysis languages and tools.
+- Proficiency in SQL for data querying
+- Experience with Excel and data visualization tools (e.g., Tableau, Power BI)
+- Strong problem-solving skills and ability to interpret data to drive decisions.
+- Ability to present findings clearly to both technical and non-technical stakeholders.
+- Ability to work independently and manage multiple projects with tight deadlines.
+Preferred Qualifications
+- Experience with AI products related tools is a plus.
+- Experience in KM, knowledge graph, and natural language processing.
+- Proficient in Adobe Analytics.
+- Knowledge of regression, clustering, and predictive modeling.
+- Understanding of data privacy, security, and compliance standards.
+About You
+You are detail-oriented, creative, and passionate about helping others succeed. You have a knack for breaking down complicated information and making it easy to
+follow. You thrive on improving the customer experience and enjoy working in a collaborative, fast-paced environment.
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual
+orientation, gender identity, national origin, status as a veteran, and basis of disability or any federal, state, or local protected class.

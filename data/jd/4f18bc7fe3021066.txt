@@ -1,0 +1,44 @@
+Job Description Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times
+per week or as determined by the team. This internship may be considered remote for an individual in the Seattle area. Locations: Sunnyvale, California About
+the Organization The AV Developer Productivity Organization is responsible for delivering and maintaining the tools and services engineers here at GM use every
+day to do their best work and drive our cars forward. Tools and services we work on enhancing the entire development process of engineers at GM — how/where code
+is checked out, modified, compiled, tested, merged, and eventually deployed, including building and leveraging AI/Agentic tools to improve developer
+productivity. Our goal is to ensure our AV engineers and others here have world class tools and a seamless development experience so that they can focus on the
+problems that matter most in their domain. About The Role: We are looking for an intern with strong engineering fundamentals and who is passionate about
+developing tooling and productivity. As a member of this team, we are looking for someone who cares deeply about the quality of software and products the team
+owns. The way this engineer will deliver impact may vary depending on the situation but they will be expected to partner effectively with other engineers, take
+feedback and guidance from more experienced team members, and deliver effective and reliable solutions to tasks at hand. What You’ll Do: Ship improvements to
+our AV development toolchains and services which have a measurable and direct impact on engineering productivity and our core company metrics. Leverage the
+guidance and experience of more senior engineers on the team to identify engineering pain points and implement solutions that are reliable, scalable, and
+maintainable. Effectively communicate the status of their work. Follow software engineering best practices within your team. Contribute to the engineering
+culture on the team. Demonstrate high levels of accountability. Type of tools/functionality this position works on. Golang, Python, gRPC, SSH, Kubernetes,
+Docker, Linux, Buildkite, GCP, OpenTelemetry. Required Qualifications: Currently enrolled in a full-time, degree-seeking program and in the process of obtaining
+a Bachelors OR Masters degree in Computer Science or a related field. Graduating between December 2027 and August 2028. An academic understanding of highly
+scalable distributed systems. Experience writing Go or other languages commonly used for production services. Understanding of Unix/Linux, SSH, and networking
+fundamentals. Able to work full-time, 40 hours per week. Preferred Qualifications: Attention to detail, and a desire to improve processes and systems around
+you. Experience with GCP. Experience with Docker and Kubernetes. Hands-on experience utilizing agentic developer tools. Passion for self-driving technology and
+its potential impact on the world. Intent to return to degree-program after the completion of the internship. Compensation: The monthly salary range for this
+role is $9,600 – $11,800 per month GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program. What
+you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network
+with company leaders and peers About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead
+the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make a choice every day – individually and
+collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General
+Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how
+GM supports a rewarding career that rewards you personally by visiting Total Rewards resources. Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role
+and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully
+complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire. Accommodations General
+Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or
+application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting
+as well as the job title and requisition number of the position for which you are applying. We are leading the change to make our world better, safer and more
+equitable for all through our actions and how we behave. Learn more about: Our Company Our Culture How we hire Our diverse team of employees bring their
+collective passion for engineering, technology and design to deliver on our vision of a world with Zero Crashes, Zero Emissions and Zero Congestion. We are
+looking for adventure-seekers and imaginative thought leaders to help us transform mobility. Explore our global locations We are determined to lead change for
+the world through technology, ingenuity and harnessing the creativity of our diverse team. Join us to help lead the change that will make our world better,
+safer and more equitable for all by becoming a member of GM’s Talent Community (beamery.com). As a part of our Talent Community, you will receive updates about
+GM, open roles, career insights and more. Please note that filling out the form below will not add you to our Talent Community automatically; you will need to
+use the link above. If you are seeking to apply to a specific role, we encourage you to click “Apply Now” on the job posting of interest.

@@ -1,0 +1,63 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use
+Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a
+staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most
+important work of your career.
+What you’ll do
+About The Internship
+Stripe's Applied ML, Data Science, Risk, and Payments organizations are excited to offer Master's machine learning engineering internships for the summer of
+2027. This is an exceptional opportunity to contribute to critical projects that directly enhance Stripe's suite of products, focusing on areas such as
+foundation models used for dozens of tasks e.g. fraud detection, enhanced support, and predicting user behavior.
+As an intern, you'll tackle challenging problems at the intersection of finance, technology, and data. You'll have the chance to work on creative projects like
+the Stripe Assistant and the Stripe Foundation Model, which leverage machine learning to revolutionize how businesses interact with financial services and data.
+Responsibilities
+- Develop and deploy large-scale machine learning systems that drive significant business value across various domains.
+- Engage in the end-to-end process of designing, training, improving, and launching machine learning models.
+- Write production-scale ML models that will be deployed to help Stripe enable economic infrastructure access for a diverse range of businesses globally.
+- Collaborate across teams to incorporate feedback and proactively seek solutions to challenges.
+- Rapidly learn new technologies and approaches, demonstrating a strong ability to ask insightful questions and communicate the status of your work effectively.
+Who you are
+Minimum Requirements
+- A deep understanding of computer science, obtained through the pursuit of a Master's degree in Computer Science, Machine Learning, or a closely related field,
+with the expectation of graduating in winter 2027 or spring/summer 2028.
+- Practical experience with programming and machine learning, evidenced by projects, classwork, or research. Familiarity with languages such as Python, Scala,
+Spark and libraries such as Pandas, NumPy, and Scikit-learn.
+- Expertise in areas of machine learning such as supervised and unsupervised learning techniques, ML operations, and possibly experience in Large Language
+Models or Reinforcement Learning.
+- Demonstrated ability to work on collaborative projects, with experience in receiving and applying feedback from various stakeholders.
+- A proactive approach to learning unfamiliar systems and a demonstrated ability to understand complex systems independently.
+- Intent to return to the degree-program after the completion of the internship/co-op.
+Preferred Qualifications
+You Might Also Have:
+- Two years of university education or equivalent experience, with in-depth knowledge in specific domains of machine learning.
+- Published and presented peer-reviewed articles in top-tier venues.
+- Experience in writing high-quality pull requests, maintaining good test coverage, and completing projects with minimal defects.
+- Familiarity with navigating new codebases and managing work across different programming languages.
+- Excellent written communication skills to clearly articulate your work to both team members and wider Stripe audiences.
+Application requirements
+Please Submit The Following With Your Application
+- A detailed resume or LinkedIn profile showcasing your work history.
+- Examples of relevant work and your approach to learning, such as GitHub repositories, StackOverflow contributions, or other project portfolios.
+Join us for an unforgettable summer internship and help shape the future of global commerce. At Stripe, you won't just be working on theoretical projects;
+you'll make a tangible impact on the world's economic infrastructure.
+In-office expectations
+Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users.
+This expectation may vary depending on role, team and location. For example, Stripes in Stripe Delivery Center roles in Mexico City, Mexico, Bengaluru, India,
+and Dublin, Ireland work 100% from the office. Also, some teams have greater in-office attendance requirements, to appropriately support our users and
+workflows, which the hiring manager will discuss. This approach helps strike a balance between bringing people together for in-person collaboration and learning
+from each other, while supporting flexibility when possible.
+Pay and benefits
+The annual US base salary range for this role is $130,000 - $169,000. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range,
+meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of
+several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience,
+qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during
+the interview process.
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and
+wellness stipends.
+We look forward to hearing from you.
+At Stripe, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job
+description. Your skills and passion will stand out—and set you apart—especially if your career has taken some extraordinary twists and turns. At Stripe, we
+welcome diverse perspectives and people who think rigorously and aren't afraid to challenge assumptions. Join us.
+Apply now
+Please find our California applicant personal information notice here.
