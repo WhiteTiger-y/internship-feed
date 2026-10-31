@@ -1,0 +1,72 @@
+About This Role
+Quantitative Master’s Internship Program
+This program mirrors the MBA Internship but is tailored for master’s students in quantitative disciplines – giving you the same exposure and impact, with a
+focus on advanced analytics and problem-solving.
+Eligibility: Students enrolled in analytics, computational finance, financial engineering, mathematics and/or a quantitative-disciplined master’s program and
+graduating between September 2027 and July 2028 with relevant pre-master’s work experience
+We are looking for the next generation of quantitative investors. We offer a range of opportunities, spanning quantitative research, portfolio management,
+product strategy and investment technology.
+BlackRock Systematic is one of the largest quantitative investment managers in the world, with over $200bn in assets under management and 35+ years of
+systematic investing experience. We manage hedge funds, long-only active products and outcome-focused portfolios across a wide range of asset classes,
+geographies and time horizons.
+We are constantly evolving to sustain our leadership position in quantitative investing – searching to unlock new opportunities presented by emerging
+technologies in machine learning and artificial intelligence paired with big(ger) data. We are a pioneer in sustainable investing, a leader in cutting-edge
+quantitative techniques, and passionate about delivering creative investment solutions for our diverse client base.
+Our team spans 200+ professionals from an array of professional, academic and cultural backgrounds, speaks 25+ different languages and collaborates across our
+San Francisco, New York and London offices. The team’s curiosity, diversity and ingenuity drive innovation and insight with the goal of delivering investment
+returns for clients.
+Teams You May Be Considered For
+Factors, Sustainability and Solutions (FS2)
+FS2 combines the research and investment expertise across the BlackRock Systematic Investment platform to drive product innovation, product research and client
+engagement. Products and client solutions range from systematic return-seeking to factor-based, sustainability and outcome-oriented, spanning all asset classes.
+We constantly identify new product opportunities and develop unique investment models to best serve our clients.
+Systematic Active Equity
+A pioneering quantitative investment team comprised of industry leaders that applies powerful machine learning techniques to active equity investment
+strategies. We apply data such as today’s trading activity, internet searches, next year’s economic forecasts and long-term demographic trends to construct
+optimal high-breadth portfolios across global public equity markets. We partner with top academics to ensure our research techniques are at the forefront of
+machine learning and artificial intelligence. We constantly look for ways to improve our processes and generate more alpha for our clients.
+Systematic Fixed Income
+A global, multi-asset investment team that combines financial theory, econometrics, market sentiment and groundbreaking statistical techniques to generate alpha
+across sovereign, corporate and securitized debt instruments. We build and deploy quantitative models, which pick up on market trends and capitalize on relative
+value opportunities across geographies, sectors and time horizons. The team continuously adapts our investment platform and model suite to a constantly evolving
+investment landscape.
+This Function Is Known For
+- Collaborative, innovative and inquisitive culture – we strive to solve the most complicated problems in investing
+- Breadth of opportunity set – we invest globally across multiple asset classes, including equities, fixed income, commodities, currencies and private
+investments
+- Varied perspectives as a core competitive advantage – our team is comprised of a wide range of academic and professional backgrounds, represents dozens of
+nationalities and speaks 25+ different languages
+- Multidisciplinary ecosystem – research, portfolio management, technology and strategy collaborate seamlessly to deliver the best outcomes for our clients
+- Client focus – our clients are our partners, and we are deeply invested in their well-being and success.
+- Sustainability – our approach to sustainability is rooted in our fiduciary duty to our clients, providing choice backed by research, data and analytics to
+produce the best risk-adjusted returns within client mandates
+What capabilities are we looking for?
+- Passion for quantitative investing
+- Strong technical problem-solving skills
+- Ability to write efficient, effective computer code (Python)
+- Experience with translating statistical models and algorithms into code
+- Comfort in working with large datasets
+- Inquisitive nature, desire to learn and critical thinking
+- Effective communication and collaboration skills
+- Curiosity, critical thinking, learning agility, and sound judgement in technology-enabled decision making, coupled with an enthusiasm for AI, emerging
+technologies, and continuous innovation
+Your Learning And Development Will Include
+- Contributing to the function’s knowledge base by working on investment or client-related projects
+- Joining daily market-related updates, learning about how our portfolios trade and react to market events
+- Collaborating across multiple business functions to learn the research and product life cycles and our strategies for continued growth
+- Developing an understanding of capital markets, return drivers and economic theory
+- Learning about our clients and their investment strategies; assisting in guiding investors toward achieving their unique investment goals by applying our
+technology and tools
+- Being part of an innovative, dynamic, diverse team culture and learning from some of the best minds in the business
+For San Francisco, CA and New York, NY only: The salary ranges for these positions are below. Please note, salary rates for a role are determined by department
+or team within a Business Area, as well as location of the role.
+Salary Range (Semi-Monthly Rate)
+Investment: $6,500 – $8,500
+Our Benefits
+To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive
+healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+Our hybrid work model
+BlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while
+supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a
+week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments
+that arise when we work together in person – aligned with our commitment to performa

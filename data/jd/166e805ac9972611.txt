@@ -1,0 +1,75 @@
+Overview
+Systems Planning and Analysis, Inc. (SPA) delivers high-impact technical solutions to complex national security issues. With over 50 years of business expertise
+and consistent growth, we are known for continuous innovation for our government customers, in both the U.S. and abroad. Our exceptionally talented team is
+highly collaborative in spirit and practice, producing Results that Matter. Come work with the best! We offer opportunities, unique challenges, and clear-
+sighted commitment to the mission. SPA: Objective. Responsive. Trusted.
+Veracity Forecasting Portfolio (VF) is part of the Sea, Land, Air Division within Systems Planning and Analysis, Inc. Our unique processes result in
+authoritative, data-driven analyses that assist enterprise managers with complex decision making. We offer our customers proven expertise in descriptive,
+predictive, and prescriptive analytics; advanced mathematics and computational techniques (a.k.a. data science); and software engineering. Our mission is to
+help enterprise leaders make complex, fully informed decisions and save money in the process.
+We are seeking a motivated Data Engineer Intern to work with our data team on an important Department of Navy program.
+Timeline for intern selection:
+- Applications can be submitted and will be reviewed until 13 November 2026.
+- Interviews will begin on 26 October and will conclude on 18 December 2026.
+- Offers/decisions will be extended starting 18 November.
+Responsibilities
+You’ll support the design and documentation of scalable, reliable data architectures that enable analytics, reporting, and advanced data use cases. Working
+under the guidance of experienced data scientists, you will gain hands-on exposure to data modeling, system design, and architectural best practices while
+contributing to real projects. Specific responsibilities include:
+- Assist in designing conceptual, logical, and physical data models for analytical platforms
+- Support the development of data architecture diagrams, standards, and documentation
+- Support design and implementation of cloud-based data pipelines in common industry environments
+- Help evaluate data sources, integration patterns, and technology options
+- Contribute to data modeling efforts using tools such as ER diagrams, dimensional modeling, and modern modeling approaches
+- Participate in reviewing data pipeline and storage designs for scalability, performance, and maintainability
+- Research emerging data architecture patterns, tools, and best practices; summarize findings for the team
+- Assist with documenting data flows, data lineage, governance considerations, and architectural decisions
+- Collaborate with data scientists/analysts and stakeholders to gather requirements and refine designs
+- Support basic prototyping or proof-of-concept work related to data architecture solutions
+Qualifications
+Required qualifications
+- Degree candidate in Data Science, Computer Science, or other appropriate technical discipline
+- Strong foundational knowledge of databases
+- Proficiency in Python (or similar scripting language) for data manipulation
+- Familiarity with data modeling concepts (dimensional modeling, star/snowflake schemas) and basic ETL concepts
+- Familiarity with cloud-based development tools
+- Understanding of version control and collaborative development practices
+- Strong analytical thinking, attention to detail, and eagerness to learn
+- Strong written and verbal communication skills
+- US citizen with the ability to obtain/maintain a security clearance
+Desired qualifications
+- Academic project experience involving database design, data warehousing, or system architecture
+- Exposure to cloud platforms and services such as S3, BigQuery, Redshift, Snowflake, or Databricks
+- Familiarity with data modeling tools (like Lucidchart, draw.io, ERwin, or similar) and/or diagramming practices
+- Understanding of data governance, data quality, and enterprise architecture concepts
+- Experience with version control and collborative documentation tools
+Pay Range Information
+At SPA, we strive to deliver a robust total compensation package that will attract and retain top talent. Elements of the compensation package include
+competitive base pay and variable compensation opportunities. SPA provides eligible employees with an opportunity to enroll in a variety of benefit programs,
+generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and
+a number of programs that provide for both paid and unpaid time away from work. The specific programs and options available to any given employee may vary
+depending on eligibility factors such as geographic location, date of hire, etc. Please note that the salary information shown below is a general guideline
+only. Salaries are commensurate with experience and qualifications, as well as market and business considerations. Virginia, Pay Transparency Salary range: USD
+$23.00/Hr. - USD $33.00/Hr.
+You’ll support the design and documentation of scalable, reliable data architectures that enable analytics, reporting, and advanced data use cases. Working
+under the guidance of experienced data scientists, you will gain hands-on exposure to data modeling, system design, and architectural best practices while
+contributing to real projects. Specific responsibilities include:
+- Assist in designing conceptual, logical, and physical data models for analytical platforms
+- Support the development of data architecture diagrams, standards, and documentation
+- Support design and implementation of cloud-based data pipelines in common industry environments
+- Help evaluate data sources, integration patterns, and technology options
+- Contribute to data modeling efforts using tools such as ER diagrams, dimensional modeling, and modern modeling approaches
+- Participate in reviewing data pipeline and storage designs for scalability, performance, and maintainability
+- Research emerging data architecture patterns, tools, and best practices; summarize findings for the team
+- Assist with documenting data flows, data lineage, governance considerations, and architectural decisions
+- Collaborate with data scientists/analysts and stakeholders to gather requirements and refine designs
+- Support basic prototyping or proof-of-concept work related to data architecture solutions
+Required qualifications
+- Degree candidate in Data Science, Computer Science, or other appropriate technical discipline
+- Strong foundational knowledge of databases
+- Proficiency in Python (or similar scripting language) for data manipulation
+- Familiarity with data modeling concepts (dimensional modeling, star/snowflake schemas) and basic ETL concepts
+- Familiarity with cloud-based development tools
+- Understanding of version control and collaborative development practices
+- Strong analytical thinking, attention to detail, and eagerness to learn
+- Strong written and verbal communication sk

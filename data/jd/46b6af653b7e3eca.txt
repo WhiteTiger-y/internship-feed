@@ -1,0 +1,65 @@
+Current Employees:
+If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application
+process. To learn how to apply for a faculty or staff position, please review this tip sheet.
+The University of Miami/UHealth Department of SCCC has an exciting opportunity for a Full-Time Data Science & AI Intern to work at UHealth in Miami, Florida.
+Core Job Summary
+The Sylvester Data Science and AI Innovations Internship Program provides supervised training opportunities for students, trainees, research fellows, and others
+interested in developing tools to analyze and visualize clinical and research data in oncology. Daily activities will include processing and analyzing
+molecular, sociodemographic, psychosocial, patient‑reported, lifestyle, wearable, and other clinical and research data, as well as publicly available
+population‑ and neighborhood‑level datasets. These activities occur across Sylvester’s research laboratories and the Sylvester Survivorship and Supportive Care
+Institute.
+As a Casual Worker, this individual supplies services on an irregular or flexible basis to meet the University’s fluctuating demand for work. Additionally, the
+Casual Worker assists the assigned department(s) in meeting strict deadlines to advance the institution’s related goals and objectives.
+Core Job Functions
+- Performs assigned tasks and projects.
+- Provides clerical, research, professional or technical support to assigned division.
+- Adheres to all company policies and procedures.
+- Meets or exceeds applicable goals and deadlines.
+- Develops relationships with department staff and other parties to carry out job functions.
+- Keeps supervising staff members informed of work progress and any issues encountered.
+- Adheres to University and unit-level policies and procedures and safeguards University assets. This list of duties and responsibilities is not intended to be
+all-inclusive and may be expanded to include other duties or responsibilities as necessary.
+DEPARTMENT SPECIFIC:
+- Develop foundational knowledge of oncology research with emphasis on sociodemographic, psychosocial, biobehavioral, lifestyle, wearable, patient-reported
+outcomes, psychosocial and behavioral intervention mechanisms, molecular (e.g., genomic), and digital health data.
+- Support supervised data cleaning, documentation, harmonization, and integration of diverse clinical and research datasets.
+- Assist with analytic and technical activities that link individual-level clinical, genomics, digital health, and patient-reported outcomes data with
+sociodemographic, neighborhood, and population-level data.
+- Contribute to research examining how clinical, behavioral, social, and population-level factors guide cancer care delivery and influence outcomes across
+cancer sites and treatment modalities.
+- Support the development and evaluation of AI-driven risk algorithms, analytic tools, dashboards, and AI-enabled applications that enhance visualization,
+interpretation, and use of clinical and research data.
+- Support the development and evaluation of digital health, precision medicine, and other supportive care tools and software.
+- Assist in developing and implementing risk-tailored, AI-powered adjunctive supportive care interventions delivered through eHealth platforms.
+- Participate in regular one-on-one and small-group meetings with mentors and program faculty to review data pipelines, troubleshoot methods, refine research
+questions, and clarify role expectations.
+Core Qualifications
+Education: High School Diploma or equivalent/relevant experience, certification or license
+Experience: Minimum 1 year of relevant experience required
+Certification and Licensing: Refer to department description for applicable certification requirements
+Knowledge, Skills and Abilities:
+- Learning Agility: Ability to learn new procedures, technologies, and protocols, and adapt to changing priorities and work demands.
+- Teamwork: Ability to work collaboratively with others and contribute to a team environment.
+- Technical Proficiency: Skilled in using office software, technology, and relevant computer applications.
+- Communication: Strong and clear written and verbal communication skills for interacting with colleagues and stakeholders.
+- Interest in leveraging AI and other computational and data visualization approaches in oncology, clinical research, precision medicine, cancer survivorship,
+digital health, lifestyle medicine, and biomedical data sciences.
+- Experience or coursework in Python, R, SQL, JavaScript, statistics, data visualization, software development or related tools.
+- Strong organization, communication, and team science skills.
+- Experience with Git, reproducible workflows, software testing, or application development.
+- Familiarity with cloud-based development environments such as Azure
+- Familiarity in developing, training, and evaluating AI models
+This is a core job profile description and is not reflective of all duties that may be assigned to a specific position in each individual department. The above
+statements are intended to describe the general nature and primary responsibilities of this core job profile. Specific duties and tasks may vary based upon
+departmental needs. Other duties may be assigned to the above consistent with the knowledge, skills, and abilities required for the job.
+The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more.
+UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground
+breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and
+the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our
+tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for.
+The University of Miami is an Equal Opportunity Employer. Applicants and employees are protected from discrimination based on certain categories protected by
+Federal law.
+Job Status:
+Full time
+Employee Type:
+Temporary-Intermittent

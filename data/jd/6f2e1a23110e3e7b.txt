@@ -1,0 +1,42 @@
+Our Mission
+Rebuild how the world works, to make institutions work better for the people they serve.
+About Brain Co.
+Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real
+workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.
+Why Now
+Brain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a
+growing footprint across government, insurance, health, and financial services.
+Joining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable
+customer value and impact.
+You'll work alongside exceptional peers on some of the hardest problems in applied AI. It’s the kind of work you'll still be proud of in ten years from now.
+About the Role:
+As an AI/ML Engineer Intern , you’ll work alongside experienced engineers and researchers to help design, build, and deploy machine learning systems that solve
+high-impact problems in healthcare, government, and energy .
+This internship is designed for current undergraduate students, specifically juniors and seniors graduating no later than June 2028, who want hands-on
+experience applying modern AI techniques, especially large language models, to real-world challenges. You’ll gain exposure to the full ML lifecycle while
+receiving mentorship and ownership over meaningful projects.
+What You’ll Do
+Assist in designing and deploying LLM-powered applications to automate complex, real-world workflows
+Build and improve data pipelines and support model training, evaluation, and optimization
+Work with structured and unstructured data (e.g., text, documents, logs)
+Help prepare models and systems for production deployment and monitoring
+Collaborate closely with senior engineers, AI researchers, and product teams
+Learn best practices through code reviews , design discussions, and hands-on mentorship
+Gain exposure to customer-facing and real-world constraints, including working with public-sector institutions
+You Might Be a Good Fit If You
+Are a current undergraduate students, specifically juniors and seniors graduating no later than June 2028, pursuing a degree in Computer Science, Machine
+Learning, Data Science, or a related field
+Have experience programming in Python
+Have coursework or project experience in machine learning or AI
+Have exposure to or interest in large language models and GenAI applications (e.g., agents, RAG, reasoning workflows)
+Have used or are eager to learn frameworks such as PyTorch, JAX, or TensorFlow
+Have strong fundamentals in data structures and algorithms
+Are curious, proactive, and excited to learn quickly in a fast-paced environment
+Enjoy owning problems end-to-end with guidance and support
+Internship Details & Benefits
+Dates: May 31, 2027 - Aug 6, 2027 or July 5, 2027 - September 10, 2027
+Competitive internship compensation
+Hands-on mentorship from experienced AI engineers and researchers
+Opportunity to work on real production systems used globally
+Potential return-offer consideration for future internships or full-time roles
+Daily lunches (if onsite)

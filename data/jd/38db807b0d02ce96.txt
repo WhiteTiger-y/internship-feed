@@ -1,0 +1,45 @@
+Job Description The Role We are seeking highly motivated, technically exceptional interns to join our team in the rapidly growing field of Vehicle Health
+Management (VHM). This is an exciting opportunity to work at the intersection of connected vehicles, data science, physics-based modeling, and advanced AI to
+develop technologies that make vehicle ownership more convenient and seamless for millions of customers. You will also help advance vehicle and propulsion
+systems in support of enterprise cost reduction through improved warranty performance and greater engineering development efficiency. In this role, you will
+transform vehicle engineering data into actionable insights that can predict system issues and identify root causes before they affect vehicle performance or
+disrupt customers’ daily lives. Our VHM research combines fundamental physics-based understanding with modern machine learning approaches, including but not
+limited to large language models, causal AI, and reinforcement learning, to deliver scalable solutions for diagnostics, prognostics, and system performance
+management. GM is a leader in this field. One example is the industry-first OnStar Proactive Alert for Starting System, which warns customers of potential
+component failures before they become emergencies, turning unplanned repairs into scheduled maintenance. Now available on more than 15 million GM vehicles, this
+service demonstrates the real-world impact of our work at scale. By joining this team, you will help advance technologies that improve the ownership experience
+for millions of customers. What You’ll Do: Generate innovative ideas in VHM related areas, utilizing physics-based, data-driven, as well as latest AI-based
+modeling methodologies Develop next-generation technologies for vehicle system diagnosis, prognosis, and fault-tolerant controls as well as integration Develop
+and execute specific research plans, including concept generation, prototype development, system implementation, and performance evaluation Document and present
+results Required Qualifications: Pursuit of an advanced degree (Master or PhD) in one of the following areas: Electrical Engineering, Mechanical Engineering,
+Aerospace Engineering, Computer Science, Artificial Intelligence, or related field of study Must be a current student Able to work fulltime, 40 hours per week
+during the summer months Background in fault detection and isolation, diagnostics and prognostics, root cause analysis Understanding of AI/ML development
+workflows, including data preparation, model training and deployment, performance evaluation and monitoring Experience in Python (including familiarity with ML
+frameworks such as PyTorch or Tensorflow), PySpark, MATLAB/Simulink Effective verbal and written communication skills Ability to work both independently and in
+teams Preferred Qualifications: Prior internship experience in automotive, technology, or manufacturing Strong critical thinking and analytical skills,
+especially the ability to synthesize large amounts of data involving multiple variables into comprehensive, impactful insights Strong theoretical and
+experimental skills, especially in controls, optimization, signal processing Background in latest AI technologies such as deep learning, LLMs, causal AI,
+reinforcement learning, foundation models, physics-informed machine learning GM does not provide immigration-related sponsorship for this role. Do not apply for
+this role if you will need GM immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the immigration employer of
+record on a government form, and any work authorization requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT,
+CPT, TN, J-1, etc.) The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S.
+permanent resident, asylee or refugee). Work Arrangement: Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report
+to Warren, MI three times per week, at minimum. Start dates for this internship role are in May 24th & June 14th of 2027. About GM Our vision is a world with
+Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable
+for all. Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds
+and our culture. Every day, we want every employee to feel they belong to one General Motors team. Benefits Overview From day one, we're looking out for your
+well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting
+Total Rewards resources. Non-Discrimination and Equal Employment Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of
+unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an
+environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-discriminatory basis
+without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender
+identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage
+interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities.
+Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening
+prior to beginning employment. To learn more, visit How we Hire. Accommodations General Motors offers opportunities to all job seekers including individuals
+with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 1-800-865-7580.
+In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for
+which you are applying. We are leading the change to make our world better, safer and more equitable for all through our actions and how we behave. Learn more
+about: Our Company Our Culture How we hire Our diverse team of employees bring their collective passion for engineering, technology and design to deliver on our
+vision of a world with Zero Crashes, Zero Emissions and Zero Congestion. We are looking for adventure-seekers and imaginative thought leaders to help us
+transform mobility. Explore our global locations

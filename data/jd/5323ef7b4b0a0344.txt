@@ -1,0 +1,69 @@
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+About Futureforce University Recruiting
+Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects
+that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our
+recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development
+courses, and much more.
+Job Category
+Fixed Term & Temporary
+Job Details
+About Salesforce
+Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a
+buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and
+the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
+Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and
+you are the future of Salesforce.
+The Experience
+Build at enterprise scale. Launch like a founder. Start this summer.
+Salesforce AI Labs is seeking exceptional emerging AI and computer science talent for our highly selective, 12-week summer internship designed to develop the
+next generation of AI builders.
+As an AI Labs intern, you'll spend 12 weeks embedded in one of four disciplines, tackling real technical, product, or customer challenges, building with
+frontier AI technologies, and contributing to solutions at enterprise scale. You'll work alongside experienced researchers, engineers, product managers, and
+technical leaders, with access to AI-native development tools and opportunities to take meaningful ownership of your work.
+Interns will be placed in one of four disciplines:
+- Build (Product Engineering): Design, build, and ship AI-powered products, developing technical expertise in production-scale engineering.
+- Shape (Product Management): Translate customer needs into product strategy, define priorities, and help shape the next generation of AI products.
+- Deliver (FDE / Builders): Work with teams developing and deploying AI solutions that solve real-world customer challenges.
+- Transform (DET / Customer Zero): Reimagine enterprise workflows and operations, leveraging AI to drive transformation at scale.
+While you'll spend the summer gaining hands-on experience in one discipline, you'll also collaborate with interns across the other three disciplines on a cross-
+functional capstone project. Together, you'll bring engineering, product strategy, customer solutions, and enterprise transformation perspectives to a shared AI
+challenge, culminating in a final presentation at Demo Day.
+The internship provides an opportunity to build technical depth, develop a broader understanding of the AI lifecycle, and experience how cross-functional teams
+bring innovative solutions to life.
+This internship is designed as a feeder into the 24-month AI Labs Rotational Fellowship, where Fellows complete four six-month rotations across Build, Shape,
+Deliver, and Transform. Interns who demonstrate strong performance and potential may be considered for full-time opportunities in the Fellowship following
+graduation.
+What You'll Actually Be Doing
+- Build and Deliver AI Solutions: Spend 12 weeks embedded in one AI Labs discipline, contributing to meaningful projects that solve real technical, product, or
+customer challenges.
+- Work with Frontier AI: Gain hands-on experience with AI-native development tools, AI agents, and emerging technologies to accelerate experimentation,
+development, and problem-solving.
+- Collaborate Across Disciplines: Partner with interns from Build, Shape, Deliver, and Transform on a cross-functional capstone project, combining different
+perspectives to develop an innovative AI solution.
+- Own Meaningful Work: Take ownership of assigned projects, from problem definition and experimentation through development and delivery, with guidance from
+experienced AI Labs leaders.
+- Present Your Work: Showcase your team's capstone project at an in-person Demo Day, presenting your solution, approach, and impact to an executive panel.
+- Learn from AI Leaders: Engage with engineering, product, FDE, and DET teams through mentorship, workshops, and cohort experiences that broaden your
+understanding of the AI lifecycle.
+You're Our Person If...
+- Computer Science & Engineering Fundamentals: Currently pursuing a bachelor's or master's degree in Computer Science, Computer Engineering, Data Science,
+Artificial Intelligence, or a related technical discipline, graduating between December 2027 and June 2028. Strong foundation in data structures, algorithms,
+software engineering, and technical problem-solving.
+- Practical Coding Experience: Experience developing software through academic projects, research, internships, or independent technical projects.
+- Programming: Proficiency in Python and experience building software, AI, or machine learning applications.
+- AI & ML Foundations: Understanding of core AI/ML concepts and experience using modern AI development tools to accelerate experimentation, development, and
+problem-solving.
+- Builder Mindset: Demonstrated curiosity, high ownership, and ability to solve complex problems in fast-moving, ambiguous environments.
+- Collaboration & Communication: Strong written and verbal communication skills, with the ability to collaborate across disciplines and explain technical
+concepts clearly to both technical and non-technical audiences.
+Even Better If...
+- Proven Build History: Portfolio evidence of building, deploying, or open-sourcing software or AI applications through projects, research, hackathons, or
+public repositories.
+- Applied AI Experience: Previous internship, research, or project experience in software engineering, data engineering, machine learning, product development,
+or solutions architecture.
+- Cross-Functional Experience: Experience working across engineering, product, design, or customer-facing teams to solve complex problems.
+- Cloud & Data Pipelines: Exposure to cloud infrastructure, scalable data processing frameworks (Spark, SQL), or MLOps pipelines for model deployment.
+Unleash Your Potential
+When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best , and our AI
+agents accelerate your impact so you can do your best . Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing
+experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself,

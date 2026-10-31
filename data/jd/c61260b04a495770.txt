@@ -1,0 +1,39 @@
+At Central, we believe an internship should be more than completing busy work. We invest in our interns to give them the opportunities needed to grow, nurture
+and develop their whole self. Why? Because we believe excellence is gained from experience.
+Central’s internship program is customized to each internship placement. The program provides members with dedicated time to gain first-hand experience while
+solving unique business problems. It’s strategically designed to provide diverse exposures throughout the organization, to allow you to learn from our experts
+and collaborate with teams that do incredible work.
+Each internship will be different; however, at its core, the program consists of the following opportunities:
+- Immersive experiences in challenging and meaningful work with built-in continuous learning opportunities
+- Direct impact on work that matters and opportunities to affect successful outcomes and drive corporate objectives
+- Gain the skills and knowledge to become a future trailblazer
+- Build a lasting professional network through events and activities
+Data Scientist Internship
+- Apply statistical and analytics techniques to charter a project from start to finish
+- Generate and validate SQL queries to pull together disparate data for hypothesis testing
+- Perform exploratory data analysis to unlock patterns and promote discovery
+- Move from EDA to modeling with the capability to generate predictions
+- Leverage best practices in data visualization to communicate findings and distribute learnings throughout the organization through data story-telling
+Ready to dive in? Ideal candidates for this program are:
+- Naturally curious and ask a lot of questions
+- Interest in learning the ins-and-outs of the insurance industry
+- Capable of coding in either R or Python
+- Knowledge and experience building standard predictive modeling techniques including: linear and non-linear models, regression analyses, machine learning
+methods (decision trees, XG Boosted trees, neural networks, cluster analysis (KNN), feature selection, etc.), forecasting, time series analysis, survival
+analysis, and causal impact analyses
+- Capable of writing SQL queries to generate datasets
+- M.S. Students in Statistics, Mathematics, Economics, Computer Science, Engineering or a similarly related field desired
+Next Steps
+- Applications Accepted: Through January 2027, or until all positions are filled
+- Interviews & Offers: Conducted and extended on a rolling basis
+- Internship Dates: May-August 2027, aligning with summer break
+Candidates are encouraged to apply early. The job posting will close once all internship positions have been filled.
+Work Authorization
+Central will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided.
+Individuals with temporary visas such as E, F-1(including those with OPT or CPT) , H-1, H-2, L-1, B, J or TN, or who need sponsorship for work authorization now
+or in the future, are not eligible for hire.
+Equal Opportunity Employer
+It is the policy of Central that all recruiting, hiring, training, compensation, overtime, job classification and assignment, facilities, promotions, transfers,
+employee treatment and all other terms and conditions of employment shall be maintained in a manner which will not discriminate against any person because of
+race, color, age, sex, national origin, ancestry, religion, marital status, military status, or disability. The applicant should respond to questions on this
+application in a way that will not divulge such information.

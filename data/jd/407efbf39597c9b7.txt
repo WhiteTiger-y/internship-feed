@@ -1,0 +1,70 @@
+To be considered for this position, applications and resumes are accepted only through our careers site by directly applying to the posted job. We do not accept
+unsolicited resumes or sales solicitations from staffing agencies. Any OCC employee wishing to submit a referral must do so through their Workday account. Any
+resume submitted outside of an active job posting will not be considered for employment.
+- INTERNS AND SEASONAL INTERNS ARE ELIGIBLE ONLY FOR PAID SICK LEAVE ACCRUED BASED ON HOURS WORKED. NO OTHER BENEFIT INCLUDING TECHNOLOGY STIPEND APPLY TO
+INTERNS OR SEASONAL INTERNS*****
+Location: Chicago
+Internship type: Seasonal intern (12 weeks, summer 2027)
+Hybrid Work Program
+OCC operates under a Hybrid Work Program which, absent an approved exception, requires employees to work from an OCC office at least 3 days per week. To
+maximize in–person collaboration, Tuesday and Wednesday are considered anchor days, and all employees are expected to work in the office both days. Employees
+meeting performance expectations are generally permitted to select 2 other days per week to work remotely if desired. When working remotely, employees are
+generally expected to work from the state in which they reside, absent an exception approved by Human Resources. Additionally, OCC generally does not permit
+employees to work while traveling internationally.
+About OCC:
+A World Class Clearing Organization
+The Options Clearing Corporation (OCC) is the world's largest equity derivatives clearing organization. Founded in 1973, OCC is dedicated to promoting stability
+and market integrity by delivering clearing and settlement services for options, futures and securities lending transactions. As a Systemically Important
+Financial Market Utility (SIFMU), OCC operates under the jurisdiction of the U.S. Securities and Exchange Commission (SEC), the U.S. Commodity Futures Trading
+Commission (CFTC), and the Board of Governors of the Federal Reserve System. OCC has more than 100 clearing members and provides central counterparty (CCP)
+clearing and settlement services to 21 exchanges and trading platforms.
+OCC also provides free and engaging educational resources about the benefits and risks of options through its Options Industry Council (OIC).
+OCC is building a culture that empowers continued learning, authentic innovation, and constant creativity.
+About the Intern Program:
+OCC is looking for interns who are eager to learn, humble enough to ask questions, and ready to think critically about complex problems. The OCC Internship
+Program equips students with the real-world skills needed to transition successfully into a career in financial services. As an intern, you will contribute to
+meaningful projects, applying your skills and knowledge to real challenges facing the business. Your time with us is a real opportunity to make a genuine impact
+on the future of OCC!
+OCC's Summer Internship Program is a 12-week opportunity running either May through August or June through September, and is open to undergraduate and graduate
+students who are actively enrolled at a college or university. Interns work up to 40 hours per week in a hybrid work environment, and overtime is not permitted.
+About The Team & Role
+QRM builds and maintains the quantitative risk models that OCC uses for margin, clearing fund sizing, and stress testing, using financial mathematics and
+statistical modeling techniques.
+The intern will contribute to the development, testing, monitoring, and improvement of these quantitative models, under the guidance of QRM team members.
+Job Summary & Responsibilities
+The intern may work on one or more of the following project areas, depending on team needs and intern interest:
+- Testing the assumptions, parameters, and modeling choices of the stress testing model components that determine Clearing Fund sizing
+- Proposing sensitivity metrics for testing these assumptions and parameters
+- Exploring alternative or more academically advanced methodologies that improve the performance of various model components, such as those governing equity
+price and volatility behavior
+- Streamlining the team's research Python code library to support model development and testing
+Candidate Qualifications
+Rising senior or second-year graduate student, graduating December 2027 or May/August 2028.
+Desired Majors
+- Master's or PHD in Financial Mathematics, Financial Engineering, Statistics, Applied Mathematics, Finance, Economics
+Technical Skills/Experience Desired
+- Strong foundation in financial mathematics: derivatives pricing models, stochastic calculus, probability theory, and statistics
+- Working knowledge of linear algebra and numerical methods used in model implementation
+- Familiarity with econometrics and quantitative risk management concepts (VaR, margin methodologies, stress testing frameworks)
+- Exposure to machine learning or advanced data analysis techniques a plus
+- Programming proficiency in Python (or similar language) for data analysis and model development in a collaborative codebase
+- Solid understanding of financial markets and derivatives products (equity options, futures, options on futures)
+- Proficiency with Excel, PowerPoint, and Word for analysis and presentation of findings.
+Additional Qualifications
+- Strong analytical and problem-solving skills
+- Effective written and verbal communication skills, with the ability to translate technical model findings for both quantitative and non-quantitative
+stakeholders
+- Comfort working in a collaborative, cross-functional environment with quants, business users, data/technology staff, and model validation teams
+- CFA and/or FRM coursework or progress toward certification preferred but not required
+- Demonstrated initiative and curiosity.
+About Us
+The Options Clearing Corporation (OCC) is the world's largest equity derivatives clearing organization. Founded in 1973, OCC is dedicated to promoting stability
+and market integrity by delivering clearing and settlement services for options, futures and securities lending transactions. As a Systemically Important
+Financial Market Utility (SIFMU), OCC operates under the jurisdiction of the U.S. Securities and Exchange Commission (SEC), the U.S. Commodity Futures Trading
+Commission (CFTC), and the Board of Governors of the Federal Reserve System. OCC has more than 100 clearing members and provides central counterparty (CCP)
+clearing and settlement services to 19 exchanges and trading platforms. More information about OCC is available at www.theocc.com.
+Compensation
+- The salary range listed for any given position is exclusive of fringe benefits and potential bonuses. If hired at OCC, your final base salary compensation
+will be determined by factors such as skills, experience and/or education.
+- In addition, we believe in the importance of pay equity and consider internal equity of our current team members as part of any final offer.
+- We typically do not hire at the maximum of the range in order to allow for fut

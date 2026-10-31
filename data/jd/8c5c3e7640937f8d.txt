@@ -1,0 +1,45 @@
+Your Impact at LILA
+The PS AI team sits at the intersection of Physical Sciences R&D and AI/ML. Lila runs high-throughput experiments across electrochemistry, formulations, and
+advanced materials, generating rich datasets that demand more than black-box models.
+As a Co-Op focused on AI-driven equation discovery, you will develop and benchmark methods that extract interpretable governing equations directly from that
+data. Discovered equations reveal the underlying physics, make predictions explainable, and serve as mechanistic building blocks for digital twins and closed-
+loop optimization.
+You will work alongside PS AI researchers and physical scientists, helping shape how Lila turns experimental data into scientific understanding at scale.
+What You'll Be Building
+- Build end-to-end equation discovery pipelines from preprocessing through candidate generation and validation
+- Benchmark symbolic regression methods (SINDy, PDE-FIND, PySR, LLM-guided search) on Lila campaign data
+- Apply equation discovery to live electrochemistry, formulation, and materials datasets
+- Design evaluation harnesses measuring recovery rate, generalization, noise robustness, and physical consistency
+- Embed discovered equations into surrogate models, physics-informed models, and experimental digital twins
+- Translate open scientific questions into concrete problems with datasets, baselines, and success criteria
+- Document and present findings across PS AI and domain science teams
+What You'll Need To Succeed
+- Pursuing a Master's or PhD in ML, CS, applied math, physics, materials science, or chemical engineering
+- Strong Python skills with hands-on experience in PyTorch, JAX, or similar
+- Experience applying machine learning to messy, real-world scientific or experimental data
+- Solid grounding in linear algebra, calculus, and probability
+- Comfort reading and implementing methods from ML research papers
+- Ability to frame open-ended scientific questions as concrete ML tasks
+- Clear communication across research, engineering, and physical science teams
+Bonus Points For
+- Working knowledge of symbolic or sparse regression methods (SINDy, PySR, PDE-FIND, or equivalent)
+- Experience with LLM-guided or agentic symbolic regression (LLM-SR, SR-Scientist, or similar)
+- Background in physics-informed ML, uncertainty quantification, or operator learning (PINNs, neural ODEs, FNO, DeepONet)
+- Exposure to digital twin or closed-loop workflows: model calibration, active learning, Bayesian optimization
+- Domain knowledge in electrochemistry, formulations, superconductors, or materials science
+About LILA
+Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI.
+Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves.
+LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific
+method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai.
+Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this
+sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply.
+We’re All In
+Lila Sciences is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age,
+citizenship, marital status, disability, gender identity or Veteran status.
+Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy.
+A Note to Agencies
+Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing
+agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume
+submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral
+or other fees with respect thereto.

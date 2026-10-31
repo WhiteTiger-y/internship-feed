@@ -1,0 +1,62 @@
+Overview
+Working at Atlassian
+Atlassians have the flexibility to work where they can collaborate most effectively with their team, whether at home, one of our global offices, or both. We
+hire in any country where we have a legal entity. Learn how we work at go.atlassian.com/distributed .
+Your Future Org
+Atlassian’s Intern program combines hands-on technical training, professional growth opportunities, dedicated mentorship, and strong social connections. This
+holistic approach empowers students to hit the ground running and sets them up for a successful and impactful career at Atlassian!
+- This is a hybrid role located in Seattle, WA or San Francisco, CA. You must be willing and able to work out of Seattle or San Francisco to qualify.
+This position is not eligible for F1 and J1 students. It is not available for any work sponsorship.
+At Atlassian, we build AI/ML products, platforms, and infrastructure that solve business, product, security, and engineering challenges across the company. Our
+work spans AI-powered governance and compliance, applied ML systems for recommendation and optimization, and foundational ML platforms, partnering with teams
+across Engineering, Product, Growth, Sales, Marketing, and Security. Depending on team placement, you may contribute to governance and compliance intelligence,
+recommendation and optimization systems, or platforms for ML development, serving, and observability. You will work with experienced mentors on a focused
+project, developing your skills while delivering measurable improvements in quality, reliability, or user outcome.
+Responsibilities
+Responsibilities
+- Build and evaluate applied AI/ML solutions for real-world product and business problems, with mentorship from experienced engineers.
+- Contribute to machine learning and Generative AI projects, including models, agents, retrieval, and evaluation workflows.
+- Translate business and product needs into well-scoped technical projects, from experimentation and prototyping to working implementations.
+- Evaluate and improve AI/ML solutions through experimentation, error analysis, user feedback, and measurable results.
+- Communicate findings clearly and document results, trade-offs, limitations, and next steps.
+Compensation
+Compensation
+Skills
+At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. To support this goal, the baseline of our range is higher than
+that of the typical market range, but in turn we expect to hire most candidates near this baseline. Base pay within the range is ultimately determined by a
+candidate's skills, expertise, or experience. In the United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires
+in each zone are:
+Zone A: $54/hr - $61/hr
+Zone B: $49/hr - $55/hr
+Zone C: $45/hr - $51/hr
+This role may also be eligible for benefits, bonuses, commissions, and equity.
+Please visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the
+zone for your specific location with your recruiter.
+Benefits And Perks
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include
+health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit https://www.atlassian.com/company/careers/earlycareers .
+Pay Ranges
+Role
+In The United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:
+Zone A: $0 - $0
+Zone B: $0 - $0
+Zone C: $0 - $0
+Qualifications
+- Currently enrolled in a full-time Master’s degree program in a quantitative field (Computer Science, Machine Learning, AI, Data Science, Statistics,
+Mathematics, or related field), returning to the program after the internship, and graduating by August 2028.
+- Strong software engineering fundamentals, with experience in Python and familiarity with testing, version control, APIs, data structures, and debugging.
+- Hands-on experience building machine learning or AI systems through coursework, research, or industry internships, including areas such as
+recommendation/ranking, NLP, classification, embeddings, LLM applications, RAG, agents, or model evaluation.
+- Uses AI-assisted tools thoughtfully for development and experimentation, validates generated code and outputs, and can explain where AI adds value, its
+limitations, and when a simpler approach is more appropriate.
+- Strong problem-solving and communication skills, with a curious, AI-first mindset and an interest in building reliable and responsible AI/ML solutions.
+- Able to commit to a 12-week, full-time (40 hours/week) Summer 2027 internship.
+About Atlassian
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions
+are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's
+perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital,
+veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment
+team during your conversation with them.
+To learn more about our culture and hiring process, visit go.atlassian.com/crh .

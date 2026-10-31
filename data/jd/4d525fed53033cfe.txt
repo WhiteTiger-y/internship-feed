@@ -1,0 +1,83 @@
+Job Requisition ID: 94774
+Location Designation: Hybrid - 3 days per week
+Shape your future with a dynamic internship experience at New York Life.Your internship journey is designed to challenge you through hands-on work experience
+that will equip you with valuable skills you can use anywhere. You will build your network through collaboration and connection with talented interns and
+experienced employees through team-building activities, mentorship programs, and fun social events. By the end of your internship, you'll be equipped with new
+skills and a network that will propel you forward in your career journey.
+Role Overview
+Beginning in June and ending in August, this 10-week summer internship is part of the New York Life Direct (NYLD) program, the industry leader in direct-to-
+consumer life insurance. NYLD delivers streamlined life insurance solutions directly to individuals, bypassing traditional agent models.
+As an Advanced Analytics (Data Science) Intern, you will be a member of the Advanced Analytics team, supporting data-driven decision-making across the business.
+The program offers valuable professional development through practical experience, exposure to senior leaders, and collaboration across functions including
+Finance, Marketing, Product, Research and Underwriting Strategy, Technology, Actuarial, and Insurance Operations.
+The intern will also gain exposure to how modern artificial intelligence, machine learning, and generative AI tools can be applied responsibly to analytics
+workflows and business problems.This role follows a hybrid work model, with in-person workdays Tuesday-Thursday at our Tampa office.
+What You'll Do
+As part of the Advanced Analytics team, you will:
+- Support team members in daily analytics functions, including data querying, data preparation/manipulation, and exploratory data analysis.
+- Contribute to multiple analytics projects, which may include:
+- Test design and analysis
+- Ad-hoc analytical requests
+- Development of proof-of-concept models
+- Evaluation of variables for modeling purposes
+- Explore and apply artificial intelligence and generative AI tools to support analytics workflows, including data exploration, coding, research, documentation,
+and analytical proof-of-concept development.
+- Apply statistical and machine learning approaches to business problems and evaluate model performance using appropriate analytical techniques.
+- Evaluate the effectiveness, limitations, and appropriate use of AI-assisted approaches, with attention to accuracy, data quality, privacy, and responsible AI
+practices.
+- Apply academic learning to real-world business problems in a professional environment.
+- Build a foundational understanding of New York Life Direct's business and analytics capabilities.
+- Participate in professional development workshops, networking events, and team-building activities.
+- Engage with senior professionals through fireside chats and structured networking opportunities.
+- Be considered for a potential full-time role after graduation.
+What You'll Accomplish By The End Of The Internship
+By the end of the internship, you will have:
+- A basic understanding of NYLD's business related to the project areas you support.
+- A foundational understanding of NYLD's analytics database infrastructure.
+- Completed several low- to moderate-complexity data tasks in support of assigned analytics projects.
+- Successfully delivered 1-2 medium- to high-priority analytical projects under manager supervision.
+- Developed practical experience using modern AI and analytics tools appropriately within a professional data science environment.
+- Presented insights through influential presentations and discussions, including:
+- At least one midpoint presentation
+- One final presentation
+- Received positive feedback from business stakeholders on the majority of presentations.
+What You'll Bring
+You bring strong communication skills, intellectual curiosity, and a desire to learn and grow in a data-driven environment. You are comfortable working with
+data, thinking analytically, collaborating with others to solve complex problems, and learning new analytical and AI-enabled tools. You demonstrate sound
+judgment when evaluating analytical results and are interested in understanding both the opportunities and limitations of modern data science and AI approaches.
+Required Skills & Qualifications
+- Currently enrolled in and pursuing a graduate degree in a technical or quantitative field such as:
+- Data Science
+- Statistics
+- Mathematics
+- Economics
+- Computer Science
+- Business Analytics
+- Or a related quantitative discipline
+- Basic proficiency in SQL and a statistical programming language such as Python or R.
+- Coursework or project experience in statistics, including regression modeling and/or design of experiments, preferred.
+- Experience with data querying, data preparation, exploratory data analysis, statistical modeling, or machine learning through coursework, research,
+internships, or project work.
+- Familiarity with modern AI or generative AI tools and experience using them for analytical, coding, research, or academic project work is preferred.
+- Experience with cloud-based analytics environments such as AWS is a plus.
+- Ability to critically evaluate analytical and AI-generated outputs for accuracy, appropriateness, and limitations.
+- Strong written and verbal communication skills, intellectual curiosity, and demonstrated ability to collaborate effectively.
+- Demonstrated leadership or meaningful contribution to academic, campus, professional, or community activities.
+To be eligible for this program, you must be authorized to work in the U.S. We do not offer any type of employment-based immigration sponsorship for this
+program. Likewise, this program is not available to those authorized to work under optional practical training (OPT) or curricular practical training (CPT).
+Curious what it’s like to intern at NYL? Check out #NYLEarlyCareers on LinkedIn!
+#NYLDirectcampus
+Pay Transparency
+Salary Range: $30/hr
+Overtime eligible: Nonexempt
+Discretionary bonus eligible: Yes
+Sales bonus eligible: No
+Actual base salary will be determined based on several factors but not limited to individual’s experience, skills, qualifications, and job location.
+Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an
+incentive program.
+Our Diversity Promise
+We believe in a diverse workforce because it is our mission to advocate for the financial security and success of people in every community. This is why
+diversity, equity, and inclusion (DEI) are guiding principles that are embedded in our brand and our culture. Click here to learn more about how we have been
+recognized for our leadership.
+Recognized as one of Fortune’s World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving
+and volunteerism, supported by

@@ -1,0 +1,34 @@
+Are you an aspiring professional looking to gain hands-on experience and expand your skill set in a real-world business environment? The AI – Agentic & Machine
+Learning Development Internship offers an exciting opportunity to apply your knowledge, build practical skills, and contribute to meaningful work. At VSP
+Vision, we’re on a mission to help people see every possibility—and we do that through our strategic business pillars that connect nearly 90 million patients
+and their health data to network doctors across the globe. As the AI – Agentic & Machine Learning Development Intern, you’ll partner with experienced
+professionals and support a dynamic team across key functions. This role provides exposure to the day-to-day operations of a multi-faceted organization while
+helping you develop critical business competencies. Collaborate with cross-functional stakeholders to design and deliver AI and machine learning solutions that
+address business needs Develop, test, and optimize AI agents, prompts, workflows, and machine learning models using structured and unstructured data Create
+contextual data layers and orchestration frameworks that improve agent and model performance Evaluate solutions for accuracy, scalability, and effectiveness,
+including testing edge cases and failure modes Document experiments, model performance, agent iterations, and key insights to support continuous improvement and
+knowledge sharing Job Specifications Ability to work remotely within the United States, including private or semi-private workspace Availability to participate
+for the full 10-week program – Monday through Friday Access to high-speed internet – Required technology will be provided For roles that are remote (i.e., Work
+From Home (WFH)) or hybrid (i.e., partial onsite at a VSP location and WFH), must demonstrate a high level of engagement in virtual environments, including
+maintaining camera presence during meetings to support effective communication and team alignment Preferred Skills   Building and refining AI agents using LLMs
+and multimodal models for tasks such as data exploration, scenario planning, and workflow automation Designing prompts and workflows that enable agents to
+reason, plan, and act autonomously Working with structured and unstructured datasets, metadata and metrics definitions to create a contextual layer that enables
+agent performance Build, train, and evaluate ML models for tasks such as classification, regression, clustering, and anomaly detection Optimize models for
+accuracy, efficiency, and scalability using techniques like hyperparameter tuning and cross-validation Education Level: Currently enrolled and in good standing
+at an accredited college or university, with at least junior-level (3rd year) standing  Degree Target: Data Science, AI, Computer Science or related field
+Program Dates: June 1, 2027 to August 6, 2027 #LI-VISIONCARE Compensation range for the role is listed below. Applicable salary ranges may differ across
+markets. Actual pay will be determined based on experience and other job-related factors permitted by law. Salary Ranges: $30.50 - $36.50 VSP Vision is an equal
+opportunity employer and gives consideration for employment to qualified applicants without regard to age, gender, race, color, religion, sex, national origin,
+disability or protected veteran status. We maintain a drug-free workplace and perform pre-employment substance abuse testing. Unincorporated LA County
+Residents: Qualified Applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance
+Ordinance for Employers and the California Fair Chance Act, and any other similar laws. Notice to Candidates: Fraud Alert - Fake Job Opportunity Solicitations
+Used to Collect Fees/Personal Information. We have been made aware that fake job opportunities are being offered by individuals posing as VSP Vision and
+affiliate recruiters. Click here to learn about our application process and what to watch for regarding false job opportunities. As a regular part of doing
+business, VSP Vision (“VSP”) collects many different types of personal information, including protected health information, about our audiences,
+including members, doctors, clients, brokers, business partners, and employees.  VSP Vision employees will have access to this sensitive personal information
+and are subject to follow Information Security and Privacy Policies. At VSP Vision, we’re all about seeing potential—literally! We believe that everyone
+deserves access to quality vision care, and we’re on a mission to make that happen. With nearly 70 years in the eye health industry, our team is driven by
+compassion, care, and a shared mission to help people see every possibility. When you join our global family of nearly 15,000 teammates, you’re stepping into a
+world where innovation meets impact. We value collaboration, inclusion, and making sure that everyone feels they belong. Ready to grow your career in an
+environment that’s as supportive as it is inspiring? Then VSP is the place for you. Let’s work together to create a clearer, brighter future—one person at a
+time. Follow your heart to VSP! #VisionWithHeart

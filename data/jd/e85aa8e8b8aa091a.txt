@@ -1,0 +1,45 @@
+The Cigna Group’s Technology Development Program (TECDP) Data Analytics Engineering Internship Get ready to embark on an exhilarating summer adventure with The
+Cigna Group’s Technology Development Program Summer Internship! We are on the lookout for passionate individuals who are eager to dive into the world of
+technology and make a real difference in healthcare. Over the course of 12 dynamic weeks, you’ll have the chance to work on impactful technology projects,
+receive comprehensive training, and benefit from invaluable mentorship that will supercharge your career. What You Will Do Meaningful Role Work: Work within the
+Data & Analytics Engineering track, contributing to the design, development, and optimization of data pipelines, platforms, and analytical tools. You’ll gain
+hands-on experience transforming raw data into actionable insights, deepening your skills in data architecture, engineering, and visualization while helping
+drive data-informed decision-making across The Cigna Group. Learning From Others: Engage with peers, mentors, and cross-functional partners through community-
+building activities and collaborative initiatives. Whether you’re supporting recruiting efforts, driving innovation, promoting community, or enhancing
+onboarding experiences, you’ll learn by doing and growing through shared knowledge. Formal Education and Curriculum: Participate in structured learning through
+both core and track-specific curriculum. This includes technical training, leadership development, and exposure to the business designed to support your growth
+as a well-rounded technologist. Community Building: Build meaningful relationships across the organization through networking events, mentorship, cross-
+functional collaboration, or informal peer engagement. Develop strong relationships that support your personal and professional growth. Qualifications Currently
+pursuing a degree in Data Science, Computer Science, Information Technology, or a related field, with an emphasis on data engineering and analytics. Strong
+understanding of data modeling, ETL (Extract, Transform, Load) processes, and data warehousing concepts. Proficiency in programming languages such as Python,
+Java, or Scala for data manipulation and analysis. Experience with SQL for database querying and data management, along with familiarity with NoSQL databases
+such as MongoDB or Cassandra. Basic knowledge of data visualization tools such as Tableau, Power BI, or similar platforms to present data insights effectively.
+Familiarity with big data technologies such as Hadoop, Spark, or cloud-based data services such as AWS, Google Cloud, or Azure is a plus. Strong analytical and
+problem-solving skills, with the ability to work with large data sets and derive meaningful insights. Good understanding of data governance and data quality
+concepts, with attention to data accuracy and integrity. Excellent verbal and written communication skills to collaborate with cross-functional teams and convey
+technical information clearly. A proactive attitude toward learning and enthusiasm for staying current on trends and technologies in data analytics engineering.
+A GPA of 3.3 or higher is preferred. Additional Information Locations: The role requires a hybrid work schedule, with a minimum of three days per week working
+onsite (Tuesday, Wednesday, and one additional day of the employee’s choice), and the option to work the remaining days remotely. Employees must be able to meet
+the onsite schedule. Program Schedule: You must be available to work a 40-hour work week beginning May 24th, 2027. Working days are Monday – Friday.
+Compensation: The anticipated hourly pay range for this role is $25.00 to $33.00 per hour. Actual compensation will be determined based on factors such as
+skills, education, experience, and location. Work Authorization / Visa Sponsorship: One goal of this leadership development program is to prepare and identify
+qualified candidates for leadership roles with The Cigna Group upon program completion. Therefore, this position is open only to individuals who are eligible
+for employment in the United States and who do not now, or in the future, require visa sponsorship including, but not limited to, H-1B, CPT/OPT/STEM. Pre-
+Employment Requirements: Selected candidates will be required to complete mandatory pre-employment tasks approximately 45 days prior to the program’s start
+date. Completion of the drug test requires availability within the United States during this timeframe. Equal Employment Opportunity & Pay Transparency The
+Cigna Group is an Equal Opportunity Employer. We are committed to building a diverse, inclusive, and equitable workforce. Qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, gender identity or expression), age,
+national origin, ancestry, disability, protected veteran status, genetic information, or any other protected characteristic as defined by applicable federal,
+state, or local laws. The Cigna Group complies with applicable federal, state, and local laws governing nondiscrimination in employment and provides reasonable
+accommodations to applicants with disabilities throughout the hiring process. Pay Transparency Notice: In accordance with applicable state and local pay
+transparency laws, the anticipated hourly pay range for this role is $25.00 – $33.00 per hour. Actual compensation will be determined based on relevant factors
+such as skills, education, experience, and location, and may vary from the stated range. If you will be working at home occasionally or permanently, the
+internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload. If
+you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service
+provider with speeds of at least 10Mbps download/5Mbps upload. About The Cigna Group Doing something meaningful starts with a simple decision, a commitment to
+changing lives. At The Cigna Group, we’re dedicated to improving the health and vitality of those we serve. Through our divisions Cigna Healthcare and Evernorth
+Health Services, we are committed to enhancing the lives of our clients, customers and patients. Join us in driving growth and improving lives. Qualified
+applicants will be considered without regard to race, color, age, disability, sex, childbirth (including pregnancy) or related medical conditions including but
+not limited to lactation, sexual orientation, gender identity or expression, veteran or military status, religion, national origin, ancestry, marital or
+familial status, genetic information, status with regard to public assistance, citizenship status or any other characteristic protected by applicable equal
+employment opportunity laws. If you need a reasonable accommodation to complete 

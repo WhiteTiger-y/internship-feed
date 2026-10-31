@@ -1,0 +1,48 @@
+In this role, you will analyze and summarize data generated from field trials through digital phenotyping, applying modern computer vision and machine learning
+methods to support decision-making and identify opportunities for system and process improvements in collaboration with Field Testing, Data Science, and
+Computer Vision teams.
+This position is based on a hybrid work model at the Bayer Crop Science facility in Chesterfield, Missouri. Regional travel includes nearby field testing sites
+in Illinois, with potential travel to other Midwest and Midsouth locations.
+Your Tasks And Responsibilities
+The primary responsibilities of this role include:
+- Analyze and interpret imagery and metrics generated from field trial data using advanced machine learning and computer vision techniques;
+- Collaborate closely with Field Testing and Data Science partners to integrate digital phenotyping insights into data analysis and model development;
+- Support experimental design by integrating insights from field assessments (UAV, remote sensing, and manual methods);
+- Contribute to system and workflow improvements by applying creativity and problem‑solving to large‑scale data challenges.
+Who You Are
+Bayer seeks an incumbent who possesses the following:
+Required Qualifications:
+- Active M.S. or Ph.D. candidate in a relevant discipline (data science, precision agriculture, agricultural engineering, plant physiology, crop science,
+entomology, weed science, or pathology);
+- Proficiency in Python and experience with deep learning frameworks such as PyTorch, TensorFlow, or JAX;
+- Solid understanding of core machine learning concepts (loss functions, regularization, optimization methods such as SGD/Adam, and learning rate scheduling);
+- Familiarity with agricultural research and field trial methodologies;
+- Basic knowledge of remote sensing technologies;
+- Ability to work collaboratively across areas of expertise.
+Preferred Qualifications:
+- Hands‑on experience with modern architectures such as ResNet, UNet, DeepLab, YOLO, SegFormer, SAM, and Vision Transformers;
+- Experience with creating and managing large‑scale datasets, including the use of tools like Hugging Face Datasets;
+- One to two years of UAV imaging experience;
+- Strong analytical and problem‑solving skills;
+- Experience with cloud platforms (AWS, GCP, or Azure);
+- FAA Part 107 license to operate UAVs, or ability to obtain before the start date.
+Employees can expect to be paid a salary of approximately between $22.75 to $47.75. Additional compensation may include a bonus or commission (if relevant).
+Additional benefits may include health care, vision, dental, retirement, PTO, sick leave, etc (if relevant). This salary (or salary range) is merely an estimate
+and may vary based on an applicant’s location, market data/ranges, an applicant’s skills and prior relevant experience, certain degrees and certifications, and
+other relevant factors.
+This posting will be available for application until at least March 19, 2027
+YOUR APPLICATION
+Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and want to impact our
+mission Health for all, Hunger for none, we encourage you to apply now. Be part of something bigger. Be you. Be Bayer.
+To all recruitment agencies: Bayer does not accept unsolicited third party resumes.
+Bayer is an Equal Opportunity Employer/Disabled/Veterans
+Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with
+disabilities to request any needed accommodation(s) using the contact information below.
+Equal Opportunity Employer Statement: Notice for U.S. Visitors: All information on this site is subject to compliance with local rule and regulations as they
+may vary from time to time and across different geographies, including, without limitation, U.S. Executive Orders.
+Bayer is an E-Verify Employer.
+Location: United States : Missouri : Chesterfield
+Division: Crop Science
+Reference Code: 883370
+Contact Us
+Email: hrop_usa@bayer.com

@@ -1,0 +1,42 @@
+Overview:
+If you're looking for the stability of a profitable, growing company with the entrepreneurial spirit of a startup, we’re hiring. SageSure, a leader in
+catastrophe-exposed property insurance, is seeking a Data Scientist Intern. As a member of SageSure’s Homeowners Product Research team housed in Actuarial, Data
+Scientist Interns will have the opportunity to assist in providing technical and analytical assessments of complex business issues related to the management of
+the current and future development of insurance products. Our interns will learn and use actuarial techniques in developing pricing plans.
+Our internship program matches qualified students with the opportunity to participate in real-world situations, obtain industry knowledge, receive on-the-job
+training, and gain career-enhancing technical skills that will foster professional growth. Furthermore, our internships are designed to provide interns the
+opportunity to network with subject matter experts within the industry as they work to build their professional skills.
+What you’d be doing:
+- Build statistical learning models to solve business problems
+- Research external data and explore potential usage of external data
+- Collaborate with Underwriting, Actuarial and Data Management to formulate business problems into modeling projects
+- Translate and champion model results to diverse audiences
+- Assist in developing data pipeline for modeling projects
+We’re looking for someone who has:
+- Enrolled in a graduate program in Statistics, Data Science or related fields, with an expected May 2028 graduation date.
+- Experience in merging and preparing data for analysis
+- Proficiency with supervised and unsupervised learning models such as Generalized Linear Models, Generalized Additive Model, Lasso, KNN, Boosting, etc.
+- Proficiency in statistical inference
+- Proficiency in SQL and programming experience in R or Python
+- Proficiency in Microsoft Office suite
+- Willingness to learn
+- Ability to work independently and as a team member
+- To qualify, all applicants must be authorized to work in the United States
+About SageSure:
+Named among the Best Places to Work in Insurance by Business Insurance for four years in a row (2020-2023), SageSure is one of the largest managing general
+underwriters (MGU) focused on catastrophe-exposed property in the US. Since its founding in 2009, SageSure has experienced exceptional growth while generating
+underwriting profits for carrier partners through hurricanes, wildfires, and hail. Available in 16 states, SageSure offers more than 110 home, flood, and
+commercial products on behalf of its highly rated carrier partners. Today, SageSure manages more than $3.2 billion of inforce premium and helps protect more
+than 970,000 policyholders.
+We have more than 1,000 employees in a distributed workforce environment across 12 offices—Fairfield, CA; Mountain View, CA; Cheshire, CT; Jacksonville, FL;
+Tallahassee, FL; Tampa, FL; Chicago, IL; Jersey City, NJ; Marlton, NJ; Cincinnati, OH; Houston, TX; Sheboygan, WI—who are tackling the industry’s toughest
+challenges.
+SageSure is a proud Equal Opportunity Employer committed to building a workforce that reflects the spectrum of perspectives, experiences, and abilities of the
+world we live in. We recognize that our differences make us strong, and we actively seek out diverse candidates through partnerships with organizations,
+institutions and communities that represent various backgrounds. We champion belonging and inclusion for all identities, including, but not limited to, race,
+ethnicity, religion, sexual orientation, age, veteran status, ability status, gender, and country of origin, striving to create a culture where all individuals
+feel valued, respected, and empowered to bring their authentic selves to work.
+Our nimble, highly responsive culture nurtures critical thinkers who run toward problems and engineer solutions. We relentlessly pursue better outcomes by
+investing in the technology, talent, and tools that position us to succeed in demanding markets. Come join our team! Visit sagesure.com/careers to find a
+position for you.
+California Applicants: View SageSure’s Workforce Members’ Privacy Notice - CA Privacy Policy & Notice of Collection

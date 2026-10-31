@@ -1,0 +1,84 @@
+Overview
+This is a hybrid role, with the expectation that time working will regularly take place inside and outside of a company office.
+First Citizens Bank offers an exciting summer internship program that provides development opportunities and hands-on work experience while creating a talent
+pipeline for the Bank. Our interns will apply classroom knowledge in a corporate environment while making a positive impact across the organization and the
+communities we serve. Come help First Citizens build for the future!
+The Enterprise Architecture group plays a critical role in shaping the Bank’s long-term technology strategy and innovation roadmap. Interns will gain exposure
+to enterprise-level architecture design, data integration, cloud strategy, and emerging technologies such as artificial intelligence and analytics. This group
+collaborates across business and technology teams to ensure scalable, secure, and efficient systems that support the Bank’s growth and digital transformation.
+Responsibilities & Qualifications
+Duties & Responsibilities
+In this role, you will:
+- Assist in researching and evaluating emerging technologies, including AI, machine learning, and cloud platforms, to identify opportunities for innovation.
+- Work alongside Enterprise Architects to support the analysis and design of technology solutions, including data, application, and infrastructure architecture.
+- Contribute to data analytics and visualization initiatives to support architecture decision-making and improve business insights.
+- Be part of a dynamic team with interesting projects.
+- Accountabilities can and may include areas such as research, analytics, projects, strategy, process review and improvement, as well as technology enhancements
+and support.
+- Attend professional development sessions, informational sessions, networking and community service events.
+- Have a dedicated manager and program manager to help you navigate the bank and the internship program.
+- Be assigned a project, designed to improve a specific process or solve a problem that you will present at the close of the internship.
+- Prepare a wrap-up presentation to be shared with the division leader and other key stakeholders in the company to outline your accomplishments and experience
+during the internship
+Internship dates: 5/24/27 - 7/30/27
+Position Specific Skills:
+- Adaptability
+- Communication (Written & Verbal)
+- Critical Thinking Skills
+Required qualifications:
+- High School Diploma or GED and 1 year of experience
+- Currently enrolled at an accredited collegiate institution (during the time of the summer program)
+- Ability to work 40 hours per week during the duration of the program
+Preferred qualifications:
+- Rising seniors
+- Currently enrolled in a Bachelor’s (third-year student) or Master’s program in Computer Science or a related STEM field with coursework in Software
+Development, Data Science or Artificial Intelligence
+- Strong desire to apply technical skills to real-world enterprise problems and contribute to digital transformation initiatives.
+- Hands-on programming experience with one or more of the following languages: Python, Java, JavaScript, with the ability to develop and debug application code.
+- Familiarity with backend development concepts such as REST APIs, microservices and database integrations
+- Familiarity with front end Development Frameworks such as React, Angular is an added benefit.
+- Familiarity with AI/ML frameworks (e.g., TensorFlow, PyTorch, Scikit-learn) and data analytics tools such as SQL, Power BI, or Tableau.
+- Understanding of software development methodologies (Agile, DevOps) and cloud technologies (AWS, Azure, or Google Cloud).
+- Strong analytical and critical-thinking skills; able to evaluate complex technical systems and propose data-driven solutions.
+- Strong verbal and written communication skills, with the ability to present technical topics to both technical and non-technical audiences.
+- Adaptable, self-motivated, and eager to learn emerging technologies in application architecture, data integration, and AI-driven innovation.
+- 3.0 minimum GPA
+- Strong desire to learn and grow
+- Possess a positive attitude, naturally curious and enjoys collaborating with others
+- Strong verbal and written communication skills
+- Critical thinking skills
+- Ability to multitask
+- Ability to adapt and adjust priorities based on business needs
+- Ability to take direction and absorb information quickly
+Additional Information
+Benefits are an integral part of total rewards and First Citizens Bank is committed to providing a competitive, thoughtfully designed and quality benefits
+program to meet the needs of our associates. More information can be found at https://jobs.firstcitizens.com/benefits .
+Duties & Responsibilities
+In this role, you will:
+- Assist in researching and evaluating emerging technologies, including AI, machine learning, and cloud platforms, to identify opportunities for innovation.
+- Work alongside Enterprise Architects to support the analysis and design of technology solutions, including data, application, and infrastructure architecture.
+- Contribute to data analytics and visualization initiatives to support architecture decision-making and improve business insights.
+- Be part of a dynamic team with interesting projects.
+- Accountabilities can and may include areas such as research, analytics, projects, strategy, process review and improvement, as well as technology enhancements
+and support.
+- Attend professional development sessions, informational sessions, networking and community service events.
+- Have a dedicated manager and program manager to help you navigate the bank and the internship program.
+- Be assigned a project, designed to improve a specific process or solve a problem that you will present at the close of the internship.
+- Prepare a wrap-up presentation to be shared with the division leader and other key stakeholders in the company to outline your accomplishments and experience
+during the internship
+Internship dates: 5/24/27 - 7/30/27
+Position Specific Skills:
+- Adaptability
+- Communication (Written & Verbal)
+- Critical Thinking Skills
+Required qualifications:
+- High School Diploma or GED and 1 year of experience
+- Currently enrolled at an accredited collegiate institution (during the time of the summer program)
+- Ability to work 40 hours per week during the duration of the program
+Preferred qualifications:
+- Rising seniors
+- Currently enrolled in a Bachelor’s (third-year student) or Master’s program in Computer Science or a related STEM field with coursework in Software
+Development, Data Science or Artificial Intelligence
+- Strong desire to apply technical skills to real-world enterprise problems and contribute to digital transformation initiatives.
+- Hands-on programming experience with one or more of the following languages: Python, Java, JavaScript, with the ability to develop and debug application code.
+- Familiarity with backend development concepts such a

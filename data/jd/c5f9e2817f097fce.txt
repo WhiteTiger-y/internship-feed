@@ -1,0 +1,31 @@
+The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and
+professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.
+Beyond your day-to-day responsibilities, you'll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your
+understanding of the financial services, technology, and mortgage industries.
+The Financial Engineering Intern will support data quality analysis on next-generation fixed income analytics and data pipeline projects, while contributing to
+broader analytics and product initiatives.
+Responsibilities
+- Produce historical analysis highlighting current analytic trends across asset types
+- Perform data quality analysis on assigned projects, including a next-generation Fixed Income Analytic calculator and data pipeline projects
+- Audit and validate financial data in production processes to ensure critical data deliverables are available to clients the following morning
+- Establish baseline metrics to give the product team insight into performance results of version upgrades and enhancements
+- Participate in new product feature design discussions
+Knowledge and Experience
+- Must be currently pursuing a Master's degree in Math, Financial Engineering, Mathematical Finance, Computer Science, or Finance
+- Excellent quantitative analytic skills
+- Proficiency in programming languages such as Python, R, or C++ for model development and data analysis, and SQL
+- Excellent communication skills
+- Experience with data pipelines a plus
+- CFA Level 1 or higher preferred
+Internship Program Schedule
+To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:
+- Option 1: May 24, 2027 – August 6, 2027
+- Option 2: June 7, 2027 – August 20, 2027
+Candidates will be asked to select their preferred session during the application process.
+Please Note: Interns must be available to work full-time, five days a week, at our Atlanta office for the entire duration of one of the designated program
+schedules. Partial participation or alternate dates cannot be accommodated.
+Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally
+protected characteristics.
+UNAVAILABLE
+UNAVAILABLE
+UNAVAILABLE

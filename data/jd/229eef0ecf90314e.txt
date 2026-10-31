@@ -1,0 +1,50 @@
+Provide support to Savannah River Mission Completion (SRMC) as a Computer Science (Artificial Intelligence/Machine Learning) Intern - Limited Service Employee
+(LSE) on the Savannah River Site (SRS), a US Department of Energy (DOE) facility in Aiken, South Carolina.
+The Computer Science (Artificial Intelligence/Machine Learning) intern will perform meaningful work in support of the SRMC IT/OT Technology and Innovation
+organization. The selected Computer Science (Artificial Intelligence/Machine Learning) intern will assist with various projects related to the SRMC engineering
+and process systems, such as control systems, process information systems, maintenance, artificial intelligence (AI), machine learning (ML) etc. The selected
+intern will support digital innovation initiatives, including large language model (LLM) development and evaluation, data connections and integration, and
+predictive analytics to improve operations and decision-making. The intern will collaborate with engineers and data professionals to build and refine SI/ML
+solutions, help develop and integrate tools into .NET-based applications, and assist with data cleaning, feature engineering, and model evaluation.
+Additional Information
+The internship is expected to be a 10-12 week period from May 2027 until the end of July 2027. Housing is not provided, but reasonable rentals may be available
+through local university student housing offices. The selected candidate will be responsible for their own transportation.
+A 40-hour work week is set and scheduled by the individual departments. SRMC utilizes various work schedules including 5/8s (8 hours/day; five days per week),
+4/10s (10 hours/day; four days per week), etc. Each workday has a 30-minute lunch. Interns will be paid a competitive hourly rate; no summer interns will be
+assigned to shift work; overtime is not available; Interns will be paid for site holidays (Memorial Day, July 4th) as applicable.
+Assignments will be located in SRMC facilities in Aiken, SC. Public transportation is not available, and interns will be required to arrange their own
+transportation. A valid Driver’s License, Registration and proof of automobile insurance is required for driving on the Savannah River Site.
+Resumes will be reviewed by the selection panel in January 2027. All selected applicants will be contacted by February or March 2027.
+If you are selected to participate in the SRMC internship program, additional information will be requested such as SRMC employment application, references and
+official transcripts. You will be assigned to SRS General Employee Training and Drug and Alcohol test appointments before badging and commencement of
+assignment.
+- Candidate must be enrolled as a full-time student at
+- An accredited four-year university, and currently working towards a Bachelor’s Degree in Computer Science, Data Science, Engineering or equivalent
+- Must have completed their Sophomore year
+In addition
+- Must pass General Employment Training (GET)
+- Must pass Drug and Alcohol Testing (DAT)
+These two items will be scheduled before the intern starts work at Savannah River Site.
+- A cumulative GPA of 2.5
+- Programming experience, (C#/.NET strongly preferred, Python or similar a plus)
+- Knowledge of general concepts of machine learning, such as supervised and unsupervised learning, classification, and regression, etc.
+- Basic knowledge of statistical analysis, testing, etc.
+- Data visualization skills, such as creating charts, graphs, tables, etc.
+- Ability to learn new technologies to include artificial intelligence (AI), machine learning (ML) and solve problems.
+- Good communication and interpersonal skills
+- Attention to detail and quality.
+- Creativity and innovation
+Savannah River Mission Completion (SRMC), a prime contractor for the US Department of Energy, is responsible for managing the Department of Energy’s Savannah
+River Site’s Liquid Waste operations contract. Located in Aiken, South Carolina, SRMC is a limited liability company formed by nuclear operations and
+environmental remediation global leaders BWXT, Amentum, and Fluor. The SRMC Team is responsible for the closure of waste tanks, the operation of the Savannah
+River Site’s Defense Waste Processing Facility, tank farm operations and associated production and disposal facilities. www.savannahrivermissioncompletion.com
+SRMC Summer Intern Limited-Service Employees (LSEs) are eligible for a limited benefits package
+- High Deductible Health Insurance
+- 2 paid holidays during the summer months
+- Paid Sick Leave
+USD $20.00/Hr.
+Compensation will be determined by approved calendar year government rates.
+SRMC is committed to equal employment opportunity to employees and qualified applicants regardless of their race, color, religion, gender, national origin, age,
+physical or mental disability, veteran status, status as a parent, sexual orientation, or genetics. Our equal employment opportunity policies encompass all
+aspects of the employment relationship, including application and hiring, promotion and transfer, selection for training opportunities, wage and salary
+administration.

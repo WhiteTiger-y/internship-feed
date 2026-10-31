@@ -49,7 +49,6 @@ discipline with an expected graduation date between winter 2027 and summer 2028,
 - Experience using SQL for acquiring and transforming data.
 - Proficient in programming, analysis, and visualization using object-oriented programming languages (Python preferred).
 Bonus:
-- Enrolled in a Master’s Degree or advanced technical degree
 - Previous work experience in a technical field
 - Experience with implementing machine learning solutions to production environments
 - Understanding of modern scalable data science platforms
@@ -78,4 +77,5 @@ What We’ll Bring to Full-time Team Members:
 - Relocation assistance
 - Generous team member discounts
 This is not a remote opportunity; it is 100% onsite () () ()
-Perpay is proud to be an equal opportunity employer. We value diversity in all its forms and are committed to creating an inclus
+Perpay is proud to be an equal opportunity employer. We value diversity in all its forms and are committed to creating an inclusive environment. We do not
+discriminate on the basis of race,

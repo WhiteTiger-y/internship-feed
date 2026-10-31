@@ -1,0 +1,69 @@
+Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs
+building the future through technology. We are stage-agnostic. We invest in seed- to venture- to growth-stage technology companies, across AI, bio + healthcare,
+consumer, frontier, enterprise, fintech, games, and companies building toward American dynamism. a16z has $100B+ under management across multiple funds.
+We’ve established a team that is defined by respect for the entrepreneur and the company-building process; we know what it’s like to be in the founder’s shoes.
+Our team is at the forefront of new technology, helping founders and their companies impact and change the world.
+The Role
+a16z Frontier research is a multidisciplinary lab that bridges the worlds of academic theory and industry practice. The lab has recently expanded its focus from
+crypto-focused research to include other emerging areas of technology, ranging from AI-enabled applications to new scientific developments in materials, energy,
+and hardware. In addition to fundamental research, we collaborate with portfolio companies to solve hard technical and conceptual problems. Research interns
+will have the opportunity to learn from and collaborate with the firm’s investment and engineering teams.
+We are seeking students with a strong technical background and an interest in emerging technologies to join the group for the summer. Example research areas of
+interest include AI and machine learning, agentic commerce, cryptography, security, distributed computing, hardware design, economics (micro, macro, and
+empirical), energy, material science, biology, incentives, quantitative finance, market and mechanism design, foundations of computing, and pure mathematics.
+This list is not exhaustive and we encourage applicants with different backgrounds, who may have unique perspectives on the emerging technologies, to apply.
+We anticipate selecting a wide range of applicants, including ambitious undergraduate students with a unique grasp of emerging technologies, graduate students
+looking to transition from academic work to building and entrepreneurship, and PhD students pursuing a more traditional academic career.
+This role will be based in New York City, NY and requires in-office presence in our New York City, NY office.
+To join our team, you should be excited to:
+- Pursue fundamental research on topics relevant to the firm.
+- Collaborate with a16z Frontier’s full-time researchers and other student interns.
+- Collaborate with portfolio companies on technical research problems.
+- Quickly develop expertise in emerging areas of science and technology.
+- Take full advantage of the latest generation of AI tools.
+- Contribute to blog posts, white papers, and other public expository content.
+- Meet with visitors from academia and industry and attend research seminars.
+Preferred Qualifications
+- Pursuing an undergraduate or graduate degree in a relevant field such as computer science, economics, mathematics, operations research, electrical
+engineering, mechanical engineering, materials science, physics, chemistry, biology, etc.
+- Passionate, knowledgeable, and optimistic about science and technology.
+- Experience with absorbing and producing fundamental research.
+Internship Details
+- A typical schedule will have an intern spending ⅔ of the time pursuing their own research (typically in collaboration with other lab members and visitors) and
+⅓ of the time collaborating on portfolio-related problems.
+- In-person residency required in New York, NY.
+- Interns will have access to and will typically make heavy use of the latest AI tools.
+- Duration of internship June 1, 2027 – August 20, 2027 (minimum residency 10 weeks, maximum 12 weeks).
+- The anticipated weekly rate is dependent on the current degree program. Actual starting pay may vary based on a range of factors which can include experience,
+skills, and scope:
+- PhD: $4,500 per week, plus $500 per week housing stipend
+- Masters: $4,000 per week, plus $500 per week housing stipend
+- Undergrad: $3,500 per week, plus $500 per week housing stipendMaterials to Upload:
+- Resume/CV
+- List of publications/blog posts/any other public content (optional but recommended)
+- Twitter/X, github, personal website, public crypto wallet (optional)
+- Research statement (1-page max PDF, optional but recommended)
+- Letters of recommendation (one letter is required, a second letter is optional but recommended): recommenders should email their letters of support to
+frontier-research-applications@a16z.com, with the name of the applicant in the subject line
+- Please provide the name(s) of your recommendation letter writer(s) as part of your application
+- For full consideration, please submit applications by 12 p.m. PT on November 20, 2026
+Notice
+Export Control: This position requires access to information and technology that is subject to U.S. export controls. Your responses to the questions below will
+be used solely to determine your eligibility under U.S. law to receive information and materials subject to U.S. export controls.
+We welcome applications from all qualified candidates, including international applicants. Employment is subject to applicable work authorization requirements
+in the country where the position is based.
+a16z culture
+- We do only first class business and only in a first class way
+- We take a long view of relationships, because we are in the relationship business
+- We believe in the future and bet the firm that way
+- We are all different, we recognize that, and we win
+- We celebrate the good times
+- We do it for the team
+- We play to win
+At a16z we are always looking to hire the absolute best talent and recognize that diversity in our experiences and backgrounds is what makes us stronger. We
+hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability,
+Veteran status, and any other status. These differences are what enables us to work towards the future we envision for ourselves, our portfolio companies, and
+the World.
+Our organization participates in E-Verify. Click here to learn about E-Verify.
+Andreessen Horowitz hereby reserves the right to make use of any unsolicited resumes received from outside recruiting agencies and / or individual recruiters
+without being responsible for payment of any fees asserted from the use of unsolicited resumes.

@@ -1,0 +1,70 @@
+Overview:
+If you're looking for the stability of a profitable, growing company with the entrepreneurial spirit of a startup, we’re hiring. SageSure, a leader in
+catastrophe-exposed property insurance, is seeking an Intern to join the Rising Pioneer Program as part of our Data Science team.
+Over the course of this 10-week program, interns will gain tangible, hands-on experience and insight into our business operations. After 3 days of orientation
+and training, you’ll join our Data Science team, where you’ll be assigned projects with unlimited opportunity for challenges and achievement. We have, very
+often, considered our interns for post-graduation roles within the company.
+What you’d be doing:
+- Learn and network with employees, leaders, and other interns during an on-the-job experience.
+- Potential to earn college credit.
+- Provide research and analysis support on ad-hoc projects.
+- Fulfill tasks and project assignments set out by team leaders.
+- Receive coaching, mentoring, and feedback from knowledgeable SageSure professionals.
+- Support the development, testing, and evaluation of data science models and analytical solutions.
+- Assist with collecting, cleaning, transforming, and analyzing structured and unstructured data.
+- Explore datasets to identify trends, patterns, relationships, and opportunities that can inform business decisions.
+- Apply statistical and analytical techniques to support business questions and data-driven problem solving.
+- Partner with Data Scientists, Data Engineers, and business stakeholders to understand project objectives and translate business needs into analytical
+approaches.
+- Assist with model validation, performance evaluation, and documentation of analytical methods and results.
+- Develop visualizations, summaries, and presentations that clearly communicate findings to both technical and non-technical audiences.
+- Support experimentation and testing to evaluate model performance, business impact, or potential improvements.
+- Participate in team meetings, project discussions, and technical reviews.
+- Learn and apply data science best practices related to reproducibility, documentation, testing, and responsible use of data.
+We’re looking for someone who has:
+- Is currently enrolled in a relevant degree program with a focus on Data Science, Statistics, Mathematics, Computer Science, Economics, Engineering, or a
+related quantitative field, with an anticipated graduation date in 2028.
+- Has foundational experience working with data through coursework, academic projects, research, or prior work experience.
+- Has experience with Python, R, SQL, or another programming or analytical language.
+- Demonstrates strong analytical, quantitative, problem-solving, and critical-thinking skills.
+- Has a basic understanding of statistics, data analysis, or machine learning concepts.
+- Is comfortable working with data and interpreting analytical results.
+- Has strong written and verbal communication skills and can explain technical concepts in a clear and understandable way.
+- Is detail-oriented, curious, and willing to explore different approaches to solving problems.
+- Is comfortable multitasking and eager to learn new tools, technologies, and analytical techniques.
+- Has the ability to work independently as well as collaboratively as a team member.
+- Is authorized to work in the United States.
+Highly preferred candidates also have:
+- Prior internship, research, technical project, or relevant professional experience.
+- GPA of 3.0 or higher.
+- Experience using Python for data analysis, modeling, or machine learning.
+- Familiarity with SQL and relational databases.
+- Exposure to machine learning techniques, statistical modeling, or predictive analytics.
+- Experience with data visualization tools or libraries.
+- Familiarity with cloud platforms, Databricks, or other modern data and analytics technologies.
+- Experience presenting analytical findings or recommendations to non-technical audiences.
+Data and AI at SageSure:
+At SageSure, data and AI aren’t just functions—they’re engines for innovation. Our Data & AI organization brings together Data Science, Business Intelligence,
+Data Management, and emerging AI capabilities to power smarter decisions and deliver meaningful impact across the business. From advanced machine learning
+models to scalable data ecosystems and real-time insights, we transform complex information into clarity that drives strategic outcomes.
+We’re building a team of curious, collaborative problem-solvers who are excited about pushing the boundaries of what data and AI can do. Whether you’re
+developing predictive models, enhancing AI-driven capabilities, strengthening data governance, or uncovering insights that influence key decisions, you’ll play
+a critical role in shaping how SageSure uses data and intelligence to lead the future of insurance.
+About SageSure:
+Named among the Best Places to Work in Insurance by Business Insurance for four years in a row (2020-2023), SageSure is one of the largest managing general
+underwriters (MGU) focused on catastrophe-exposed property in the US. Since its founding in 2009, SageSure has experienced exceptional growth while generating
+underwriting profits for carrier partners through hurricanes, wildfires, and hail. Available in 16 states, SageSure offers more than 110 home, flood, and
+commercial products on behalf of its highly rated carrier partners. Today, SageSure manages more than $3.2 billion of inforce premium and helps protect more
+than 970,000 policyholders.
+We have more than 1,000 employees in a distributed workforce environment across 12 offices—Fairfield, CA; Mountain View, CA; Cheshire, CT; Jacksonville, FL;
+Tallahassee, FL; Tampa, FL; Chicago, IL; Jersey City, NJ; Marlton, NJ; Cincinnati, OH; Houston, TX; Sheboygan, WI—who are tackling the industry’s toughest
+challenges.
+SageSure is a proud Equal Opportunity Employer committed to building a workforce that reflects the spectrum of perspectives, experiences, and abilities of the
+world we live in. We recognize that our differences make us strong, and we actively seek out diverse candidates through partnerships with organizations,
+institutions and communities that represent various backgrounds. We champion belonging and inclusion for all identities, including, but not limited to, race,
+ethnicity, religion, sexual orientation, age, veteran status, ability status, gender, and country of origin, striving to create a culture where all individuals
+feel valued, respected, and empowered to bring their authentic selves to work.
+Our nimble, highly responsive culture nurtures critical thinkers who run toward problems and engineer solutions. We relentlessly pursue better outcomes by
+investing in the technology, talent, and tools that position us to succeed in demanding markets. Come join our team! Visit sagesure.com/careers to find a
+position for you.
+California Applicants: View SageSure’s Workforce Members’ Privacy Notice - CA Privacy Policy & Noti

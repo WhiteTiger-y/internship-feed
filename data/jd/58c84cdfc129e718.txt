@@ -1,0 +1,69 @@
+Responsibilities
+We build the next-generation unified Agent system for TikTok's global e-commerce customer service — running in 30+ languages across one of the largest
+e-commerce surfaces on the internet.
+Our north star is a self-evolving Agent: post-training, harness, memory / context engineering, tools, and evaluation form one closed loop, and every served
+conversation becomes the next iteration's training / eval / retrieval / skill-induction signal. This loop is already running in production — cases are mined,
+root-caused, turned into constrained candidates, replayed against frozen regression sets, and shipped behind guardrails.
+Two things make this team different from most "LLM application" work:
+- We build the agent runtime itself — Codex / Claude-Code-class — not prompts on top of a vendor API.
+- Evaluation and experimentation are first-class systems, not an afterthought. A self-improving loop optimizes whatever signal you give it, so the hardest and
+most valuable engineering here is making the judgment trustworthy — not just making the model change.
+By combining generative recommendation, large recommendation models, multimodal representation learning, and cross-domain value modeling, the team works on some
+of the most important algorithmic problems in live commerce. Our goal is to improve user experience, optimize ecosystem efficiency, and drive sustainable
+business growth for TikTok Shop across global markets.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+- Agent runtime (harness / agent loop). Orchestrate skills, tools, and context; implement loop control & intervention, progressive disclosure, and behavior-
+level guardrails. Build the production safety layer — pre-flight budgets and timeout truncation, serve-time gates, shadow / swap-in answer delivery, and safe
+fallback paths.
+- Context & memory for long multi-turn agents. Agentic memory (structured note-taking), context compaction / summarization, context editing / observation
+masking, and just-in-time (retrieve-then-load) retrieval. Treat context as an evolving, itemized playbook — with structured diffs and a deterministic curator —
+rather than an ever-growing prompt.
+- Post-training & the data flywheel. SFT / DPO / RL to internalize rules into weights (so the prompt gets shorter, not longer), plus distillation to smaller
+serving models. Turn served conversations into training / eval / retrieval signals.
+- Tools, Skills, and MCP. Tools-as-APIs, connectors, skill / tool search for large inventories, and skill-library governance — description conflicts, trigger
+evals, cross-skill mis-fire matrices, and on-demand loading instead of dumping every definition into context.
+- Evaluation you can bet a launch on. LLM-as-judge with human-agreement calibration; statistical rigor — paired comparison, confidence intervals, repeated
+sampling, pass^k; held-out and time-rolling eval splits with overfitting alarms; cascaded scoring and cross-family judge panels to make evaluation affordable at
+scale.
+- The self-evolving loop. Case mining → automatic root-cause → constrained candidate generation → replay verification against frozen regression sets → canary →
+flywheel. Build the plumbing that makes it auditable: candidate registry with exact runtime read-back, change lineage, and an archive of rejected candidates you
+can sample from next round.
+- Online experimentation & causal readout. Shadow / canary / A-B, non-inferiority gates, traffic-split health, metric definitions that survive scrutiny, and
+off-policy counterfactual evaluation where live A/B isn't possible.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a PhD in Computer Science, Engineering, Operations Research or a related technical discipline
+- Strong Python plus one of C++ / Go / Rust / Java
+- Solid ML / DL / NLP fundamentals, with genuine hands-on experience with LLMs or agents (coursework, research, internship, competition, open-source, or a
+serious side project)
+- Basic statistical literacy — you can compute a confidence interval, explain what a p-value does and doesn't mean, and tell the difference between "the number
+went up" and "the system got better"
+- Able to read a paper or an engineering blog and turn it into working code
+Preferred Qualifications
+- Hands-on experience in any one of the following — depth in one is enough, breadth welcome:
+- Post-training: SFT / DPO / RLHF / RLAIF / RLVR, reward modeling, reward hacking and how to defend against it
+- Agent systems: harness, context engineering, MCP / Skills, sub-agents, tool search
+- Evaluation & experimentation: LLM-as-judge and judge calibration, pass^k, regression suites, A/B and non-inferiority testing, off-policy evaluation
+- Self-improving / evolutionary systems: evolutionary program search, candidate archives and parent sampling, automatic prompt / context optimization, multi-
+objective (Pareto) selection and credit assignment
+- Publications (for PhD), strong competition results (ACM-ICPC / Kaggle / ML competitions), or notable open-source contributions
+- E-commerce or multilingual experience is a plus, not required
+Job Information
+【For Pay Transparency】Compensation Description Intern (Annually) - Campus Intern
+The base salary range for this position in the selected city is $57 - $57annually.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year).
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret i

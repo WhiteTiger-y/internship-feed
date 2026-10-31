@@ -1,0 +1,44 @@
+Our Mission
+Rebuild how the world works, to make institutions work better for the people they serve.
+About Brain Co.
+Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real
+workflows forward. Underneath it all is Atlas, our proprietary platform that keeps customers in control, secure by design, and never locked into one model.
+Why Now
+Brain Co. is entering its next phase of production deployments on a national scale with an elite team built from Palantir, Google, Meta, and Nvidia, and a
+growing footprint across government, insurance, health, and financial services.
+Joining now means shaping both the company and a new category of applied AI. Every project here ships to production and is expected to create measurable
+customer value and impact.
+You'll work alongside exceptional peers on some of the hardest problems in applied AI. It’s the kind of work you'll still be proud of in ten years from now.
+About the Role
+As an AI Product Intern , you will work closely with engineers, researchers, and product leaders to help design, build, and deploy AI-powered software solving
+real-world problems. This is a highly hands-on role where you’ll gain exposure to the full product lifecycle, from understanding customer needs to shipping
+production-grade AI applications.
+You’ll contribute directly to live projects used by governments, healthcare systems, and industrial partners, while learning how cutting-edge AI is turned into
+real, scalable products.
+In This Role, You Will:
+Build & Ship Real Products: Support the design and development of AI-powered features across front-end, back-end, and data workflows. Help prototype and ship
+internal tools and customer-facing applications using modern web technologies
+Learn Product + Engineering in Practice: Work with product managers and engineers to translate customer problems into clear product requirements. Gain exposure
+to how AI models are integrated into real-world software systems
+Collaborate Closely: Partner with engineers, researchers, and operators to test, iterate, and improve AI-driven workflows. Participate in design discussions,
+sprint planning, and code reviews
+Optimize & Improve: Assist with improving performance, reliability, and usability of deployed applications. Help analyze data, evaluate AI outputs, and iterate
+based on real customer feedback
+Make a Real Impact: Contribute to projects modernizing government workflows, improving healthcare outcomes, or optimizing critical infrastructure. See your work
+deployed and used by real users — not just internal demos
+You Will Thrive If You:
+Are a current undergraduate students, specifically juniors and seniors graduating no later than June 2028, pursuing a degree in Computer Science, Machine
+Learning, Data Science, or a related field
+Have experience with software development fundamentals (through coursework, internships, or personal projects).
+Are familiar with or excited to learn technologies like Python, TypeScript, React, REST APIs, and cloud platforms
+Are curious about AI systems, product thinking, and real-world applications of machine learning
+Enjoy solving ambiguous problems and learning quickly in fast-paced environments
+Communicate clearly, collaborate well, and take ownership of your work
+Are excited to work directly on impactful problems rather than purely theoretical projects
+Internship Details & Benefits
+Dates: May 31, 2027 - Aug 6, 2027 or July 5, 2027 - September 10, 2027
+Competitive internship compensation
+Hands-on mentorship from experienced AI engineers and researchers
+Opportunity to work on real production systems used globally
+Potential return-offer consideration for future internships or full-time roles
+Daily lunches (if onsite)

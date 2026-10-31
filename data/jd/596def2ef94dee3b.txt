@@ -1,0 +1,37 @@
+comprising real estate investments across nearly 90 markets in the U.S., and employs approximately 7,000 people across 50 offices, including its New York
+headquarters, Miami, London, Seoul, and Sydney.
+Position
+We are seeking a 2027 Summer Intern to join the AI, Data & Innovation team in our New York office. This position will be part of Pretium’s Summer Internship
+Program.
+Our program includes formal PowerPoint, Excel, and AI training as well as other learning programs, and the internship will provide a unique experience and
+invaluable look into a rapidly growing asset manager, working with industry leaders on meaningful projects. Interns will have the opportunity to make
+significant professional contributions while developing expertise in a dynamic team environment.
+Key Responsibilities
+- Contribute to meaning engineering work and AI capabilities used across Pretium and its operating companies, with AI coding tools treated as a native part of
+development
+- Assist with data validation and QA across features both in production and in development
+- Support front-end and back-end development pipelines alongside Pretium’s Forward Deployed Engineering team
+- Develop custom tools for the AI & Innovation team within their proprietary platform such as user activity intelligence, event tracking, and create user-based
+recommendations for further development
+- Build new features as well as productionize existing ones based on user requests and bug reports
+- Generate materials and communicate development work to both internal and external stakeholders, includes weekly priorities updates and Investor Relations
+communications
+Requirements
+- Candidate must be enrolled in a bachelor’s degree program (rising Senior - Class of 2028)
+- GPA 3.4 or above required
+- Majoring in Computer Science, Data Science, Information Systems, Math & Statistics or a related field preferred
+- Comfortable working with modern AI coding tools and familiarity with Claude Code, Codex, Cursor, OpenRouter, ClickHouse, or similar platforms is a plus
+- Highly proactive with a strong work ethic and ability to work both independently as well as part of a highly collaborative team
+- Effective communicator, written and verbal, and comfortable explaining technical work to non-technical stakeholders
+- Genuine interest in data, technology, and collaboration with broader teams
+- Strong desire to learn
+What We Offer
+This position offers the opportunity to join a collegial, entrepreneurial firm committed to the personal and professional growth of its team members and to
+maintaining a positive, encouraging work environment where people enjoy working together.
+Pretium is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for
+employment regardless of race, color, religion, gender, gender identity or expression, genetic information, marital status, sexual orientation, national origin,
+disability, age, veteran status, or any other characteristic protected by federal, state, or local law.
+Compensation for this role for a candidate in New York City is expected to be paid at an hourly rate of $48.00.
+Apply for this job
+*
+indicates a required field

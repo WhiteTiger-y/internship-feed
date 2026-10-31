@@ -1,0 +1,68 @@
+Overview
+Systems Planning and Analysis, Inc. (SPA) delivers high-impact, technical solutions to complex national security issues. With over 50 years of business
+expertise and consistent growth, we are known for continuous innovation for our government customers, in both the US and abroad. Our exceptionally talented team
+is highly collaborative in spirit and practice, producing Results that Matter . Come work with the best! We offer opportunity, unique challenges, and clear-
+sighted commitment to the mission. SPA: Objective. Responsive. Trusted.
+The Strategic Division (SD) supports high-reliability organizations including Navy Strategic Systems Programs (SSP), Air Force Nuclear Weapons Center, and the
+Department of Energy (DOE), among others. Our support across our client base is expanding rapidly and encompasses important services, such as data analytics and
+visualization, threat analysis, risk management, modeling and simulation, cost estimating, earned value management, program management, system engineering,
+independent evaluation, and High Consequence Event prevention.
+The Strategic Development Group (SDG) supports critical U.S. government programs providing systems engineering support, systems safety support, financial
+analysis support as well as security policy, compliance, and assessments. SDG has a need for a summer 2027 intern to support the Navy’s Strategic Systems
+Programs, specifically working in support of the organization’s Reentry Branch.
+Applications can be submitted and will be reviewed until 13 November 2026.
+Responsibilities
+The SPA intern will be part of a cohort of first-time and returning interns providing on-site support to SPA’s Navy customer, Strategic Systems Programs (SSP).
+Interns will complete a 10-week, 40 hour per week program starting in May 2027 and concluding in July or August 2027. Interns may be extended the option to work
+remotely during the school year at a reduced level of effort, approximately 10 hours per week based on school work load. Upon graduation, SPA considers
+successful interns for full-time employment. Housing and transportation are the responsibility of the intern.
+Interns work under the overall cognizance of an SPA manager while receiving specific, daily tasking from their government mentor in the assigned SSP branch.
+Tasks are related to the management of the Navy’s Fleet Ballistic Missile (FBM) program and include administrative, organizational, and management functions. A
+technical knowledge base will help in accomplishing daily tasks. Specifically, this intern will:
+- Support the development and implementation of data analysis, data pipleline engineering, and software tools
+- Fulfill technical, programmatic, and organizational tasking set out by a government mentor in support of the assigned branch’s business rhythms
+- Organize and attend meetings related to the branch’s technical function
+- Perform technical research
+- Draft, review, and/or edit documents
+- Complete a “summer project”
+- Attend weekly SPA informational roundtables and working lunches with SPA leadership
+Qualifications
+Required Qualifications
+- Must be a U.S. Citizen with the ability to obtain and maintain a DoD Secret security clearance.
+- Active enrollment in an accredited undergraduate or post-graduate program in Computer Science, Data Science, Software Engineering, Computer Engineering,
+Information Systems, Mathematics, or related technical or engineering field.
+- Must have completed at least 2 years of undergraduate experience.
+- Must be able to work on-site full-time, 5 days per week, at a government facility in the Washington Navy Yard and conduct multi-day domestic travel as
+required (fully reimbursed).
+- Excellent verbal and written communication skills.
+- Ability to adapt quickly, prioritize tasks, and perform in a fast-paced, mission-focused work environment.
+Desired Qualifications
+- Desire to learn and work with DoD acquisition processes.
+- Previous internship experience in computer science, data science or related fields.
+- Experience with developing data analysis or software tools through coursework, projects, or internships.
+- Experience with Python, Java, C++, MATLAB, or SQL through coursework, projects or internships.
+- Professional certifications in software, data, or cloud technologies are a plus, but not required (for example, AWS Certified Data Engineer, Microsfot Azure
+or Fabric data certifications, Google Professional Data Engineer, Databricks Certified Data Engineer, CompTIA Security+, or in a specific programming language
+or application).
+Pay Range Information
+At SPA, we strive to deliver a robust total compensation package that will attract and retain top talent. Elements of the compensation package include
+competitive base pay and variable compensation opportunities. SPA provides eligible employees with an opportunity to enroll in a variety of benefit programs,
+generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and
+a number of programs that provide for both paid and unpaid time away from work. The specific programs and options available to any given employee may vary
+depending on eligibility factors such as geographic location, date of hire, etc. Please note that the salary information shown below is a general guideline
+only. Salaries are commensurate with experience and qualifications, as well as market and business considerations. Washington, DC, Pay Transparency Salary
+range: USD $23.00/Yr. - USD $33.00/Yr.
+The SPA intern will be part of a cohort of first-time and returning interns providing on-site support to SPA’s Navy customer, Strategic Systems Programs (SSP).
+Interns will complete a 10-week, 40 hour per week program starting in May 2027 and concluding in July or August 2027. Interns may be extended the option to work
+remotely during the school year at a reduced level of effort, approximately 10 hours per week based on school work load. Upon graduation, SPA considers
+successful interns for full-time employment. Housing and transportation are the responsibility of the intern.
+Interns work under the overall cognizance of an SPA manager while receiving specific, daily tasking from their government mentor in the assigned SSP branch.
+Tasks are related to the management of the Navy’s Fleet Ballistic Missile (FBM) program and include administrative, organizational, and management functions. A
+technical knowledge base will help in accomplishing daily tasks. Specifically, this intern will:
+- Support the development and implementation of data analysis, data pipleline engineering, and software tools
+- Fulfill technical, programmatic, and organizational tasking set out by a government mentor in support of the assigned branch’s business rhythms
+- Organize and attend meetings related to the branch’s technical function
+- Perform technical research
+- Draft, review, and/or edit documents
+- Complete a “summer project”
+- Attend 

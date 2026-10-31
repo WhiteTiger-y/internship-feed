@@ -1,0 +1,24 @@
+About SafeLab
+SafeLab AI Engineering provides custom AI and ML solutions to enterprises worldwide.
+What you’ll work on
+- Scope incoming problems: define the task (detection, segmentation, keypoints, tracking, reconstruction), the metric (mAP, IoU, HOTA, Chamfer distance), and a
+realistic target before building
+- Train and fine-tune task-specific models, such as YOLO or DETR-family detectors, Mask R-CNN or U-Net segmentation, and keypoint models, on client datasets
+that often contain only a few hundred images
+- Combine learned models with classical methods where they work better: line and contour extraction, Hough transforms, homography estimation, camera
+calibration, multi-view geometry
+- Plan data strategy for low-data settings: annotation protocols, augmentation, synthetic data, active learning
+- Deliver working prototypes with error analysis a client engineer can audit, and export models for deployment (ONNX, TensorRT)
+Required
+- PhD candidate in Computer Science, Electrical Engineering, or a related field
+- First-author paper at a peer-reviewed CV or ML venue (CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, WACV, BMVC, or similar); please list it on your CV
+- Experience training and evaluating vision models in PyTorch on datasets you collected or labeled
+- Working knowledge of OpenCV and projective geometry
+Preferred
+- Experience in document image analysis or vectorization, multi-object tracking, pose estimation, 3D reconstruction, or point clouds
+- Inference optimization experience (quantization, pruning, ONNX Runtime, TensorRT)
+- Prior work with industry data or collaborators outside your lab
+Details
+- Part-time with no minimum hours; work scales with client projects and fits around your research
+- Remote, or hybrid from our Irvine, CA office
+- Pay: $80 to $120 per hour

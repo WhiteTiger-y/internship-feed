@@ -1,0 +1,40 @@
+About Bitdeer
+Bitdeer is a world-leading technology company for Bitcoin mining and AI cloud.
+Bitdeer is committed to providing comprehensive Bitcoin mining solutions for its customers. Apart from designing industry-leading ASIC chips and manufacturing
+mining rigs, the Group handles complex processes involved in computing across the value chain. This includes equipment procurement, transport logistics,
+datacenter design and construction, equipment management, and network and facility operations. Bitdeer also offers advanced cloud capabilities to customers with
+a high demand for artificial intelligence.
+Headquartered in Singapore, Bitdeer operates globally with a diversified 3 GW energy portfolio, and deploys Bitcoin mining and HPC datacenters in the United
+States, Bhutan, Norway, Canada, Malaysia, and Ethiopia.
+About Bitdeer AI Lab
+Bitdeer AI Lab is a frontier AI lab under Bitdeer, a global-leading computing power solutions provider. Guided by long-termism, we are committed to exploring
+the frontiers of artificial intelligence with the ambition, courage, and determination to build technologies that can truly change the world.
+Our mission is to turn energy into intelligence that people can actually afford to use. Inference is where that happens: every product built on a model is
+bounded by what it costs to run, so the economics of serving decide what gets built at all. We work on this from the ground up, from the power and datacenters
+we own to the software that turns them into tokens — and we continue to invest in and expand the infrastructure behind it.
+What You Will Be Responsible For
+- This role makes models cheaper and faster to serve without giving up quality that matters. We are not prescribing the technique — quantization, sparsity and
+pruning, speculative decoding and MTP, and serving-time attention and KV-cache methods are all in scope. You will implement and adapt published methods on our
+models and hardware, and develop your own optimizations where they fall short. You will also build the evaluation discipline that makes a claim like “lossless
+at 2× throughput” defensible.
+- The scope of this internship is one well-defined project that can produce a real result in 3–6 months, owned and presented by you; we would expect to convert
+interns who do well.
+How You Will Stand Out
+- Undergraduate, Master's, and PhD candidates in Computer Science, Electrical Engineering, Mathematics, or a related field are all considered on the same basis;
+able to commit 3–6 months, full-time preferred
+- Strong programming ability in Python and hands-on familiarity with PyTorch
+- Coursework, self-study, or research experience in model efficiency — quantization, sparsity and pruning, speculative decoding, or serving-time attention and
+KV-cache methods; a formal publication record is welcome but not required
+- Depth in at least one project, paper, or serious open-source contribution that you can explain end to end, including what went wrong
+- Solid understanding of transformer internals and a habit of rigorous evaluation: task-level metrics, controlled comparisons, honest baselines
+- Proven achievements in academics, engineering projects, open-source contributions, or programming/algorithm competitions are highly preferred
+- Deep enthusiasm for cutting-edge AI efficiency research, with a strong ownership mentality and a commitment to delivering a real, presentable result during
+the internship
+What You Will Experience Working With Us
+- A culture that values authenticity and diversity of thoughts and backgrounds;
+- An inclusive and respectable environment with open workspaces and exciting start-up spirit;
+- Fast-growing company with the chance to network with industrial pioneers and enthusiasts;
+- Ability to contribute directly and make an impact on the future of the digital asset industry;
+- Involvement in new projects, developing processes/systems;
+- Personal accountability, autonomy, fast growth, and learning opportunities;
+- Attractive welfare benefits and developmental opportunities such as training and mentoring.

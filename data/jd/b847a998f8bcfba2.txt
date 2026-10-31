@@ -1,0 +1,52 @@
+Job Subcategory
+Intern (Technical-Engineering)
+Hire Type
+Intern
+Remote Eligible
+Yes
+Base Salary Range: $0 - $ 0
+Descriptions & Requirements
+Job Description and Requirements
+We Are
+Drive technology innovations that shape the way we live and connect. Our technology drives the Era of Pervasive Intelligence, where smart tech and AI are
+seamlessly woven into daily life. From self-driving cars and health-monitoring smartwatches to renewable energy systems that efficiently distribute clean power,
+Synopsys creates high-performance silicon chips that help build a healthier, safer, and more sustainable world.
+Internship Experience
+At Synopsys, interns dive into real-world projects, gaining hands-on experience while collaborating with our passionate teams worldwide—and having fun in the
+process! You'll have the freedom to share your ideas, unleash your creativity, and explore your interests. This is your opportunity to bring your solutions to
+life and work with cutting-edge technology that shapes not only the future of innovation but also your own career path. Join us and start shaping your future
+today!
+Mission Statement
+Our mission is to fuel today’s innovations and spark tomorrow’s creativity. Together, we embrace a growth mindset, empower one another, and collaborate to
+achieve our shared goals. Every day, we live by our values of Integrity, Excellence, Leadership, and Passion, fostering an inclusive culture where everyone can
+thrive—both at work and beyond.
+What You’ll Be Doing
+- Engage in cutting-edge research at the intersection of deep learning, scientific computing, and foundation models for physics applications.
+- Contribute to the development of Large Physics Foundation Models (LPFMs) by exploring novel architectures and innovative training strategies.
+- Build and curate large-scale physics datasets, and design the infrastructure needed to support data-driven AI research in the physical sciences.
+- Collaborate closely with cross-functional teams of researchers and engineers, sharing your ideas and learning from leading experts in the field.
+- Present findings, participate in knowledge-sharing sessions, and help shape the direction of AI for the physical sciences.
+What You’ll Need
+- Currently pursuing a Master's or PhD degree in Physics, Computer Science, Engineering, or a related field.
+- Strong passion for applying AI and deep learning to scientific or physics-based problems.
+- Experience with scientific computing, machine learning frameworks, and large-scale data management.
+- Excellent problem-solving, communication, and collaboration skills.
+- Self-motivated, creative, and eager to contribute to high-impact research and engineering projects.
+Key Program Facts:
+- Program Length: 3-4 months
+- Location: Sunnyvale, California, United States
+- Working Model: In-office, hybrid or remote
+- Full-Time/Part-Time: Full-time
+- Start Date: May / June 2027
+Equal Opportunity Statement
+Synopsys is committed to creating an inclusive workplace and is an equal opportunity employer. We welcome all qualified applicants to apply, regardless of age,
+color, family or medical leave, gender identity or expression, marital status, disability, race and ethnicity, religion, sexual orientation, or any other
+characteristic protected by local laws. If you need assistance or a reasonable accommodation during the application process, please reach out to us.
+At Synopsys, we want talented people of every background to feel valued and supported to do their best work. Synopsys considers all applicants for employment
+without regard to race, color, religion, national origin, gender, sexual orientation, age, military veteran status, or disability.
+In addition to the base salary, this role may be eligible for an annual bonus, equity, and other discretionary bonuses. Synopsys offers comprehensive health,
+wellness, and financial benefits as part of a competitive total rewards package. The actual compensation offered will be based on a number of job-related
+factors, including location, skills, experience, and education. Your recruiter can share more specific details on the total rewards package upon request. The
+base salary range for this role is across the U.S.
+Back to job list
+Apply
