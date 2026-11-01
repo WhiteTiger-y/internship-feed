@@ -1,0 +1,70 @@
+About This Role
+Quantitative Master’s Internship Program
+This program mirrors the MBA Internship but is tailored for master’s students in quantitative disciplines – giving you the same exposure and impact, with a
+focus on advanced analytics and problem-solving.
+Eligibility: Students enrolled in analytics, computational finance, financial engineering, mathematics and/or a quantitative-disciplined master’s program and
+graduating between September 2027 and July 2028 with relevant pre-master’s work experience
+Aladdin Financial Engineering
+We research, develop and implement innovative quantitative models used to assess financial risk across fixed income, equities, derivatives and alternative
+products through our proprietary technology, Aladdin. We also provide risk management and tailored advice to drive better business and investment outcomes.
+Teams You May Be Considered For
+Quantitative Research and Modeling: We are responsible for all analytics and analytics technology developed and deployed into the Aladdin ecosystem. We support
+and evolve over 200 analytics models spanning single security, securitized products, portfolio construction, portfolio risk, performance attribution, trading
+and liquidity, energy and climate, and ML/Gen AI model suites.
+Portfolio Analytics Group: Develop fit-for-purpose solutions for Investment and Client Businesses utilizing Aladdin models and latest quantitative techniques to
+bring value to the best client of Aladdin – BlackRock.
+Our Function Is Known For
+- Evolving analytics and models developed and deployed into the Aladdin ecosystem
+- Developing new best-in-class analytics models
+- Working closely with both internal and external Aladdin clients to ensure proper deployment, usage, adoption and evolution of Aladdin’s entire analytics
+estate
+- Applying Aladdin financial models to specific BlackRock use cases across Investments and Client Businesses to unlock value through analytical insights,
+accelerating critical initiatives
+- Providing critical thought leadership
+What capabilities are we looking for?
+We are seeking passionate and dynamic Analysts to join our collaborative Financial Engineering team. This role is crafted for individuals who excel in applying
+analytical and quantitative techniques to solve real-world financial challenges. You will leverage your programming skills, financial acumen and critical
+thinking to uncover market opportunities and support our institutional clients in executing complex transactions.
+Key Responsibilities
+- Technical Development: Use your intermediate coding skills (Python preferred) to design, develop and deliver cutting- edge financial engineering solutions.
+- Data-Driven Insights: Deliver actionable analytics by developing robust quantitative solutions tailored for Investment and Client Businesses.
+- Collaborative Innovation: Work closely with cross-functional investment and business teams to accelerate strategic initiatives and drive measurable business
+value.
+You will develop expertise in multiple core areas that will serve as the foundation for your career, including:
+- Financial markets and investment products
+- Quantitative research and modeling
+- Technology
+- The Aladdin platform
+For San Francisco, CA and New York, NY only: The salary ranges for these positions are below. Please note, salary rates for a role are determined by department
+or team within a Business Area, as well as location of the role.
+Salary Range (Semi-Monthly Rate)
+Technology: $6,500 – $8,000
+Our Benefits
+To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive
+healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+Our hybrid work model
+BlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while
+supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a
+week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments
+that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to
+accelerate your learning and onboarding experience here at BlackRock.
+Guidance on AI use for candidates
+At BlackRock, AI has long been part of how we work – enhancing decision-making, improving operations, and helping us deliver better outcomes for clients. We
+encourage candidates to use AI thoughtfully to learn, prepare, and work more effectively; but during our interview process, we want to focus on getting to know
+you through your own experiences, thinking, and judgment. To support you, we’ve provided guidance on when and how to use AI during our hiring process so you can
+approach each step with confidence and showcase your best self.
+About BlackRock
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are
+saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global
+economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where
+our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+To learn more about BlackRock, please visit Careers.BlackRock.com. We also encourage you to get to know us on LinkedIn, Instagram, YouTube, X, and TikTok.
+BlackRock is proud to be an equal opportunity workplace. We are committed to equal employment opportunity to all applicants and existing employees, and we
+evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual
+orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran
+status, or any other basis protected under applicable federal, state, or local law. View the EEOC’s Know Your Rights poster and its supplement and the pay
+transparency statement.
+BlackRock is committed to full inclusion of all qualified individuals and to providing reasonable accommodations or job modifications for individuals with
+disabilities. If reasonable accommodation/adjustments are needed throughout the employment process, please email Disability.Assistance@blackrock.com. All
+requests are treated in

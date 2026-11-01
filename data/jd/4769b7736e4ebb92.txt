@@ -1,0 +1,74 @@
+Position Overview
+We are seeking technically capable students for a hands-on applied AI and business automation internship focused on improving real-world business operations
+through artificial intelligence, software integration, data analysis, and workflow automation.
+This is a practical, project-oriented opportunity for students who want to move beyond classroom learning and AI experimentation to build solutions that address
+actual business challenges. Interns will work directly with employees and department leaders to identify repetitive tasks, streamline workflows, integrate AI
+into existing business systems, and develop automation solutions that deliver measurable improvements in productivity, accuracy, turnaround time, and operating
+costs. The internship will provide exposure to multiple areas of business operations, including customer service, dispatch and logistics, purchasing, sales,
+laboratory and manufacturing operations, and accounting.
+Interns will be expected to understand business problems, develop and test solutions, work with existing software and data, and demonstrate the results of their
+work. The objective is to implement useful, reliable automations that employees can incorporate into their daily operations. The initial program will run for 12
+weeks, with the possibility of extending the internship or transitioning successful candidates into permanent positions based on individual performance,
+demonstrated business impact, and organizational needs.
+Work Location and Arrangement
+This internship is based in Houston, TX 77047 and requires on-site attendance. Remote and hybrid work arrangements are not available at this time.
+Key Responsibilities
+- Business Process Analysis and Automation
+- Work with employees and department managers to understand existing workflows and operational challenges.
+- Identify repetitive, manual, time-consuming, or error-prone processes that could benefit from automation.
+- Evaluate opportunities to improve efficiency using AI, Python, APIs, SQL, and workflow automation tools.
+- Document existing processes and recommend practical solutions based on potential business value.
+- Prioritize projects based on time savings, accuracy, implementation effort, cost reduction, and operational impact.
+- Establish baseline metrics and measure improvements resulting from implemented solutions.
+- Applied Artificial Intelligence and Intelligent Automation
+- Develop practical applications using AI tools, large language models (LLMs), and approved AI APIs.
+- Automate document processing, email classification, information extraction, summarization, and report generation.
+- Build AI-assisted workflows that connect existing applications and reduce manual data entry.
+- Combine AI capabilities with conventional programming, business rules, and structured data.
+- Test AI-generated outputs for accuracy, consistency, reliability, and suitability for business use.
+- Implement appropriate human review and approval procedures for sensitive or consequential decisions.
+- Evaluate existing AI products and automation platforms to identify opportunities for rapid implementation.
+- Software Integration and Business Systems
+- Work with existing ERP, CRM, accounting, inventory management, logistics, laboratory, and manufacturing systems.
+- Develop integrations using REST APIs, webhooks, SQL, Python, and approved automation platforms.
+- Automate data exchange between systems and reduce duplicate data entry.
+- Extract, transform, validate, and organize operational data.
+- Develop automated reports, notifications, alerts, and dashboards.
+- Troubleshoot integration issues and implement appropriate logging, error handling, and validation.
+- Document integrations and workflows to support ongoing maintenance and future development.
+- Customer Service Automation
+- Explore opportunities to automate order processing, email management, and customer communications.
+- Develop tools to categorize incoming emails and extract customer, order, and delivery information.
+- Assist with order-status inquiries, customer follow-up reminders, and communication workflows.
+- Develop automated workflows to generate, populate, validate, and organize Bills of Lading (BOLs) and related shipping documents using information from
+customer orders, ERP systems, and transportation or logistics platforms.
+- Automate the transfer of shipment information into shipping forms and documents, including customer details, ship-to addresses, product descriptions,
+quantities, weights, packaging details, and applicable shipping instructions.
+- Reduce manual data entry and duplicate work by integrating order information with document-generation tools and existing business systems.
+- Improve information retrieval and reduce manual administrative work.
+- Ensure customer-facing communications and shipping documents follow approved business rules, accuracy requirements, and review procedures.
+- Dispatch and Logistics Automation
+- Identify opportunities to improve dispatch scheduling, shipment tracking, and delivery coordination.
+- Automate shipment-status notifications and routine interdepartmental communications.
+- Consolidate logistics data from approved systems and sources.
+- Develop and implement automated processes for creating, completing, updating, and distributing Bills of Lading (BOLs), packing lists, shipping labels,
+delivery paperwork, and other applicable transportation documents.
+- Integrate shipping-document workflows with order management, inventory, ERP, warehouse, and transportation systems to retrieve shipment data and minimize
+manual document preparation.
+- Implement automated validation checks to identify missing information, inconsistent quantities or weights, incorrect addresses, and discrepancies between
+orders, shipping records, and generated documents.
+- Automate document storage, naming, retrieval, and distribution to appropriate internal teams, carriers, and customers, subject to applicable authorization and
+approval requirements.
+- Explore AI-assisted document processing to extract shipment information from emails, purchase orders, order confirmations, and existing shipping documents.
+- Develop reports to monitor delivery performance, scheduling efficiency, and operational bottlenecks.
+- Explore opportunities to improve scheduling and resource utilization using available data.
+- Purchasing and Inventory Management
+- Develop tools to compare supplier quotations, pricing, lead times, and purchasing terms.
+- Automate the organization and analysis of supplier information.
+- Analyze inventory levels, purchasing history, and consumption patterns.
+- Create alerts for low inventory, unusual pricing changes, and potential supply issues.
+- Assist with inventory reporting and supplier performance analysis.
+- Support purchasing decisions through better data visibility and automated reporting.
+- Sales and CRM Automation
+- Improve CRM data quality and automate routine record maintenance.
+- Develop 

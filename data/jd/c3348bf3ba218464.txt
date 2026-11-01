@@ -1,0 +1,54 @@
+Job Description
+- Note: No relocation assistance or visa sponsorship is available for this position. **
+Number of Position(s): 1
+Duration: 4 months
+Dates: January 2027 - May 2027, full-time
+Location: Onsite in Sunnyvale, CA
+EDUCATIONAL RECOMMENDATIONS:
+Currently a candidate pursing a bachelor's degree or master's degree in Computer Science, Software Engineering, Artificial Intelligence or a related field with
+an accredited school in the United States.
+How You Will Contribute And What You Will Learn
+- Develop and enhance AI workflows, features, and services under the guidance of senior engineers.
+- Implement AI-assisted software development capabilities, including agent workflows, code generation, testing, and documentation automation.
+- Support the development of reusable templates, frameworks, and best practices for Agentic PDLC, AI-SDLC, B-MAD, and modern software engineering processes.
+- Develop integrations with development toolchains, CI/CD systems, repositories, issue management platforms, and AI services.
+- Build and maintain automation for requirements management, design reviews, coding, testing, security scanning, and release readiness verification.
+- Create dashboards, metrics, and reporting capabilities to measure engineering productivity and AI adoption.
+- Develop and maintain technical documentation, tutorials, onboarding materials, and knowledge assets.
+- Participate in sprint planning, backlog refinement, implementation, testing, and code reviews.
+- Support proof-of-concept initiatives evaluating emerging AI engineering technologies and autonomous development workflows.
+- Collaborate with product, support, SRE, and development teams to identify and implement productivity improvements.
+- Demonstrate flexibility to collaborate across time zones as needed to support business requirements.
+Key Skills And Experience
+- Basic programming skills in Python and Go, with experience applying software development practices through academic coursework, internships, research, or
+personal projects.
+- Interest in Generative AI, AI agents, large language models (LLMs), automation, and modern software engineering methodologies, including B-MAD, Loop
+Engineering, and AI-PDLC/AI-SDLC frameworks.
+- Familiarity with cloud-native technologies, Linux environments, Git-based version control, and container platforms such as Docker and Kubernetes is preferred.
+- Strong analytical, problem-solving, and communication skills, with the ability to collaborate effectively in a diverse, global team environment.
+About Us
+Advancing connectivity to secure a brighter world.
+Nokia is a global leader in connectivity for the AI era. With expertise across fixed, mobile and transport networks, powered by the innovation of Nokia Bell
+Labs, we’re advancing connectivity to secure a brighter world.
+Learn more about life at Nokia .
+Our recruitment process
+We act inclusively and respect the uniqueness of people. Our employment decisions are made regardless of race, color, national or ethnic origin, religion,
+gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law.
+We are committed to a culture of inclusion built upon our core value of respect.
+If you’re interested in this role but don’t meet every listed requirement, we still encourage you to apply. Unique backgrounds, perspectives, and experiences
+enrich our teams, and you may be just the right candidate for this or another opportunity.
+The length of the recruitment process may vary depending on the specific role's requirements. We strive to ensure a smooth and inclusive experience for all
+candidates. Discover more about the recruitment process at Nokia .
+About The Team
+Some of our benefits for students in the US :
+- Flexible and hybrid working schemes to balance study, work, and life
+- Professional development events and networking opportunities
+- Well-being programs, including Personal Support Service 24/7 - a confidential support channel open to all Nokia employees and their families in challenging
+situations
+- Opportunities to join Nokia Employee Resource Groups (NERGs) and build connections across the organization
+- Employee Growth Solutions, mentorship programs, and coaching support for your career development
+- A learning environment that fosters both personal growth and professional development – for your role and beyond
+Disclaimer for US/Canada
+Nokia maintains broad annual base salary ranges for its roles in order to account for variations in knowledge, skills, experience and market conditions, and
+with consideration to internal peer equity. Check the salary ranges in the job info section for this role.
+All North America job posts will post for a minimum of 3 calendar days and up to 180 days or until candidate/s identified.

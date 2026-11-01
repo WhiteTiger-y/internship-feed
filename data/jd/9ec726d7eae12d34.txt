@@ -1,0 +1,43 @@
+Introduction
+The Algorithms and Applications for PDEs team focusses on the paradigm of quantum centric supercomputing. Here, the idea is to mix and match the state of the
+art in all three areas -- quantum computing, AI and conventional numerics -- to yield breakthrough performance increases for forward and inverse problems for
+PDEs. Our global team actively works on quantum solvers, neural operators and data assimilation methods with a particular focus on workflows and algorithms that
+bridge computational paradigms.
+Partial differential equations appear throughout scientific and industrial problems. The study of forward and inverse problems has been a cornerstone of
+scientific computing from its earliest days. While this has led to a rich landscape of powerful numerical methods and tools, there are still many challenges --
+in particular where scaling limits are encountered or underlying dynamics not fully known. The AI revolutions of the 2010s and 2020s started addressing these
+challenges. In some domains, data-driven solvers equal or surpass the performance of conventional approaches, frequently while running on an arguably smaller
+computational footprint. Quantum methods with their exponential state spaces and scaling advantages hold the tantalizing promise of much more rapid advances.
+Yet unlocking this promise requires addressing questions such as state preparation and read-out to name just two.
+Bridging these gaps is at the heart of our team's research. By combining expertise in scientific computing, machine learning, and quantum algorithms, we develop
+workflows that leverage the strengths of each paradigm and investigate their potential for real-world PDE applications.
+Your Role And Responsibilities
+The successful candidate will actively contribute to the team's research agenda across the entire vertical of algorithm and model development, experimentation
+and validation. Depending on educational background, existing skills and strengths as well as research opportunities, this can mean implementing quantum
+solvers, training AI models, running validation across computational paradigms or developing cross-platform workflows.
+Beyond the work on a primary project, the candidate will contribute to and be part of the general discourse within the group and lab. This means participating
+in journal clubs and preparing reports; yet also interacting with interns and researchers from other groups across IBM Research in general and the Yorktown lab
+in particular.
+Preferred Education
+Master's Degree
+All Of
+Required technical and professional expertise
+- Working understanding of partial differential equations -- from a theoretical or application-oriented perspective.
+- Elementary statistics.
+- Proven experience prototyping in python (numpy).
+At Least One Of
+- Research experience in applied mathematics. In particular regarding differential equations and operator-theoretic methods or numerical linear algebra for
+large-scale systems.
+- Research experience in AI models for PDEs.
+- Research experience in quantum computing.
+Preferred Technical And Professional Experience
+One or more of the following
+- Experience with data assimilation methods such as variational data assimilation (3D-Var, 4D-Var), Kalman filtering or AI data assimilation algorithms (score-
+based data assimilation).
+- Experience with neural operators and/or AI models for inverse problems.
+- Demonstrated experience of Hamiltonian simulation, LCU, QSP/SVT, qubitization, block-encodings; amplitude amplification/estimation, phase estimation, or
+quantum linear systems methods.
+- Experience with discretization methods (FEM/FDM/spectral), PDE solvers (CG/GMRES/multigrid), and conditioning/preconditioning analysis.
+- Background in model reduction (POD/DMD, balanced truncation) or Koopman/Carleman embeddings.
+- Strong software engineerins skills.
+- Publication record.

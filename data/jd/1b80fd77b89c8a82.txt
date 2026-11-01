@@ -1,0 +1,60 @@
+Position Summary
+JOB DESCRIPTION
+This internship focuses on data mining, predictive analytics, and health score development to proactively identify risks and optimize asset performance. The
+intern will work with cross-functional teams to analyze telemetry, service history, and environmental data, contributing to the evolution of Vertiv’s predictive
+platform. Interns typically work closely with experienced engineers, assisting them with ongoing projects, conducting research, and contributing to the
+development of testing products or systems. The successful candidate will have the chance to apply theoretical knowledge gained in the classroom to real-world
+engineering challenges, gaining valuable practical skills and insights. Additionally, they will receive mentorship and guidance from senior engineers, helping
+them to further develop their technical abilities and professional network within the field of engineering.
+Responsibilities
+- May include analysis, development, and testing, writing software requirements, software testing, solution, tool development and product/program support.
+- Must have an eagerness to grow personally and professionally. This program is for individuals with high learning agility and willingness to adapt and develop
+continuously, who aim at consistently performing in a variety of settings and circumstances.
+- Collaborate with others to foster effective teamwork by linking own responsibilities to the team’s goals and needs – have a passion for new information,
+knowledge, and experiences.
+- Manage time and resources to ensure that work is completed efficiently.
+- Ensure effective and efficient completion of projects by planning and implementing courses of action with other functions and key stakeholders.
+- Perform other essential and related peripheral duties as may be assigned.
+Qualifications
+- Currently pursuing a degree in Engineering (Mechanical, Electrical, Industrial, Systems) or in Data Science, or directly related degree preferred
+- Excellent written and verbal communication skills
+- Demonstrated work ethic and detail-orientation
+- Strong analytical and critical thinking skills
+- Ability and willingness to learn in a fast-paced environment and produce high-quality work
+- Collaboration and teamwork.
+PHYSICAL & ENVIRONMENTAL DEMANDS
+- Working around moving machinery (forklifts)
+- Protective Equipment Required (earplugs, gloves, eyewear, respirator, mask, etc.)
+About Us
+The successful candidate will embrace Vertiv’s Core Principles & Behaviors to help execute our Strategic Priorities.
+OUR CORE PRINCIPLES: Safety. Integrity. Respect. Teamwork. Inclusion.
+OUR STRATEGIC PRIORITIES
+- High-Performance Culture
+- Customer Focus
+- Operational Excellence
+- Innovation
+- Financial Strength
+VERTIV BEHAVIORS
+- Own it
+- Act with urgency
+- Foster a customer-first mindset
+- Think big and execute
+- Lead by example
+- Drive continuous improvement
+- Learn and seek out development
+- Promote transparent & open communication
+About Vertiv
+Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform
+optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial
+and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network.
+Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.
+Work Authorization
+No calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship
+will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future,
+are not eligible for hire.
+Equal Opportunity Employer
+Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility,
+training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth,
+breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual
+stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability
+and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to help.join@vertiv.com

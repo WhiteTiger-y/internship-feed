@@ -1,0 +1,27 @@
+All roles
+ResearchMountain View / San Francisco
+- Internship
+Applied Research Intern
+Sit at the edge of research and production. You'll take a real workflow from a real team, make its failure modes measurable, construct the reward system, and
+post-train models that beat the frontier baseline on the work that matters. We hire interns who want to be researchers who ship.
+What you'll own
+- Evaluation suites built from production traces: deciding what to measure, building the graders, and proving they track real quality.
+- Verifiers and reward models. Turning human corrections, outcomes, and standards of good work into training signal.
+- Post-training experiments end-to-end: hypothesis, data, SFT/DPO/RL runs, ablations, analysis, and the write-up that defends the win with numbers.
+- RL environments and agentic harnesses for the workflows we're specializing models for.
+- Reproducing recent post-training, reasoning, and agent papers, and translating the ones that work into our stack.
+About You
+- Currently a student (BS / MS / PhD) in CS, ML, or an adjacent field, or recently graduated.
+- Strong empirical ML background. You've run post-training or RL experiments on LLMs and can explain what worked, what didn't, and why.
+- Rigorous about evaluation. You can spot a benchmark that lies and design one that doesn't.
+- Comfortable in messy production data. Real traces, not curated datasets, are your raw material.
+- Bias to ship. Your experiments end in a deployed model or a killed hypothesis, not just a doc.
+- Available for at least 12 weeks at meaningful intensity.
+Bonus
+- Publications or OSS in post-training, RL, evals, or agents.
+- Experience with verifier models, synthetic data, or RL environments at scale.
+- Shipped research into a production system before.
+- Strong taste for what the field is over- vs. under-investing in.
+Apply
+We read every application. Expect a reply within a week.
+Apply for this role

@@ -1,0 +1,19 @@
+Company Description The Light Company is an emerging technology organization focused on advancing robotics and intelligent systems to improve everyday life. The
+team combines research-driven experimentation with practical engineering to develop robust, real-world robotic solutions. Interns and employees collaborate
+closely with experienced scientists and engineers, gaining exposure to cutting-edge tools, methodologies, and prototyping environments. The company values
+curiosity, integrity, and inclusion, and encourages team members at all levels to contribute ideas and take ownership of impactful projects.
+Role Description The Robotic Evaluation Research Intern will support the design, execution, and analysis of experiments that assess robotic system performance
+and reliability. Day-to-day responsibilities include building and running test scenarios, collecting and organizing data, documenting findings, and helping
+refine evaluation protocols in collaboration with senior researchers and engineers. The intern will assist in preparing reports and presentations that summarize
+results and recommend improvements to hardware, software, or control strategies. This is a full-time, on-site role located in the San Francisco Bay Area, and
+requires regular collaboration with cross-functional team members in lab and workshop environments.
+Qualifications
+- Foundational knowledge of robotics, control systems, or mechanical/electrical engineering, with the ability to understand robotic architectures and evaluation
+needs.
+- Experience or coursework in experimental design, data collection, and basic statistical analysis to support rigorous research and performance assessment.
+- Ability to document experiments clearly, prepare concise summaries, and communicate technical findings to both technical and non-technical stakeholders.
+- Familiarity with laboratory or workshop safety practices, plus hands-on skills in assembling, troubleshooting, or operating robotic or electromechanical
+systems.
+- Currently pursuing or recently completed a degree in robotics, engineering, computer science, or a related field.
+- Strong problem-solving skills, attention to detail, and the ability to work both independently and collaboratively in an on-site team environment.
+- Interest in emerging robotics technologies and a willingness to learn new tools, frameworks, and testing methodologies.

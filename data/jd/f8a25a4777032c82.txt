@@ -1,0 +1,31 @@
+About Cavalla
+Cavalla is reimagining warehouse automation. Our autonomous forklifts automate repetitive tasks and can be reconfigured with the click of a button to support
+the most demanding logistics operations. Learn more at Cavalla.ai.
+We're backed by venture funds including Emerson Capital, Founder Inc, and the Thiel Foundation, plus angels from leadership at Google, Microsoft, and more. Our
+core team comes from CMU, MIT, ETH Zurich, EPFL, IIT Madras, NASA JPL, and Caterpillar, and includes a Thiel Fellow.
+The Role
+We're looking for a Perception Engineering Intern to help our forklifts see and understand the warehouse around them. This is a 3-month internship (Can be
+extended to full time depending on performance). You'll own real problems, ship code that runs on real robots, and see your work move freight.
+What You'll Do
+- Build vision pipelines that fuse camera and depth data into a reliable 3D picture of the scene
+- Develop methods to recover the full 3D position and orientation of objects the forklift needs to engage with, accurately enough to act on
+- Get models and algorithms running in real time on onboard compute
+- Build evaluation tools and metrics
+Traits We Look For
+- Missionary: You care deeply about the work and want to build something that matters.
+- Generalist: You understand that changing x in perception changes y and z in planning, control, and hardware.
+- Obsessive: Obsession beats experience every time. You get hyperfocused on making things work.
+- High Agency: Give you "make this work" and it gets done.
+What We're Looking For
+- At least 2-3 years of research experience working with perception models
+- Solid foundation in 3D geometry, camera models, and coordinate transforms
+- Experience working with point clouds or depth data
+- Hands-on experience training and deploying deep learning models (PyTorch or similar)
+- Comfortable debugging on real hardware with noisy, real-world data
+Nice to Have
+- PhD or Master's degree in Robotics, Computer Science, or a related field
+- Publications at top computer vision or robotics venues (CVPR, ICCV, ECCV, ICRA, RSS, CoRL, or similar)
+- Research, competition robotics, or personal robot projects
+Why Join
+You'll work directly with a small, sharp founding team on real robots in real warehouses. You'll learn more in 3 months here than in years elsewhere, and strong
+interns will have a path to a full-time role.

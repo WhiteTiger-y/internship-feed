@@ -1,0 +1,54 @@
+Compensation: $56 per hour
+Start Date: Summer 2027
+Department: Data & Analytics
+Why We Have This Role:
+The role focuses on data science, laboratory research, and statistical analysis. *Note: Applications will remain live for at least 5 business days when the role
+is posted.
+Your Responsibilities:
+- Travel is so much more than simply reaching your destination.
+- Along the way you will make an immediate impact on reimagining the way people search for travel with the company's awesome team by inventing brand-new
+techniques to power global travel for everyone, everywhere.
+- From building pipelines and prototyping new ML models with A/B testing, to applying new techniques to services that run tens of thousands of requests per
+second, there is no shortage of opportunities for technical innovation at the company – the sky’s the limit!
+- Design, prototype, and evaluate machine learning models under the guidance of more experienced machine learning scientists, contributing to well-scoped
+research and product-focused experiments.
+- Implement clean, maintainable model training and inference code using standard software engineering practices, including basic unit testing, code reviews, and
+reproducible experimentation workflows.
+- Participate in low-level system design, API design, and data modeling for ML-powered features, learning how to translate product and data requirements into
+robust, production-aware ML solutions.
+- Explore, analyze, and prepare data using fundamental statistical and ML techniques to improve model quality, robustness, and fairness, including feature
+engineering and basic error analysis.
+- Collaborate with peers, mentors, data scientists, engineers, and product partners to understand problem spaces, define success metrics, and iterate on ML
+solutions that deliver measurable impact across different product domains.
+- Learn to work with AI-driven systems, tools, or workflows and applying AI/ML concepts to real world products, including safely integrating and operating
+AI/ML-enabled solutions that improve outcomes within defined guidance and scope.
+Requirements:
+- You will take part in role-specific technical and professional skills learning, delivered through a mix of in-person and virtual sessions, to help you build
+confidence and capability from the start.
+- Work on meaningful projects: Interns join the company and contribute to real business priorities and workstreams. At the end of the internship, you will
+showcase your work to team members and senior leaders.
+- Grow beyond your day job: The company's Learning Series includes interactive workshops focused on professional development and workplace skills, with topics
+such as personal branding, communication, and presentation skills.
+- Gain exposure to leaders: Through the company's Leadership Series, interns take part in exclusive events with Travel Leadership Team leaders to hear about
+their career journeys, learn more about the business, and ask questions directly.
+- Build your network and community: You will join an intern cohort and take part in regular social events designed to help you build relationships, experience
+the company’s culture, and have fun along the way.
+- We know that many potential candidates can be hesitant to apply for a job if they aren't sure that they meet all the criteria shared.
+- May 24th – July 30th or June 21st – August 27th.
+- Must be graduating with a PhD degree in a technical subject (e.g. PhD degree in a technical, or analytical-related, subject such as Computer Science (with
+focus in areas like Artificial Intelligence, Machine Learning, Natural Language Processing, Data Mining, Data Science), Mathematics, Physics, Statistics,
+Operations Research, Electrical & Computer Engineering, or any Engineering degree) between December 2027 and July 2028.
+- Must be willing to relocate to city of job location if outside commuting distance.
+- Must have Python and/or Scala, SQL knowledge.
+Highlights:
+- Start strong from day one: Your first week is designed to help you build connections, settle in quickly, and get set up for success through cohort
+orientation, support, and structured onboarding.
+- Every intern is paired with a mentor to support development, learning, and career exploration throughout the program, while also helping expand your network
+across the company.
+- Feel supported throughout the experience: Interns receive ongoing coaching and guidance from managers, team navigators, and a dedicated Emerging Talent &
+Careers contact, so there is always a strong support system in place.
+What We Offer:
+- Health benefits.
+- Relocation assistance.
+Important: The successful application submission for the above role(s) will be conditional on your profile evaluation by our AI system. We can let you know
+better once you submit your resume.
