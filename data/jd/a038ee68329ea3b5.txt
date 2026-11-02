@@ -1,0 +1,65 @@
+Company Description
+Oakwood is an AI-powered real estate technology startup developing software that helps landlords, property managers, and investors simplify complex operations
+through automation and intelligent systems. Founded from real-world challenges in Philadelphia's real estate industry, we are building tools that bring
+fragmented processes into one scalable platform.
+We are not simply creating another software product. We are tackling practical problems through AI agents, integrations, reliable engineering, and thoughtful
+product design. As an early-stage startup, we operate in a competitive, rapidly evolving technology environment. Our ambitions require excellent engineers who
+combine curiosity, technical discipline, creativity, and a willingness to learn.
+Role Description
+Oakwood is seeking a Software Engineering & AI Intern who is serious about developing exceptional engineering skills. This is a hands-on, learning-focused
+opportunity to collaborate with our team, explore modern software systems, and gain exposure to the challenges of building an AI-powered platform from the
+ground up.
+This is an unpaid, six-month internship that requires significant time, consistent participation, and genuine commitment. It is not a casual or low-effort
+experience. Startup priorities evolve, technical problems can be difficult, and progress requires focused research, testing, communication, and persistence. We
+want applicants who understand those realities before applying.
+Key Responsibilities
+- Software Engineering: Assist with designing, developing, testing, and improving platform features and software components.
+- AI Development: Research and experiment with AI agents, large language models, intelligent workflows, and automation.
+- Backend Systems: Support learning projects involving APIs, databases, integrations, and data processing.
+- Technical Research: Evaluate frameworks, developer tools, and emerging technologies relevant to our product.
+- Troubleshooting: Reproduce bugs, investigate root causes, test fixes, and learn sound debugging practices.
+- Quality and Documentation: Write tests, document engineering work, and communicate technical findings clearly.
+- Product Thinking: Understand user problems, technical trade-offs, and how well-designed software creates value.
+Assignments will be aligned with the intern's experience, educational objectives, and the team's capacity to provide mentorship and supervision. Opportunities
+for greater responsibility will depend on demonstrated skills and appropriate learning goals.
+Qualifications
+- Foundational knowledge of programming, algorithms, data structures, and software development.
+- Experience with Python, JavaScript, TypeScript, or another programming language.
+- Familiarity with Git, GitHub, APIs, databases, cloud services, or software testing is helpful.
+- Strong interest in AI systems, machine learning, agentic workflows, or automation.
+- Ability to research unfamiliar concepts and work through technical challenges thoughtfully.
+- Personal projects, open-source contributions, or a GitHub portfolio are encouraged.
+- Clear communication, reliability, collaboration, and openness to constructive feedback.
+Students, recent graduates, and self-taught developers with relevant experience are welcome. You do not need expertise in every technology listed. We value
+demonstrated ability, engineering potential, initiative, and commitment more than credentials alone.
+What We Expect
+This opportunity calls for substantial effort throughout the full six months. Candidates should be ready to learn continuously, participate in technical
+discussions, follow through on agreed assignments, document progress, and ask questions when they need support.
+We are looking for people who become curious when something breaks, investigate how systems work, and care about building reliable, maintainable software.
+Strong engineers do more than write code: they consider security, testing, scalability, clarity, and the people who will use their products.
+Please do not apply if you need paid work, cannot realistically participate for six months, want an internship with minimal engagement, or have little interest
+in software engineering or AI. We respect different financial situations, academic obligations, and career priorities. If this is not the right fit, we
+encourage you to pursue an opportunity better aligned with your needs.
+Compensation & Learning Experience
+This internship is unpaid. There is no salary, stipend, or guaranteed financial compensation. Please evaluate your financial circumstances carefully before
+applying.
+The intended educational experience includes exposure to software architecture, AI workflows, testing, technical documentation, product development, and startup
+decision-making. Interns may receive mentorship and feedback from team members and opportunities to strengthen their skills through appropriate technical
+projects. Any portfolio use of project work is subject to confidentiality and intellectual property requirements.
+Why You Might Want to Apply
+If you love engineering, enjoy exploring AI, and want to understand how a startup develops real technology, Oakwood may offer a valuable learning environment.
+You can gain firsthand exposure to the engineering process, see how technical ideas are evaluated, and develop stronger judgment through research,
+experimentation, and collaboration.
+We are especially interested in candidates who build personal projects, study unfamiliar technologies, and take initiative because they genuinely enjoy solving
+problems. We are not expecting perfect engineers. We are looking for people with the foundation, discipline, and ambition to become great ones.
+What Oakwood Offers: An Internship That Can Transform Your Career
+At Oakwood, we believe the right opportunity, combined with ambition, mentorship, and dedication, can change the direction of someone's career.
+This internship is designed to offer more than technical exposure. It is an opportunity to develop as an engineer, gain firsthand experience with emerging AI
+technologies, collaborate with startup founders and engineers, and understand what it takes to build a technology company from the ground up.
+You'll have opportunities to strengthen your technical judgment, develop practical problem-solving skills, explore modern engineering tools, and gain valuable
+experience in software development and innovation.
+What makes this opportunity potentially transformative is the possibility of growth beyond the internship itself.
+Six months of focused learning, consistent effort, and professional development can help build the foundation for a stronger engineering career.
+As Oakwood expands, exceptional interns may be considered for continued collaboration, additional responsibilities, and potential long-term positions, depending
+on business needs and available resources.
+While future employment is not guaranteed, we want to create an environment where m

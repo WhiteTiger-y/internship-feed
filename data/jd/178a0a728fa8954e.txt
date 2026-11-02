@@ -1,0 +1,49 @@
+At apexanalytix, we’re lifelong innovators! Since the date of our founding nearly four decades ago we’ve been consistently growing, profitable, and delivering
+the best procure-to-pay solutions to the world. We’re the perfect balance of established company and start-up. You will find a unique home here.
+And you’ll recognize the names of our clients. Most of them are on The Global 2000. They trust us to give them the latest in controls, audit and analytics
+software every day. Industry analysts consistently rank us as a top supplier management solution, and you’ll be helping build that reputation.
+Read more about apexanalytix - https://www.apexanalytix.com/about/
+Position Title: Data Analyst Intern
+Reports to: Manager, Automation Architect
+Location: Greensboro, N.C.
+POSITION SUMMARY
+We are seeking a detail-oriented and technically minded Data Analyst Intern to join our team. In this role, you will work within our on-premise data environment
+, ensuring the accuracy and reliability of the data that powers our business decisions. A significant portion of this internship focuses on data quality
+assurance (QA). You will ensure that our data is accurate, consistent, and reliable by performing rigorous testing and validation.
+KEY RESPONSIBILITIES:
+Data Quality Assurance (QA) & Testing
+- Source-to-Target Validation: Perform comparative analysis between source systems and our Data Warehouse to ensure data was extracted and transformed
+correctly.
+- Regression Testing: Validate data outputs after system updates or pipeline changes to ensure existing reports and dashboards remain accurate.
+- Data Integrity Checks: Write SQL scripts to proactively identify nulls, duplicates, or schema mismatches before they impact the business.
+- Bug Reporting: Document data anomalies clearly and track them to resolution, working closely with engineers to identify the root cause.
+Analysis & Technical Operations
+- Data Analysis: Write complex SQL queries to extract and manipulate data for ad-hoc business requests.
+- Infrastructure Interaction: Use the Linux command line to navigate servers, execute validation scripts, and grep logs for errors.
+- Kubernetes Support: Assist in monitoring data applications running on Kubernetes ; check pod status and retrieve logs (kubectl logs) to aid in debugging QA
+failures.
+- Documentation: Maintain the Data Catalog and Business Glossary, ensuring that metric definitions match the technical reality of the data.
+- Supplier N-Tier Mapping: Research and identify data sources to build supplier n-tier maps , discovering relationships between Tier 1 suppliers and their
+upstream sub-suppliers (Tier 2, Tier 3, etc.).
+POSITION REQUIREMENTS:
+Education
+- Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information Systems, Mathematics, or a related field.
+Technical Skills & Knowledge
+- SQL (Essential): Strong proficiency in writing SQL queries. You must be able to write queries to test data (e.g., finding set differences, counting
+variances).
+- Linux / Command Line: Comfort working in a Linux environment . You should know basic shell commands (bash) for file management and log inspection.
+- Kubernetes: Basic conceptual understanding of containerization. Familiarity with kubectl is a plus.
+- Data Concepts: Understanding of Data Warehousing (Star Schema) and ETL processes.
+- Programming: Basic proficiency in Python (Pandas) for scripting or data automation.
+- QA Mindset: A natural skepticism of data. You should have the habit of asking, "Does this number actually make sense?"
+Soft Skills & Attributes
+- Attention to Detail: The ability to spot small discrepancies in large datasets.
+- Technical Curiosity: A desire to understand the infrastructure (servers/containers) that supports the data.
+- Communication: Ability to clearly report bugs and explain "why" a data point looks wrong to stakeholders.
+Over the years, we’ve discovered that the most effective and successful associates at apexanalytix are people who have a specific combination of values, skills,
+and behaviors that we call “The apex Way”. Read more about The apex Way - https://www.apexanalytix.com/careers/
+Apply now
+R&D - Archimedes
+Greensboro, NC
+Share on:
+Apply now

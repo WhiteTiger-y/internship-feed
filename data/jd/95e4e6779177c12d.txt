@@ -1,0 +1,26 @@
+We are looking for a Machine Learning Engineering Intern in NYC with a background in generative modeling to help build the next generation of AI models. This
+internship is ideal for someone who enjoys turning early technical ideas into robust AI systems and wants hands-on experience helping build a core technology
+platform from the ground up. You will work directly with the founding team across machine learning, sensing, data, software, and product. This is a full-time,
+on-site internship in New York City.
+The Focus
+Develop generative models that improve how machine learning models are trained and evaluated on real-world sensing data.
+What You Will Do
+- Design, build, and validate simulation and generative modeling pipelines for real-world time-series data.
+- Rapidly iterate on approaches based on experimental results and product needs.
+- Collaborate with hardware, sensing, and ML teams to integrate your work into training and evaluation pipelines.
+What We Are Looking For
+- Strong foundation in deep learning, including experience with generative models and/or PINNs.
+- Comfort working with real-world time-series data, noisy signals, ambiguous requirements, and fast iteration cycles.
+- Experience with PyTorch or similar machine learning frameworks.
+- Experience with multiphysics simulation (i.e., COMSOL) is strongly preferred.
+- Ability to move quickly from prototype to working systems while maintaining engineering rigor.
+- Ownership mindset, practical problem-solving ability, and comfort working in an early-stage startup.
+- Currently pursuing an MS or PhD in Computer Science, Electrical Engineering, Applied Physics, Machine Learning, or a related field. Exceptional undergraduate
+candidates with strong relevant experience will also be considered.
+- Publications in venues such as NeurIPS, ICML, ICLR, or related venues are a plus, but not required.
+The Perks
+Direct collaboration with the founding team, competitive hourly pay, top-tier VC backing, and a rare opportunity to help build a "Zero to One" technology
+company at the intersection of AI, wearables, and real-world human behavior understanding. Exceptional interns may be considered for full-time roles.
+Hourly rate: $45–$60/hour.
+Location: In-person, New York City
+Apply: Send your resume to career@behaviorai.ai or apply directly on LinkedIn.

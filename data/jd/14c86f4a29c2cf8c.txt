@@ -1,0 +1,47 @@
+Data Science Intern – Richmond, VA (Summer 2027)
+Job Description
+Company Overview:  CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online
+marketplaces. Included in the S&P 500 Index, CoStar Group is on a mission to digitize the world’s real estate, empowering all people to discover properties,
+insights and connections that improve their businesses and lives.  We have been living and breathing the world of real estate information and online
+marketplaces for over 35 years, giving us the perspective to create truly unique and valuable offerings to our customers. We’ve continually refined,
+transformed, and perfected our approach to our business, creating a language that has become standard in our industry, for our customers, and even our
+competitors. We continue that effort today and are always working to improve and drive innovation. This is how we deliver for our customers, our employees, and
+investors. By equipping the brightest minds with the best resources available, we provide an invaluable edge in real estate.  Learn more about CoStar.    Role
+Description: As a Data Science Intern at CoStar Group, you will support our Research organization by applying data science, statistical analysis, and analytical
+problem-solving techniques to large-scale commercial real estate datasets. This 10-week, project-based internship is designed for students who are comfortable
+working with data, interested in identifying patterns and trends, and eager to translate technical analysis into clear business insights. In this role, you will
+work with experienced analysts, researchers, and data professionals to explore, clean, organize, and interpret data from multiple sources. You may contribute to
+projects related to data quality, forecasting, exploratory analysis, automation, predictive modeling, AI-enabled analysis, and insight generation. This
+internship is ideal for a student who enjoys solving complex problems, working with large datasets, and using analytical methods to answer business or research
+questions. You will gain hands-on experience using tools such as Python and SQL while contributing to meaningful projects that support real business needs and
+help improve how data is used across the organization. This position is located in our Richmond, VA office and requires 5 days a week in office.  Key
+Responsibilities: Data Preparation and Analysis: Assist in collecting, cleaning, organizing, and analyzing large datasets related to commercial real estate
+markets. Exploratory Research: Use Python, SQL, and analytical methods to identify trends, patterns, anomalies, and relationships in data. Statistical Modeling
+and AI Support: Support projects involving statistical analysis, forecasting, predictive modeling, machine learning, or AI-enabled analysis to generate business
+or research insights. Data Quality and Process Improvement: Help identify data gaps, inconsistencies, or opportunities to improve data accuracy, repeatability,
+and efficiency. Visualization and Reporting: Create reports, dashboards, summaries, or presentations that communicate findings clearly to technical and non-
+technical audiences. Team Collaboration: Collaborate with Research, Product, Analytics, and other internal teams to understand business questions and contribute
+to data-driven solutions. Basic Qualifications: Currently pursuing a bachelor’s degree from an accredited, not-for-profit university or college in Data Science,
+Statistics, Computer Science, Mathematics, Computational Modeling, Data Analytics, Economics, or a comparable major.  Must be planning to return to school
+following the completion of the Summer 2027 internship.  Must have an expected graduation date of December 2027 - June 2028.  Minimum 3.0 cumulative GPA. 
+Available to participate in the full 10-week summer internship program and commit to a 40-hour work week throughout the internship.  Academic, internship,
+project, or work experience using Python and SQL. Experience collecting, cleaning, organizing, and analyzing datasets. Coursework, project, or prior experience
+in statistics, data science, machine learning, artificial intelligence, forecasting, or related analytical methods. Coursework or project experience in model
+evaluation. Experience creating data visualizations, reports, dashboards, or presentations to communicate findings. Preferred Qualifications: Experience with
+Python libraries such as pandas, NumPy, scikit-learn, PyTorch, matplotlib, seaborn, or similar. Experience or interest in applying large language models (e.g.
+via APIs, prompt design, or simple retrieval/extraction workflows) to analytical or data quality problems. Exposure to a major cloud platform (AWS, Azure, or
+GCP) or to tools like Jupyter, Git, and Databricks. Experience with Power BI, Tableau or similar data visualization tools. Experience working with large, messy,
+or unstructured datasets. Interest or experience in commercial real estate, economics, finance, urban planning, market research, or related fields. What’s in it
+for you?     When you join CoStar Group, you’ll experience a collaborative and innovative culture working alongside the best and brightest to empower our people
+and customers to succeed.       The final salary or hourly rate offered for this role will fall within the range set forth below based on a  variety of factors,
+including but not limited to, geographic location, skills, and competencies.  Base Compensation: $30 per hour We welcome all qualified candidates who are
+currently eligible to work full-time in the United States to apply. However, please note that CoStar Group is not able to provide visa sponsorship for this
+position.
+CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing Founded in 1987,
+CoStar Group, Inc. (Nasdaq:CSGP) is the leading provider of commercial real estate information, analytics and online marketplaces. CoStar conducts expansive,
+ongoing research to produce and maintain the largest and most comprehensive database of commercial real estate information. CoStar data powers the $17 trillion
+world of real estate – delivering the sale, lease, property, tenant, contact, reporting and industry information that makes connections happen. We help our
+clients make smart investments and decisions. Eighty-three percent of the nation’s commercial real estate transactions involve a CoStar subscriber, and the top
+95% of the leading 1,000 brokerage firms use CoStar to inform their decisions. We also help create lasting experiences through our family of marketplaces. In
+addition to CoStar, CoStar Group brands and marketplaces include LoopNet, Apartments.com, BizBuySell, and Lands of America – collectively attracting more than
+25 million monthly unique visitors. The Apartments.com Network is the nation’s #1 most visited apartment listing network, with 45 million monthly

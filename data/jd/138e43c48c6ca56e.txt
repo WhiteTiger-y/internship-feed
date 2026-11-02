@@ -1,0 +1,23 @@
+At Citadel, our mission is to be the most successful investment team in the world. Quantitative Researchers play a key role in this mission by developing next-
+generation models and trading approaches for a range of investment strategies. You’ll get to challenge the impossible in quantitative research by applying
+sophisticated and complex statistical techniques to financial markets, some of the most complex data sets in the world.
+As an intern, you’ll dive into research through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll
+get the opportunity to network and socialize with peers throughout the internship.
+Our signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your
+timing preference in the application.
+Your Objectives
+- Conceptualize valuation strategies, develop and continuously improve upon mathematical models, and help translate algorithms into code
+- Back test and implement trading models and signals in a live trading environment
+- Use unconventional data sources to drive innovation
+- Conduct research and statistical analysis to build and refine monetization systems for trading signals
+Your Skills & Talents
+- PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field
+- Strong knowledge of probability and statistics (e.g., machine learning, time-series analysis, pattern recognition, NLP)
+- Prior experience working in a data driven research environment
+- Experience with translating mathematical models and algorithms into code (Python, R or C++)
+- Independent research experience
+- Ability to manage multiple tasks and thrive in a fast-paced team environment
+- Excellent analytical skills, with strong attention to detail
+- Strong written and verbal communication skills
+Opportunities available in New York, Miami, Greenwich, and Houston.
+In accordance with applicable law, the base salary range for this role is $4,500 to $5,800 per week.

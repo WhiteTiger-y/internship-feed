@@ -1,0 +1,51 @@
+AI INTERN, TECHNOLOGY
+JOB DESCRIPTION
+Company Background
+Founded in 1993, DivcoWest is a multi-disciplinary real estate investment firm headquartered in San Francisco, with offices in Los Angeles, Menlo Park, Boston,
+Washington DC, Austin, and New York City. Known for our long-standing relationships and track record of success in innovation markets, DivcoWest combines
+entrepreneurial spirit with an institutional approach. DivcoWest aims to create environments that inspire ingenuity, promote growth, and enhance the health,
+happiness, and well-being of all people. A disciplined code of ethics is at the core of all that we do. We believe that the collective energy of a diverse team
+is what drives our creative ideas and solutions.
+Summary
+The AI Intern will join the Technology team to design and implement intelligent solutions that make work smoother, smarter, and more efficient across the
+organization. Working closely with teams throughout the firm, this role will explore how generative AI and automation can streamline operations, surface
+insights, and improve efficiency across multiple departments.
+This position is based in our San Francisco headquarters and requires 4+ days in office. The internship is full-time for approximately 12 weeks, with the option
+for extension. Exact schedule can be adjusted to accommodate the right candidate.
+Responsibilities
+Process Improvement
+- Conduct workflow audits across departments to identify and document processes most ready for automation.
+- Prototype automated processes and workflows to reduce manual effort and increase consistency.
+- Partner with the Technology team and department stakeholders to integrate systems that support smoother cross-functional workflows.
+AI Solutions & Tool Development
+- Prototype an AI-assisted tool for a target department as a pilot project.
+- Create visual dashboards integrating operational data and company metrics to generate actionable leadership insights.
+- Contribute to the design of custom AI assistants for internal teams, supporting content structure, data organization, and prompt library development.
+- Research, identify, and propose outside AI tools to assist with internal efficiency; assist with training and implementation.
+Knowledge & Data Management
+- Build and maintain AI learning resources and trainings for teams across the firm to support adoption of key AI tools.
+- Own data management and documentation for assigned projects, including tracking milestones, decisions, and outcomes.
+- Document project discussions and action items to promote accountability across AI-related workstreams.
+Qualifications
+- Current undergraduate or graduate student pursuing a degree in Computer Science, Information Systems, Data Analytics, Business, or a related field.
+- Demonstrated curiosity about AI, automation, and digital transformation in the workplace.
+- Familiarity with tools such as ChatGPT, Claude, Microsoft CoPilot, Zapier, Notion AI, or similar platforms.
+- Strong analytical and communication skills with the ability to translate technical ideas into practical business solutions.
+- Experience or coursework in Python, workflow automation, or dashboard design a plus.
+- Highly organized, detail-oriented, and proactive in managing multiple projects.
+- Thrives in a collaborative and fast-paced environment.
+We provide reasonable accommodation to support individuals of all abilities in performing essential functions.
+Compensation
+- $20 - $30/ hour depending on experience
+- Weekly lunch stipend
+Divco West Services, LLC (“Company”), an equal opportunity employer, is committed to equal opportunity for all employees and applicants. The Company recruits,
+hires, trains, promotes, pays, and administers all personnel actions without regard to race, color, religion, sex (including pregnancy, childbirth, and medical
+conditions related to pregnancy, childbirth, or breastfeeding), sex stereotyping (including assumptions about a person’s appearance or behavior, gender roles,
+gender expression, or gender identity), gender, gender identity, gender expression, national origin, age, mental or physical disability, ancestry, medical
+condition, marital status, military or veteran status, citizenship status, sexual orientation, genetic information, or any other status protected by applicable
+law. We interpret these protected statuses broadly to include both the actual status and also any perceptions and assumptions made regarding these statuses.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Please review our
+company Privacy Policy regarding the use of any personal information you provide us at: https://www.divcowest.com/privacy-policy/ This policy applies to all
+areas of employment, including recruitment, testing, screening, hiring, selection for training, upgrading, transfer, demotion, layoff, discipline, termination,
+compensation, benefits, and all other privileges, terms, and conditions of employment. This policy and the law prohibit employment discrimination against any
+employee or applicant on the basis of any legally protected status outlined above.

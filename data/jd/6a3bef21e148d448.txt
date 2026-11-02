@@ -1,0 +1,70 @@
+Closes: December 6, 2026
+Job Description
+Avista is an energy company involved in the production, transmission, and distribution of energy as well as other energy-related businesses located in Spokane,
+Washington. Our service territory covers 30,000 square miles in eastern Washington, northern Idaho, and parts of southern and eastern Oregon.
+The Enterprise Technology group at Avista is seeking motivated, energetic, and inquisitive students with a career path in Computer Science, Computer
+Engineering, Management Information Systems, Information Systems, Cybersecurity, Data Science, Software Development, AI/Machine Learning, or other related
+fields to join the Enterprise Technology team for a paid summer internship program. The ideal candidate has a passion for customer service, is looking to
+develop their breadth of technical knowledge, and is excited about knowledge sharing and outreach. Opportunities available for various majors for students to
+enhance their field of study in the utility industry and gain valuable work experience critical to their future success in the job market.
+Avista Student Development Program - Internship Details
+About
+Our Student Development Program gives students the opportunity to work in and with several different departments within Avista. Students will be assigned a
+formal mentor, participate in learning sessions about various parts of Avista, and join tours to Avista facilities, including some of our hydroelectric dams.
+Our goal is to help students learn as much as possible about the utility industry. Our goal is to help students learn as much as possible about the utility
+industry. Multiple opportunities may be available in the following areas:
+- Central Systems Engineering: Work alongside Avista’s Systems Engineering teams to improve the reliability, security, and maintainability of the technology
+platforms that support the business. Interns may assist with server and infrastructure administration, communications and collaboration technologies, cloud
+services, automation, monitoring, documentation, and lifecycle improvements across enterprise systems.
+- Cybersecurity: Support Avista's cybersecurity team in safeguarding critical control systems, operational technology (OT), and enterprise IT infrastructure.
+Interns may gain exposure to industrial control systems (ICS), security event monitoring, vulnerability management, threat detection technologies, and
+cybersecurity operations. Opportunities may also include working with Identity and Access Management (IAM) platforms and processes that help ensure the right
+individuals have appropriate access to critical systems and information.
+- Data/Integrations: Support Avista's Data & Integrations team in developing, maintaining, and enhancing the data platforms and integration services that
+connect business applications across the organization. Interns may gain hands-on experience with data analytics, data quality, data bases, system integrations,
+APIs, data pipelines, reporting solutions, and cloud-based data technologies. Working alongside experienced professionals, interns will help support the secure
+and reliable flow of information between systems while gaining valuable insight into how data and integrations enable business operations, informed decision-
+making, and digital transformation initiatives.
+Requirements
+- Must be at least 18 years old.
+- Undergraduate or graduate student enrolled full-time for the 2027-2028 academic year at a college or university earning a degree in Computer Science, Computer
+Engineering, Information Systems/Management Information Systems (MIS), Cybersecurity, Data Science/Data Analytics, Software Development, AI/Machine Learning, or
+another related field.
+- Strong attention to detail, organization, and comfortable working with large amounts of data.
+- Effective written and verbal communication skills.
+- Ability to work collaboratively in a professional team environment.
+Other Combinations Of Education And Experience May Be Considered.
+This internship will require an on-site presence at our Spokane, Washington headquarters.
+Student Specialist Tech-1 (Freshman), Starting Salary: $19.51 per hour
+Student Specialist Tech-2 (Sophomore), Starting Salary: $21.46 per hour
+Student Specialist Tech-3 (Junior), Starting Salary: $23.60 per hour
+Student Specialist Tech-4 (Senior), Starting Salary: $25.96 per hour
+Student Specialist Tech (Graduate Student), Starting Salary: $32.13 per hour
+To Apply
+We encourage you to apply as many of our positions have multiple levels to account for an incoming employee’s various knowledge, skills, and experience.
+Complete an online application and attach your resume, cover letter, and unofficial transcript to your profile. In your cover letter, share what interests you
+about the utility industry and/or Avista. We encourage you to discuss the experiences, interest, goals, and personal qualities that make you a strong candidate
+for the Student Development Program.
+All documents must be attached to your application at the time of submitting your application for review. No documents can be attached after you click "Submit".
+Total Rewards
+At Avista, our employees are the foundation of our success. Their dedication drives the value we deliver to our customers and communities. That’s why we
+prioritize the physical, mental, and financial well-being of our team members and their families.
+We offer a comprehensive Total Rewards program designed to support every stage of life and career. Our offerings include:
+- Affordable healthcare options including medical, dental, and vision coverage
+- Retirement benefits with an enhanced 401(k) match
+- Incentive programs rewarding performance and contributions
+- Competitive paid time off including holidays, personal days, and vacation
+- Life and disability insurance for added peace of mind
+- Wellness resources supporting mental and physical health
+- Education and development support including tuition assistance
+- Community giving programs encouraging employee engagement and impact
+- Other optional benefits from Legal insurance, Pet insurance, and more (Eligibility subject to Bargaining Unit affiliation)
+To learn more, please visit our benefits website at https://avistabenefits.com/.
+We are committed to maintaining a competitive and equitable total rewards package that attracts and retains a diverse, skilled, and engaged workforce.
+In compliance with state laws, we provide the full salary range for each position, along with the typical hiring range based on qualifications, experience, and
+internal equity. The full salary range for this position is $19.51 to $32.13 per hour. Questions regarding compliance with this requirement can be directed to
+humanresources@avistacorp.com.
+Pre-employment Screening Requirements
+Employment is contingent upon the successful completion of a drug test, background check and motor vehicle records review.
+Avista’s Commitment to Equal Opportunity
+Avista is a safe, inclusive workplace for 

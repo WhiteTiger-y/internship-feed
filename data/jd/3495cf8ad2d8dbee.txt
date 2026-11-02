@@ -1,0 +1,17 @@
+Position Summary: The purpose of this job is to assist Data Scientists to explore external data resources and to extract discovered data through web scraping.
+Essential Duties And Responsibilities
+- Explore potential useful external data resources.
+- Extract external data through web scraping.
+- Participates in special projects and performs additional duties as required.
+Qualifications
+Education and Experience:
+- College student from an accredited institution preferably in Computer Science or Data Science.
+- Experience in web scraping preferred.
+Skills
+- Proficient in programming Python, R, or SQL.
+- Understand data structures.
+- Good verbal and written communication skills.
+The salary range for this role is $16/hr - $30/hr. The listed annual salary range posted for this position is subject to change and may vary depending on
+performance, education, experience, skills, geographic location, travel requirements, demonstrated proficiency in the competencies required for the role and
+business needs. Base pay is just one component of GNY’s total compensation package for employees. Other rewards include eligibility for an annual discretionary
+bonus based on performance.

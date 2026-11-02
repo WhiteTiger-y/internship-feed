@@ -1,0 +1,45 @@
+Summary of Responsibilities:
+The GTB Advisory Data & AI Analyst is a member of the Global Transaction Banking (“GTB”) Advisory team within BBVA’s Corporate & Investment Banking division in
+New York. GTB Advisory is a multidisciplinary team that supports the broader GTB organization across three core pillars: Working Capital Advisory,
+Sustainability, and Data & Artificial Intelligence.
+This Summer Intern position will primarily support the Data & AI pillar. The Summer will work with large and diverse datasets, develop dashboards and analytical
+tools, develop forecasting and predictive models, automate processes, and help design and implement AI-enabled solutions for GTB. The role requires strong
+technical and analytical capabilities, intellectual curiosity, proactivity, and the ability to translate data and technology into practical business insights
+and solutions.
+While primarily focused on Data & AI, the Summer Intern will contribute to broader, interdisciplinary GTB Advisory initiatives as needed, including Working
+Capital Advisory and Sustainability.
+Main responsibilities:
+- Support with analysis, organization, and interpretation of large and complex datasets from multiple internal and external sources
+- Assist with the development, maintenance, and enhancement of dashboards and reporting tools that provide actionable insights into GTB business activity,
+client behavior, product performance, revenues, opportunities, and other relevant performance indicators.
+- Develop forecasting and predictive models using historical and current data to identify trends, anticipate business outcomes, and support business planning
+and commercial decision-making.
+- Build and maintain analytical workflows, data pipelines, scripts, queries, and applications using SQL, Google Apps Script, Excel, business intelligence
+platforms (Data Studio, Tableau, etc.), and other relevant technologies. Python is a plus.
+- Develop AI-enabled solutions, leveraging generative AI, machine learning, natural language processing, and other emerging technologies to address business
+needs and improve existing processes.
+- Partner with GTB product teams and other stakeholders to understand business challenges and translate them into data, analytics, automation, and AI solutions.
+- Develop prototypes and proofs of concept, evaluate their effectiveness, and help translate successful concepts into practical tools and scalable solutions for
+GTB.
+Skills, knowledge, abilities/competencies:
+- Currently pursuing a bachelor’s degree in Data Science, Computer Science, Engineering, Statistics, Mathematics, Economics, Finance, Business Analytics, or
+another related field.
+- Strong analytical and quantitative skills, with the ability to work with complex datasets and identify meaningful insights.
+- Python and SQL knowledge is preferred.
+- Advanced proficiency in Excel.
+- Experience with Google Apps Script or comparable scripting and automation technologies is preferred; demonstrated ability to learn new development
+environments quickly is important.
+- Familiarity with generative AI and AI-enabled development or analytical tools, with an interest in applying them to real business problems.
+- Exposure to machine learning, natural language processing, APIs, cloud-based data environments, or software development is a plus.
+- Experience with financial datasets or knowledge of banking, corporate finance, treasury, or transaction banking is a plus
+- Time management skills and flexibility to operate across multiple functions
+- Proactive/self-starter: ability to perform functions in a timely and accurate manner
+- Ability to translate complex analytical or technical findings into clear, concise business communication.
+- Strong attention to detail, particularly when working with data, code, financial information, and client or management materials.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, disability, or status as a protected veteran.
+With respect to this position in our New York Office, the expected hourly rate is $35/hour. It is not typical for offers to be made at or near the top of the
+range. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, certifications
+obtained. Market and organizational factors are also considered. In addition to salary and a generous employee benefits package, successful candidates are
+eligible to receive a discretionary bonus.
+*Employment eligibility to work with BBVA in the U.S. is required as the company will not pursue visa sponsorship for these positions.

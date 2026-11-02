@@ -1,0 +1,78 @@
+Join us at Entrust
+At Entrust, we’re shaping the future of identity centric security solutions. From our comprehensive portfolio of solutions to our flexible, global workplace, we
+empower careers, foster collaboration, and build solutions that help keep the world moving safely.
+Entrust's values are a cornerstone of who we are, our future business growth and how our people grow through it. We model our values by demonstrating that
+Customer Trust Is Earned, moving with purpose because Speed Is Intentional, taking accountability because We Own the Outcome, and building a collaborative
+culture where One Entrust Wins Together.
+Get to Know Us
+Headquartered in Minnesota, Entrust is an industry leader in identity-centric security solutions, serving over 150 countries with cutting-edge, scalable
+technologies. But our secret weapon? Our people. It’s the curiosity, dedication, and innovation that drive our success and help us anticipate the future.
+Job Description
+Position Overview:
+Are you a tech enthusiast who thrives on challenge and loves pushing the boundaries of what’s possible with AI? Do you want to be part of a team where
+innovation, learning, and fun go hand in hand? We’re searching for an energetic AI Developer Intern ready to unleash creativity on real, impactful projects at
+the frontier of artificial intelligence. Here, you’ll get hands-on with the latest technologies, collaborate with brilliant minds, and work on projects that are
+as rewarding as they are cutting edge. If you’re eager to code, build, and solve problems while having a blast, this is the place for you!
+What You'll Do
+- Collaborate with business stakeholders to identify needs and uncover opportunities for AI-driven solutions.
+- Develop, deploy, and optimize AI applications by writing effective scripts and code.
+- Create backend scripts utilizing GraphQL to support data-driven functionalities.
+- Write and maintain code to accelerate development and streamline testing processes.
+- Design AI workflows incorporating both single-agent and multi-agent architectures.
+- Document your development work thoroughly to ensure clarity, transparency, and continuity for the team.
+- Develop automated testing frameworks based on agent vision modules to improve reliability and efficiency.
+- Design evaluation processes to maintain consistency and ensure production-quality standards are met.
+- Work closely with our Solution and UX Architect to deliver intelligent, user-friendly experiences.
+What We're Looking For
+- Detail-oriented, deadline-driven, and self-directed individuals.
+- Good understanding of key AI frameworks and ability to adapt them to business problems.
+- Strong written and verbal communication skills.
+- A team player who excels in a collaborative environment.
+Basic Qualifications
+- Junior or Senior standing by December 2025.
+- GPA of 3.0 or higher.
+- Pursuing a BS or MS degree in Computer Engineering, Data Science or related degrees.
+- Experience with development frameworks like Vue.js, React and Node.js.
+- Familiarity with the workings of LLMs, prompt engineering, context engineering and fine tuning.
+Preferred Qualifications
+- Has completed at least one front-end project using Vue.js or React and is able to share a demonstration.
+- Has completed at least one smart application project and is able to share a demonstration.
+- Familiarity with cloud DevOps or/and MLOps or/and AIOps.
+Where you will be: This role is hybrid, requiring three days a week in-office at our HQ in Shakopee, MN or Fully remote in Germany as specified in the job
+description. At Entrust, we have a distributed workforce.
+About Entrust
+Entrust keeps the world moving safely by enabling trusted experiences for identities, payments, and digital infrastructure. We offer an unmatched breadth of
+solutions that are critical to enabling trust for multi-cloud deployments, mobile identities, hybrid work, machine identity, electronic signatures, encryption,
+and more. With more than 2,800 colleagues, a network of global partners, and customers in over 150 countries, it’s no wonder the world’s most entrusted
+organizations trust us. For more information, visit www.entrust.com.
+For more information, visit www.entrust.com. Follow us on, LinkedIn, Facebook, Instagram, and YouTube
+Entrust Corporation is an EOE/AA/Veteran/People with Disabilities employer.
+Updated 12/22/2022
+Apply today!
+NO AGENCIES, NO RELOCATION
+#ENT123
+At Entrust, we don’t just offer jobs – we offer career journeys. Here is what you can expect when you join our team:
+- Career Growth: Whether you’re a budding developer or a seasoned expert, we’re invested in your professional journey. With learning-forward initiatives and
+exciting challenges, your growth is our priority.
+- Flexibility: Life is all about balance. Whether you’re remote, hybrid, or on-site, we offer flexible options that fit your lifestyle.
+- Collaboration: Here, your voice matters. Our teams thrive on sharing ideas, brainstorming solutions, and working together to build a better tomorrow.
+We believe in securing identities—but it doesn’t stop there. At Entrust, we’re passionate about valuing all identities. Our culture is built on diversity,
+inclusion, and respect. From unconscious bias training for our leaders to global affinity groups that connect colleagues across the globe, we’re creating a
+community where everyone is encouraged to be themselves.
+Ready to Make an Impact?
+If you’re excited by the prospect of innovating, growing your career, and collaborating in a dynamic environment, Entrust is the place for you. Join us in
+making a difference. Let’s build a more secure world—together.
+Apply today!
+For more information, visit www.entrust.com.  Follow us on, LinkedIn, Facebook, Instagram, and YouTube
+Compensation Range
+The pay range for this position is $$23 per hour - $$26 per hour per hour (in the primary posting location). Actual compensation will be determined based on
+geographic location, education, skills and experience. In addition to your pay, Entrust offers eligible colleagues and their dependents comprehensive health and
+well-being programs which include medical, vision, dental, a generous 401(k) matching contribution, life and disability insurance, mental health coaching,
+virtual fitness programs, paid personal time off plus 12 paid holidays, parental leave and education reimbursement. Please speak with the recruiter for more
+details. Note: Benefit and Compensation programs are subject to eligibility requirements and other terms of the applicable plan or program. Entrust has the
+right to end, suspend or amend any of its plans at any time in whole or in part.
+For US Roles, Or Where Applicable
+Entrust is an EEO/AA/Disabled/Veterans Employer
+For Canadian Roles, Or Where Applicable
+Entrust values diversity and inclusion and we are committed to building a diverse workforce with wide perspectives and innovative ideas. We welcome applications
+from qualified individuals of all backgrounds, and we strive to provide an acce

@@ -1,0 +1,19 @@
+At Citadel, our mission is to be the most successful investment team in the world. Machine Learning Researchers play a key role in this mission by developing
+next-generation models and trading approaches for a range of investment strategies. You’ll get to challenge the impossible in quantitative research by applying
+sophisticated and complex statistical techniques to financial markets, some of the most complex data sets in the world.
+Your Objectives
+- Use statistics, machine learning (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research
+- Implement algorithms in high-quality code
+- Work with large data sets, including unconventional and unstructured data sources
+- Back-test models and document research findings
+Your Skills & Talents
+- PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field
+- Advanced training and a strong research track record in machine learning, statistics, deep learning, natural language processing, artificial intelligence, or
+a closely related quantitative field
+- Prior experience working in a data driven detailed research environment
+- Hands on programming experience in Python or C++
+- A background demonstrating strong problem-solving skills
+- An ability to communicate advanced concepts in a concise and logical way
+- Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems
+Opportunities available in New York, Miami, Greenwich, and Houston.
+In accordance with applicable law, the base salary range for this role is $4,500 to $5,800 per week.

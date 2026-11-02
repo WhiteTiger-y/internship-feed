@@ -1,0 +1,43 @@
+The company
+We are a stealth stage startup building data infrastructure for a large, underserved financial vertical. We take public records that today are slow, fragmented,
+and hard to trust, and turn them into a fast, reliable decision product that professionals will pay for. The company is a Delaware C corp, funded by founder
+capital, raising a pre seed round in 2026. The full thesis, market, and product are shared under NDA once we are in conversation.
+The role
+You are the support of the first engineer. You, the CTO are the entire engineering team through pre seed. This is not a narrow role. You own systems end to end:
+data ingestion, the data model, the ML that powers the core product, and the product surface a customer touches.
+If you want a defined box, this is the wrong job. If you want to build a real system from the first commit and watch customers use it within months, this is the
+right one.
+What you will do
+- Build and operate the data pipelines that pull large volumes of public data into a clean, queryable store.
+- Design the data model that turns raw records into trustworthy entities other systems depend on.
+- Build the ML layer that links and scores records at scale, with measurable accuracy.
+- Ship the serving API and the first product surface customers use.
+- Set the engineering patterns the company builds on for years.
+Work runs in two week cycles. Something real ships every cycle.
+What we look for
+- 1-2 plus years building production systems, with real depth in data engineering, ML, or both.
+- You have built and run data pipelines other people depend on.
+- You can carry a problem from messy source data to a working product feature with no one architecting it for you.
+- You write code that holds up, and you make sound calls under ambiguity.
+- You want the responsibility of being early, not the comfort of a defined box.
+Strong pluses
+- Record linkage, entity resolution, or graph data experience.
+- Background in fintech, credit, real estate, or public records data.
+- You have been an early engineer or founder at a startup before.
+Stack
+- Data: Python, dlt for ingestion, SQLMesh for transforms, DuckDB and DuckLake on S3 as the lakehouse.
+- Orchestration: Dagster.
+- ML: Splink and Python for record linkage and scoring.
+- Backend: FastAPI, Postgres, Clerk for auth.
+- Frontend: Next.js and TypeScript.
+- Infra: Pulumi for infrastructure as code, AWS.
+- Tooling: Codex and Claude Code used heavily; a small team shipping like a large one is the point.
+You do not need every tool on this list. You do need to be the kind of engineer who picks one up fast.
+Compensation
+This is an unpaid intern role - stock based compensation is something that will be considered based on revenue hurdles following the public launch of the
+product.
+Logistics
+New York City, in person, full time. Reports to the CTO.
+How to apply
+Send a short note and one thing that shows how you think and build: a project, a system you are proud of, or code. We share the full company thesis under NDA
+early in the process.
