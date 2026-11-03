@@ -1,0 +1,49 @@
+At MITRE, your passion fuels work that impacts our nation and improves lives. This is where your skills strengthen national security, cybersecurity, health,
+transportation, and citizen services. We’re a nonprofit engineering, applied research, and advanced technology organization working in the public interest. With
+objectivity and integrity at our core, we lead federally funded research and development centers for U.S. government agencies – collaborating with industry and
+academia to deliver integrated, high-impact solutions that advance our nation’s health, security, and prosperity. Our people tackle the toughest technical
+challenges, supported by competitive benefits, meaningful career development, and a culture of innovation, collaboration, and technical excellence. Choose MITRE
+for a career with purpose — and help shape the future.
+The L576 Department combines artificial intelligence, cognitive science, and systems engineering to address complex, mission-critical decision challenges facing
+the U.S. government. The department focuses on researching, developing, and evaluating advanced AI-enabled decision support capabilities that provide timely,
+accurate, and actionable insights. Interns work alongside experienced researchers and technical professionals to explore innovative AI methods, develop and
+evaluate analytical models, and contribute to next-generation technologies that enhance human-AI teaming and support government sponsor decision-making.
+Job Responsibilities
+- Contribute to research, prototyping, and evaluation of AI-enabled decision support capabilities by reviewing literature, preparing data, implementing methods,
+analyzing results, and documenting findings.
+- Develop and test models and software components for data pipelines, analysis, and visualization; write clean, reproducible code and use version control.
+- Participate in human-AI teaming and user-centered evaluation activities; gather stakeholder feedback and translate it into improvements while following
+responsible AI practices.
+- Collaborate with mentors and cross-functional teams; present progress and produce clear briefings and technical reports.
+Basic Qualifications
+- Current full-time BS, MS, or PhD student in Computer Science, Data Science, Electrical/Computer Engineering, Applied Mathematics, Statistics, or a related AI-
+focused discipline, and returning to school after the internship.
+- Sustained excellence in academic performance; completed or in-progress coursework in machine learning.
+- Proficiency in a modern programming language (e.g., Python) and common data/ML libraries; ability to write well-documented, reproducible code and use Git.
+- Strong analytical and communication skills; able to design experiments, analyze results, and present findings to technical and non-technical audiences.
+Preferred Qualifications
+- Experience applying AI or data-driven methods to real-world problems (course projects, research, internships, or competitions).
+- Familiarity with multiple AI approaches (e.g., machine learning, language technologies, symbolic reasoning) and integrating them in practical systems.
+- Exposure to human-centered design, evaluation, or cognitive science concepts relevant to human-AI teaming.
+- Experience with software engineering best practices, data engineering, or MLOps; comfortable with collaborative workflows and cloud environments.
+- Demonstrated interest in public service and mission-focused work; contributions to research or open-source communities are a plus.
+This requisition requires the candidate to have a minimum of the following clearance(s):
+None
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+None
+Salary compensation range and midpoint:
+$46,500 - $58,000 - $69,500 Annual
+Work Location Type:
+Onsite
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability.
+Commitment to Non-Discrimination
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by
+applicable federal, state, local or international law.
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a
+reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org
+for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a
+reply.
+Benefits information may be found here.
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied
+and distributed with permission only.

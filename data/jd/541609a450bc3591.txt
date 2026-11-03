@@ -1,0 +1,67 @@
+For 75 years, Charles River employees have worked together to assist in the discovery, development and safe manufacture of new drug therapies. When you join our
+family, you will have a significant impact on the health and well-being of people across the globe. Whether your background is in life sciences, finance, IT,
+sales or another area, your skills will play an important role in the work we perform. In return, we’ll help you build a career that you can feel passionate
+about.
+Job Overview
+This internship provides the opportunity to work within an agile Research & Development environment focused on evaluating new applications and assessing the
+current performance of microbial identification technologies. The intern will collaborate closely with R&D team members and gain hands‑on experience with
+evolving initiatives in experimental design and execution, raw data analysis, model development, database structure development and interpreting results to
+understand their potential impact on product performance and operational efficiency.
+The pay range for this position is $24.00 - 30.00 per hour. Please note that salaries vary within the range based on factors including, but not limited to,
+experience, skills, education, certifications, and location
+Position is open to anyone, regardless of age, who meets the educational and experience requirements as posted.
+Must be eligible to work in the US without requiring a sponsor visa.
+Job Description
+Essential Duties and Responsibilities:
+- Assist in the planning, execution, and analysis of R&D and/or Operations experiments, including evaluating data to identify and monitor trends.
+- Contribute to a wide range of early‑stage and late‑stage R&D initiatives, gaining meaningful exposure to multiple scientific disciplines, experimental
+platforms, and research objectives as priorities evolve in a fast‑moving environment.
+- Maintain accurate, complete, and well organized documentation to ensure data integrity and compliance with internal quality standards.
+- Compile, organize, and present experimental data and results in a clear and concise manner.
+- Assist in the designing of Databases structure
+- Use Statistical Tools to analyze data cohorts
+- Develop and deploy data pipelines
+- Develop and run code
+Job Qualifications
+- Education: currently enrolled in an accredited college/university degree program pursuing a master’s degree or PhD in Data Sciences, Mathematics,
+Bioinformatics or related field.
+- Completion of bachelor’s degree with a GPA of 3.0 or above.
+- Exposure to scientific or research environments is preferred (undergraduate research experience is a plus).
+- Ability to work on multiple projects, strong attention to detail, and effective communication and listening skills in a teamwork environment.
+- Python coding required
+- Knowledge of Pytorch, Pandas, scikit-learn and other useful data science libraries is highly preferred.
+- This position seeks an intern for a minimum of a 12-week internship between May and August.
+Education
+Four-year degree required
+Advanced degree or certification required
+Physical Requirements
+About Microbial Solutions
+Our Microbial Solutions business group has a comprehensive portfolio of endotoxin testing, microbial detection and microbial identification products and
+services is unlike any other, and has been purposefully designed to meet the complex and ever-changing needs of the industry. We help clients to ensure product
+safety and quality with easy-to-use yet robust testing solutions that satisfy regulatory requirements, support critical decision making and improve operational
+efficiencies.
+About Charles River
+Charles River is an early-stage contract research organization (CRO). We have built upon our foundation of laboratory animal medicine and science to develop a
+diverse portfolio of discovery and safety assessment services, both Good Laboratory Practice (GLP) and non-GLP, to support clients from target identification
+through preclinical development. Charles River also provides a suite of products and services to support our clients’ clinical laboratory testing needs and
+manufacturing activities. Utilizing this broad portfolio of products and services enables our clients to create a more flexible drug development model, which
+reduces their costs, enhances their productivity and effectiveness to increase speed to market.
+With over 20,000 employees within 110 facilities in 20 countries around the globe, we are strategically positioned to coordinate worldwide resources and apply
+multidisciplinary perspectives in resolving our client’s unique challenges. Our client base includes global pharmaceutical companies, biotechnology companies,
+government agencies and hospitals and academic institutions around the world. And in 2019, revenue increased to $2.62 billion.
+At Charles River, we are passionate about our role in improving the quality of people’s lives. Our mission, our excellent science and our strong sense of
+purpose guide us in all that we do, and we approach each day with the knowledge that our work helps to improve the health and well-being of many across the
+globe. We have proudly supported the development of 80% of the drugs approved by the FDA in the last five years.
+We’re committed to providing benefits that elevate your quality of life. Based on your position these may include: bonus/incentives based on performance, 401K,
+paid time off, stock purchase program, Health and wellness coverage, employee and family wellbeing support programs, and work life balance flexibility.
+Equal Employment Opportunity
+Charles River Laboratories is an Equal Opportunity Employer - all qualified applicants will receive consideration for employment without regard to race, color,
+religion, sex, sexual orientation, gender identity, or national origin, veteran or disability status.
+It is unlawful in some states (including Massachusetts) to require or administer a lie detector test as a condition of employment or continued employment. An
+employer who violates this law shall be subject to criminal penalties and civil liability.
+If you are interested in applying to Charles River Laboratories and need special assistance or an accommodation due to a disability to complete any forms or to
+otherwise participate in the resume submission process, please contact a member of our Human Resources team by sending an e-mail message to
+crrecruitment_US@crl.com. This contact is for accommodation requests for individuals with disabilities only and cannot be used to inquire about the status of
+applications.
+For more information, please visit www.criver.com.
+236920

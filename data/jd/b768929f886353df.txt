@@ -9,8 +9,8 @@ potential to change a life.
 If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.
 Job Description
 Primary Function of Position
-The Global Access, Value and Economics (GAVE) organization at Intuitive is seeking a highly motivated, hard-working, and professional Data Science Intern to
-join our team for Summer 2027. The Data Science Intern will support GAVE’s mission of generating clinical evidence to drive the adoption of robotic-assisted
+The Global Access, Value and Economics (GAVE) organization at Intuitive is seeking a highly motivated, hard-working, and professional AI/ML Engineer Intern to
+join our team for Summer 2027. The AI/ML Engineer Intern will support GAVE’s mission of generating clinical evidence to drive the adoption of robotic-assisted
 surgery. They will work within the Global Access and Evidence Management Center of Excellence to develop a system to optimize evidence management and synthesis
 processes. They will design a tool to identify, deduplicate, validate, and ingest new publications related to Intuitive products. They will also work with the
 team to integrate existing large language model (LLM) pipelines into this solution. The intern will get hands-on experience with software development, data
@@ -72,4 +72,4 @@ Intuitive is committed to providing reasonable accommodations to qualified indiv
 any part of the application or interview process, please contact People Services at HRHelpNow@intusurg.com.
 We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical
 for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and
-experience for
+experience

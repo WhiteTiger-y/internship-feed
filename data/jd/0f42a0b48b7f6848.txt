@@ -1,0 +1,75 @@
+What Your Job Will Be Like
+We are seeking a Intern Year Round - R&D Undergrad
+On any given day, you may be called on to:
+- Investigate radiation effects in electronics and/or the interaction of radiation with materials.
+- Develop or use TCAD and Spice circuit simulations to better understand single event, total ionizing dose, displacement damage, or dose rate effects on
+electronics and materials.
+- Team with other specialists, to design experiments, analyze results, and to present new insights or observations.
+This position will offer flexible, challenging, interesting, and cutting-edge research opportunities while being mentored by Sandia National Laboratories
+scientists and engineers. These hands-on experiences will be supplemented with technical seminars which will expose you to the broad range of scientific
+disciplines represented at Sandia. You will also be provided the opportunity and encouraged to present your work and accomplishments to your peers and the
+Sandia scientific community.
+The selected applicant can be a remote worker located in any U.S. State or District of Columbia. Regular or periodic travel to your assigned work location may
+be required.
+Salary Range
+At Sandia, we value the important work done by our interns and its contribution to National Security. Because of this, our interns earn competitive pay rates.
+Our pay structure is based on earned credit hours, classification, and degree level. Your pay rate will be determined during the hire process and included in
+your offer package. You can view the Intern Pay Rate chart here .
+Qualifications We Require
+You bring the confidence and skills to be eligible for the job by meeting these minimum requirements:
+- Currently attending and enrolled full time in an accredited undergraduate program
+- Pursuing a science, engineering, or math major
+- Minimum cumulative GPA of 3.0/4.0
+- Ability to work up to 25 hours per week during the academic year, and up to 40 hours per week during the summer
+- Ability to secure and maintain a U.S. security clearance which requires U.S. citizenship
+Note: If you have not earned a HS diploma or equivalent, please apply to a high school intern position.
+Qualifications We Desire
+- Pursuing a bachelors of science in electrical engineering or physics
+- Interest in studying radiation effects in electronics and/or the interaction of radiation with materials
+- Experience working in team environments
+- Engineering fundamentals, engineering analysis and design, principles of radiation, and a strong engineering, math, and physics background
+- Experience using Silvaco TCAD tools
+- Excellent communication skills
+Posting Duration
+This posting will be open for application submissions for a minimum of three (3) calendar days, including the 'posting date'. Sandia reserves the right to
+extend the posting date at any time.
+About Our Team
+The Radiation Effects Research Department conducts research and development involving intense radiation environments. All radiation effects from nuclear
+detonations (x rays, gamma rays, neutrons, electromagnetic pulse, etc.), natural and enhanced space environments, and in situ radiation are included. Research
+is in the broad areas of radiation effects in electronics, radiation effects in materials, and research in accelerator technologies, with a primary emphasis in
+ensuring weapons survivability in severe radiation environments.
+A major role for the department is to provide design consultation and hostile radiation qualification assessment for Sandia's nuclear weapon systems, component
+design, satellite programs, and new technology groups. Research and development spans radiation effects in electronics and optoelectronics from individual
+devices to circuits to systems involving phenomena driven by transient radiation effects on electronics (TREE), total ionizing dose (TID), and single event
+effects (SEE). Active research in advanced materials includes response of materials and components to intense X-rays encompassing phenomena such as thermal,
+structural, shock, and impulse responses. We also develop advanced experimental diagnostics and accelerator technology for enhancing the characterization and
+production of radiation environments.
+About Sandia
+Sandia National Laboratories is the nation's premier science and engineering lab for national security and technology innovation, with teams of specialists
+focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+- Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+- Extraordinary co-workers
+- Some of the best tools, equipment, and research facilities in the world
+- Career advancement and enrichment opportunities
+- Flexible work arrangements for many positions include 9/80 (work 80 hours every two weeks, with every other Friday off) and 4/10 (work 4 ten-hour days each
+week) compressed workweeks, part-time work, and telecommuting (a mix of onsite work and working from home)
+- Generous vacation, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid
+work/life balance*
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov
+- These benefits vary by job classification.
+Security Clearance
+Sandia is required by DOE to conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement
+records, and employment/education verifications. Applicants for employment need to be able to obtain and maintain a DOE L-level security clearance, which
+requires U.S. citizenship. If you hold more than one citizenship (i.e., of the U.S. and another country), your ability to obtain a security clearance may be
+impacted.
+Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or
+matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity,
+serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by the DOE, resulting in the inability to perform
+the duties assigned and subsequent termination of employment.
+EEO
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, age, disability, or veteran status and any other protected class under state or federal law.
+NNSA Requirements For MedPEDs
+If you have a Medical Portable Electronic Device (MedPED), such as a pacemaker, defibrillator, drug-releasing pump, hearing aids, or diagnostic equipment and
+other equipment for measuring, monitoring, and recording body functions such as heartbeat and brain waves, if employed by Sandia National Laboratories you may
+be required to comply with N

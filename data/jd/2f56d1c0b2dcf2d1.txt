@@ -1,0 +1,62 @@
+Overview
+At PNNL, our core capabilities are divided among major departments that we refer to as Directorates within the Lab, focused on a specific area of scientific
+research or other function, with its own leadership team and dedicated budget.
+Our Science & Technology directorates include National Security, Earth and Biological Sciences, Physical and Computational Sciences, and Energy and Environment.
+In addition, we have an Environmental Molecular Sciences Laboratory, a Department of Energy, Office of Science user facility housed on the PNNL campus.
+The National Security Directorate (NSD) drives science-based, mission-focused solutions to take on complex, real-world threats to our nation and the world.
+The AI and Data Analytics Division, part of the National Security Directorate, combines profound domain expertise and creative integration of advanced hardware
+and software to deliver computational solutions that address complex data and analytic challenges. Working in multidisciplinary teams, we connect foundational
+research to engineering to operations, providing the tools to innovate quickly and field results faster. Our strengths are integrated across the data analytics
+lifecycle, from data acquisition and management to analysis and decision support.
+Responsibilities
+At PNNL, our core capabilities are divided among major departments that we refer to as Directorates within the Lab, focused on a specific area of scientific
+research or other function, with its own leadership team and dedicated budget.
+Our Science & Technology directorates include National Security, Earth and Biological Sciences, Physical and Computational Sciences, and Energy and Environment.
+In addition, we have an Environmental Molecular Sciences Laboratory, a Department of Energy, Office of Science user facility housed on the PNNL campus.
+The AI and Data Analytics (AIDA) Division, part of the National Security Directorate, combines profound domain expertise and creative integration of advanced
+hardware and software to deliver computational solutions that address complex data and analytic challenges. Working in multidisciplinary teams, we connect
+foundational research to engineering to operations, providing the tools to innovate quickly and field results faster. Our strengths are integrated across the
+data analytics lifecycle, from data acquisition and management to analysis and decision support.
+Read more about the AIDA division at https://www.pnnl.gov/ai-and-data-analytics
+Responsibilities:
+PNNL is seeking Undergraduate students for assignments within the National Security Internship Program (NSIP). The AI and Data Analytics Division is looking for
+individuals who have a passion for solving critical national challenges using advanced computational, statistical, and mathematical techniques. The intern will
+be given an opportunity to be presented with complex problems in national security, energy, and science; apply cutting-edge research to make our nation safer
+and stronger; develop complex computer code; develop and participate in cyber competitions; design new visualization; work with big data and optimize solutions
+in diverse domains.
+Participants will begin in one of two cohort sessions and must be available to start by and complete the full 10-week program. Cohort 1 runs from May 25 through
+July 30, and Cohort 2 runs from June 22 through August 27.
+Diverse Focus Areas: Your internship can be in one of six technical groups.
+Math, Stats, and Data Science: We employ powerful tools and techniques, such as mathematical modeling and computational statistics, graph and game theory,
+network science, and uncertainty quantification to solve complex problems in a variety of domains.
+Disciplines: Applied Mathematics, Machine Learning, Statistics, Operations Research.
+Applied AI Systems: We develop hardened and robust models to distill large, fast, distributed, and messy data into knowledge to support decision processes in
+operational environments on sponsor systems.
+Disciplines: Super Intelligence, Applied Machine Learning, Data Science, Deep Learning, Computer Vision,
+Geospatial Intelligence, and Natural Language Processing.
+Foundational Data Science: We conceptualize and develop fundamentally new algorithms and tools to address unresolved challenges in distilling large, fast,
+distributed, and messy data into knowledge to support sponsors’ decision processes.
+Disciplines: Super Intelligence, Applied Machine Learning, Data Science, Deep Learning, Computer Vision, Geospatial Intelligence, and Natural Language
+Processing.
+Software Engineering & Architectures: We develop high-quality, scalable, cloud-first solutions for tackling large data pipelines and analytics that are
+delivered to operational sponsor environments. We use industry best practices for professional software development using Agile development practices, code
+reviews, automated testing, and CI/CD pipelines.
+Disciplines: Cloud Engineering, Large-Scale Data Engineering, Scalable Machine Learning/Super Intelligence, DevSecOps, Automated Testing, Software Engineering.
+Human Centered Computing: We combine innovative interactive visualizations with advanced automated data analysis techniques to enable users to gain deeper
+insights from their data. Make complex data useful through skillful visual design, compelling human computer interaction, sound analytic methods, and solid
+engineering.
+Disciplines: Data Science, Human-Computer Interaction, User Experience, Software Engineering, Natural Language Processing, Graph Analytics and Data
+Visualization.
+Operational Readiness & Enablement: We develop high-quality, scalable, cloud-first solutions for tackling large data pipelines and analytics that are delivered
+to operational sponsor environments. We use industry best practices for professional software development using agile development practices, code reviews,
+automated testing, and CI/CD pipelines.
+Disciplines: cloud computing, DevSecOps, software testing, data and AI engineering, project management.
+This position is based in Richland, WA or Seattle, WA and requires an onsite presence Monday through Thursday, with Friday as required by business needs.
+- HOW TO APPLY****
+To Have a Complete Application Package, The (2) Listed Items Below Are Required And Must Be Uploaded Correctly Per The Steps Below For Consideration:
+Step 1: Upload Resume or CV in “Resume” section only (note: If applying to multiple positions, the most recent resume uploaded will be used for all positions an
+applicant applies to).
+Step 2: Upload a Cover Letter separately in “Additional Documents” section of the application titled “AIDA - Summer 2026 NSIP Cover Letter”.
+- Cover letter should include: Statement of interest, reference relevant college courses, and relevant experience that may include extracurricular activities
+that have prepared you for this career.
+Pacific Northwest National Laboratory (PNNL) will be participating in the SWE Conference. We welcome qualified individuals

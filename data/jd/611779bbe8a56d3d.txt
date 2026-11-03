@@ -1,0 +1,63 @@
+Introduction
+ASML US, LP brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, and
+more energy-efficient microchips. We design, develop, integrate, market, and service these advanced machines, which enable our customers—the world’s leading
+chipmakers—to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our
+headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Wilton, CT, Chandler, AZ, San
+Jose, CA and San Diego, CA.
+We are presenting you with a unique and exciting opportunity to join a dynamic and innovative source research team, focused on conceiving and demonstrating the
+technologies required for next generations of high-power extreme ultraviolet (EUV) light sources. Based on a laser produced plasma (LPP), our light source
+relies on a wide range of unique and challenging technologies, ranging from laser light amplification and high-power optical systems that generate the laser
+pulses needed for EUV generation to electro-optical signal detection and algorithm-based actuation for process control. You are invited to bring your passion,
+knowledge and expertise in areas of applied physics, plasmas, metrology, optics, controls, lasers, and experimental design to push the boundaries of these
+technologies forward.
+A key ingredient in the EUV generation process is a stable source of molten tin droplets. These droplets provide the fuel for the laser-produced plasma and
+serve as the heartbeat for synchronizing the EUV source. The challenge is to reliably produce nearly perfect droplets of molten tin at a rate of tens of
+thousands of times per second with speeds of dozens of meters per second and position stability within a fraction of a droplet diameter. If these dimensions
+were scaled up to the game of golf, this would be equivalent to continuously scoring hole-in-ones in a hole that’s 25 km away through swirling gas flows and a
+plasma that’s hotter than the surface of the sun. The successful candidate will be comfortable operating in this diverse mix of physics, engineering, and
+materials science in order to define the droplet generator architecture for the next generation EUV source. The successful candidate will also have a passion
+for innovation, be driven by curiosity, and have deep technical understanding, all essential to excel in a Research environment operating at the fuzzy front end
+of product development. A strong experimental mindset is needed to measure complex phenomena and decipher the relevant physics, enabling our team to predictably
+control tin droplet behavior.
+Your assignment
+- Identification of key scientific learning objectives and corresponding experimental design which will further the technological progress of the EUV generation
+process
+- Demonstration of system-wide performance targets to meet the future technology roadmap
+- Develop and execute system and subsystem performance tests, analyze test results and extract actionable knowledge from sub-module to full-system levels
+- Troubleshoot issues with tin delivery sub systems, ultra-high vacuum systems, and optical modules on our test benches in order to improve our understanding of
+the fundamentals of droplet generation
+- Document learning and communicate knowledge to engineering and product development teams to guide product improvement and release of new product nodes
+- Work independently and in teams to deliver on a stated objective, whether it be the pursuit of new knowledge, the demonstration of a new capability, or the
+characterization of existing performance
+- Performs other duties as assigned or required.
+Your profile
+- PhD [ongoing] or MS degree [ongoing] in Materials Science, Physics, Chemical Engineering, Mechanical Engineering, or equivalent field.
+- Coursework related to data analytics, acoustics, fluid flow, and high-strength materials is a plus.
+- Deep understanding of scientific methods that guides in designing and executing research experiments with limited oversight is highly desired.
+- Experience with designing a DOE, building experimental test setups, including setup layout, design, rapid prototyping, metrology selection, setup
+troubleshooting and respective upgrades is highly desired
+- Experience with microfluidics, liquid jet breakup and droplet coalescence in particular; piezoelectricity; and/or acoustics is highly desired;
+- Experience with high pressure applications such as water jet cutting, jet breakup, and nozzle design is a plus.
+- Experience in the field of ceramics, design and fabrication of ceramic components is a plus.
+- Experience with droplet formation, sprays, common-rail diesel, and/or injectors is a plus.
+- Experience with ultrasonic cleaning, chemical cleaning / etching is a plus
+- Experience with experimental data collection and analysis, as well as development of data analysis tools. Familiarity withMATLAB or Python and data
+acquisition systems such as NI LabVIEW is a plus.
+- The successful candidate will not only have excelled in their technical field, but will have demonstrated inter-personal and communications strengths
+- Ability to clearly and logically communicate ideas and knowledge to various audiences
+- Demonstrated ability to manage and lead a research project involving multiple stakeholders and constraints
+- Demonstrated ability to work effectively as a part of a team and lead investigation and research efforts
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+- While performing the duties of this job, the employee routinely is required to sit; walk; talk; hear; use hands to keyboard, touch, handle, and feel; stoop,
+kneel, crouch, twist, reach, and stretch.
+- The employee is occasionally required to move around the campus.
+- The employee may occasionally lift and/or move up to 20 pounds.
+- May require travel dependent on business needs.
+- Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.
+- Can work under deadlines.
+Inclusion and diversity
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit,
+hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual
+orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+Need to know more about applying for a job at ASML? Read our frequently asked questions.

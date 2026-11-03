@@ -1,0 +1,75 @@
+Job Description
+Our Research & Development Division Data, AI & Genome Sciences (D&GS) 2027 Future Talent Program
+The Future Talent Program within our Research & Development Division Data, AI & Genome Sciences (DAGS) Department is offering two computational co-op positions
+for a six-month term. These roles are designed to give students hands-on experience applying computational methods to real drug-discovery questions, develop
+their skills, and help both the student and the team evaluate longer-term fit. We are seeking highly motivated, talented students with strong computational and
+quantitative skills.
+Location: Cambridge MA, Boston MA, or South San Francisco CA (remote may be considered)
+Term: Full-time, six months
+The Roles
+- Computational Oncology
+Analyze and integrate large transcriptomic datasets to understand tumor biology and support target and biomarker discovery. Projects may include:
+- Analysis of bulk and single-cell RNA-seq data - quality control, cell-type annotation, and characterization of tumor and tumor-microenvironment cell states.
+- Relating molecular profiles to drug and therapy response using large-scale screening and sequencing datasets, to help prioritize and evaluate candidate
+targets.
+- Characterizing the transcriptional response to therapeutic perturbation (e.g. targeted agents, antibody-drug conjugates, immunotherapy) to inform mechanism of
+action.
+- Building clear, reproducible analyses and visualizations that communicate findings to project teams.
+- Computational Immunology
+Apply Computational Methods To Immune-profiling Datasets To Better Understand Disease Biology And The Immune Response, And To Support Target Evaluation.
+Projects May Include
+- Analysis of immune-focused sequencing data (e.g. single-cell and bulk RNA-seq) to characterize immune cell states and their changes across disease and
+treatment.
+- Analysis, implementation, and visualization of methods for studying interactions among disease-relevant biological networks.
+- Data mining of internal and external molecular databases to support therapeutic discovery, disease stratification, and biomarker identification.
+Required Education And Skills
+- Currently enrolled in at least a Bachelor's degree program in biological sciences, computational biology, bioinformatics, or a related quantitative field.
+Students in graduate programs (MS or PhD) are highly encouraged to apply.
+- Available to work full-time for six months.
+Preferred Skills And Experience
+- Excellent academic achievement and analytical ability.
+- Strong communication and interpersonal skills, and the ability to work well in a collaborative team.
+- Demonstrated interest or experience in any of - molecular biology, immunology, oncology, cancer biology, neuroscience, or bioinformatics.
+- Programming experience in R and/or Python.
+- Experience analyzing bulk or single-cell sequencing datasets (e.g. RNA-seq, scRNA-seq) and familiarity with standard statistical and visualization methods.
+- Comfort working with large datasets and cloud or high-performance computing environments is a plus.
+Please note that this position may be closed before the posted end date or may remain open longer, at the discretion of the company.
+Salary Range
+The salary range for this role is $39,908 - $111,111
+FTP2027
+RL2027
+Additional location(s) Compensation Information:
+Required Skills
+Bioinformatics, Biological Network Analysis, Biomarker Identification, Cellular Immunology, Clinical Research, Computational Biology, Computer Programming,
+Database Management, Data Science, Data Security, High Performance Computing (HPC), Immune Response, Immunology, Immunotherapy, Mechanism of Action, Molecular
+Biology, Oncology, Project Management, Python (Programming Language), RNA-Seq, Single-Cell Genomics, Software Proficiency, Transcriptomics, Tumor
+Microenvironment
+Preferred Skills
+Current Employees apply HERE
+Current Contingent Workers apply HERE
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for
+employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this
+position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral
+where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status
+Intern/Co-op (Fixed Term)
+Relocation:
+No relocation
+VISA Sponsorship
+No
+Travel Requirements
+No Travel Required
+Flexible Work Arrangements
+Hybrid
+Shift
+Not Indicated
+Valid Driving License
+No
+Hazardous Material(s)
+NA
+Job Posting End Date
+12/4/2026
+- A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day
+BEFORE the job posting end date.
+Requisition ID:R424008

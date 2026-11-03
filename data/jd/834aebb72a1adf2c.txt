@@ -1,0 +1,71 @@
+Please Note
+To provide the best candidate experience amidst our high application volumes, each candidate is limited to 10 applications across all open jobs within a 6-month
+period.
+Advancing the World’s Technology Together
+Our technology solutions power the tools you use every day--including smartphones, electric vehicles, hyperscale data centers, IoT devices, and so much more.
+Here, you’ll have an opportunity to be part of a global leader whose innovative designs are pushing the boundaries of what’s possible and powering the future.
+We believe innovation and growth are driven by an inclusive culture and a diverse workforce. We’re dedicated to empowering people to be their true selves.
+Together, we’re building a better tomorrow for our employees, customers, partners, and communities.
+What You’ll Do
+The SoC Architect team proposes multiple SoC level architecture candidates for emerging memory/storage solution and demonstrates that the proposed architecture
+is viable through hands-on RTL implementation.
+This role offers the opportunity to shape next-generation SoC and subsystem architectures while staying deeply hands-on in RTL design, FPGA integration, and
+validation. It is ideal for engineers who want to turn advanced memory and storage concepts into real hardware and drive them all the way to silicon.
+Location: Daily onsite presence at our San Jose, CA headquarters in alignment with our Flexible Work policy
+Reports to: Senior Director
+- Deploy and operate an LLM inference service (vLLM serving Llama-3.3-70B) on a 4 × NVIDIA H200 GPU server, working closely with your mentor and the storage
+architecture team.
+- Build an automated benchmark harness that replays long-context, multi-turn and agent-style request traces and records latency and throughput (TTFT, TPOT,
+goodput).
+- Configure KV cache offloading (LMCache, NVIDIA Dynamo/NIXL) to network-attached storage over NVMe-oF and RDMA, first on a BlueField-3 storage server and then
+on our network-attached SSD prototype.
+- Run daily experiment sweeps across request rates, context lengths and cache sizes, keeping every configuration and result reproducible in git.
+- Analyze results with Python to find bottlenecks across the GPU, network and SSD, and share findings in weekly team meetings.
+- Collaborate with FPGA, SoC and firmware engineers to debug the end-to-end data path and validate KV cache correctness.
+- Summarize the measured storage requirements (bandwidth, IOPS, latency) that shape the architecture of future SSD controllers, and present them to the team at
+the end of the internship.
+- Complete other responsibilities as assigned.
+What You Bring
+- Pursuing Bachelors, Masters, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field preferred.
+- Must have at least 1 academic quarter/semester remaining.
+- Hands-on experience running LLM inference with Python and PyTorch on NVIDIA GPUs under Linux, using a serving framework such as vLLM, SGLang or Hugging Face
+TGI.
+- Understanding of LLM serving internals: KV cache, prefix caching, batching and parallelism (tensor/pipeline), and latency metrics such as TTFT, TPOT and
+throughput.
+- Experience benchmarking and profiling system performance, and analyzing results with scripts (e.g., Python, pandas, plotting) to explain bottlenecks.
+- Familiarity with KV cache offloading (LMCache, NVIDIA Dynamo/NIXL), RDMA/RoCE or NVMe/NVMe-oF storage, and containers (Docker/Kubernetes) preferred.
+- You’re inclusive, adapting your style to the situation and diverse global norms of our people.
+- An avid learner, you approach challenges with curiosity and resilience, seeking data to help build understanding.
+- You’re collaborative, building relationships, humbly offering support and openly welcoming approaches.
+- Innovative and creative, you proactively explore new ideas and adapt quickly to change.
+What We Offer
+The pay range below is for all roles at this level across all US locations and functions. Pay within this range varies by work location and may also depend on
+job-related knowledge, skills, and experience.
+This is in addition to our diverse package of benefits centered around the wellbeing of our employees and their loved ones. In addition to the usual
+Medical/Dental/Vision, our inclusive rewards plan empowers our people to care for their whole selves. An investment in your future is an investment in ours.
+Relocation Support Live 50+ miles away from your new office? No worries! We'll provide a stipend to help support your move.
+Housing Stipend Signing a lease on a new place for your summer internship? We'll help you pay your way with a monthly stipend.
+Give Back With a charitable giving match and frequent opportunities to get involved, we take an active role in supporting the community.
+Prioritize Emotional Wellness With on-demand apps and paid therapy sessions, you’ll have support no matter where you are.
+Stay Fit Eating well and being active are important parts of a healthy life. Our onsite Café and gym, plus virtual classes, make it easier.
+Embrace Flexibility Benefits are best when you have the space to use them. That’s why we facilitate a flexible environment so you can find the right balance for
+you.
+Hourly Base Pay Rate
+$28—$68 USD
+Equal Opportunity Employment Policy
+Samsung Semiconductor takes pride in being an equal opportunity workplace dedicated to fostering an environment where all individuals feel valued and empowered
+to excel, regardless of race, religion, color, age, disability, sex, gender identity, sexual orientation, ancestry, genetic information, marital status,
+national origin, political affiliation, or veteran status.
+When selecting team members, we prioritize talent and qualities such as humility, kindness, and dedication. We extend comprehensive accommodations throughout
+our recruiting processes for candidates with disabilities, long-term conditions, neurodivergent individuals, or those requiring pregnancy-related support. All
+candidates scheduled for an interview will receive guidance on requesting accommodations.
+Our Commitment to Innovation and Fairness
+At Samsung Semiconductor, we use Artificial Intelligence (AI) tools in the recruitment process to enhance efficiency. However, AI is used as a support tool, not
+a final decision-maker. All hiring decisions are made by our human recruiting team and hiring managers to ensure every candidate is evaluated fairly and
+holistically.
+Recruiting Agency Policy
+We do not accept unsolicited resumes. Only authorized recruitment agencies that have a current and valid agreement with Samsung Semiconductor, Inc. are
+permitted to submit resumes for any job openings.
+Applicant AI Use Policy
+At Samsung Semiconductor, we support innovation and technology. However, to ensure a fair and authentic assessment, we ask that candidates rely on their own
+knowledge and skills throughout the process. AI tools may be used for basic preparation, grammar, and research, but should not be used to generate or as

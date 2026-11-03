@@ -1,0 +1,63 @@
+Job Description
+The Role:
+As a member of the Vehicle Safety, Engineering & Defense Research Lab, you will be working with the Biometrics & Sensing research group. You will be applying
+your expertise in autonomous vehicles, driving simulators, human factors, and data science for developing innovative approaches to immersive user studies for
+automated driving-enabled vehicles. As a intern in this group, you will implement your solutions in driving simulators and publish your research findings in
+peer-reviewed journals to extend the reach of General Motors’ development of next-generation technology. This will also include interfacing with universities,
+research institutes, and other advanced technology laboratories to build a network for amplifying your research.
+What You’ll Do:
+- Develop immersive user experience simulation solutions for automated driving-enabled vehicles and robotic systems
+- Create tools to aid in the development or deployment of human-vehicle interface solutions
+- Conduct user studies to enable evidence-based decisions about in-vehicle interfaces
+- Participate in government-funded research work
+- Document your research through internal and external publications
+- Facilitate technology transfer via active participation in cross-functional teams
+Required Qualifications:
+- Pursuit of a Advanced Degree (Masters or PhD) in one of the following areas: science, technology, engineering, or mathematics-related field
+- Must be a current student
+- Able to work fulltime, 40 hours per week during the summer months
+- Hands-on experience building or writing software for a real-time simulator to develop autonomous systems and HMIs
+- Research experience in at least one of the following areas: Autonomous Vehicle Technology, Connected Vehicles, Advanced Wireless Technology, Robotics, Zero
+Barrier Mobility/Accessibility, User Experience, Displays, HMI, Simulation, or other related areas
+- Strong theoretical, experimental or software programming skills
+Preferred Qualifications:
+- PhD in a related area
+- Hands-on experience building and using real-time simulators to develop autonomous systems and HMIs
+- Familiarity with ROS or ROS 2 robotics framework
+- Hands-on experience with CAN bus communication
+- Experience with data analysis or AI/Machine Learning for engineering applications
+- Hands-on experience running user studies in a driving simulator
+- Demonstration leadership in field of study, extra-curricular activities, or service organizations
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future.
+This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written
+submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc).
+The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident, asylee
+or refugee).
+Work Arrangement:
+Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI three times per week, at minimum [or other
+frequency dictated by the business].
+GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of
+relocation benefits, please apply using the permanent address you would move from.
+Start dates for this internship role are May 24th & June 14th of 2027.
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world
+better, safer and more equitable for all.
+Why Join Us
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every
+day, we want every employee to feel they belong to one General Motors team.
+Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career
+that rewards you personally by visiting Total Rewards resources.
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws.
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and
+capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-
+employment screening prior to beginning employment. To learn more, visit How we Hire.
+Accommodations
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job
+search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are
+requesting as well as the job title and requisition number of the position for which you are applying.

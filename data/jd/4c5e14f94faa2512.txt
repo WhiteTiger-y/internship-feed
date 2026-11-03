@@ -1,0 +1,49 @@
+Meta was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world
+communicate with one another. In the pursuit of personal superintelligence, Meta's AI systems are becoming more capable, and evaluating their safety is
+critical. Meta is seeking Research Interns to join our Safety Evals and Red Teaming team within the Products and Applied Research org. We are seeking
+individuals passionate in areas such as Agent Safety, Benchmarks and Evaluations, Synthetic Data Generation, Automated Red teaming, LLM-as-a-Judge, benchmark
+design, eval harnesses, prompt injection, agent environments.Our internships are 16 weeks long and we have various start dates throughout the year.What You
+Could Work On:Depending on your interests and the team’s priorities, a project could address questions such as:How reliably do LLM-based judges identify safety-
+policy violations across different tasks, prompts, and adversarial conditions? How should we measure their errors and consistency?How should we evaluate prompt-
+injection risks when an agent interacts with tools and untrusted information? Which environments and attack scenarios expose failures that simpler tests
+miss?Which automated red teaming methods uncover meaningful safety failures, and how well do those failures generalize beyond the prompts or environments used
+to find them?How can we use synthetic data and benchmark design to improve coverage while checking that scores reflect the behavior we intend to measure?
+Research Scientist Intern PhD, PAR Safety Evals and Red Teaming Responsibilities:
+- Formulate a focused research question about content safety, agent security, or the reliability of safety evaluations.
+- Design controlled experiments, evaluation datasets, or agent environments that test the question and account for relevant limitations.
+- Implement and run experiments, including evaluation harnesses, automated attacks, synthetic data generation, or LLM-based judging methods.
+- Collaborate with researchers and cross-functional partners to connect research findings with safety-policy requirements and product development.
+- Communicate research plans, progress, and results through clear documentation and presentations, and contribute to research publications applicable to Meta's
+products.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Computer Vision, Audio Processing, Artificial Intelligence, Generative AI,
+or relevant technical field
+- Research experience in safety, red-teaming, evals, machine learning, deep learning, computer vision, and/or natural language processing
+- Experience with Python, C++, C, Java or other related languages
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Experience in one or more areas relevant to the team: model evaluation, LLM safety or alignment, agent security, prompt injection, automated red teaming,
+synthetic data generation, LLM-based judging, or evaluation science
+- Experience designing ML experiments, analyzing complex datasets, and using quantitative approaches to investigate research questions
+- Substantial research contributions through first-author publications at leading workshops or conferences such as NeurIPS, ICLR, AAAI, RecSys, KDD, IJCAI,
+CVPR, ECCV, ACL, NAACL, EACL, ICASSP, or similar
+- Demonstrated software engineering experience through internships, employment, coding competitions, or contributions to widely used open-source projects
+- Experience collaborating with teams and communicating technical results to non-technical audiences
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

@@ -1,0 +1,25 @@
+Department 2064 - Computer Science & Engineering
+Position Information
+Employee's Effective Start Date 04/15/2026
+If this is a Temporary position, provide end date or enter N/A for any other position type. 08/15/2026
+Minimum Qualifications
+- Currently enrolled in an undergraduate or graduate program in Computer Science, Computer Engineering, Software Engineering, or a closely related field
+- Background in programming and software development
+- Familiarity with Linux-based systems and basic software engineering concepts
+- Ability to work independently under faculty supervision and document technical work
+Desired Qualifications
+- Coursework or hands-on experience in distributed systems, cloud computing, or data processing
+- Experience with Python and modern development frameworks
+- Exposure to machine learning, MLOps, or research-oriented software projects
+- Prior internship, academic research project, or relevant technical experience is a plus
+Position Purpose
+To support faculty-led research activities through a supervised, temporary research internship.
+Job Duties
+- Assist with research experiments and data collection
+- Implement and test software prototypes
+- Analyze experimental results and document findings
+- Support preparation of technical reports and research artifacts
+- Collaborate closely with the faculty supervisor on assigned research tasks
+Job Open Date 02/17/2026
+Job Close Date
+Open Until Filled Yes

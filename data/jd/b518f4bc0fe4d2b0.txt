@@ -1,0 +1,38 @@
+NVIDIA is looking for an AI Compiler & Kernel Intern to apply AI agents, machine learning, and performance engineering to compilers, GPU kernels, and developer
+tools. You will work with compiler, kernel, and AI engineers on a scoped project involving code, compiler and kernel feedback, performance experiments, and
+optimization. Depending on your background and interests, the work may focus on agentic workflows, learned models, compiler optimization, GPU kernel
+development, performance analysis, or AI-enabled developer tools. Candidates may enter from either a compiler or kernel background; experience in every area is
+not expected.
+What You’ll Be Doing:
+- Build AI-agent workflows that interact with code, compilers, GPU kernels, benchmarks, performance tools, and engineering systems.
+- Develop tools that help agents collect data, run experiments, analyze compiler, kernel, and performance feedback, identify optimization opportunities, and
+recommend next steps.
+- Explore data-driven approaches for compiler optimization, GPU kernel generation and tuning, performance prediction, decision support, and workflow automation.
+- Build reliable interfaces between AI agents and compiler, kernel, or developer-tool infrastructure.
+- Prototype improvements to compiler flows, code generation, GPU kernels, optimization tools, experimentation systems, or developer workflows.
+- Work with compiler, kernel, architecture, AI, and performance engineers to evaluate ideas on representative workloads.
+- Measure correctness, runtime performance, compile time, resource utilization, reliability, and other relevant outcomes.
+- Document the design, experiments, results, limitations, and next steps.
+What We Need to See:
+- Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a similar field .
+- Strong programming skills in Python, C, C++, or a similar language.
+- Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.
+- Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, GPU kernels,
+CUDA or accelerator programming, systems, performance engineering, optimization, or developer tools.
+- Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.
+- Experience working in one or more of AI, compiler, kernel, performance, or systems areas, with the ability to learn across technical boundaries.
+Ways to Stand Out from the Crowd:
+- Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.
+- Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.
+- Experience writing, analyzing, or optimizing GPU kernels using CUDA, Triton, or a similar accelerator programming model.
+- Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.
+Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 20 USD – 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until November 6, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

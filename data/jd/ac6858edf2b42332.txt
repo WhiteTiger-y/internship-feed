@@ -1,0 +1,40 @@
+Who We Are
+With its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates
+advanced robots in a high-density, end-to-end system – reinventing warehouse automation for increased efficiency, speed and flexibility.
+Timeframe{{:}} Summer (May-Aug 2027)
+At Symbotic, Early Career talent plays a meaningful role in helping us reimagine the future of supply chain automation. Through our Internship and Co-op
+programs, students have the opportunity to contribute to real projects, collaborate with experienced engineers and business leaders, and gain hands-on exposure
+to the technologies powering our end-to-end robotics and automation solutions. We are looking for curious, motivated students who are excited to solve complex
+problems, bring new perspectives to cross-functional teams, and see their work make an impact in a fast-moving, innovative environment.
+Along the way, Interns and Co-ops are supported through mentorship, professional development, networking opportunities, and a robust calendar of events designed
+to help them build community and grow their careers. Symbotic offers transportation and housing benefits for students who meet our relocation requirements.
+Continue reading below to learn more about this exciting opportunity!
+What We Need
+Symbotic is looking for an applied scientist intern with a passion for multi-agent planning to improve the performance and reliability of our systems as we
+rapidly scale our product and organization. The Robot Routing team plans highly efficient, collision-free paths between the storage structure and the
+inbound/outbound cells of our system for dozens of robots traversing the transfer deck. The right candidate is excited about concepts like deadlock resolution
+and time-space reservations. This is a hybrid position based at our headquarters in Wilmington, MA.
+What You’ll Do
+- Identify high-impact scenarios where AI Planning and machine learning can be applied to optimize the Symbotic robotics software.
+- Adapt state-of-the-art approaches or develop high-performance algorithms to solve real-world multi-robot problems.
+- Conduct simulations and experiments to validate the performance of the multi-robot algorithms.
+- Present results in verbal and written communications internally, and in top-tier academic venues.
+What You’ll Need
+- Pursuing PhD in Computer Science, Electrical Engineering, Mechanical Engineering, Robotics, or a related field.
+- Proficiency in one or more general-purpose programming languages{{:}} C++, Python, Java, or C#.
+- Strong research background in combinatorial optimization, Robotics planning, multi-robot systems, or machine learning.
+- Publications at high-impact conferences/journals (e.g., CoRL, ICLR, NeurIPS, ICML, ICLR, RSS, ICRA, IROS, RAL, AAAI, ICAPS, IJCAI, JAIR, etc.) on some of the
+aforementioned topics.
+About Symbotic
+Symbotic is an automation technology leader reimagining the supply chain with its end-to-end, AI-powered robotic and software platform. Symbotic reinvents the
+warehouse as a strategic asset for the world’s largest retail, wholesale, and food & beverage companies. Applying next-gen technology, high-density storage and
+machine learning to solve today's complex distribution challenges, Symbotic enables companies to move goods with unmatched speed, agility, accuracy and
+efficiency. As the backbone of commerce the Symbotic platform transforms the flow of goods and the economics of supply chain for its customers. For more
+information, visit www.symbotic.com.
+We are a community of innovators, collaborators and pioneers who embrace our differences, because we know unique perspectives make us stronger and smarter.
+Every perspective matters. We depend on the collective voices of our employees, customers and community to help guide us as we build a better place to work –
+for you and the world. That’s why we’re proud to be an equal opportunity employer.
+We do not discriminate based on race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status,
+disability, gender identity, gender expression, veteran status, or genetic information.
+The base range for this position in the posted location is $52.00 - $54.00 however, base pay offered may vary depending on job-related knowledge, skills, and
+experience. The compensation package includes medical, dental, vision, disability, 401K, PTO and/or other benefits.

@@ -1,0 +1,8 @@
+Contributes to projects on the future of AI for developers. Stays up to date with the research literature and product advances in AI for software engineering.
+Builds and manages large-scale ML experiments and models. Embodies our Culture and Values Currently enrolled in a Doctorate Degree program in a relevant field.
+Must be enrolled in a Doctorate Degree program in a relevant field for the role during the academic term immediately before the internship. Must have at least
+one additional quarter/semester of a Doctorate Degree program program in area relevant for the role remaining following the completion of the internship. 1+
+year(s) experience in Calculus, Probability and Statistics and/or Machine Learning. 1+ year(s) experience in one or more general purpose programming languages
+including: C/C++, Java, R or Python, and domain relevant libraries and frameworks (e.g., PyTorch). 1+ year(s) experience (classroom or work related) in one or
+more areas of computer science, such as Natural Language Understanding, Neural Networks, Computer Vision, Machine Learning, Deep Learning, Algorithmic
+Foundations of Optimization, Data Science, Privacy, etc.

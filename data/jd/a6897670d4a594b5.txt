@@ -1,0 +1,42 @@
+About Us
+Scripps Research is a nonprofit biomedical institute ranked as one of the most influential in the world for its impact on innovation. We celebrated our 100-year
+legacy in 2024. This significant milestone marks a century of seminal discoveries in immunology, infectious diseases (such as COVID-19, flu, HIV), neuroscience,
+heart disease, cancer, and more. Located in La Jolla, California, the institute houses six research departments, multiple Nobel laureates, a top-ranked graduate
+school and a leading postdoctoral training program. Scripps Research encompasses two elite and highly innovative institutes, the Calibr-Skaggs Institute for
+Innovative Medicines and Scripps Research Translational Institute, which merge foundational studies in biology, chemistry and computer science with
+translational science to produce pioneering drugs and advances in digital and precision medicine. Together, we cultivate new scientific leaders and expand the
+frontiers of knowledge to deliver medical breakthroughs impacting human health around the globe. If you have a passion for making a difference, this could be
+your opportunity to join our transformative team.
+POSITION TITLE: Intern-Research, Student (Non-Paid)
+Position Summary
+This internship provides hands-on experience in computational neuroscience and bioinformatics within a collaborative academic research laboratory at Scripps
+Research. The intern will support the analysis of single-nucleus RNA sequencing (snRNA-seq) and related genomic datasets to investigate the molecular mechanisms
+underlying alcohol and drug abuse; neuroHIV; and neurological and psychiatric disorders.
+The intern will receive training in data quality control, cell-type identification, differential gene expression, pathway analysis, and gene regulatory network
+analysis. Depending on the project, the intern may use algorithms such as ARACNe3 and NaRnEA to investigate regulatory networks and identify potential
+therapeutic targets. Through this experience, the intern will develop practical skills in programming, statistical analysis, scientific visualization, and the
+broader research processes.
+Previous undergraduate interns and research assistants in our laboratory have received rigorous training in scientific research, contributed to peer-reviewed
+publications, and subsequently been admitted to competitive PhD and MD programs at leading institutions, including UCLA, UC Davis, Stanford, and others. This
+internship provides an excellent opportunity for undergraduate students interested in neuroscience, bioinformatics, computer science, statistics, biomedical
+sciences, or related fields to gain meaningful research experience and prepare for future graduate or professional training. Some experience with R or Python is
+helpful; prior experience with these specialized algorithms is not required.
+Additional Information
+- Temporary: Up to 40 hours per week.
+- Requires School Credit – More information in the “Requirements” section
+Responsibilities And Duties
+- TBD
+Requirements
+- A non-paid intern must be currently enrolled in an academic program, and receiving course credit for their work at Scripps Research (proof required). The
+credit must be for a defined period of time and cannot be open-ended. Students are only allowed to intern while the course is in session.
+- Proof of school credit include a school letter or a screenshot of the student’s class schedule. Proof must include the student’s name, name of the course and
+the start date and end date of the course.
+- Unpaid Intern MOU required
+The above statements describe the level of work performed and expected in general terms. The statements are not intended to list all the responsibilities,
+duties and/or skills required of employees so classified, and the content herein is subject to change due to the business needs of Scripps Research, with or
+without notice. Furthermore, nothing in this job description shall be interpreted to be in conflict with or to eliminate or modify in any way the employment-at-
+will status of Scripps Research staff.
+EEO Statement
+The Scripps Research Institute is an Equal Opportunity Employer. We promote diversity of thought, culture and background in the fields of science. All qualified
+applicants are encouraged to apply and will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, disability, protected veteran status, or any other legally protected characteristic or status.

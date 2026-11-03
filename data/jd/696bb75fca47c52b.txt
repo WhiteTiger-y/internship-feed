@@ -1,0 +1,61 @@
+Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical
+companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we
+advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are
+leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver
+greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make
+a real impact on people’s health around the world. Together, we’re improving health and improving lives.
+Labcorp is seeking an Agentic AI Developer Co-op to join our Office of the Chief AI Officer (CAIO) Team located in Burlington, NC or Durham, NC with the
+flexibility of a Hybrid work schedule!
+Work Schedule
+Days/Hours: Monday through Friday / 40hrs per week
+Job Responsibilities
+- Contribute to the development of AI agents using agentic frameworks (LangChain, LangGraph, CrewAI, AutoGen, or custom orchestration layers) that automate
+complex, multi-step business workflows across the enterprise
+- Help implement tool-calling architectures, function-calling interfaces, and MCP (Model Context Protocol) integrations that allow agents to interact with
+enterprise APIs, databases, and external services in a controlled and auditable manner
+- Support the build-out of retrieval augmented generation (RAG) pipelines with vector databases (Pinecone, Weaviate, pgvector, OpenSearch) to ground agent
+responses in authoritative enterprise data and reduce hallucination in high-stakes contexts
+- Assist with AI red teaming exercises including adversarial prompt injection testing, jailbreak resistance evaluation, tool-use abuse scenarios, and multi-turn
+manipulation testing to help identify vulnerabilities before agents reach production
+- Help build and test runtime guardrails, input/output validators, content filters, and human-in-the-loop approval gates that enforce safe agent behavior within
+a multi-layer defense-in-depth architecture
+- Support benchmarking and evaluation of frontier foundation models (GPT-4, Claude, Llama, Gemini, Mistral, and emerging open-source models) for agentic use
+cases, measuring task completion accuracy, latency, cost, safety, and failure modes
+- Contribute to observability and tracing infrastructure for agent execution including structured logging, token-level attribution, decision audit trails, and
+cost tracking across multi-agent workflows
+- Prototype agentic solutions on cloud AI platforms (AWS Bedrock, SageMaker, AWS AI DLC, Azure AI) using containerized deployments (Docker, Kubernetes),
+serverless architectures, and CI/CD pipelines
+- Support evaluation of AI startups and emerging agentic technology partners, helping with technical due diligence on architectures, safety postures, and
+enterprise integration feasibility
+- Contribute to AI governance practices including model onboarding documentation, agent risk assessments, responsible AI compliance, and alignment with
+regulatory requirements in healthcare and life sciences
+Minimum Qualifications
+- Current enrollment in a Bachelor's or Graduate degree program in Computer Science, Software Engineering, Data Science, Cybersecurity or Information Systems
+Preferred Qualifications
+- 1-month plus familiarity with Python for software development, automation, or machine learning
+- 1-month plus familiarity with cloud platforms (AWS, Azure) and services like Bedrock, SageMaker, or AWS AI DLC
+- 1-month plus familiarity with containerization (Docker), version control (Git), and collaborative software development practices
+- 1-month plus coursework or projects in distributed systems, cybersecurity, software engineering, multi-agent systems, or reinforcement learning
+Additional Job Standards
+- Interest in large language models, prompt engineering, or transformer architectures (experience with OpenAI API, Anthropic API, Hugging Face, or LangChain)
+- Interest in agentic AI concepts including tool use, function calling, multi-step planning, chain-of-thought reasoning, or autonomous workflow execution
+- Interest in AI safety, AI security, adversarial testing, or responsible AI (familiarity with OWASP Top 10 for LLMs or prompt injection concepts)
+- Strong communication skills; both written and verbal
+- Show initiative and the ability to work independently under general supervision
+- Eagerness to learn how agentic AI is built, deployed, and governed inside a regulated enterprise where safety and reliability are non-negotiable
+About The Team
+Labcorp is becoming an AI-native life sciences company. The Office of the Chief AI Officer (CAIO) leads this transformation across the entire enterprise,
+improving the customer experience, enhancing productivity, and transforming how work gets done across the organization. Building AI agents safely, responsibly,
+and at enterprise scale is one of the most important technical challenges in the company. If you want to be part of a team that is figuring out how to build and
+deploy agentic AI in a regulated, high-stakes healthcare environment where safety and trust are not optional, this is the role.
+This co-op role sits inside the Office of the CAIO and puts you at the center of how Labcorp is building, testing, and deploying agentic AI systems across the
+enterprise. You will work alongside senior engineers and data scientists on real agent development, contributing to projects that use frameworks like LangChain,
+LangGraph, CrewAI, and AutoGen, building on cloud platforms like AWS Bedrock, SageMaker, and AWS AI Deep Learning Containers (AI DLC), and working with frontier
+foundation models from OpenAI, Anthropic, Meta, and Mistral.
+You will also get hands-on exposure to one of the hardest problems in enterprise AI: making agents safe. That means contributing to red teaming exercises,
+helping build guardrails and human-in-the-loop controls, learning how defense-in-depth architectures work, and understanding how Labcorp evaluates AI startups
+and emerging technology partners to bring the best capabilities into the enterprise safely.
+This is not a research exercise. You will contribute to agents that run in production, and you will help make sure they do not break things when they get there.
+Agentic AI is the most important shift in enterprise software since the cloud. The companies that figure out how to deploy autonomous AI systems safely, at
+scale, inside regulated industries will define the next decade. This co-op puts you inside that work at a company where it actually matters: a Fortune 500 life
+sciences company that touches nearly half the U.S. population every year. You will not be building demos. You will be contributing to
