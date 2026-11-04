@@ -1,0 +1,37 @@
+Itron is innovating new ways for utilities and cities to manage energy and water. We create a more resourceful world to protect essential resources for today
+and tomorrow. Join us. This Intern - Data Analytics and Automation, Finance position provides students with the opportunity to gain hands-on experience
+supporting Finance and Accounting modernization, process automation, advanced analytics, and AI-enabled solutions within a global multinational enterprise. The
+ideal candidate will have an interest in applying data and technology to real-world business challenges and will have experience through coursework, projects,
+or prior work with data analysis, statistics, programming, or related technologies. Duration: 40 hours per week during summer 2027. The target start is
+May/June, and the internship concludes August/September, depending on the student’s academic schedule. Job Duties & Responsibilities: Extract, ingest, and
+analyze data from enterprise systems such as Oracle EBS, Oracle EPM, Salesforce, and other business data sources. Support data transformation and normalization
+for use in analytics platforms, reporting, and business applications. Develop data models, analyses, and visualizations to support Finance and Accounting
+business needs. Build and enhance data visualizations based on business requirements using Microsoft Power BI or comparable visualization tools. Identify
+opportunities to automate repeatable Finance and Accounting processes, including potential applications of AI-enabled tools and agents. Support predictive
+analytics and machine learning initiatives related to revenue, expense, and business forecasting. Collaborate with data scientists, analytics professionals,
+software engineers, and Finance and Accounting stakeholders to develop data-driven solutions. Contribute to projects focused on improving sales opportunity and
+pipeline forecasting to support long-term business planning. Deliver an internship summary presentation highlighting project outcomes, insights, and
+recommendations. Required Skills & Experience: Education: enrolled in an accredited and related degree program such as Computer Science, Data Analytics, Data
+Science, Information Systems, Management Information Systems, Accounting, Finance, or a related field. Experience with statistical analysis through Exposure to
+machine learning, predictive modeling, or related analytical concepts. Strong analytical and problem-solving skills. Professional workplace communication
+skills. Preferred Skills & Experience: Experience using Python or R for data analysis, coursework, projects, or other applications. Familiarity with SQL.
+Experience or exposure to large-scale data and analytics platforms such as Microsoft Fabric, Databricks, or AWS. Experience with data visualization tools such
+as Microsoft Power BI, Tableau, or similar platforms. Familiarity with machine learning models used for forecasting or predictive analytics. Prior related
+internship, academic project, capstone, research, or work experience. Travel: 0 - 10% Physical Demands: This is a typical office job, with no special physical
+requirements or unusual work environment. This position will be tied to our Liberty Lake, WA location with hybrid work flexibility of 2 days on-site per week.
+Liberty Lake, WA: $15.87 - $44.23 per hour #LI-JH1 Itron is committed to building an inclusive and diverse workforce and providing an authentic workplace
+experience for all employees. If you are excited about this role but your past experiences don't perfectly align with every requirement, we encourage you to
+apply anyway. In the end, you may be just who we are looking for! The successful candidate's starting wage will be determined based on permissible, non-
+discriminatory factors such as skills and experience. Itron is proud to be an Equal Opportunity Employer. If you require an accommodation to apply, please
+contact a recruiting representative at 1-800-635-5461 or email Accessibility@itron.com. Itron is transforming how the world manages energy, water and city
+services. Our trusted intelligent infrastructure solutions help utilities and cities improve efficiency, build resilience and deliver safe, reliable and
+affordable service. With edge intelligence, we connect people, data insights and devices so communities can better manage the essential resources they rely on
+to live. Join us as we create a more resourceful world: www.itron.com Our broad solution portfolio allows our customers to better manage energy and water for a
+sustainable future. Our innovative, next-generation utility and smart-city solutions help build resilient communities around the world. You can build your
+career here and do work that truly matters. Learn more about Itron here. Not ready to apply? Introduce yourself to our team so we can stay in touch. 5000+
+global employees Products and solutions deployed in 100+ countries Headquarters: Liberty Lake, Washington, USA Publicly traded: ITRI ESG goals and achievements
+Award-winning workplace Inclusion-first work culture Commitment to employee growth and development: iGrow program Employee resource groups*: iBelong program
+Paid internships, co-op and apprenticeships Generous and flexible paid time off* *Variable by location or position Hear from our Employees @ Itron Careers Your
+safety and trust are important to us. We want to make you aware of an increase in fraudulent activity targeting job seekers. Learn more Itron is proud to be an
+Equal Opportunity, Affirmative Action Employer. If you require an accommodation to apply, please contact a recruiting representative at 1-800-635-5461 or email
+accessibility@itron.com.

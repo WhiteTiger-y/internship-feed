@@ -1,0 +1,32 @@
+Term: May to August 2027
+Please Note
+- Position location is on-site in San Jose Office
+- There is no immigration (except F1) or relocation support for this position
+- Posting expires upon application threshold
+Position Description
+Ayar Labs, the global leader in optical I/O chiplets, is harnessing silicon photonics to revolutionize the scaling of AI compute hardware. AyarLabs is
+shattering AI data bottlenecks by moving data at the speed of light. As pioneers of co-packaged optics (CPO), we are using light instead of electricity to move
+data faster, further, and with a fraction of the energy needed to fuel the explosive growth of AI models.
+Backed by industry giants like NVIDIA, AMD and Intel and manufactured in partnership with the world’s leading semiconductor ecosystem, Ayar Labs’ co-packaged
+optics solution is key to unleashing next-generation AI scale-up architectures.
+Our architecture team is a key contributor in defining the value of optical I/O technology in AI hardware, through pioneering analyses of leading advanced AI
+models, hardware and resource requirements for training and inference operations, and the performance gains unlocked by optical I/O.
+We are looking for a motivated graduate intern to join our architecture team within the Office of the CTO, where you will deploy inference and agentic workloads
+on data center clusters and benchmark their performance. Furthermore, you will architect and develop the specifications of network communication protocol stack
+layers in Ayar Labs' optical engines.
+The projects are tailored to your experience and interests, and you will be mentored by a senior engineer as you work alongside Ayar Labs engineers to help
+drive the optical I/O revolution.
+Intern Skillset Needed
+- Experience in deploying AI workloads on different data center platforms and benchmarking performance.
+- Familiar with profiling and instrumentation tools such as Nvidia Nsight / Nsys, GPGPU-Sim, and LLVM-based tooling.
+- Experience with memory semantic fabrics and network communication protocols such as AXI, CHI, UALink, ESUN, 802.3 Ethernet, UCIe, and PCIe.
+- Independent, highly motivated, and able to work collaboratively and autonomously, self-managing time effectively to take project tasks to completion.
+Education Requirements
+- Candidate should be actively pursuing a M.S. or Ph.D. degree in Computer Engineering, Computer Science, Electrical Engineering, Mathematics, or equivalent.
+Note To Recruiters
+Principals only. We are not accepting resumes from recruiters for this position. Remuneration for recruiting activities is only applicable subject to a signed
+and executed agreement between the parties. Please don’t send candidates to Ayar Labs, and do not contact our managers.
+Ayar Labs is an Affirmative Action/Equal Opportunity Employer and is strongly committed to all policies which will afford equal opportunity employment to all
+qualified persons without regard to age, sex, national origin, race, color, ethnicity, creed, religion, gender identity, sexual orientation, disability, veteran
+status, or any other characteristic protected by law. It is the policy of Ayar Labs to provide reasonable accommodation when requested by a qualified applicant
+or employee with a disability, unless such accommodation would cause an undue hardship. Veterans are more than welcome and encouraged to apply.

@@ -1,0 +1,67 @@
+Additional Location(s): N/A
+Diversity - Innovation - Caring - Global Collaboration - Winning Spirit - High Performance
+At Boston Scientific, we’ll give you the opportunity to harness all that’s within you by working in teams of diverse and high-performing employees, tackling
+some of the most important health industry challenges. With access to the latest tools, information and training, we’ll help you in advancing your skills and
+career. Here, you’ll be supported in progressing – whatever your ambitions.
+We will consider qualified applicants of all ages who are starting (or restarting) their careers
+At Boston Scientific, we value collaboration and synergy. This role is onsite, requiring employees to be in our local office 5 days per week.
+Relocation and housing assistance may be available to those who meet the eligibility criteria.
+Boston Scientific will not offer sponsorship or take over sponsorship of an employment VISA for this position at this time
+About the role:
+The Artificial Intelligence Intern’s job will be to assist senior engineers with the execution of Artificial Intelligence projects targeted towards image-based
+quality inspections on the factory floor. These projects may be in various phases: concepting, image collection, software development, and testing. The focus is
+on practical applications of emerging technologies such as high-resolution 2D imaging, 3D Laser Scanning, Visual AI, and other technologies on the factory
+floor.
+Your responsibilities will include:
+* Support senior engineers in the development and execution of AI-driven image inspection systems for manufacturing applications
+* Contribute to various project phases, including concept development, image acquisition, software implementation, and system testing
+* Manage 2–3 concurrent projects, maintaining clear priorities and delivering results on schedule
+* Conduct independent testing of vision systems and algorithms, documenting results with accuracy and clarity
+* Assist in integrating technologies such as high-resolution 2D imaging, 3D laser scanning, and Visual AI into factory-floor solutions
+* Collaborate with cross-functional teams to understand inspection requirements and translate them into practical, scalable solutions
+* Apply programming skills to develop and refine machine vision tools and inspection workflows
+* Learn and apply best practices in machine learning, computer vision, and automation within a regulated manufacturing environment
+* Participate in continuous improvement efforts to enhance inspection accuracy, system reliability, and operational efficiency
+Required Qualifications:
+* Current rising junior or rising senior (grad dates between Dec 2027 - May 2029)
+* Pursuing a Bachelors or Masters degree in Computer Engineering, Software Engineering, or Computer Science
+* Must be able to start internship on May 17th or 24th, 2027 and work for 12 weeks
+* Must have reliable transportation to/from work.
+* Experience using a variety of programming languages such as Python, Kotlin, or Java
+* Experience doing design projects (multi-semester projects preferred)
+* Previous hands-on work experience with artificial intelligence, machine learning, or machine vision
+Preferred Qualifications:
+* Medical device industry experience
+* Able to learn independently about new technologies or platforms
+* Able to work and collaborate with team members
+* Excellent written and oral communications skills
+* Experience with Society of Automotive Engineers, Robotics, or other extracurricular project teams.
+Requisition ID: 634862
+Minimum Salary: $ 43368
+Maximum Salary: $ 73736
+The anticipated compensation listed above and the value of core and optional employee benefits offered by Boston Scientific (BSC) – see
+www.bscbenefitsconnect.com—will vary based on actual location of the position and other pertinent factors considered in determining actual compensation for the
+role. Compensation will be commensurate with demonstrable level of experience and training, pertinent education including licensure and certifications, among
+other relevant business or organizational needs. At BSC, it is not typical for an individual to be hired near the bottom or top of the anticipated salary range
+listed above.
+Compensation for non-exempt (hourly), non-sales roles may also include variable compensation from time to time (e.g., any overtime and shift differential) and
+annual bonus target (subject to plan eligibility and other requirements).
+Compensation for exempt, non-sales roles may also include variable compensation, i.e., annual bonus target and long-term incentives (subject to plan eligibility
+and other requirements).
+For MA positions: It is unlawful to require or administer a lie detector test for employment. Violators are subject to criminal penalties and civil liability.
+Boston Scientific transforms lives through innovative medical technologies that improve the health of patients around the world. As a global medical technology
+leader for more than 45 years, we advance science for life by providing a broad range of high-performance solutions that address unmet patient needs and reduce
+the cost of healthcare. Our portfolio of devices and therapies helps physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological,
+neurological and urological diseases and conditions. Learn more at www.bostonscientific.com and follow us on LinkedIn.
+Boston Scientific Corporation has been and will continue to be an equal opportunity employer. To ensure full implementation of its equal employment policy, the
+Company will continue to take steps to assure that recruitment, hiring, assignment, promotion, compensation, and all other personnel decisions are made and
+administered without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, gender expression, veteran status,
+age, mental or physical disability, genetic information or any other protected class.
+Please be advised that certain US based positions, including without limitation field sales and service positions that call on hospitals and/or health care
+centers, require acceptable proof of COVID-19 vaccination status. Candidates will be notified during the interview and selection process if the role(s) for
+which they have applied require proof of vaccination as a condition of employment. Boston Scientific continues to evaluate its policies and protocols regarding
+the COVID-19 vaccine and will comply with all applicable state and federal law and healthcare credentialing requirements. As employees of the Company, you will
+be expected to meet the ongoing requirements for your roles, including any new requirements, should the Company’s policies or protocols change with regard to
+COVID-19 vaccination.
+Among other requirements, Boston Scientific maintains specific prohibited substance test requirements for safety-sensitive positions. This role is deemed
+safety-sensitive and, as such, candidates will be subject to a 

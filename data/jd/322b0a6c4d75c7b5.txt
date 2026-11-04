@@ -1,0 +1,61 @@
+Overview
+This is a hybrid role, with the expectation that time working will regularly take place inside and outside of a company office.
+First Citizens Bank offers an exciting summer internship program that provides development opportunities and hands-on work experience while creating a talent
+pipeline for the Bank. Our interns will apply classroom knowledge in a corporate environment while making a positive impact across the organization and the
+communities we serve. Come help First Citizens build for the future!
+The Applied AI team sits within Enterprise AI, which brings together data science, applied AI, Responsible AI, and AI governance for the bank. We build the
+machine learning and AI solutions used across the General Bank, Commercial Bank, and Enterprise Functions — and we are responsible for testing and evidencing
+that those solutions work before they reach production.
+This is an early and fast-moving area at First Citizens. Evaluation practices, delivery patterns, and the bank’s AI platform are all being built now, and the
+team works across U.S. and India locations. We use machine learning, advanced analytics, and generative AI where each is the right fit — we do not assume every
+problem needs a generative AI solution. An intern joining this team will see what it takes to build AI that holds up in a regulated environment, which is a more
+exacting standard than most coursework prepares you for.
+Responsibilities & Qualifications
+Duties & Responsibilities
+In This Role, You Will
+- Build and test components of a real AI or analytics solution — work the team would otherwise do itself, not a side exercise
+- Prepare, explore, and analyze data using Python and SQL in approved bank environments
+- Develop model prototypes, features, prompt and retrieval configurations, scripts, and notebooks under the direction of an assigned mentor
+- Help create evaluation datasets and run evaluations — depending on the project, testing accuracy, relevance, groundedness, retrieval quality, or content
+safety
+- Document assumptions, limitations, and test results clearly enough that someone else can pick the work up after the summer ends
+- Learn how an AI use case moves through the bank’s governance and Responsible AI review, and what evidence it has to produce along the way
+- Take part in team code reviews, technical discussions, and knowledge-sharing sessions
+- Be part of a dynamic team with interesting projects.
+- Accountabilities can and may include areas such as research, analytics, projects, strategy, process review and improvement, as well as technology enhancements
+and support.
+- Attend professional development sessions, informational sessions, networking and community service events.
+- Have a dedicated manager and program manager to help you navigate the bank and the internship program.
+- Be assigned a project, designed to improve a specific process or solve a problem that you will present at the close of the internship.
+- Prepare a wrap-up presentation to be shared with the division leader and other key stakeholders in the company to outline your accomplishments and experience
+during the internship
+Internship dates: 5/24/27 - 7/30/27
+Position Specific Skills
+- Adaptability
+- Communication (Written & Verbal)
+- Critical Thinking Skills
+Required Qualifications
+- High School Diploma or GED and 1 year of experience
+- Currently enrolled at an accredited collegiate institution (during the time of the summer program)
+- Ability to work 40 hours per week during the duration of the program
+Preferred Qualifications
+- Rising senior, or currently enrolled in a master’s program, in computer science, data science, statistics, applied mathematics, engineering, or a related
+quantitative field
+- Working proficiency in Python and SQL
+- Coursework, personal projects, or prior internship experience in machine learning, data science, NLP, or generative AI — with evidence of having built and
+tested something real
+- Familiarity with common data science or machine learning libraries, notebook environments, and version control (Git)
+- Some exposure to model evaluation and test design — how you know a solution works, not only how to build one
+- Genuine interest in both conventional machine learning and generative AI, with the judgment to choose methods based on the problem rather than novelty
+- Clear written communication — able to explain technical work, results, and open questions to someone who was not involved in it
+- 3.0 minimum GPA
+- Strong desire to learn and grow
+- Possess a positive attitude, naturally curious and enjoys collaborating with others
+- Strong verbal and written communication skills
+- Critical thinking skills
+- Ability to multitask
+- Ability to adapt and adjust priorities based on business needs
+- Ability to take direction and absorb information quickly
+Additional Information
+Benefits are an integral part of total rewards and First Citizens Bank is committed to providing a competitive, thoughtfully designed and quality benefits
+program to meet the needs of our associates. More information can be found at https://jobs.firstcitizens.com/benefits.

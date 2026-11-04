@@ -1,0 +1,44 @@
+The Meta Reality Labs Research Team brings together a world-class team of researchers, developers, and engineers to create the future of AR and VR. The Surreal
+Vision group at RL Research is seeking exceptional Research Scientists to research and help build the egocentric machine perception functionalities and digital
+twins of 3D scenes that will underpin future VR and contextual-AI-enabled AR devices. The Surreal group at Reality Lab Research is seeking outstanding Research
+Scientist Interns to advance the frontier of egocentric AI. As an intern, you will tackle ambitious research challenges at the intersection of computer vision
+and natural language, contributing to the development of next-generation intelligent systems.Your research project may cover or relate to the following
+topics:-Advancing multi-modal understanding and reasoning in AI systems-Developing adaptive intelligent models-Mining temporal patterns in complex data-
+Designing proactive and context-aware AI modelsOur internships are twelve (12) to twenty four (24) weeks long and we have various start dates throughout the
+year. Some projects may require a minimum of 24 consecutive weeks.
+Research Scientist Intern, Egocentric Vision-Language Models (PhD) Responsibilities:
+- Plan and execute innovative research to advance the state-of-the-art in egocentric AI, multi-modal understanding, and long-term reasoning.
+- Collaborate with researchers and engineers to design, develop, and run experiments and prototype systems that push the boundaries of intelligent egocentric AI
+systems.
+- Publish research findings in top-tier conferences and effectively present research outcomes to internal and external audiences.
+Minimum Qualifications:
+- Knowledge in deep learning, computer vision, generative modeling, LLMs and VLMs
+- Hands-on experience with implementing deep learning algorithms, large-scale training, benchmark and evaluation
+- Programming experience in Python, deep learning frameworks such as Pytorch
+- Experience working and communicating cross functionally in a team environment
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops or
+conferences such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, NAACL, ACL, EMNLP
+- Experience building systems based on machine learning, reinforcement learning and/or deep learning methods
+- Demonstrated SWE or research experience via an internship, work experience, coding competitions, widely used contributions in open source repositories (e.g.
+GitHub), or top-tier publications
+- Intent to return to a degree-program after the completion of the internship
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

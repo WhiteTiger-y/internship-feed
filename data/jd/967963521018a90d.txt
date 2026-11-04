@@ -1,0 +1,25 @@
+From applied research to product development, SRI International’s Advanced Technology and Systems Division (ATSD) advances the state of the art in diverse areas
+such as radar and electronic warfare, novel imaging technology, robotics, quantum sensing & metrology, marine technology and applied optics.
+ATSD's Ann Arbor, MI office is hiring Radar Research Interns who will participate in multi-disciplinary, collaborative teams and contribute to the development
+of state-of-the-art active/passive radar remote sensing, imaging systems and surveillance technologies. Projects span a wide variety of activities and include
+development of advanced sensor concepts, waveform design, signal & image processing and development of new exploitation methods. Graduate students are
+encouraged to apply their research topics and activities to projects. Interns will work onsite at the office.
+Responsibilities
+- Contribute to developing algorithms for processing and exploitation of radar sensor data.
+- Formation and analysis of imagery products, development of signal processing tools for image understanding and imagery exploitation.
+- Programming, algorithm development, design and execution of radar computational models & simulations, and analysis of results.
+Qualifications
+- Currently pursuing a Bachelor’s/Master’s/Ph.D. degree in Physics, Engineering or a related field.
+- Candidates must be a U.S. Citizen with the ability to obtain a security clearance
+Desired Skills
+- Coursework in Physics, Electrical Engineering and Mathematics.
+- Some experience coding (Python, MATLAB, C, C++).
+- Experience with UNIX/LINUX operating systems.
+- Solid analytical ability.
+The salary range is: $20-40/hr. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity
+amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based
+Compensation program. SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/. SRI will accept
+applications until the position is filled.
+SRI is an independent nonprofit research institute headquartered in Menlo Park, Calif., with a rich history of supporting government and industry. We create and
+deliver world-changing solutions for a safer, healthier, and more sustainable future. For almost 80 years, we have collaborated across technical and scientific
+disciplines to discover and develop groundbreaking products and technologies and bring innovations and ideas to the marketplace.

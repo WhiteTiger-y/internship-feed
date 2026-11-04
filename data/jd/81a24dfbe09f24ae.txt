@@ -1,0 +1,47 @@
+Job Description
+Lazard is one of the world’s preeminent financial advisory and asset management firms. Our people and culture make the difference. While global in presence and
+reach, ours is a close, collaborativecommunity of just over 3,000 professionals. Lazard is a place of continuous knowledge sharing, skill development and
+relationship building, where professionals grow and succeed together. Our entrepreneurial culture, flat structure and embrace of individual differences, allow
+creative ideas, original concepts, and unique perspectives to drive our business forward — and for careers to take flight.
+The Quantitative Research Team at Lazard Asset Management applied advanced statistical and computational techniques to address real-world investment challenges.
+We combine cutting-edge quantitative methods with deep market insights to drive better investment outcomes for clients.
+Our hands-on, 10-week internship is designed for students who are interested in pursuing a career in quantitative research. You will work directly with the
+investment professionals on real investment problems where your contributions have measurable impact from day one. You'll be paired with a dedicated mentor
+invested in your growth, while gaining direct access to industry veterans and thought leaders who bring decades of market experience to share. As part of a
+close-knit team embedded within a global organization, you'll enjoy the best of both worlds: the collegiality and hands-on exposure of a small group, back by
+the resources and reach of a world-class firm. It's an environment built to sharpen the technical, analytical, and interpersonal skills that form the foundation
+of lasting career in finance or quantitative research.
+Eligibility Criteria
+- This program is open to rising undergraduate juniors only. You must be graduating in 2029!
+- Ability to start an internship June 7, 2027, and end August 13, 2027
+- Ability to be in NYC for the duration of the internship
+- Authorization to work in the United States without visa sponsorship
+We’ll Trust You To
+- Develop and enhance quantitative models to support investment decisions.
+- Analyze large datasets to uncover actionable insights.
+- Collaborate with portfolio managers, researchers, and developers to solve complex investment problems.
+- Present findings and recommendations to team members and stakeholders.
+You'll Need To Have
+- Highly motivated students with strong quantitative and analytical skills who are excited to apply their expertise to finance.
+- Familiarity with Machine Learning algorithms and NLP techniques.
+- Undergraduate students majoring in mathematics, statistics, physics, electrical engineering, computer science, economics, or related fields.
+- Excellent logical reasoning and problem-solving capabilities.
+- Experience with programming, especially in Python, for data processing and analysis.
+- Strong foundation in statistics and data analysis.
+- Ability to work effectively in a fast-paced, collaborative environment.
+- Strong communication skills including the ability to present complex concepts clearly.
+- Intellectual curiosity and eagerness to learn.
+- Passion for quantitative research and financial markets.
+- Familiarity or experience with generative AI tools (e.g. ChatGPT, Copilot, Claude, or similar)
+Note, we will review applications on a rolling basis.
+If this sounds like you, apply and a member of our recruitment team will be in touch!
+Representation at Lazard
+Lazard is an intellectual capital business committed to delivering the best advice and solutions to clients. To achieve these objectives, we focus on
+attracting, developing and retaining the best talent. We believe that a workforce comprised of people who represent a wide array of backgrounds, experiences and
+perspectives creates a rich variety of thought that empowers us to challenge conventional wisdom, solve problems creatively and make better decisions.
+Lazard was built on the premise that a multicultural firm can best serve a global clientele. As a global firm that has grown organically from local roots in
+different countries, we have a deep tradition of respecting and appreciating individual differences. Doing so has been core to our success for over 175 years.
+We are committed to sustaining an environment where every colleague is supported in their professional pursuits, can maximize their individual potential and
+contribute to our collective success.
+Compensation: Pro-rated base annual salary of $90,000
+#LAM

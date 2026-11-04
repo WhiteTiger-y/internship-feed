@@ -1,0 +1,52 @@
+Are you interested in applying data science to real business and product challenges? As a Data Science Intern at Resideo, you will work alongside data
+scientists, engineers, and business stakeholders to explore data, develop analytical solutions, and communicate actionable insights. You will gain hands-on
+experience with Python, SQL, and Databricks while supporting data preparation, visualization, and predictive modeling. With guidance from the team, you will
+complete a scoped project and present your findings and recommendations. Help create innovative technologies that make the world cleaner and more sustainable,
+more secure, connected, energy efficient, and productive.
+Job Duties
+- Explore and analyze data to identify trends, patterns, and opportunities for business or product improvement.
+- Clean and prepare datasets, addressing missing values, inconsistencies, and data quality issues.
+- Write SQL queries and Python scripts in Databricks to extract, transform, and analyze data from multiple sources.
+- Develop Databricks notebooks, dashboards and visualizations to communicate key findings and track performance metrics.
+- Support predictive modeling, including feature development, model training, and performance evaluation.
+- Analyze product usage and performance to understand customer behavior and identify opportunities for improvement.
+- Automate recurring analyses and reports to reduce manual effort and improve consistency.
+- Collaborate with data scientists, engineers, and business stakeholders to translate business questions into analytical tasks.
+- Document datasets, methods, code, and findings using team standards and Git workflows.
+- Complete and present a scoped capstone project, explaining the approach, results, limitations, and recommended next steps.
+You Must Have
+- Active student status pursuing a degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, or a related quantitative field.
+- Foundational experience with Python and SQL through coursework, academic projects, or internships.
+- Basic understanding of statistics, data analysis, and machine learning concepts.
+We Value
+- Ability to communicate findings clearly, collaborate with others, and explain analytical work to technical and nontechnical audiences.
+- Experience cleaning, exploring, and visualizing data through coursework, research, or personal projects.
+- Familiarity with Databricks, Apache Spark, or cloud data platforms, and an interest in learning these tools.
+- Exposure to Python libraries such as pandas, NumPy, scikit-learn, or Matplotlib, and to Git for version control.
+- Curiosity, attention to data quality, and the ability to break practical problems into manageable analytical tasks.
+- Willingness to learn from feedback, document work, and collaborate with data scientists, engineers, and business stakeholders.
+What's In It For You
+- Hands-on experience: Apply Python, SQL, and Databricks to real business and product data.
+- Mentorship and collaboration: Learn from experienced data scientists and engineers while contributing to meaningful projects.
+- Professional development: Build data science skills and present a capstone project with clear results, limitations, and recommendations.
+Resideo is a global leader in smart home and building solutions, with trusted brands including Honeywell Home, First Alert, and Resideo helping people feel more
+comfortable, secure, connected, and in control every day. Our products and technologies are found in more than 150 million homes and businesses worldwide. From
+intelligent climate solutions to security, sensing, water, and connected home technologies, Resideo develops and manufactures products designed to simplify
+everyday life and help protect what matters most. Our global teams span engineering, manufacturing, software, product management, supply chain, customer
+experience, and more - all working together to shape the future of connected living through innovation, quality, and meaningful real-world impact. At Resideo,
+our teams help create products and experiences that make everyday life more comfortable, secure, and connected for millions around the world. Learn more at
+www.resideo.com .
+You can find out more about how the talent community works here: Resideo Talent Community Terms . Our recruitment privacy notice Resideo -Recruitment Privacy
+Notice - Dec 16 2022 describes in more detail how we process your personal data and how you can exercise your personal data rights.
+If a disability prevents you from applying for a job through our website, request assistance here.
+Benefits
+We provide comprehensive benefits, including life and health insurance, life assistance program, accidental death and dismemberment insurance, disability
+insurance, 401k Plan, vacation & holidays.
+Hiring Salary Range
+Salary Range not available - Consult Total Rewards Team.
+Work Location
+Hybrid
+US Visa SPonsorship Elgibility
+This position is not eligible for US visa sponsorship
+Incentive Eligible
+N/A

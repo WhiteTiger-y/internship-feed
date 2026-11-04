@@ -1,0 +1,44 @@
+Software Engineering Intern, AIML Platform - HP IQ Description - HP IQ's AI Machine Learning (AML) team is building the foundational platform powering a new
+generation of agentic devices. This platform orchestrates the complete lifecycle of AI models: from creation and fine-tuning through optimized inference and
+intelligent orchestration. The team works to make complex AI capabilities run efficiently on-device, enabling locally-deployed agentic experiences that reduce
+token costs and improve privacy. In this internship role, you will contribute to one or more core pillars of the AML platform: model inference optimization,
+orchestration and agent workflows, or model creation and fine-tuning. You will partner closely with experienced engineers to ship features that directly impact
+HP's next-generation devices and gain visibility into how each component of an end-to-end AI system integrates and scales. What You Might Do Work on model
+hosting and inference optimization, learning how to profile, benchmark, and accelerate model execution on resource-constrained devices; experiment with
+quantization, distillation, or other optimization techniques to reduce latency and memory footprint. Contribute to orchestration frameworks and agent workflows,
+building or extending systems that coordinate multiple models and agents using tools like LangGraph or LangChain; develop an understanding of when agentic
+patterns are appropriate and how to design robust, scalable orchestrations. Participate in model customization and fine-tuning, taking pre-trained language
+models and adapting them for specific use cases; conduct experiments, evaluate results, and iterate on model configurations to improve performance for target
+tasks. Collaborate cross-functionally with system software, design, and product teams to understand how your work integrates into the broader platform;
+communicate progress, challenges, and technical decisions clearly and seek mentorship from engineers with deep expertise in your focus area. Contribute to open-
+source projects or internal libraries relevant to inference, orchestration, or model training; demonstrate ownership of end-to-end outcomes and ownership of
+improving the platform's capabilities and reliability. Essential Qualifications Currently pursuing a degree in Computer Science, Engineering, or related field,
+or equivalent practical experience. Some coursework or project experience in machine learning, systems engineering, or software development is expected.
+Demonstrated technical communication skills: ability to articulate project goals, outcomes, challenges, and technical decisions clearly; comfort explaining
+technical concepts to peers and mentors. Genuine familiarity with one or more of the following: model inference and optimization, orchestration frameworks
+(LangGraph, LangChain), model fine-tuning and adaptation, or similar systems-level AI work. Project experience, open-source contributions, or course projects
+demonstrating depth in at least one area are highly valued. Collaboration and ownership mindset: comfort working in cross-functional teams, asking for help when
+needed, and taking responsibility for outcomes; ability to operate with some ambiguity and seek clarity proactively. Problems-solving orientation: ability to
+debug issues, evaluate technical tradeoffs, and make reasonable decisions when multiple approaches are viable. Preferred Skills Open-source contributions to
+inference engines (e.g., vLLM), model repositories, or orchestration libraries; demonstrated ability to contribute meaningfully to a shared codebase. Experience
+with Python and ML-adjacent libraries (PyTorch, TensorFlow, Hugging Face, FastAPI, or similar). Familiarity with on-device or edge AI constraints and
+optimization techniques. Experience with system-level profiling and performance optimization. Hourly Pay Range: $40.00–$50.00 per hour. Actual compensation will
+be determined based on factors such as skills, qualifications, and experience. 2027 Internship Program Dates: May/June–August/September 2027. Final dates will
+be based on student schedules. Compensation & Benefits (Full-Time Employees) The salary range for this role is listed above. Final salary offered is based upon
+multiple factors including individual job-related qualifications, education, experience, knowledge and skills. At HP IQ, we offer a competitive and
+comprehensive benefits package, including: Health insurance Dental insurance Vision insurance Long term/short term disability insurance Employee assistance
+program Flexible spending account Life insurance Generous time off policies, including; 4-12 weeks fully paid parental leave based on tenure11 paid
+holidaysAdditional flexible paid vacation and sick leave (US benefits overview) Job - Administration Schedule - Full time Shift - No shift premium (United
+States of America) Travel - Relocation - Equal Opportunity Employer (EEO) - HP, Inc. provides equal employment opportunity to all employees and prospective
+employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected
+veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed
+service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s). Please be assured that you
+will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information
+obtained will be kept in strict confidence. For more information, review HP’s EEO Policy or read about your rights as an applicant under the law here: “Know
+Your Rights: Workplace Discrimination is Illegal" You want to reshape the way the world works. So do we. You’re looking for more than just a job; you’re looking
+to make a difference. That means creating something new. Something that matters. Something that changes how the world works for the better. A career at HP can
+help you build the tomorrow you want. Let’s grow together. Privacy, Terms of Use, and Accessibility Our founders believed that business exists when people work
+together to ‘accomplish something collectively which they could not accomplish separately.’ We uphold a zero-tolerance policy towards discrimination and treat
+everyone with respect. By maintaining these principles, we empower the HP team to contribute to our collective success and the future of work. Learn more about
+HP personal data practices at Privacy Statement, Personal Data Rights Notice (where applicable), Accessibility at HP, and Terms. You can be yourself at HP.
+Learn more Having trouble with this page or with applying to a role? Click here to submit a request for support.

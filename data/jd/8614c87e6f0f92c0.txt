@@ -1,0 +1,45 @@
+When you’re the best, we’re the best. We instill an environment where employees feel engaged, satisfied and able to contribute their unique skills and talents
+while living and working as their authentic selves. We provide extensive opportunities for personal and professional development, building both employee
+competence and organizational capability to fuel exceptional performance through an inclusive environment both now and in the future. Vizient Intern Program
+Overview: This program is designed to foster a beneficial relationship and provide growth opportunities for Vizient, our employees, and collegiate students.
+Since 2000, our summer intern program has provided college undergraduate, graduate, and doctoral students with practical experience that exposes them to
+multiple aspects of a career field and the healthcare industry. This full-time, paid intern program offers an opportunity to accelerate academic learning, apply
+classroom knowledge, and introduce students to a professional setting. Interns are assigned a supervisor to mentor/develop their business skills, as well as
+monitor their work experiences. Interns are integral members of the company’s team, setting goals, working toward deadlines, and actively participating in
+community service projects. The program requires the intern to commit to 10 weeks of participation in all formal training, mentoring, on-the-job learning, and
+opportunities to interact with senior leaders. · Program starts June 1, 2027, and ends August 6, 2027 · Pay rate: $25/hr What we will do: We provide the tools
+and training necessary to succeed, as well as provide intentional development opportunities such as: · Exposure to senior leadership to discuss the project,
+strategy, and milestones. · Network opportunities with cross-functional teams to learn about various areas within the organization. · Personalized strengths
+coaching. · Participate in company meetings and key culture events. · Value-added project management skills. · Intern-led community impact project and various
+team-building activities outside of work. What you will do: The intern will support the Digital Connections & Collaboration team in exploring practical
+applications of artificial intelligence, workflow automation, business intelligence, and digital process optimization. Working alongside leaders responsible for
+community engagement, digital collaboration, reporting, and operational excellence, the intern will help identify opportunities to streamline work, improve
+access to information, enhance reporting, and increase staff capacity through technology. This role will focus on practical use cases such as Microsoft Copilot,
+Power BI, Power Automate, AI agents, workflow design, reporting frameworks, knowledge management, and digital engagement analytics while contributing to real
+business challenges and strategic initiatives. By the end of the internship, the intern will leave behind usable artifacts such as working flows, prototypes,
+dashboards, reporting frameworks, documented processes, and implementation recommendations that the team can maintain, refine, and scale after the summer. AI
+Exploration & Enablement · Research and prototype practical AI use cases that improve productivity, reporting, knowledge discovery, and decision-making. ·
+Explore Microsoft Copilot, GPT-based tools, AI agents, workflow orchestration concepts, and related emerging technologies. · Design and test prompts,
+instructions, and workflows that help users retrieve information and complete tasks more efficiently. · Document findings, recommendations, and responsible-use
+considerations for future implementation. Reporting, Analytics & Insights · Partner with leaders and key stakeholders to identify the questions group leaders
+and senior leadership need answered quickly and consistently. · Support development of dashboards, reports, and KPI frameworks using Power BI, enterprise data
+platforms, and related analytical tools. · Help define the KPIs, metrics, business rules, and data requirements needed to support accurate AI-assisted queries,
+dashboards, and automated insights. · Validate AI-generated or automated outputs against source data to ensure results are accurate, explainable, and
+appropriate for business use. Process Improvement, Automation & Innovation · Prototype reporting workflows that connect adoption signals, member engagement,
+unanswered questions, content activity, and follow-up opportunities. · Create sample prompts, GPT instructions, agent workflows, or Copilot-enabled use cases
+that translate natural-language questions into reliable reporting outputs. · Document workflows, assumptions, data definitions, prompts, and recommendations so
+the team can continue refining and scaling the solution after the summer. · Provide regular progress updates and deliver a final readout with a demo, lessons
+learned, recommended next steps, and opportunities for broader automation. What you will need: · Enrolled in a four-year accredited college, university, or
+graduate program in good academic standing. · Must have completed the sophomore year as an undergraduate before the start of the internship, or have recently
+completed your degree. · Basic understanding of working in a hybrid environment, workplace ethics, and effective communication. · Strong computer skills with
+Microsoft 365 and an eagerness to learn; exposure to Power BI (Power Query, visuals and basic DAX), Power Automate, Databricks, SharePoint/OneDrive and Teams is
+a plus, or show similar skills from coursework or projects. · Demonstrates analytical, critical thinking and spreadsheet skills (Excel pivot tables, lookups,
+etc.) required. · Experience using AI tools like ChatGPT and/or Microsoft Copilot to draft communications, summarize threads and turn ambiguous requests into
+tasks with responsible use practices (no sensitive data, validate outputs, document prompts). · Good organization and planning skills, and demonstrate effective
+project coordination, facilitation, and implementation based on past work or school experiences. · Effective oral and written communication skills and the
+ability to analyze and synthesize information for problem-solving are preferred. · Strong interpersonal skills for interacting across the team and potentially
+with internal Vizient business partners, external members, and suppliers. Equal Opportunity Employer: Females/Minorities/Veterans/Individuals with Disabilities
+The Company is committed to equal employment opportunity to all employees and applicants without regard to race, religion, color, gender identity, ethnicity,
+age, national origin, sexual orientation, disability status, veteran status or any other category protected by applicable law. Working at Vizient means shaping
+the future of healthcare, every day. Alongside our clients, we're building a healthier, more human healthcare system. We connect people, data, and solutions to
+enable healthcare organizations to improve financial sustainabilit

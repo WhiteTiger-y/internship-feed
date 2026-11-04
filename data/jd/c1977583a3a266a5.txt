@@ -1,0 +1,41 @@
+At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and
+independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.
+Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio
+technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.
+Job Description
+ABOUT THE CO-OP PROGRAM
+Bose Corporation is seeking students to participate in our Co-op Program who share our belief that sound is power. During the six-month co-op, students will
+have the chance to apply classroom learning in a hands-on work environment. Co-op participants will network across the business to gain diverse perspectives
+within Bose Corporation. Additionally, co-ops will connect with other students and colleagues, building valuable professional relationships for the future.
+Spring Co-op: Candidates must be available to work full-time (40 hours per week) in a hybrid, in-office format from January through July, 2027. No relocation
+assistance is available.
+THE ROLE
+At Bose, we use machine learning across a diverse set of problems ranging from speech enhancement (e.g., SpeechClarity) to audio perception. As an Embedded
+Audio ML Engineer Co-op at Bose, you will help deploy and optimize our next generation deep learning algorithms for resource-constrained devices.
+Responsibilities
+- Build embedded software prototypes to demonstrate new ML-powered audio features on our wearables
+- Design, implement, deploy and optimize deep learning models, data structure and algorithms on resource-constrained devices.
+- Research, design and implement novel methods for efficient deep learning (e.g., quantization, pruning, NAS, knowledge distillation) with a focus on audio-
+related problems.
+- Train and evaluate deep learning models to enable new experiences on our headphones, earbuds, soundbars, portable speakers and other consumer audio devices.
+- Evaluate neural network hardware accelerators for low-power wearable devices, including working with various vendors’ custom toolchains, software and hardware
+and informing leadership teams about tradeoffs.
+Minimum Qualifications
+- Currently pursuing a M.S. or Ph.D. in Computer Science, Electrical Engineering, Machine Learning, or a related field
+- Strong proficiency in C/C++ for embedded systems.
+- Proficiency in Python for model conversion, evaluation, or tooling workflows.
+- Strong experience implementing deep neural networks with PyTorch, TensorFlow, or similar frameworks
+- Proven cross-group and cross-culture collaboration skills
+- Creative problem-solver with demonstrated ability to work independently
+Preferred Qualifications
+- Prior internship or work experience as a Software/ML engineer
+- Experience deploying ML models on edge or resource‑constrained devices (MCU/DSP/NPU).
+- Solid background in audio deep learning and digital signal processing
+At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience,
+education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is:
+$40.00-$51.25 per hour.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs,
+comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you
+can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in
+the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for
+people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.
+‎

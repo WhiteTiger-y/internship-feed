@@ -1,0 +1,26 @@
+This is a 6-month, in-person opportunity in San Francisco.
+About Engramme
+Engramme is a Frontier AI lab spun out of Harvard focusing on AI x Human Memory. Persistent memory is a fundamental open problem at the heart of AI. Our vision
+is to build models of human memory, and to endow humans with perfect and infinite memory.
+Before starting Engramme, the founding team has produced and commercialized extensive research in machine learning and neuro-science inspired memory models:
+- Gabriel Kreiman (CEO & Co-founder): Professor of Neuroscience and AI, Harvard Medical School. Led key research on brain memory consolidation at Harvard
+University.
+- Spandan Madan (CTO & Co-founder): PhD in Computer Science from Harvard, designed AI models which were commercially deployed at Adobe, Fujitsu, and Meta.
+What You’ll Do
+- Build automated eval pipelines for memory retrieval, compression, and reconstruction.
+- Design benchmarks for context retention, long-term consistency, and memory safety.
+- Analyze model behavior, surface failure modes, and define quality metrics.
+- Run large-scale experiments and maintain continuous evaluation systems.
+- Develop internal tools, dashboards, and workflows for fast debugging.
+- Integrate evals directly into production with backend + research teams.
+What We’re Looking For
+- Strong Python + ML framework experience.
+- Background in eval pipelines, model testing, or benchmarking.
+- Understanding of LLMs, embeddings, or retrieval systems.
+- Ability to analyze failures, define metrics, and reason from first principles.
+- Comfortable moving fast and owning core architecture.
+Nice to Have
+- Experience with vector DBs, similarity search, or interpretability.
+- Distributed systems or high-throughput pipeline experience.
+- Startup experience or ML tooling/open-source contributions.
+- Familiarity with monitoring/experiment-tracking tools.

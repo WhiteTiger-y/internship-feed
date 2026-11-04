@@ -1,0 +1,78 @@
+Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)
+Location :
+San Jose
+Employment Type :
+Intern
+Job Code :
+A22839A
+Apply to this job Share this listing:
+Responsibilities
+"Business Risk Integrated Control (BRIC) is a global team protecting ByteDance users, platform health, and the authenticity of community and business
+ecosystems. We build the risk control algorithms, AI technologies, platforms, and infrastructure behind that work, across products including TikTok, CapCut,
+Lemon8, and Lark.
+Our work spans account and content integrity, and safety across advertising and e-commerce. We apply machine learning across areas such as graph learning,
+anomaly detection, and multimodal models to understand users, content, behavior, and the relationships between them. The challenge is recognizing genuine
+activity accurately, so the people using our products never notice the systems working.
+You will shape the trust, safety, and sustainable growth of ByteDance's global platforms, applying advanced AI to some of the hardest real-world problems in the
+field."
+Program Intern (Conversion-Oriented): for graduating students who are looking for full-time conversion as the primary objective.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+- Leverage algorithms and cutting-edge AI technologies & tools to tackle account security risks across TikTok and other overseas offline businesses, including
+social, live streaming, local services, e-commerce, payment and other scenarios.
+- Address account security issues including but not limited to bulk fake account, account trading, malicious farming, account takeover, ticket hijacking, etc.
+- Build features and representation learning based on multi-source data (account behavior, ecosystem behavior, device, graph relationships, text & image
+content, etc.). Improve real-time and offline risk perception and detection capabilities of models. Conduct model evaluation and online experiments, with close
+attention to stability, drift monitoring and model interpretability.
+- Research and build the architecture of risk-control Agentic AI; develop and optimize Skills, long-chain task orchestration and multi-agent collaboration
+mechanisms to improve the efficiency of risk discovery and resolution.
+Key internship research topics:
+1. Research and build pre-trained models tailored for account security scenarios, and continuously iterate post-training via SFT, RL and related techniques.
+2. Research and build long behavioral sequence models for account security, and apply them to risk identification and detection.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a PhD in Computer Science or a related discipline.
+- Solid engineering experience with LLM / Agent systems, proficient in mainstream agent tooling.
+- Strong engineering capability, proficient in Python, SQL, and deep learning frameworks such as PyTorch/ TensorFlow.
+Preferred Qualifications:
+- Having high-quality publications at top conferences.
+- Interest in high-adversarial risk control scenarios, and comfortable with technical challenges.
+- Deep research experience in planning & reasoning, long task orchestration, memory & knowledge module, loop engineering, pre-training, RLHF, DPO, GRPO or
+related areas
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here:
+https://careers.tiktok.com/legal/privacy
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $60- $60.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+3. Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless.
+Join us.
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to
+celebrating our diverse voices and

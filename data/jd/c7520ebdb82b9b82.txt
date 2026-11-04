@@ -1,0 +1,66 @@
+Job Description
+Business Unit/Role Specific Information
+The Enterprise Technology Services organization partners with every part of the American Express business to power the company’s growth and innovation with
+trust and efficiency, and drive competitive differentiation with speed. We support the delivery and operations of technology, digital, and data capabilities,
+platforms, and services globally. Specifically, our team is responsible for the company’s technology engineering, architecture, and infrastructure, providing
+24x7 support to ensure an uninterrupted, high-quality experience for customers and colleagues. We also provide product management for core enterprise platforms,
+and lead technology risk and information security, enterprise data governance and platforms, digital product and design, and enterprise AI platforms on behalf
+of the company.
+At American Express, we empower future technologists to learn, innovate, and make an impact from day one. As a Cybersecurity AI Engineer Intern in Enterprise
+Technology Services, you’ll join a 10-week Summer Internship Program and contribute to real-world technology projects that help teams explore, build, test, and
+responsibly scale AI-enabled solutions. You’ll build software, collaborate with Agile teams, and learn how products are designed, developed, tested, and
+delivered in a global enterprise environment.
+In this role, you may support work across machine learning, generative AI, intelligent automation, data pipelines, retrieval patterns, model evaluation, AI
+agents, agentic workflows, or AI-enabled software features. You’ll work with engineers, product partners, data practitioners, security partners, and business
+stakeholders to learn how enterprise AI solutions are designed and delivered responsibly, reliably, and securely.
+About The Team
+Enterprise Technology Services teams build and operate technology that helps American Express deliver trusted, secure, and customer-first products and services.
+Interns may be aligned to scrum teams across backend engineering, frontend engineering, cloud engineering, mobile, AI/machine learning, data-oriented
+engineering, or full-stack product development.
+As a Cybersecurity AI Engineer Intern, you’ll contribute at an early-career level while learning how intelligent systems are built, validated, integrated,
+monitored, and governed in an enterprise environment.
+Responsibilities
+What type of work can you expect? How will you make an impact in this role?
+- Support the development and integration of AI/ML models, LLM integrations, or intelligent services into controlled or production-like systems under guidance.
+- Assist with data collection, preprocessing, transformation, and management to enable model training, testing, validation, and evaluation.
+- Contribute to testing, debugging, and improving AI-enabled solutions to strengthen performance, reliability, explainability, and maintainability.
+- Support AI capabilities such as basic model training workflows, inference endpoints, prompt based interactions, evaluation routines, data retrieval pipelines,
+AI agents, or agentic workflows.
+- Collaborate with engineering, product, data, risk, security, and business partners to implement AI driven solutions aligned to business requirements.
+- Document model parameters, prompts, evaluation assumptions, data pipelines, system integrations, and technical decisions to support reproducibility.
+- Participate in Agile development practices, including sprint planning, stand ups, demos, retrospectives, code reviews, and team ceremonies.
+- Assist in ensuring AI systems and AI enabled features align with enterprise expectations for reliability, safety, governance, security, and compliance.
+- Build foundational confidence working across AI-adjacent technology areas such as APIs, cloud environments, data platforms, CI/CD, containers, model
+deployment patterns, and monitoring.
+What You’ll Learn
+- How AI-enabled software is designed, built, tested, and delivered in an enterprise technology environment.
+- How machine learning, generative AI, LLM APIs, prompt-based workflows, retrieval patterns, AI agents, agentic workflows, and model evaluation can be applied
+to business problems.
+- How Product, Engineering, Data, Security, Risk, and business partners collaborate from idea to implementation.
+- How to balance AI innovation with quality, resilience, usability, privacy, security, compliance, and responsible AI expectations.
+- How to communicate technical progress, ask effective questions, document your work, and share outcomes with both technical and non-technical audiences.
+- How to grow your career through mentorship, feedback, peer learning, technical curriculum, and Early Careers programming.
+- Foundational knowledge of computer science concepts such as data structures, algorithms, object-oriented programming, debugging, testing, and problem-solving.
+- Foundational knowledge of machine learning concepts such as supervised learning, unsupervised learning, feature engineering, model evaluation, and basic
+experimentation.
+Qualifications
+Minimum Qualifications
+- Currently enrolled in a full-time bachelor’s degree program
+- Bachelor’s degree candidates with an expected graduation date between December 2027 and June 2028.
+- Knowledge of Python and foundational data processing technologies.
+- Foundational understanding of computer science concepts, including data structures, algorithms, debugging, testing, and problem solving.
+- Understanding of machine learning concepts such as model training, evaluation, feature engineering, and experimentation.
+- Experience using modern AI systems such as LLM APIs, prompt-based interactions, retrieval patterns, or generative AI applications.
+- Awareness of responsible AI, security, governance, compliance, and reliability considerations.
+- Strong communication, collaboration, documentation, and learning agility with the ability to work effectively in a team environment.
+Preferred Qualifications
+- Demonstrated experience through academic coursework, research, projects, open-source contributions, internships, or extracurricular activities using Python,
+R, Java, JavaScript, or similar technologies.
+- Interest in machine learning, generative AI, natural language processing, intelligent automation, data engineering, agentic AI, or AI-enabled software
+development.
+- Experience building AI-powered applications, copilots, intelligent assistants, agentic workflows, research prototypes, or hackathon solutions using AI/ML
+technologies.
+- Familiarity with NLP techniques and model concepts such as fuzzy matching, embeddings, BERT, transformers, or other modern language models.
+- Exposure and experience with prompt engineering, prompt evaluation, tools, function calling, or agent workflow concepts.
+- Experience or coursework involving ML algorithms and applying them to practical or real-world problems.
+- Familiarity with APIs, data pipelines, ETL processes, cloud environments, or container

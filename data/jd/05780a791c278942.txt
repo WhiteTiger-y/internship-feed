@@ -1,0 +1,46 @@
+HFA Intern – Summer 2027
+Location: Atlanta, Georgia (Buckhead)
+Duration: May 17, 2027 – July 30, 2027
+Department: Hive Financial Assets (HFA)
+About Us
+Hive Financial Systems is a fintech company expanding financial inclusion through AI-driven lending technology. Our multi-portfolio loan management platform
+powers multiple lending partners serving tens of thousands of active consumers. Hive Financial Assets (HFA) is the company's private credit and investor
+relations arm, connecting investors to the lending portfolios that make responsible lending possible for underserved markets.
+Role Overview
+We're looking for a curious, detail-oriented intern to join the HFA team for the summer and provide analytics support across investor relations and capital
+raising. You'll work with real investor data, including CRM activity, capital raised and rolled, and investor balances, to understand how investors engage with
+us and help the team act on it. You'll work directly with HFA leadership, partner with Finance, Operations, and Engineering, and finish the summer with projects
+you can point to.
+What You'll Do
+- Build investor interaction models that show how and when investors engage, using CRM activity, email, and meeting data.
+- Help design and test re-engagement ideas, and measure what works from the investor's point of view.
+- Analyze capital flows, including capital raised, rolled, and redeemed, and support forecasting of new capital.
+- Build and maintain dashboards tracking AUM, capital raised YTD, and investor engagement.
+- Help determine each investor's preferred communication method and support next-best-action recommendations for the team.
+- Provide general analytics support for investor updates, pitch materials, and leadership reporting, including checking figures for accuracy.
+- Keep investor data accurate by reconciling CRM records against internal investment schedules and flagging anomalies.
+Tools You'll Use
+SQL, Hex, Python, Microsoft Excel, our investor CRM, Microsoft Teams and SharePoint, and AI assistants for analysis and documentation.
+Qualifications
+- Junior, senior, or master's student in Finance, Data Analytics, Statistics, Economics, Information Systems, or a related field.
+- Working knowledge of SQL (SELECT, JOIN, WHERE, GROUP BY) and strong Excel skills.
+- Some exposure to Python or R for data analysis.
+- Excellent attention to detail, especially with financial data.
+- Strong problem-solving and critical-thinking skills.
+- Clear written and verbal communication, including the ability to explain numbers to non-technical audiences.
+- Ability to work both independently and collaboratively in a fast-paced environment.
+Nice to Have
+- Experience with a BI tool (Hex, Power BI, Tableau, or similar).
+- Interest in private credit, alternative investments, or wealth management.
+- Basic statistics or forecasting, such as regression, time series, or A/B testing.
+- Experience with a CRM (Salesforce, Dynamics, HubSpot, or similar).
+What You'll Gain
+- Hands-on experience with investor analytics and capital raising at a private credit firm.
+- Practical skills in SQL, Python, BI, and analytical modeling.
+- Mentorship from HFA leadership.
+- A portfolio-ready project presented to company leadership at the end of the summer.
+Perks & Benefits
+- Regular feedback and professional development support.
+- Networking with peers and leaders across the company.
+- Flexible work arrangements (hybrid where applicable).
+- Pathways to full-time roles after graduation.

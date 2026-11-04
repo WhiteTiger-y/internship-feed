@@ -1,0 +1,65 @@
+Job Description
+In this position, you will participate in BAE Systems' nationwide LEAP Internship & Co-op Program, where you will Learn, Engage, Apply, and Progress within the
+company. The LEAP Program will provide you with the opportunity to work alongside experienced professionals on impactful projects, engage in career development
+opportunities, and network with our business leaders and the other students in the program.
+The Opportunity
+Skills
+BAE Systems is seeking an AI/ML Engineer Intern for Summer 2027 with a Computer Science, Data Engineering, Software Engineering, or Computer Engineering
+background. Join our AI-Enabled Digital Engineering Team and become a member of a diverse, enthusiastic, and highly productive team, where each employee has the
+opportunity to grow their skills and work on rewarding projects. The selected candidate will contribute to the design, development, and deployment of
+intelligent systems that can learn from data, make predictions, classify objects, and generate insights. As an AI/ML Engineer, you will play a critical role in
+developing high-quality analytic algorithms that drive business value and mission-critical use cases in support of the US Navy's Strategic Systems Programs—a
+program that keeps our nation safe with a credible sea-based nuclear deterrent. The selected candidate will work closely with the AI-Enabled Digital Engineering
+Team to support the development of AI/ML tools by performing the following functions:
+- Design, develop, and deploy AI/ML models using popular libraries and frameworks (e.g., TensorFlow, Pytorch, Scikit-learn, Keras).
+- Conduct feature engineering and feature selection to optimize model performance.
+- Collaborate with Data Engineers to prepare data for AI/ML model development, ensuring that the data is in a suitable format for model training.
+- Implement AI/ML algorithms, including design, training, testing, verification, and validation activities.
+- Develop and implement data pipelines to enable retrieval of data from federated data systems (e.g., cloud storage or on-premises databases).
+- Develop and implement monitoring systems to ensure AI/ML model reliability and performance, using tools such as Prometheus, Grafana, or New Relic.
+- Stay up to date on best practices and emerging technologies in AI/ML, including advancements in deep learning, natural language processing, and computer
+vision.
+Who You Are
+- You are driven by mission.
+- You love learning how to use and administer new tools and technologies.
+- You enjoy working with people and collaborating across teams.
+- You have a high degree of personal drive, initiative, and the ability to drive change.
+- You can explain complex subjects concisely in person and in email.
+- You love finding new and creative ways to solve problems.
+- You constantly ask questions and love learning.
+- You are always anticipating your customers’ needs and working to exceed their expectations.
+- You live for details.
+- You are willing to put in the time and effort it takes to get the job done.
+- You are always looking for ways to do things better and faster.
+- You are constantly updating your to-do list and planning ahead.
+- You are more interested in getting the job done right than who gets credit.
+- You are a good judge of how long projects take to complete, and always alert others if things get off track.
+Required Education, Experience, & Skills
+- Enrolled student at an accredited 4-year college / university having completed a minimum of three years (Junior) by start of internship.
+- Pursuing a Bachelor's degree in Computer Science, Data Engineering, Software Engineering, Computer Engineering or a related STEM field.
+- Some understanding of the AI/ML development process and its applications.
+- Knowledge of AI/ML libraries and frameworks (e.g., TensorFlow, Pytorch, Scikit-learn).
+- Knowledge in programming languages (e.g., Python, JSON/XML, structured and unstructured query languages).
+- Excellent oral and written communication skills, interpersonal skills, and ability to work effectively with others.
+- Demonstrated self-starter with organizational, planning, and follow-up skills.
+Preferred Education, Experience, & Skills
+- Familiarity with containerization technologies (e.g., Docker) and orchestration tools (e.g., Kubernetes).
+- Knowledge of data visualization tools (e.g., Matplotlib, Seaborn) and data storytelling techniques.
+- Familiarity with natural language processing (NLP) and computer vision libraries (e.g., NLTK, spaCy).
+- Experience with ETL/TS tools and frameworks (e.g., Apache Beam, AWS Glue).
+- Familiarity with big data technologies like Hadoop, Spark, and Kafka.
+Pay Information
+Full-Time Salary Range: $49592 - $68993
+Please note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited
+to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.
+Temporary employees generally are not eligible for BAE Systems benefits, but can elect to participate in the 401(k) savings plan. Temporary employees working
+20+ hours per week are eligible for medical benefits, the employee assistance program, and business travel accident insurance.
+About BAE Systems, Inc.
+BAE Systems, Inc. is a defense, aerospace, and security company headquartered in Falls Church, Virginia, with more than 40,000 employees worldwide. We serve,
+supply, and protect those who protect us. As one of the most geographically diverse international defense companies, we deliver a full range of products and
+services spanning air, land, maritime, space, and cyber, including advanced electronics, intelligence solutions, and dedicated customer support.
+Our culture is performance-driven and values-led, built on curiosity, creativity, and collaboration. Purpose isn't a tagline here. It's what drives us. We're
+developing breakthrough technologies that defend national security and make a lasting impact on our communities and our planet. When you join BAE Systems,
+you're not just building a career. You're contributing to a mission that truly matters.
+This position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is
+identified.

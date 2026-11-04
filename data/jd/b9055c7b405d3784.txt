@@ -1,0 +1,40 @@
+Job Description RBC Capital Markets is seeking highly skilled and motivated individuals to join our Algo Research team as AI Engineers. Our team is at the
+forefront of leveraging artificial intelligence and machine learning to develop innovative trade execution algorithms and advanced analytics solutions. This
+role presents a unique opportunity to contribute to cutting-edge research and development in quantitative finance, working alongside top-tier professionals in a
+dynamic and collaborative environment. We are particularly interested in candidates with strong technical expertise, a passion for data-driven problem-solving,
+and the ability to apply advanced AI techniques to real-world problems. Experience in finance is not required. This internship position is 16 months in
+duration, from May 2027 to August 2028. Students are expected to return to school following the completion of the internship. What We’re Looking For: We are
+seeking candidates who demonstrate the following qualifications and attributes: Software Engineering & Programming: Expertise in Python, and knowledge of
+databases, scripting, Unix systems, data structures, and networking. Applied Machine Learning: Proficiency in ML techniques (e.g. Feature Engineering, Loss
+Function Design, Deep learning, Reinforcement Learning) and tools (e.g. PyTorch, Scikit-learn, MLflow). Data Science: Experience working with large datasets to
+extract insights and create visualizations using libraries like NumPy, Pandas, Seaborn, and Streamlit Probability & Statistics: Strong understanding of
+probability concepts and statistical methods. Communication: Skilled in conveying quantitative concepts to non-technical stakeholders. Key Responsibilities:
+Employ advanced machine learning techniques to address complex trading related problems. Develop and optimize AI-driven trading algorithms/strategies and
+incorporate them into client-facing applications. Collaborate with traders, researchers, and subject matter experts to conceptualize and implement innovative
+products. Analyze large datasets to derive actionable insights and create impactful visualizations. Contribute to a variety of high-impact projects spanning
+multiple asset classes and trading strategies. Why Join RBC Capital Markets? Be part of a forward-thinking team at the forefront of AI-driven innovation in
+finance. Collaborate with industry-leading experts on Canada’s largest trade floor. Gain exposure to real-world applications of artificial intelligence and
+machine learning in quantitative trading. Thrive in a culture that values innovation, collaboration, and continuous professional development. If you are a
+highly motivated individual with a strong technical background and a desire to contribute to the future of quantitative finance, we invite you to apply for this
+exciting opportunity. In order for your application to be considered, please upload your COVER LETTER and RESUME as ONE PDF FILE. We thank all interested
+candidates; however, only those selected for an interview will be contacted. We thrive on the challenge to be our best, progressive thinking to keep growing,
+and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a
+difference to our communities, and achieving success that is mutual. Job Skills Additional Job Details Address: ROYAL BANK PLAZA, 200 BAY ST:TORONTO City:
+Toronto Country: Canada Work hours/week: 37.5 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Student/Coop (Fixed Term) Pay Type: Salaried Posted
+Date: 2026-09-14 Application Deadline: 2026-11-16 Note: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Pay
+Range The expected pay range for this position is: $60,000.00 - $100,000.00 The pay range provided is for the primary work location referenced in the Additional
+Job Details section of this job posting. RBC supports pay transparency and we strive to ensure all pay ranges and competitive, fair, and equitable. Your actual
+pay is determined by a number of factors, including your experience, skills and education. Our Employment Opportunities At RBC, we are guided by living shared
+values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse
+perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel
+supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for
+our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and
+opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs,
+career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to
+enhance the well-being of our clients and communities at jobs.rbc.com. RBC is presently inviting candidates to apply for this existing vacancy. Applying to this
+posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more
+detail. Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance. Our success
+comes from the 84,000+ employees who bring our vision, values and strategy to life so we can help our clients thrive and communities prosper. As Canada’s
+biggest bank, and one of the largest in the world based on market capitalization, we have a diversified business model with a focus on innovation and providing
+exceptional experiences to more than 16 million clients in Canada, the U.S. and 34 other countries. Learn more at rbc.com.‎ We are proud to support a broad
+range of community initiatives through donations, community investments and employee volunteer activities. See how at rbc.com/community-social-impact.

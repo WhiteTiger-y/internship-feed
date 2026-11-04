@@ -1,0 +1,71 @@
+Shape the Future of Enterprise AI as our Next AI Developer Intern
+Ready to make a tangible impact on global enterprise systems using cutting-edge artificial intelligence? Trimble is seeking an ambitious, curious problem solver
+to gain practical, hands-on experience engineering intelligent agentic workflows, prototyping applied solutions, and automating core business operations
+alongside our collaborative team.
+About Us
+Trimble is a global technology company that connects the physical and digital worlds, transforming the ways work gets done. With relentless innovation in
+precise positioning, modeling and data analytics, Trimble enables essential industries including construction, geospatial and transportation. Whether it's
+helping customers build and maintain infrastructure, design and construct buildings, optimize global supply chains or map the world, Trimble is at the
+forefront, driving productivity and progress. For more information about Trimble (Nasdaq:TRMB), visit: www.trimble.com.
+What Makes This Role Great
+In this role, you will work directly under the hood of enterprise-scale artificial intelligence ecosystems, collaborating with senior engineering leads and
+experimenting in safe sandboxes to build intelligent software that drives measurable business efficiencies across the organization.
+Key Exciting Responsibilities
+- Design, code, and evaluate intelligent prototypes, agentic workflows, and automated pipelines that tackle enterprise business challenges.
+- Partner directly with cross-functional business application teams to turn complex workflow requirements into functional AI-driven automations.
+- Conduct rapid prototyping and sandbox testing to evaluate model performance, test technical hypotheses, and refine smart tools.
+- Collaborate with senior engineering mentors to adopt industry best practices for model integration, APIs, and modern AI engineering standards.
+Essential Skills & Experience
+- Active pursuit of a degree in Computer Science, Management Information Systems, Data Science, Software Engineering, or equivalent demonstrable coding
+proficiency.
+- Practical programming foundation in languages such as Python, TypeScript, or C++ with sound software design fundamentals.
+- Hands-on technical experience building or engineering AI solutions, integrating LLM APIs, or scripting custom tools beyond standard end-user prompt
+applications.
+- Collaborative mindset, strong problem-solving initiative, and clear verbal and written communication abilities.
+Bonus Points For
+- Familiarity with cloud platforms such as Google Cloud Platform, AWS, or Azure.
+- Exposure to modern AI development frameworks such as LangChain, LlamaIndex, or vector databases.
+- Hands-on experience developing, integrating, or consuming RESTful APIs.
+Logistics
+- Location: Westminster, CO, In Office / Hybrid
+- Travel Requirement: 0%
+Why You'll Love Working With Us At Trimble
+We're not just a company that "does good"—we are a team dedicated to making a tangible, positive Real-World Impact. We build innovative solutions designed to
+solve the world's most critical challenges. From construction sites to transportation hubs, our work tangibly improves how people live, build, move, and grow.
+- You'll work on projects that truly matter: Our purpose-driven culture means you'll be helping to build and deliver solutions that make work faster, safer, and
+more sustainable for millions of people worldwide. Our impact is tangible, from connected machines that save fuel to data-driven insights that reduce waste.
+- Collaborate with like-minded people: Our strong internal culture is a "hidden gem." You will work with a collaborative, supportive team that shares your
+purpose and fosters a genuine sense of belonging. We're a company of "visionary pragmatists" who think boldly and build things that work.
+- Be an owner: Trimble thrives on individuals who take initiative and embrace ownership. You'll find an entrepreneurial spirit where success is often "self-
+authored," empowering proactive "doers."
+AI Developer Intern, Artificial Intelligence Intern, Machine Learning Intern, Generative AI, Python Developer, LLM Integration, Agentic AI, Enterprise AI,
+Dayton Ohio Jobs
+Shape the Future of Enterprise AI as our Next AI Developer Intern
+Compensation: Trimble provides the following compensation range and general description of other compensation and benefits that it in good faith believes it
+might pay and/or offer for this position. This compensation range is based on a full time schedule. Trimble reserves the right to ultimately pay more or less
+than the posted range and offer additional benefits and other compensation, depending on circumstances not related to an applicant’s sex or other status
+protected by local, state, or federal law.
+Hiring Range
+$22.69–$34.04
+Pay Rate Type
+Hourly
+Bonus Eligible?
+No
+Commission Eligible?
+No
+Benefits: Trimble offers comprehensive core benefits that include Medical, Dental, Vision, Life, Disability, Time off plans and retirement plans. Most of our
+businesses also offer tax savings plans for health, dependent care and commuter expenses as well as Paid Parental Leave and Employee Stock Purchase Plan. If
+this position is identified above as commission- or bonus-eligible, the terms of the commission plan or discretionary bonus plan for which you are eligible will
+be provided following the employee start date.
+How to Apply: Please submit an online application for this position by clicking on one of the Apply buttons located in this posting.
+At Trimble, we are committed to fostering a diverse, inclusive, and equitable workplace where everyone can thrive. Guided by our core values—Belong, Innovate,
+and Grow—we embrace and celebrate differences, knowing they make us stronger and more innovative. We are proud to be an equal opportunity employer, welcoming
+individuals of all backgrounds and advancing opportunities while embracing race, color, gender identity, sexual orientation, religion, disability, veteran
+status, or any other protected and diverse characteristic. We are committed to offering our candidates and employees with disabilities or sincerely held
+religious beliefs the ability to seek reasonable accommodations in accordance with applicable law and/or where it would not constitute undue hardship for
+Trimble. For more, please see Trimble's Code of Business Conduct and Ethics at https://investor.trimble.com, under Governance->Governance Documents.
+Our mission to transform the way the world works starts with transforming how we work together. By actively listening, asking questions, and taking intentional
+actions, we cultivate a culture that provides equitable opportunities for everyone to contribute and grow.
+Candidate Privacy Notices by Country
+Interactive US map containing lists of federal and state-specific labor law posters.
+If you need assistance or would like to request an accommodation in connection with the application process, please contact careers@trimble.com.

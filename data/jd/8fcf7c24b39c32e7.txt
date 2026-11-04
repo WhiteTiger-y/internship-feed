@@ -1,0 +1,71 @@
+About Upstart
+At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity,
+experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.
+As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically
+intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for
+millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never
+stands between people and their financial progress.
+We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in
+the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that
+spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay
+Area, or New York City, you’ll have the support to work in the way that works best for you.
+If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you.
+The Role
+As an Applied Scientist Intern, you will become a specialist in our models, products, business and/or codebase. You will identify potential problems or
+opportunities for improvement, communicate these to the team and suggest solutions. This involves self-directed investigation, offline analyses using creative
+thinking as well as presentation to the ML team. You will receive mentorship from experienced ML practitioners and collaborate closely with the team to improve
+our products and models.
+How You’ll Make An Impact
+- Research machine learning and statistical approaches to discover improvements to the predictive performance and/or business value of a model.
+- Design, implement, and evaluate model, product, or technical enhancements using rigorous experimentation and validation methods.
+- Translate research findings into clear recommendations, documented methodologies, and production-ready solutions.
+- Work with your mentor to align stakeholders, and drive next steps.
+Minimum Qualifications
+- Bachelor. Masters or PHD degree in mathematics, statistics, physics, econometrics, computer science, or a related quantitative field. On track to graduate by
+2028.
+- Strong fundamentals in statistical, probability, and machine learning theory.
+- Ability to perform data analysis and evaluate machine learning or statistical models using Python, as well as basic SQL foundations.
+- Intellectual curiosity, humility, drive and teamwork.
+- Strong communication skills.
+- Ability to use modern agentic tooling (Claude Code, Codex, …) efficiently.
+Preferred Qualifications
+- Phd in mathematics, statistics, physics, econometrics, computer science, or a related quantitative field. On track to graduate by the summer of 2028.
+- Experience in supervised learning, model evaluation, and feature engineering techniques.
+- Advanced statistical (frequentist, bayesian, causal) theory/econometrics knowledge.
+- Strong coding skills in Python.
+Position location This role is Fully Remote
+Travel requirements As a digital first company, the majority of your work can be accomplished remotely. The majority of our employees can live and work anywhere
+in the U.S but are encouraged to to still spend high quality time in-person collaborating via regular onsites. To this end, over the course of the internship,
+you will meet to collaborate once or twice, for 2-4 consecutive days at a time.
+What You'll Love
+At Upstart, our intern benefits are designed to support your health, financial well-being, and everyday needs while you’re here. Here’s what you can expect:
+- Comprehensive medical, dental and vision coverage Health Savings Account (HSA), including $800 in employer funding for employee-only coverage or $1,600 when
+covering dependents
+- A $150 monthly medical opt-out credit if you choose to waive Upstart’s health plan
+- Income protection benefits, including life insurance and disability coverage for added financial security
+- Access to Flex Spending Accounts to manage eligible health and caregiving expenses with pre-tax dollars
+- Pre-tax commuter program to help with eligible transportation expenses
+At Upstart, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below
+range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending
+on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the
+specific salary range for your preferred location during the hiring process.
+In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).
+United States | Remote - Anticipated Base Salary Range
+$141,000 - $150,000 USD
+What You'll Love
+At Upstart, our benefits for full-time employees are designed to support your health, financial well-being, family, and personal growth. Here’s what you can
+expect:
+- Competitive compensation, including base pay, bonus opportunities, and annual equity grants that vest quarterly
+- Retirement benefits to help you plan for the future, including a 401(k) or Group Retirement Savings Plan with a company match of $2 for every $1 contributed,
+up to $15,000 annually (USD in the US, CAD in Canada)
+- Employee Stock Purchase Plan (ESPP) with discounted stock purchase options for eligible employees (US only)
+- Comprehensive health coverage designed to support you and your family, including medical, dental, vision, and wellness resources for US and supplemental
+health coverage for Canada.
+- Health Savings Account contributions from Upstart for eligible plans (US only)
+- Income protection benefits, including life insurance and disability coverage for added financial security
+- Paid time off, sick leave, and company holidays, in line with local requirements
+- Paid family and parental leave to support caregiving and major life moments (duration varies by country)
+- Family-centered benefits to support fertility, parenthood, and caregiving needs
+- Employee Assistance Program (EAP) offering mental health support and life-centered resources
+- Financial wellness resources, including access to financial planning tools and a financial concierge service (US Only)
+- Annual wellness allowance to support your physical and em

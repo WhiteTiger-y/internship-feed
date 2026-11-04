@@ -1,0 +1,35 @@
+At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and
+independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.
+Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio
+technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.
+Job Description
+Candidates must be available to work full-time (40 hours per week) from January 11- June 25, 2027. No relocation assistance is available.
+THE ROLE
+The goal of the Audio Machine Learning Research team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in
+real-time, on physical devices, for applications such as voice pickup, hearing augmentation and ones we haven't even thought of yet. As part of the team, you
+will work with experts in machine learning (ML), digital signal processing (DSP), software engineering and psychoacoustics to prototype and implement new
+algorithms.
+Bose has a strong history of combining creative thinking with cutting-edge technology in the audio domain. We are looking for candidates passionate about
+machine learning and audio to help us shape the next chapter in the future of Bose!
+Responsibilities
+- Most of your time will be devoted to prototyping, implementing and evaluating ML algorithms, curating and developing internal resources, and presenting your
+findings.
+- You will integrate your novel solutions into existing systems and platforms to showcase new (proof of concept) solutions.
+- You will be able to contribute to projects, which will be shipped to Bose customers, apply for patents, and/or submit papers to top-tier AI and signal
+processing conferences (e.g., NeurIPS, ICASSP, Interpeech, etc.).
+Education
+- Pursuing or recently finished a graduate-level degree in ML, Computer Science, Music Technology or a related field.
+Skills
+- Practical knowledge of Applied audio ML (TensorFlow/PyTorch, TFLite/ONNX is a plus) and Audio DSP (Python, Matlab and/or C/C++).
+- Hands-on experience in at least one of the following research topics: Audio source separation, Speech enhancement, Microphone array signal processing, Tiny
+ML, Generative audio modelling
+- Familiarity with methods for spatial sound synthesis and/or room acoustics simulation/analysis is a plus.
+- Strong communication skills. You will be presenting your work to a large interdisciplinary community.
+At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience,
+education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is:
+$40.00-$51.25 per hour.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs,
+comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you
+can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in
+the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for
+people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.
+‎

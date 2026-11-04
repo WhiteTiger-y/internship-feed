@@ -1,0 +1,73 @@
+This internship will follow an in-person model. Interns will be based at the Stellantis Headquarters and Technology Center in Auburn Hills, Michigan. Relocation
+assistance may be available for candidates who meet specific eligibility criteria. The internship program is scheduled to run from May through August 2027.
+Stellantis Internship program Highlights
+The Stellantis Internship Program offers a unique opportunity for highly motivated, innovative, and inspired individuals to work on challenging assignments
+where contribution, teamwork and communication are vital to the success of the organization. As a leading-edge company, we provide real world challenges and
+rewarding intern experiences to candidates from a variety of colleges and universities while providing a competitive salary.
+Interns will be assigned to a department based on the candidate’s background and skill set. The assignments are project-oriented, meaningful to the department
+and allow the intern to provide valuable contributions. Interns experience a sense of personal accomplishment and learn about the corporate business culture
+through work assignments, structured activities, and exclusive intern networking events. Interns that demonstrate outstanding qualities may be invited back for
+a return internship the following summer or may be considered for full-time positions.
+Internship Benefits:
+- Exposure to cutting-edge projects and technologies
+- Collaborative work environment
+- Mentorship from experienced professionals
+- Networking opportunities with peers and leaders
+- Skill development workshops and training sessions
+- Paid US holidays
+- Stellantis Employee Advantage Vehicle Discount Program
+- Eligible interns may be able to participate in the Company Vehicle Employee Lease Program
+Department Details
+The AI Design Intern supports the AI Design Hub in developing, testing, and deploying AI-enabled workflows that improve speed, capability, knowledge access, and
+decision-making across the Design development process. This is a project-based assignment, not an administrative one. Interns are embedded with designers and
+studio engineering, work on real pain points, and are expected to leave having built things that Design can actually use.
+What They Will Work On
+- AI workflow development: prototype AI agents, automations, and tools built around real Design pain points.
+- 3D and geometry automation: support experimentation with AI-assisted 3D creation, surfacing, morphing, Blender workflows, and geometry translation.
+- Packaging intelligence: help develop AI-assisted packaging tools drawing on engineering standards, vehicle architecture data, competitive benchmarks, and
+Design requirements.
+- Design knowledge: organize and structure Design data so AI can retrieve historical programs, standards, lessons learned, and best practices.
+- Rapid prototyping: turn ideas from designers and studio engineering into working proof-of-concepts quickly.
+- Testing and validation: work directly with designers to test prototypes, document performance, and identify where AI genuinely improves the workflow.
+- Value measurement: help quantify time saved, process compression, rework reduction, capacity created, and other FastLane 2030 benefits.
+Expected Internship Output
+Each intern is expected to finish the internship with two to three working AI prototypes tied to real Design workflows, each with measurable before-and-after
+impact and a recommendation for what should scale next.
+Each intern is paired with a mentor and works alongside the Hub lead, the AI Portfolio and Execution Lead, regional AI and data leads, and matrixed ICT
+partners, with exposure to the AI Design Ambassador network across the Chrysler, Jeep, Dodge, and Ram studios. Project assignment will consider company needs
+and student preference, and interns will present their prototypes and results to Design leadership at the end of the program.
+Tools And Environment
+Interns build inside the Stellantis-approved AI environment, using company platforms rather than personal accounts for company data. The Hub provides:
+- Microsoft Visual Studio Code as the primary development environment, with GitHub Copilot for code assistance
+- Microsoft 365 Copilot and Copilot Studio for daily productivity and for building agents
+- The Stellantis GenAI Playground, the internal no-code chat environment for testing prompts and ingesting data across ChatGPT (GPT), Claude, and other approved
+large language models
+- The GenAI Gateway, which gives secure, cost-controlled API access to the GPT, Claude, Mistral, Cohere, DeepSeek, Llama, Nova, and Titan model families
+- Stell.AI, the Databricks platform for Python development, machine learning with scikit-learn, PyTorch, and XGBoost, and generative AI through the Gateway or
+open-source libraries such as Hugging Face Transformers
+- Snowflake for data warehousing, together with Blender and the studio 3D toolchain for geometry and visualization work
+Portfolio And Work Sample Requirements
+This position requires a portfolio in PDF format be submitted with your application. Applications will not be processed without meeting this requirement.
+Because this is a technical role within a design organization, the portfolio may combine code and design work. Please ensure your submission meets the following
+requirements:
+- Your portfolio should represent your skills as they pertain to the position to which you are applying, including software, scripting, data, or applied AI
+projects
+- Your most current work should be presented first and displayed in descending order from most current to oldest
+- Provide a brief description of your specific contribution to each project, particularly for team or class projects
+- Links to public code repositories, demos, or videos may be included in addition to the PDF portfolio
+Basic Qualifications
+- Pursuing a bachelor's degree or higher from an accredited college or university in Computer Science, Software Engineering, Data Science, Human-Computer
+Interaction, Design Technology, or a related field
+- Working knowledge of Python or a comparable programming language
+- Proficient with Microsoft Office Suite applications
+- Able to work full-time, 40 hours per week during the internship
+- Willingness to relocate for internship
+- Completion of freshman year or higher at an accredited college or university by Spring 2027
+- Authorized to work in the United States
+- Candidates must submit a current portfolio, saved as a PDF, representing work from freshman year to the present, specifically highlighting software, data, or
+applied AI projects
+Preferred Qualifications
+- Completion of sophomore year or higher at an accredited university by the internship start date
+- Experience building with large language models, generative image or video tools, or machine learning frameworks
+- Familiarity with scripting inside creative or 3D software such as Alias, Blender, Maya, or Unreal Engine
+- Experience working with data: SQL, pandas, APIs, or bu

@@ -1,0 +1,72 @@
+Responsibilities
+The Multimedia Lab builds highly efficient, scalable video codec hardware solutions (FPGA and ASIC) from the ground up, serving billions of users. We bring
+together algorithm, architecture, software, firmware, and hardware design and verification expertise, designing high-performance video silicon IP across ASIC
+and SoC digital design, verification, and next-generation video codec hardware. Alongside the silicon work, we advance research in video understanding,
+perceptual quality assessment, image and video enhancement, and intelligent coding, including using multimodal models to improve coding decisions.
+Quality, efficiency, and speed rarely improve together. Sharper images and better perceived quality usually cost bitrate, compute, or latency, and a technique
+that works in research does not always survive production at global scale.
+You will take ideas from research through to silicon and production systems, where research decisions show up in the cost and quality of video across
+ByteDance's products.
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and
+opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside
+industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are
+submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start
+and end dates.
+Responsibilities
+- Design, develop, and optimize innovative algorithms for data compression, processing, and large multimodal model applications, including but not limited to 2D
+video, multiview video, point clouds, Gaussian splatting–based or NN-based coding, token compression, and KV cache optimization.
+- Stay up to date with state-of-the-art techniques through standardization activities or leading conference/journal publications.
+- Build prototypes and demonstrations, and contribute to technical reports, publications, and patent filings.
+Qualifications
+Minimum Qualifications
+- Currently pursuing a Master's degree in computer science/electrical engineering/mathematics/statistics/data science and related disciplines
+- Strong Computer Science fundamentals (algorithms, data structures, software design) and problem-solving skills
+- Familiar with token/image/video coding and processing or large multimodal models
+- Familiar with Python, PyTorch
+- Familiar with C/C++
+- Collaborative mindset, with solid written and verbal communication skill
+Preferred Qualifications
+- Good understanding of state-of-art compression algorithms
+- Rich experience and interest in video/image coding standards (e.g., H.263/264/265/266, MPEG-2/4, JPEG, JPEG 2000, AV1, AV2, AVS1/2/3, etc.)
+- Proficient in deep learning frameworks such as PyTorch, TensorFlow, and YOLO.
+- Hands-on experience with large language models (LLMs) and vision-language models (VLMs), including LoRA, diffusion models, and VQA tasks.
+- Experience with model training, fine-tuning, and evaluation pipelines.
+- Familiar with GPU acceleration and CUDA environment configuration.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $57- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and
+Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect
+with, consume, and create content.
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and
+connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we
+work towards every day.
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company.
+By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create
+and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are
+committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope
+you are too.
+Reasonable Accommodation
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious
+beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-
+request

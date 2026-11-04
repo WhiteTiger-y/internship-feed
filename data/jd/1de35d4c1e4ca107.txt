@@ -1,0 +1,94 @@
+cutting edge technology.
+As an AI Intern at Vatic Labs, you will contribute to the research and development of fully autonomous trading agents with some of the brightest researchers,
+traders, and technologists in the world. As a part of your internship at Vatic Labs, you will explore vast amounts of market data, research different AI
+approaches, apply cutting edge machine learning algorithms and statistical approaches to this data to discover and capitalize on trading opportunities.
+We are seeking researchers who have demonstrated the ability to generate impactful research in their academic pursuits. We foster an open and academic
+environment, where collaboration is the key to our success. Drawing from our collective backgrounds in Computer Science, Mathematics, Statistics, and Physics,
+we apply rigorous analytics to test hypotheses derived from years of successful quantitative trading. We are passionate about hiring the best and the brightest,
+empowering them with the tools and mentorship needed to be successful.
+If you possess the following, we would love to explore what is available for you with our team:
+- Earned or will earn a PhD or Master's Degree in Computer Science, Statistics, Mathematics, Electrical Engineering, Physics, or related fields
+- Demonstrable experience coding in C++ or Python in a Linux environment
+- Have experience analyzing large datasets with rigorous statistical and machine learning approaches, including classification, clustering, and regression.
+- In depth technical knowledge of AI, deep learning, and machine learning algorithms including strong knowledge of the mathematical underpinnings behind these
+various methods
+- Have innate curiosity for understanding why and how certain techniques work
+- Have deep knowledge of time-series analysis
+- Advanced knowledge of a high-level language for numerical analysis, Python (numpy/scipy stack) preferred
+- Contribution to AI and ML research communities, top tiered peer reviewed publications, publishing/presenting papers at conferences such as NeurIPS, ICML, etc.
+- Have an interest and enthusiasm for learning about financial markets (previous experience not required)
+While we are serious about our work at Vatic, we also promote a fun environment!
+You can expect:
+- Ping pong and poker games
+- Fun team outings
+- Unlimited office snacks
+- Free breakfast, lunch, and dinner
+The base salary range for this role is between $3000 and $4500 weekly. The base salary range does not include any other form of compensation, such as any bonus
+amounts, or any benefits. Factors that may impact the agreed upon base salary within the range for a particular candidate include years of experience, level of
+education obtained, skill set, and other factors.
+Create a Job Alert
+Interested in building your career at Vatic Labs? Get future opportunities sent straight to your email.
+Create alert
+Apply for this job
+*
+indicates a required field
+Autofill my application
+First Name *
+Last Name *
+Email *
+Phone Country
+Phone
+Resume/CV *
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach Attach
+Dropbox
+Google Drive
+Enter manually Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Education
+School * Select...
+Add another
+LinkedIn Profile
+Website
+How did you hear about this job?
+Privacy Notice *
+Acknowledge/Confirm
+Effective Date: 10/01/2016
+Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing
+you with the opportunity to receive our services.
+This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It
+applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+Scope and Consent
+By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or
+disclosing) any personal information that you submit.” You also expressly consent to Vatic Labs’ processing sensitive information you elect to submit (for
+instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+Reason for processing and how we use the Personal Information
+Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted
+application and any additional personal information will be used to:
+- assess your skills and interest in career opportunities at Vatic Labs
+- verify your identity, including the account creation and password reset processes
+- provide customer service, dispute resolution, and Site troubleshooting
+- customize, measure, and report on our Site and career service operations
+- process your application and send notices to you about our open positions
+- compare information for accuracy and verify it with third parties
+- conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other
+information that may be necessary for determining your qualifications for an open position at Vatic Labs
+If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment
+purposes (and our related employment data protection policy will apply).
+All these reasons are in the legitimate interests of Vatic Labs.
+Collection of Personal Information
+We collect the following types of personal information when you visit or use the Site:
+Information we collect automatically : When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information
+sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the
+pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard
+web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+Information you provide to us : We (including service providers) may collect and store any information you provide us when you use the Site, including when you
+submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to
+access certain parts of the Site and we will not be able to process your application. This information includes:
+Contact information, such as your name, address, phone, email,

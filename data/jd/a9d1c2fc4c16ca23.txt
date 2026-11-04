@@ -1,0 +1,34 @@
+EmbodyX is a Silicon Valley startup developing next-generation Physical AI and robotics software to address the global labor shortage through intelligent
+automation. Our team includes experts from leading technology companies such as Google and Snap, as well as renowned robotics research labs including
+Northeastern University, Carnegie Mellon University, and MIT-IBM Watson AI Lab.
+We are looking for a Robotics Engineer Intern to join our engineering team part-time/ full-time. In this role, you will work on the development, evaluation, and
+deployment of state-of-the-art robot foundation models and embodied AI systems. You will collaborate closely with researchers and engineers to build scalable
+learning pipelines and deploy advanced AI models on real robotic platforms.
+This is a deployment-oriented role. Engineers may work on-site at customer facilities for extended periods, and the primary work location may change as projects
+and customer deployments evolve. Candidates should be comfortable with this level of mobility and on-site work.
+Responsibilities
+- Develop, optimize, and deploy robotic manipulation pipelines using commercial robotic platforms (e.g., Interbotix, WidowX, Kinova, Unitree, ABB).
+- Implement, train, and evaluate state-of-the-art imitation learning, reinforcement learning, and Vision-Language-Action (VLA) models, including ACT, OpenVLA,
+π0, Lingbo-VA, and emerging foundation models.
+- Build and extend simulation environments using Isaac Lab, Isaac Sim and related simulators for scalable data generation and sim-to-real transfer.
+- Collaborate with cross-functional engineering teams to deploy robotic AI solutions in industrial environments such as warehouses and manufacturing facilities.
+- Analyze deployment results, identify failure modes, and continuously improve system robustness and performance.
+Qualifications
+- Bachelor, Master or Ph.D. in Computer Science, Robotics, Electrical Engineering, Mechanical Engineering, or a related field (or equivalent industry research
+experience).
+- Strong programming skills in Python and C++.
+- Experience with robotics software frameworks such as ROS/ROS2.
+- Experience with simulation platforms including Isaac Lab, Isaac Sim, or similar.
+- Strong experience with PyTorch and modern deep learning workflows.
+- Familiarity with reinforcement learning, imitation learning, diffusion policies, or Vision-Language-Action models.
+- Experience working in Linux environments and GPU computing.
+- Strong research skills with the ability to read, implement, and improve upon recent academic publications.
+- Excellent problem-solving, communication, and vibe-coding skills.
+What We Offer
+- Opportunity to work on cutting-edge Physical AI and robotics foundation models.
+- Direct involvement in deploying AI systems on real-world robotic platforms.
+- Close collaboration with leading researchers and experienced engineers from academia and industry.
+Travel
+The role may require extended on-site work at customer facilities, and the primary work location may change depending on project needs. Domestic and
+international travel may also be required for customer deployments, field testing, and industry conferences. Business travel expenses will be covered by the
+company.
