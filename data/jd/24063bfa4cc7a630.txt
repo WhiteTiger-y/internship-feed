@@ -1,0 +1,26 @@
+Introduction
+Join the pioneering AI Foundations Research team at IBM Research and contribute to shaping the future foundations of artificial intelligence. Our group of
+scientists, engineers, and designers is dedicated to conducting end-to-end research that delivers real-world AI impact through a rigorous, responsible, and open
+innovation framework. We are the team behind IBM's Granite open-source models, and our work spans multi-modal (vision, speech, language, code) and multi-lingual
+systems, data quality, data generation, novel model architectures, training recipes, governance and trustworthiness, and programming models for interacting with
+models. As an intern, you will explore cutting-edge research areas, including new algorithms for training, fine-tuning, reinforcement learning, and inference
+time scaling, alongside pioneering work in generative computing and generative programming for language, code, and other modalities, all within a collaborative
+environment that bridges fundamental science and transformative engineering.
+Your Role And Responsibilities
+As an AI Software Engineer Intern, you will engage in the full research lifecycle to pioneer new advancements in artificial intelligence. Your role will involve
+identifying core challenges, designing novel prototype solutions, and validating them through rigorous experimentation. You will develop the robust, scalable
+infrastructure that powers cutting-edge AI research. Collaborating in small, expert-led teams, you will drive projects from concept to completion — transforming
+novel algorithms into high-performance, reusable code within modern, distributed frameworks, while contributing to IBM's open innovation initiatives.
+Preferred Education
+High School Diploma/GED
+Required Technical And Professional Expertise
+- Foundational ML Knowledge: Familiarity with core concepts of modern AI, including Transformer architectures and Large Language Models (LLMs). Hands-on class
+or project experience is a plus.
+- Programming Proficiency: Experience with Python for software development, scripting, or prototyping.
+- Problem-Solving: Strong analytical and quantitative skills with an ability to break down complex problems.
+- Communication: Ability to clearly explain technical concepts and work collaboratively within a team.
+- Learning Mindset: A strong interest in AI research and a commitment to building high-quality, well-tested code.
+Preferred Technical And Professional Experience
+- Technical Proficiency: Expertise in ML frameworks (PyTorch) and full-cycle development of algorithms and systems.
+- Specialized Skills: Hands-on experience with generative AI (LLMs) and multimodal models.
+- Communication: Ability to present complex research and build high-impact technical demonstrations.

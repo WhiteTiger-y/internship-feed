@@ -1,0 +1,76 @@
+Compensation Type
+Hourly
+Highgate Hotels
+Highgate is a leading real estate investment and hospitality management company with over $15 billion of assets under management and a global portfolio of more
+than 400 hotels spanning North America, Europe, the Caribbean, and Latin America.
+With a 30-year track record as an innovator in the hospitality industry, this forward-thinking company provides expert guidance through all stages of the
+property cycle, from planning and development through recapitalization or disposition. Highgate continues to demonstrate success in developing a diverse
+portfolio of bespoke lifestyle hotel brands, legacy brands, and independent hotels and resorts, featuring contemporary programming and digital acumen. The
+company utilizes industry-leading revenue management tools that efficiently identify and predict evolving market dynamics to drive outperformance and maximize
+asset value.
+With an executive team of seasoned hospitality leaders and corporate offices worldwide, Highgate is a trusted partner for top ownership groups and major hotel
+brands. www.highgate.com
+Location
+Highgate Corporate Offices Irving, TX
+Overview
+Join Highgate this summer for an exciting opportunity with our Data Services – Information Technology team as a Data Services Intern!
+Our 2027 Data Services Internship gives you the opportunity to explore how data supports decision-making across the hospitality industry. You’ll work alongside
+experienced Data Services professionals, gain exposure to real-world data analysis, reporting, and data quality initiatives, and work with data related to
+booking patterns, customer feedback, operational metrics, and other aspects of the business. You’ll begin developing the technical and analytical skills that
+help optimize hotel operations, support business decisions, and enhance the guest experience. Our internship begins in June and is based at our Corporate
+Offices in Irving, TX.
+Responsibilities
+- Data Management & Reporting o Assist with data collection, cleansing, and validation to maintain data quality.o Work with team members to develop, update, and
+streamline dashboards and reports.o Ensure data consistency across various systems (e.g., PMS, CRM, Booking Engines).
+- Data Analysis o Use data visualization tools (e.g. Power BI) to create clear and actionable insights for teams across the organization.o Support predictive
+analytics projects to forecast demand, enhance inventory management, and optimize pricing strategies.
+- Cross-Functional Collaboration o Collaborate with marketing, operations, finance, and revenue management teams to understand data needs and gather
+requirements.o Assist in training hotel staff on data tools and interpreting data insights for operational efficiency.
+- Data Security & Compliance o Help ensure data handling procedures comply with relevant privacy laws and corporatepolicies.o Support the team in monitoring
+data access, security protocols, and adherence to bestpractices.
+Qualifications
+- Enrolled in Bachelor’s or Master’s program in Data Science, Computer Science, Statistics, Hospitality Management, or a related field.
+- Minimum Junior status.
+- Proficient in SQL and familiar with data visualization tools (Tableau, Power BI).
+- Basic understanding of Excel, Python, or R for data manipulation.
+- Knowledge of database management and data warehouse concepts.
+- Detail-oriented, analytical mindset, and strong problem-solving skills.
+- Ability to communicate complex data insights to non-technical stakeholders.
+- Ability to multi-task in a high-paced environment.
+- Demonstrated communication, interpersonal and teamwork skills.
+- Ability to participate in a summer internship program of 10 weeks (June-August).
+- You must reside in Dallas, TX during the internship and work onsite in Irving, TX.
+- Salary - $20/hour for 40-hour week, with a duration of 10 weeks.
+Benefits
+We are pleased to offer to our full-time associates a comprehensive and competitive benefits package designed to support your health, well-being, and financial
+future.
+- Medical insurance, dental insurance, vision insurance, life insurance, short-term and long-term disability insurance401(k) Retirement Plan with employer
+matching contributions
+- Paid holidays
+- Paid vacation
+- Paid sick leave (provided in accordance with applicable law)
+- Employee assistance program (EAP)
+- Educational opportunities / Tuition reimbursement
+- Paid jury duty leave, personal leave, medical leave, and military leave in accordance with applicable law
+For Employees Based in Washington:
+- 8 paid holidays per year
+- Up to 20 days of paid vacation per year, based on classification and length of service
+- Paid Sick & Safe Time accrues at 1 hour for every 30 hours worked, with up to 72 hours of unused time carried over from one anniversary year to the next.
+For Employees Based in Colorado:
+- 8 paid holidays per year; employees working in the City of Denver receive 64 hours of designated holiday time per calendar year
+- Up to 20 days of paid vacation per year, based on classification and length of service
+- 6 days or 48 hours of Paid Sick Leave per year, accrued at 1 hour for every 30 hours worked.
+For Employees Based in California:
+- 8 paid holidays per year
+- Up to 20 days of paid vacation per year, based on classification and length of service, capped at 1.5x annual accrual rate; non-supervisory employees working
+in the City of Los Angeles accrue up to 22 days of Compensated Time Off, based on length of service capped at 192 hours of combined PST and CTO.
+- Paid Sick Time accrues at 1 hour for every 30 hours worked, unused time is carried over from one anniversary year to the next up to a maximum of 80 hours;
+employees working in the City of Los Angeles are provided 40 hours of Paid Sick Time annually on their anniversary, unused time is not carried over from one
+anniversary year to the next.
+Please note that certain benefits described above for associates in Washington, Colorado, and California may vary for associates covered by a Collective
+Bargaining Agreement (“CBA”). For such associates, eligibility for and the terms and conditions of benefits are governed by the applicable CBA and any
+applicable plan documents, and may differ from the benefits described above. In the event of any conflict or inconsistency, the terms of the applicable CBA and
+governing plan documents will control, as applicable.
+**The above-referenced benefits do not apply to part-time positions
+Posting Date
+This job opening was posted on 9/14/2026 and will remain open for at least 75 days.

@@ -1,0 +1,47 @@
+About Rippling
+Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company,
+like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.
+Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and
+even third-party apps like Slack and Microsoft 365—all within 90 seconds.
+Based in San Francisco, CA, Rippling has raised $1.4B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and
+Bedrock—and was named one of America's best startup employers by Forbes.
+We prioritize candidate safety. Please be aware that all official communication will only be sent from @Rippling.com addresses.
+About The Role
+Here at Rippling, we believe in our early talent’s potential, experience, and aspirations. Our mission is to create opportunities for students through
+mentorship and training, ownership through impactful projects, and, of course, fun through our dynamic startup culture.
+As a Data Science Intern, you will join our Data Science Team in Summer 2027 (May-August) to work shoulder to shoulder with seasoned data scientists and
+engineers focused on increasing the impact of Rippling’s product, go-to-market, risk, finance, and operations teams.
+Rippling interns gain experience doing the work of full-time data scientists, including building data products, machine learning models, AI-assisted analytics
+workflows, and production pipelines. Projects are meaningful to the business and scoped so interns can see the full impact of their work.
+During your 12 weeks at Rippling, we will provide the tools, mentorship, and context you need to be successful. Your dedicated mentor and manager will support
+your learning and development, and you will join fellow interns for socials, leader talks, and opportunities to learn how a fast-growing company operates.
+What You Will Do
+- Use machine learning, statistical analysis, and AI-assisted workflows to analyze customer and product data, uncover insights, and support better decisions.
+- Design, build, and evaluate predictive models for customer revenue, behavior, retention, risk, and product adoption.
+- Prototype responsible uses of generative AI, LLMs, or other AI techniques that improve analysis quality, decision support, automation, or user experience.
+- Build and deploy data and ML pipelines that deliver reliable predictions, recommendations, or insights at scale.
+- Evaluate model and AI system performance with clear metrics, thoughtful validation, and attention to accuracy, bias, reliability, and business impact.
+- Actively participate in team meetings to scope, drive, and communicate progress on your projects.
+- Present your work, methods, tradeoffs, and recommendations to Data Science, R&D, and business leaders.
+- Build relationships with your intern cohort and learn from executives and teams across Rippling.
+What You Will Need
+- Currently enrolled in a Bachelor’s or Master’s degree in data science, statistics, computer science, economics, engineering, mathematics, or a related
+quantitative field, with at least one semester or quarter remaining after the internship.
+- Previous internship, co-op, research, or project experience in data science, analytics, machine learning, AI, or a related technical area.
+- Strong programming skills, especially in SQL and Python.
+- Experience working with data analysis or machine learning tools such as pandas, scikit-learn, PyTorch, TensorFlow, notebooks, dbt, or similar frameworks.
+- Familiarity with modern AI concepts such as LLM prompting, embeddings, model evaluation, or responsible AI practices.
+- Excellent communication skills, including the ability to explain technical work, assumptions, and recommendations to technical and non-technical audiences.
+- Ability to adapt quickly, get your hands dirty with industrial- and startup-grade code and systems, and make pragmatic tradeoffs in ambiguity.
+- Passion and drive to constantly learn and develop your data science, engineering, and product judgment.Even if you don’t meet all of the requirements listed
+here, we still encourage you to apply. Skills can be used in lots of different ways and your life and professional experience may be relevant beyond what our
+list of requirements has outlined.
+Additional Information
+Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion,
+color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity,
+gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing
+reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email
+accomodations@rippling.com
+Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees
+who live within a 40 mile radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an
+essential function of the employee's role. Interns will be based out of one of our San Francisco and New York offices.

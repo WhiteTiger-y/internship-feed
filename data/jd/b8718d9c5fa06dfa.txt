@@ -1,0 +1,34 @@
+NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing.
+More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars
+that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our
+teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement? Join our team and help build the next
+generation of large language models, multimodal foundation models, and agentic AI systems. Intelligent machines powered by AI that can understand, reason, plan,
+interact with people, and take actions are no longer science fiction. Today, LLMs and multimodal models can process and generate text, vision, speech, audio,
+and video, while increasingly using tools and interacting with complex environments to solve real-world tasks. This is truly an extraordinary time. The era of
+AI has begun. What you'll be doing: As a Deep Learning Scientist Intern, you will work on research, design, and development of large language models, multimodal
+LLMs, and agentic AI systems. You will use machine learning and deep learning techniques across language, vision, speech, audio, and video to develop and
+improve next-generation foundation models. Research and develop large language models, multimodal foundation models, and agentic AI systems across text, vision,
+speech, audio, and video. Develop, train, fine-tune, and evaluate foundation models using supervised fine-tuning, instruction tuning, preference optimization,
+reinforcement learning, and related post-training techniques. Develop and evaluate capabilities including reasoning, multimodal understanding, planning, tool
+use, conversational interaction, and multi-step task completion. Build and curate high-quality datasets and evaluation benchmarks for model training, post-
+training, and performance analysis. Prototype new model architectures, algorithms, training strategies, and inference techniques, and collaborate with
+researchers and engineers to scale successful ideas. What we need to see: Pursuing an MS or PhD degree in Computer Science, Electrical Engineering, Artificial
+Intelligence, Applied Mathematics, or a related field. Strong knowledge of machine learning and deep learning techniques, algorithms, and modern foundation
+model architectures, including Transformers. Experience or exposure to large language models, vision-language models, or multimodal models, with an emphasis on
+reinforcement learning for agentic reasoning, planning, tool use, and coding. Excellent programming skills in Python and experience with deep learning
+frameworks such as PyTorch, NeMo, Megatron-LM, TensorFlow, or related frameworks. Experience developing, training, fine-tuning, or evaluating deep learning
+models, including familiarity with data processing, dataset development, experiment tracking, and model evaluation workflows. Strong problem-solving skills and
+a demonstrated ability to rapidly prototype, experiment, and evaluate new ideas. Ways to stand out from the crowd: Experience with large language models,
+multimodal foundation models, vision-language models, or agentic AI research and development. Background with post-training techniques such as instruction
+tuning, preference optimization, RLHF, RLVR, GRPO, or related reinforcement learning methods. Experience with multimodal reasoning across text, image, video,
+speech, or audio, including conversational or audio-language models. Experience with reasoning, planning, tool use, function calling, or multi-step agentic
+systems. Background with large-scale model training, distributed frameworks such as NeMo or Megatron-LM, GPU computing, or inference technologies such as vLLM
+or TensorRT-LLM. NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most brilliant and talented
+people in the world working for us. If you're creative and autonomous, with a genuine passion for large language models, multimodal AI, and agentic systems, we
+want to hear from you! Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected
+hourly rate for this position is 20 USD – 94 USD. You will also be eligible for Intern benefits. Applications for this job will be accepted at least until
+November 8, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work
+environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including
+in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital
+status, veteran status, disability status or any other characteristic protected by law. NVIDIA pioneered accelerated computing. Today, our AI infrastructure
+powers global intelligence, transforming every industry. Learn more about NVIDIA.

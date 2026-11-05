@@ -1,0 +1,37 @@
+At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and
+independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.
+Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio
+technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.
+Job Description
+DSP/ML Research Engineer Intern | Summer 2027
+We are looking for a Machine Learning/DSP Engineer Intern to join our research lab this summer! In this role you will help build our next generation product
+experiences enabling people to hear better, relish musical experiences, and achieve more. The duration of this position is 3 months starting June 2027 (full-
+time 40 hours/week).
+Responsibilities
+- Research, implement and evaluate of multimodal fusion methods of sensors for environmental sensing.
+- Develop and evaluate DSP and Machine Learning algorithms with a focus on room environmental sensing application.
+- Collecting data using a variety of sensors such as microphones, IMUs, and light based systems.
+- Develop machine learning models, training data, and evaluation infrastructure.
+Minimum Qualification
+- Currently in the process of obtaining a M.S., or PhD in Electrical Engineering, Acoustic Engineering, Computer Science, or related field.
+- Strong experience with programing in Python and MatLab.
+- Strong experience with TensorFlow or PyTorch.
+- Experience with camera and IMU data collection and signal processing.
+- Familiar with Machine Learning, including deep learning neural networks, memory constrained models, and training data development.
+- Familiar with real time processing applications.
+- Familiar with acoustic modeling.
+- Experience with cross-group and cross-culture collaboration.
+- High levels of creativity and quick problem-solving capabilities.
+Preferred Qualification
+- Demonstrated Machine Learning Engineer experience via an internship, co-op, class, or personal project.
+- Knowledge of embedded DSP.
+- Knowledge of C/C++, and bash scripting
+- Music or Acoustic experience and interests
+At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience,
+education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is:
+$40.00-$51.25 per hour.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs,
+comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you
+can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in
+the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for
+people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.
+‎

@@ -1,0 +1,59 @@
+Overview
+SUMMER 2027
+Shure offers a challenging, fun, and rewarding summer internship program. The twelve-week program is offered to undergraduate and graduate students. We offer
+internships with a variety of work arrangements from onsite interns to fully remote in US. Each intern will receive a competitive salary. Additionally, Interns
+who are asked to relocate to Illinois for onsite internships will receive a housing stipend to cover living expenses. Applications will be collected, reviewed,
+and selected candidates will be contacted in late fall/early winter.
+The Signal Processing and Applied Research Science team is seeking a highly motivated Audio Applied Research Science Intern to help develop next-generation
+audio technologies powered by machine learning and artificial intelligence. This role offers the opportunity to contribute to cuttingedge research and product
+development in professional audio applications.
+This Internship will be Remote, Onsite or Hybrid in Niles, IL.
+Responsibilities
+- Conducting research and developing machine learning solutions for challenging audio problems.
+- Collecting, creating, and curating datasets for model development and evaluation.
+- Designing, training, and evaluating deep learning models for audio applications, including:
+- Single- and multi-channel audio processing
+- Speech enhancement
+- Music enhancement
+- Audio classification
+- Other audio intelligence and signal processing tasks
+- Investigating and implementing state-of-the-art machine learning architectures and techniques.
+- Optimizing and adapting models for deployment across a variety of hardware and software platforms.
+- Applying modern machine learning engineering practices, including shared codebases, reusable toolkits, experiment tracking, and reproducible workflows.
+- Documenting research findings, experimental results, and technical recommendations using collaborative documentation tools.
+- Presenting technical results and insights to research and engineering teams.
+Qualifications
+- Currently pursuing a PhD or advanced Master's degree in Electrical Engineering, Computer Science, Mathematics, Statistics, Physics, Data Science, Machine
+Learning, or a related quantitative field.
+- Demonstrated research or project experience in machine learning, deep learning, or artificial intelligence.
+- Experience applying machine learning techniques to audio, speech, digital signal processing, multimedia, or related domains.
+- Proficiency with modern machine learning frameworks and libraries such as PyTorch, TensorFlow, JAX, or equivalent.
+- Strong programming skills in Python and experience working with scientific computing tools.
+- Ability to independently investigate complex technical challenges and rapidly prototype solutions.
+- Strong written and verbal communication skills.
+- Experience with audio signal processing, acoustics, speech processing, or music information retrieval.
+- Familiarity with MLOps practices, including experiment tracking, model versioning, CI/CD workflows, or scalable training infrastructure.
+- Experience deploying machine learning models to embedded, edge, mobile, cloud, or realtime systems.
+- Experience with full-stack software development and cloud technologies.
+- Publications, open-source contributions, or demonstrated research achievements are a plus.
+Applicants for this position must be currently authorized to work in the United States on a full-time basis. Shure will not sponsor applicants for this position
+for work visas.
+WHO WE ARE
+Shure’s mission is to be the most trusted audio brand worldwide – and for over a century, our Core Values have aligned us to be just that. Founded in 1925, we
+are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio
+systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get.
+We offer an Associate-first culture, flexible work arrangements, and opportunity for all.
+Shure is headquartered in United States. We have more than 35 regional sales offices, engineering hubs, distribution centers and manufacturing facilities
+throughout the Americas, EMEA, and Asia.
+Join Shure and Amplify Your Impact. Explore our unique culture and learn the key pillars that define our legacy of excellence.
+THE MIX MATTERS Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to
+providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be
+successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!
+PAY TRANSPARENCY
+Modeled by extensive market analysis and economic best practices, Shure offers competitive intern compensation that is reviewed and adjusted annually by our
+Total Rewards Team to attract, hire, and retain the industry’s top intern talent. Each internship has an hourly rate which varies from $23-$43 per hour based on
+job function (Engineering, IT, Business, etc) and year completed in school (Junior, Masters 2nd year, PHD, etc).
+WE GOT YOU - Our Benefits
+At Shure, we prioritize the well-being of our associates. Benefits for our interns include retirement savings plans and paid time off, employee discounts,
+professional development opportunities, and work-life balance initiatives. To learn more, check out our Intern Benefits At A Glance
+#LI-HYBRID

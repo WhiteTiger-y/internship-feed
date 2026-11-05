@@ -1,0 +1,38 @@
+Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers,
+robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an
+NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can
+make a lasting impact on the world.
+Join NVIDIA’s Physical AI Technical Marketing team to help developers learn how to build AI systems that perceive and interact with the physical world. Work
+with engineers and educators to turn robotics and simulation workflows into tested labs, tutorials, and learning experiences. You’ll own a scoped project from a
+working example through learner testing and publication, helping developers and partners put NVIDIA technology into practice.
+What you’ll be doing:
+- Collaborate with technical marketing, product, engineering, and training teams to design learning content for a selected robotics, simulation, or AI workflow
+accurately
+- Build developer-friendly hands-on learning content with clear prerequisites, exercises, expected results, and troubleshooting guidance.
+- Test tutorials and lab environments from a new learner’s perspective; reproduce failures and work with engineers to resolve them.
+- Create reusable diagrams, short demonstrations, and knowledge checks that connect technical concepts to practical tasks.
+- Maintain learning materials in version control, incorporate learner feedback, and document updates so the content stays usable as software changes.
+What we need to see:
+- Pursuing a BS or MS in Computer Science, Robotics, Electrical Engineering, Computer Engineering, or equivalent program area.
+- Python programming demonstrated through coursework, a research project, or a software project.
+- Coursework or project experience in at least one of robotics, machine learning, computer graphics, or simulation.
+- Experience using Git and a Linux development environment to run, debug, and document software.
+- A technical writing or teaching sample, such as a tutorial, project README, lab guide, or recorded demonstration that explains a working project.
+- Demonstrated experience leveraging open models and agentic tools to produce production-ready content and materials.
+Ways to stand out from the crowd:
+- A project using one or more of NVIDIA Isaac Sim, Isaac Lab, Cosmos, Jetson, Omniverse libraries, OpenUSD, or ROS (Robot Operating System).
+- Experience turning a robotics, synthetic-data, or simulation project into a reproducible example others can run.
+- Teaching, tutoring, workshop, or open-source contribution experience, with examples of improvements made from user feedback.
+- Passion for creating technical diagrams, videos, or accessible learning materials.
+- Using AI tools with a documented process for checking their output.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative and autonomous, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 20 USD – 71 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until November 9, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

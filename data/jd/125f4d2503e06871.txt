@@ -1,0 +1,69 @@
+Job Description
+Work Arrangement:
+Hybrid: This internship is categorized as a hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the
+team.
+Location:
+Sunnyvale, California
+About the Team:
+The AV / AI Capacity & Performance Engineering team helps provide the right compute, networking, storage, and AI infrastructure to support AI and ML innovation
+supporting a wide range of use cases across teams such as Embodied AI, Simulation, Data Science, and more. The team builds capacity models, improves cloud
+efficiency, supports vendor planning, and develops tooling that makes capacity, demand, utilization, reliability, and cost visible to engineering stakeholders.
+Our Capacity Intelligence system is being developed as the team’s operational interface and single point of truth for capacity intake, cloud spending, budget
+pacing, quota and queue analysis, egress forecasting, and related capacity insights. It is being expanded to incorporate new cloud providers and provide
+advanced modeling capabilities.
+Our tools and systems empower GM to tackle the complexities of autonomous driving technology and expedite our path to commercialization.
+About the Role:
+As an intern, you will help develop and optimize our capacity intelligence system with a focus on integrating new capabilities.
+What You’ll Do:
+- Develop scalable infrastructure, tools and insights to support Model Training, Simulation, CI Build and Data Generation insights with the capacity
+intelligence program.
+- Code deliverables in tandem with the engineering team.
+- Perform specific responsibilities which vary by team.
+Required Qualifications:
+- Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelor's or Master's degree in computer science or a related
+technical field.
+- Experience in systems software or algorithms.
+- Experience with modern object-oriented programming languages (e.g., Java,C++, Python). Experience coding in Python.
+- Experience with SQL, BigQuery
+- Strong communication skills with experience collaborating across cross-functional teams.
+- Able to work full-time, 40 hours per week.
+Preferred Qualifications:
+- Demonstrated software engineer experience via an internship, work experience, coding competitions.
+- Familiarity with AI-assisted engineering tools (e.g., for code generation, model analysis, or experiment planning).
+- Demonstrated creativity and quick problem-solving capabilities.
+- Research and/or work experience in machine learning infrastructure.
+- Experience with distributed systems (e.g., Spark, Ray, Kubernetes, Slurm).
+- Experience in scheduling algorithms, orchestration or compute.
+- Intent to return to degree-program after internship.
+- Graduating between December 2027 and August 2028.
+Compensation:
+- The monthly salary range for this role is $9,600 - $11,800 per month.
+- GM will provide a one-time lump sum taxable stipend payment to eligible
+students selected for the 2027 Student Program.
+What You’ll Get from Us (Benefits):
+- Paid US GM Holidays
+- GM Family First Vehicle Discount Program
+- Result-based potential for growth within GM
+- Intern events to network with company leaders and peers
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world
+better, safer and more equitable for all.
+Why Join Us
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every
+day, we want every employee to feel they belong to one General Motors team.
+Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career
+that rewards you personally by visiting Total Rewards resources.
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws.
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and
+capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-
+employment screening prior to beginning employment. To learn more, visit How we Hire.
+Accommodations
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job
+search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are
+requesting as well as the job title and requisition number of the position for which you are applying.

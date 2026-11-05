@@ -1,0 +1,77 @@
+Overview
+NRDC (the Natural Resources Defense Council) works to safeguard the Earth, its people, its plants and animals, and the natural systems on which all life
+depends. NRDC combines the power of more than 3 million members and online activists with the expertise of some 800 policy advocates, lawyers, scientists, and
+communication experts to confront the climate crisis, protect nature, ensure the rights of all people to clean air, clean water, and healthy communities. As an
+international nonprofit environmental organization, NRDC is working to address the world’s most urgent environmental challenges, and advance innovative,
+science-based, and enforceable solutions.
+Since our founding in 1970, NRDC has helped craft and deliver many of America’s foundational environmental laws, including the Clean Air Act, Clean Water Act
+and Safe Drinking Water Act. Today, we continue to lead in advancing and defending strong environmental protections at the local, state, federal and
+international levels, as well as through the marketplace. Our team works across the United States and around the world, from offices in Chicago, Los Angeles,
+New York City, San Francisco, and Washington, D.C., as well as in Beijing, and New Delhi (a subsidiary of NRDC India Pvt. Ltd.).
+Supported by our members and online activists, NRDC is driving impactful solutions that confront the climate crisis, defend nature and safeguard public health
+across Asia, Africa, and the Americas. At NRDC, we believe lasting change happens when people bring their talent, passion, and expertise together for a common
+purpose: to build a cleaner, healthier, and more resilient world. Learn more at nrdc.org.
+Our interns play an active role on the front lines of the environmental movement. Over the course of an internship, NRDC interns work with lawyers, scientists,
+or policy analysts in different program areas and amass experience that they could not have obtained anywhere else. Interns also have access to various events
+to enhance their NRDC experience.
+NRDC interns may support or work on:
+- Research, data collection, and analysis
+- Writing and developing materials for state and federal campaigns
+- Supporting with designing equitable policy solutions
+- Copywriting and editing social media posts and supporting on marketing campaigns
+- Brainstorming opportunities for process improvements, new vendors, partnerships, and engagement
+- Project management of department and team-wide initiatives
+You can find examples of work by our interns on our Careers Page.
+Responsibilities
+POSITION SUMMARY
+NRDC's Development (Fundraising) Department is seeking an undergraduate intern to support ongoing data management and analytics work for our Donor Systems team.
+This intern will report into the Data Management Reporting & Analytics Specialist. This opportunity is based out of our New York office and interns are expected
+to be onsite 3 days per week.
+The Donor Systems intern will have the opportunity to work on several projects to support the Data Management & Analytics team within Development, which
+includes but is not limited to: dashboard & report building, data modeling & analysis, documentation, and process improvement. Students interested learning more
+about the ins and outs of nonprofit operations would thrive in this opportunity.
+Qualifications
+REQUIREMENTS
+- Must be currently enrolled in an undergraduate program
+- Rising sophomores, juniors, seniors, and recent graduates (May 2027) are eligible to apply
+- Strong written and verbal communication skills
+- Research and/or data analysis skills
+- Project management and/or problem solving skills
+- Strong attention to detail
+- Able to work collaboratively within a team
+- Initiative, proactiveness, and creativity
+- Commitment to NRDC’s mission, values, and DEI principles
+TOOLS
+- Experience with Tableau and SQL (Snowflake) is ideal.
+- Experience with Git/Version Control and dbt preferred.
+DETAILS
+- Duration: 10-weeks | Commitment: 35 hours/week
+- Summer Session 1: Monday May 24, 2027 – Friday July 30, 2027
+- Summer Session 2: Monday June 7, 2027 – Friday August 13, 2027
+- Summer Session 3: Monday June 21, 2027 – Friday August 27, 2027
+- Hybrid Work Model: Summer Interns are expected to be in office 3 days/week. We will not be able to offer relocation assistance for the summer.
+- Stipend: This is a paid internship with a stipend equivalent of $7,000.00 paid bi-weekly over the course of the assignment.
+HOW TO APPLY
+Please apply via the 'Apply for this job online’ link at the top of the job description on our Careers Page. In your application please include:
+- A resume
+- A cover letter that highlights your interest in working at NRDC and which summer session(s) you can join
+Application Reviews begin the week of October 26. Positions will remain open and applications will be reviewed on a rolling basis, but we encourage you to apply
+early.
+If you are applying to multiple internship opportunities and are interested in submitting more than one set of materials, please add new materials per
+opportunity - do not replace your current materials.
+If you have any questions or issues with iCIMS or applying, please reach out to intern-request@nrdc.org. Please do not resubmit your application via email.
+Our Talent Acquisition team is committed to reviewing each application received. To keep application reviews by our team equitable, we will only accept
+applications submitted via iCIMS that include the documents asked for above. Any applications that do not contain the materials above will not be considered
+complete. Please, no phone calls, emails, or in-person application drop-offs.
+NRDC is committed to advancing diversity, equity, and inclusion, both in our work and in our workplace. We believe that celebrating and actively welcoming
+diverse voices and perspectives is essential to solving the planet's most pressing environmental problems, and we encourage applications from candidates whose
+identities have been historically under-represented in the environmental movement.
+We are an equal opportunity employer and do not discriminate in hiring or employment on the basis of race, color, religion, gender, gender identity or
+expression, marital status, sexual orientation, national origin, citizenship, age, disability, veteran status, or any other characteristic protected by federal,
+state, or local law. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction
+records.
+The incumbent will not qualify as an employee, fellow, volunteer, or independent contractor of NRDC, nor will the incumbent be guaranteed employment at the end
+of the internship term.
+NRDC operates under a hybrid work model. Interns are required to come into the office 3 days a week.
+As a science-based organization, NRDC aims to do our part to help contain the COVID-19 public health crisis. For the sake of health, safety, and equity, we ask
+that people be vaccinated unless the

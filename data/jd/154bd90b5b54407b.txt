@@ -1,0 +1,27 @@
+Why RoboForce
+RoboForce is an AI robotics company developing Physical AI–powered Robo-Labor for dull, dirty, and dangerous work. The company’s robots are engineered for
+demanding industrial environments, with a focus on real-world deployment and scalability.
+We are seeking a Machine Learning Engineer Intern to join us in developing advanced AI capabilities for robotics. The internship starts from November 2026 for
+3-6 months. As part of our team, you will help build the foundational AI ecosystem, spanning data collection, labeling, training, evaluation, and deployment.
+You will collaborate closely with a team of world-class AI engineers and gain hands-on experience solving real-world challenges at the intersection of
+artificial intelligence and robotics.
+Responsibilities
+- Train and improve robot foundation models, including vision-language-action (VLA) models and world-action models, for precise, contact-rich manipulation in
+industrial settings.
+- Explore new modalities and methods, including tactile and force-torque sensing, reinforcement learning, and simulation, to advance model capabilities.
+- Build data pipelines for robot learning, including data collection, curation, labeling, and dataset quality assurance.
+- Design and run evaluations in simulation and on real robots to measure and improve model performance.
+- Deploy models on robots and optimize them for real-time onboard inference.
+- Work closely with robotics, hardware, and product teams to bring models from research to production.
+Requirements
+- Currently pursuing an advanced degree in Computer Science, Robotics, Machine Learning, or a related field, with a graduation date in 2026 or 2027.
+- Proficiency in multimodal models, modern machine learning architectures (e.g., transformers and diffusion models), and reinforcement learning.
+- Proficiency in deep learning frameworks such as PyTorch, JAX, or TensorFlow.
+- Requires 5 days/week in-office collaboration with the teams.
+Bonus Qualifications
+- Exposure to robot learning using tactile and/or vision-based sensors.
+- Expertise in object pose estimation, bimanual manipulation, and synthetic data.
+Duration:
+- 3–6 months, full-time
+Compensation:
+- $5,000 - $6,500 monthly salary

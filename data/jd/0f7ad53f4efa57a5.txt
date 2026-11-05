@@ -1,0 +1,79 @@
+Responsibilities
+We are seeking a 2027 summer intern to support our Learning Management and Support Services (LMSS) contract with our Intelligence Community client. At Noblis,
+our LMSS contract has numerous teams that support the educational and professional development for our client’s workforce. In this project, the intern will join
+our Course Assessments and Data Analytics and Visualization teams to identify, develop, and implement data science strategies for a variety of different teams,
+applications, and types of data. These tools will be leveraged together to achieve strategic goals and objectives and to align innovation efforts with the
+organization’s mission.
+You’ll leave this internship with:
+- Skills in client consultation and translating customer data requests into actionable insights
+- Hands-on experience with dashboard lifecycle from intake to delivery
+- An impactful final project that is used in the workforce, not just assigned as busy-work.
+- Mentorship from seasoned learning and development professionals.
+- Leadership, communication, and public speaking experience.
+- An extensive network of Noblis’ professionals and 2027 intern cohort.
+Responsibilities:
+- Learn the interdependence of cross-functional teams and implement data strategy using data science skills.
+- Use data software tools to design, implement, and evaluate end-of-course and learning transfer assessments.
+- Support workforce training and education data-related projects by identifying user needs, collecting data, performing data analysis & interpretation to
+provide customer insights.
+- Report insights and help clients to make decisions and find improvement opportunities.
+Required Qualifications
+- U.S. Citizenship
+- TS/SCI clearance and an ability to obtain a CI polygraph
+- GPA of 3.3 or higher
+- Problem solving, critical thinking, and organizational skills
+- Ability to be a self-starter with demonstrated customer support and collaboration expertise
+- Ability to work in a team-based environment
+- Experience with basic coding and data visualization skills such as: Python, R, JavaScript, Tableau
+- Experience with databases and management tools such as: SQL and Access
+Desired Qualifications
+- Pursuing an undergraduate or graduate degree in a STEM field
+- Experience with large datasets
+- Familiarity with training and experience leveraging AI models including large language models, agent-based systems, and retrieval augmented generation (RAG)
+- Familiarity with Agile development workflows
+- People skills that lend themselves to emotional intelligence and the human centered design process to exemplify the customer experience
+- Consulting experience
+- Briefing/Public Speaking Skills
+Overview
+Overview
+Noblis and our wholly owned subsidiaries, Noblis ESI and Noblis MSD, take on some of the nation’s toughest challenges, delivering advanced solutions to our
+customers’ most critical missions. We bring together leading scientific, engineering, and management expertise in a culture grounded in objectivity and
+collaboration, ensuring our work creates lasting impact across federal missions.
+We work with a broad range of government agencies in the defense, intelligence, and federal civilian sectors. Learn more and find opportunities at
+careers.noblis.org
+Why Work at Noblis
+At Noblis, we share a passion for excellence and innovation, and we create an environment where people can do meaningful work while maintaining the balance that
+keeps them energized and fulfilled. We seek out individuals with a natural curiosity and desire to collaborate and learn. We believe our people are our greatest
+strength, and we consistently seek exceptionally skilled, mission‑driven professionals who care deeply about doing work that enriches lives and makes our nation
+safer.
+Noblis has earned numerous workplace awards for our culture, our commitment to employee well‑being, and our dedication to meaningful, impactful work. We also
+maintain a drug‑free workplace.
+Remote/hybrid status is subject to change based on Noblis and/or government requirements.
+Commitment to Non-Discrimination
+All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, sex, age, national origin, religion, physical or
+mental disability, pregnancy/childbirth and related medical conditions, veteran or military status, or any other characteristics protected by applicable
+federal, state, or local law.
+If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other
+benefits and privileges of employment, please contact us .
+EEO is the Law | E-Verify | Right to Work
+Total Rewards
+At Noblis we recognize and reward your contributions, provide you with growth opportunities, and support your total well-being. Our offerings include health,
+life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, and work-life programs. Our award
+programs acknowledge employees for exceptional performance and superior demonstration of our service standards. Full-time and part-time employees working at
+least 20 hours a week on a regular basis are eligible to participate in our benefit programs. Other offerings may be provided for employees not within this
+category. We encourage you to learn more about our total benefits by visiting the Benefits page on our Careers site.
+Compensation at Noblis is determined by various factors, including but not limited to, the combination of education, certifications, knowledge, skills,
+competencies, and experience, internal and external equity, location, clearance level, as well as contract-specific affordability, organizational requirements
+and applicable employment laws. The projected compensation range for this position is based on full time status. For part time or on-call staff, compensation is
+proportionately adjusted based on hours worked. While monetary compensation is important, it's just one component of Noblis’ total compensation package.
+Posted Salary Range
+USD $22.00 - USD $38.00 /Hr.
+We are seeking a 2027 summer intern to support our Learning Management and Support Services (LMSS) contract with our Intelligence Community client. At Noblis,
+our LMSS contract has numerous teams that support the educational and professional development for our client’s workforce. In this project, the intern will join
+our Course Assessments and Data Analytics and Visualization teams to identify, develop, and implement data science strategies for a variety of different teams,
+applications, and types of data. These tools will be leveraged together to achieve strategic goals and objectives and to align innovation efforts with the
+organization’s mission.
+You’ll leave this internship with:
+- Skills in client consultation and translating customer data requests into actionable insights
+- Hands-on experience with dashboard lifecycle from intake to delivery
+- An impac

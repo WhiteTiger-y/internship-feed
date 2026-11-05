@@ -1,0 +1,26 @@
+Description
+Do you have a passion for data? Are you matriculating in a Master’s or PhD program? Amazon is looking for driven data science students with strong modeling
+skills who are comfortable owning and executing data. To be successful in this internship, you will need the ability to develop, automate, and run analytical
+models for our systems. During this internship, you will build tools and support structures needed to analyze and dive deep into data to resolve systems errors
+and changes. You will have the ability to present your findings to our business partners and help drive improvements.
+Previous applicants demonstrated the aptitude to manage medium-scale modeling projects, identified requirements, and built methodology/tools that were
+statistically grounded.
+For more information on the Amazon Science community please visit https://www.amazon.science
+Basic Qualifications
+- Can relocate to where the internship is based
+- Experience with data scripting languages (e.g. SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)
+- Experience in data science, machine learning or data mining
+- Experience with big data: processing, filtering, and presenting large quantities (100K to Millions of rows) of data
+- Must be eligible for and available for full-time (40 hours per week) internship for the whole duration of the internship
+Preferred Qualifications
+- Experience with clustered data processing (e.g., Hadoop, Spark, Map-reduce, and Hive)
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k)
+matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.
+Seattle, WA, USA - 102,935.00 USD Annually
+Company - Amazon.com Services LLC
+Job ID: A10556927

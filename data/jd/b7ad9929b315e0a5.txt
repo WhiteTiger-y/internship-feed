@@ -1,0 +1,95 @@
+ATTACH RESUME/CV Couldn't auto-read resume.
+Analyzing resume...
+Success!
+File exceeds the maximum upload size of 100MB . Please try a smaller size.
+- Full name ✱
+- Email ✱
+- Phone
+- Current location
+No location found. Try entering a different location
+Loading
+- Current company
+Links
+- LinkedIn URL ✱
+- Twitter URL
+- GitHub URL
+- Portfolio URL
+- Other website
+Internships
+- How did you hear about this internship? ✱
+- Conference, Workshop, or Seminar
+- Professor, Advisor, or Committee Member
+- University Collaboration
+- LinkedIn
+- Referral
+- Company Website
+- Other
+- If you selected “Other” please share more details.
+Interest in TRI
+- In 1-3 sentences, tell us about one thing TRI is working on that you find exciting? ✱
+Level of Education
+- What degree are you currently enrolled in? ✱
+- PhD
+- Master's
+- Bachelor's
+- Other
+Work Eligibility
+- Are you eligible to work in the United States? ✱
+- Yes
+- No
+- Are you a U.S. citizen, a lawful permanent resident of the United States (“green card holder”), an asylee, a refugee, or temporary resident under the 1986
+legalization program? ✱
+- Yes
+- No
+- Are you a national, citizen, or permanent resident of Cuba, Iran, North Korea, Sudan, Syria, or Crimea (region of Ukraine)? ✱
+- Yes
+- No
+- Selection criteria should be part of the application process and be provided in writing to all candidates on a consistent basis. TRI is committed to
+compliance with U.S. and other applicable export control laws. Under U.S. export control laws, the release or disclosure of U.S.-origin controlled technology to
+foreign nationals is deemed to be an export or re-export to the foreign nationals’ home countries. This “deemed export” rule does not apply to technology
+transfers between and among U.S. citizens, persons lawfully admitted for U.S. permanent residence, persons granted U.S. asylum or refugee status, or temporary
+residents under the 1986 legalization program. Your answers will be used by the company solely to ensure compliance with U.S. export control laws. ✱
+- I have read and understand the selection criteria.
+U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)
+Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool,
+we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It
+will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+Gender
+Select ... Male Female Decline to self-identify
+Race
+Select ... Hispanic or Latino White (Not Hispanic or Latino) Black or African American (Not Hispanic or Latino) Native Hawaiian or Other Pacific Islander (Not
+Hispanic or Latino) Asian (Not Hispanic or Latino) American Indian or Alaska Native (Not Hispanic or Latino) Two or More Races (Not Hispanic or Latino) Decline
+to self-identify
+- Hispanic or Latino
+A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.
+- White (Not Hispanic or Latino)
+A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+- Black or African American (Not Hispanic or Latino)
+A person having origins in any of the black racial groups of Africa.
+- Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+- Asian (Not Hispanic or Latino)
+A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China,
+India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+- American Indian or Alaska Native (Not Hispanic or Latino)
+A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community
+attachment.
+- Two or More Races (Not Hispanic or Latino)
+All persons who identify with more than one of the above five races.
+Requesting Voluntary Self Identification Information
+At TRI, we are developing technologies that will benefit all of humankind. That’s why we are working every day to make our workforce as diverse as possible: the
+more variety our team has in our experience, interest, and backgrounds, the more likely we are to create truly great technologies. We also believe that our
+society as a whole benefits when we reach out to include a greater number of previously under-represented employees. To help us deliver on these promises, we
+invite you to voluntarily provide your gender identity, race/ethnicity, and sexual orientation. This information will never be used in making any hiring or
+employment decisions. We will use this data to track our progress towards achieving the diversity we seek at TRI.
+- Do you consider yourself a member of the Lesbian, Gay, Bisexual and/or Transgender, Queer and Questioning (LGBTQ) community?
+- Yes
+- No
+- Prefer not to say
+Submit application
+Toyota Research Institute Home Page
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.
+Jobs powered by

@@ -1,0 +1,67 @@
+Aufgaben
+At Mercedes-Benz Research & Development North America (MBRDNA), we are committed to delivering world-class automotive technologies that push the boundaries of
+what is possible. Our teams of highly skilled engineers and designers use cutting-edge software and technology, to enhance the driving experience and reduce
+environmental impact.
+Position Overview
+This internship will start in January of 2027.
+The Mercedes-Benz AI Experiences department is seeking an AI/ML Intern for Spring and Summer 2027 (both terms) to join the MB.Intelligence Context team. You
+will build on-device long-term memory for automotive agents using small language models (SLMs), Liquid AI's multimodal LFM3-Omni model (text, image, video, and
+audio inputs), and trigger-based activation, helping deliver personalized, privacy-preserving experiences in Mercedes-Benz vehicles.
+Job Responsibilities
+- Design and implement multimodal long-term memory (RAG) for automotive agents in resource-constrained in-vehicle environments.
+- Fine-tune LFM3 models, especially LFM3-Omni-2B, and other small language models for memory, preference extraction, and function calling (SFT, LoRA/QLoRA).
+- Apply reinforcement learning (e.g., DPO, GRPO) to improve memory, activation, and tool-use decisions.
+- Build trigger-based activation from multimodal cabin and vehicle signals, using decision models (e.g., LFM3 d1-omni-2B) and lightweight classifiers.
+- Build classifiers for turn detection, PII detection, and intent routing.
+- Optimize and profile models for on-device deployment (quantization, distillation) on in-vehicle hardware.
+- Build evaluation frameworks for memory, retrieval, and trigger accuracy, and present findings to Mercedes-Benz teams.
+Qualifikationen
+Minimum Qualifications
+- Master's or higher degree, in CS/CE/EE, Math, Statistics, or related fields
+- Python and PyTorch; Git-based workflows
+- Fine-tuning small language models (Hugging Face Transformers, TRL, PEFT, LoRA/QLoRA)
+- Familiarity with reinforcement learning for language models (DPO, GRPO, or PPO)
+- Familiarity with multimodal models (text, image, video, and audio)
+- Familiarity with decision models and classifiers (e.g., calibrated decision models such as LFM3 d1) RAG, embedding models, and vector search
+- Model optimization (quantization, distillation) and ML evaluation methodology
+- Strong collaboration and written communication skills
+Preferred Qualifications
+- Hands-on experience with Liquid AI models (LFM2.5, LFM3)
+- Edge LLM inference (llama.cpp, LiteRT, ExecuTorch, ONNX Runtime)
+- Privacy-preserving ML, agentic AI/MCP, or Android embedded systems
+- Always-on perception (wake-word, voice activity, or audio/visual event detection)
+This position may involve access to export-controlled technology, hardware, or software under the Export Administration Regulations (EAR), 15 C.F.R. Parts
+730-774 and possibly technical data, defense articles and defense services subject to the International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts
+120-130. As such, Mercedes-Benz Research & Development North America may be required to obtain an export license or authorization in accordance with United
+States law.
+Why should you apply?
+Here at MBRDNA, you create digital ecosystems around cars, you design a language between humans and machines, you make a car even more intelligent - you make
+the new reality for cars. MBRDNA was honored as one of the "Best Places to Work" by BuiltIn in January 2024, a testament to our commitment to creating an
+exceptional work environment. At each of our offices, we foster a culture of collaboration and continuous learning, ensuring every team member can thrive and
+innovate.
+Benefits for Full-Time* Employees Include:
+- Medical, dental, and vision insurance for employees and their families
+- 401(k) with employer match
+- Up to 15 company-paid holidays
+- Paid time off (flexible time off for salaried employees), sick time, and parental leave
+- Tuition assistance program
+- Wellness/Fitness reimbursement programs
+- Internships & Contractors excluded from Full-Time Employee benefits
+MBRDNA is an equal opportunity employer (EOE) and strongly supports diversity in the workforce. MBRDNA only accepts resumes from approved agencies who have a
+valid Agency Agreement on file. Please do not forward resumes to our applicant tracking system, MBRDNA employees, or send to any MBRDNA location. MBRDNA is not
+responsible for any fees or claims related to receipt of unsolicited resumes.
+Mercedes-Benz Research and Development North America, Inc.
+PRIVACY NOTICE FOR CALIFORNIA RESIDENTS
+https://mbrdna.com/california-employee-privacy-notice/
+Benefits
+Coaching
+Mit­arbeiter­rabatte möglich
+Mit­arbeiter­handy möglich
+Gesund­heits­maß­nahmen
+Mobilitäts­angebote
+Betrieb­liche Alters­ver­sorgung
+Barriere­frei­heit
+KontaktMercedes-Benz Research & Development North America, Inc.
+2708 Orchard Parkway95134 San JoseDetails zum Standort
+Nina Sadler E-Mail: nina.sadler@mercedes-benz.com
+Bewerben

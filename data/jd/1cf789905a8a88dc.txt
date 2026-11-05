@@ -1,0 +1,69 @@
+The Company
+PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple,
+personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.
+We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect,
+transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary
+payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.
+We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and
+withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal
+or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such
+as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to
+each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and
+payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border
+shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.
+Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and
+Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure
+we take care of ourselves, each other, and our communities.
+Job Summary:
+Machine Learning Engineer Interns at PayPal help develop innovative AI and machine learning solutions that support products and services used by millions of
+people every day. Working across PayPal, Braintree, Venmo, and Paydiant, our teams apply machine learning to complex challenges in connected payments. We’re
+looking for candidates with strong programming and analytical skills, curiosity about machine learning, and a desire to build reliable solutions that improve
+functionality, performance, and customer experiences.
+Job Description:
+As a Machine Learning Engineer Intern, you will work alongside experienced engineers, data scientists, and product teams to explore and build machine learning
+solutions. You’ll contribute to data preparation, model development, experimentation, and deployment, with guidance from your team. You should be collaborative,
+curious, and eager to learn as we develop scalable systems and new experiences across PayPal’s products and services.
+Essential Responsibilities:
+- Assist with developing, testing, and optimizing machine learning models and algorithms for business and customer needs.
+- Prepare, clean, and analyze datasets, helping assess data quality and identify patterns that support model development.
+- Run experiments and evaluate model performance using appropriate methods and metrics.
+- Collaborate with engineers and data scientists to support scalable ML pipelines and the deployment and monitoring of models in production.
+- Write clean, maintainable code and document experiments, results, and technical decisions.
+- Participate in code and design reviews, follow team standards and development practices, and incorporate feedback.
+- Stay curious about developments in machine learning and explore how relevant techniques can be applied to PayPal products and services.
+Additional Responsibilities & Preferred Qualifications:
+Minimum Qualifications:
+- Experience with at least one programming language, such as Python, Java, C++, or similar.
+- Familiarity with machine learning concepts through coursework, research, internships, or personal projects.
+- Exposure machine learning frameworks or tools such as scikit-learn, TensorFlow, or similar.
+- Familiarity with data structures, algorithms, data analysis, or statistical concepts.
+- Strong analytical, problem-solving, communication, and collaboration skills.
+Internship Program Requirements:
+- This is a Summer 2027 Internship program. Spring and Fall 2027 internships are not available.
+- Must be legally authorized to work in the U.S. without sponsorship.
+- Currently pursuing a bachelor's or master's degree in computer science, machine learning, data science, computer engineering, or a related technical field at
+an accredited college or university.
+- Must be returning to school in Fall 2027.
+- Application will be accepted through Sunday December 6th, 2026.
+globaluniversityinternmachinelearning
+globaluniversityinternspecialtytech
+The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by
+location is:
+Primary Location : Pay Range:
+San Jose, California : ($50–$59 hourly)
+Visa Sponsorship through PayPal is not available for this position now or any time in the future.
+Subsidiary:
+PayPal
+Travel Percent:
+0
+PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application
+directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam.
+All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To
+learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us.
+For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice
+of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.
+Our Benefits:
+At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer
+comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it
+matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage
+for you and your family, and resources to create financial security and support y

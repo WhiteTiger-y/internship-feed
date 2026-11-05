@@ -1,0 +1,71 @@
+Responsibilities
+The Multimedia Lab builds highly efficient, scalable video codec hardware solutions (FPGA and ASIC) from the ground up, serving billions of users. We bring
+together algorithm, architecture, software, firmware, and hardware design and verification expertise, designing high-performance video silicon IP across ASIC
+and SoC digital design, verification, and next-generation video codec hardware. Alongside the silicon work, we advance research in video understanding,
+perceptual quality assessment, image and video enhancement, and intelligent coding, including using multimodal models to improve coding decisions.
+Quality, efficiency, and speed rarely improve together. Sharper images and better perceived quality usually cost bitrate, compute, or latency, and a technique
+that works in research does not always survive production at global scale.
+You will take ideas from research through to silicon and production systems, where research decisions show up in the cost and quality of video across
+ByteDance's products.
+About The Team:
+Our Streaming Codec Team is dedicated to advancing cutting-edge research in multimedia, including but not limited to video compression, image processing, and
+video data processing, and translating these innovations into production-grade live-streaming systems. Our work directly supports large-scale products serving
+hundreds of millions of users worldwide. We are seeking exceptional PhD-level talent with deep expertise in video compression and processing, a strong record of
+research excellence, and the ambition to shape the future of realtime video technologies.
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock
+limitless growth.
+Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your
+resume.
+Responsibilities:
+- Support the research and development of machine learning based video coding and processing technologies.
+- Explore encoding and decoding framework optimizations for live-streaming use cases, with attention to latency, efficiency, and quality.
+- Prototype and evaluate video encoding and processing algorithms on heterogeneous platforms.
+- Conduct research on perceptual quality-oriented video coding and processing algorithms.
+- Assist in benchmarking, profiling, debugging, and optimizing codec components and related systems.
+- Prepare technical reports, experimental analyses, and interface documentation for encoder/decoder modules.
+- Collaborate with research scientists and engineers to validate ideas and transfer promising results into production-oriented workflows.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a PhD in Computer Science, Electrical Engineering, Mathematics, Statistics, or a related technical field.
+- Strong foundations in algorithms, data structures, computer systems, and software engineering.
+- Good understanding of image/video compression fundamentals and related research topics.
+- Strong programming and debugging skills in C/C++ or similar general-purpose programming languages.
+- Solid analytical and problem-solving skills.
+- Good written and verbal communication skills and a collaborative attitude.
+Preferred Qualifications:
+- Research experience in video compression, image/video processing, multimedia systems, or realtime communications.
+- Familiarity with one or more video coding standards such as AVS, H.264/AVC, H.265/HEVC, VVC, or AV1.
+- Exposure to neural network-based image/video coding or visual processing methods.
+- Familiarity with SIMD/NEON optimization, multithreading, or platform-specific performance tuning.
+- Experience with live streaming, video conferencing, transcoding, or related video applications.
+- Publications or submissions to top conferences or journals in multimedia, image processing, video coding, or related fields.
+- Interest in bridging research innovation with practical product impact.
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $57- $57.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge
+is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day
+1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless.
+Join us.
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects
+people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achie

@@ -1,0 +1,74 @@
+Posting Title
+Graduate Intern - LLM Reliability and Uncertainty for AI Science Assistants
+Location
+CO - Golden
+Position Type
+Intern (Fixed Term)
+Hours Per Week
+40
+Working at NLR
+NLR is located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for energy systems research and development.
+Join the National Laboratory of the Rockies (NLR), where world-class scientists, engineers, and experts are accelerating energy innovation through breakthrough
+research and systems integration. From our mission to our collaborative culture, NLR stands out in the research community for its commitment to an affordable
+and secure energy future. Spanning foundational science to applied systems engineering and analysis, we focus on solving complex challenges to deliver advanced,
+secure, reliable, and cost-effective energy solutions. Our work helps strengthen U.S. industries, support job creation, and promote national economic growth.
+At NLR, you'll find a mission-driven environment supported by state-of-the-art facilities, multidisciplinary research teams, and strong collaborations with
+industry, academia, and other national laboratories. We offer robust professional development opportunities, and a competitive benefits package designed to
+support your career and well-being.
+Job Description
+The AI, Learning and Intelligent Systems group in the NLR Computational Science Center has an opening for a graduate student researcher in LLM Reliability and
+Uncertainty for AI Science Assistants. The researcher will investigate methods for quantifying uncertainty in LLM-based science assistants over multi-turn
+scientific dialogue, with an emphasis on flagging when a scientific question or task is underspecified or ill-posed. In practice, scientific questions can be
+vague, open-ended, or underdetermined. LLM-based assistants can quietly insert their own assumptions into such requests to fill the gap instead of raising
+concerns to their human counterpart. This internship will investigate if the assistant’s internal representations can be probed to detect these instances so
+they may be flagged for the user or used to trigger clarifying questions. We are looking for a dynamic, motivated researcher with a strong technical background
+and an interest in AI for science, uncertainty-aware machine learning, human-AI scientific workflows, and trustworthy AI. The successful candidate must be able
+to work at the intersection of machine learning research and practical AI system integration.
+Responsibilities Include
+- Research and evaluate uncertainty quantification and hallucination detection methods for multi-turn, agentic scientific workflows
+- Develop probing methods that predict, from a model's internal representations, when a scientific task specification is incomplete or inconsistent and a
+clarifying question is warranted
+- Build and instrument evaluation pipelines that capture and analyze model internal states over multi-turn scientific dialogue on HPC systems
+- Conduct experiments and analyze model behavior across computational science domains and established benchmarks
+- Contribute to technical documentation, research reports, publications, and presentations summarizing project progress and findings
+- Develop, test, and maintain high-quality research code and evaluation pipelines
+Basic Qualifications
+Minimum of a 3.0 cumulative grade point average.
+Undergraduate: Must be enrolled as a full-time student in a bachelor’s degree program from an accredited institution.
+Post Undergraduate: Earned a bachelor’s degree within the past 12 months. Eligible for an internship period of up to one year.
+Graduate: Must be enrolled as a full-time student in a master’s degree program from an accredited institution.
+Post Graduate: Earned a master’s degree within the past 12 months. Eligible for an internship period of up to one year.
+Graduate + PhD: Completed master’s degree and enrolled as PhD student from an accredited institution.
+Please Note
+- Applicants are responsible for uploading official or unofficial school transcripts, as part of the application process.
+- If selected for position, a letter of recommendation will be required as part of the hiring process.
+- Must meet educational requirements prior to employment start date.
+- Must meet educational requirements prior to employment start date.
+Additional Required Qualifications
+- Familiarity with large language models, including agentic, tool-using, or multi-turn conversational LLM systems
+- Experience developing or evaluating machine learning models for classification, uncertainty estimation, or related tasks
+- Knowledge of probabilistic machine learning or uncertainty quantification concepts
+- Hands-on experience with open-weight LLMs and modern deep learning frameworks
+- Experience running Python code on HPC or multi-GPU systems
+- Strong software engineering and debugging skills
+- Ability to work independently while collaborating effectively in a multidisciplinary research environment
+Preferred Qualifications
+- Research experience related to hallucination detection, uncertainty quantification, interpretability, explainability, or trustworthy AI
+- Familiarity with representation probing or mechanistic interpretability methods
+- Experience with LLM benchmarking and evaluation, including multi-turn or conversational agent evaluation and LLM-as-a-judge protocols
+- Experience with scientific question-answering systems, AI for science applications, or scientific agent frameworks
+- Coursework or research background in a computational science domain (e.g., fluid mechanics, solid mechanics, materials science, or numerical methods for PDEs)
+Job Application Submission Window
+The anticipated closing window for application submission is up to 30 days and may be extended as needed.
+Annual Salary Range (based on full-time 40 hours per week)
+Job Profile: / Annual Salary Range: $44,500 - $71,200
+NLR takes into consideration a candidate’s education, training, and experience, expected quality and quantity of work, required travel (if any), external market
+and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In
+compliance with the Colorado Equal Pay for Equal Work Act, a potential new employee’s salary history will not be used in compensation decisions.
+Benefits Summary
+Benefits include medical, dental, and vision insurance; 403(b) Employee Savings Plan with employer match*; and sick leave (where required by law). NLR employees
+may be eligible for, but are not guaranteed, performance-, merit-, and achievement- based awards that include a monetary component. Some positions may be
+eligible for relocation expense reimbursement. Internships projected to be less than 20 hours per week are not eligible for medical, dental, or vision benefits.
+- Based on eligibility rules
+Badging Requirement
+NLR is subject to Department of Energy (DOE) access restrictio

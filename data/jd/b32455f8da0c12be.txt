@@ -1,0 +1,68 @@
+The Company
+PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple,
+personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy.
+We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect,
+transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary
+payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.
+We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and
+withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal
+or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such
+as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to
+each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and
+payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border
+shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade.
+Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and
+Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure
+we take care of ourselves, each other, and our communities.
+Job Summary:
+As a Data Science intern, you will have an impact on PayPal’s products all around the world and you will have the opportunity to gain hands-on experience and
+exposure to the world of data science. This internship is designed to provide a talented and aspiring data scientist with real-world challenges and projects to
+sharpen their skills while contributing to our data-driven initiatives.
+Our interns work to better understand our end-users, identify opportunities, and improve our products by creating personal and smart experiences. By making use
+of PayPal’s endless amount of data, you will leverage your data and machine learning skills for the research and delivery of end-to-end ML solutions. If you are
+interested to be a Data Scientist/Machine learning and have sharp analytical skills and a passion for deriving new insights, solving unique challenges,
+leveraging machine learning algorithms, and working in a highly collaborative, values-driven environment.
+Job Description:
+As a Data Scientist Intern, you will work alongside experienced data scientists, engineers, and product teams to analyze data and uncover insights that inform
+business and customer decisions. You’ll contribute to defining metrics, conducting analyses and experiments, and communicating findings and recommendations,
+with guidance from your team. You should be collaborative, curious, and eager to learn as we use data to improve PayPal’s products and services.
+Essential Responsibilities:
+* Analyze large, complex datasets to identify trends, explain business performance, and develop actionable recommendations.
+* Partner with product, engineering, and data teams to define success measures, improve data quality, and support reliable analytics.
+* Design and evaluate analyses and experiments to inform product decisions and business priorities.
+* Communicate findings clearly to technical and non-technical stakeholders, including senior leaders.
+* Manage multiple projects and deliver high-quality work in a fast-paced environment.
+Additional Responsibilities & Preferred Qualifications:
+Minimum Qualifications:
+* Experience analyzing complex datasets and translating findings into actionable recommendations.
+* Proficiency in SQL and experience with data visualization tools such as Tableau or Looker; Python or R experience is a plus.
+* Strong knowledge of statistics, including hypothesis testing and regression, and familiarity with experimentation.
+* Strong communication, problem-solving, and organizational skills; able to work through ambiguity and collaborate across teams.
+Internship Program Requirements:
+* This is a Summer 2027 Internship program. Spring and Fall 2027 internships are not available.
+* Must be legally authorized to work in the U.S. without sponsorship.
+* Currently pursuing a bachelor’s or master’s degree in computer science, software engineering, or a related technical field at an accredited college or
+university.
+* Must be returning to school in Fall 2027.
+* Applications will be accepted through Sunday December 6th, 2026.
+globaluniversityinterndataanalytics
+globaluniversityinternspecialtytech
+The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by
+location is:
+Primary Location | Pay Range:
+San Jose, California | ($32 - $55 Hourly)
+Visa Sponsorship through PayPal is not available for this position now or any time in the future.
+Subsidiary:
+PayPal
+Travel Percent:
+0
+PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application
+directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam.
+All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To
+learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us.
+For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice
+of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations.
+Our Benefits:
+At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer
+comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it
+matters most. We strive to create a flexible, balanced work culture with 

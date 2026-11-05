@@ -1,0 +1,42 @@
+Let’s search for your next career at TEL. Use the form below to search our current opportunities and then apply. Please consider joining our Talent Community so
+that we may continue to engage with you.
+Job Description
+ATG Optical Sensor Development Intern (Summer 2027)
+Job Description
+Tokyo Electron America, Inc. (TEL), a subsidiary of Tokyo Electron Limited and a global leader in semiconductor equipment and process technologies, is seeking a
+Research Scientist Intern to join the USCRD Advanced Technology Group (ATG) in Austin, Texas.
+Duration: Monday, May 17th- August 20th, 2027
+Location: Austin, TX
+Position Summary
+TEL is seeking an M.S. or Ph.D. student with a background in optics, photonics, electrical engineering, experimental physics or signal processing to support the
+development of advanced sensing technologies for next-generation semiconductor applications.
+The intern will work closely with researchers and engineers to evaluate sensing technologies, identify hardware requirements, recommend instrumentation
+solutions, and develop laboratory proof-of-concept (PoC) systems. The project will involve optical characterization, experimental setup development, hardware
+evaluation, and system integration. Experience with low-signal optical measurements, modulated optical techniques or lock-in amplification is highly desirable.
+Responsibilities:
+- Conduct literature reviews and technology assessments related to optical sensing and measurement systems.
+- Evaluate and recommend hardware, optics, detectors, electronics, data acquisition systems, and software tools for PoC development.
+- Design, assemble, and test laboratory measurement setups and experimental systems.
+- Support hardware integration, troubleshooting, testing, and performance evaluation.
+- Develop data acquisition and analysis workflows using Python, MATLAB, or similar tools.
+- Analyze experimental data and prepare technical reports and presentations.
+- Collaborate with researchers, engineers, and external vendors.
+Requirements:
+- Currently pursuing an M.S. or Ph.D. degree in Optical Engineering, Electrical Engineering, Applied Physics, Photonics, Engineering Physics, Materials Science,
+Mechanical Engineering, or a related field.
+- Hands-on experience with laboratory instrumentation, photoluminescence characterization, or experimental research.
+- Strong analytical, problem-solving, and communication skills.
+- Must be legally authorized to work in the U.S without sponsorship
+Preferred Skills
+- Photoluminescence spectroscopy, optical sensing, or related characterization techniques.
+- Signal processing and low signal-to-noise ratio (SNR) measurement techniques.
+- Experience with modulated optical measurements, synchronous detection, or lock-in amplification.
+- Experimental design and laboratory testing.
+- Programming experience with Python, MATLAB, LabVIEW, or similar tools.
+- Electronics, data acquisition, and hardware integration.
+Equal Opportunity Employer/Minorities/Females/Disabled/Veterans
+Diversity creates an innovative culture. TEL US is an Equal Employment Opportunity / Affirmative Action employer and all qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual
+orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+Subsidiary
+TOKYO ELECTRON AMERICA, INC.

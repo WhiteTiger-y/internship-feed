@@ -1,0 +1,56 @@
+About Blackhawk Network
+Today, through BHN’s single global platform, businesses of all kinds can tap into the world’s largest network of branded payment solutions. BHN helps businesses
+grow revenue, increase loyalty, motivate and reward their teams, disburse funds and engage consumers. Branded payment solutions include the issuance and
+distribution of gift cards, egifts, corporate payouts and rewards, along with the technology to deliver these products in seamless, integrated ways. BHN’s
+network spans the globe with more than 400,000 consumer touchpoints. Learn more at BHN.com.
+Overview
+Blackhawk Network (BHN) is building a digital platform and products that bring people and brands together. We facilitate cross channel payments via cash-in,
+cash-out and mobile payments. By leveraging blockchain, smart contracts, serverless technology, real time payment systems, we are unlocking the next million
+users through innovation. Our employees are our biggest assets! Come find out how we engage, with the biggest brands in the world. We look for people who
+collaborate, who are inspirational, who have passion that can make a difference by working as a team while striving for global excellence. You can expect a
+strong investment in your professional growth, and a dedication to crafting a successful, sustainable career for you. Our teams are composed of highly talented
+and passionate 'A' players, who are also invested in mentoring and enabling the best qualities. Our vibrant culture and high expectations will kindle your
+passion and bring out the best in you! Our internship programs runs during the summer of 2027.
+Responsibilities
+As a Technology Intern at BHN, you will work with our software developers, and architects, and you will learn to build large scale big data processing systems
+that processes multi billion dollars financial transactions with penny-level precision. You will have an opportunity to work on the following at scale:
+- Building stream-processing systems, using solutions such as Spark-Streaming.
+- Building DevOps pipelines and CI/CD systems for the agile enterprise
+- Build Large scale transaction processing systems with technologies such as REST, micro-services, Spark, Lambda processing, Kinesis, Elastic, AWS, and more.
+- Data and Analytics platforms that applies ML/AI and Big Data techniques
+- Real time risk/Fraud systems that detect and prevent financial fraud
+- Building Secure and Scalable cloud infrastructure
+Areas of Disciplines:
+- Cyber Security
+- Big Data and ML
+- Core Software Engineering
+- Infrastructure and DevOps
+- Product Management
+- Enterprise Program Management
+- UX
+Qualifications
+Ideal Skill set:
+- Demonstrate solid engineering fundamentals. Strong algorithms, data structures and coding background
+Education:
+- Currently enrolled in a Bachelor’s/Master's degree program in STEM majors
+- Must be enrolled in an accredited college or university
+- Solid verbal and written communication skills
+- Willingness to learn, be inquisitive and passionate
+- Strong interpersonal and collaboration skills
+Employment is contingent upon the successful completion of a background check.
+Benefits
+Salary Range: $25.00/hr to $30.00/hr
+Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Blackhawk Network
+offers benefits including 401k with employer match, medical, dental, vision, 12 paid holidays in the year 2027, 1 hour of sick pay accrual for every 30 hours
+worked, parental leave, life insurance, disability insurance, accident and illness insurance, health and dependent care flexible spending accounts, wellness
+benefits, and flexible time off for all full-time employees.
+EEO Statement
+Blackhawk Network provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type
+without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity
+or expression, or any other characteristic protected by federal, state or local laws. Blackhawk Network believes that diversity leads to strength. This policy
+applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence,
+compensation, and training.
+Blackhawk Network encourages applicants with previous criminal records to apply to all positions and, pursuant to the San Francisco and Los Angeles Fair Chance
+Acts (and other “Fair Chance” laws), Blackhawk Network will consider for employment qualified applicants with arrest and conviction records. For Philadelphia
+applicants or jobs, please see a copy of Philadelphia’s ordinance on this topic by clicking this link:
+https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-280104.

@@ -1,0 +1,45 @@
+Leidos, a leading defense, intelligence, and technology company, is seeking motivated and aspiring software engineering students for our Summer 2027 Internship
+Program (Starts May 2027). As a Software Engineering & AI Intern, you will join our Digital Sector on the Global Solutions Management – Operations II (GSM-O II)
+contract. This contract includes the Operations, Sustainment, Maintenance, Repair, and Defense of the Defense Information System Network (DISN) in support of
+the Defense Information Systems Agency (DISA). This role is primarily remote, with mandatory, periodic on-site requirements at either Scott AFB, IL or Ft.
+Meade, MD. Your Opportunity: We are looking for highly motivated, driven, and capable candidates to join our GSM-O Global Automation and Intelligent Network
+Solutions (GAINS) Team! This summer, you will do more than observe—you will help build intelligent systems that operate at mission-critical scale. You will work
+with high-volume data, engineer real-time pipelines using technologies such as Kafka and Elastic, and apply predictive machine learning and generative AI to
+detect emerging problems and advance toward closed-loop, self-healing networks. You will gain hands-on experience with AWS, Databricks, Watson AIOps and
+cybersecurity automation, building the technical experience and portfolio-ready accomplishments that can accelerate your career. What You’ll Do (Potential
+Projects & Learning Opportunities): Design, develop, document, test, and deploy software written in Python, JavaScript, Java, and SQL. Create Kibana
+visualizations and dashboards to provide information to users and support staff. Develop Kafka system integrations between Elasticsearch/Logstash and other
+systems, such as Databricks. Develop and apply AI/ML and automation capabilities. Assist with the deployment, configuration, testing, troubleshooting,
+maintenance, updates/upgrades of Kafka and Elastic clusters and environments. Develop automated tests using Ansible, Selenium, JMeter, Junit and/or other
+applicable tools. Develop automated CI/CD build/deployment pipelines using Jenkins, Artifactory, Kubernetes, Docker, Ansible, and Bitbucket. Work with an Agile
+team, attend daily scrums, and demonstrate working software while collaborating with a geographically distributed (remote) team. Troubleshoot and resolve
+installation, infrastructure, and system issues. Proactively and independently identify, report, monitor, and mitigate technical risks. Frequently communicate
+and collaborate with other team members to ensure successful completion of project objectives. What You’ll Bring (Required): Citizenship & Clearance: Must be a
+U.S. citizen. Ability to obtain an interim Secret DoD Security clearance prior to your start date is required (selected candidates will be sponsored for the
+required clearance). Education: Currently pursuing a degree in a relevant discipline such as Computer Science, Software Engineering, or Data Science. Technical
+Foundation: Software development experience with Python, Java, and SQL, and a working knowledge of HTML and JavaScript. Version Control: Experience with
+distributed version control software such as Git and Bitbucket. Platform Knowledge: Experience developing software on a UNIX command line platform. Teamwork:
+Strong communication skills that enable proactive and effective collaboration with a virtual team. Location: This position is primarily remote, but regular, on-
+site support at Scott AFB, IL or Ft. Meade, MD is mandatory for periodic project milestones. Candidates must have reliable transportation and the capability to
+report on-site to their designated facility within a reasonable timeframe when requested by management. What We Want (Desired): Certifications: Obtaining a
+CompTIA Security+ certification (or equivalent DoD 8570 IAT II certification) before the start date is strongly encouraged. Hands-On Experience: Full software
+lifecycle experience (design, development, test, deployment), especially in a containerized environment (Kubernetes/Docker). Familiarity with: Web development
+using UI frameworks like React. Designing and building DevOps pipelines with tools like Bitbucket, Jenkins, and Ansible. Developing software in a cloud
+environment (AWS is a plus). Atlassian tools, including JIRA and Confluence. Artificial Intelligence (AI) tools and concepts (large language models, predictive
+analytics) to support the development of self-healing and auto-ticketing capabilities. If you're looking for comfort, keep scrolling. At Leidos, we outthink,
+outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to
+fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares. Original Posting: November 4, 2026 For U.S. Positions:
+While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an
+anticipated close date of no earlier than 3 days after the original posting date as listed above. Pay Range: Pay Range $48,100.00 - $86,950.00 The Leidos pay
+range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include
+(but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market
+data, applicable bargaining agreement (if any), or other law. Leidos Leidos is an industry and technology leader serving government and commercial customers
+with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues
+of approximately $17.2 billion for the fiscal year ended January 2, 2026. For more information, visit www.Leidos.com. Pay and Benefits Pay and benefits are
+fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment
+benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here. Securing
+Your Data Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with
+you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related
+information or any other personal information, please report the email to spam.leidos@leidos.com. Commitment and Diversity All qualified applicants will receive
+consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical
+condition, genetic information, pregnancy, family structure, marital status, ancestry

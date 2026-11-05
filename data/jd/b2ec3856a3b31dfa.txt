@@ -1,0 +1,47 @@
+The Reality Labs Prototyping team builds the physical hardware behind Meta's XR and wearables research: CNC-machined, 3D-printed and molded parts, made in-house
+on fast turnarounds. We're looking for a computer vision intern to bring perception into the lab. That means catching defects before parts ship, confirming a
+part matches its CAD model, spotting trouble on a machine before it crashes, and giving the team a live view of the shop floor. You'll work with manufacturing
+engineers, machinists and software engineers, and your work will run on real machines and real parts.
+Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs) Responsibilities:
+- Build and train models that detect anomalies and defects in machined and printed parts from camera images.
+- Develop methods that match captured images or 3D scans of physical parts to their source CAD models, to identify parts and compare what was built against what
+was designed.
+- Prototype camera monitoring for CNC machines and 3D printers that catches setup errors, tool or fixture collisions and failing prints early enough to stop the
+machine.
+- Deploy and maintain networked camera systems across the lab, covering capture, storage and the pipeline from camera to model.
+- Build tools that generate and augment training data, including synthetic images rendered from CAD and automated capture rigs.
+- Measure how the models perform on real lab data and share the results with the team.
+Minimum Qualifications:
+- Currently has, or is in the process of obtaining, a Bachelor's, Master's or PhD degree in Computer Science, Electrical Engineering, Mechanical Engineering,
+Mechatronics, Robotics or a related field
+- Computer vision or deep learning experience from coursework, research or projects (detection, segmentation, anomaly detection, pose estimation)
+- Experience programming in Python with a deep learning framework such as PyTorch
+- Experience with image processing libraries such as OpenCV
+- Intent to return to a degree program after the internship
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- 3D vision experience: point clouds, depth cameras, multi-view geometry, or aligning scans to CAD models
+- Experience deploying cameras on a network (IP cameras, RTSP streams, edge devices such as NVIDIA Jetson) or running models in real time
+- Experience generating synthetic training data (Blender, rendering from CAD, domain randomization)
+- Experience with anomaly detection when there are few or no examples of defects
+- Projects in industrial inspection, robotics or machine monitoring
+- Comfortable working across disciplines, including hands-on with machinists on a shop floor
+- Familiarity with CAD tools (Fusion 360, SolidWorks, NX) and 3D file formats such as STEP and STL
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$6,688/month to $11,880/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

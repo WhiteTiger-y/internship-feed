@@ -1,0 +1,58 @@
+Job Description
+What you’ll do
+This is a paid Summer Engineering Internship Program (mid May to early August). As an intern with our Austin Software group, you’ll work to assist in
+development of our autonomous underwater vehicle development program doing software development, algorithm development, simulation and vehicle
+operation/testing. Additional responsibilities may include user documentation, testing and requirements gathering .
+Your job responsibilities and projects will be based upon your experience and educational background to provide real life application of your classroom
+knowledge. You’ll work closely with a mentor to ensure your developmental goals are met and that you meet your performance expectations.
+There is an opportunity for team building, meet and greet lunches with our executive team, facility tours, and off-site ventures. This is an exciting
+opportunity to learn ‘real world’ experience and accelerate your career by working with a leader in the oil and gas, aerospace, and entertainment industries.
+No relocation or housing assistance is being offered.
+Location
+- Role provides the opportunity to work in hybrid environment, working both virtually and in office when required.
+Functions
+RESPONSIBILITIES
+Essential
+- Carries out tasks assigned by Project Manager and the Software Development Manager. Tasks would generally be software development, algorithm development,
+simulation, and documentation.
+- Assist in preparing presentations, articles, and technical papers.
+- Interface inside and outside a meeting setting with project team members and clients.
+- Testing software remotely, in simulation and on the designated vehicle.
+Required
+QUALIFICATIONS
+- PhD/Masters candidate at an accredited University, pursuing a degree in Software Engineering, Computer Science, Robotics, Mechanical Engineering or related
+field
+- Experience with Microsoft Office
+- Experience with C++
+- Foundational knowledge of robotics/control systems including coordinates frames, kinematics, state estimation, guidance/navigation/control, 3D path-planning,
+obstacle-avoidance and SLAM
+- Must be legally authorized to work in the United States without company sponsorship now or in the future.
+DESIRED
+- Ability to work in a high-performance team on projects with constantly shifting schedules
+- Experience with image processing, computer vision, sensor fusion, point-cloud processing, or camera/sonar data
+- Experience with simulation, integration testing, or field testing of robotic, marine, or autonomous vehicles
+- Experience implementing or evaluating 3D path-planning, motion-planning, obstacle-avoidance, SLAM, or autonomous-vehicle algorithms
+Working Conditions
+This position is considered OFFICE WORK which is characterized as follows.
+- Almost exclusively indoors during the day and occasionally at night
+- Occasional exposure to airborne dust in the work place
+- Work surface is stable (flat)
+Physical Activity/Requirements
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+This position is considered LIGHT work.
+OCCASIONAL FREQUENT CONSTANT
+- Lift up to 20 pounds
+- Climbing, stooping, kneeling, squatting, and reaching
+- Lift up to 10 pounds
+- Standing
+- Repetitive movements of arms and hands
+- Sit with back supported
+About Us
+Oceaneering is a global provider of engineered services and products, primarily to the offshore energy industry. We develop products and services for use
+throughout the lifecycle of an offshore oilfield, from drilling to decommissioning. We operate the world's premier fleet of work class ROVs. Additionally, we
+are a leader in offshore oilfield maintenance services, umbilicals, subsea hardware, and tooling. We also use applied technology expertise to serve the defense,
+material handling, aerospace, science, and renewable energy industries.
+Equal Opportunity Employer
+All qualified candidates will receive consideration for all positions without regard to race, color, age, religion, sex (including pregnancy), sexual
+orientation, gender identity, national origin, veteran status, disability, genetic information, or other non-merit factor.

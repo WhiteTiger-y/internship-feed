@@ -1,0 +1,51 @@
+Job Details:
+Job Description:
+The Role and Impact
+As an AI Solutions Engineering Undergraduate Intern, you will play a pivotal role in supporting the development of integrated AI solutions. You will apply your
+foundational knowledge of AI frameworks, system design, and machine learning to contribute to the creation, optimization, and deployment of solutions tailored
+to real-world AI use cases. Through hands-on experience and collaborative projects, you will gain valuable industry insights while building the technical skills
+necessary to launch your future career in AI engineering
+Business Group
+You will be joining Intel's Data Center Group (DCG), a dynamic team dedicated to accelerating innovation in cloud computing, enterprise solutions, and data-
+centric technologies. DCG focuses on delivering cutting-edge products and solutions that drive efficiency, scalability, and performance for Intel's customers.
+As part of this group, you will contribute to projects that empower businesses around the world to harness the full potential of AI and machine learning.
+Key Responsibilities
+- Support the design and development of integrated AI solutions optimized for reliability and scalability.
+- Collaborate with software and hardware teams to enhance systems architecture and ensure seamless AI performance.
+- Assist in performance benchmarking and validation of AI solutions across CPUs and GPUs.
+- Apply foundational knowledge of AI frameworks and algorithm optimization to address customer requirements.
+- Engage in hands-on projects, gaining exposure to AI productization platforms and systems engineering fundamentals.
+- Learn and apply problem-solving skills to tackle real-world challenges in AI and machine learning.
+Qualifications:
+Minimum Qualifications
+- Pursuing a Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, or a related field.
+- Demonstrated skills in foundational Artificial Intelligence (AI) concepts, gained through internships, academic projects, coursework, or hands-on training.
+- Strong understanding of computer architecture and systems engineering principles.
+- Basic proficiency in algorithm optimization for CPUs and GPUs.
+Preferred Qualifications
+- Familiarity with AI productization platforms and systems validation methodologies.
+- Solid problem-solving and analytical thinking skills.
+- Effective communication and collaboration skills to work in a team-oriented environment.
+- Enthusiasm for innovation and a passion for advancing AI technologies.
+Join us to explore exciting challenges, collaborate with industry-leading experts, and contribute to the future of AI solutions.
+Job Type:
+Student / Intern
+Shift:
+Shift 1 (China)
+Primary Location:
+PRC, Shanghai
+Additional Locations:
+PRC, Beijing
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Work Model for this Role
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-
+site. * Job posting details (such as work model, location or time type) are subject to change.
+*
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.

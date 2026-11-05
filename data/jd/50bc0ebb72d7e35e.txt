@@ -1,0 +1,33 @@
+About the Role: The Automation & AI Solutions Intern works directly with technology partners and business leaders to design, build and deploy automation and
+artificial intelligence solutions used in live deal workflows. This is a hands-on engineering role focused on delivering production-ready tools that improve
+efficiency, decision-making and execution across the investment banking deal lifecycle. The intern will be embedded within Baird’s Global Investment Banking
+Technology Solutions team and will partner closely with deal teams and functional groups to identify manual, repetitive processes and translate them into
+scalable automation and AI-driven solutions. This is a hybrid internship, working Tuesday, Wednesday and Thursday in our downtown Milwaukee, WI office and
+Monday and Friday remote. The intern must be able to work full time during the summer, 37.5-40 hours per week, and work part time during the school semesters,
+15-20 hours per week. We are seeking a local student who can start in June 2027. The Impact You’ll Make: Identify and automate manual processes across the
+Global Investment Banking deal lifecycle using Power Automate and Power Apps Design and build end-to-end workflow solutions that integrate data from systems
+such as Salesforce, SQL, Snowflake, SharePoint and Excel Prototype, test, and deliver AI-enabled use cases using tools such as Microsoft Copilot, Copilot
+Studio, ChatGPT, Claude and Rogo Build custom Copilot agents and AI-driven tools to support research, document synthesis, data extraction and decision support
+Actively participate in discussions with business and technology stakeholders and present delivered solutions and outcomes Produce clear technical documentation
+to ensure long-term maintainability and scalability of delivered solutions What You’ll Bring to Baird: Pursuing a bachelor’s degree in Computer Science, Data
+Science, Information Systems or a related field Anticipated graduation date of May 2028 or later Proficiency in at least one programming language (Python
+preferred) Working knowledge of SQL and relational data concepts Curiosity and enthusiasm for automation and artificial intelligence, with hands-on
+experimentation using tools such as Power Automate, Copilot, or large language models Ability to clearly communicate technical concepts to non-technical
+stakeholders Self-starter mindset with the ability to take ownership, prioritize effectively, and work independently in a fast-paced environment Strong problem-
+solving skills with a high level of attention to detail Comfort working collaboratively and in person with cross-functional teams About Our Intern Program:
+Jumpstart your career with Baird’s high-impact summer intern program! You’ll gain real-world experience, connect with inspiring leaders and grow through hands-
+on projects, mentorship and dynamic events. From our Intern Welcome and Baird Gives Back Day to firmwide networking and professional development, you’ll be part
+of a vibrant, collaborative culture that values your voice and fuels your future. To learn more, check out this ">Jumpstart your career with Baird’s high-impact
+summer intern program! You’ll gain real-world experience, connect with inspiring leaders and grow through hands-on projects, mentorship and dynamic events. From
+our Intern Welcome and Baird Gives Back Day to firmwide networking and professional development, you’ll be part of a vibrant, collaborative culture that values
+your voice and fuels your future. To learn more, check out this ">undefined Baird is not currently hiring individuals for this position who now or in the future
+require sponsorship for employment visa status. #LI-DNI Baird is committed to diversity and provides employment opportunities to all employees and applicants
+for employment without regard to race, color, religion, sex, pregnancy, citizenship, national origin, age, disability, military service, veteran status, sexual
+orientation, gender identity or expression, genetic information, or any other status protected by law. Baird is an employee-owned, international financial
+services firm specializing in wealth management, capital markets, private equity and asset management. Our mission is straightforward. We strive “to provide the
+best financial advice and service to our clients and be the best place to work for all.” Our culture is like no other with extraordinary people who make Baird
+great for our clients and one another. Nationally recognized as a great place to work since 2004, we invite you to learn more about Baird, our culture and our
+people. Baird is committed to inclusion & diversity for our clients, our associates and the communities where we live and work. This commitment stems from our
+culture of integrity, genuine concern for others and respect for the individual. We view inclusion & diversity as an ongoing journey – one of shared
+responsibility, continuous improvement and a focus on progress. We invite you to join us as we work together to foster an environment where diversity unites
+rather than divides us.
