@@ -1,0 +1,41 @@
+Meta's mission is to give people the power to build community and bring the world closer together, and the Meta Reality Labs organization focuses on delivering
+this vision through AR/VR/SG devices.Meta's Efficiency and On-Device AI team within the Reality Labs organization is seeking a Research Scientist Intern with a
+focus on language/vision model optimization. As a Research Scientist Intern, your primary objective is to develop cutting-edge efficient LLMs and vision
+foundation models.
+Research Scientist Intern, Foundation Model Optimization (PhD) Responsibilities:
+- Perform LLM and vision foundation model research that leads to publications in top-tier CV/NLP/ML conferences.
+- Develop model optimization algorithms and infrastructure to enable deployment of models in resource-constrained settings, such as mobile phones and
+AR/VR/MR/SG devices.
+- Research joint optimization of models and the surrounding assistant system, including planning, memory, tool use, and coordination across device and cloud.
+- Explore personalization, model compression and efficiency, and novel model architectures including omni-modal capabilities.
+- Collaborate with cross-disciplinary research and engineering teams.
+Minimum Qualifications:
+- Currently is in the process of obtaining a PhD in the field of Artificial Intelligence or related field
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+- Hands-on experience in deep learning algorithms and techniques, e.g., transformers
+- Experience with deep learning software libraries such as PyTorch/JAX
+- Experience with scripting languages such as Python and shell scripts
+Preferred Qualifications:
+- Intent to return to degree-program after the completion of the internship
+- Experience with large scale foundation model training and on-device foundation model optimization
+- Experience in one or more of: LLM agents and orchestration, personalization, model compression and efficient inference, efficient model architectures, multi-
+modal modeling, data-centric approaches for model tuning and evaluation
+- Proven track record of publications at CV/NLP/ML conferences/journals such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

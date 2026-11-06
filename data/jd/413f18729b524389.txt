@@ -1,0 +1,60 @@
+Nice to meet you!
+We’re a leader in data and AI. Through our software and services, we inspire customers around the world to transform data into intelligence – and questions into
+answers.
+If you’re looking for a dynamic, fulfilling career with flexibility and a world-class employee experience, you’ll find it here. We’re recognized around the
+world for our inclusive, meaningful culture and innovative technologies by organizations like Fast Company, Forbes, Newsweek and more.
+What you’ll do
+Looking for *that* internship? The game-changing one that’ll help you learn, grow, and chart your path forward? You’ll find it at SAS. Our interns aren’t coffee
+runners – they do real, meaningful work. Our award-winning internship program is focused on development, culture, and community. We’ll help you grow
+professionally, find (or further) your passion, and make memorable connections that last beyond the summer.
+Applied AI Modelling (AAIM) team, within SAS R&D leads the design, development, and implementation of prebuilt models for SAS customers across many industries
+such as CPG, manufacturing, retail, insurance, among others.
+As an intern, you might:
+- Build Generative AI models to solve the challenges of SAS customers using large language models (LLMs) and/or visual language models (VLMs).
+- Use libraries like LangChain, LangSmith etc. to build applications leveraging LLMs and VLMs.
+- Collaborate with data scientists and assist in prompt engineering, Retrieval-Augmented Generation (RAG) workflow to solve the business problems of SAS
+customers.
+- Researching and developing high-quality demos to illustrate the application of Generative AI in solving practical problems.
+- Optimize the deployment pipeline for Generative AI models.
+- Part of a team of experts with different specialized skill sets including machine learning, deep learning, natural language processing, computer vision etc.
+Required qualifications
+- You are currently pursuing your Master's or PhD and enrolled in an accredited program, not graduating before December 2027 .
+- Currently studying Computer Science, Electrical Engineering, or closely related field.
+- Experience with Python, Generative AI foundation models like GPT or Claude models.
+- Strong communication skills – both written and verbal.
+- Leadership abilities. Your past experiences demonstrate you’ll take initiative and go above and beyond the call of duty.
+- You’re interested in the future of analytics and embrace technology.
+- You’re curious, passionate, authentic, and accountable. These are our Our SAS Values and influence everything we do.
+Preferred qualifications
+- Experience developing and deploying Large Language models (LLMs), PyTorch, Tensor Flow, Nvidia CUDA or SAS.
+- Experience with practical implementations of LLMs and advanced analytics projects
+- Experience with bash scripting, Docker and Kubernetes.
+Location
+- Cary, HQ Hybrid (minimum of 3 days in the office per week)
+Timeline
+- Interviews begin:  On a rolling basis
+- Internship:  May 18, 2027 – August 6, 2027 (These dates are not flexible. To be considered for the SAS Summer Internship program, all interns must be
+available to start in person at Cary HQ on May 18, 2027. Summer internships last 12 weeks.
+Perks of the job
+- Work with (and learn from) the best. As a SAS intern, you’ll get face time with company leaders and executives.
+- Hybrid work flexibility: Our hybrid approach offers the best of both worlds, combining in-office collaboration with the flexibility to work remotely, aligned
+with your team’s needs (minimum of 3 days in the office per week).
+- Free SAS programming training and certification.
+- Your well-being matters. We support all dimensions of your well-being with programs designed to reduce stress and distractions so you can stay healthy and
+productive. This includes an on-site Work/Life Center, Recreation and Fitness Center, Employee Assistance Program (EAP), subsidized cafés and more.
+- We work hard, but we like to have fun, too. Enjoy hackathons, social events and other opportunities to connect and engage.
+You are welcome here.
+At SAS, it’s not about fitting into our culture – it’s about adding to it. We believe our people make the difference. Our inclusive workforce brings together
+unique talents and inspires teams to create amazing software that reflects the diversity of our users and customers.
+Additional Information
+To qualify, applicants must be legally authorized to work in the United States, and should not require, now or in the future, sponsorship for employment visa
+status. SAS is an equal opportunity employer. All qualified applicants are considered for employment without regard to any characteristic protected by law. Read
+more: Know Your Rights.
+Resumes may be considered in the order they are received. SAS employees performing certain job functions may require access to technology or software subject to
+export or import regulations. To comply with these regulations, SAS may obtain nationality or citizenship information from applicants for employment. SAS
+collects this information solely for trade law compliance purposes and does not use it to discriminate unfairly in the hiring process.
+SAS only sends emails from verified “sas.com” email addresses and never asks for sensitive, personal information or money. If you have any doubts about the
+authenticity of any type of communication from, or on behalf of SAS, please contact Recruitingsupport@sas.com.
+Pay transparency: Hourly rates for SAS internships are based on an applicant’s year in school and the role they are hired into. Rates range from $15 to $30 per
+hour for associate and bachelor’s-level positions and from $29 to $49 per hour for master’s and Ph.D positions. Internship roles are not eligible for bonuses.
+Let's stay in touch! Join our Talent Community to stay up to date on company news, job updates and more.

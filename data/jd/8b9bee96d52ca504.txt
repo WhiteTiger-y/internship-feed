@@ -1,0 +1,26 @@
+At Daiichi Sankyo, we are united by a single purpose, to improve lives around the world through innovative medicines. With a legacy of innovation since 1899, a
+presence in more than 30 countries, and more than 19,000 employees, we are advancing breakthrough therapies in oncology, cardiovascular disease, rare diseases,
+and immune disorders. Guided by our 2030 vision to "be an innovative global healthcare company contributing to the sustainable development of society", we are
+shaping a healthier, more hopeful future for patients, their families, and society.
+Job Summary
+We are currently seeking an AI/ML Automation Pipelines Intern for Summer 2027. This position works for approximately 37.5 hours per week.
+Responsibilities
+The AI/ML Automation Intern will explore how AI and machine learning can streamline programming workflows in clinical trial reporting. The focus will be on
+building proof-of-concept automation pipelines that use Python and ML models to improve efficiency, accuracy, and standardization.
+Objectives
+- Learn how AI/ML can be integrated into clinical data workflows.
+- Build automation pipelines to reduce manual coding and enhance prediction accuracy.
+- Apply Python programming and ML frameworks (e.g., scikit-learn, LangChain) to real-world data challenges.
+Key Deliverables
+- Develop a prototype ML-based code recommender for TLF (Tables, Listings, Figures) generation.
+- Automate study metadata extraction from protocols or SAPs using NLP models.
+- Create a Python-based monitoring dashboard for QC metrics across multiple studies.
+- Present findings and demonstrate automation pipeline in a showcase session.
+Qualifications
+Currently pursuing MS or PhD in Biostatistics, Computer Science or relevant fields with analytics focus. Strong experience with R, R Shiny, Python and AI/ML is
+required.
+Daiichi Sankyo, Inc. is an equal opportunity/affirmative action employer. Qualified applicants will receive consideration for employment without regard to sex,
+gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by
+law.
+Salary Range
+USD$17.23 - USD$58.15

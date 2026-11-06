@@ -1,0 +1,56 @@
+Our Mission
+As humans, there are few things more exciting than meeting someone new. At Tinder, we’re inspired by the challenge of keeping the magic of human connection
+alive. With tens of millions of users, hundreds of millions of downloads, 2+ billion swipes per day, 20+ million matches per day, and a presence in 190+
+countries, our reach is expansive—and rapidly growing.
+We work together to solve complex problems. Behind the simplicity of every match, we think deeply about human relationships, behavioral science, network
+economics, AI and ML, online and real-world safety, cultural nuances, loneliness, love, sex, and more.
+Our Values
+- Take the Lead: We don't ghost our work or each other. Just as users don't leave their matches hanging, we don't let each other down.
+- Move Fast: We have a bias for action and urgency. Something that could be done tomorrow would be better if done today.
+- Better Together: We keep connection at the heart of dating and at the heart of how we work. Just as our users are better when they connect with others, so are
+we when we collaborate.
+- Real Talk: We say the hard thing the human way. Just as we ask our users to behave with kindness and candor in our community, we expect Team Tinder to do the
+same.
+- Safety First: We act with integrity, transparency, and consistency so people feel safe—whether they're swiping, matching, or working alongside us.
+- Spark Fun: We have fun to unlock creativity, fuel innovation, and help us build better experiences for daters.
+Program Duration
+The internship program will run from June 1 through August 31, 2027.
+Where you’ll work
+This is a hybrid role that requires in-office collaboration three days per week in Palo Alto, California.
+About The Role
+The Tinder ML team drives impact across nearly every core domain of the product — from Recommendations and Trust & Safety to Profile, Chat, Growth, and Revenue.
+Our mission is to apply machine learning to enhance user experiences, foster trust, and accelerate business growth across Tinder’s ecosystem. With Tinder's
+global scale and impact, you'll be at the forefront of solving some of the most complex challenges in technology. In this internship program, you will
+collaborate with senior engineers to build and deploy ML solutions that advance Tinder’s business goals.
+What You'll Do
+- Gain real-world experience on exciting challenges to improve the user experience.
+- Design and implement machine learning algorithms for the assigned domains: Recommendation, Trust, Profile, Chat, Growth, or Revenue.
+- Experience the ML model formulation of production problem under the guidance.
+- Work closely with a Senior Engineers to develop machine learning solutions to further Tinder’s business goals.
+- Participate in the annual Tindership Hackathon, presenting with your team to the entire Tinder team and panel of executives.
+What We're Looking For
+- Aspiring ML Engineer who’s excited to work on large scale challenges with cutting-edge technology.
+- Practical knowledge of how to build efficient end-to-end ML workflows.
+- Proficient in Python.
+- Hands-on experience in designing and building ML models.
+- Foundational knowledge of basic Computer Science principles: data structures and algorithms.
+- Currently pursuing a BS/BA or MS in Computer Science or a related field.
+Nice To Have
+- Publications in top ML or data science conferences (e.g., NeurIPS, ICML, RecSys, KDD).
+- Experience deploying ML models in production environments.
+- Familiarity with deep learning frameworks such as PyTorch, TensorFlow, or Keras.
+- Experience with Databricks, Spark, or Airflow.
+- Proficiency in additional programming languages like Go, Java or Scala.
+Commitment to Inclusion
+At Tinder, we don’t just accept difference, we celebrate it. We strive to build a workplace that reflects the rich diversity of our members around the world,
+and we value unique perspectives and backgrounds. Even if you don’t meet all the listed qualifications, we invite you to apply and show us how your skills could
+transfer. Tinder is proud to be an equal opportunity workplace where we welcome people of all sexes, gender identities, races, ethnicities, disabilities, and
+other lived experiences. Learn more here: https://www.lifeattinder.com/dei
+If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring
+process, please speak to your Talent Acquisition Partner directly.
+#Tinder
+The compensation range listed above is representative of the hourly rate offered.
+Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well
+as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Palo Alto, California. This hourly
+rate will be subject to a geographic adjustment (according to a specific city, state, and country), if an authorization is granted to work outside of the
+location listed in this posting.

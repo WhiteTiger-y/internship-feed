@@ -1,0 +1,70 @@
+At Sage Bionetworks, we believe in the power of open science and interdisciplinary collaboration to create a new vision of human health. We strive for
+actionable biomedical insights through the responsible sharing and reuse of data, all guided by our deep scientific expertise and diligent governance controls.
+We're a dynamic, adaptable team, and at Sage, we highly value individuals who can flexibly navigate various roles and functions. Diversity in experiences,
+backgrounds, and identities is essential for our rich culture of learning and collaboration. Our partnerships, both within Sage and with external communities,
+are founded on principles of trust, transparency, and a commitment to growth. Together, we are leaving a lasting imprint on the fields of science and medicine.
+In this role you will be a member of the Alzheimer’s Disease Translational Research Team working on a variety of National Institutes on Aging-supported programs
+focused on Alzheimer’s Disease and other neurodegenerative diseases. You will apply your skill as an Alzheimer’s Disease Translational Research Intern by
+engaging in multi-omic research using data (transcriptomic, proteomic, epigenomic, metabolomic) from the AD Knowledge Portal and other public resources. The
+ideal candidate will have strong computational biology/ bioinformatics skills as applied to multi-omic data, and will have enthusiasm for engaging with
+scientists and researchers across many disciplines.
+An example project might include applying pre-processing and normalization protocols for epigenetic, proteomic, and/or transcriptomic data, and running
+differential methylation/ expression analyses. Harmonization and meta-analysis across different cohorts, and comparisons across brain regions, will also be
+considered. These and other -omics data may also be evaluated for molecular profile changes across stages of Alzheimer's disease neuropathology (progression).
+This work may lead to a publication or co-authorship, posting processed data, summary files, and/or code on the AD Knowledge Portal so that interested
+investigators may build on the work (Sage’s motto: “Better Science Together”), and/or presenting your work to internal and external (academic) colleagues.
+Does a project like this sound exciting to you? Does this sound like a good fit for your skill set and research interests? Do you want to be an integral part of
+a team that includes computational biologists, research ethicists, software engineers, and data librarians? If so, you could be our next Intern!
+What You’ll Be Doing
+- Scientific Research: Develop innovative research initiatives using exploratory and hypothesis-driven data analysis on complex, high-dimensional datasets.
+- Analysis and Modeling: Utilize advanced statistics, machine learning methods, and study design expertise to pose research questions and analyze and interpret
+data.
+- Methods Development: Create and document new methods, pipelines, and tools for data analysis, and adhere to standards of reproducible research.
+- Dissemination: Communicate research findings through publication of peer-reviewed research papers, maintain detailed records, present to funders and
+collaborators, and participate in research conferences and workshops.
+When Is The Position Available And Hourly Rate
+- 3-6 month position
+- Full time or part time is ok
+- Remote or in-person is ok
+- Start date can be as soon as January 2027; Summer 2027 is also acceptable
+- This position is an intern level position with an hourly wage of $35 - 40
+We’d Love To Hear From You If You
+- Are passionate about open science and collaboration, working with complex data, and supporting scientific research.
+- Are pursuing or recently received a M.S. or Ph.D in Neuroscience, Computational Biology, Bioinformatics, Biostatistics, Epidemiology, or related discipline;
+or commensurate experience.
+- Have 1 year of research experience in a relevant field.
+- Are experienced and well-versed in data extraction, data cleaning, complex statistical analysis, and machine learning techniques using tools like R or Python.
+- Recognize the importance of applying critical thinking and thoughtful practices in your role, striving to ensure inclusivity, accessibility, and relevance for
+everyone.
+Please submit a 100% original cover letter and CV. We value your authentic voice and personal writing style. This role requires critical thinking and clear
+communication, and your application is the first demonstration of those skills.
+Job Functions And Physical Requirements
+The following cognitive and physical activities outline the essential functions required for successful job performance. Reasonable accommodations may be
+provided to enable individuals with disabilities to fulfill these functions.
+Physical Demands
+Extended periods of sitting at a desk and using a computer.Repeated wrist, hand, and finger movements.Requires clear vision for tasks like data analysis,
+transcribing, computer use, and reading.Occasionally lifting or moving objects weighing up to 10 pounds.
+Cognitive Demands
+Able to work effectively under deadlines.Strong problem-solving and analytical skills.Attention to detail and accuracy.Flexibility to adapt to changing
+environments, priorities and multitask.
+Additional Requirements
+Travel is required a minimum of two times per year for on-site events in Seattle, WA. Effective verbal and written communication skills.Works well in a team and
+maintains professionalism.Follows company policies, procedures, and relevant laws and regulations.
+Note: This list is not exhaustive and may be subject to modification as job duties evolve.
+About Us
+Sage Bionetworks is a nonprofit biomedical research organization that was founded in Seattle in 2009. We focus on advancing human health through open science
+practices and radical collaboration, with a view to breaking down existing silos in science and technology. Through our work, we guide responsible data sharing
+and reuse, benchmark scientific methods and results, and empower participants to be active partners in research. We are a bold team of scientists, engineers,
+product developers, governance specialists and business experts, working to bring data and communities together in unique ways that accelerate medical progress.
+As a growing organization, Sage is supported through a dynamic portfolio of competitive research grants, commercial partnerships, and philanthropic
+contributions.
+At Sage Bionetworks, we implement equitable workplace strategies to guarantee fair compensation. Actual compensation is determined based on current market data,
+experience, and internal pay parity. This position is an intern level position with an hourly wage of $35 - 40.
+All interns are eligible for a number of benefits, including but not limited to:
+- Paid Holidays
+- Paid Sick Time
+- Paid Personal Days
+- Access to org-wide meetings, workshops, training, etc.
+- Mentorship program
+- Transportation Benefits, if applicable
+We have a distributed workforce and su

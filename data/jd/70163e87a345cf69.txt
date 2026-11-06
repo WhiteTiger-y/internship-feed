@@ -1,0 +1,32 @@
+At Rhoda AI, we’re building the next generation of generalist intelligent robots. We own the full robotics stack from high-performance hardware and robot
+systems to the infrastructure and state-of-the-art foundation world models that control our robots. Our robots are designed to be generalists capable of
+operating in complex, real-world environments and handling long-tail edge cases, made possible by our cutting edge research and end-to-end system design. We've
+raised over $450M and are investing aggressively in model research, infrastructure, hardware development, and manufacturing scale-up to make generalist robotics
+a reality.
+Level: Internship or co-op, MS students; 4–6 months duration - starting as soon as possible
+You’ll help decide how our robots see. Our robots work around people in real warehouses, and every sensor has conditions that defeat it: bright sunlight, shiny
+floors, glass, dust, heat. Your experiments will tell us which settings to ship, where each sensor breaks and why, and what we should do about it. You’ll work
+directly with our perception and hardware engineers, and your findings go straight into sensor choices, settings and the requirements our detection algorithms
+are built against. This is a hands-on internship for someone who understands optical physics and wants to see their work running on real robots.
+What You’ll Do
+- Design experiments that answer real engineering questions, such as which sensor settings work best for each job, and whether a sensor still sees a person in
+direct sunlight
+- Explain why a sensor fails, from the physics up: ambient light, dynamic range, multipath, reflectance, angle of incidence, heat
+- Propose and test what to do about each failure: a different setting, a filter, a mounting change, or a check the software can run
+- Build the scenes, targets and scenarios that reproduce real-world conditions in the lab, and in the field when the lab isn’t enough
+- Use sensor SDKs and firmware to sweep and tune settings such as exposure, gain, frame rate, range modes and filtering
+- Write Python to process images and point clouds and turn raw data into clear numbers: range, accuracy, noise, dropout
+- Present findings and recommendations to engineers who will act on them
+What We’re Looking For
+- Pursuing an MS in Optics, Electrical Engineering, Physics, Computer Vision or Robotics, with research or lab experience designing experiments
+- Strong grasp of optical sensing physics: image formation, noise, dynamic range, time-of-flight and LiDAR principles
+- Hands-on with cameras, LiDAR, time-of-flight or other optical sensors in a lab or on a robot
+- Comfortable with sensor SDKs, drivers and configuration
+- Python for numerical analysis and image or point-cloud processing (NumPy, OpenCV, Open3D or similar)
+- Curiosity to dig past “it doesn’t work” to the cause, and creativity in finding fixes
+- Explains results clearly, in writing and with plots, to people outside your specialty
+Nice to Have
+- Camera or sensor calibration
+- Thermal or infrared imaging
+- Optical modeling or sensor simulation
+- ROS 2 and recorded-data tools

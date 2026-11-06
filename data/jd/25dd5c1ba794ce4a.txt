@@ -1,0 +1,26 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team
+and see how you can make a lasting impact on the world.
+At NVIDIA, we are pushing the boundaries of what’s possible within self-driving vehicle technology by bringing to bear the power of Deep Reinforcement Learning
+(RL). As a world leader in AI and high-performance computing, NVIDIA provides an outstanding platform where innovative research meets real-world production. We
+are looking for a Reinforcement Learning Intern to join our mission in building intelligent, safe, and efficient self-driving technology that will redefine
+transportation on a global scale.
+What you'll be doing:
+- Research, prototype, and implement state-of-the-art Reinforcement Learning (RL) algorithms for autonomous vehicle decision-making and trajectory planning.
+- Assist in developing and scaling training pipelines and simulation environments for complex RL experiments.
+- Collaborate closely with senior researchers and engineers across perception and planning teams to integrate RL models into the autonomous driving stack.
+- Analyze and benchmark RL model performance against imitation learning and traditional baselines in complex urban simulation scenarios.
+- Explore techniques to optimize and lightweight RL policies for real-time deployment on automotive hardware.
+What we need to see:
+- Currently pursuing an MS or PhD in Computer Science, Robotics, Electrical Engineering, or a related quantitative field with a strong academic background.
+- Solid theoretical foundation in Reinforcement Learning, including policy gradients (e.g., PPO, GRPO), actor-critic methods, and model-based RL.
+- Hands-on project or academic research experience developing and training deep RL algorithms using PyTorch or TensorFlow.
+- Strong programming skills in Python and foundational familiarity with C++.
+- Great eagerness to learn, strong problem-solving abilities, and excellent communication skills for collaborative team research.
+Ways to stand out from the crowd:
+- Publication record at top-tier AI/Robotics conferences (e.g., NeurIPS, ICML, IROS, ICRA, CoRL) or relevant open-source contributions in RL or autonomous
+driving.
+- Research exposure to generative modeling (e.g., Flow Matching, Diffusion, AR decoders) applied to trajectory prediction or world models.
+- Experience addressing compounding errors, distribution shift, or safety constraints in robotic control and autonomous navigation simulation environments.

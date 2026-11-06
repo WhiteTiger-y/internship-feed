@@ -1,0 +1,30 @@
+NVIDIA is the engine of the AI era. We invented the GPU, and the accelerated computing it made possible now powers the world's most advanced AI, from the data
+center to the car. Today, NVIDIA DRIVE brings that intelligence to the road: a full-stack platform that lets vehicles perceive, reason and act in the real
+world. We are looking to grow our teams with the smartest people in the world, and there has never been a more exciting time to join us.
+The Autonomous Vehicles team develops and ships NVIDIA's DRIVE software platform. Our AV Stability group owns the reliability of the full stack on real
+vehicles: every issue found on a test drive flows through us before it reaches the owning team. You will reproduce, investigate and help fix the problems that
+stand between a prototype and a product, working with sensor, perception, planning and platform teams across the globe. As AI reshapes how engineering itself is
+done, our team is also where that change meets the vehicle: we increasingly build intelligent tooling on top of the same expertise we use to debug the car. We
+have real customers and real competition, and the work is exciting, fun, and very meaningful.
+What you'll be doing:
+- Use in-house data playback, simulation, and visualization tools to re-animate and reproduce performance issues experienced during test drives.
+- Collaborate with software and algorithm experts to investigate, deduce, and isolate root causes of test drive issues, and to develop fixes and improvements.
+- Design and implement Autonomous Vehicles software, including system integration, application design, performance/power optimization, and
+stress/stability/compliance testing.
+- Drive the reliability of the whole software system, including time sync, vehicle network, RADAR, LiDAR, and camera sensor processing, and fusion.
+- Help turn hard-won debugging expertise into tooling and automation, including AI-assisted analysis of logs and vehicle data, so that problems are found faster
+and recur less.
+- Develop a strong technical understanding of the stack, and proactively identify new opportunities and creative ways to solve or mitigate technical challenges.
+What we need to see:
+- Pursuing a BS or MS in CS/CE/EE/Robotics or a related field.
+- Demonstrated proficiency in both C/C++ and Python: C/C++ to understand and debug the vehicle software stack, Python to build the tooling around it.
+- Strong debugging instincts: you can read logs and traces, form a hypothesis, and prove or disprove it with evidence.
+- Ability of using modern AI coding assistants as part of your everyday workflow, while verifying what they produce.
+- Familiar with git or other version control tooling.
+- Ability and flexibility to work and communicate effectively in a multinational, multi-time-zone environment.
+- Self-motivated and a good teammate.
+Ways to stand out from the crowd:
+- Good knowledge of key Autonomous Driving technologies and the typical challenges of key components; prior experience in the AV field.
+- Worked with CAN and related tools, RADAR, LiDAR.
+- Hands-on experience with LLM-based tooling: prompt and context design, tool calling, agent workflows, or evaluation of model output on a real task.
+- Experience with large-scale log analysis and cloud-based workflows.

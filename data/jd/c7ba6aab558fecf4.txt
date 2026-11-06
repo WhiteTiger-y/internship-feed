@@ -1,0 +1,92 @@
+Overview
+Being good neighbors – helping people, investing in our communities, and making the world a better place – is who we are at State Farm. It is at the core of how
+we operate and the reason for our success. We're moving with urgency to become a Next Gen Good Neighbor, with technology that strengthens human connections and
+enhances the customer experience. As an employee, you'll spend less time navigating systems and more time applying judgment, empathy, and expertise in the
+moments that matter most.
+Grow Your Skills, Grow Your Potential
+Responsibilities
+A Day In The Life Of A Data Scientist Intern
+We work with huge volumes of data to Help Life Go Right® for tens of millions of insurance and financial customers.
+The P&C Actuarial and Underwriting Modeling and Analytics Department is a place where interns complete innovative, meaningful research in a collaborative
+environment focused on developing technical and business skills - a perfect complement to the classroom.
+As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. We are seeking
+innovative individuals who are self-starters and like being part of a team to develop and implement creative solutions through:
+- Data mining and predictive modeling such as regression, forecasting, and machine learning
+- Research on emerging industry trends and hot topics
+We offer development through extensive training programs, mentoring programs, and leadership.
+Qualifications
+We are Looking for candidates with:
+- MUST be current GRADUATE student who will have completed first year graduate studies by start of the summer internship. Candidates pursuing a Master's degree
+in Statistics, Data Science or a related field are preferred.
+- Related fields may include: Mathematics, Economics, Quantitative Management, Industrial Engineering, Operations Research or a similar quantitative field.
+- GPA of 3.5 or higher is preferred.
+- Experience with languages such as Python required.
+- Experience with Cloud-based AWS is preferred, but is not required
+- Must demonstrate fundamental knowledge of multiple modeling techniques including but not limited to regression, neural networks, decision trees, and
+clustering
+- Strong communication, interpersonal, organization, leadership and critical thinking skills
+- Ability to work in a team environment
+- Competencies: Initiative; Teamwork; Relationship Building; Communication; Technical Functional; Strategic Business Focus
+Internship Information
+- Office locations: Bloomington, IL; Dunwoody, GA; Richardson, TX, Tempe, AZ
+- Our internship will occur: June 2, 2027 to August 11, 2027
+- Hourly Rate: $30.00/hour based on a 38.75-hour work week (Monday-Friday)
+- In addition, interns selected for our summer internship program will be eligible for a $2,000 stipend (before taxes)
+- Hybrid work environment - Combination of in-office time (at one of the locations noted above), and working from home
+- Competitive candidates will be invited to participate in online interviews during the fall of 2026
+- Internship Program Eligibility : To be eligible for the internship program, you must be a full-time student currently enrolled in a GRADUATE program
+throughout the duration of the internship, with at least one semester remaining following the internship. Graduation date of Dec. 2027 or later.
+What’s In It For You
+- Competitive Pay
+- A Learning Culture: Mentoring, Employee Development, and more!
+- Volunteer opportunities: Get involved and give back to the community!
+- We embrace Diversity and Inclusion: We are one team and it is simply the right thing to do!
+What You Can Expect
+Application deadline is expected to close on 11/8/26 . Applicant volume and hiring needs may result in early closure or extension beyond the listed deadline, so
+apply as soon as possible! To submit an application, click "Apply" on the job listing page on the State Farm career site.
+**IMPORTANT : The following MUST be attached at the time of application (please attach both of the following as ONE combined, single document and upload during
+the application process:
+- Resume
+- Transcripts (unofficial copy accepted)
+- Competitive candidates may be invited to participate in the interview process. This is where the excitement begins!
+- Applicants are required to be eligible to lawfully work in the U.S. immediately; employer will not sponsor applicants for U.S. work authorization (e.g. H-1B
+visa) for this opportunity.
+Our Benefits
+We are excited to offer our interns a tailored set of benefits with a range of valuable perks to help support you during your time with us!
+Time Off
+- 40 hours of Life Leave
+- Military Leave
+Financial Benefits
+- 401(K) Savings Plan (Eligible at age 18)
+- Mutual Funds (Eligible at age 18)
+- Commuter Benefits
+Miscellaneous Benefits
+- Wellness programs
+- US Discount program
+- Good Neighbor Grant program
+- Matching Gift program
+- Employee Assistance Fund
+- Company Holidays
+A Day In The Life Of A Data Scientist Intern
+We work with huge volumes of data to Help Life Go Right® for tens of millions of insurance and financial customers.
+The P&C Actuarial and Underwriting Modeling and Analytics Department is a place where interns complete innovative, meaningful research in a collaborative
+environment focused on developing technical and business skills - a perfect complement to the classroom.
+As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. We are seeking
+innovative individuals who are self-starters and like being part of a team to develop and implement creative solutions through:
+- Data mining and predictive modeling such as regression, forecasting, and machine learning
+- Research on emerging industry trends and hot topics
+We offer development through extensive training programs, mentoring programs, and leadership.
+We are Looking for candidates with:
+- MUST be current GRADUATE student who will have completed first year graduate studies by start of the summer internship. Candidates pursuing a Master's degree
+in Statistics, Data Science or a related field are preferred.
+- Related fields may include: Mathematics, Economics, Quantitative Management, Industrial Engineering, Operations Research or a similar quantitative field.
+- GPA of 3.5 or higher is preferred.
+- Experience with languages such as Python required.
+- Experience with Cloud-based AWS is preferred, but is not required
+- Must demonstrate fundamental knowledge of multiple modeling techniques including but not limited to regression, neural networks, decision trees, and
+clustering
+- Strong communication, interpersonal, organization, leadership and critical thinking skills
+- Ability to work in a team environment
+- Competencies: Initiative; Teamwork; Relationship Building; Communication; Technical Functional; Strategic Business Focus
+Internship Information
+- Office locations: Bloomington, IL; Dunwoody, GA

@@ -1,0 +1,53 @@
+Overview
+Working at Atlassian
+Atlassians have the flexibility to work where they can collaborate most effectively with their team, whether at home, one of our global offices, or both. We
+hire in any country where we have a legal entity. Learn how we work at go.atlassian.com/distributed .
+Your Future Org
+Atlassian’s Intern program combines hands-on technical training, professional growth opportunities, dedicated mentorship, and strong social connections. This
+holistic approach empowers students to hit the ground running and sets them up for a successful and impactful career at Atlassian!
+This is a hybrid role located in Seattle, WA. You must be willing and able to work out of this location to qualify.
+This position is not eligible for F1 and J1 students. It is not available for any work sponsorship.
+Our paid internship program runs for 12 weeks between May/June - August/September 2027
+Your Future Team
+Does the challenge of scaling a fast-growing company by powering it with data, reporting, and analytics excite you? Using your business instincts and
+creativity, you will support a market-leading product with nuanced analysis, relevant insights, and recommendations.
+What You'll Do
+- Develop data-driven hypothesis to identify new opportunities and apply rigorous statistical methodology to evaluate product experiments, feature rollouts and
+user behavior
+- Partner cross-functionally with data science, data engineering and business teams to translate complex findings into clear, actionable recommendations
+- Analyze rich user interaction and telemetry datasets to uncover user journey patterns, identify friction points and surface growth opportunities
+- Build robust data artifacts such as interactive dashboards, reproducible notebooks, or AI agents/skills that scale data backed decision-making across teams
+Responsibilities
+Your Background
+- Proficiency with SQL or other query languages and experience with Python or R for statistical computing, data analysis and predictive modeling
+- Solid understanding of statistical methods, hypothesis testing, experimental design (A/B testing), or machine learning fundamentals
+- Experience with data visualization tools (e.g: Tableau, Databricks, Mode or other BI platforms)
+- Familiarity with modern AI tools and GenAI workflows (e.g., LLM APIs, AI coding assistants, prompt engineering, or building AI agents/skills)
+- Strong communication skills with the ability to convey quantitative insights to both technical and non-technical teammates
+- Availability & Program Commitment: Able to commit to a 12-week full-time (40hrs/week) program during Summer 2027
+- Enrollment & Eligibility: Currently enrolled full-time in a Masters degree program and returning to the program after the completion of the internship,
+graduating by August 2028
+Compensation
+Benefits and Perks
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include
+health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit https://www.atlassian.com/company/careers/earlycareers
+Pay Ranges
+Role
+In The United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:
+Zone A: $0 - $0
+Zone B: $0 - $0
+Zone C: $0 - $0
+Qualifications
+Compensation
+Zone A: $53/hr - $59/hr
+Zone B: $47/hr - $53/hr
+Zone C: $44/hr - $49/hr
+About Atlassian
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions
+are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's
+perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital,
+veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment
+team during your conversation with them.
+To learn more about our culture and hiring process, visit go.atlassian.com/crh .

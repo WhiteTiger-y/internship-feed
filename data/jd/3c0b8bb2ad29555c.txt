@@ -1,0 +1,39 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
+sciences.
+This is a paid 12-week internship opportunity and is a hybrid, in-office role.
+Here’s a glimpse into the Internship experience from some of our TRI interns!
+We are looking for a Mechanical Engineering Intern to contribute to our robot hardware development and testing group. The intern who joins our team will be
+responsible for the design, fabrication, ordering, and assembly of robotic systems and test spaces, including both structural and electromechanical components.
+Responsibilities include working closely across disciplines with team members to define project requirements and support project needs (e.g. rapid iteration on
+robot component designs, maintenance and repair of robotic systems), and ensure the robotic lab remains safe, clean, and effective. The intern will also plan,
+execute, document, and communicate testing activities, providing clear and accurate reporting of test conditions and results. Occasional travel may be required,
+and additional responsibilities may be assigned as needed.
+Qualifications
+- Engineering student (undergrad or master's) with a hardware-oriented concentration.
+- Understanding of common mechanical components and robot sensors.
+- Experience using common rapid prototyping techniques and equipment (3D printers, laser cutters, hand tools, etc).
+- Solid fundamentals with mechanical CAD software (e.g. Onshape or SolidWorks).
+- Experience designing, executing, and summarizing system tests.
+- Desire to deploy and test robots both inside and outside of the lab.
+- Willingness to communicate and ask questions when in doubt.
+Bonus Qualifications
+- Experience designing for small-scale contract manufacturing and assembly.
+- Electronic assembly skills (crimping, soldering, and wire routing) and debugging experience.
+- Programming experience in MATLAB, Python, C++, or similar.
+- Demonstrable communication skills, written and verbal, including utilization of design documents and systems drawings.
+The pay range for this position at commencement of employment is expected to be between $40 and $58/hour for Massachusetts-based roles. Base pay offered will
+depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI
+offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional
+details regarding these benefit plans will be provided if an employee receives an offer of employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status
+protected under federal, state or local laws.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with
+arrest and conviction records for employment.

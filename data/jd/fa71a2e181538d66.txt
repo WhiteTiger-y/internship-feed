@@ -1,0 +1,40 @@
+When you’re the best, we’re the best. We instill an environment where employees feel engaged, satisfied and able to contribute their unique skills and talents
+while living and working as their authentic selves. We provide extensive opportunities for personal and professional development, building both employee
+competence and organizational capability to fuel exceptional performance through an inclusive environment both now and in the future. Vizient Intern Program
+Overview: This program is designed to foster a beneficial relationship and provide growth opportunities for Vizient, our employees, and collegiate students.
+Since 2000, our summer intern program has provided college undergraduate, graduate, and doctoral students with practical experience that exposes them to
+multiple aspects of a career field and the healthcare industry. This full-time, paid intern program offers an opportunity to accelerate academic learning, apply
+classroom knowledge, and introduce students to a professional setting. Interns are assigned a supervisor to mentor/develop their business skills, as well as
+monitor their work experiences. Interns are integral members of the company’s team, setting goals, working toward deadlines, and actively participating in
+community service projects. The program requires the intern to commit to 10 weeks of participation in all formal training, mentoring, on-the-job learning, and
+opportunities to interact with senior leaders. Program starts June 1, 2027, and ends August 6, 2027 Pay rate: $25 per hour. About the Team and Role The Metrics
+& Reporting team within Product Operations develops reporting, analytics, data standards, and operational tools that help Product and Engineering leaders
+understand delivery performance and make informed decisions. The team supports enterprise product portfolio governance by improving the quality, consistency,
+and usability of data from platforms such as Power BI, Azure DevOps, and Jira. The intern will help strengthen decision-ready reporting by supporting dashboard
+development, validating product and engineering data, documenting metric definitions, and improving repeatable reporting processes. The primary project will
+focus on identifying reporting data quality gaps and helping automate a recurring product delivery performance scorecard or related reporting workflow. What
+You'll Do Support the development, maintenance, testing, and quality assurance of Power BI dashboards and recurring performance reports. Analyze and validate
+data from Azure DevOps and Jira to identify missing fields, inconsistencies, trends, and reporting risks. Document product and engineering metrics,
+calculations, source fields, business rules, and reporting standards. Assist with reporting automation and process improvements that increase efficiency,
+consistency, and data accuracy. Partner with Product Operations, Engineering Operations, product managers, product owners, and other stakeholders to clarify
+reporting needs. Create clear summaries, job aids, and presentations that translate analysis into actionable insights for business leaders. What You'll Learn
+How product portfolio governance and performance management operate within a healthcare-focused enterprise. Hands-on use of Power BI, Excel, Azure DevOps, Jira,
+and structured data-quality methods. How metric definitions, data models, and governance standards create reliable executive reporting. Professional skills in
+analytical storytelling, stakeholder communication, project management, documentation, and presenting findings. Qualifications Currently pursuing an
+undergraduate degree in Analytics, Information Systems, Business, Engineering, Computer Science, Data Science, or a related field. Academic, project, or work
+experience using Microsoft Excel for data analysis, including formulas, pivot tables, data cleaning, or visualization. Exposure to Power BI, Tableau, or another
+business intelligence and data visualization tool; Power BI is preferred. Foundational experience with SQL, data modeling, data validation, or analysis of
+structured datasets through coursework or projects. Strong attention to detail, analytical problem-solving, written communication, and the ability to explain
+findings clearly. Interest in product operations, business intelligence, healthcare, performance reporting, or technology platforms. Familiarity with Azure
+DevOps, Jira, or similar work-management tools is helpful but not required. Equal Opportunity Employer: Females/Minorities/Veterans/Individuals with
+Disabilities The Company is committed to equal employment opportunity to all employees and applicants without regard to race, religion, color, gender identity,
+ethnicity, age, national origin, sexual orientation, disability status, veteran status or any other category protected by applicable law. Working at Vizient
+means shaping the future of healthcare, every day. Alongside our clients, we're building a healthier, more human healthcare system. We connect people, data, and
+solutions to enable healthcare organizations to improve financial sustainability, enhance system performance, and deliver better care. Headquartered in Irving,
+Texas, with 11 offices across the United States, Vizient has more than 5,000 employees who bring deep expertise and a shared commitment to transforming
+healthcare. Together, we're solving some of the industry's most complex challenges while creating opportunities to learn, grow, and drive lasting change for
+healthcare organizations and the communities they serve. Through our enterprise of companies, we deliver meaningful impact across the continuum of care: Apexus
+- The exclusive contractor for 340B Drug Pricing Program, managed by the Health Resources and Services Administration. aptitude - The industry's first online
+direct contracting market, supporting self-contracting activity between hospitals and suppliers. Kaufman Hall - Leading healthcare advisory services to support
+our clients in achieving financial, clinical, and operational excellence. Provista - Proven supply chain partner specializing in extended, diagnostic, and
+preventive care facilities, including surgery centers, home health, and senior living. Click here for Vizient Careers Home Page.

@@ -1,0 +1,59 @@
+- Intern
+Company Description
+Red Wing Shoe Company is based in Red Wing, Minnesota, just 40 minutes from St. Paul, where our corporate office sits along the Mississippi River in downtown
+Red Wing. We are a global company with 2300 employees around the world, but we maintain a close-knit family atmosphere that comes with being a privately-held
+company. We're rich in history and tradition, but innovation drives us to deliver best-in-class product solutions and highly rated customer experiences. Focus
+on our employees and company culture results in meaningful employee engagement across the organization. Our Guiding Behaviors of Living our Values, Honoring our
+Brands, Inspiring our People, Centering on our Customers, and Preserving the long term success and legacy of our Company are the foundation on which we build
+our future.
+Job Description
+We are excited to announce our 2027 Internship Program! The program is designed to offer you meaningful work that will prepare you for your career. You’ll get
+to see first-hand how our corporate teams develop strategies and practices that support our retail and manufacturing partners, and customers worldwide.
+This position offers a hybrid work structure. Candidates must live within a commutable distance of Red Wing, MN, as the role requires onsite work on Tuesdays
+and Wednesdays. Interns will generally work 40 hours per week, Monday through Friday, during core business hours. The typical schedule includes a shorter
+workday on Fridays, often ending around 1:00 p.m., though schedules may vary based on business needs.
+Compensation is $25/hr.
+What to Expect:
+The intern will experience a cross-functional Data & Analytics internship spanning BI data solutions and business-facing insights. The experience will build an
+end-to-end understanding of how trusted data moves from backend structures into governed semantic models, Power BI reports, and emerging AI-enabled analytics
+experiences. The intern's primary capstone will be to evaluate a practical Red Wing Shoe Company analytics use case for AI, develop a focused proof of concept,
+and present a recommendation that addresses business value, governance, risk, access, and ongoing ownership.
+As a Data and Analytics Intern, you will:
+- Build foundational data and analytics skills through hands-on experience with SQL Server, learning how data is structured, validated, and transformed to
+support business reporting.
+- Design and develop Power BI dashboards and visualizations that help business stakeholders understand revenue performance and make informed decisions.
+- Gain practical experience with Microsoft Fabric and the Power BI ecosystem, including semantic models, data relationships, workspace management, deployment
+practices, and report optimization.
+- Apply business analysis and data storytelling techniques to translate business questions into actionable insights, recommendations, and dashboard
+requirements.
+- Explore emerging AI capabilities in the data and analytics space, culminating in the development and presentation of an AI proof of concept that delivers
+measurable business value while addressing governance, security, and adoption considerations.
+Qualifications
+We’re looking for students who meet the following requirements:
+- Currently pursuing an undergraduate degree in Data Analytics, Business Analytics, Management Information Systems (MIS), Computer Science, Data Science,
+Statistics, Finance, Accounting, Economics, or a related field.
+- Completed coursework or project experience involving databases, SQL, data visualization, analytics, statistics, or business intelligence.
+- Familiarity with SQL, Power BI, Microsoft Fabric, or other analytics tools is helpful, but prior professional experience is not required.
+- Strong analytical curiosity and attention to detail, including a willingness to question results, investigate discrepancies, and validate data before drawing
+conclusions.
+- Ability to communicate technical concepts in clear business language, organize and document work, and collaborate with both technical and business partners.
+- Interest in learning about semantic modeling, dashboard development, responsible AI, data governance, information security, privacy, and technology risk.
+Additional Information
+Red Wing Shoes is an Equal Opportunity Employer .
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities.
+Individuals with disabilities needing assistance in completing an application may contact [email protected] or call 651-388-8211.
+Please view Equal Employment Opportunity Posters provided by OFCCP at https://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm
+All offers of employment are contingent on satisfactory results of a background check.
+Red Wing Shoe Company, Inc. is a drug-free workplace.
+Red Wing Shoe Company will not be using recruitment agencies or firms to fill this position and we will not accept unsolicited resumes or candidate information.
+No agency calls please.
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed
+their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants
+as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to
+compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing,
+or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information. 41 CFR 60-1.35(c)
+By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party
+website's terms and privacy policy apply
+I'm interested I'm interested
+Privacy Notice
+I'm interested Refer a friend

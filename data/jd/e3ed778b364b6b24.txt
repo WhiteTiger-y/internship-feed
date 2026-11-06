@@ -1,0 +1,25 @@
+Job Description
+As a Member of Technical Staff (Research) at Trajectory, you will design and build the post‑training stack that lets our customers’ models continually learn
+from real production workflows. You will own end‑to‑end experiments across data, training, and evaluation: shaping telemetry into learnable signals, training
+and serving custom LLMs and agents, and designing novel algorithms. You’ll work directly with the founders and design partners, make foundational technical and
+product decisions, and help define both the culture and architecture of a company whose core mission is to enable continually learning intelligence.
+Required Qualifications
+- Experience training or serving large language models
+- Experience building RL environments or evaluation suites for LLMs
+- Proficiency in PyTorch, JAX, or similar ML frameworks
+- Strong experimental design skills
+- Master’s / research experience
+Preferred
+- Background in pre- or post-training RL for LLMs
+- Experience with high-performance computing or large-scale clusters
+- Contributions to open-source ML research or infrastructure
+- Demonstrated technical creativity (research, OSS, side projects)
+- PhD (last year of PhD), working on AI / RL open source projects
+About Trajectory
+Trajectory is a research and product lab creating the platform for continual learning.
+AI is the most capable software ever built, and the least able to learn. Every valuable correction and edit that happens in a product evaporates at the next
+session. A few teams have closed this gap by hand-coupling their models to their products: Composer, Claude Code, Windsurf SWE-1.
+Trajectory is the first scalable approach for every company: our platform unlocks the signal already sitting in product use, so companies can continuously post-
+train large-scale agentic models that outperform the frontier. Working with leading AI companies, including Decagon, Clay, Harvey, Mercor, and Rogo.
+Founded by researchers from Deepmind, OpenAI, Meta, Apple, Amazon, and Scale. $15M led by Conviction, with Fei-Fei Li, Jeff Dean, and founders of Notion,
+Braintrust, Modal, Hugging Face, and Dropbox.

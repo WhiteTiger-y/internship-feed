@@ -1,0 +1,34 @@
+If you are an outstanding upper undergrad, recent grad or grad student and are looking for an amazing last-minute Summer Internship - this is the opportunity
+for you! Eluvio AI is growing fast and we have a new internship position available in our Berkeley HQ!
+Eluvio is a highly focused and ambitious team of systems, networking, application, and video software engineers, AI scientists, ML engineers, and security
+experts working together to implement the vision of the Content Fabric - a decentralized platform for video and commerce with the ambition of serving the
+world's Internet video. The Eluvio Content Fabric provides an innovative distributed and decentralized video processing framework with just-in-time and
+personalized experiences, made possible through our state-of-the-art real-time content routing and just-in-time code execution. We are headquartered in
+Berkeley, CA.
+Eluvio uses a wide range of machine learning and deep learning techniques within its content fabric. This position offers an internship opportunity for students
+with excellent academic records pursuing graduate degrees in computer science, data science, or related fields (or advanced undergraduates) to work in our
+office with our software engineering team on ML, DL and data science solutions.
+Responsibilities
+- Work with the Eluvio AI Machine Learning and Data Science Team
+- Build production level machine learning models on large-scale datasets to increase the intelligence of video/audio content
+- Provide data-driven recommendations and actionable insights on problems such as content understanding/augmentation/location
+- Develop multi-functional learning pipelines
+- Collaborate with product and engineering teams to implement models at scale
+- Help train and develop multimodal learning models using advanced learning techniques including RAG, self-supervised learning, semi-supervised, and
+transductive learning.
+Requirements
+Desired Qualifications
+- MSc or PhD student in Computer Science & Engineering/Statistics/Math/Physics, or Advanced Undergraduate
+- Deep classroom experience in data science or machine learning or prior internship
+- Comfortable with Python or R
+- Knowledge of machine/deep learning algorithms (e.g. gradient boosting, CNNs, sequence models) and frameworks/libraries (e.g., Tensorflow, PyTorch, Sci kit-
+learn)
+- Knowledge of computer vision and natural language processing
+- Strong working experience with large multi-modal and language models preferred
+- Great communication skills, organized, able to multitask and be a team player
+- Ability to balance attention to detail with agile execution
+Benefits
+Paid summer internship with one of the top Video AI tech companies in the world!
+Catered Lunches (really good food)
+Great atmosphere, nice colleagues
+Summer Party!

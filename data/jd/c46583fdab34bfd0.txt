@@ -1,0 +1,58 @@
+Worker Type
+Supplemental
+Job Description
+Internship: Computational Modeling of Polymer Solution Behavior
+Location: Air Force Research Laboratory (AFRL), Foundational Technologies Directorate
+Project Overview
+Join a multidisciplinary team at the Air Force Research Laboratory (AFRL) for a high-impact internship focused on polymer physics. As a PhD-level intern, you
+will contribute to the computational polymer physics research team by modeling the rheological behavior of liquid crystal polymers (LCPs) in flow and under
+external electric fields. You will work with experimentalists to predict the molecular-level rheological response of LCPs and compare molecular dynamics
+simulations to experimental data.
+Key Responsibilities
+- Leverage molecular dynamics simulations to model the rheological behavior of LCPs.
+- Refine simulated models to align with and explain experimental data.
+- Actively engage with AFRL scientists, academic collaborators, and industry partners to refine research objectives.
+- Document findings and potentially contribute to a manuscript for peer-reviewed publication.
+Required Qualifications
+- This position involves working within a government facility and requires US citizenship
+- Currently enrolled in a Ph.D. program in Polymer Science, Chemical Engineering, Materials Science, Physics, or a closely related field.
+- Experience with coarse-grained polymer modeling
+- Proficiency in Python and large-scale simulation software (e.g., LAAMPS).
+- Excellent oral and written communication skills.
+Preferred Skills
+- Experience with modeling rheology of complex fluids and soft matter
+- Familiarity with high-performance computing (HPC) environments.
+- A record of research contributions in peer-reviewed journals
+Clearance Level
+No Clearance
+The Salary Range For This Role Is
+$31 - $31
+AeroVironment considers several factors when extending an offer, including but not limited to, the location, the role and associated responsibilities, a
+candidate’s work experience, education/training, and key skills.
+ITAR Requirement
+This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export
+Administration Regulations (“EAR”). In order to comply with the requirements of the ITAR and/or the EAR, applicants must qualify as a U.S. person under the ITAR
+and the EAR, or a person to be approved for an export license by the governing agency whose technology comes under its jurisdiction. Please understand that any
+job offer that requires approval of an export license will be conditional on AeroVironment’s determination that it will be able to obtain an export license in a
+time frame consistent with AeroVironment’s business requirements. A “U.S. person” according to the ITAR definition is a U.S. citizen, U.S. lawful permanent
+resident (green card holder), or protected individual such as a refugee or asylee. See 22 CFR
+- 120.15. Some positions will require current U.S. Citizenship due to contract requirements.
+Benefits: AV offers an excellent benefits package including medical, dental, vision, 401(k) with company matching, and flexible work schedule options. Depending
+on your business unit, role, and customer contract requirements, select programs may offer a 9/80 work schedule and paid holiday shutdown. For more information
+about our company benefit offerings please visit: http://www.avinc.com/myavbenefits.
+We also encourage you to review our company website at http://www.avinc.com to learn more about us.
+Principals only need apply. NO agencies please.
+About AV
+AV isn’t for everyone. We hire the curious, the relentless, the mission-obsessed. The best of the best.
+We don’t just build defense technology—we redefine what’s possible. As the premier autonomous systems company in the U.S., AV delivers breakthrough capabilities
+across air, land, sea, space, and cyber. From AI-powered drones and loitering munitions to integrated autonomy and space resilience, our technologies shape the
+future of warfare and protect those who serve.
+Founded by legendary innovator Dr. Paul MacCready, AV has spent over 50 years pushing the boundaries of what unmanned systems can do. Our heritage includes
+seven platforms in the Smithsonian—but we’re not building history, we’re building what’s next.
+If you're ready to build technology that matters—with speed, scale, and purpose—there’s no better place to do it than AV.
+We are proud to be an EEO/AA Equal Opportunity Employer, including disability/veterans. AeroVironment, Inc. is an Equal Employment Opportunity (EEO) employer
+and welcomes all qualified applicants. Qualified applicants will receive fair and impartial consideration without regard to race, sex, color, religion, national
+origin, age, disability, protected veteran status, genetic data, sexual orientation, gender identity or other legally protected status.
+ITAR
+U.S. Citizen, U.S. Permanent Resident (Green Card holder), asylee/refugee status as defined by 8 U.S.C. 1324b(a)(3) or a person approved for an export license
+from the appropriate governing agency.

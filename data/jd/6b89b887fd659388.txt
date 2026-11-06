@@ -1,0 +1,53 @@
+About Our Internship Program
+Zoox's internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry's brightest minds, and the opportunity
+to make meaningful contributions to real projects. We seek interns who demonstrate strong academic performance, engagement beyond the classroom, intellectual
+curiosity, and a genuine interest in Zoox's mission.
+Job Description
+Autonomy Software builds the software that lets the Zoox robotaxi perceive its surroundings, predict what others will do, and plan and control the vehicle with
+no one behind the wheel. Interns join one of the teams below, work with a mentor on an open research or engineering question, and see a direct path from their
+work to the system that runs on Zoox vehicles and in simulation.
+Interns in this pipeline may be considered for opportunities across a range of teams, including:
+Autonomy Behaviors: Owns the decision-making, planning & control modules, which decide how the vehicle drives. Projects include machine-learned planning, long-
+horizon reasoning, configurable driving styles, freeway driving and new vehicle platform bring-up.
+Perception: Gives the vehicle an understanding of its surroundings using camera, lidar, radar and audio. Projects include object detection and tracking,
+multimodal foundation models, scene understanding, occupancy and 3D mapping.
+Guidance & Routing: Works on route-level planning and offline mapping, including the mission planner, map data delivery and road network tools.
+Collision Avoidance System: Runs an independent safety layer with its own perception and planning. This team also works on the evaluation and data tooling for
+verification.
+In this Role, You Will...
+- Work on interesting research or advanced engineering problems that could have the potential to revolutionize the existing Autonomy Software stack.
+- Design, build and evaluate state-of-the-art algorithms or machine learning models for a real autonomous driving system.
+- Train and test models on large-scale driving and simulation data, and analyze failure modes to measure improvements.
+- Write production-quality C++ and Python that goes through code review.
+- Present your results to your team and at the end-of-summer project showcase, and contribute to publishable research where the project allows.
+Requirements
+- Currently working towards a M.S. or Ph.D. in computer science, robotics, electrical engineering, or a related engineering program
+- Expected to graduate between Fall 2027 and Summer 2028, and enrolled at an accredited college or university throughout the internship
+- Able to commit to a full-time, 12-week internship beginning in May/June 2027
+- Ability to relocate to the Bay Area, California, for the duration of the internship
+- Interns at Zoox may not use any proprietary information they are working on as part of their thesis, any published work with their university, or to be
+distributed to anyone outside of Zoox
+Qualifications
+- Currently working towards a M.S. or Ph.D. in computer science, robotics, electrical engineering, or a related engineering program
+- Strong programming skills in C++ and/or Python
+- Solid computer science fundamentals, including data structures and algorithms
+- Experience with PyTorch, Jax, Tensorflow, Numpy
+- Experience in at least one of machine learning, computer vision, motion planning, controls, prediction or mapping
+- Clear communication of technical results
+Bonus Qualifications
+- Publications in top ML or robotics conferences (e.g. NeurIPS, CVPR, ICRA)
+- Experience with autonomous driving or learned robotic planning
+- Experience with large-scale, multi-node training workloads
+Compensation
+The monthly salary range for this position is $6,500 to $10,500. Compensation will vary based on geographic location and level of education. Additional benefits
+may include medical insurance and a relocation stipend.
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the
+intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking
+for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+Follow us on LinkedIn
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter.
+A Final Note:
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to
+be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.

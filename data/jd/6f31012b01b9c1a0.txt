@@ -1,0 +1,32 @@
+At Daiichi Sankyo, we are united by a single purpose, to improve lives around the world through innovative medicines. With a legacy of innovation since 1899, a
+presence in more than 30 countries, and more than 19,000 employees, we are advancing breakthrough therapies in oncology, cardiovascular disease, rare diseases,
+and immune disorders. Guided by our 2030 vision to "be an innovative global healthcare company contributing to the sustainable development of society", we are
+shaping a healthier, more hopeful future for patients, their families, and society.
+Job Summary
+We are currently seeking a Data Scientist and AI Developer Intern from June 2027 – May 2028. This position works for approximately 37.5 hours per week in the
+summer and 20 hours per week for the remainder of the internship.
+The intern will be accountable for ideating, designing, developing, and supporting applications and solutions to explore various machine intelligence techniques
+including but not limited to natural language processing (NLP), predictive analysis using supervised and unsupervised machine learning (ML), and generative AI
+(GenAI) using large language models (LLM) for use cases that focus on data quality and data governance. The role may also involve working with cloud
+technologies and services such as AWS and GCP to support scalable data processing, AI/ML experimentation, application deployment, and integration with
+enterprise data platforms. The position requires familiarity with AI/ML/NLP/GenAI techniques, SQL databases and data manipulation, API architectures, cloud-
+based services, and user interface development. Strong work ethic and eagerness and ability to self-learn is critical.
+Responsibilities
+- Design, develop, and support AI/ML/NLP/GenAI solutions.
+- Analyze data using SQL and other techniques.
+- Extract data using REST APIs.
+- Develop and support simple user interfaces.
+- Support development, deployment, and integration of cloud-based data and AI solutions using technologies such as AWS and GCP.
+- Create simple visualization.
+- Assist in various other related functions such as preparing documentation, taking meeting notes, plan and manage work, make presentations, etc.
+- Augment knowledge with self-driven learning.
+Qualifications
+Qualified candidates must be a current graduate school student pursuing computer science, data analytics or a related discipline. Experience with SQL
+development, data analysis using MS Excel, developing simple web portals and machine learning (NLP, predictive analytics) is required. Prior academic or
+professional work experience is preferred; experience in the pharmaceutical industry and/or with clinical data is a plus. Enthusiasm, eagerness to learn and
+take on responsibilities, and teamwork are essential qualities.
+Daiichi Sankyo, Inc. is an equal opportunity/affirmative action employer. Qualified applicants will receive consideration for employment without regard to sex,
+gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by
+law.
+Salary Range
+USD$17.23 - USD$58.15

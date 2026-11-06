@@ -1,0 +1,61 @@
+At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where
+everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways.
+Moody’s is transforming how the world sees risk. As a global leader in ratings and integrated risk assessment, we’re advancing AI to move from insight to
+action—enabling intelligence that not only understands complexity but responds to it. We decode risk to unlock opportunity, helping our clients navigate
+uncertainty with clarity, speed, and confidence.
+If you are excited about this opportunity but do not meet every single requirement, please apply! You still may be a great fit for this role or other open
+roles. We are seeking candidates who model our values: invest in every relationship, lead with curiosity, champion diverse perspectives, turn inputs into
+actions, and uphold trust through integrity.
+Applications for this position will be accepted from 6th of November through 20th of November. We encourage interested candidates to apply early to ensure full
+consideration.
+Skills And Competencies
+- Working knowledge of Python and common data and machine learning libraries, with familiarity using version control and Linux command line tools
+- Good understanding of probability and statistics, including regression, distributions, variance, confidence intervals and hypothesis testing
+- Experience building and evaluating predictive models through coursework, research, projects or previous internship experience
+- Interest in queuing theory, scheduling and capacity analysis, including wait times, throughput and resource utilisation
+- Hands-on experience with large language models, such as retrieval-augmented generation, model evaluation or fine-tuning, gained through coursework, research
+or projects
+- Basic understanding of system design concepts, APIs and data flows, with exposure to cloud platforms such as Amazon Web Services preferred
+- Self-motivated and curious, with the ability to take initiative, ask questions, solve problems independently and communicate progress clearly
+- Demonstrated proficiency in artificial intelligence concepts, with hands-on experience using AI tools to streamline workflows and enhance operational
+efficiency. Proven ability to implement AI-powered solutions to solve business challenges. Demonstrates a growing awareness of AI risk management and a
+commitment to responsible and ethical AI use
+Education
+- Currently pursuing a degree in Computer Science, Data Science, Statistics, Applied Mathematics, Operations Research, Electrical or Computer Engineering, or a
+related quantitative discipline
+- Graduation date of December 2027 – June 2028
+- Ability to work full-time during the program dates: 7 June – 13 August, 2027
+Responsibilities
+Build innovative artificial intelligence solutions within a data platform team, including language models, AI tooling and predictive models.
+- Take ownership of an AI initiative and drive it through to a working and measurable outcome during the internship
+- Design and build AI solutions using large language models, including retrieval-augmented generation, model evaluation and agentic tooling
+- Gather, clean and analyse operational data to identify trends and establish baselines for modelling
+- Build and evaluate predictive models for job runtimes, queue wait times and capacity requirements
+- Apply responsible AI practices by documenting model limitations, evaluating potential risks and considering bias
+- Develop working solutions with appropriate testing, logging, monitoring and documentation
+- Explore new AI techniques and share findings and project results with the team and wider engineering audience
+About The Team
+Our Data Platform Team builds and operates the data services, infrastructure and tools that power Moody’s Insurance Solutions products. The team works across
+cloud infrastructure, data engineering and applied AI, including large language models and predictive modelling. By joining the team, you will contribute to
+solutions that improve how we build, operate and deliver our products, while developing experience in using AI effectively and responsibly.
+Moody's 10-week summer internship program is a premier opportunity for students to immerse themselves in a hands-on learning experience, guided by Moody's
+commitment to integrity, excellence, and insight. The program takes place each summer from June – August and positions are available for undergraduate and
+select graduate students. Internships are full-time, offering a comprehensive view of Moody's business and culture, and a chance to build professional and
+technical skills. Programmatic elements include networking, mentorship, leadership speaker series and volunteering events. Interns complete project work
+determined by their team that have real impact, fostering a sense of accomplishment and professional growth. Throughout the internship, participants receive
+mentorship from Moody's professionals, gaining insights into diverse career paths and cultivate a comprehensive understanding of the company. Networking events
+and workshops further enrich the experience, providing a platform for professional development and collaboration. As a Moody's intern, you will gain real-world
+experience, turn inputs into actions, and be integral part of the team.
+For US-based roles only: the anticipated hiring hourly wage for this position is $35/hr.
+Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age,
+religion or creed, national origin, ancestry, citizenship, marital or familial status, sexual orientation, gender identity, gender expression, genetic
+information, physical or mental disability, military or veteran status, or any other characteristic protected by law. Moody’s also provides reasonable
+accommodation to qualified individuals with disabilities or based on a sincerely held religious belief in accordance with applicable laws. If you need to
+inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com. This contact
+information is for accommodation requests only, and cannot be used to inquire about the status of applications.
+For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San
+Francisco Fair Chance Ordinance.
+This position may be considered a promotional opportunity, pursuant to the Colorado Equal Pay for Equal Work Act.
+Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency
+Nondiscrimination statement.
+Candidates for Moody's Corporation may be asked to disclose securities holding

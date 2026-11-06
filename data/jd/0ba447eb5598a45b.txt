@@ -1,0 +1,36 @@
+HoYoverse is committed to providing immersive virtual world experiences to players around the world. We have brought fans popular games including Genshin
+Impact, Honkai: Star Rail, Honkai Impact 3rd, Tears of Themis, and Zenless Zone Zero, as well as a wide range of entertainment content.
+Community is at the heart of everything we do. We are devoted to engaging fans and fostering an enthusiastic and inclusive global community.
+Pushing the boundaries of imagination, we consistently explore cutting-edge game development technologies.
+In the future, we will continue to expand our content production, technology research, and publishing duties through operations in offices in Singapore,
+Montreal, Los Angeles, Tokyo, Seoul, and other areas.
+When you apply to a position with HoYoverse, we will process your personal data. To learn more, please review our comprehensive Global Applicant and Candidate
+Privacy Policy.
+What You Will Do
+- As a Video Generation Research Intern, you will work closely with our research and engineering teams to advance post-training techniques for large-scale video
+generation models, with a particular focus on controllability, generation quality, and temporal consistency.
+- You will explore cutting-edge generative modeling techniques and contribute to the development of next-generation AI-powered content creation and interactive
+virtual world experiences.
+You Will
+- Research, develop, and implement post-training methods for video generation models, including supervised fine-tuning, preference optimization, and
+reinforcement learning-based approaches.
+- Explore controllable video generation techniques to improve motion control, camera movement, trajectory following, and action-conditioned generation.
+- Design and conduct experiments to improve video generation quality, temporal consistency, motion realism, and alignment with user instructions.
+- Collaborate with researchers and engineers to develop training pipelines, evaluation benchmarks, and scalable experimentation workflows.
+- Stay up to date with the latest advances in video generation and generative AI, and contribute to research publications and practical applications.
+What We Are Looking For
+- Currently pursuing a Master's or PhD degree in Computer Science, Artificial Intelligence, Computer Vision, Machine Learning, or a related technical field.
+- Strong research background and hands-on experience in video generation, including training or fine-tuning video generative models.
+- Solid understanding of modern generative modeling techniques, such as diffusion models, flow matching, Diffusion Transformers (DiTs), and autoregressive
+models.
+- Strong proficiency in Python and deep learning frameworks such as PyTorch.
+- Ability to independently implement research ideas, conduct experiments, analyze results, and collaborate effectively with a research team.
+Pluses
+- Publications at top-tier AI and computer vision conferences, such as CVPR, ICCV, ECCV, ICML, ICLR, or NeurIPS. First-author publications related to video
+generation, especially controllable video generation, are strongly preferred.
+- Research experience in controllable video generation, including camera control, motion control, trajectory-guided generation, action-conditioned generation,
+or interactive video generation.
+- Experience with large-scale video model training, distributed training, or training and inference optimization.
+- Contributions to influential open-source video generation projects or research implementations.
+We are an equal opportunity employer that believes diverse backgrounds are key to bringing our concepts to life. If you're looking to play a key role in
+creating the best immersive virtual world experience for our users, we invite you to join our team.

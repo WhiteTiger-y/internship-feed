@@ -1,0 +1,45 @@
+As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t
+changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed
+systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep
+their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the
+way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption,
+experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover
+insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on
+innovation and a fanatical commitment to our customers, our community and each other. Our University Recruiting program is dedicated to attracting and
+cultivating the future leaders of this industry. This program offers paid positions for students and recent grads, designed to provide exposure to work that
+makes an impact while being supported through a structured experience with seasoned professionals. Ready to join a mission that matters? The future of
+cybersecurity starts with you. About the Role: The Global Sales Excellence Data Analytics Interns will be responsible for Reporting & Analytics tasks including
+business partnering, analysis and reporting, and transforming data into insights to drive revenue growth. A strong analytical mindset, attention to data detail,
+research, and hardworking attitude are required to be successful in the internship. Projects will be varied in scale and reach, with some lasting weeks and
+impacting senior executives, to others taking minutes and affecting front line sales reps. Location: Arlington, Virginia / Sunnyvale, California Start & End
+Dates: June 2nd - July 23rd, 2027 What You'll Do: Help Sales team to be full “consumers of data” rather than “creators of data” Identify and rectify data
+discrepancies, errors, and inconsistencies within the CRM. Help the teams ready data sets for use in business intelligence (BI) and data science applications.
+Partner with Sales business leaders to determine metrics that matter and leverage Tableau and Salesforce to drive consistent reporting Maintain globally
+standardized datasets & dashboards Assist with Ad Hoc requests from our Sales teams ranging from pointing teams to useful datasets to creating Tableau
+Dashboards for certain views What You'll Need: Pursuing undergraduate degree in Data Analytics, Engineering, Statistics, Computer Science, Mathematics,
+Economics, or other analytical field with core focus on data work. Graduation Date: December 2028 - May 2029 Experience working with large data sets to identify
+trends and actionable insights Advanced proficiency in Microsoft Office Suite and/or Google Apps (Word/Doc and Excel/Sheets are key tools) Self-starter, able to
+navigate in a fast-paced environment Highly motivated, detail-oriented, strong team contributor; able to work independently and cross-functionally Ability to
+handle multiple tasks, take on new responsibilities and prioritize work in a dynamic, deadline-intensive environment Strong interpersonal, verbal and written
+communication skills Authorized to work in the U.S. without restrictions Proven experience utilizing AI technologies to enhance decision-making, streamline
+workflows and processes, improve efficiency and drive business outcomes. Bonus Points: SQL experience Salesforce and Clari experience Comfort with using
+Business Intelligence and visualization tools such as DOMO, Tableau and Power BI #LI-AL2 What You Can Expect: Market leader in compensation and equity awards
+Paid holidays (including birthday holidays) and 401k matching (where applicable) Professional development opportunities including workshops, tech talks, and
+Executive Speaker Series Assigned mentors from across the company for continuous support and feedback Participation in companywide initiatives including
+FalconFIT, Wellness Programs, and Employee Assistance Program Employee Networks, geographic neighborhood groups, and volunteer opportunities to build
+connections Vibrant office culture with world class amenities Ownership of impactful projects that move the company forward Great Place to Work Certified™
+across the globe CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who
+they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program. CrowdStrike is committed to
+providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or
+practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender
+identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical
+condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic
+protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-
+offs, return from lay-off, terminations and social/recreational programs--on valid job requirements. If you need assistance accessing or reviewing this website,
+submitting an application, requesting an accommodation, or providing feedback on the job posting, please contact us at recruiting@crowdstrike.com. Find out more
+about your rights as an applicant. CrowdStrike participates in the E-Verify program. Notice of E-Verify Participation Right to Work CrowdStrike, Inc. is
+committed to fair and equitable compensation practices. The hourly rate for this position for all U.S. candidates is $20 - $25 CrowdStrike was founded in 2011
+to fix a fundamental problem: The sophisticated attacks that were forcing the world’s leading businesses into the headlines could not be solved with existing
+malware-based defenses. Founder George Kurtz realized that a brand new approach was needed — one that combines the most advanced endpoint protection with expert
+intelligence to pinpoint the adversaries perpetrating the attacks, not just the malware. There’s much more to the story of how Falcon has redefined endpoint
+protection but there’s only one thing to remember about CrowdStrike: We stop breac

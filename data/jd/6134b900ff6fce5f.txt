@@ -1,0 +1,38 @@
+Introduction
+Join the pioneering Software Innovation Lab team at IBM Software and contribute to shaping the future foundations of artificial intelligence. Our group of
+applied scientists and software developers are dedicated to conducting end-to-end research that delivers real-world AI impact through a rigorous, responsible,
+and open innovation framework. We are the R&D team that is the innovation engine of IBM Software. We are shaping the technologies that IBM customers rely on –
+today and in the future. As an intern, you will advance state-of-the-art agent architectures and domain-specific models for business processes, IT and
+industrial automation, and software engineering across distributed and non-distributed environments, while developing responsible AI systems and enterprise-
+grade benchmarks that help enterprises personalize services, automate operations, optimize workflows, predict demand, and deliver effective outcomes. With a
+culture built on curiosity, creativity, and collaboration, this role offers the opportunity to grow your career while contributing to breakthroughs that
+transform industries and change the world.
+Your Role And Responsibilities
+As an AI Applied Scientist Intern, you will engage in the applied research lifecycle to pioneer new advancements in artificial intelligence. Your role will
+involve identifying core challenges, designing novel prototype solutions, and validating them through rigorous experimentation. You will help advance our
+research in foundation models and multimodal AI, business process intelligence and automation, IT and industrial automation, AI for software engineering,
+reliable and scalable agentic systems, AI security and trustworthiness, enterprise knowledge graphs, continual agent learning and adaptation, and knowledge-
+guided workflow orchestration. Collaborating in small, mentored teams, you will be responsible for shepherding projects from ideation to completion. A key
+objective is to disseminate significant results through publications in leading conferences and patent applications, contributing to both the academic community
+and IBM's open innovation initiatives.
+Program Dates: Internship start dates vary based on your academic calendar.
+- Semester System: May 24, 2027 – August 13, 2027
+- Quarter System: June 14, 2027 – September 3, 2027
+Candidates must be available to participate for the full duration of the internship corresponding to their academic schedule.
+Location Flexibility: By applying to this requisition, you acknowledge and agree to be considered for any of the listed locations associated with this position
+and are willing to work at the location where you are ultimately assigned.
+Required Technical And Professional Expertise
+- Research Experience in Modern AI and Systems: Hands-on experience and theoretical foundations in one or more of the following areas: foundation and multimodal
+models, agentic systems, AI for software engineering, knowledge graphs, continual learning, process intelligence, or distributed systems.
+- Strong Programming & Prototyping Skills: Proficiency in Python for rapid prototyping, experimental setup, and implementing large-scale machine learning
+systems.
+- Rigorous Analytical & Problem-Solving Abilities: Demonstrated strength in quantitative analysis, designing experiments, and deconstructing complex research
+problems.
+- Proven Research & Communication Skills: A track record of innovation (evidenced by peer-reviewed publications or strong preprints) and the ability to clearly
+articulate complex technical concepts in both writing and presentations.
+- Collaborative Research Mindset: A team-oriented approach with a commitment to rigorous, reproducible, and well-documented research practices.
+Preferred Technical And Professional Experience
+- Research Excellence: Strong publication record in top-tier conferences (e.g., NeurIPS, ICML, ICLR, CVPR, AAAI).
+- Technical Proficiency: Advanced expertise in ML frameworks (PyTorch) and full-cycle development of algorithms and systems.
+- Specialized Skills: Hands-on experience with generative AI (LLMs) and multimodal models, from training to testing.
+- Communication: Demonstrated ability to present complex research and build high-impact technical demonstrations.

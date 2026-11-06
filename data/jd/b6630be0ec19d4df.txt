@@ -1,0 +1,50 @@
+This is a U.S. based position. All of the programs we support require U.S. citizenship to be eligible for employment. All work must be conducted within the
+continental U.S.
+Please use this link (https://www.videoask.com/f21dznuya) to submit a brief video (approximately 1 minute) alongside your application that covers:
+- Your Education: What you studied, where, and what excited you most about your program.
+- Your Work Experience: Any internships, co-ops, part-time roles, or meaningful projects - and what you learned.
+- Your Team Experience: A specific example of working on a team, your role, and how you contributed to a successful outcome.
+Who We Are:
+Raft (https://TeamRaft.com) is a customer-obsessed non-traditional defense tech company dedicated to empowering U.S. military and government agencies with
+cutting-edge AI/ML and data solutions. We are a leader in autonomous data fusion and Agentic AI, with a purposeful focus on Distributed Data Systems, Platforms
+at Scale, and Complex Application Development. With headquarters in McLean, VA, our range of clients includes innovative federal and public agencies leveraging
+design thinking, cutting-edge tech stack, and cloud-native ecosystem. We build digital solutions that impact the lives of millions of Americans.
+About the Role:
+At Raft, our goal is to constantly push the limits of technology to deliver innovative solutions that meet the complex demands of our clients. We are currently
+looking for a highly motivated AI/ML Intern to join our team for the upcoming summer. This position provides a unique opportunity to gain valuable hands-on
+experience in a dynamic and supportive work environment while working on projects that directly impact government operations.
+What we are looking for:
+- Assist in building, training, and deploying AI models for various applications.
+- Participate in developing agentic workflows and AI-driven solutions for Raft’s platforms, Kurrent and Waves.
+- Collaborate with team members to solve complex AI challenges and push boundaries in AI innovation.
+- Conduct research and analysis on the latest AI/ML techniques, contributing to ongoing projects.
+- Document and report on project progress, outcomes, and research findings.
+- Currently enrolled in an MS or PhD program in Artificial Intelligence, Machine Learning, or a related field (highly preferred).
+- U.S. citizenship is required as interns may be exposed to sensitive work related to government operations.
+Highly Preferred:
+- Strong experience with PyTorch, LangChain, and LangGraph.
+- Prior research or published work in AI/ML or agentic systems.
+- A creative mindset and passion for exploring new ideas in AI workflows.
+Work Type:
+- Location: Remote with travel to Raft HQ.
+- Duration: June to August 2027.
+- Hours: Part-time, up to 40 hours per week
+- Compensation: $30 - $40 per hour, based on experience and qualifications.
+Capstone Project or Program Support:
+At the conclusion of the internship, you may present a Capstone Project that summarizes your contributions to AI model development and agentic workflows.
+Alternatively, you may support ongoing programs by contributing to impactful real-world projects throughout the summer.
+Our Vision Statement:
+We bridge the gap between humans and data through radical transparency and our obsession with the mission.
+Our Customer Obsession:
+We will approach every deliverable like it's a product. We will adopt a customer-obsessed mentality. As we grow, and our footprint becomes larger, teams and
+employees will treat each other not only as teammates but customers. We must live the customer-obsessed mindset, always. This will help us scale and it will
+translate to the interactions that our Rafters have with their clients and other product teams that they integrate with. Our culture will enable our success and
+set us apart from other companies.
+How do we get there?
+Public-sector modernization is critical for us to live in a better world. We, at Raft, want to innovate and solve complex problems. And, if we are successful,
+our generation and the ones that follow us will live in a delightful, efficient, and accessible world where out-of-box thinking, and collaboration is a norm.
+Raft’s core philosophy is Ubuntu: I Am, Because We are. We support our “nadi” by elevating the other Rafters. We work as a hyper collaborative team where each
+team member brings a unique perspective, adding value that did not exist before. People make Raft special. We celebrate each other and our cognitive and
+cultural diversity. We are devoted to our practice of innovation and collaboration.
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation,
+gender identity, national origin, veteran or disability status.

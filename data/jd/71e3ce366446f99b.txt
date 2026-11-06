@@ -1,0 +1,44 @@
+Job Summary
+General Atomics (GA), and its affiliated companies, is one of the world’s leading resources for high-technology systems development ranging from the nuclear
+fuel cycle to remotely piloted aircraft, airborne sensors, and advanced electric, electronic, wireless and laser technologies.
+General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures first-of-a-kind electromagnetic and electric power generation systems. GA-EMS'
+expanding portfolio of specialized products and integrated system solutions support critical fleet, space systems and satellites, missile defense, power and
+energy, and process and monitoring applications for defense, industrial, and commercial customers worldwide.
+We have an exciting opportunity for an Electrical Engineer (EE) or Materials Scientist (MS) to join our High Voltage Science and Capacitors Department located
+in Rancho Bernardo. We are looking for someone with drive, talent, and an eagerness to work with high-voltage, pulsed-power capacitors in a fast-paced, research
+and development (R&D) environment.
+DUTIES AND RESPONSIBILITIES:
+- Executes experiments planned and documented by engineering staff.
+- Assists with planning, preparing, and documenting experimental activities.
+- Performs laboratory testing and characterization of experimental high-voltage capacitors and dielectric materials, including polymers and insulating fluids.
+- Produces small-scale dielectric-material test samples for evaluation.
+- Documents test results and assists with analysis of tested devices and materials.
+- Helps maintain and develop laboratory and high-voltage test equipment.
+- Follows established laboratory, high-voltage, and workplace safety procedures, as well as applicable regulations.
+- Assists with preparing electronic and hard-copy reports, records, diagrams, and charts.
+- Participates in the day-to-day activities of the assigned functional area and assists with routine and non-routine technical tasks.
+- Applies academic knowledge to analyze data, investigate issues, and support the resolution of technical problems.
+- Performs other duties as assigned or required.
+- Responsible for observing all laws, regulations and other applicable obligations wherever and whenever business is conducted on behalf of the Company.
+- Expected to work in a safe manner in accordance with established operating procedures and practices.
+We recognize and appreciate the value and contributions of individuals with diverse backgrounds and experiences and welcome all qualified individuals to apply.
+Job Qualifications
+- Desired Skills: Experience with one or more of the following: Python, MATLAB, C#, or C/C++. Coursework, laboratory experience, or project experience involving
+high-voltage engineering, pulse-power engineering, electrical testing, dielectric materials, or related areas. Experience collecting, analyzing, and documenting
+experimental data.
+- Candidates will be required to commit to the 10 week program, two sessions available beginning June 1, 2027 or June 21, 2027.
+- Requires active enrollment and Currently enrolled as a junior- or senior-level undergraduate student, or graduate student, at an accredited college or
+university.
+- Applicants who will have completed their undergraduate degree by the time the internship program would begin, must be planning to continue in a graduate
+program immediately following the conclusion of the internship program.
+- Pursuing a degree in Electrical Engineering, Engineering Physics, Materials Science, Mechanical Engineering, Chemistry, Physics, or a related field.
+- Ability to complete required high-voltage and laboratory safety training and to work safely in a laboratory environment
+- 3.0 cumulative GPA preferred
+- Ability to understand new concepts and apply them accurately.
+- Ability to follow general and detailed instructions as well as organizational policies and procedures.
+- Basic communication and interpersonal skills to enable effective interface with internal professionals.
+- Ability to work independently or in a team environment.
+- Basic computer skills.
+This position pays at an hourly rate of $30.00 - $32.00/hr., depending on your specific field of study and the number of college years completed.
+Job Type: Full-Time Hourly
+Salary range: 42,000 - 62,250

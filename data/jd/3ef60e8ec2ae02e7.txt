@@ -1,0 +1,59 @@
+Company Description
+InfiniteQuant is a global quantitative trading and technology company. As a privately owned and funded proprietary trading firm, we focus on high-frequency
+quantitative trading across global financial markets.
+Our entire technology stack, from market data infrastructure and research platforms to simulation engines, execution systems, and trading strategies, is built
+in-house.
+Our high-frequency trading strategies generate hundreds of millions of order messages daily across thousands of symbols on major electronic exchanges. We
+maintain a multi-year archive of historical tick-by-tick market data, powering quantitative research, simulation, and strategy development.
+Job Description
+InfiniteQuant LLC is pleased to announce our annual Quantitative Researcher/Developer Internship tailored for students and recent graduates. We are actively
+seeking candidates with expertise in high-frequency statistical arbitrage, focusing on global commodities and digital assets, as well as in market-making
+strategies for spot, futures, swaps, and options.
+Exceptional interns will have the chance to rotate among various tracks throughout their internship, providing a comprehensive experience in the field.
+Since 2021, our summer internship program has given interns the opportunity to work on quantitative research for proprietary high-frequency trading (HFT) and
+alpha-driven market making in highly competitive markets, tackling real problems with real market data alongside our research and trading teams.
+Tracks
+Track 1 - High-Frequency Trading
+- Analyze order book data and market trade data to generate high-frequency signals with strong statistical significance.
+- Directly responsible for the construction of alpha signals or monetization for latency-sensitive, capacity-constrained strategies.
+Track 2 - Prediction Market Trading
+- Engage in sports and prediction market trading using quantitative pricing and liquidity management techniques.
+- Monitor, track, and analyze sports prediction markets, including betting odds, price movements, and market sentiment, and provide insights for predicting
+sports outcomes.
+Benefits
+- Team-wide career skills improvement workshops, group coaching, onsite events, and one-on-one training.
+- USA or UAE working visa sponsorship for qualified candidates if needed.
+- Career workshop.
+- Team outing event and team dinner.
+- Earn a performance-based bonus.
+- Corporate swag.
+- Well-stocked office kitchen.
+Salary Range
+$6,000-$10,000 per month
+Location
+- USA: Downtown Manhattan, New York
+- UAE: Jumeirah Lakes Towers (JLT), Dubai
+- Hong Kong
+Interview Process
+The interview process includes a few rounds with quants, a coding test, and concludes with a final interview. Our candidate pool is exceptionally competitive.
+Successful candidates are either pursuing or have attained Master's or Ph.D. degrees, or they have significant work or internship experience from HFT
+proprietary trading firms or hedge funds.
+Other Frequently Asked Questions & Answers
+Please refer to Google Doc https://drive.google.com/file/d/1EhoCCfqRnrNC8S5lbx6x49JulW970-V9/view?usp=sharing
+Qualifications
+- Candidates must be pursuing or hold a Master's or Ph.D. in a quantitative discipline with an understanding of market microstructure.
+- Experience at leading HFT prop shops, trading firms, or hedge funds.
+- Work or internship experience in crypto trading is a plus.
+- Proficiency in data-driven research, advanced statistics, and strategy development is expected.
+- Strong Python skills, particularly with NumPy and pandas.
+- Proficiency in C++.
+- Machine Learning / Deep Learning experience.
+- Competitive experience on Kaggle or similar platforms is a big plus
+Interested in spending 10 weeks working on real-world quantitative trading research?
+Learn more and apply:
+https://www.infquant.com/
+Additional Information
+InfiniteQuant LLC is an Equal Employment Opportunity employer. We are committed to providing an environment of mutual respect where equal employment
+opportunities are available to all applicants without regard to race, color, religion, sex, pregnancy, national origin, age, disability, marital status, sexual
+orientation, gender identity, genetic information, military and veteran status, and any other characteristics protected by applicable law. We seek to recruit,
+develop, and retain the most talented and qualified applicants from a diverse candidate pool.

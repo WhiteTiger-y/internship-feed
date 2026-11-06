@@ -1,0 +1,45 @@
+Date Posted: 2026-11-05 Country: United States of America Location: US-CT-FARMINGTON-0004 ~ 4 Farm Springs Rd ~ 4 FARM SPRINGS Position Role Type: Hybrid U.S.
+Citizen, U.S. Person, or Immigration Status Requirements: This job requires a U.S. Person. A U.S. Person is a lawful permanent resident as defined in 8 U.S.C.
+1101(a)(20) or who is a protected individual as defined by 8 U.S.C. 1324b(a)(3). U.S. citizens, U.S. nationals, U.S. permanent residents, or individuals granted
+refugee or asylee status in the U.S. are considered U.S. persons. For a complete definition of “U.S. Person” go here.
+https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-120/subpart-C/section-120.62 Security Clearance Type: None/Not Required Security Clearance
+Status: Not Required Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the greatest minds in
+the industry? At RTX, our internships, co-ops and full-time careers provide an exceptional foundation to work on complex problems, advance your skills and
+create a safer, more connected world. Discover opportunities to make a difference at RTX. The Enterprise Services Application team is seeking a motivated intern
+to support our ongoing Application Transformation and Modernization initiatives. This program focuses on improving the quality, accuracy, and completeness of
+application data; enhancing lifecycle visibility; and supporting enterprise-wide modernization efforts. What You Will Do Learn and assist in collecting,
+validating, and cleansing application inventory data used for transformation planning, reporting, and governance. Collaborate with team members to update and
+maintain the source of truth for application inventory within ServiceNow to support company-wide OneRTX objectives. Gain exposure to enterprise IT governance
+frameworks and digital transformation initiatives. Document processes, findings, and data quality issues to support long-term governance practices. Participate
+in Agile ceremonies and working sessions related to App Pulse data enhancements and workflow improvements. Assist with creating simple data visualizations or
+summaries that help communicate trends or insights, including supporting the team in building basic Power BI visuals. What You Will Learn The basics of data
+quality and the importance of accurate information. How applications are managed throughout their lifecycle in a large organization. Teamwork and collaboration
+using Agile methodologies. Hands-on experience creating simple visuals in Power BI, such as charts and dashboards. How dashboards and reports are used to
+support decision-making. Qualifications You Must Have Currently pursuing a college degree in Computer Science, Information Technology, Data Analytics, Business
+Information Systems, or a related technical discipline through the duration of the internship. Experience with Microsoft Office tools (Excel, PowerPoint,
+Outlook). Qualifications We Prefer Experience using analysis tools such as Excel functions, Power BI, Tableau, or similar software. Familiarity with ServiceNow
+or other comparable platform technologies. Basic understanding of Agile methodologies and related concepts. Experience in cloud technologies, including
+platforms such as Azure or AWS. Hands-on experience with basic data manipulation techniques, including the use of Excel formulas or programming languages like
+Python. Ability to document processes clearly and effectively summarize findings. What We Offer Our values drive our actions, behaviors, and performance with a
+vision for a safer, more connected world. At RTX we value: Safety, Trust, Respect, Accountability, Collaboration, and Innovation. Learn More & Apply Now Please
+ensure the role type defined below is appropriate for your needs before applying to this role. This position is classified as: Hybrid: Employees who are working
+in Hybrid roles will work regularly both onsite and offsite. Ratio of time working onsite will be determined in partnership with your leader. As part of our
+commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office
+locations, regardless of whether the role is designated as on-site, hybrid or remote. The salary range for this role is 37,000 USD - 82,000 USD. The salary
+range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not
+limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills. Hired applicants
+may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match,
+flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays.
+Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement. Hired
+applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it
+is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including,
+but not limited to, individual performance, business unit performance, and/or the company’s performance. This role is a U.S.-based role. If the successful
+candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply. RTX anticipates the application window closing approximately 40
+days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application
+window. RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex,
+sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides
+affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and
+the Vietnam Era Veterans’ Readjustment Assistance Act. Privacy Policy and Terms: Click on this link to read the Policy and Terms RTX is an aerospace and defense
+company that provides advanced systems and services for commercial, military and government customers worldwide. It comprises three industry-leading businesses
+– Collins Aerospace, Pratt & Whitney, and Raytheon. Its 195,000 employees enable the company to operate at the edge of known science as they imagine and deliver
+solutions that push the boundaries in quantum physics, electric propulsion, directed en

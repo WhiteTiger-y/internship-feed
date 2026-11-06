@@ -3,6 +3,7 @@ Work Arrangement:
 Hybrid: This internship is categorized as on-site. The selected intern is expected to report to the office 3 days a week.
 Location:
 Sunnyvale, CA
+Seattle, WA
 About The Team
 The Onboard Autonomy team develops the real-time intelligence that enables autonomous vehicles to perceive their surroundings, plan safe and comfortable
 behavior, and operate reliably on the vehicle. Our work spans sensor fusion, structured perception, trajectory generation, ML planning, local planning,
