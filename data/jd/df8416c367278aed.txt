@@ -1,0 +1,61 @@
+This role requires the ability to work lawfully in the U.S. without employment-based immigration sponsorship, now or in the future.
+At a Glance
+- You’re a motivated student with a current 3.0 GPA or higher currently pursuing a degree in one of the following areas from an accredited college or
+university:
+- Computer Science,Computer Information Systems,Cyber Security,Data Science,Electrical and Computer Engineering,Engineering Technology Management,Information
+Science,Information Technology,Quantum Engineering Software
+- This is a paid, full-time, 11-week internship designed to give you real-world experience and meaningful exposure to the telecommunications industry in your
+chosen field.
+- Internship program runs from May 26 through August 6, 2027.
+- In addition to role-specific projects, you’ll take part in professional development sessions, networking opportunities, mentorship and experiences that help
+you grow personally and professionally.
+The Spectrum Internship Experience
+As part of America’s Connectivity Company®, you’ll join a team that serves millions of customers and communities nationwide, while gaining valuable insight into
+the work that powers connection every day.
+Throughout the summer, you’ll contribute to meaningful work, strengthen your skills and have opportunities to:
+- Grow your skills in a dynamic, innovative business environment.
+- Build connections with team members and senior leaders who can help you better understand our business and what it’s like to work here.
+- Learn from a mentor, who can provide guidance, support and career advice.
+What You Can Expect In This Role
+As a Spectrum intern, you’ll spend the summer working alongside two teams: your respective department and your intern cohort.
+Department and team-focused projects account for about 80% of your schedule. You’ll spend the other 20% on internship experiences that include a kickoff
+conference, professional development sessions and networking activities, webinars, community service, cross-functional projects and final presentations.
+This experience is designed to help you explore your interests, expand your network and leave with a deeper understanding of both your field and the impact of
+our business.
+Internship responsibilities may include:
+- Our team drives edge compute strategy for critical network functions and leverages deep DOCSIS expertise to research reliability improvements that enhance
+customer experience. We investigate next-generation telemetry, proactive maintenance, and specification enhancements to build a more resilient network for end
+users. A data science intern would accelerate this mission by building AI/ML models to analyze network telemetry, detect impairments, and predict customer-
+impacting issues before they occur. They would also develop a reusable evaluation platform to benchmark ML approaches across multiple reliability and edge
+compute use cases.
+- AI/ML Platform Development — Design and build a reusable experimentation platform to evaluate ML models across multiple network reliability use cases.
+- Telemetry Analysis — Analyze DOCSIS network telemetry data to identify patterns that predict customer-impacting issues before service degradation occurs.
+- Model Development & Benchmarking — Build and compare ML models for anomaly detection, impairment identification, and customer experience impact
+classification.
+- Data Visualization — Develop dashboards that translate network telemetry into actionable reliability KPIs for the team's DOCSIS experts.
+- Edge AI Prototyping — Research and prototype AI-driven automation concepts for real-time, autonomous responses to network impairments at the edge.
+- Documentation & Delivery — Document findings, present recommendations, and deliver a roadmap for production deployment of the most promising ML approaches.
+Required Qualifications
+- Must be a rising senior with an expected graduation date between December 2027 and May 2028
+- Must be currently enrolled in an accredited College or University completing a bachelor’s degree
+- Must have at least a 3.0 GPA or greater in current program
+- Ability to travel locally to Spectrum intern development events and activities throughout the program
+- Authorization to work in the U.S. without restrictions or need for future sponsorship
+Preferred Qualifications
+- Critical thinking, Basic ML fundamentals
+- Ability to translate a business use case into an ML problem
+- Model comparison and benchmarking across different use cases and data visualization
+GGN100 2026-81731 GGN100 2026
+Here, our employees don’t just have jobs, they're building careers. That’s why we offer a comprehensive pay and benefits package that rewards employees for
+their contributions to our success, supporting all aspects of their well-being at every stage of life.
+A qualified applicant’s criminal history, if any, will be considered in a manner consistent with applicable laws, including local ordinances.
+This job posting will remain open until 2026-11-13 06:00 AM (UTC) and will be extended if necessary.
+The base pay for this position generally is between $00 and $00. The actual compensation offered will carefully consider a wide range of factors, including your
+skills, qualifications, experience, and location. We comply with local wage minimums and also, certain positions are eligible for additional forms of other
+incentive-based compensation such as bonuses.
+Get To Know Us: Spectrum is a suite of advanced communications services offered by Charter Communications, Inc. (NASDAQ: CHTR), the leading internet and video
+provider in the nation and the fastest growing mobile company in our footprint, with services available to more than 70 million homes and businesses across 45
+states. Supported by our 100% U.S.-based employees,* we are America's Internet Company®.
+- At close of the Cox acquisition, Spectrum announced that over the next 18 months, it will fully return legacy Cox's customer service function to the U.S.
+Grow Your Career Here We’re committed to growing a workforce that reflects the customers and communities we serve – providing opportunities for employment and
+advancement to all team members. Spectrum is an Equal Opportunity Employer, including job seekers with disabilities and veterans. Learn about Life at Spectrum.

@@ -1,0 +1,43 @@
+Position Summary
+This role is not eligible for immigration sponsorship
+Headquartered in Englewood Cliffs, N.J., Samsung Electronics America, Inc. (SEA), the U.S. Sales and Marketing subsidiary, is a leader in mobile technologies,
+consumer electronics, home appliances, enterprise solutions and networks systems. For more than four decades, Samsung has driven innovation, economic growth and
+workforce opportunity across the United States—investing over $100 billion and employing more than 20,000 people nationwide. By integrating our large portfolio
+of products, services and AI technology, we’re creating smarter, sustainable and more connected experiences that empower people to live better. SEA is a wholly
+owned subsidiary of Samsung Electronics Co., Ltd. To learn more, visit Samsung.com. For the latest news, visit news.samsung.com/us.
+Field service team is at the frontline of our home appliance service, dedicated to delivering the best customer experience by ensuring cx satisfaction &
+streamlining processes, and developing strategies for ongoing improvement and growth. Monitor KPIs, anaylze cx feedback and implement improvement using data
+insights. Collaborate with sales, other teams for seamless customer experience.
+As an AI Engineering/Data Scientist Intern, you will support teams by participating in projects, observing professional work environments, and conducting
+research to contribute to the team's success.
+- Applying machine learning techniques to solve complex data problems
+- Utilizing natural language processing for data-driven insights
+- Engaging in predictive modeling to forecast trends and outcomes
+- Supporting data engineering projects with a focus on data quality and integrity
+Role And Responsibilities
+- Programming: Python is essential (with libraries like NumPy, Pandas, Scikit-learn); SQL for data handling is also key; R, Java, C++ can be beneficial.
+- Machine Learning: Understanding core ML concepts (supervised/unsupervised learning, regression, clustering) and algorithms.
+- AI Frameworks: Experience with TensorFlow, PyTorch, or similar deep learning/AI libraries.
+- Data Handling: Skills in data wrangling, cleaning, and using tools like Spark/Hadoop for large datasets.
+- Mathematics/Statistics: Strong grasp of linear algebra, calculus, and statistics.
+- AI Concepts: Familiarity with newer areas like LLMs, NLP, or Reinforcement Learning (RL) is a plus.
+Skills And Qualifications
+Academic Major Preferred: Master's
+- Currently enrolled in a Bachelor's or Master's, Computer Science, Data Science, Statistics, Math, or a related quantitative field.
+- Often a strong academic record (e.g., GPA 3.0+) is preferred.
+- Preferred to have technical & professional experience.
+Life @ Samsung - https://www.samsung.com/us/careers/life-at-samsung/
+Benefits @ Samsung - https://www.samsung.com/us/careers/benefits/
+- Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page.
+If you are European Economic Resident, please click here.
+At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone
+belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and
+communities.
+- Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all
+individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected
+veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.
+Reasonable Accommodations for Qualified Individuals with Disabilities During the Application Process
+Samsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If
+you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation
+Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general
+employment inquiries.

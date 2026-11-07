@@ -1,0 +1,53 @@
+About Parspec
+Founded in 2021, Parspec is revolutionizing the materials supply chain for the $13 trillion USD construction industry by digitizing and organizing the
+industry's product data. Our proprietary AI technology maintains a current and comprehensive catalogue of millions of products, enabling our customers to
+identify products that best meet their needs–instantly. Trusted by top designers, builders, distributors, manufacturers, and sales agents, and backed by leading
+venture investors, Parspec is paving the way for a more innovative, connected, and sustainable future in construction.
+Join us in building transformative technology that reshapes one of the world’s oldest and largest industries.
+The Opportunity
+We’re seeking an Applied AI Engineer Intern to join Parspec. This role is part of the AI team and works closely with Product and Engineering on fast-moving,
+real-world applications of AI.
+As an intern, you’ll apply modern AI and machine learning techniques to concrete product problems, such as understanding product specifications, improving
+product recommendations, and exploring early agentic AI workflows, while learning how AI systems are designed, built, evaluated, and shipped in the real world.
+This is an ideal role for a student who wants hands-on experience applying AI to complex, messy industry data and customer-facing product workflows.
+What You Will Achieve And Key Responsibilities
+- Contribute to AI-driven initiatives, from problem framing through experimentation and implementation
+- Build, prototype, evaluate, and iterate on models and AI-powered workflows used in customer-facing product features
+- Partner with Senior Applied AI Engineers and Product Managers to translate real customer problems into clear technical approaches and tradeoffs
+- Analyze structured and unstructured data (e.g., product specifications, documents, metadata) to improve model performance
+- Document assumptions, results, and learnings to support cross-functional alignment and decision-making
+Why This Matters
+Construction remains one of the world’s largest and least digitized industries. Construction teams rely on manual workflows to interpret product specifications,
+identify suitable materials, compare options, and make procurement decisions. Parspec applies AI to power workflows that help stakeholders evaluate products,
+surface better options, and act with confidence. As an Applied AI Engineer Intern, your work will directly support these capabilities and the decisions they
+enable.
+Who You Are
+You’re excited about applying AI to real-world problems that don’t come neatly packaged. You enjoy breaking down complex systems, working with imperfect data,
+and experimenting to find practical solutions. You’re curious, technically grounded, and comfortable collaborating with Product and Engineering partners to
+balance model performance, system constraints, and customer impact.
+Qualifications
+- Currently enrolled in a US-based, degree-seeking program (Bachelor’s, Master’s, or PhD) in Engineering, Computer Science, or related fields
+- Strong familiarity with core ML/AI concepts and tooling, such as model training(LoRA/QLoRA) and evaluation, embeddings, RAG systems, agentic frameworks like
+LangGraph, CrewAI or related techniques.
+- Strong familiarity with ranking and recommendations techniques.
+- Hands-on experience applying AI or machine learning to real-world projects, including working with imperfect data, making tradeoffs, and iterating based on
+results
+- Strong analytical and problem-solving skills
+- Ability to work effectively in ambiguous problem spaces with guidance and mentorship
+- Clear written and verbal communication skills for technical and non-technical audiences.
+Preferred Qualifications
+- Exposure to B2B SaaS products, especially workflow-heavy or operations-focused software
+- Interest in or exposure to construction industry workflows, including materials procurement
+What we offer
+- Competitive stipend for the duration of the internship
+- Hands-on ownership of meaningful product work that directly impacts customers
+- Mentorship from experienced Product, Design, and Engineering leaders
+- Flexible hybrid work environment to support both in-office collaboration and focused remote work
+- Exposure to a fast-growing AI-powered B2B SaaS company and real-world product decision-making
+- Opportunities for learning and professional development through regular feedback and collaboration
+Join Us and Lead the Transformation!
+At Parspec, we recognize that traditional job descriptions don’t always capture the full range of your unique abilities—and that’s perfectly okay. You may not
+meet every requirement, but if you bring a mix of experiences, fresh perspectives, and a passion that aligns with our mission, we want to hear from you!
+The Parspec team believes that varied backgrounds drive better outcomes and fuel innovation. We are a team of self-starters who lead from every seat. We think
+big, set a standard of excellence, and are committed to diversity and a discrimination-free workplace. We welcome applicants from all walks of life to join us
+and help shape the future of our industry.

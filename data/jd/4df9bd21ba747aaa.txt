@@ -1,0 +1,45 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 30 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team
+and see how you can make a lasting impact on the world.
+We are looking for an outstanding Research & Engineering Intern to join NVIDIA’s Agentic Systems Intelligence (ASI) team, a frontier research and engineering
+team advancing high-performance AI. Our team builds the next generation of agentic AI systems for the CUDA ecosystem, working across the full stack—from
+training and improving models, to designing agent architectures and multi-agent systems, to building the systems, runtimes, and evaluation frameworks that make
+them effective at scale. You will investigate open-ended research questions and turn promising ideas into working systems that can reason about, generate,
+optimize, and operate across NVIDIA’s accelerated computing stack. Depending on your strengths and interests, your work may focus on advancing model and agent
+capabilities, building scalable agent systems and runtimes, or developing high-fidelity training and evaluation environments. You will collaborate closely with
+NVIDIA software, model, and hardware teams, with opportunities to bring new capabilities into NVIDIA products.
+What You'll Be Doing
+- Research, build, and optimize agentic AI systems for the CUDA ecosystem, including agent architectures, multi-agent workflows, tool use, memory, and
+orchestration.
+- Develop data pipelines, environments, verification tools, reward mechanisms, and evaluation frameworks to improve model and agent capabilities through
+rigorous experimentation.
+- Co-design and optimize agentic systems across NVIDIA’s software and hardware stack, connecting advances in models and agents with compilers, runtimes,
+libraries, kernels, and GPUs. Demonstrate measurable improvements in correctness, performance, or developer productivity.
+What We Need To See
+- You are pursuing a Master’s, or PhD in Computer Science, Electrical Engineering, or a similar field.
+- Strong foundations in one or more of the following: AI systems, agentic AI, machine learning, reinforcement learning, high-performance computing, or computer
+architecture.
+- Hands-on research or development experience in agent systems, coding agents, model training, reinforcement learning, or modern AI inference systems.
+- Strong Python programming skills and proficiency in C/C++ or Rust, with solid software engineering fundamentals.
+- Experience with GPU computing and an interest in performance optimization and working across system boundaries.
+Ways To Stand Out From The Crowd
+- PhD research in a relevant area, with demonstrated ability to formulate research questions, build working implementations, and evaluate them rigorously.
+- Experience building coding agents, autonomous software-engineering systems, or agent training and evaluation environments.
+- Hands-on experience with GPU programming and performance optimization, or with systems such as TRT-LLM, SGLang, or vLLM.
+- Evidence of technical depth and ownership through impactful research prototypes, deployed systems, or substantial open-source contributions. Relevant
+publications are welcome; we especially value strong engineering and measurable real-world impact.
+With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some
+of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly
+growing. If you're a creative and autonomous researcher/engineer with a real passion for technology, we want to hear from you.
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 20 USD – 94 USD.
+You will also be eligible for Intern benefits.
+Applications for this job will be accepted at least until November 9, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+, , JR2028260

@@ -1,0 +1,32 @@
+PETRONAS Canada is one of the largest natural gas resource owners in Canada. We have operations in the Montney play in northeast British Columbia and are a
+partner in LNG Canada. As part of PETRONAS, a dynamic global energy group with presence in over 100 countries, we are well-positioned to provide global markets
+with responsibly-developed Canadian energy while supporting local jobs, collaborating with Indigenous communities and protecting the environment. At PETRONAS
+Canada, we are committed to building Canada’s energy future – and people are fundamental to our success. We foster a culture of open collaboration and
+empowerment across our team of skilled professionals, while supporting career development opportunities. We are looking for can-do problem solvers to join our
+team who are innovative and passionate about driving strong safety, operational and sustainability performance in everything we do. Our unique culture and
+commitment to growth makes the company a great place to build your career. THE ROLE: PETRONAS Canada is a great place to launch a career that is enriched with
+knowledge, technical skills and mentorship. Our summer student program provides an opportunity to experience real-world challenges, collaborate with diverse
+teams, network with other students and create a vision for your future career path. Working with our Asset Management team in Calgary, this will be a full-time
+student position from May to September 2027. During your summer, you will gain exposure to the energy industry by attending sessions hosted by subject matter
+experts and will have an opportunity to showcase your learnings with your student network. We are looking for capable, energetic, and driven individuals to join
+us in our passion for progress. Expand your potential with us! HOW YOU WILL CONTRIBUTE: Assist in the deployment, configuration, and rollout of Power BI
+dashboards and reports for Operational Excellence (OE) programs & value tracking Support data collection, validation, and visualization to ensure data accuracy
+and consistency for value tracking and performance monitoring Support stakeholder engagement and consolidate feedback during the project tools assessment to
+evaluate user needs and identify opportunities for improvement Support development of selected project tool including databricks integration Support stakeholder
+engagement and consolidate feedback during the Operations mobile tool assessment to evaluate user needs support selection Support Asset Management & Operational
+Excellence periodic reporting through data collection & analysis and presentation development WHAT YOU BRING: Actively enrolled in an undergraduate degree or
+diploma program at a Canadian post-secondary institution, and must be returning to studies after the work term Enrolled in Bachelor of Science with a major in
+Petroleum, Computer, Mechanical, Chemical Engineering or Bachelor of Data Science Proficient in Microsoft Office suite, with advanced Excel skills Familiarity
+with programming languages (Python, R, Powershell, VBA, Javascript) is considered an asset Knowledge of Visualization Software Packages (PowerBI, Spotfire,
+Tableau) is advantageous Experience with relational databases and query languages, such as SQL Understanding of ETL (Extract, Transform, Load) processes and
+experience with data pipeline tools like Apache Airflow or dbt. Some experience working with cloud platforms (e.g., Azure, AWS, GCP) for data storage
+Exceptional analytical and communication skills The ability to collaborate and build strong working relationships with your team, peers, and diverse business
+groups Strong time and data management skills, with the ability to thrive in a fast-paced environment Job postings are typically only open for applications for
+one week so please submit your resume, cover letter, and transcript today. WHY YOU SHOULD JOIN OUR TEAM: Flexible work arrangements which include a compressed
+work week with Friday afternoons off for office-based roles Dress for your day - a casual yet professional environment Meaningful, challenging and rewarding
+work experience, relevant to your field of study Learn from knowledgeable mentors who will provide you with insight into what it will be like to work in your
+chosen career Ability to contribute to a dynamic organization with large growth ambitions Competitive compensation Work for a company that is making a positive
+difference in our communities through volunteerism, community support and providing opportunities to those in the areas where we work PETRONAS Canada would like
+to thank all applicants for their interest in joining our team; however only the candidates selected for interviews will be contacted. We are aware that
+individuals and organizations claiming to represent or be affiliated with PETRONAS Canada have contacted potential candidates offering unsolicited employment
+opportunities. These communications are fraudulent. Read our fraud notice here.

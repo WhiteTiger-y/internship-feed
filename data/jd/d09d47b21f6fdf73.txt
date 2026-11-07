@@ -1,0 +1,65 @@
+Overview
+Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized
+scientists and engineers, who pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including
+computing, healthcare, economics, and the environment.
+The AI & Human Systems group at Microsoft Research New York City (MSR NYC) and Microsoft Research New England (MSR NE) is seeking multiple Research Interns.
+AI & Human Systems brings together researchers and applied scientists who have been part of the Fairness, Accountability, Transparency, and Ethics in AI (FATE),
+Sociotechnical Alignment Center (STAC), Economics and Computation , and Computational Social Science (CSS) groups. This posting is for candidates interested in
+working with researchers and applied scientists across any of these areas. Group members collaborate extensively with one another and with other groups across
+Microsoft.
+The group shares a common goal: a world where AI boosts productivity, accelerates innovation, and helps people flourish by focusing their attention, enhancing
+their capabilities, and safeguarding their agency. Research Interns will contribute to this goal by working with mentors on research that advances it.
+Our research draws on diverse disciplinary perspectives to study, measure, and design AI systems and understand their effects on people, teams, organizations,
+markets, economies, and societies. Topics include, but are not limited to: AI measurement and evaluation; measuring the impacts of AI on individuals,
+organizations, and society; human–AI interaction and meaningful human engagement with AI; and the design of agentic systems, markets, and institutions that
+shape how AI participates in the economy and society.
+Applicants should demonstrate an interest in studying AI and human systems, a desire to work in a highly interdisciplinary environment, and experience using AI
+to thoughtfully enhance their own research. We welcome applicants pursuing a doctoral degree in technical fields (e.g., machine learning, artificial
+intelligence, natural language processing, statistics, computer science), economics, computational social science, or sociotechnical fields (e.g.,
+human–computer interaction, information science, law, linguistics, science and technology studies) as well as JD candidates. Applicants should be proficient
+with AI tools.
+Applications will be reviewed on a rolling basis. We recommend submitting by December 1, 2026.
+Responsibilities
+Alongside fellow doctoral candidates and some of the world’s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not
+only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are
+paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the
+community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer.
+Qualifications
+Required Qualifications
+- Currently enrolled in a Doctorate Degree program in a related field.
+Other Requirements
+- Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.
+- In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant
+work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference
+letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates.
+You may wish to alert your letter writers in advance, so they will be ready to submit your letter.
+- All applicants must submit a cover letter, which we will use to route your application to the appropriate researchers for review. Our group collaborates
+frequently across disciplines, but we also understand the value of pairing interns with mentors who work with similar vocabularies and tools. Because this
+document is for routing only, please do not invest much time in it and include only the information requested below. We are hiring for a wide variety of
+projects, and different projects require different skills, so it is fine to answer "not applicable."
+- Please explicitly list in your cover letter:
+- A link to your research website/publications
+- Which of the following topic areas you are interested in (list all that are applicable): AI measurement and evaluation; measuring the impacts of AI on
+individuals, organizations, and society; human–AI interaction and meaningful human engagement with AI; or the design of agentic systems, markets, and
+institutions that shape how AI participates in the economy and society
+- What field is your PhD in
+- What kinds of methodologies you have applied in your research or are most familiar with (e.g., coding, statistics, large scale data analysis,
+theoretical/mathematical analysis, user studies, experimental design, ethnography)
+- Key toolkits, if applicable: web development (e.g., JavaScript, React.js, D3.js, etc.), analytic toolsets (e.g., R, Python, etc.), etc.
+- If appropriate, a link to any online code repositories (e.g., GitHub, OSF, Hugging Face)
+- Any researchers you are particularly interested in working with (and explain why in one sentence)
+To submit your cover letter, please navigate to the Action Center in your Careers Profile. You can upload other documents under the “Resume Manager” tab in the
+top right.
+Preferred Qualifications
+- Demonstrated ability to conduct original research.
+- Ability to collaborate effectively with other researchers and product development teams.
+- Demonstrated interpersonal skills and cross-group and cross-cultural collaboration.
+- Ability to think unconventionally to derive creative and innovative solutions.
+- Proficiency with AI tools.
+The base pay range for this internship is USD $6,810 - $13,480 per month. There is a different range applicable to specific work locations, within the San
+Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $8,920 - $14,610 per month.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-
+intern-pay
+Microsoft accepts applications and processes offers for these roles on an ongoing basis throughout the academic calendar (September - April).
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All 

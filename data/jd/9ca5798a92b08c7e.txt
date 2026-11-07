@@ -1,0 +1,64 @@
+Category Labs (formerly known as Monad Labs) is a team of systems engineers and researchers on a mission to design and build at the frontier of decentralized
+technology. We strive to deliver significant improvements over existing blockchain solutions. After raising $225M in Series A funding, led by Paradigm, we are
+growing our team.
+We’re the team behind Monad, a high-performance, EVM-compatible Layer 1. We write the core software that runs it: a parallel-execution EVM, a custom state
+database, and a BFT consensus client, all developed in the open.
+The Role
+- We’re hiring Summer Research Interns to pursue advanced research in mechanism design, cryptoeconomics, distributed systems, programming languages,
+cryptography, and governance. This list isn’t exhaustive; if you bring a valuable and relevant perspective, we encourage you to apply.
+- This internship offers a rare chance to work at the frontier of decentralized systems: advancing the underlying science and technology while delivering real
+impact at scale.
+- Research projects will draw on the challenges of building a first-of-its-kind blockchain, as well as new directions that decentralized systems make possible.
+You’re also welcome to propose your own projects.
+- You’ll learn from Category Labs’ researchers, engineers, and fellow interns, while contributing as an independent and equal peer.
+- Depending on your availability and the needs of the project, the internship can be extended into part-time employment and may lead to future collaborations.
+What You’ll Do
+- Conduct novel, rigorous research on the topics above.
+- Contribute to technical publications, including peer-reviewed papers, blog posts, and white papers.
+- Partner with the engineering team to build prototypes, run simulations, and design experiments that test your models and assumptions.
+- Engage with team members and visiting researchers to refine ideas and share insights from your own work.
+Past interns have shipped real work (small sample):
+- A Private RPC for Public Blockchains: Introduced write-public ORAM, a new primitive for reading blockchain state without revealing what you read, and built an
+open-source private RPC that keeps up with Monad’s throughput.
+- Timing Games in Responsive Consensus Protocols: Modeled why validators delay block proposals, and designed dynamic block rewards that make proposing promptly
+the winning strategy.
+- On the Geographic Incentives of Multiple Concurrent Proposers: Proved how proposers choose where to locate in multi-proposer systems, and when that leads to
+co-location versus geographic diversity.
+Who You Are
+- You’re currently enrolled in a PhD program in computer science, economics, mathematics, the social sciences, or a related field. Exceptional master’s and
+undergraduate students will also be considered.
+- You’re passionate about decentralized systems and have enough foundational knowledge to hit the ground running.
+- You communicate clearly and can explain complex ideas in simple terms, making research accessible to a broader audience.
+- You have a clear research vision and the drive to pursue innovative ideas aligned with Category Labs’ mission.
+- You’re collaborative, self-motivated, and adaptable, eager to tackle hard problems and pick up new concepts quickly in a fast-paced environment.
+Why Work with Us
+- Challenging problems: You’ll work on extremely challenging problems with massive impact. See our Blogs and Publications & Talks for a flavor of the problems
+we are solving in the real world.
+- Huge opportunity: The Ethereum Virtual Machine (EVM) standard is ubiquitous, but existing EVM-compatible chains are very slow. Monad’s core innovations offer
+developers the best of both worlds (portability and performance) and are a game-changer for mass user adoption in crypto.
+- The right team: You’ll be part of a small, exceptional team (engineers and researchers make up 90% of the team).
+- Open by default: Our core software is public on GitHub.
+- Culture: We’re a lean team working together to achieve very ambitious goals. We are united in our culture of collaboration, low ego, and high-quality output.
+As an early member of our team, you’ll help to shape our culture.
+- Compensation: You’ll receive competitive pay, plus housing support.
+- Resources and growth: We’re well-capitalized, with backing from leading venture funds like Paradigm, Electric Capital, Greenoaks, Dragonfly, and Coinbase
+Ventures. We keep a lean team, and this is a rare opportunity to join. You’ll learn a lot and grow as our company scales.
+How We Use AI
+We’re an AI-native team, and we expect researchers to use AI and adapt to the technology as it evolves. A few things we believe:
+- AI is leverage, not a crutch. You must stand behind the correctness and quality of your work (including writing and presentation) even if it was produced with
+the help of AI.
+- As part of the research process, you must understand the output from AI before sharing it with your collaborators. Any output that you were not able to review
+must be marked as such.
+Internship Details
+- The internship runs roughly 12 weeks, between May 17 and August 30.
+- Residency in New York City is strongly preferred but not required.
+- The anticipated rate for this role is $4,500 per week, plus a $500 per week housing stipend or corporate housing. Pay may vary based on experience and scope.
+Application and timeline
+Please include, in addition to the application below:
+- Resume/CV
+- Letters of recommendation (1-2 letters, optional but recommended).
+- Recommenders should email their letters of support to recruiting@category.xyz with the "[name of the applicant], Research Intern 2027" in the subject line.
+- For full consideration, please submit applications by December 7, 2026.
+Visa & Work Authorization
+- We welcome international applicants and will consider visa and work authorization support on a case-by-case basis. Please note your current status and
+location in your application so we can discuss options early.

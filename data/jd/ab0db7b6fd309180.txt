@@ -1,0 +1,52 @@
+About Our Internship Program
+Zoox's internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry's brightest minds, and the opportunity
+to make meaningful contributions to real projects. We seek interns who demonstrate strong academic performance, engagement beyond the classroom, intellectual
+curiosity, and a genuine interest in Zoox's mission.
+Job Description
+The Safety Strategy & Operations team at Zoox ensures that every strategic decision regarding vehicle deployment, operations, and policy is backed by rigorous
+safety data and modern computational tools.
+As an intern on this team, you will focus on developing and deploying internal AI tools and agentic workflows that empower safety operators and analysts to make
+faster, more consistent, and data-driven safety decisions. You will work at the cutting edge where state-of-the-art AI developer tooling directly interfaces
+with safety-critical operational decision systems.
+In this Role, You Will…
+- Develop AI-Powered Decision Tools: Design, prototype, and implement agentic workflows and AI-assisted tools that automate complex safety evaluations and
+triage operational signals.
+- Test & Validate Tool Reliability: Characterize the capabilities, edge cases, and failure modes of LLMs and AI workflows to ensure decision aids operate within
+safety-critical reliability thresholds.
+- Integrate Data Pipelines: Connect generative AI agents to structured safety databases and operational logs to automate real-time synthesis and risk reporting.
+- Collaborate Across Safety & Software: Work alongside safety strategists and software engineers to test prototypes in real operational scenarios and iterate
+based on user feedback.
+Internship Requirements
+- Currently pursuing a Master’s degree (or advanced degree) in Computer Science, Artificial Intelligence, Robotics, Data Science, or related engineering field.
+- Good academic standing and enrolled at an accredited college or university throughout the internship.
+- Expected graduation date between Fall 2027 and Summer 2028.
+- Able to commit to a full-time, 12-week internship.
+- Ability to relocate to the Bay Area, California, for the duration of the internship.
+- Interns at Zoox may not use proprietary information for thesis or publication outside of Zoox.
+Technical Qualifications
+- Strong software engineering fundamentals in Python and object-oriented programming.
+- Hands-on experience developing and deploying AI tools, LLM APIs, and agentic workflows (e.g., LangChain, LlamaIndex, Claude/Cursor environments).
+- Critical understanding of the limitations, hallucinations, and verification methods required when deploying AI in decision-making contexts.
+- Experience building working prototypes, APIs, or internal web dashboards (e.g., Streamlit, FastAPI, or Flask).
+- Strong analytical problem-solving and clear written/verbal technical communication.
+Bonus Qualifications
+- Prior experience applying AI/ML techniques to autonomous systems, safety analytics, or risk management.
+- Experience designing evaluation harnesses to benchmark generative AI and prompt performance.
+- Familiarity with database architectures (SQL/NoSQL) and data warehousing platforms.
+Compensation
+The monthly salary range for this position is $5,500 to $9,500. Compensation will vary based on geographic location and level of education. Additional benefits
+may include medical insurance and a housing stipend (relocation assistance offered based on eligibility). Interview Process & Duration of Each Interview
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the
+intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking
+for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+Follow us on LinkedIn
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to [email protected] or your assigned recruiter.
+A Final Note
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to
+be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.

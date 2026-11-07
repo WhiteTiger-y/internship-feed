@@ -1,0 +1,68 @@
+Building the people that build the world.
+With platforms in HVAC and Detection and Measurement, SPX Technologies builds innovative solutions that enable a safer, more efficient, sustainable world.
+Through our RiSE talent development framework, we Reach, Identify, Strengthen, and Engage our employees to support them in their continued development. We’re a
+global company of problem solvers, collaborators, and innovators, and our businesses build solutions that impact the world.
+As part of Detection and Measurement, Genfare is a leader in configurable fare collection systems in the public transit industry. By creating high quality
+equipment and payment systems to improve the rider experience, we empower equitable mobility and provide services to better connect communities.
+GENFARE Overview
+Genfare is a fare collection technology provider in the detection and measurement segment within SPX Corporation. Our purpose is to simplify and positively
+impact the public transit rider experience with our agency partners. Genfare strives to drive growth in public transportation use, improve operational
+efficiency, reduce travel congestion and improve each rider’s daily commute.
+We are tackling several challenging trends occurring in the world, including: acceptance of all payment types, urbanization, digital transformation, real-time
+connectivity, end-to-end cybersecurity, and data analytics. Through collaboration with transit agencies and their partners, we provide fully integrated highly-
+efficient software, industry-leading hardware solutions, and services that enable fast, secure and accurate public transportation operating systems.
+Working at Genfare opens doors to getting hands-on with cutting-edge fare collection technologies. Our culture is made up of team players who are driven and
+inspired problem solvers. At Genfare, you are part of a dynamic team that makes an impact on many of our nation’s prominent transit agencies. Genfare welcomes
+you to discover the open opportunities on our team!
+Job Summary
+We're seeking a motivated software engineering intern to join our paid summer internship program. Join our team and work on cutting-edge generative AI
+applications. You'll contribute to real projects while gaining hands-on experience with modern AI technologies and gain hands-on experience, learn from experts,
+and collaborate with teams that do truly amazing things.
+What You Can Expect In This Role (Job Responsibilities)
+While each day brings new opportunities at SPX, your core responsibilities will be:
+- Develop and integrate generative AI solutions using LLMs and APIs
+- Build web applications with AI-powered features
+- Write clean, maintainable code following best practices
+- Collaborate with senior engineers on product development
+- Test and debug AI applications
+- Document code and create technical specifications
+- Participate in code reviews and team meetings
+What We Are Offering
+- Mentorship from experienced engineers
+- Real-world project experience
+- Competitive internship compensation
+- Flexible work arrangements
+- Potential for full-time offer
+What we are looking for (Experience, Knowledge, Skills, Abilities, Education)
+We each bring something to the table, and we are looking for someone who has:
+Required Experience
+- Experience with cloud platforms (AWS, Azure, GCP)
+- Knowledge of machine learning concepts
+- Previous internship or project experience
+- Familiarity with databases and data processing
+Education & Certifications
+- Bachelor or Master’s Computer Science or related field
+- Enrolled in Graduate program or in the last year of Undergraduate degree
+SPX Pay Transparency Statement
+We recognize that attracting the best talent is key to our strategy and success as a company. As a result, we aim for flexibility in structuring competitive
+compensation offers to ensure we are able to attract the best candidates. As required by law in this state, the estimated salary range for this position is
+$20.00 to $25.00 and represents our good faith estimate as to what our ideal candidates are likely to expect. We tailor our offers within the range based on
+organizational needs, internal equity, market data, geographic zone, and the selected candidate’s experience, education, industry knowledge, location, technical
+and communication skills, and other factors that may prove relevant during the selection process. At SPX, it is not common for individuals to be hired at the
+higher end of the range, and compensation decisions depend on a variety of factors. This position is eligible to participate in a discretionary bonus, subject
+to the rules governing the plan. SPX offers a variety of benefits, including health benefits, 401K retirement with a company match, and flexible time off. More
+information about our benefits can be found on the “Rewards and Benefits” section of our career page.
+How We Live Our Culture
+Our culture is at the center of what we do and, more importantly, who we are. Our core values set a standard for how we manage ourselves, and our Leadership
+Model sets the standard for how we engage with each other. Whether you are an individual contributor or you lead a large team, each of us leads at SPX.
+What benefits do we offer?
+We know that the well-being of our employees is integral. Our benefits include:
+- Generous and flexible paid time off including paid personal time off, caregiver, parental, and volunteer leave
+- Competitive health insurance plans and 401(k) match, with benefits starting day one
+- Competitive and performance-based compensation packages and bonus plans
+- Educational assistance, leadership development programs, and recognition programs
+Our commitment to embrace diversity to build a culture of inclusion at SPX
+We value different backgrounds, experiences, and voices at SPX, and we are committed to challenging ourselves, openly communicating, and striving to improve
+every day. We believe in creating an inclusive work environment where everyone has a voice and is encouraged to realize their fullest potential.
+SPX is an affirmative action and equal opportunity employer committed to making selection decisions without regard to race, color, religion, sex, sexual
+orientation or identity, national origin, age, disability, veteran status, or any other legally protected basis.

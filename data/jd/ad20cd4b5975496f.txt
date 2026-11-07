@@ -1,0 +1,72 @@
+Overview
+Keysight is at the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test,
+manufacturing, and optimization. Our ~16,800 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and
+semiconductor markets for customers in over 100 countries. Learn more about what we do.
+Our award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.
+We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+About The Program
+Keysight's AI team builds adaptive engineering intelligence systems where measurement, simulation, and machine learning converge - models that learn from
+complex physical data and adapt to new design and testing conditions.
+This internship focuses on machine learning surrogate models for engineering simulation and measurement. High-fidelity simulations and physical measurements can
+dominate the design and test loop for RF, high-speed, and other engineering problems, and their cost limits how much of a design space an engineer can explore.
+You will develop models that predict engineering responses at a fraction of the cost, investigate how such models can be adapted efficiently as the design
+problem changes, and integrate the result into an engineering ML runtime environment.
+Role Overview
+You will design, train, and evaluate neural surrogate models that predict engineering responses from simulation or measurement data far faster than repeated
+high-fidelity simulation or physical characterization. This spans the full arc of the problem: generating or assembling the data, choosing and evaluating model
+architectures and output representations, establishing where accuracy holds and where it degrades, and quantifying the result against a realistic simulation or
+measurement budget.
+In the second phase you will study how a trained model can be specialized efficiently when the design problem shifts, using LoRA and related parameter-efficient
+adaptation methods. You will work alongside AI researchers, simulation and measurement experts, RF designers, and runtime engineers.
+Learning Outcomes
+- Apply modern machine learning to realistic engineering simulation and measurement data.
+- Learn how surrogate model accuracy depends on data quality, sampling strategy, representation choices, and simulation budget.
+- Develop practical experience with parameter-efficient adaptation methods such as LoRA under data-scarce engineering conditions.
+- Build fluency with uncertainty estimation, physical consistency checks, and engineering-relevant error analysis.
+- Take a research model from Python experimentation toward robust C++ and LibTorch integration.
+- Collaborate across machine learning, RF design, simulation, measurement, and runtime engineering disciplines.
+Responsibilities
+- Generate parametric engineering datasets using simulation and/or measurement sources, with attention to sampling strategy and to numerical noise in the
+underlying data.
+- Design, train, and evaluate neural surrogate models for engineering response prediction.
+- Investigate how the choice of output representation affects accuracy, particularly across operating regions or frequency ranges where the response varies
+sharply.
+- Establish rigorous baselines and quantify accuracy as a function of simulation or measurement budget.
+- Evaluate LoRA and related parameter-efficient methods for specializing trained models to new problem settings, against full and partial fine-tuning.
+- Develop calibrated uncertainty estimates so that predictions can be trusted or deferred appropriately.
+- Verify physical consistency and engineering constraints - including passivity, causality, and reciprocity where applicable - and report engineering-relevant
+metrics including worst-case behavior.
+- Analyze the simulation corpus and model behavior: parameter sensitivity, response dimensionality, data quality and solver noise, and where prediction error
+concentrates across frequency and design space.
+- Prototype model training and inference integration in C++ and LibTorch within an engineering ML runtime environment.
+Qualifications
+Required Qualifications
+- Currently pursuing or recently completed a PhD in Machine Learning, Computer Science, Applied Mathematics, Electrical or Electronic Engineering, or a related
+technical field.
+- Hands-on experience across multiple neural architectures - transformers, neural operators, graph networks, CNNs - and sound judgment about which suits a given
+problem.
+- Strong Python and PyTorch, with experience training and debugging neural networks well beyond tutorial scale.
+- Strong C++ and hands-on LibTorch experience to implement and integrate models into a production runtime.
+- Solid grasp of transfer learning, fine-tuning, and parameter-efficient methods such as LoRA.
+- Strong applied statistics and exploratory data analysis, including sensitivity analysis and dimensionality reduction, and the judgment to diagnose a model
+from its errors rather than its aggregate score.
+- Experimental discipline: rigorous baselines, careful ablations, experiment tracking, reproducible results.
+- Willingness to learn the underlying physics rather than treat it as arbitrary numerical data. Mentorship will be provided.
+Preferred Qualifications
+- Background in RF, microwave, high-speed digital, or test and measurement engineering; familiarity with S-parameters, filters, or interconnect.
+- Experience with EM simulation tools and their scripting interfaces, such as Keysight ADS, RFPro, Momentum, or comparable tools, or engineering measurement and
+test automation environments.
+- Experience with surrogate modeling, operator learning, physics-informed machine learning, or scientific machine learning generally.
+- Experience with uncertainty quantification, conformal prediction, or Gaussian process regression.
+- CUDA, cuDNN, or TensorRT experience, or prior experience shipping a research model in C++.
+Prerequisites
+- Version control, modular code structure, and reproducible experiment pipelines.
+- CMake and Git workflows for sizeable C++ projects, and comfort profiling and debugging C++ code.
+- Ability to design an evaluation that answers a question rather than one that produces a favorable number.
+- Clear technical communication to both machine learning researchers and engineering stakeholders.
+What This Internship Offers
+- Apply modern machine learning to physical engineering data in an industrial setting.
+- Learn parameter-efficient adaptation and transfer learning under severe data scarcity.
+- Develop working fluency in RF and high-speed concepts, measurement data, and simulation workflows.
+- Take a research model the full distance, from Python prototype to robust C++.
+- The opportunity to shape how machine learning acce

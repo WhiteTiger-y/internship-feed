@@ -1,0 +1,36 @@
+Position Purpose
+The Artificial Intelligence (AI) Engineering Co-Op/Intern assists in the design, development, testing, and deployment of AI and machine learning solutions for
+engineering, manufacturing, and business applications. This role collaborates with technical and business teams to analyze data, support AI initiatives,
+evaluate emerging technologies, and contribute to the delivery of innovative, data-driven business solutions while gaining hands-on industry experience.
+Essential Functions
+- Assist in the development, testing, and deployment of AI and machine learning models and applications.
+- Assist with prototyping, evaluating, and deploying intelligent applications that improve engineering, manufacturing, and business processes.
+- Collect, clean, organize, and analyze data to support AI initiatives.
+- Collaborate with engineers, software developers, manufacturing teams, and business teams to identify and implement AI-driven solutions.
+- Support the integration of AI technologies into existing systems, applications, and business processes.
+- Conduct research on emerging AI, machine learning, and automation technologies.
+- Evaluate model performance and assist with troubleshooting, optimization, and continuous improvement efforts.
+- Develop and maintain technical documentation, reports, and user guides.
+- Participate in software development activities, including coding, debugging, testing, and code reviews.
+- Assist with data visualization, reporting, and presentation of findings to stakeholders.
+- Adhere to company policies, cybersecurity standards, data privacy requirements, and ethical AI practices.
+- Perform other duties as assigned.
+Education and Training
+- Must be a current enrolled student or recent graduate in a computer science, data science, engineering, or a related technical program.
+- Must have a minimum grade point average (GPA) of 3.0 on a 4.0 scale.
+Minimum Qualifications
+- Exposure to machine learning, AI, software development, and/or data analytics concepts.
+- Experience with programming languages.
+- Understanding of software development principles, data structures, and algorithms.
+- Strong analytical, problem-solving, and critical thinking skills.
+- Effective written and verbal communication skills.
+- Ability to work independently and collaboratively in a team environment.
+- Strong organizational skills with attention to detail.
+- Eagerness to learn new technologies and adapt to evolving priorities.
+We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national
+origin, disability, protected veteran status, or other characteristics protected by law.
+, We offer a full complement of benefits that include medical, dental, and vision insurance; life, travel, and disability insurance; a flexible spending
+account; 401K plans; a pension plan; paid holidays and vacation. We also offer financial assistance programs if you decide to adopt a child or want to pursue
+further education. We have a comprehensive wellness program and an Employee Assistance Program, that supports individuals in the proactive management of their
+overall health and wellness., In accordance with applicable pay transparency laws, the hourly payrate for this position is $21.00-25.00 per hour. This payrate
+is provided to ensure transparency and compliance with local, state, and federal regulations.

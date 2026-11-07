@@ -1,0 +1,50 @@
+The Advanced Concepts & Technologies Group is looking for candidates who are excited to work on challenging problems in national security and join our team. The
+group develops technology to protect our deployed sailors, soldiers, and assets against advanced threats, while enabling operations in complex maritime
+environments. The group’s research and development activities include concepts design, advanced algorithms development, software and hardware prototyping,
+experimental field-testing, and data analysis. Of particular interest to the group is the development of advanced electronic warfare systems prototypes,
+advanced sensors prototypes, novel signal processing algorithms, optimization for resource allocation, and artificial intelligence to enable the development of
+next generation systems for fleet and surface assets defense.
+Due to the wide-ranging nature of research, this dynamic group is comprised of a team of scientists and engineers with expertise in physics, mathematics,
+computer science, and various engineering backgrounds. The group fosters mentoring at all levels, and promotes critical and innovative thinking. The candidate
+will be part of a highly collaborative team that thrives in solving complex challenges, fosters innovation, supports career growth, and is dedicated to making a
+positive impact in our nation.
+Job Overview
+The group seeks undergraduate or graduate level summer interns to contribute to a number of challenging projects related to our mission. Interns will be
+partnered with Laboratory staff as they work on projects related to the group’s technical areas. Projects may be worked on individually or in teams depending on
+the skills of the candidates.
+Project Examples:
+- Develop infrared and visible imaging systems with object detection image processing
+- Design and build RF systems including antenna, receiver and data acquisition
+- Apply AI/ML for implementation into ‘serious gaming’
+- Develop models for various sensor systems
+The successful candidates will be pursuing a BS in Engineering, Software, Mathematics, Applied Mathematics, Computer Science, Physics or a similar STEM degrees.
+Competencies desired in any combination of the following areas: C++, C, MATLAB, Python, physics, applied math, engineering, computer science, radar, infrared,
+IR, RF, artificial intelligence, machine learning, control and dynamical systems theory, embedded systems, real-time software, data structures, algorithms,
+signal processing, signal analysis, formal methods, neural nets, and sensor fusion.
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Compensation
+Hourly pay rates below are effective January 2027 – December 2027. Rates are based on the highest academic year or degree completed before the internship start
+date.
+- Freshman year completed: $25.50/hour
+- Sophomore year completed: $27.50/hour
+- Junior year completed: $29.50/hour
+- 4th year of 5 year program completed, no degree conferred: $32.50/hour
+- Bachelors completed: $34.50/hour
+- Bachelors + 1, one year of graduate study completed: $36.50/hour
+- Bachelors + 2, two years of graduate study completed: $38.00/hour
+- MS completed: $39.00/hour
+- MS + 1, one year of graduate study completed after the MS: $41.00/hour
+- MS + 2, two years of graduate study completed after the MS: $42.50/hour
+- MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43605

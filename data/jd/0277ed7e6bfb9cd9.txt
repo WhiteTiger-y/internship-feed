@@ -1,0 +1,66 @@
+Program Benefits
+- Competitive salaries
+- Housing assistance
+- Travel reimbursement
+Intern Activities
+- Social and networking events
+- Volunteer opportunities
+- Community Involvement
+Key Responsibilities
+- Develop an image analysis algorithm to quantify laser-induced damage on crystalline optic surfaces.
+- Validate the algorithm's reliability and repeatability across image sets.
+- Apply the algorithm to historical laser damage images to generate quantitative data.
+- Correlate extracted damage features with laser damage lifetime and laser fluence.
+- Summarize methodology and results in a report or poster presentation.
+Requirements
+- Currently pursuing a degree in Physics, Materials Science, Computer Science, or an Engineering discipline.
+- Exposure to coding languages and familiarity with basic computation and data analysis.
+- Must be available for 10 weeks during Summer 2027 (May-August 2027) with a graduation date of December 2027 or later
+- Be interested in working for Corning, Inc after graduation, if presented with a full-time job opportunity.
+- Be willing to work at the posted job location
+Desired Skills
+- Basic experience in any of the following: Java, Matlab, C, C+, C#, Python, or other high level programming languages.
+- Data analysis using Excel, JMP, Origin, or similar tools.
+- Introductory knowledge of optics and materials science of semiconductor materials.
+- Laboratory or Research experience.
+Success Measures / End-of-Term Outcomes
+- A reliable algorithm that quantifies laser damage on optic surfaces.
+- Quantitative data generated from the historical image set.
+- Documented correlations between damage features and lifetime and fluence.
+Skills / Competencies
+- Translates raw optical images into quantitative, repeatable measurements.
+- Documents methods and results so others can reproduce the analysis.
+- Interprets data trends and explains findings clearly to technical teammates.
+- Works with engineers and scientists to refine the approach based on feedback.
+This position does not support immigration sponsorship.
+The range for this position is $1,635.00 - $3,185.00 biweekly. Starting pay for the successful applicant is prescribed based on geographic location, nature of
+position, and year in school.
+A job that shapes a life.
+We prohibit discrimination on the basis of race, color, gender, age, religion, national origin, sexual orientation, gender identity or expression, disability,
+veteran status or any other legally protected status.
+Corning is committed to providing equal employment opportunities and considers requests for reasonable accommodations in accordance with applicable laws.
+Individuals with disabilities or sincerely held religious beliefs may request reasonable accommodations to participate in the application or interview process,
+perform essential job functions, or access other benefits and privileges of employment. To submit a request for reasonable accommodation related to disability
+or religion, please contact us at accommodations@corning.com .
+Nearest Major Market: Corning
+Apply now »
+Apply now
+Start apply with LinkedIn
+Apply Now
+Start
+Please wait...
+Find similar jobs:
+Staże,
+Stajlar,
+Stages_nl_NL,
+Stages,
+Ameryka Północna
+- OUR COMPANY
+- ABOUT US
+- CAREERS
+- CONTACT US
+- PRIVACY POLICY
+- LEGAL NOTICES
+- COOKIES
+- CA SUPPLY CHAINS ACT DISCLOSURE
+© 1994-2026 Corning Incorporated All Rights Reserved.

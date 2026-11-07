@@ -1,0 +1,52 @@
+About Mistral
+Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest
+problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can
+run on their terms.
+We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and
+is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-
+spirited.
+About Mistral
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate
+seamlessly into daily working life.
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to
+meet enterprise needs, whether on-premises or in cloud environments. Our offerings include le Chat, the AI assistant for life and work.
+We are a dynamic, collaborative team passionate about AI and its potential to transform society.
+Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between France, USA, UK, Germany and
+Singapore. We are creative, low-ego and team-spirited.
+Join us to be part of a pioneering company shaping the future of AI. Together, we can make a meaningful impact. See more about our culture on
+https://mistral.ai/careers.
+Mistral AI are hiring experts in the role of pre-training and fine-tuning large language models.
+Role Summary
+- You will be working with the fine tuning team on making state-of-the-art generative models.
+- You will run autonomous work streams under the supervision of experienced scientists.
+- The role is based in our Palo Alto or Montreal office.
+- Internship duration : 6 months. We will only consider candidates looking for end of studies internships (Master or Phd)
+What You Will Do
+- Explore state-of-the-art LLM algorithms for fine tuning LLMs, with the supervision of top level scientists.
+- Assist in the design and implementation of machine learning models and algorithms.
+- Conduct research on the latest advancements in natural language processing and LLMs.
+- Contribute to the development and optimization of our LLM systems.
+- Collaborate with cross-functional teams to integrate LLM technologies into various applications.
+- Perform data analysis and visualization to support research and development efforts.
+- Document research findings and contribute to technical reports and publications.
+- Participate in team meetings and brainstorming sessions to share ideas and insights
+About You
+- Currently doing a Master or PhD at a tier 1 engineering schools / Universities.
+- High scientific understanding of the field of generative AI.
+- Broad knowledge of the field of AI, and specific knowledge or interest in fine-tuning and using language models for applications.
+- Strong programming skills in Python, with experience in libraries such as TensorFlow, PyTorch, or similar.
+- Familiarity with natural language processing techniques and machine learning algorithms.
+- Design complex software and make them usable in production.
+- Navigate the full MLOps technical stack, with a focus on architecture development and model evaluation and usage.
+- Previous experience with LLMs or related technologies.
+- Knowledge of deep learning frameworks and techniques..Experience with version control systems (e.g., Git) and linux shell environment.
+Now, it would be ideal if you :
+- Have experience in fine tuning LLMs.
+- Have used complex HPC infrastructure with full autonomy.
+What we offer
+We offer a comprehensive benefits package designed to support your well-being, growth, and work-life balance. Benefits vary by country and may include
+healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific
+perks.
+For the most up-to-date details on benefits available in your location, please refer to our Benefits page.
+Privacy Policy
+Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy.

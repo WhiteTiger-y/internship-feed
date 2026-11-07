@@ -1,0 +1,68 @@
+Launch Your AI Career: AI Automation Intern
+Step into the future of enterprise automation and build impactful artificial intelligence solutions that transform financial operations at scale. In this six-
+month internship, you will develop cutting-edge AI applications, work directly with modern data architectures, and automate critical revenue accounting
+workflows. You will gain hands-on experience solving complex problems while collaborating closely with experienced mentors.
+About Us
+Trimble is a global technology company that connects the physical and digital worlds, transforming the ways work gets done. With relentless innovation in
+precise positioning, modeling and data analytics, Trimble enables essential industries including construction, geospatial and transportation. Whether it's
+helping customers build and maintain infrastructure, design and construct buildings, optimize global supply chains or map the world, Trimble is at the
+forefront, driving productivity and progress. For more information about Trimble (Nasdaq:TRMB), visit: www.trimble.com.
+What Makes This Role Great
+In this role, you will be at the forefront of designing and deploying revenue-intensive AI applications, directly influencing how data flows from upstream
+systems to downstream financial reports. You will take ownership of building standalone AI components—including Cortex Analyst pipelines and intelligent
+chatbots—while working with modern enterprise technologies.
+Key Exciting Responsibilities
+- Architect and deploy AI/ML models, scripts, and automated workflows to optimize revenue accounting, reconciliations, and reporting operations.
+- Build and evaluate interactive AI chat assistants and large language model workflows to enhance team enablement and drive workflow automation.
+- Partner with technical leads to support and develop integrations across revenue management engines, Salesforce, and modern database platforms.
+- Design data intelligence dashboards to monitor real-time revenue system health and operational metrics.
+- Take ownership of standalone technical initiatives from concept through deployment while managing deliverables with minimal day-to-day supervision.
+Essential Skills & Experience
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, Decision Sciences, or a related discipline.
+- Strong foundational programming proficiency in Python and robust database skills in SQL.
+- Practical understanding of Git workflows, version control fundamentals, and command-line interfaces.
+- Foundational familiarity with Large Language Models (LLMs) and general artificial intelligence concepts.
+- Proactive self-starter with strong analytical problem-solving abilities, high attention to detail, and excellent communication skills across global time
+zones.
+Bonus Points For
+- Experience or strong willingness to learn Snowflake, Cortex Analyst, and modern cloud data pipelines.
+- Familiarity with AI and LLM engineering techniques such as prompt engineering, RAG architectures, and agentic workflows.
+- Exposure to PowerShell, deployment scripting, or multi-agent pipelines.
+- Interest or prior coursework in finance, accounting concepts, or enterprise ERP systems.
+Logistics
+- Location: Dayton, OH or Westminster, CO - On-site (minimum 4 days per week in office)
+- Travel Requirement: 0%
+Why You'll Love Working With Us At Trimble
+We're not just a company that "does good"—we are a team dedicated to making a tangible, positive Real-World Impact.We build innovative solutions designed to
+solve the world's most critical challenges. From construction sites to transportation hubs, our work tangibly improves how people live, build, move, and grow.
+- You'll work on projects that truly matter: Our purpose-driven culture means you'll be helping to build and deliver solutions that make work faster, safer, and
+more sustainable for millions of people worldwide. Our impact is tangible, from connected machines that save fuel to data-driven insights that reduce waste.
+- Collaborate with like-minded people: Our strong internal culture is a "hidden gem." You will work with a collaborative, supportive team that shares your
+purpose and fosters a genuine sense of belonging. We're a company of "visionary pragmatists" who think boldly and build things that work.
+- Be an owner: Trimble thrives on individuals who take initiative and embrace ownership. You'll find an entrepreneurial spirit where success is often "self-
+authored," empowering proactive "doers."
+AI Intern, Machine Learning Intern, Python Developer, SQL, LLM, Snowflake, AI Automation, Revenue Systems, Data Science Intern, Artificial Intelligence
+Compensation: Trimble provides the following compensation range and general description of other compensation and benefits that it in good faith believes it
+might pay and/or offer for this position. This compensation range is based on a full time schedule. Trimble reserves the right to ultimately pay more or less
+than the posted range and offer additional benefits and other compensation, depending on circumstances not related to an applicant’s sex or other status
+protected by local, state, or federal law.
+Hiring Range
+$25.43–$38.17
+Pay Rate Type
+Hourly
+Bonus Eligible?
+No
+Commission Eligible?
+No
+Benefits: Trimble offers comprehensive core benefits that include Medical, Dental, Vision, Life, Disability, Time off plans and retirement plans. Most of our
+businesses also offer tax savings plans for health, dependent care and commuter expenses as well as Paid Parental Leave and Employee Stock Purchase Plan. If
+this position is identified above as commission- or bonus-eligible, the terms of the commission plan or discretionary bonus plan for which you are eligible will
+be provided following the employee start date.
+How to Apply: Please submit an online application for this position by clicking on one of the Apply buttons located in this posting.
+At Trimble, we are committed to fostering a diverse, inclusive, and equitable workplace where everyone can thrive. Guided by our core values—Belong, Innovate,
+and Grow—we embrace and celebrate differences, knowing they make us stronger and more innovative. We are proud to be an equal opportunity employer, welcoming
+individuals of all backgrounds and advancing opportunities while embracing race, color, gender identity, sexual orientation, religion, disability, veteran
+status, or any other protected and diverse characteristic. We are committed to offering our candidates and employees with disabilities or sincerely held
+religious beliefs the ability to seek reasonable accommodations in accordance with applicable law and/or where it would not constitute undue hardship for
+Trimble. For more, please see Trimble's Code of Business Conduct and Ethics at https://investor.trimble.com, under Governance->Governance Documents.
+Our mission to transform the way the world works starts with transforming how we work together. By actively listening, askin

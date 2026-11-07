@@ -1,0 +1,55 @@
+About Our Internship Program
+Zoox's internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry's brightest minds, and the opportunity
+to make meaningful contributions to real projects. We seek interns who demonstrate strong academic performance, engagement beyond the classroom, intellectual
+curiosity, and a genuine interest in Zoox's mission.
+Job Description
+Data Science turns Zoox's driving, fleet and business data into decisions and automation. As a Data Scientist Intern, you may be assigned to one of the
+following teams:
+- Autonomy Software V&V: You will work on fleet metrics, behavior analysis, and performance evaluation of our autonomous vehicles. Analyze real-world driving
+data to identify patterns, measure autonomy performance, and inform stack improvements. Contribute to metrics platforms that track miles-per-disengagement,
+driving behavior clusters (PUDO, lane changes, pullovers), and safety-critical events across our L3 development and production service fleets.
+- Core/Domain Data Science: You will provide data solutions to deliver domain-specific analytical insights. In this role, you will have the opportunity to
+perform data analysis to develop and validate the simulation framework evaluating Zoox’s autonomous driving software. You collaborate with key stakeholders in
+the Simulation team to gain insight into the safety and comfort performance of our robotaxi. This internship will provide you with hands-on experience in
+building performance metrics and conducting in-depth data analyses, contributing to data-driven decision-making within the cutting-edge field of autonomous
+vehicles.
+In this Role, You Will...
+- Use coding and analytical skills to derive insights that inform decisions and automation
+- Test new frameworks and algorithms to improve model performance
+- Work on a project such as drift monitoring, automated model retraining, predictive modeling, similarity search or statistical testing
+Internship Requirements
+- Currently working towards a B.S., M.S., Ph.D., or advanced degree in data science, statistics, computer science, or a related engineering program
+- Good academic standing
+- Expected to graduate between Fall 2027 and Summer 2028, and enrolled at an accredited college or university throughout the internship
+- Able to commit to a full-time, 12-week internship beginning in May/June 2027
+- Ability to relocate to the Bay Area, California, for the duration of the internship
+- Interns at Zoox may not use any proprietary information they are working on as part of their thesis, any published work with their university, or to be
+distributed to anyone outside of Zoox
+Qualifications
+- Proficiency in Python and SQL
+- Coursework in machine learning, computer vision, or NLP
+- Familiarity with software-engineering practices such as Git, unit testing, debugging, and code reviews
+- Understanding of supervised learning, model evaluation, and common sources of dataset bias and label noise.
+- Experience with data analysis and visualization
+- Ability to communicate data clearly to different audiences
+Bonus Qualifications
+- Experience with Databricks, Spark or cloud data tools
+- Experience with dashboarding or experiment design
+- Experience working with LLMs
+Compensation
+The monthly salary range for this position is $6,500 to $9,500. Compensation will vary based on geographic location and level of education. Additional benefits
+may include medical insurance and a relocation stipend.
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the
+intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking
+for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+Follow us on LinkedIn
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to [email protected] or your assigned recruiter.
+A Final Note
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to
+be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
+and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
+team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
+processed, please contact us.

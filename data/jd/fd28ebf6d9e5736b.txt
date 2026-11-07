@@ -1,0 +1,46 @@
+Schedule: Full-time, paid internship
+Location: Onsite, Tulsa, OK
+Are you an engineering or computer science student interested in combining machine learning with embedded systems? Join Enovation Controls as an Embedded
+Machine Learning Engineering Intern and explore how intelligent software can be integrated into electronic controls and display technologies.
+In this role, you'll work alongside experienced engineers to explore, develop, and evaluate machine learning solutions for resource-constrained embedded
+platforms. You'll have the opportunity to apply your programming and analytical skills to real-world engineering challenges while gaining hands-on exposure to
+embedded software development, machine learning models, and system integration.
+We're looking for a self-motivated, independent thinker with an entrepreneurial mindset who enjoys exploring new ideas, taking initiative, and figuring things
+out when the path forward isn't always clearly defined. This internship is ideal for someone who is comfortable working through ambiguity, experimenting with
+new approaches, and taking ownership of challenges from initial concept through testing and evaluation. If you're curious, resourceful, and excited to turn
+innovative ideas into practical solutions, we'd love to hear from you.
+What You'll Work On
+- Assist with developing and evaluating machine learning models for potential use in embedded systems.
+- Explore techniques for deploying and running ML models on resource-constrained hardware.
+- Support the integration of machine learning capabilities into embedded software applications.
+- Collect, prepare, and analyze datasets for model development, testing, and evaluation.
+- Evaluate model performance, accuracy, efficiency, and suitability for embedded applications.
+- Investigate methods for optimizing models to reduce computational requirements, memory usage, and processing time.
+- Develop scripts, prototypes, and tools to support model training, testing, and deployment.
+- Document development processes, test results, and findings to support ongoing engineering efforts.
+- Collaborate with software, hardware, and engineering teams to explore innovative technology applications.
+Requirements
+What You'll Bring
+- Current enrollment in a bachelor's or master's degree program in Computer Science, Computer Engineering, Electrical Engineering, Artificial Intelligence, Data
+Science, Robotics, or a related field.
+- Programming knowledge in Python, C++, or C.
+- Foundational understanding of machine learning concepts, algorithms, or model development through coursework, projects, or independent learning.
+- Strong analytical, problem-solving, and critical-thinking skills.
+- Ability to learn new technologies, troubleshoot technical challenges, and work collaboratively with others.
+- Strong attention to detail and the ability to communicate technical findings clearly.
+Skills That Will Set You Apart
+- Exposure to machine learning frameworks such as PyTorch, TensorFlow, and TensorFlowLite/LiteRT.
+- Interest in embedded systems, microcontrollers, firmware, or hardware-software integration.
+- Familiarity with Linux-based development environments.
+- Knowledge of model optimization, quantization, or edge AI deployment.
+- Experience with personal, academic, or open-source projects involving machine learning, embedded software, or data analysis.
+- Curiosity about emerging AI technologies and their practical applications in electronic controls and connected devices.
+Why Enovation Controls
+We tackle complex work with high expectations and a learning mindset. Our culture is fun and rewarding, and we consistently rank among the best places to work
+in manufacturing. We back that culture with solid benefits: a strong 401(k) match, cost-effective healthcare options that meaningfully reduce out-of-pocket
+costs, wellness support, and profit-sharing that rewards collective success.
+We are an equal opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need.
+Salary Description
+$20 - $24/hour
+Apply
+View All Jobs

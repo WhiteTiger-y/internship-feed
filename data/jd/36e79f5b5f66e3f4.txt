@@ -1,0 +1,47 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!
+At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative
+solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both
+meaningful and fun.
+Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.
+Read our blog to learn more.
+🧠 You Will...
+- Apply AI methods to massive real-world datasets
+- Prototype new models, evaluate with small scale experiments, and/or productionize solutions at scale
+- Work with a cross-functional team of world class researchers, engineers, and others to build new product features and/or publish state-of-the-art findings
+- Solve our most ambitious problems with the right tool for the task
+- Collaborate cross-functionally to bring your ideas to life in the product
+- Identify problems, prototype solutions, evaluate their return on investment, and then implement the best solution at scale to improve the lives of our
+millions of learners each day
+✅ You Have...
+- Pursuing a PhD in artificial intelligence, machine learning, natural language processing, or related field
+- Graduation expected by August 2028
+- Contributions to research communities and efforts, including publishing papers at conferences such as ACL, CVPR, EDM, ICML, NeurIPS, etc.
+- A portfolio of impactful work, in the form of (for example) publications, open-source projects, or AI internships
+- Experience implementing AI systems in Python, Java, Scala, or C/C++ (i.e., not just R or MATLAB)
+- A creative, interdisciplinary, and entrepreneurial approach to R&D
+- Strong debugging and critical thinking skills
+- 12 week consecutive availability
+- May 24, 2027 - August 13, 2027
+- June 14, 2027 - September 3, 2027
+- Ability to relocate to Pittsburgh, PA or New York, NY
+⭐ What You Can Expect...
+- Language learning opportunities
+- Catered in-house lunches, and breakfast and dinner options
+- Company-wide Hackathon
+- PTO and company holidays
+- Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+Connect with your recruiter on the benefits for interns at Duolingo!
+Hourly Range For This Internship Is
+$67—$69 USD
+Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here.
+Job Alerts: Sign up for job alerts here.
+Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses
+your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
+Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color,
+national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as
+a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social
+Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process.
+Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any
+information.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

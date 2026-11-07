@@ -1,0 +1,71 @@
+About Rivian
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous
+souls we seek to attract.
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate
+comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future
+generations.
+Role Summary
+Internship Term: Spring 2027
+Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program
+during the internship term with an expected graduation date between December 2027 through May 2029. Rivian's Internship Program requires active student
+enrollment. Information regarding your expected degree completion date is collected solely to verify eligibility and determine your availability for future
+full-time opportunities. Rivian is an equal opportunity employer and does not use graduation dates to determine the age of applicants or as a basis for
+discriminatory hiring decisions.
+If you are not pursuing a degree, please see our full time positions on our Rivian careers site.
+Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.
+No Visa Sponsorship
+In this role, you will assist in developing computational methods for flow and thermal simulations. The project(s) will primarily focus on one or more of the
+following: scientific computing, computational fluid
+dynamics (CFD) of multiphase flows, finite-element analysis (FEA) of thermal components, 0D/1D simulation of thermo-fluid systems, reduced-order modeling (ROM),
+numerical heat transfer and thermodynamics, computational geometry, meta modeling, data analysis, calibration, machine learning (ML), process automation, and
+optimization.
+Responsibilities
+- Perform multiphase CFD simulations for motor cooling using in-house/commercial tools.
+- Develop in-house multiphase CFD solvers.
+- Conduct conjugate heat transfer FE analysis of motor using in-house/commercial tools.
+- Develop in-house FE solvers for thermal simulations.
+- Develop reduced-order models for physics-based simulations of flow and thermal systems.
+- Apply computational geometry techniques to develop, modify, and analyze engineering designs.
+- Develop scripts to streamline product development and automate workflows.
+- Use data analysis, meta-modeling, and machine learning to enhance simulation efficiency.
+- Perform design optimization through simulation-driven analysis.
+Qualifications
+- Must be currently pursuing a masters or PhD degree at the University of Illinois Urbana Champaign.
+- Actively pursuing a degree or one closely related in Engineering
+- Strong background in mathematical analysis, scientific computing, and algorithm development.
+- Proficiency in programming: C/C++, Fortran, MATLAB, Python, etc.
+- Experience in high-performance computing (HPC) and cloud computing.
+- Proficiency in multiphase computational fluid dynamics (CFD).
+- Expertise in finite-element (FE) thermal analysis.
+- Experience in statistical methods: data analysis, machine learning (ML), and artificial intelligence (AI).
+- Must be enrolled at the University of Illinois Urbana Champaign.
+- Must be able to work out of our office at Research Park.
+- Must be available for 20 hours per week in the Fall and Spring and 40 hours in the summer.
+- This project will require a weekly task status update and a monthly project update
+Pay Disclosure
+The salary range for this role is $25.00-40.00/hr for Illinois based applicants. This is the lowest to highest salary we in good faith believe we would pay for
+this role at the time of this posting. An employee’s position within the salary range will be based on several factors including, but not limited to, specific
+competencies, relevant education, qualifications, certifications, experience, skills, geographic location, shift, and organizational needs.
+We offer a comprehensive package of benefits including but not limited to paid vacation, paid sick leave, and medical insurance benefits. Internship positions
+are not eligible for retirement benefits. More information about benefits is available at rivianbenefits.com.
+You can apply for this role through careers.rivian.com (or through internal-careers-rivian.icims.com if you are a current employee).
+Equal Opportunity
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will
+receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression,
+gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical
+condition, or any other characteristic protected by law.
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those
+covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at
+candidateaccommodations@rivian.com.
+Candidate Data Privacy and Technology
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for
+employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational,
+professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your
+Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and
+recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment
+relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v)
+recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including
+individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s
+service providers, including providers of background checks, staffing services, and cloud services.
+Rivian may transfer 

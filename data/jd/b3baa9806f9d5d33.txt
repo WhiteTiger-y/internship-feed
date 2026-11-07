@@ -1,0 +1,52 @@
+Job Overview
+We are seeking an enthusiastic and motivated Artificial Intelligence / Machine Learning Engineer 2 – Intern to support the State of Texas
+This opportunity is part of State of Texas AI Apprenticeship Program, designed to develop emerging AI talent and support the organization's AI Strategic Plan.
+The selected candidate will work under the guidance of experienced professionals, contributing to AI/ML model development, data pipelines, prototype
+applications, and enterprise application support. The role also involves supporting the OnBase team in developing, configuring, and maintaining enterprise
+content management solutions.
+Key Responsibilities
+AI / Machine Learning Responsibilities
+- Assist in evaluating emerging AI trends, tools, and vendor solutions against business requirements.
+- Contribute to developing AI/ML models and prototype applications for prioritized business use cases.
+- Help design and document data and AI pipelines that integrate with existing enterprise systems.
+- Prepare reports, analyses, and presentations to communicate technical findings and project outcomes.
+- Collaborate with data, engineering, software development, and governance teams.
+- Explore low-risk AI use cases to improve business processes and operational efficiency.
+OnBase Application Development & Support
+- Assist in developing, configuring, and deploying OnBase solutions, including workflows, forms, Unity scripts, and document management functionalities.
+- Collaborate with senior developers and business analysts to understand business requirements and translate them into technical solutions.
+- Participate in supervised testing, debugging, release validation, and application documentation.
+- Provide end-user support and training as required.
+- Assist with system performance monitoring, ticket intake, troubleshooting, and resolution of routine OnBase issues.
+- Maintain technical documentation, knowledge articles, support procedures, runbooks, and maintenance checklists.
+Required Skills & Qualifications
+Experience & Education
+- Typically 1–3 years of academic, internship, or entry-level experience in AI, Machine Learning, Data Science, Software Engineering, or a related field.
+- Coursework toward or completion of a degree in Computer Science, Data Science, Engineering, Mathematics, or a related discipline.
+- Demonstrated interest in Artificial Intelligence, Machine Learning, and applied analytics.
+Technical Skills
+- Proficiency in Python programming.
+- Familiarity with Object-Oriented Programming (OOP) concepts.
+- Experience with version control systems.
+- Exposure to data analysis, data migration, and basic model development.
+- Understanding of fundamental software development and testing concepts.
+Preferred Skills
+Candidates with exposure or academic experience in the following areas will be preferred:
+AI / ML & Cloud Technologies
+- Data pipeline tools such as Apache Airflow, Prefect, or cloud-native equivalents.
+- Model deployment concepts, including REST APIs and serverless architecture.
+- Cloud platforms and AI services: AWS, Microsoft Azure, Google Cloud Platform (GCP), or Oracle Cloud Infrastructure (OCI).
+- Containerization concepts, particularly Docker.
+- CI/CD fundamentals.
+- Monitoring and model versioning concepts.
+OnBase & Enterprise Application Support
+- Familiarity with OnBase by Hyland, including relevant certifications or completed Hyland training modules.
+- Exposure to Document Management Systems (DMS) or Enterprise Content Management (ECM) platforms.
+- Experience with Microsoft SQL Server or other relational databases.
+- Understanding of Software Development Life Cycle (SDLC) and Agile methodologies.
+Key Attributes for Success
+- Strong analytical and problem-solving abilities.
+- Excellent communication skills, with the ability to explain technical concepts to non-technical stakeholders.
+- Willingness to learn and adapt to evolving technologies.
+- Strong attention to detail and commitment to data quality.
+- Collaborative mindset and openness to mentorship and feedback.

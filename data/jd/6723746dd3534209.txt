@@ -1,0 +1,78 @@
+Back to jobs
+Co-op, AI for Protein Design
+San Francisco, CA USA
+Your Impact at LILA
+This PhD-level co-op will join the Life Science AI team to contribute to applied ML research in protein engineering, including generative protein design,
+antibody engineering, developability, and wet-lab-informed model iteration. Working alongside Lila scientists and ML researchers, the co-op will explore
+generative and predictive models for protein sequence, structure, and function, analyze biological and experimental datasets to evaluate model outputs, and
+prototype workflows that connect model predictions, candidate prioritization, and wet-lab feedback. Results will be communicated through code, notebooks,
+written summaries, and presentations.
+The ideal candidate is a currently enrolled PhD student in CS, ML, computational biology, bioengineering, biophysics, or a related field, with research
+experience in ML or protein engineering, strong Python skills, and experience with frameworks like PyTorch or JAX. Familiarity with protein language models,
+diffusion or flow-based models, antibody design, or active learning workflows is a plus.
+The role advances our domain-specific protein design models while the data, methods, and evaluation tools built along the way also strengthen our general AI
+research model, directly supporting Lila’s mission of combining automated data generation with scientific superintelligence.
+What You'll Be Building
+- Research generative and predictive models for protein and antibody design
+- Analyze experimental datasets to evaluate model outputs and guide design decisions
+- Prototype workflows linking model predictions, candidate prioritization, and wet-lab feedback
+- Build datasets and benchmarks that support both domain-specific and general AI research models
+- Share results through code, notebooks, and presentations
+What You'll Need To Succeed
+- Currently enrolled PhD student in CS, ML, computational biology, bioengineering, biophysics, or a related field
+- Research experience in machine learning, computational biology, or protein engineering
+- Strong Python skills and experience with PyTorch, JAX, or similar frameworks
+- Experience working with biological sequence, structure, or assay data
+- Clear communication and comfort collaborating with cross-disciplinary teams
+Bonus Points For
+- Experience with protein language models, structure prediction, or generative design (diffusion or flow-based models)
+- Familiarity with antibody design, developability, or wet-lab validation concepts
+- Publications, preprints, or open-source work in ML for biology
+About LILA
+Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI.
+Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves.
+LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific
+method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai.
+Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this
+sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply.
+We’re All In
+Lila Sciences is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age,
+citizenship, marital status, disability, gender identity or Veteran status.
+Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy.
+A Note to Agencies
+Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing
+agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume
+submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral
+or other fees with respect thereto.
+Apply for this job
+indicates a required field
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*
+Phone*
+Location (City)*
+Resume/CV
+Attach
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Attach
+Enter manually
+Accepted file types: pdf, doc, docx, txt, rtf
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+If you'll require the company to commence ("sponsor") an immigration or work permit case in order to employ you, either now or at some point in the future, then
+you should select Yes. Otherwise, select No.
+Do you currently reside within the continental United States?*
+Select...
+Are you able to work in the specified job location, or are you willing to relocate for this position?*
+Select...
+Why Lila, why this role, and why at this moment in your life?*
+Privacy Notice*
+Select...
+By submitting this application, you acknowledge that Lila Sciences will process your personal data for recruitment purposes. We’ll retain your information for
+at least 12 months after the conclusion of the hiring process. For details on your rights and how we handle your data, see our Candidate Privacy Policy at
+lila.ai/candidate-privacy-policy-notice.

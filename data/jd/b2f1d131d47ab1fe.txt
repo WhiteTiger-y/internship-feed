@@ -1,0 +1,32 @@
+We are looking for rising sophomores, juniors, and seniors studying Computer Science, Biomedical Engineering, Chemical Engineering or a related field for a
+12-week internship role at our site in Gaithersburg, MD from May 24, 2027 to August 13, 2027.
+Position Description
+- Analyze clinical manufacturing process data and develop Python-based prototypes for predictive analytics, anomaly detection, and decision support to improve
+operational efficiency and process understanding.
+- Support digital manufacturing projects, including electronic batch records, digital supply chain, digital technology transfer, and digital twins, by mapping
+processes, equipment, data sources, and interfaces to define data requirements and integration needs.
+- Assess robotics and intelligent automation opportunities, such as automated material handling, robotic sampling, machine vision, and laboratory automation, by
+developing use cases and conducting technology assessments and feasibility studies.
+- Collaborate with manufacturing, engineering, automation, data science, and digital technology teams to identify high-value digital opportunities and develop
+business cases, requirements, and implementation roadmaps.
+Position Requirements
+- Rising sophomores, juniors, and seniors studying Computer Science, Biomedical Engineering, Chemical Engineering or a related field.
+- Introductory exposure to machine learning, generative AI, or large language models through classes or small projects is preferred.
+- Basic Python programming skills and experience analyzing or visualizing data through coursework, academic research, or personal projects are beneficial.
+- Familiarity with tools such as Pandas, NumPy, scikit-learn, SQL, or Power BI is a plus.
+- Coursework or project experience involving digital twins, process simulation, robotics, computer vision, or industrial automation is a plus.
+- An interest in biopharmaceutical manufacturing and a willingness to learn how digital technologies support manufacturing operations are beneficial.
+- Experience collaborating on student projects, researching technical topics, and clearly presenting findings is beneficial.
+- Candidates must have an expected graduation date after August 2027.
+- US Work Authorization is required at time of application.
+- This role will not be granting CPT support.
+- Ability to report onsite to Gaithersburg, MD site 5 days per week. This role will not provide relocation assistance.
+- Compensation: $37 - $39 per hour.
+#EarlyTalent
+Date Posted
+05-Nov-2026
+Closing Date
+02-Dec-2026
+Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that
+mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special
+need that requires accommodation, please complete the corresponding section in the application form.

@@ -1,0 +1,74 @@
+Description
+The Amazon Web Services (AWS) Center for Quantum Computing (CQC) is a multi-disciplinary team of theoretical and experimental physicists, materials scientists,
+and hardware and software engineers on a mission to develop a fault-tolerant quantum computer.
+Throughout your internship journey, you'll have access to unparalleled resources, including state-of-the-art computing infrastructure, cutting-edge research
+papers, and mentorship from industry luminaries. This immersive experience will not only sharpen your technical skills but also cultivate your ability to think
+critically, communicate effectively, and thrive in a fast-paced, innovative environment where bold ideas are celebrated.
+Join us at the forefront of applied science, where your contributions will shape the future of Quantum Computing and propel humanity forward. Seize this
+extraordinary opportunity to learn, grow, and leave an indelible mark on the world of technology.
+Amazon has positions available for Quantum Scientist Internships in San Francisco, CA; Santa Clara, CA; Pasadena, CA; and Boston, MA.
+We are particularly interested in candidates with expertise in any of the following areas: superconducting qubits, cavity/circuit QED, quantum optics, open
+quantum systems, superconductivity, electromagnetic simulations of superconducting circuits, microwave engineering, benchmarking, quantum error correction,
+fabrication, etc.
+Key job responsibilities
+In this role, you will work alongside global experts to develop and implement novel, scalable solutions that advance the state-of-the-art in the areas of
+quantum computing. You will tackle challenging, groundbreaking research problems, work with leading edge technology, focus on highly targeted customer use-
+cases, and launch products that solve problems for Amazon customers.
+The ideal candidate should possess the ability to work collaboratively with diverse groups and cross-functional teams to solve complex problems and to
+communicate research findings clearly. A successful candidate will be a self-starter, comfortable with ambiguity, with strong attention to detail and the
+ability to thrive in a fast-paced, ever-changing environment.
+Leverage AI-powered tools where applicable to accelerate research, experimentation, and prototyping. Critically review and validate outputs from AI tools and
+automated systems.
+About The Team
+Diverse Experiences
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If
+your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+Inclusive Team Culture
+It’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences.
+Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to
+never stop embracing our uniqueness.
+Mentorship & Career Growth
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and
+other career-advancing resources here to help you develop into a better-rounded professional.
+Work/Life Balance
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of
+our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+Basic Qualifications
+- Are enrolled in a Master's degree
+- Are 18 years of age or older
+- Can relocate to where the internship is based
+- Work 40 hours/week minimum and commit to 12 week internship minimum
+Preferred Qualifications
+- Have publications at top-tier peer-reviewed conferences or journals
+- Knowledge of a scripting language (Python, R, etc.)
+- Experience implementing algorithms using quantum computing and scientific toolkits (e.g. Qiskit, Cirq, Python scientific stack including NumPy and SciPy)
+- Familiarity in one or more of the following areas:
+- superconducting qubits
+- cavity/circuit QED
+- solid-state device design or fabrication (including photonics, mechanics, or superconducting electronics devices)
+- quantum optics
+- open quantum systems,
+- superconductivity
+- electromagnetic simulations of superconducting circuits
+- microwave engineering
+- quantum error correction
+- Experience with computational modeling relevant to quantum computing hardware
+- Experience with experimental test and measurement of quantum devices
+- Experience with control hardware systems relevant to quantum computing
+- Experience with AI-assisted development tools to accelerate research, coding, or evaluation
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to
+standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional
+customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship
+with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company
+policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and
+safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified
+applicants with arrest and conviction records.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k)
+matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.
+Pasadena, CA, USA - 136,800.00 USD Annually
+Santa Clara, CA, USA - 158,220.00 USD Annually

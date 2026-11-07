@@ -1,0 +1,42 @@
+About Northwood:
+Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a
+global network of phased array and parabolic ground stations that enable real-time, reliable communication for satellite missions such as national security,
+global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power
+the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the
+place to do it.
+Role:
+We are seeking a Supply Chain Data & Analytics Intern to join our team for the summer in 2027. You will be at the cutting edge of turning complex supply chain
+challenges into high-impact, data-driven solutions. You won’t just be analyzing spreadsheets—you’ll be designing predictive models, building automated data
+pipelines, and creating tools that shape how we forecast demand, optimize inventory, and manage supplier performance across a fast-growing, high-tech operation.
+You will collaborate directly with engineers, operations leaders, and data scientists to influence strategic decisions and make an immediate, visible impact on
+the company’s growth trajectory. If you’re excited by solving problems with data, pushing technological boundaries, and seeing your insights drive tangible
+outcomes, this role is for you.
+Responsibilities:
+Develop ETL pipelines and automate data collection from multiple internal and external sources.
+Build predictive models for demand forecasting, inventory optimization, and supplier risk analysis.
+Analyze lead times, procurement trends, logistics efficiency, and other operational metrics.
+Design dashboards and reporting tools to provide real-time, actionable insights.
+Conduct scenario modeling to support decision-making on production, procurement, and distribution.
+Implement data validation processes and quality checks to ensure accuracy and reliability.
+Present complex analyses in a clear, compelling way to cross-functional teams and leadership.
+Contribute to building scalable data systems and analytics best practices within the supply chain function.
+Basic Qualifications:
+Pursuing a degree in Supply Chain Management, Industrial Engineering, Data Science, Business Analytics, or related field.
+Strong analytical and problem-solving skills with a passion for data-driven decision making.
+Proficiency in Excel; experience with SQL, Python, R, or data visualization tools (e.g., Tableau, Power BI, Looker) is a plus.
+Experience with predictive modeling, statistical analysis, or machine learning applied to operations or supply chain problems.
+Interest in supply chain operations and how data can drive efficiency and resilience.
+Strong communication skills-you can translate numbers into insights and tell a story.
+Self-starter who is curious, detail-oriented, and eager to learn in a fast-paced environment.
+Preferred Qualifications:
+Prior experience in the aerospace, satellite, telecommunications, or defense industries
+Experience with ERP Systems (NetSuite, Oracle/SAP)
+Startup or fast-paced environment experience a plus
+Additional Information:
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen,
+lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S.
+Department of State.
+Northwood Space is an Equal Opportunity Employer; employment with Northwood Space is governed on the basis of merit, competence and qualifications and will not
+be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender
+identity, marital status, mental or physical disability or any other legally protected status.
+If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know at accommodations@northwoodspace.io
