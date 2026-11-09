@@ -1,0 +1,52 @@
+Are you ready to move your career forward, and start the BEST job of your life? Haskell is committed to providing you with the resources to help you grow and
+discover your potential. We promote an environment that encourages innovative ideas and allows you to develop the best “how” to get the job done.
+Haskell’s Design & Consulting Team unites architecture, engineering, and consulting professionals from across industries and geographies. While some clients are
+looking for turnkey design-build or engineer-procure-construct projects, The Design & Consulting Team serves clients who need specialized, fee-for-service
+design or consulting projects. These types of projects allow our team to form a strong rapport with client teams, marshaling them as they grow and helping them
+address industry and market challenges. The Design & Consulting Team serves four primary markets: Government, primarily the Department of Defense, U.S. Army
+Corps of Engineers, Air and Army National Guard, and the U.S. Naval Facilities Command; Industrial, focusing on food and beverage, consumer products, and
+utilities; Civil Infrastructure; and Healthcare.
+We are seeking a motivated AI Engineering Design Intern to join our team and contribute to innovative projects at the intersection of artificial intelligence
+and engineering design . This role offers hands-on experience in applying AI-driven tools, algorithms, and workflows to solve real-world engineering challenges,
+from concept generation to optimization.
+Job Responsibilities :
+- Assist in developing and testing AI models for engineering design applications (e.g., generative design, simulation optimization, CAD automation).
+- Support data collection, preprocessing, and annotation for AI training datasets.
+- Collaborate with engineers and designers to integrate AI solutions into existing design workflows.
+- Conduct research on emerging AI techniques relevant to engineering design.
+- Document processes, results, and recommendations for future improvements.
+Education/Experience:
+- Pursuit of a degree in Architecture, Mechanical, Electrical, Civil , and/or Structural Engineering .
+Specific Knowledge, Skills, License, Certifications :
+- Basic understanding of AI/ML concepts (e.g., supervised learning, neural networks).
+- Familiarity with engineering design tools (e.g., SolidWorks, AutoCAD, Fusion 360) is a plus.
+- Proficiency in Python or MATLAB; experience with AI libraries (TensorFlow, PyTorch , scikit-learn) preferred.
+- Strong problem-solving skills and attention to detail.
+- Must have good personal habits
+- Work well with others
+- Be able to stay on task and complete work on schedule
+- Be able to work independently as well as on a team
+Preferred Skills :
+- Knowledge of generative design principles or topology optimization.
+- Understanding of cloud-based AI platforms (AWS, Azure, ChatGPT, Co-Pilot and/or Gemini ).
+What You’ll Gain :
+- Practical experience applying AI to engineering design challenges.
+- Mentorship from experienced engineers and AI specialists.
+- Exposure to cutting-edge tools and workflows shaping the future of design.
+- Opportunity to contribute to impactful, real-world projects.
+Environmental Factors and/or Physical Requirements:
+While performing the duties of this job, this position is required to have ordinary ambulatory skills sufficient to visit other locations; and the ability to
+stand, walk, stoop, kneel, crouch, and manipulate (lift, carry, move) light to medium weights of 10-50 pounds. Requires good hand-eye coordination, and arm,
+hand and finger dexterity, including the ability to grasp, and visual acuity to use a keyboard, operate equipment and read application/form information. The
+associate frequently is required to sit, reach with hands and arms, talk, and hear.
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, citizenship, disability, or protected veteran status.
+Haskell will make reasonable accommodations in compliance with the Americans with Disabilities Act of 1990 and the Americans with Disabilities Act Amendments
+Act of 2008. The job description will be reviewed periodically as duties and responsibilities change with business necessities. Essential and marginal job
+functions are subject to modification.
+Haskell is a Drug-Free Workplace.
+#LD-CD1
+UNAVAILABLE
+UNAVAILABLE
+UNAVAILABLE
