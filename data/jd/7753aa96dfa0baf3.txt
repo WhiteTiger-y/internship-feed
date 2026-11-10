@@ -1,0 +1,65 @@
+Description
+Do you want to learn more on how to best defend the United States, our armed forces, and our allies from all forms of air and missile threats?
+If you are pursuing a Bachelor's, Master's, or PhD in Computer Science, Mathematics, Engineering, Physics, or a similar major and want to work in an exciting
+and collaborative environment to solve challenging technical problems, we'd love to have you join our team.
+We are seeking an innovative and highly talented intern to join our Information Fusion and Artificial Intelligence Group. You will be joining a team of
+engineers and scientists who are at the forefront of APL's mission to provide innovative solutions to critical challenges. Accurate, timely, and actionable
+information derived from a variety of sources provides the warfighter advantages over its adversaries. Our group at APL identifies, develops, and applies
+efficient and effective algorithms to support critical capabilities for a variety of DoD missions.
+As an intern, you will apply math, engineering, computer science, and physics knowledge to implement new distributed algorithms, advanced Artificial
+Intelligence/Machine Learning techniques, data fusion concepts, etc. in support of a wide variety of US Navy, Missile Defense, and Air Force systems.
+As a member of our team...
+- You will research, implement, prototype, and analyze algorithms, quantify and document the performance capabilities and limitations of algorithms for specific
+tasks, and provide metrics of robustness and confidence in specific approaches.
+- You will interact with large data sets of various types, formats, and structures for algorithm training and testing, data cleaning, pre-processing,
+normalization, or manipulation as needed.
+- You will create, develop, and debug code to contribute to various multi-user software test beds.
+- You will create effective visualizations and documentation to explain complex topics to a variety of audiences.
+Qualifications
+You meet our minimum qualifications for the job if you...
+- Are pursuing a Bachelor’s or Master’s degree in Computer Science, Mathematics, Engineering, Physics, or similar degrees with a minimum 3.0 GPA on a 4.0 scale
+- Are fluent in Python or C/C++, with the ability to translate mathematical concepts into well-documented and efficient code
+- Have a desire to apply software engineering techniques to complex problems
+- Have good written and verbal communication skills
+- Are able to obtain an Interim Secret level security clearance by your start date and can ultimately obtain Secret level clearance. If selected, you will be
+subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include
+U.S. citizenship
+You'll go above and beyond our minimum requirements if you...
+- Are pursuing a PhD degree in Computer Science, Mathematics, Engineering, Physics, or similar degrees with a minimum 3.0 GPA on a 4.0 scale
+- Have basic knowledge in AI/ML or have taken AI/ML courses
+- Have basic knowledge in Autonomy, or have taken Autonomy courses
+- Have prior experience deploying AI/ML or Autonomy algorithms on edge compute devices
+- Have prior experience developing AI/ML algorithms, used Generative AI or LLMs
+- Have demonstrated experience in working with version control software like Git
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers .
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu .
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly
+Do you want to learn more on how to best defend the United States, our armed forces, and our allies from all forms of air and missile threats?
+If you are pursuing a Bachelor's, Master's, or PhD in Computer Science, Mathematics, Engineering, Physics, or a similar major and want to work in an exciting
+and collaborative environment to solve challenging technical problems, we'd love to have you join our team.
+We are seeking an innovative and highly talented intern to join our Information Fusion and Artificial Intelligence Group. You will be joining a team of
+engineers and scientists who are at the forefront of APL's mission to provide innovative solutions to critical challenges. Accurate, timely, and actionable
+information derived from a variety of sources provides the warfighter advantages over its adversaries. Our group at APL identifies, develops, and applies
+efficient and effective algorithms to support critical capabilities for a variety of DoD missions.
+As an intern, you will apply math, engineering, computer science, an

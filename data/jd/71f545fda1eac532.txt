@@ -1,0 +1,23 @@
+Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers,
+robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an
+NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can
+make a lasting impact on the world. Join NVIDIA’s AI Clouds team to build software and automation that help our teams support cloud partners and advance AI
+infrastructure programs. Working with a technical mentor and business partners, you’ll take a focused project from an initial problem statement to a working
+tool or feature. You’ll gain experience using AI-assisted development tools, gathering user feedback, and measuring how your work improves everyday workflows.
+What you’ll be doing: Build and deliver a scoped software tool or automation feature using AI-assisted development tools, with guidance from your technical
+mentor. Work with partners across sales, marketing, strategy and operations, program management, and solutions architecture to understand manual workflows and
+define project requirements. Test, debug, and refine your work, following the team’s practices for code review, data handling, and deployment. Analyze usage and
+user feedback to understand adoption, identify improvements, and help scope future projects. Create documentation and quick-start guides that help colleagues
+adopt and use the tools you build. What we need to see: Pursuing a BS or MS in Computer Science, Software Engineering, Data Science, or an equivalent program
+area. Programming experience in Python, JavaScript, or TypeScript through coursework, personal projects, or previous internships. Experience building a software
+application, automation script, or data project, with the ability to explain your approach and technical decisions. Familiarity with APIs, structured data, and
+Git or another version-control system. Experience testing and debugging code, including checking the correctness of AI-generated outputs. Ways to stand out from
+the crowd: Projects using AI coding assistants, large language models, or workflow automation. Experience creating dashboards, analyzing product usage, or
+connecting data from multiple sources. Interest in cloud computing and AI infrastructure, with curiosity about how software can improve business operations.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative and autonomous, we want to hear from you! You will also be eligible for Intern benefits. Applications for this job
+will be accepted at least until November 14, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is
+committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future
+employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender
+expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law. NVIDIA pioneered
+accelerated computing. Today, our AI infrastructure powers global intelligence, transforming every industry. Learn more about NVIDIA.

@@ -1,0 +1,71 @@
+Overview
+i3 is seeking a motivated and detail-oriented Data Management Intern to support critical initiatives in defense data handling and analysis. This role offers
+hands-on experience in managing Department of Defense (DoD) test data, facilitating the ingestion of mission-critical information for weapon system analysts,
+digitizing a national archive of historical defense records, and contributing to the sustainment of the United States’ most elite missile defense systems.
+As an intern, you will:
+- Collaborate with experienced professionals in a secure environment, gaining valuable insights into data management practices within high-stakes national
+security contexts.
+- Receive mentorship from industry experts in data management and defense systems.
+- Gain exposure to technologies supporting national missile defense initiatives.
+- Receive Oopportunities for professional development, including training in secure data handling and potential contributions to real-world projects.
+- Experience a collaborative, mission-driven work environment focused on innovation and excellence.
+This internship is for the Summer 2027 timeframe and will be an onsite role in Huntsville, AL.
+Responsibilities
+- Assist in the ingestion, organization, and processing of DoD test data from various mission sources, ensuring accurate and timely delivery to weapon system
+analysts for evaluation and decision-making.
+- Support the digitization of a national archive, including scanning, cataloging, and metadata tagging of historical documents to enhance accessibility and
+preservation.
+- Contribute to data management tasks related to elite missile defense systems, such as data validation, quality assurance, and integration into analytical
+workflows.
+Collaborate with cross-functional teams to develop and implement data protocols that comply with DoD security standards and regulations.
+- Perform routine data audits, generate reports on data integrity, and identify opportunities for process improvements.
+- Participate in team meetings and contribute to documentation of data management procedures.
+- Other duties as assigned.
+Qualifications
+Required Qualifications and Skills
+- Current enrollment in an undergraduate or graduate program in Data Science, Information Technology, Computer Science, Engineering, or a related field at the
+time of the internship (Summer 2027) or the semester immediately following (Fall 2027).
+- Basic understanding of data management principles, including data ingestion, storage, and retrieval processes.
+- Familiarity with tools and technologies such as databases (e.g., SQL), data processing software (e.g., Python or R for scripting), and digitization platforms;
+prior experience with DoD-related data systems is advantageous but not required.
+Strong analytical skills with attention to detail and the ability to handle sensitive information responsibly.
+- Excellent organizational and communication abilities, with proficiency in producing clear, professional documentation.
+- Ability to obtain and maintain a Secret Security clearance. An Active Secret clearance is required prior to start
+- U.S. Citizenship is required
+- Willingness to undergo background checks as needed.
+- Demonstrated interest in defense technologies, national security, or archival digitization projects.
+Preferred Qualifications
+- Knowledge of DoD data standards, compliance frameworks (e.g., NIST), or mission test data protocols.
+- Prior internship or coursework in defense, aerospace, or government sectors.
+Physical Demands
+- The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+- While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to stand; walk; handle or
+feel; and reach with hands and arms.
+- The employee is occasionally required to sit; climb or balance; and stoop, kneel, crouch or crawl. The employee must be able to lift and/or move up to 10
+pounds and occasionally lift and/or move up to 25 pounds.
+- Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception and ability to adjust focus.
+- Regular i3 hours are 8:00 a.m. - 5:00 p.m. Monday-Friday, however, additional hours may be required on occasion. Regular and punctual attendance is required.
+About i3
+Founded in 2007, Integration Innovation, Inc. (i3) is headquartered in Huntsville, AL, with additional offices in Orlando, FL, and the National Capital Region.
+We are a 100% team member-owned mid-tier integrator with over 800 employee-owners, and our culture speaks for itself: we've earned ten Best Places to Work®
+awards, driven by strong employee engagement, transparent leadership, and a genuine commitment to communication.
+i3 team members operate at the leading edge of national defense across a broad range of technical disciplines, from systems and software engineering to
+modeling, simulation, and training solutions to cybersecurity, digital engineering, and enterprise IT. We also take products from prototype through production,
+bringing that same engineering rigor to manufacturing and delivering hardware at scale. For candidates, that means a rare opportunity: the innovation and
+mission focus of an engineering services company paired with the hands-on impact of building and delivering real solutions that benefit the Warfighter, all
+inside an employee-owned company where your contributions directly shape both the mission and your ownership stake in the business.
+- Assist in the ingestion, organization, and processing of DoD test data from various mission sources, ensuring accurate and timely delivery to weapon system
+analysts for evaluation and decision-making.
+- Support the digitization of a national archive, including scanning, cataloging, and metadata tagging of historical documents to enhance accessibility and
+preservation.
+- Contribute to data management tasks related to elite missile defense systems, such as data validation, quality assurance, and integration into analytical
+workflows.
+Collaborate with cross-functional teams to develop and implement data protocols that comply with DoD security standards and regulations.
+- Perform routine data audits, generate reports on data integrity, and identify opportunities for process improvements.
+- Participate in team meetings and contribute to documentation of data management procedures.
+- Other duties as assigned.
+Required Qualifications and Skills
+- Current enrollment in an undergraduate or graduate program in Data Science, Information Technology, Computer Science, Engineering, or a related field at the
+time of the internship (Summer 2027) or the semester immediately following (Fall 2027).
+- Basic understanding of data management principles, including data ingestion, storage, and retrieval processes.
+- Familiarity with tools and technologies such as databases (e.g., SQL), data pr

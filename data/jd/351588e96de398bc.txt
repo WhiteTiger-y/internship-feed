@@ -1,0 +1,37 @@
+At Fortrea, we believe early talent is the heartbeat of innovation. Our Early Careers program is more than an internship, —it’s a launchpad for your future. As
+an Intern, you’ll join a global team where curiosity, motivation, and fresh ideas are celebrated. You’ll work on meaningful projects, learn from experienced
+professionals, and see firsthand how clinical research and healthcare innovation change lives. We don’t expect you to know it all. What matters most is your
+potential, your drive to learn, and your willingness to grow. With hands-on experience, mentorship, and structured development, we’ll help you build the skills
+and confidence to succeed. Your journey to pioneering tomorrow’s breakthroughs starts here. Fortrea 2027 University Internship Program IT Team USA Location:
+USA, remote Full-time, 12-weeks, $21/hr Start Date: Summer 2027 Job Overview: We are excited to offer a 12-week remote paid AIML Rapid Development Studio (RDS)
+Internship opportunity for individuals interested in gaining hands-on experience within our Global Project Delivery Department. As an intern, you will work
+closely with our experienced AIML RDS team to support various client engagement projects and contribute to the advancement of medical knowledge. Global
+Internship Program: Exciting Opportunity to be part of the Fortrea 2027 Global Frontline Internship Program! We offer real work assignments that compliment an
+education in STEM+ Healthcare disciplines, are challenging and recognized to the organization as valuable. In addition, we encourage professional development
+and career exploration through program workshops, each designed to help students prepare for a thriving career in our industry. This internship in particular
+will play a key role in supporting the development and implementation of cutting-edge AI and machine learning solutions. The intern will work closely with our
+team of AI/ML experts to contribute to various stages of the innovation process, from research and ideation to prototyping and deployment. This internship will
+provide hands-on experience in applying AI/ML technologies to real-world challenges, fostering a deeper understanding of the field and enhancing the intern's
+technical and problem-solving skills. Internship Assignment Summary: Data Collection and Preparation: Assist in gathering, cleaning, and organizing datasets
+required for machine learning projects. This includes data preprocessing, feature extraction, and ensuring data quality. Model Development: Participate in the
+design and development of machine learning models. This includes experimenting with different algorithms, tuning hyperparameters, and optimizing models for
+performance and accuracy. Prototyping and Experimentation: Collaborate with team members to create prototypes of AI/ML solutions. Test and validate models
+through rigorous experimentation, and document findings to guide further development. Research and Literature Review: Conduct research on the latest AI/ML
+trends, tools, and methodologies. Summarize key findings and propose how they can be applied to ongoing projects within the studio. Tool and Framework
+Exploration: Explore and evaluate new AI/ML tools, frameworks, and technologies. Provide recommendations on their potential integration into the studio's
+workflow. Collaboration and Support: Work closely with cross-functional teams, including data scientists, software engineers, and product designers, to support
+the successful implementation of AI/ML initiatives. Documentation and Reporting: Maintain detailed documentation of all project-related activities, including
+data pipelines, model configurations, and experimental results. Present findings and progress to the team in regular updates. Continuous Learning and
+Development: Engage in ongoing learning opportunities to expand knowledge in AI/ML. Attend workshops, webinars, and team discussions to stay updated on the
+latest industry advancements. Education/Qualifications/Skills: Pursuing a degree in Computer Science, Data Science, Artificial Intelligence, or a related field
+(MUST be currently studying) Strong foundational knowledge in machine learning algorithms and data structures. Experience with programming languages commonly
+used in AI/ML, such as Python, R, or Java. Familiarity with AI/ML frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn). Basic understanding of
+data preprocessing and feature engineering techniques. Exposure to cloud computing platforms (e.g., AWS, Google Cloud, Azure) and tools for AI/ML deployment.
+Strong analytical and problem-solving skills, with a keen interest in AI/ML research and development. Ability to work collaboratively in a team environment,
+with good communication skills. Eagerness to learn and adapt to new technologies in a fast-paced, innovative environment. Previous project or internship
+experience in AI/ML is a plus but not required Qualifications (Minimum Required): Fortrea may consider relevant and equivalent experience in lieu of educational
+requirements. Learn more about our EEO & Accommodations request here. Didn’t find what you were looking for? Join our Global Talent Network to stay connected
+with Fortrea, drive innovation and contribute to our mission of advancing life-saving therapies for patients worldwide. Follow us and stay updated about Fortrea
+on LinkedIn, Facebook, X, Instagram, YouTube and Glassdoor. At Fortrea, we're all about turning the “impossible” into "I'm possible." Together, we break
+barriers to deliver exceptional service to our patients, fueled by a shared commitment to teamwork and excellence. Regardless of your role, we're all family,
+working together to achieve extraordinary results. At Fortrea, your career isn't just a job – it's a journey of making the exceptional possible, every day.

@@ -1,0 +1,60 @@
+Who We Are
+Persona AI is building humanoid robots for the most demanding environments in heavy industry — shipyards, steel mills, fabrication facilities, and offshore
+platforms — performing welding, grinding, maintenance, inspection, and material-handling work that is dangerous, physically demanding, and increasingly
+difficult to staff.
+We are backed by leading strategic and financial investors and engaged with global industrial leaders across Korea, Japan, the United States, and Singapore.
+Korea is the center of gravity for our early commercial strategy, anchored by relationships with the world’s leading shipbuilders and steelmakers. Our work
+spans both the robot platform itself and the systems, partners, and playbooks required to deploy it at scale.
+We're seeking a Humanoid Robotics Software Intern to join our team in Houston, TX or Pensacola, FL and contribute to the software systems that bring our
+humanoid robots to life. You'll work on robotics software including perception, locomotion, manipulation, and machine learning systems.
+Based on team needs, you may work on things such as:
+Humanoid Locomotion : Develop algorithms for walking, balance, and bipedal movement control systems
+Perception Systems : Work on computer vision, sensor fusion, and environmental understanding capabilities
+Manipulation Software : Contribute to robotic arm and hand control systems for grasping and dexterous manipulation
+Machine Learning : Implement learning algorithms, training pipelines, and model optimization for robotic applications
+Autonomy: Develop navigation, planning, and decision-making algorithms for real-world operation
+Platform Software: Build the core infrastructure, tooling, and runtime systems that power the robot stack
+What You'll Learn
+Hands-on experience with humanoid robotics software development
+Advanced robotics algorithms including SLAM, path planning, and control theory
+Machine learning applications in robotics and autonomous systems
+Real-time software development and embedded systems programming
+Collaborative software development in a fast-paced startup environment
+Qualifications
+Currently pursuing Bachelor's, Master's, or PhD degree in Computer Science, Robotics, Software Engineering, or related field
+Genuine curiosity and passion for robotics, AI, or autonomous systems
+Eagerness to learn and tackle complex technical challenges
+Programming experience in Python and/or C++ through coursework, research, or projects
+Willingness to dive into new technologies and frameworks
+Strong problem-solving mindset with persistence when debugging code
+Preferred Experience
+Any coursework, personal projects, or hackathons involving programming or software development
+Basic exposure to robotics concepts, machine learning, or computer vision (through classes or personal interest)
+Familiarity with version control systems (Git) or software development practices
+Previous internship, co-op, or project experience in any technical field
+Participation in coding clubs, programming competitions, or open-source projects
+Technical Areas of Interest
+Perception : Computer vision, sensor fusion, SLAM
+Locomotion : Bipedal walking, balance, gait planning
+Manipulation : Arm control, grasping, dexterous manipulation
+Machine Learning : Reinforcement learning, computer vision, planning
+Systems : Real-time control, embedded software, robotics middleware
+Our Internship Program
+At Persona AI, our internship program gives you direct, hands-on experience building cutting-edge humanoid robotics alongside industry experts. We offer full-
+time term opportunities across three upcoming cohorts:
+Spring 2027: January – May
+Summer 2027: May – August
+Fall 2027: August – December
+As an intern, you’ll be paired 1:1 with a senior engineer mentor to accelerate your growth and guide your technical contributions. You will bond with your
+cohort through intern group lunches, gain cross-functional perspective during company-wide learning lunches, and unwind with fun team activities throughout the
+term. Whether you're working on advanced motion planning or real-world system testing, you'll tackle meaningful engineering challenges while immersing yourself
+in our collaborative startup culture.
+Application Review Process
+We review applications on a rolling basis, and roles may fill before the posted deadline. To give yourself the best chance of securing a spot, keep these tips
+in mind:
+Apply Early: Submitting your resume as soon as possible ensures your materials are reviewed before interview slots fill up.
+Cohort Availability: Popular terms, especially Summer 2027, tend to reach capacity quickly.
+Rolling Interviews: Interviews and candidate evaluations begin immediately upon application receipt.
+Persona AI is an Equal Opportunity Employer.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+identity, age, disability, veteran status, or any other characteristic protected by applicable federal, state, or local law.

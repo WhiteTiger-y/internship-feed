@@ -1,0 +1,53 @@
+The Data and Insights Group works to define metrics for digital journalism and product development. We build first-rate analytical tools and data
+visualizations. We create predictive models of the business and develop algorithms to support a more relevant product experience and we promote hypothesis-
+driven experimentation. We collaborate across disciplines, with editors, product managers, designers, engineers and marketers.
+About Our Summer Internships:
+- The duration is 10 weeks long, starting on June 7, 2027.
+- The rate of pay for this role is $40.00 per hour.
+- Interns work 35 hours per week.
+- This is a hybrid role based in New York City.
+Responsibilities:
+- Liaise with internal business and newsroom stakeholders to understand their objectives, challenges and opportunities.
+- Use exploratory analysis to deeply understand The New York Times’s audience and their behavior across platforms.
+- Use observation and analysis to recommend iterative improvements to The New York Times’s products and services.
+- Partner with Data Analysts and Product Managers on the end-to-end process of test design, implementation, and analysis.
+- Democratize data through designing, building, and automating dashboards or other means.
+- Influence internal stakeholders at all levels of the organization to take action on business opportunities based on insights generated.
+- Document and communicate findings and insights to stakeholders across the company.
+- Demonstrate support and understanding of our value of journalistic independence and a strong commitment to our mission to seek the truth and help people
+understand the world.
+Basic Qualifications:
+- Undergraduate studies with the expectation to graduate within the next 18 months/career changers/bootcamp graduates
+- Experience in SQL, Python, or other coding languages
+Preferred Qualifications:
+- Experience in manipulating, analyzing, and visualizing datasets
+- Experience with website or media analytics
+REQ-020966
+Additional Compensation and Benefits:
+For roles in the U.S., dependent on your role, you may be eligible for variable pay, such as an annual bonus and restricted stock. Benefits may include medical,
+dental and vision benefits, Flexible Spending Accounts (F.S.A.s), a company-matching 401(k) plan, employee stock purchase plan, paid vacation, paid sick days,
+paid parental leave, tuition reimbursement and professional development programs.
+For roles outside of the U.S., information on benefits will be provided during the interview process.
+The hourly rate of base pay for this role is:
+$40 - $40 USD
+Candidate Use of GenAI Tools:
+We’re excited to learn more about you and your experience. To keep our hiring process as fair and authentic as possible, we ask that you submit your own work
+and not use GenAI tools to generate substantive content during the application and interview process.
+If you’re an engineering candidate, we’ll let you know what specific GenAI tools you are permitted to use for your technical assessment.
+The New York Times Company is committed to being the world’s best source of independent, reliable and quality journalism. To do so, we embrace a diverse
+workforce that has a broad range of backgrounds and experiences across our ranks, at all levels of the organization. We encourage people from all backgrounds to
+apply.
+We are an Equal Opportunity Employer and do not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion,
+marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier
+status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment
+without regard to legally protected characteristics. The U.S. Equal Employment Opportunity Commission (EEOC)’s Know Your Rights Poster is available here .
+The New York Times Company will provide reasonable accommodations as required by applicable federal, state, and/or local laws. Individuals seeking an
+accommodation for the application or interview process should email reasonable.accommodations@nytimes.com. Emails sent for unrelated issues, such as following
+up on an application, will not receive a response.
+For information about The New York Times' privacy practices for job applicants, click here .
+Please beware of fraudulent job postings. Scammers may post fraudulent job opportunities, and they may even make fraudulent employment offers. This is done by
+bad actors to collect personal information and money from victims. All legitimate job opportunities from The New York Times will be accessible through The New
+York Times careers site . The New York Times will not ask job applicants for financial information or for payment, and will not refer you to a third party to do
+so. You should never send money to anyone who suggests they can provide employment with The New York Times.
+If you see a fake or fraudulent job posting, or if you suspect you have received a fraudulent offer, you can report it to The New York Times at
+NYTapplicants@nytimes.com. You can also file a report with the Federal Trade Commission or your state attorney general .

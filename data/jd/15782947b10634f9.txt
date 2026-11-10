@@ -1,0 +1,67 @@
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+About Futureforce University Recruiting
+Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects
+that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our
+recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development
+courses, and much more.
+Job Category
+Fixed Term & Temporary
+Job Details
+About Salesforce
+Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a
+buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and
+the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
+Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and
+you are the future of Salesforce.
+What You'll Be Doing & Why It Matters
+Salesforce AI Research is a global leader in Enterprise AI, driving innovations that advance the state of AI while powering enterprise products at worldwide
+scale. We take ideas from research to real-world impact, working closely with product teams and enterprise customers to translate cutting-edge research into
+production AI capabilities used by millions of users. Learn more at Salesforce AI Research .
+Within AI Research, our Incubation team bridges our foundational technology and our customers' needs. We meet with customers to understand their biggest pain
+points, connect them to emerging technologies from our researchers' work, and validate those technologies with real users to inform our future products.
+We sit at the intersection of research and product innovation, combining AI research and applied AI to turn foundational innovation into real solutions for real
+customers. We are looking for a Summer 2027 intern to help us validate and shape what we build next.
+Core Responsibilities & Scope
+- Design user research plans to help validate pilots and experiments
+- Conduct discovery interviews and synthesize learnings
+- Produce reports of user studies and their outcome
+- Make recommendations for pilot direction and future experiments
+- Establish standardized research protocols, templates, and assessment frameworks for unified user evaluations
+- Collaborate with researchers, engineers, and cross-functional stakeholders to translate research findings into recommendations for product development.
+Minimum Requirements
+- Currently pursuing a graduate degree in a relevant field, such as Human-Computer Interaction, Information Science, Business, Economics, Psychology, or a
+related discipline.
+- Experience conducting qualitative or quantitative research, including interviews, surveys, or experimental studies.
+- Ability to analyze and synthesize research findings into clear, actionable recommendations.
+- Strong written and verbal communication skills, including the ability to present findings to technical and nontechnical audiences.
+- Interest in artificial intelligence, emerging technologies, and understanding how people interact with technology.
+Preferred Qualifications
+- Experience conducting user research, usability testing, or customer discovery for software or AI-powered applications.
+- Familiarity with research methods such as experimental design, A/B testing, longitudinal studies, or adoption analysis.
+- Experience working with qualitative and quantitative research tools, including Excel, SQL, Python, R, or survey platforms.
+- Understanding of product incubation, technology adoption, and business impact measurement.
+- Experience collaborating with multidisciplinary teams or conducting research in an industry setting.
+- Ability to vibe-code tools that help in the synthesis and collection of data at scale.
+Internship Details
+This is a Summer 2027 internship with a minimum duration of 12 weeks.
+Unleash Your Potential
+When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best , and our AI
+agents accelerate your impact so you can do your best . Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing
+experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
+Accommodations
+If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form .
+Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout
+the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information
+about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
+Posting Statement
+Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean
+exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s
+inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis
+of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity,
+transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current
+and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation,
+promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at
+Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and
+education.
+In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain
+roles may be eligible for incentive compensation, equity, and benefits. Salesforce offers a variety of benefits to help you 

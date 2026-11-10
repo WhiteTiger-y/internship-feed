@@ -1,0 +1,75 @@
+JOIN TEAM TRILOGY
+Get more than just experience—get paid to grow! During our Fall 2025, Spring/Summer 2026 Internship Program, you’ll build real-world skills while working on
+projects that make an impact. Connect with executives and industry leaders, gain insights from dedicated mentors, and enjoy a summer filled with intern socials
+and fun activities. Whether you're in Marketing, IT, Finance, HR, or a related field, this 10-week paid internship is your chance to learn, lead, and level up
+your future.
+POSITION OVERVIEW
+2027 Summer Internship
+The Information Systems Developer of AI and Automated Solutions Intern works as an apprentice under the direction of the VP of Information Systems and is
+responsible for functions needed in the IT Department. The Information Systems Developer of AI and Automated Solutions Intern will play a key role in the
+continued growth and success of the Company. Other key responsibilities include:
+Responsibilities:
+- Collaborate with the AVP and project teams to understand business problems and contribute to solution design using AI, automation, and analytics.
+- Assist in developing low-code and pro-code solutions using modern technologies (e.g., Power Apps, Power Automate, Power BI, Azure services, .NET, or similar).
+- Help build, test, and maintain RPA workflows (e.g., with Power Automate Desktop or other RPA tools) to streamline repetitive business processes.
+- Support the development and deployment of data pipelines and integrations (e.g., using SQL, APIs, or Azure data services) to move and transform data between
+systems.
+- Contribute to the creation and optimization of BI reports and dashboards (e.g., Power BI) that provide actionable insights for business stakeholders.
+- Assist in experimenting with and integrating AI/ML capabilities (e.g., Azure OpenAI, Azure Machine Learning, or Python-based models) into business
+applications and automations.
+- Participate in code reviews, design discussions, sprint planning, and team ceremonies, incorporating feedback from senior developers and the AVP.
+- Help document technical designs, workflows, data definitions, and solution configurations in a clear and organized manner.
+- Perform unit testing, support system testing, and assist with troubleshooting and resolving defects or production issues under guidance.
+- Work with business users to gather feedback, refine prototypes, and improve usability and adoption of developed solutions.
+- Follow established development standards, security practices, and governance guidelines defined by the AVP and Information Systems leadership.
+- Stay current with emerging tools and features in the Microsoft ecosystem and share learnings with the team.
+Qualifications and Skills:
+Education:
+- Current senior (rising or final-year student) pursuing a Bachelor’s degree in Information Systems, Computer Science, Data Science, Analytics, Engineering, or
+a related field.
+Technical Skills (Foundational to Intermediate):
+- Basic to intermediate experience with at least one programming language (e.g., Python, C#, JavaScript).
+- Working knowledge of SQL and relational databases (e.g., writing SELECT queries, joins, basic data modelling concepts).
+- Exposure to Microsoft Power Platform (Power BI, Power Apps, Power Automate) or a strong interest and willingness to learn quickly.
+- Familiarity with data analysis concepts (e.g., cleaning data, basic statistics, using tools like Excel, Power BI, or Python/R notebooks).
+- Introductory understanding of RPA concepts and tools (Power Automate Desktop, UiPath, or similar) is a plus.
+- Awareness of AI/ML concepts (e.g., classification, regression, NLP) and experience with basic models or projects is a plus but not required.
+- Familiarity with cloud platforms (preferably Microsoft Azure ) or desire to learn about Azure services for data, integration, and AI.
+Professional & Soft Skills:
+- Strong analytical and problem-solving skills with the ability to break down complex problems into smaller components.
+- Curiosity and enthusiasm for automation, data-driven decision making, and modern AI capabilities.
+- Ability to work effectively as part of a team under the guidance of an AVP and senior developers, with openness to feedback and mentorship.
+- Clear written and verbal communication skills, including the ability to document work and explain technical ideas to non-technical stakeholders.
+- Strong organizational skills and attention to detail, with the ability to manage multiple tasks or small projects at once.
+- Demonstrated initiative through class projects, personal projects, hackathons, or internships in related areas (data, analytics, software dev, automation).
+Preferred Additional Skills:
+- Experience building personal or academic projects using Power BI dashboards, simple Power Apps, or automated workflows.
+- Participation in data science, analytics, or software development clubs, competitions, or open-source contributions.
+- Understanding of basic concepts related to security, privacy, and responsible use of data and AI.
+PHYSICAL REQUIREMENTS Sitting, standing, bending, reaching, stretching, stooping, walking, and moving intermittently during working hours. Must be able to lift
+at least 50lbs. Must be able to maintain verbal and written communication with co-workers, supervisors, residents, family members, visitors, vendors, and all
+business associates outside of
+LOCATION
+US-KY-Louisville
+Trilogy Health Services
+303 N. Hurstbourne Parkway
+Louisville
+KY
+TEXT A RECRUITER
+Lauren (502) 305-3565
+LIFE AT TRILOGY
+Whether you’re looking for a new chapter, a change of pace, or a helping hand, Trilogy is committed to being the best place that you’ve ever belonged.
+ABOUT TRILOGY HEALTH SERVICES
+As one of Fortune’s Best Places to Work in Aging Services, a certified Great Place to Work, and one of Glassdoor’s Top 100 Best Companies to Work, Trilogy is
+proud to be an equal opportunity employer committed to helping you reach your full potential.
+FOR THIS TYPE OF EMPLOYMENT STATE LAW REQUIRES A CRIMINAL RECORD CHECK AS A CONDITION OF EMPLOYMENT.
+Get more than just experience—get paid to grow! During our Fall 2025, Spring/Summer 2026 Internship Program, you’ll build real-world skills while working on
+projects that make an impact. Connect with executives and industry leaders, gain insights from dedicated mentors, and enjoy a summer filled with intern socials
+and fun activities. Whether you're in Marketing, IT, Finance, HR, or a related field, this 10-week paid internship is your chance to learn, lead, and level up
+your future.
+2027 Summer Internship
+The Information Systems Developer of AI and Automated Solutions Intern works as an apprentice under the direction of the VP of Information Systems and is
+responsible for functions needed in the IT Department. The Information Systems Developer of AI and Automated Solutions Intern will play a key role in the
+continued growth and success of the Company. Other key responsibilities include:
+Responsibilities:
+- Col

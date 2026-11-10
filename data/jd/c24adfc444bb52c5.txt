@@ -1,0 +1,37 @@
+Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries
+of American Financial Group. We combine a "small company" culture where your ideas will be heard with "big company" expertise to help you succeed. With over 30
+specialty and property and casualty operations, there are always opportunities here to learn and grow. At Great American, we value and recognize the benefits
+derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees
+feel included, empowered, and enabled to perform at their best. This position is not eligible for employment visa sponsorship. Applicants must be authorized to
+work in the United States without the need for current or future sponsorship. We are seeking Business Data & Analytics (BD&A) Interns to support our Predictive
+Analytics or Telematics team. This internship provides hands-on experience applying data and analytics to real business problems within the insurance industry.
+BD&A brings together specialized teams that use data, analytics, and technology to generate insights and support business decisions. Through this posting,
+internship opportunities are available within: Predictive Analytics – Uses data science, statistical analysis, and predictive modeling to identify patterns,
+evaluate opportunities, and develop analytical solutions that support business decisions. Telematics – Uses driving, connected-device, and behavioral data to
+develop insights and analytical solutions that support insurance products and business strategies. Intern placement will be based on the candidate’s skills,
+experience, academic background, and interests, along with available projects and team needs. Essential Job Functions and Responsibilities Depending on team
+placement and project needs, responsibilities may include: Analyze data to identify trends, patterns, relationships, and insights that support business
+decisions. Assist with the development, testing, validation, and enhancement of analytical models and solutions. Develop, evaluate, and improve structured and
+unstructured data sets to support analytics projects. Use analytical and programming tools to explore data, conduct analysis, and communicate findings.
+Collaborate with analytics, technology, and business partners to understand business needs and develop analytical approaches. Support projects involving
+predictive analytics, statistical analysis, telematics data, or other advanced analytics applications. Apply best practices related to data quality, accuracy,
+testing, and documentation. Document analytical processes, methodologies, and findings. Independently complete assigned tasks while receiving guidance and
+mentorship from experienced BD&A professionals. Participate in learning, networking, and professional development opportunities. Perform other duties as
+assigned in support of BD&A initiatives. Job Requirements Field of Study: Data Science, Data Analytics, Business Analytics, Actuarial Science, Computer Science,
+Information Systems, or a related discipline. Available to work full time during Summer 2027, beginning May 17th Preferred Experience Experience working with
+structured data sets of varying size and shape. Introductory experience with Python, R, SQL, or similar analytical or programming tools. Basic understanding of
+statistics, data analysis, or analytical problem-solving. Exposure to predictive modeling, machine learning, statistical analysis, or related concepts. Ability
+to identify patterns and draw conclusions from data. Exposure to data visualization or tools used to communicate analytical findings. Demonstrated skills in
+problem solving, attention to detail, accuracy, and time management Ability to work independently while collaborating effectively with team members and business
+partners. Introductory experience with Generative AI coding with agentic harnesses or turn-based chats Experience working on team projects, student
+organizations, or other activities that demonstrate leadership, collaboration, and organizational skills. Business Unit: Business Data and Analytics Benefits:
+We offer competitive benefits packages for full-time and part-time employees*. Full-time employees have access to medical, dental, and vision coverage, wellness
+plans, parental leave, adoption assistance, and tuition reimbursement. Full-time and eligible part-time employees also enjoy Paid Time Off and paid holidays, a
+401(k) plan with company match, an employee stock purchase plan, and commuter benefits. Compensation varies by role, level, and location and is influenced by
+skills, experience, and business needs. Your recruiter will provide details about benefits and specific compensation ranges during the hiring process. Learn
+more at http://www.gaig.com/careers. *Excludes seasonal employees and interns. Great American Insurance Group understands the importance of choosing a
+financially strong company. We are an organization built for the long term and are committed to giving you that strength. Why can you trust Great American
+Insurance Group? For nearly 150 years, Americans have trusted us to protect them. Our innovative insurance solutions and specialization serves niche
+marketplaces that we know well. This expertise gives us a successful foundation that spans generations. You never know where a career in insurance will take
+you. Whether you are starting your career or are looking for a company to grow your experience, at Great American Insurance Group, you can join our more than
+8,500 employees to “Be Here. Be GREAT!” To learn more, visit our Career Page

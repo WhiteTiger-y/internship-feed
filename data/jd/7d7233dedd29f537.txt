@@ -1,0 +1,45 @@
+Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers,
+robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an
+NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can
+make a lasting impact on the world!
+NVIDIA builds data and observability systems that help engineers understand and operate large-scale services. We are looking for an intern who enjoys both
+asking foundational questions and building working systems to answer them. Working with observability and data platform engineers, you will study how the field
+may evolve over the next five years, investigate NVIDIA’s data systems, and turn promising ideas into prototypes, measurements, and clear technical
+recommendations.
+What you’ll be doing:
+- Find, read, and critically assess research papers, technical reports, architecture documents, and industry material on observability and large-scale data
+systems.
+- Track the ideas and organizations that may signal meaningful shifts in the field.
+- Study NVIDIA’s relevant data and observability systems through documentation and conversations with engineers.
+- Identify how today’s design choices relate to broader changes in storage, compute, query, and telemetry.
+- Develop an evidence-based view of possible observability pathways, including which trends appear durable, which remain speculative, and what developments
+would change your assessment.
+- Investigate whether object storage will become more central to observability or whether other architectures may change its role. Evaluate the question across
+workloads, economics, performance, and operational needs.
+- Use AI tools to accelerate discovery, organize sources, and explore competing ideas. Verify important claims against original materials, then develop your own
+analysis and write original content.
+- Write approximately two substantial whitepapers that explain your findings and propose avenues for further research or experimentation. Where possible, choose
+a focused prototype, benchmark, or analysis to test an important claim.
+What we need to see:
+- Pursuing a MS or PhD in Computer Science, Computer Engineering or equivalent program area.
+- Experience finding and synthesizing technical literature, evaluating competing claims, and producing clear written analysis through coursework, research, or
+projects.
+- Coursework or project experience in distributed systems, databases, storage, networking, or cloud computing.
+- Advanced programming experience and understanding of complex system implementations, to rigorously investigate technical questions.
+Ways to stand out from the crowd:
+- Technical papers, substantial research reports, other writing that turns complex systems material into a clear argument.
+- Interest in how observability, data platforms, and infrastructure may evolve as AI and large-scale computing change their workloads.
+- Experience with OpenTelemetry (logs, metrics, tracing), object storage, data lakes, and query engines.
+- A record of forming independent technical judgments, identifying uncertainty, and revising a position when new evidence warrants it.
+- Experimentation in original, non-traditional, creative writing and willingness to learn quickly, ask questions, and collaborate with cross-functional teams.
+NVIDIA is widely considered to be one of the world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the industry
+working for us. If you're creative and autonomous, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 20 USD – 94 USD.
+You will also be eligible for Intern benefits .
+Applications for this job will be accepted at least until November 13, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
