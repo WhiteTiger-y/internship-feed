@@ -1,0 +1,61 @@
+Summer 2027 AI Full Stack Developer Consulting Intern
+AI-Assisted Code | CI/CD & DevOps
+Location: Minneapolis, Mn (Hybrid but based in Mn for summer)
+Dates: June 1 - August 21, 2027 (10–12 weeks)
+Status: Internship | Full-Time | Paid
+Eligibility: Undergraduate, Master’s, Graduate-Level or PhD Students
+Extension: Potential extension; remote work may be considered
+Elire and Role Overview
+Elire is a trusted Oracle consulting partner with over 20 years of experience delivering ERP, EPM, HCM, and Treasury transformations across public and private
+sector clients using PeopleSoft, Oracle Cloud, and Treasury Management Systems such as Kyriba and FIS. We combine deep business and technical expertise with a
+people-first, consulting-driven approach to help organizations modernize systems, improve decision-making, and prepare for the future of work.
+As AI continues to reshape how organizations operate, Elire is investing in responsible, human-in-the-loop AI solutions that enhance - not replace - our
+consultants and clients. Our Summer 2027 AI Full Stack Developer Consulting Internship program gives advanced graduate students hands-on exposure to applied AI
+in a real consulting environment, with an emphasis on practical problem-solving, sound technical judgment, and work that can move from concept toward usable
+solutions.
+The Opportunity
+The AI Full Stack Developer Consulting Intern will focus on building and reviewing software in an AI-enabled development environment. This role is designed for
+a strong programmer who can assess code written or assisted by AI, identify issues, improve quality, and work within modern software delivery practices
+including source control, CI/CD, GitOps, and DevOps. The right candidate will be comfortable both creating code and challenging whether generated code is
+secure, maintainable, testable, and fit for purpose.
+Key Responsibilities:
+- Develop, review, test, debug, and improve code used in Elire AI prototypes, tools, integrations, and internal solutions.
+- Review AI-generated or AI-assisted code for correctness, maintainability, performance, security, and alignment with development standards.
+- Build or support scripts, services, APIs, automations, and proof-of-value applications using appropriate programming languages and frameworks.
+- Work with Git-based source control, branching, pull requests, code review, and version-management practices.
+- Support CI/CD workflows and help automate build, test, deployment, and validation processes.
+- Apply GitOps and DevOps concepts to improve repeatability, traceability, and reliability of software delivery.
+- Troubleshoot technical issues, evaluate alternative solutions, and explain the reasoning behind implementation decisions.
+- Document code, workflows, testing results, and technical recommendations; collaborate with Elire AI and technical leaders and present a final project.
+Required Qualifications:
+- Currently pursuing an Undergraduate, Master's or PhD in Computer Science, Information Technology, Cybersecurity, Network Engineering, Cloud Computing,
+Engineering, or a closely related technical field.
+- Strong understanding of networking fundamentals including IP addressing, subnets, routing, DNS, connectivity, and network security concepts.
+- Hands-on knowledge of virtual cloud networking / VCN concepts and cloud infrastructure.
+- Experience with Kubernetes (K8s), RKE2, or comparable container-orchestration technologies.
+- Understanding of cluster deployment, scaling, availability, and troubleshooting concepts.
+- Strong critical thinking and problem-solving skills; able to diagnose technical issues and make reasoned infrastructure recommendations.
+- Ability to document architectures, configurations, issues, and technical decisions clearly and professionally.
+Preferred Qualifications
+- Hands-on exposure to CI/CD platforms, GitOps workflows, DevOps tooling, or infrastructure-as-code practices.
+- Experience with containers, Docker, Kubernetes, or cloud-native application development.
+- Exposure to generative AI APIs, coding copilots, LLM-based development workflows, or agentic development tools.
+- Exposure to cloud platforms such as Oracle Cloud, AWS, Azure, or GCP.
+- Prior research, internship, open-source, or project experience building production-oriented software or AI-enabled applications.
+What You’ll Gain:
+- Real-world experience applying AI and advanced technology in a consulting and enterprise environment.
+- Hands-on work with experienced consultants, technical leaders, and Elire innovation initiatives.
+- Professional development focused on critical thinking, communication, problem-solving, and client-ready delivery.
+- The opportunity to own meaningful work and present findings or a final project at the end of the internship.
+- Potential consideration for an internship extension based on business need and performance; an extension may be remote.
+Who Will Be Successful
+This internship is intended for someone who is technically capable, curious, self-directed, and comfortable being challenged. We are looking for a graduate
+student who can do the work, think critically about the work, ask strong questions, and use AI as a tool without outsourcing technical judgment to it.
+About Elire:
+Elire is a Certified Partner of Oracle Cloud, PeopleSoft, Kyriba, and FIS. Established in 2005, Elire is a Minneapolis-based full-service consulting firm with
+15+ years of experience in successfully completing projects for our customers all over the country. Over one hundred clients in the Public and Fortune 500
+Financial, Services, and Utilities Sectors have benefited from Elire’s hands-on guidance and knowledge.
+We help achieve success by efficiently implementing, integrating, and upgrading software investments. We employ consultants with world-class skills and
+experience. To learn more, visit our website at www.elire.com
+Elire is proud to be an Equal Opportunity Employer. We encourage all qualified candidates to apply, regardless of race, color, gender, age, religion, national
+origin, disability, marital status, sexual orientation, or veteran status.

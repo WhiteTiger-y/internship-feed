@@ -1,0 +1,60 @@
+Summer 2027 AI Data Science Consulting Internship
+Knowledge Graphs & Enterprise Data
+Location: Minneapolis, Mn (Hybrid but based in Mn for summer)
+Dates: June 1 - August 20, 2027 (10–12 weeks)
+Status: Internship | Full-Time | Paid
+Eligibility: Undergraduate, Master’s, Graduate-Level or PhD Students
+Extension: Potential extension; remote work may be considered
+Elire and Role Overview
+Elire is a trusted Oracle consulting partner with over 20 years of experience delivering ERP, EPM, HCM, and Treasury transformations across public and private
+sector clients using PeopleSoft, Oracle Cloud, and Treasury Management Systems such as Kyriba and FIS. We combine deep business and technical expertise with a
+people-first, consulting-driven approach to help organizations modernize systems, improve decision-making, and prepare for the future of work.
+As AI continues to reshape how organizations operate, Elire is investing in responsible, human-in-the-loop AI solutions that enhance - not replace - our
+consultants and clients. Our Summer 2027 AI Data Science Consulting Internship program gives advanced students hands-on exposure to applied AI in a real
+consulting environment, with an emphasis on practical problem-solving, sound technical judgment, and work that can move from concept toward usable solutions.
+The Opportunity
+The AI Data Science Intern will focus on indexing, organizing, and structuring Elire documents and digital assets using graph-based concepts. This role is
+designed for a technically strong Master's, PhD or Undergraduate student who can think beyond basic data analysis and help turn complex, distributed information
+into structured, connected knowledge that can support AI-driven search, retrieval, reasoning, and consulting use cases.
+Key Responsibilities:
+- Analyze Elire documents, assets, and information sources to identify meaningful entities, relationships, metadata, and structures.
+- Support the design and development of graph-based approaches for indexing and connecting enterprise knowledge.
+- Prepare, clean, normalize, and validate data used in AI, retrieval, and knowledge-graph workflows.
+- Explore approaches involving embeddings, vectorization, semantic retrieval, property graphs, and related AI/data concepts.
+- Build or support prototypes, scripts, data pipelines, or proof-of-value solutions using Python, SQL, and relevant data/AI tooling.
+- Evaluate the quality, completeness, and usefulness of structured data and AI-generated outputs; identify gaps and recommend improvements.
+- Document data structures, assumptions, testing results, and technical findings clearly for technical and non-technical audiences.
+- Collaborate with Elire AI, consulting, and technical leaders and present findings or a final project at the end of the internship.
+Required Qualifications:
+- Currently pursuing an Undergraduate, Master's or PhD in Data Science, Computer Science, Artificial Intelligence / Machine Learning, Analytics, Information
+Systems, Engineering, or a closely related technical field.
+- Strong hands-on experience with Python and data manipulation, analysis, or modeling.
+- Working knowledge of SQL and structured/unstructured data concepts.
+- Understanding of graph concepts, knowledge graphs, property graphs, semantic relationships, or comparable data structures.
+- Strong analytical ability and critical thinking; able to work through ambiguous technical problems with limited step-by-step direction.
+- Ability to evaluate results critically rather than accepting model or tool output at face value.
+- Ability to communicate technical concepts, decisions, and findings clearly and professionally.
+Preferred Qualifications:
+- Experience with graph databases or graph tooling (for example, Neo4j or comparable technologies).
+- Exposure to LLM mechanics, embeddings/vectorization, RAG or semantic search, and generative AI APIs.
+- Experience working with document corpora, metadata, enterprise search, or information retrieval.
+- Exposure to cloud platforms such as Oracle Cloud, AWS, Azure, or GCP.
+- Prior research, internship, or project experience involving applied AI, data science, or enterprise knowledge systems.
+What You’ll Gain:
+- Real-world experience applying AI and advanced technology in a consulting and enterprise environment.
+- Hands-on work with experienced consultants, technical leaders, and Elire innovation initiatives.
+- Professional development focused on critical thinking, communication, problem-solving, and client-ready delivery.
+- The opportunity to own meaningful work and present findings or a final project at the end of the internship.
+- Potential consideration for an internship extension based on business need and performance; an extension may be remote.
+Who Will Be Successful
+This internship is intended for someone who is technically capable, curious, self-directed, and comfortable being challenged. We are looking for an
+undergraduate, graduate or PhD student who can do the work, think critically about the work, ask strong questions, and use AI as a tool without outsourcing
+technical judgment to it.
+About Elire:
+Elire is a Certified Partner of Oracle Cloud, PeopleSoft, Kyriba, and FIS. Established in 2005, Elire is a Minneapolis-based full-service consulting firm with
+15+ years of experience in successfully completing projects for our customers all over the country. Over one hundred clients in the Public and Fortune 500
+Financial, Services, and Utilities Sectors have benefited from Elire’s hands-on guidance and knowledge.
+We help achieve success by efficiently implementing, integrating, and upgrading software investments. We employ consultants with world-class skills and
+experience. To learn more, visit our website at www.elire.com
+Elire is proud to be an Equal Opportunity Employer. We encourage all qualified candidates to apply, regardless of race, color, gender, age, religion, national
+origin, disability, marital status, sexual orientation, or veteran status.

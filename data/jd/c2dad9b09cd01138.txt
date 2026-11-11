@@ -1,0 +1,50 @@
+Overview
+Rambus, a premier chip and silicon IP provider making data faster and safer, is seeking to hire an exceptional Product Engineering Intern to join our NPI
+Product Engineering team in San Jose, CA. In this role, you will be working with some of the brightest inventors and engineers in the world developing products
+that make data faster and safer.
+As a Summer 2027 Product Engineering Intern, you’ll play a pivotal role in supporting our New Product Introduction (NPI) engineering data automation and test
+time reduction efforts for Rambus memory interface chip products. In this full-time, 12-week summer role, you’ll report directly to our Senior Manager, Product
+Engineering. Our NPI Product Engineering team is dedicated to bridging product development and high-volume manufacturing by driving test, yield, quality, and
+manufacturing readiness for new products, and your contributions will be instrumental in migrating legacy ATE NPI test data into our Silicon.DA engineering data
+platform and enabling data-driven test time reduction.
+Rambus offers a flexible work environment, embracing a hybrid approach for most office-based roles. Employees are encouraged to spend an average of at least
+three days per week onsite, allowing for two days of remote work.
+Responsibilities
+- Migrate legacy ATE NPI test data into Silicon.DA, our central NPI engineering data platform, including data cleanup, formatting, and validation of
+completeness and accuracy.
+- Collect and organize test time data from ATE test programs to support test time reduction activities.
+- Analyze test time and yield data by test, insertion, and product to help identify test time reduction opportunities, and summarize findings for the
+engineering team.
+- Develop scripts (e.g., Python or SQL) to automate data extraction, ingestion, and reporting.
+- Document data structures, workflows, and procedures so the work can be sustained after the internship.
+- Collaborate with Product, Test, and IT engineering teams, and present a final project summary at the end of the internship.
+Qualifications
+- Currently pursuing a BS or MS degree in Electrical Engineering, Computer Engineering, Computer Science, Data Science, or a related field, and returning to
+school after the internship.
+- Programming experience in Python and/or SQL for data processing and analysis.
+- Strong data analysis skills; experience with Excel, JMP, or similar data analysis tools.
+- Basic understanding of semiconductor devices and test concepts; exposure to ATE, test data formats (e.g., STDF), or semiconductor manufacturing is a plus.
+- Strong attention to detail, organization, and written and verbal communication skills.
+- Ability to work independently and as part of a cross-functional team.
+- Available to work full-time (40 hours per week) for 12 weeks during Summer 2027 in San Jose, CA.
+About Rambus
+Rambus is a global company that makes industry-leading memory interface chips and Silicon IP to advance data center connectivity and solve the bottleneck
+between memory and processing. With over 30 years of semiconductor experience, we are a leading provider of high-performance products and innovations that
+maximize the bandwidth, capacity and security for AI and other data-intensive workloads. Our world-class team is the foundation of our company, and our
+innovative spirit drives us to develop the cutting-edge products and technologies essential for tomorrow’s systems.
+Rambus offers a competitive compensation package including base salary, bonus, equity, matching 401(k), employee stock purchase plan, comprehensive medical and
+dental benefits, time-off program, and gym membership.
+The US hourly range for this full-time position is $25.80 to $47,80. Our salary ranges are determined by role, level and location. The successful candidate’s
+starting pay will be determined based on job-related skills, experience, qualifications, work location and market conditions.
+At Rambus, we are committed to fostering a workplace where every individual is respected, supported, and empowered to succeed. We value a range of perspectives
+and experiences that contribute to innovation and collaboration. Our goal is to ensure that all team members have equitable access to opportunities, resources,
+and a sense of belonging. We believe that a culture of fairness and inclusion helps us all do our best work.
+Rambus is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected
+veteran, status as an individual with a disability, genetic information, or other applicable legally protected characteristics.
+Rambus is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans during our job application
+procedures. If you require assistance or an accommodation due to a disability, please feel free to inform us in your application.
+Rambus does not accept unsolicited resumes from headhunters, recruitment agencies or fee-based recruitment services.
+For more information about Rambus, visit rambus.com. For additional information on life at Rambus and our current openings, check out rambus.com/careers/.
+#LI-HYBRID
+#LI-RF1

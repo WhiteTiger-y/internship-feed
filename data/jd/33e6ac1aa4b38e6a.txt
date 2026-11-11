@@ -1,0 +1,45 @@
+Job Description Work Arrangement:  Hybrid: This internship is categorized as on-site. The selected intern is expected to report to the office 3 days a week. 
+Location:  Sunnyvale, CA  About the Team Our Mapping organization is building next-generation mapping systems that go beyond static high-definition maps. We use
+onboard sensor data, algorithms, and machine learning to help reconstruct and maintain maps at scale. These maps support localization, perception, simulation,
+and autonomous driving. The Role We’re looking for a Software Engineering Intern to join our Mapping Engineering team. You’ll work with experienced engineers on
+a scoped project related to map data, geospatial algorithms, or mapping pipeline quality. Depending on the project, you may help process sensor-derived data,
+improve how map features are represented or validated, or evaluate methods for identifying map changes. You’ll receive guidance from a mentor and collaborate
+with partner teams such as Perception, Localization, and Simulation. This internship is an opportunity to apply your software engineering skills to real-world
+mapping challenges while learning how research and prototypes become dependable engineering systems. What You’ll Do Contribute to a well-defined mapping or
+geospatial engineering project, with support from your mentor and team. Write, test, and document code in Python and/or C++ for tasks such as geometry
+processing, map data analysis, or pipeline tooling. Explore road-network and map concepts, including lanes, intersections, boundaries, connectivity, and map
+attributes. Help analyze sensor-derived or third-party map data and investigate data quality or map consistency issues. Prototype or evaluate algorithms and
+machine-learning approaches for feature extraction, map change detection, or map quality checks, as relevant to your project. Build or improve tests, validation
+tools, metrics, and visualizations to help assess the correctness of map data or software. Share project progress, findings, and a final demo or summary with
+your mentor and teammates. Participate in code reviews, design discussions, and team learning activities. Minimum Qualifications Currently pursuing a bachelor’s
+or master’s degree in Computer Science, Electrical Engineering, Robotics, GIS, or a related technical field. Experience programming in Python or C++ through
+coursework, research, internships, or personal projects. Familiarity with core software engineering practices such as version control, testing, and writing
+readable code. Foundational understanding of data structures and algorithms. Interest in geospatial systems, robotics, autonomous vehicles, computer vision, or
+machine learning. Ability to communicate technical ideas, ask questions, and work collaboratively. Preferred Qualifications Coursework, research, or project
+experience in geospatial computing, computational geometry, robotics, computer vision, machine learning, or graph algorithms. Exposure to map or geographic data
+formats and tools such as GeoJSON, OpenStreetMap, GeoPandas, GDAL/OGR, or PostGIS. Experience working with camera, lidar, radar, point-cloud, or other spatial
+data. Experience with C++ and Python, or an interest in working across both languages. Familiarity with machine-learning workflows such as preparing datasets,
+evaluating models, or building prototypes. Prior internship, research, or team-project experience developing software collaboratively. Compensation:  The
+monthly salary range for this role is $9,600-$11,800 per month   GM will provide a one-time lump sum taxable stipend payment to eligible students selected for
+the 2027 Student Program.  What You’ll Get from Us Paid U.S. GM holidays. GM Family First Vehicle Discount Program. Potential for growth within GM based on
+performance and business needs. Intern events and opportunities to network with company leaders and peers. Mentorship and hands-on experience with the data and
+ML foundations behind autonomy About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead
+the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make a choice every day – individually and
+collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General
+Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how
+GM supports a rewarding career that rewards you personally by visiting Total Rewards resources. Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role
+and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully
+complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire. Accommodations General
+Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or
+application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting
+as well as the job title and requisition number of the position for which you are applying. We are leading the change to make our world better, safer and more
+equitable for all through our actions and how we behave. Learn more about: Our Company Our Culture How we hire Our diverse team of employees bring their
+collective passion for engineering, technology and design to deliver on our vision of a world with Zero Crashes, Zero Emissions and Zero Congestion. We are
+looking for adventure-seekers and imaginative thought leaders to help us transform mobility. Explore our global locations We are determined to lead change for
+the world through technology, ingenuity and harnessing the creativity of our diverse team. Join us to help lead the change that will make our world better,
+safer and more equitable for all by becoming a member

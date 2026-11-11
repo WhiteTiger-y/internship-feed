@@ -1,0 +1,65 @@
+Overview
+Marzetti is seeking a Human Resources Intern to join our 2027 Summer Internship Program!
+Still in school but ready to start building your career? The Marzetti Summer Internship Program gives ambitious students the opportunity to gain meaningful,
+hands-on experience while exploring where their career could take them after graduation.
+Our internship program is designed to provide real-world experience aligned with your field of interest while also giving you exposure to other key areas of
+business. You’ll contribute to meaningful work, build valuable relationships, and develop skills that extend far beyond your resume.
+The AI Solutions Intern – Human Resources will bring a technical, experimentation-focused perspective to the Human Resources team and help explore how
+artificial intelligence can improve the employee experience and the way HR work gets done.
+We are at the beginning of building our AI capabilities, creating a unique opportunity for this intern to help shape how we experiment, learn, and develop
+solutions. Working closely with the Director, HR Technology and partners across HR and IT, the intern will identify opportunities, build and test AI-enabled
+prototypes, and help establish practical approaches for using AI responsibly within the organization.
+Because our AI environment is still developing, the intern will work collaboratively with HR and IT to understand and document technical, data, security,
+access, and process constraints; identify blockers; and explore practical paths forward. Projects may involve large language models (LLMs), retrieval-augmented
+generation (RAG), Model Context Protocol (MCP), APIs, AI agents, knowledge retrieval, and workflow automation.
+Prior HR experience is not required. We will provide the business and HR context. We are looking for a student who brings hands-on AI experience, technical
+curiosity, a willingness to experiment, and the confidence to learn through testing, feedback, and iteration.
+Responsibilities → What You'll Do
+Nourish Your Career
+Over the course of our 12-week program, our interns will gain:
+- Practical Experience : Take ownership in meaningful projects and share innovative ideas to gain relevant experience in Human Resources.
+- Professional Development : Develop your professional network by connecting with colleagues, managers, and fellow interns through social activities, volunteer
+opportunities, and development sessions with company leadership.
+- Career Advancement : Potential for part-time and full-time employment based on your performance and the company’s needs.
+Essential Functions/Primary Responsibilities:
+- Explore and prototype AI solutions that improve the employee experience. Partner with HR team members to understand employee and business needs, evaluate HR
+workflows, identify high-value opportunities, and translate those opportunities into working AI prototypes or proofs of concept.
+- Build and experiment with emerging AI capabilities. Apply LLMs, RAG, APIs, MCP, and related technologies to explore solutions such as knowledge assistants,
+workflow automations, intelligent search, AI agents, or other applications that make information and HR services easier for employees to access and use.
+- Help build the foundation for AI within HR. As our AI capabilities develop, work with HR and IT to identify and document technical constraints, data
+requirements, security considerations, access needs, dependencies, and other factors that may influence how solutions are designed and implemented. Surface
+blockers early and collaborate with the appropriate partners to evaluate options and potential solutions.
+- Test, evaluate, and continuously improve solutions. Design experiments, evaluate AI outputs for accuracy, relevance, usability, and reliability, troubleshoot
+issues, gather feedback, and rapidly iterate based on what is learned. Approach unsuccessful experiments as opportunities to improve the solution and inform
+future work.
+- Document learning and enable future innovation. Clearly document solution approaches, prompts, architectures, constraints, dependencies, test results, lessons
+learned, and recommendations. Demonstrate prototypes to HR and IT stakeholders, seek feedback, incorporate different perspectives, and help establish reusable
+practices that support continued AI experimentation and development.
+Qualifications → What You'll Bring
+What You'll Bring – Must-Haves
+- Currently pursuing an undergraduate or graduate degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, Engineering, Information
+Systems, or a related technical field.
+- Hands-on experience using or building with artificial intelligence through coursework, research, hackathons, personal projects, internships, or other
+practical experience.
+- Working understanding of large language models and how they can be applied to solve business problems.
+- Familiarity with concepts such as retrieval-augmented generation (RAG), APIs, and Model Context Protocol (MCP) or similar approaches for connecting AI models
+with data, tools, and systems.
+- Ability to build, configure, test, or troubleshoot technical prototypes using the programming, development, or AI tools most appropriate to the problem; no
+specific programming language is required.
+- Strong curiosity and problem-solving skills with a willingness to try new approaches, learn from unsuccessful experiments, seek feedback, and iterate quickly.
+- Ability to work effectively in an environment where AI capabilities, processes, standards, and technical infrastructure are still evolving.
+- Ability to identify and clearly document assumptions, constraints, dependencies, technical challenges, and potential blockers.
+- Ability to communicate technical concepts and findings clearly to both technical and non-technical partners.
+- Ability to work collaboratively and responsibly with information that may be confidential or sensitive.
+HR experience is not required. The HR team will provide the business context and subject-matter expertise needed to support the intern's projects.
+Nice-to-Haves
+- Experience with OpenAI models, APIs, or development tools, or comparable generative AI platforms.
+- Experience creating LLM-powered applications, AI agents, conversational experiences, or automated workflows.
+- Exposure to prompt and context engineering, embeddings, vector databases, or enterprise knowledge retrieval.
+- Experience developing or evaluating RAG solutions.
+- Familiarity with AI evaluation approaches, test sets, output-quality measurement, or feedback loops.
+- Experience working with APIs, integrations, cloud platforms, version control, AI orchestration frameworks, or other tools used to connect and manage AI
+applications.
+- A portfolio, academic project, hackathon project, research project, or other example demonstrating how you have applied AI to solve a problem.
+Competencies
+- Demonstrates intellectual curiosity and actively seeks opportunities to learn and apply

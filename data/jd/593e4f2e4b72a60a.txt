@@ -1,0 +1,55 @@
+Session: Summer 2027
+Location: Remote - United States
+Duration: May-August 2027 (Full-Time)
+About the Company
+DwyerOmega is a globally trusted leader in manufacturing innovative instrumentation solutions for the Process Measurement, Automation, Control and HVAC markets.
+With very strong brand recognition and high levels of customer loyalty, DwyerOmega has an unmatched reputation for providing customized solutions that meet and
+exceed customer needs. Our team of engineering experts help our customers select technical, and often configured, product solutions for their unique
+applications.
+What You'll Do
+The Applied AI Intern will play a key role in the DwyerOmega AI team. The Applied AI Intern will engage in their teams to support the strategy, development and
+deployment of AI-powered solutions Inside of DwyerOmega. This internship focuses on applied AI. Building practical tools, automating workflows, analyzing data
+and prototyping AI-powered applications that drive business value. This is not a research or model-training role; the ideal candidate is a builder who can
+translate business problems into working AI solutions using modern platforms and APIs.
+Essential Job Functions:
+- Build, Extend and maintain internal AI tools and automations.
+- Support data analysis and consolidation efforts across multiple portfolio companies, helping to identify patterns, clean datasets and prepare data for AI-
+driven insights.
+- Prototype AI-powered proof-of-concept applications that address specific operational challenges within DwyerOmega’s business units.
+- Design and refine prompts, system instrucitons and AI agent configurations to improve the quality and reliability of AI-generated outputs.
+- Evaluate and recommend emerging AI tools and platforms
+- Document technical approaches, architectural decisions and usage guides to support knowledge transfer and long-term maintainability.
+Requirements
+- Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Information Systems, Software Engineering or a related technical field
+- Proficiency in Javascript/Typescript and/or python; experience with web development frameworks (React, NodeJS) is a plus
+- Hands-on experience with AI/LLM platforms and APIs (OpenAI, Google Gemini, Claude, Hugging Face or similar)
+- Familiarity with prompt engineering techniques and/or building applications that integrate large language models.
+- Strong problem-solving skills
+Work Environment
+This position operates in a remote work environment. The employee must be able to conduct company tasks in a private manner and in a space conducive to work. No
+travel is required.
+Physical Requirements
+To successfully perform the essential functions of this position, the employee must be able to:
+- Remain in a stationary position and work at a computer for extended periods of time.
+- Use hands and fingers to operate computers.
+- Communicate effectively with team members, supervisors, and other stakeholders.
+Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions of the position.
+Internship Perks
+- Work on meaningful, real-world projects.
+- Learn from experienced mentors and industry experts.
+- Develop teamwork and cross-functional collaboration skills.
+- Gain insight into business operations and how your department supports broader company goals.
+- Participate in intern-focused programming designed to support career development and networking.
+- Build your resume with a respected name in measurement.
+Please Note:
+We are an Equal Opportunity Employer, including Veterans and Individuals with Disabilities, an E-Verify employer, and a drug-free company.
+This position is not eligible for VISA sponsorship.
+As part of the recruitment process, you may be contacted by AI-enabled technology to conduct an initial screening call . The technology will ask role-related
+questions and record or transcribe your responses for review by our recruitment team.
+Pay Transparency
+We believe in transparent and equitable pay. All U.S. job postings include a good-faith salary range based on role, location, experience, and internal equity.
+We’re happy to discuss compensation openly throughout the hiring process.
+Salary Description
+$22-$30/hr
+Apply
+View All Jobs

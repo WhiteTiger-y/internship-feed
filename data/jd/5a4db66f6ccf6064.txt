@@ -1,0 +1,67 @@
+Position Overview
+The AI/ML Intern will work alongside data scientists, data engineers, and business stakeholders to support the development of artificial intelligence and
+machine learning solutions that address real-world business challenges. The intern will gain hands-on experience across the AI lifecycle, including data
+preparation, machine learning model development, generative AI applications, experimentation, model evaluation, and communicating insights to business teams.
+The role offers exposure to modern AI platforms, cloud technologies, and enterprise data environments while contributing to impactful innovation initiatives.
+Why Choose International?
+- Real-world experience: Work on projects that support AI & ML across a global enterprise.
+- Mentorship: Learn from experienced technology professionals.
+- Networking: Connect with leaders, team members, and fellow interns across Information Technology.
+- Professional growth: Develop technical, analytical, and communication skills that will help launch your career.
+- Culture: Participate in team-building activities, intern events, and collaborative projects.
+Duration: Summer 2027 (12 Weeks – May through August). Must be able to work full 12-week period.
+Location: Role based in our Lisle, Illinois headquarters. In office Mon-Thurs, WFH Friday.
+Responsibilities
+- Assist with machine learning, predictive analytics, and generative AI projects.
+- Support data exploration, feature engineering, model development, testing, and evaluation.
+- Explore and prototype AI solutions using enterprise AI and cloud platforms.
+- Partner with data scientists, engineers, and business teams to identify opportunities for AI-driven improvements.
+- Contribute to prompt engineering, AI experimentation, and responsible AI practices.
+- Help document findings, present recommendations, and communicate results to both technical and non-technical audiences.
+Minimum Requirements
+- Pursuing a Bachelor’s or Master’s degree
+OR
+- For Legal Jobs: Pursuing a Juris Doctor degree or Doctor of Law degree (J.D.)
+Additional Requirements
+- Qualified candidates, excluding current employees, must be legally authorized on an unrestricted basis (US Citizen, Legal Permanent Resident, Refugee or
+Asylee) to be employed in the United States. does not anticipate providing employment related work sponsorship for this position (e.g., H-1B or F-1 status)
+Desired Skills
+- Preferred majors - Data Science, Computer Science/Engineering, Software Engineering, Mathematics, Physics, Economics, Statistics, or a related
+quantitative/technical field
+- The ideal candidate is curious, analytical, and passionate about emerging AI technologies.
+- They should have a foundational understanding of machine learning, data analytics, statistics, and programming, with an interest in applying AI responsibly to
+solve complex business problems.
+- Strong collaboration, communication, and problem-solving skills are highly valued.
+Benefits and Compensation
+This position offers competitive pay to support employees as they gain real world experience and grow professionally. The hourly pay range is $27–$32 per hour.
+Benefits offered for intern and co op positions are limited to paid time off (PTO) and paid company holidays during the assignment.
+Company Overview
+About TRATON
+With its brands Scania, MAN, International, and Volkswagen Truck & Bus, TRATON SE is the parent and holding company of the TRATON GROUP and one of the world’s
+leading commercial vehicle manufacturers. The Group’s product portfolio comprises trucks, buses, and light-duty commercial vehicles. “Transforming
+Transportation Together. For a sustainable world.”: this intention underlines the Company’s ambition to have a lasting and sustainable impact on the commercial
+vehicle business and on the Group’s commercial growth.
+About International
+From a one-man company built on the world-changing invention of the McCormick reaper in 1831, to the 15,000-person-strong company we are today, few companies
+can lay claim to a history like International. Based in Lisle, Illinois, International Motors, LLC* creates solutions that deliver greater uptime and
+productivity to our customers throughout the full operation of our commercial vehicles. We build International® trucks and engines and IC Bus® school and
+commercial buses that are as tough and as smart as the people who drive them. We also develop Fleetrite® aftermarket parts. In everything we do, our vision is
+to accelerate the impact of sustainable mobility to create the cleaner, safer world we all deserve. As of 2021, we joined Scania, MAN and Volkswagen Truck & Bus
+in TRATON GROUP, a global champion of the truck and transport services industry. To learn more, visit International.com .
+*International Motors, LLC is d/b/a International Motors USA in Illinois, Missouri, New Jersey, Ohio, Texas, and Utah.
+EEO Statement
+We are an Equal Opportunity Employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity,
+national origin, disability, veteran status, and other legally protected characteristics.
+If you are a qualified individual with a disability and require a reasonable accommodation to access the online application system or participate in the
+interview process due to your disability, please email  HUB@International.com  to request assistance. Kindly specify Job Requisition Number / Job Title and
+Location in response. Otherwise, your request may not be considered.
+- Assist with machine learning, predictive analytics, and generative AI projects.
+- Support data exploration, feature engineering, model development, testing, and evaluation.
+- Explore and prototype AI solutions using enterprise AI and cloud platforms.
+- Partner with data scientists, engineers, and business teams to identify opportunities for AI-driven improvements.
+- Contribute to prompt engineering, AI experimentation, and responsible AI practices.
+- Help document findings, present recommendations, and communicate results to both technical and non-technical audiences.
+- Pursuing a Bachelor’s or Master’s degree
+OR
+- For Legal Jobs: Pursuing a Juris Doctor degree or Doctor of Law degree (J.D.)
+UNAVAILABLE
