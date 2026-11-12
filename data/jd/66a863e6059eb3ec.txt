@@ -1,0 +1,68 @@
+Job Id: 6213
+As an Insights Analyst Intern on the League of Legends team, you will help game developers better understand players and make data-informed decisions that
+improve the League experience. You'll work with game data to analyze player behavior, track game health and product performance, and translate findings into
+clear, actionable insights through reports, dashboards, and presentations.
+The Insights discipline helps empower Rioters' decision-making to be more data-informed. We're an interdisciplinary group of scientists, consultants,
+researchers and strategists from all sorts of backgrounds who join together to represent and advocate for gamers around the world. We believe that illuminating
+the globally diverse experiences, behaviors, and needs of gamers is essential to Riot living up to our player-focused mission. We're a group united by our love
+of games, science, and helping others succeed.
+Responsibilities:
+- Analyze League of Legends player behavior and game performance: Use data to explore player engagement, gameplay patterns, and interactions with game features
+and content.
+- Build reports and dashboards: Create and maintain data visualizations using Tableau or similar tools to help teams monitor key metrics, identify trends, and
+understand game performance.
+- Turn data into actionable insights: Interpret analytical findings, identify meaningful patterns, and communicate what they mean for players and the game.
+- Present analytical findings: Develop clear presentations and visual storytelling to share insights with stakeholders from both technical and non-technical
+backgrounds.
+- Collaborate with cross-functional teams: Work with other analysts, researchers, game developers, and partners to understand business questions, explore data,
+and support data-informed decision-making.
+- Learn and grow your analytical craft: Develop your technical and analytical skills through hands-on projects, mentorship, and exposure to the challenges of
+operating a live game.
+Required Qualifications:
+- Currently enrolled in an MBA or graduate degree program (Master's or Ph.D.) in Business Analytics, Data Analytics, Computer Science, Statistics, Mathematics,
+Economics, or a related field.
+- Graduating during the 2028 calendar year
+- Available to work full-time hours for the 12 week internship duration
+- Foundational knowledge of statistics and analytical methods, with the ability to interpret data, identify trends, and draw meaningful conclusions.
+- Strong analytical and problem-solving skills, with curiosity to explore questions and learn new approaches.
+- Eagerness to learn, openness to feedback, and the ability to collaborate effectively with others.
+- Experience creating reports or presentations that communicate data and findings clearly to an audience, through academic projects, internships, or
+professional experience.
+- Proficiency in SQL, including querying, joining, and aggregating data to answer analytical questions.
+Desired Qualifications:
+- Experience using Tableau or other data visualization tools to build dashboards, reports, or interactive visualizations.
+- Experience using Sparks, Python or another programming language for data analysis.
+- Experience working with large datasets to answer business, product, or player behavior questions through coursework, personal projects, or internships.
+- Experience with AI-assisted analytical workflows, such as using AI tools to support data exploration, develop reports, or build dashboards.
+- Familiarity with League of Legends' ecosystem, including its gameplay, player communities, and live-service content.
+Work Authorization
+- Candidates must be legally authorized to work in the United States for the duration of the program.
+- This position is not eligible for visa sponsorship. We do not sponsor visas for this position or internship conversions.
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be
+looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about the experiences of players,
+this could be the role for you!
+Applications close Friday, January 4th, 2027 at 11:59pm PT
+Our Perks:
+Riot Internships are paid, and interns can also participate in our 401(k) plan. You can expect in-game perks, and the ability to participate in our Play Fund,
+so you can broaden and deepen your knowledge of our players and community through games. The University Recruiting team also invites you to intern focused
+events so you can connect with your fellow interns and Rioters to make the most out of your experience.
+Riot Games fosters a player and workplace experience that values teamwork embodied by the Summoner's Code and Community Code . Our culture embraces differences
+as a strength, and our values are the guiding principles for how we approach work. We are committed to putting diversity and inclusion (D&I) at the center of
+everything we do and promoting a fair and collaborative culture where Rioters treat one another with dignity and respect. We encourage you to read more about
+our value of thriving together and our ongoing work to build the most inclusive company in Gaming .
+(Remote Only) The hourly rate for this internship is USD $54.23
+Apply
+\n \n
+","dateCreated":"2017-10-16T10:40:47.363Z","flag":"bac016efc815d6d8c44d83f1e9775018","slug":"en","languageCode":"en_US","translations":{"ArticleDateFormat":"MMM
+D, YYYY","TourDateFormat":"MMM D,
+YYYY","HeaderSupportButton":"Support","HeaderSearchButton":"Search","HeaderExploreButton":"News","HeaderToggleMenuA11y":"Toggle
+menu","HeaderSearchA11y":"Search","HeaderCloseSearchA11y":"Close Search","MainNavigationSupportUrl":"https://support.riotgames.com","MainNavigationExploreUrl":"
+/news","MainNavigationSearchUrl":"/search","NavAriaLabel":"Primary Navigation","FooterToTheSurfaceText":"To the
+Surface","FooterLeagueOfLegendsUrl":"http://na.leagueoflegends.com","FooterLeagueOfLegendsLinkText":"League of Legends","FooterCopyrightText":"© 2026 Riot
+Games, Inc. All Rights Reserved.","FooterCookiePreferences":"Cookie Preferences","ExploreCarouselItemViewArticleText":"See
+More","ExploreCarouselItemAllLatestText":"All Latest","HeroScrollToExploreText":"Scroll To Explore","LiveStreamMediaCaptionType":"Live
+Stream","VideoMediaCaptionType":"Video","VideoOverlayWatchingText":"Watching","DisciplineListLearnMoreText":"Learn More","FaqSelectorLinkText":"View All
+Questions","ConnectWithUsHeader":"Connect With Us","DisciplineGridViewFilter":"Filter by","DisciplineGridViewFilterAllOption":"All
+Categories","WidgetOpenPositions":"Open Positions:","WidgetInlineImageViewFull":"View full size image","FilterBarGridView":"Grid View","FilterBarListView":"List
+View","NoFilterResults":"No results found for your current filter.","OfficeGridFilter":"Filter by","OfficeGridFilterAllOption":"All
+Regions","DisciplineOfficeHeroOpeningsView":"View all openings","

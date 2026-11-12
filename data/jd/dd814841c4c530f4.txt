@@ -1,0 +1,36 @@
+2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments Department Summary Product Development Data Sciences at Genentech is a group of over 1000
+data scientists across multiple global sites. We deliver data and insights about our medicine with excellence and passion. Our mission is to unlock the full
+potential of data to accelerate innovative healthcare solutions for patients and society. This internship position is located in South San Francisco, on-site.
+The Opportunity Multiple opportunities are available, with research interests in the following areas: Innovation: Driving proof of concept work to explore the
+usage of new software or programming language in a component of our work. Algorithm development: develop, refactor and evaluate models with multi-modal data
+including clinical data and medical images. The algorithms serve direct relevance to ongoing clinical drug development needs in diverse therapeutic areas such
+as oncology, immunology, ophthalmology, neuroscience, cardiovascular, renal, and metabolism. AI research: Suggesting and implementing new methodologies in
+machine learning and deep learning for data exploration and algorithm development. Clinical Outcome Assessments: Explore measurement problems related to the
+development, analysis, and display of Patient-Reported Outcome data. Program highlights Intensive 12-week, full-time (40 hours per week) paid internship.
+Program start dates are in May/June (Summer). A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership
+of challenging and impactful business-critical projects. Professional & personal development curriculum throughout the program, including networking
+opportunities, workshops, and panel discussions. Work with some of the most talented people in the pharmaceutical industry. Final presentations of project work
+to senior leadership. Participate in volunteer projects, social events, and team-building activities. Who You Are Required Education Bachelor’s degree
+(required). Must also meet at least one of the following: Must be pursuing a Master's Degree (enrolled student). Must have attained a Master's Degree within the
+last 2 years. Must be pursuing a PhD (enrolled student). Required Majors Computer Science, Electrical Engineering, Bio/Biomedical Engineering, Mathematics,
+Computational Biology, Biotechnology, Psychometrics, Statistics, Biostatistics, Data Science, or related fields. Required Skills Algorithm development, Data
+Science, R or Python Programming, Statistical Modeling, Data Analysis Experience. Preferred Knowledge, Skills, and Qualifications Fundamental training in
+statistical and data science methods; familiarity with clinical trial statistical knowledge is a plus. Strong programming skills, particularly in R; experience
+with software development workflow, including versioning and code collaboration with Git. Excellent communicator and team player; comfortable explaining complex
+technical topics to non-technical audiences. Experienced problem solver capable of seeking help when needed. Passion for learning and curious about drug
+development in the pharmaceutical biotechnology industry. Hands-on experience in evaluating, developing, and deploying AI agents and agentic workflows (e.g.,
+leveraging LLMs and automated data processing tools) to enhance and streamline analytical and software pipelines. Relocation benefits are not available for this
+job posting. The expected salary range for this position based on the primary location of California is $34.00-$52.00 per hour. Actual pay will be determined
+based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off
+benefits. #PDD-SSF Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and
+applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to,
+discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws. If you
+have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for
+Applicants. Who We Are Genentech, a member of the Roche group and founder of the biotechnology industry, is dedicated to pursuing groundbreaking science to
+discover and develop medicines for people with serious and life-threatening diseases. To solve the world's most complex health challenges, we ask bigger
+questions that challenge our industry and the boundaries of science to transform society. Our transformational discoveries include the first targeted antibody
+for cancer and the first medicine for primary progressive multiple sclerosis. The next step is yours. To apply today, click on the "Apply for this job" button.
+Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the
+basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the
+basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws. If you have a disability and
+need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.

@@ -1,0 +1,28 @@
+This role will provide an opportunity to contribute towards key projects and analysis that are important to our business. Contributions include coordination of
+small projects, leading project tasks, documenting processes, providing ad-hoc analysis, and supporting efforts to build and maintain business processes,
+systems, and data. Subject matter experts will provide guidance to help resolve complex problems. The Martin Marietta Summer GIS Internship provides students
+with meaningful, hands-on experience applying Geographic Information Systems (GIS) within the aggregates mining industry. This approximately 10-week program
+offers the opportunity to apply classroom knowledge to real-world projects while developing technical, analytical, problem-solving, and operational skills.
+Working alongside experienced GIS professionals, geologists, engineers, and other mining professionals, GIS Interns gain exposure to geospatial data management,
+mapping, spatial analysis, data visualization, and other GIS applications that support Martin Marietta's operations. Interns contribute to projects that help
+improve data accuracy, support resource evaluation, enhance operational decision-making, and provide valuable insights across the business. Key Responsibilities
+Follow and promote Martin Marietta's safety, environmental, and ethical standards in all work activities. Assist with Enterprise GIS data development and
+content delivery projects. Contribute to the development and maintenance of Enterprise GIS datasets related to property boundaries, ownership, zoning, and land
+use. Integrate property records from various sources (deeds, plats, tax records) into GIS datasets. Collect, clean, and maintain geospatial datasets from
+various sources (e.g., satellite imagery, GPS, surveys). Assist with the development and implementation of workflow automation for repeatable geoprocessing
+tasks. Support the design and production of high-quality maps, applications, and visualizations for reports and presentations. Perform all responsibilities in
+accordance with the Company's Mission, Vision, Values, policies, procedures, and Code of Ethical Business Conduct. Qualifications Currently pursuing a
+bachelor's or master's degree in: Geographic Information Systems, Geographic Information Science, Geospatial Data Science or Analytics, or a closely related
+field with a GIS Minor/Certificate/Concentration Coursework in GIS Fundamentals using ArcGIS Pro completed prior to the internship. Valid driver's license.
+Strong analytical, organizational, and problem-solving skills. Strong verbal and written communication skills. Proficiency with Microsoft Office applications.
+Ability to learn technical processes and adapt to a fast-paced work environment. Why Martin Marietta? At Martin Marietta, we invest in developing future
+leaders. Our GIS Internship provides meaningful work, experienced mentors, and exposure to one of the nation's leading aggregates companies. Interns gain
+valuable industry experience while building relationships and technical skills that can lead to future internship opportunities and full-time positions after
+graduation. If you're looking for an opportunity to learn, grow, and help build the foundations of America's infrastructure, we encourage you to apply. Every
+member of our ONE Martin Marietta team is driven by our shared values of safety, integrity, excellence, community and stewardship. We are a member of the S&P
+500 Index and a leading supplier of aggregates and heavy building materials. Through a network of operations spanning 29 states, Canada and the Bahamas, our
+teammates supply the foundational resources on which our communities thrive and grow. Our Specialties business provides high-purity magnesia and dolomitic lime
+products used worldwide in environmental, industrial, agricultural and specialty applications. In a world that's focused on the power of many, we believe in the
+power of ONE – the magic of bringing together our unique perspectives, experiences and talents to evolve a shared vision and future. Our backgrounds may vary,
+but our voices come together in support of the same goals. We want to build legacies for ourselves and our loved ones, strengthen our communities and safely and
+responsibly engage in work we know will make a difference.

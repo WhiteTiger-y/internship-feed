@@ -1,0 +1,60 @@
+connections that make your experience well-rounded and enriching. Your time with us will culminate in an opportunity to showcase your contributions and
+learnings to SharkNinja leaders because this is a program for those ready to shape what’s next — fast.
+This Role: Data Science Internship
+Do you love solving problems with data? Are you excited by the opportunity to use machine learning, statistics, and experimentation to shape smarter products
+and better business decisions? If so, the Data Science Internship at SharkNinja is for you.
+As part of our data science team, you’ll gain hands-on experience applying statistical modeling, machine learning, and data storytelling to real-world problems.
+You’ll work closely with data engineers, analysts, and product stakeholders to turn data into actionable insights that drive product innovation and customer
+impact.
+Key Responsibilities
+During your time at SharkNinja, you’ll contribute to:
+- Model Development & Prototyping
+Build and test machine learning models on real product and business datasets.
+- Data Wrangling
+Clean, explore, and transform data using Python, SQL, and common data science libraries.
+- Visualization & Storytelling
+Create dashboards and visualizations that make insights clear to technical and non-technical stakeholders.
+- Collaboration
+Partner with engineers, analysts, and business teams to define data science opportunities and translate results into impact.
+- Learning Modern Tools
+Gain exposure to AI ML tools and platforms
+Attributes & Skills
+- Education: Currently enrolled in a bachelor’s or master’s program in Data Science, Computer Science, Statistics, Applied Math, or a related field.
+- Must be able to work a full-time, 40-hour-per-week schedule with a minimum of # DAYS per week onsite in TOWN, STATE.
+- Proficiency in Python and working knowledge of SQL.
+- Exposure to data science libraries
+- Strong foundation in statistics, probability, and data analysis.
+- Intellectual curiosity with a problem-solving mindset and attention to detail.
+- Ability to explain analytical results clearly and collaborate with diverse stakeholders.
+- Experience with data visualization tools (Power BI, Tableau, or matplotlib/seaborn/Plotly) is a plus.
+- Familiarity with cloud data platforms or big data tools is desirable.
+Please note that, due to the high volume of applications for early talent roles, response times may vary depending on the specific role and timeline. Our team
+appreciates your patience!
+Salary and Other Compensation: The hourly salary range for this position is displayed below. Factors which may affect starting pay within this range may include
+geography/market, skills, education, experience and other qualifications of the successful candidate.
+The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, health savings account (HSA)
+with company contribution, sick time, company holidays, employee product discount, product testing opportunities, referral bonuses, and more.
+Hourly Pay Range
+$26 - $33 USD
+Our Culture
+At SharkNinja, we don’t just raise the bar—we push past it every single day. Our Outrageously Extraordinary mindset drives us to tackle the impossible, push
+boundaries, and deliver results that others only dream of. If you thrive on breaking out of your swim lane, you’ll be right at home.
+What We Offer
+We offer competitive health insurance, retirement plans, paid time off, employee stock purchase options, wellness programs, SharkNinja product discounts, and
+more. We empower your personal and professional growth with high impact Learning Programs featuring bold voices redefining what’s possible. When you join,
+you’re not just part of a company—you’re part of an outrageously extraordinary community. To gether, we won’t just launch products— we’ll disrupt entire
+markets.
+At SharkNinja, Diversity, Equity, and Inclusion are vital to our global success. Valuing each unique voice and blending all of our diverse skills strengthens
+SharkNinja’s innovation every day. We support ALL associates in bringing their authentic selves to work, making an impact, and having the opportunity for career
+acceleration. With help from our leadership, associates, and our community, we aim to have equity be a key component of the SharkNinja DNA.
+Learn more about us:
+Life At SharkNinja
+Outrageously Extraordinary
+SharkNinja Candidate Privacy Notice
+For candidates based in all regions , please refer to this Candidate Privacy Notice .
+For candidates based in China , please refer to this Candidate Privacy Notice .
+For candidates based in Vietnam , please refer to this Candidate Privacy Notice .
+We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran
+status, disability, or any other class protected by legislation, and local law. SharkNinja will consider reasonable accommodations consistent with legislation,
+and local law. If you require a reasonable accommodation to participate in the job application or interview process, please contact SharkNinja People & Culture
+at accommodations@sharkninja.com

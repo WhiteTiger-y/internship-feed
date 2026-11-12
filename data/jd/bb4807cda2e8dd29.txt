@@ -1,0 +1,43 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
+sciences.
+This is a paid 12-week internship opportunity and is a hybrid, in-office role.
+Here’s a glimpse into the Internship experience from some of our TRI interns!
+Responsibilities
+- Define a focused research question and experimental plan with your mentor, informed by your interests and the team’s research priorities.
+- Develop methods in one or more relevant areas, such as multimodal agents, generative policies, world models, simulation, or learning from interaction.
+- Build research prototypes using open-source datasets, large-scale Toyota driving data, the team’s closed-loop simulation infrastructure
+- Design experiments and evaluate generalization, robustness, efficiency, or closed-loop behavior, as relevant to the project.
+- Collaborate with TRI researchers and engineers to analyze results, investigate failure modes, and refine the research approach.
+- Communicate findings through reproducible experiments, research presentations, and technical writing, including publication contributions where appropriate.
+Qualifications
+- Currently pursuing a Ph.D. or master’s degree in Computer Science, Robotics, Machine Learning, Artificial Intelligence, Electrical Engineering, or a related
+field.
+- Proficiency in Python and ML frameworks such as PyTorch for implementing and evaluating research ideas, along with an understanding of version control,
+testing, and software engineering fundamentals.
+- Research experience in one or more of the following: computer vision, natural language processing, generative modeling, reinforcement learning
+- Demonstrated research ability, such as publications, preprints, or substantial independent research projects.
+- Ability to work independently on an open-ended research problem, and to communicate methods and results clearly.
+- Able to work in a hybrid in-office arrangement at TRI’s headquarters in Los Altos, California, for the full 12-week internship.
+Bonus Qualifications
+- Experience with driving or robotics simulators such as CARLA or with neural rendering.
+- Experience with language or vision-language models, agent systems, or multimodal reasoning.
+- Experience with diffusion or flow models, generative policies, video generation, or world models.
+- Experience working with real-world sensor data, such as video, lidar, IMU, or radar.
+- Experience with autonomous driving, robotics, simulation, or closed-loop learning and evaluation.
+- Publications at venues such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, CoRL, ICRA, RSS
+The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles. Base pay offered will
+depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI
+offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional
+details regarding these benefit plans will be provided if an employee receives an offer of employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status
+protected under federal, state or local laws.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with
+arrest and conviction records for employment.

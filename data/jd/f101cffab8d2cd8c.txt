@@ -1,0 +1,59 @@
+- Portfolio, website, GitHub, research publication, or other collection of original work.
+- Experience working on a video game or related project, particularly in Unity or Unreal Engine.
+- An interest in applying machine learning to either enhancing player experiences or to ensuring competitive integrity through cheat detection.
+Work Authorization
+- Candidates must be legally authorized to work in the United States for the duration of the program.
+- This position is not eligible for visa sponsorship. We do not sponsor visas for this position or internship conversions.
+For this role, you’ll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We’ll consider
+your studies and experience, as well as your personal relationship with games. If you embody player empathy and care about players’ experiences, this could be
+the role for you!
+Applications close January 4th, 2027
+Our Perks
+Riot Internships are paid, and interns can also participate in our 401(k) plan. You can expect in-game perks and the ability to participate in our Play Fund, so
+you can broaden and deepen your knowledge of our players and community through games. The University Recruiting team also invites you to intern-focused events
+so you can connect with your fellow interns and Rioters and make the most of your experience.
+Riot Games fosters a player and workplace experience that values teamwork embodied by the Summoner’s Code and Community Code. Our culture embraces differences
+as a strength, and we are committed to promoting a fair and collaborative culture where Rioters treat one another with dignity and respect. We encourage you to
+read more about our value of thriving together and our ongoing work to build the most inclusive company in gaming.
+It’s our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for
+handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or
+expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state
+law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and
+local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance
+Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+- Safeguarding confidential and sensitive Company data
+- Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+- Accessing Company assets, secure digital systems, and networks
+- Ensuring a safe interactive environment for players and other Rioters
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may
+evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security.
+(Remote Only) The hourly rate for this internship is USD $80.77
+Apply
+\n \n
+","dateCreated":"2017-10-16T10:40:47.363Z","flag":"bac016efc815d6d8c44d83f1e9775018","slug":"en","languageCode":"en_US","translations":{"ArticleDateFormat":"MMM
+D, YYYY","TourDateFormat":"MMM D,
+YYYY","HeaderSupportButton":"Support","HeaderSearchButton":"Search","HeaderExploreButton":"News","HeaderToggleMenuA11y":"Toggle
+menu","HeaderSearchA11y":"Search","HeaderCloseSearchA11y":"Close Search","MainNavigationSupportUrl":"https://support.riotgames.com","MainNavigationExploreUrl":"
+/news","MainNavigationSearchUrl":"/search","NavAriaLabel":"Primary Navigation","FooterToTheSurfaceText":"To the
+Surface","FooterLeagueOfLegendsUrl":"http://na.leagueoflegends.com","FooterLeagueOfLegendsLinkText":"League of Legends","FooterCopyrightText":"© 2026 Riot
+Games, Inc. All Rights Reserved.","FooterCookiePreferences":"Cookie Preferences","ExploreCarouselItemViewArticleText":"See
+More","ExploreCarouselItemAllLatestText":"All Latest","HeroScrollToExploreText":"Scroll To Explore","LiveStreamMediaCaptionType":"Live
+Stream","VideoMediaCaptionType":"Video","VideoOverlayWatchingText":"Watching","DisciplineListLearnMoreText":"Learn More","FaqSelectorLinkText":"View All
+Questions","ConnectWithUsHeader":"Connect With Us","DisciplineGridViewFilter":"Filter by","DisciplineGridViewFilterAllOption":"All
+Categories","WidgetOpenPositions":"Open Positions:","WidgetInlineImageViewFull":"View full size image","FilterBarGridView":"Grid View","FilterBarListView":"List
+View","NoFilterResults":"No results found for your current filter.","OfficeGridFilter":"Filter by","OfficeGridFilterAllOption":"All
+Regions","DisciplineOfficeHeroOpeningsView":"View all openings","OfficeHeroViewAllOpenPosition":"View all {$count} open
+position","OfficeHeroViewAllOpenPositions":"View all {$count} open positions","JobListDisciplineFilter":"Select a
+Discipline","JobListSubDisciplineFilter":"Select a Sub Discipline","JobListOfficeFilter":"Select an Office","JobListProductFilter":"Select a Product
+Team","JobListCraftFilter":"Select a Craft","JobListNoResults":"No jobs found for your current filters.","JobListSearchPlaceholder":"Search Job Titles or Job
+ID","JobHeroAdditionalLocations":"Additional Locations","ExploreFilterText":"Show Me","ExploreFilterAllText":"Everything","LoadMoreText":"Load
+More","NewsfeedTitle":"Newsfeed","NewsfeedBack":"Back to Newsfeed","SearchBarText":"Search
+RiotGames.com","SearchBarLabel":"Search","SearchNoQueryNoResultsText":"Search RiotGames.com","SearchResultsCounter":"Results","SearchNoResults":"I don’t think
+that’s here, did Teemo hide it in a bush?","SearchNoQueryHeader":"Search","SearchNavigationBackToResults":"Back to All Results","SearchSectionJobs":"Jobs","Sear
+chSectionNews":"News","SearchSectionSections":"More","SearchSectionDisciplines":"Disciplines","SearchSectionViewAll":"View
+All","FilterBarOverlayFilterText":"Filter by","FilterBarIconAltText":"Close filters","LanguageSelectorHeader":"Language Selector","LanguageSelectorText":"Select
+your language","CloseButtonA11y":"Close","CloseFiltersButtonA11y":"Close filters","ManifestoItemMoreInformationA11y":"More
+Information","RelatedContentReadMore":"Read More","SocialA11yFacebook":"Follow us on Facebook","SocialA11yTwitter":"Follow us on
+Twitter","SocialA11yYouTube":"Watch on YouTube","SocialA11yWeibo":"Find us on Weibo","SocialShareA11yReddit":"Share this on
+Reddit","SocialShareA11yFacebook":"Share this on Facebook","SocialShareA11yTwitter":"Share this on Twitter","SocialShareA11yEmail":

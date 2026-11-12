@@ -1,0 +1,57 @@
+Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2
+billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect
+with communities in a more authentic way.
+The Community You Will Join:
+Airbnb is seeking an Advanced Analytics Intern to join the Finance Data Science & Strategy team within the Finance organization for the 2027 Summer Intern
+Program.
+The Finance Data Science & Strategy team builds the statistical models behind Airbnb’s top line forecast and explains how the business performs against it. The
+work runs as a loop. We figure out where actuals differ from forecast and why, share the answer with partners across Finance and the business, and feed what we
+learned into the next version of the forecast, so each cycle starts from a better baseline than the last.
+We are looking for someone curious about business and data, who can understand both the ‘what’ and the ‘why’ behind a number and help translate them into
+decisions. An ideal candidate would have some familiarity with analytical methodologies, BI tooling, and business communication.
+The Difference You Will Make:
+As an Advanced Analytics Intern on our team, you’ll help explain how the business performed against the forecast and use what you find to improve it. You’ll
+have the opportunity to:
+- Build comprehensive and high quality analyses of how the business is performing against the forecast, and explain what drove the difference
+- Work with the team’s data scientists to turn those findings into improvements in the next version of the forecast
+- Communicate findings clearly to partners across Finance and the business, in written readouts and recurring reviews
+A Typical Day:
+During your internship you’ll be integrated into a team where you’ll contribute to challenging projects. Your manager, team, and our incredible employee
+community will strive to be superhosts to you during the summer. We provide the support, mentorship, fun, and real world experience needed to accelerate your
+learning and make a real impact on our business, as Airbnb revolutionizes connection, belonging, and travel. You’ll be expected to:
+- Own and complete a capstone project from beginning to end
+- Collaborate with multiple team members to achieve project milestones
+- Communicate with stakeholders across different teams to provide project updates
+- Seek and provide feedback throughout the internship
+- Actively participate in and contribute to the Finance Data Science & Strategy team and broader Airbnb community
+Your Expertise:
+This opportunity is for full-time students completing a Master’s degree in a quantitative field (e.g. Data Science, Mathematics, Analytics, Statistics,
+Econometrics, etc.) with at least one semester of school remaining after the internship.
+- Proficient in communication and collaboration, with the ability to effectively engage with diverse teams and individuals
+- Skilled in conducting thorough and inclusive analyses, ensuring that findings are communicated clearly to both technical and non-technical audiences.
+- Possesses robust data, statistical analysis, and analytics skills, contributing to a comprehensive understanding of complex datasets.
+- Substantial experience in SQL, along with a solid foundation in at least one programming language (Python or R)
+- Preferred (not required): Familiarity with forecasting, time series, and/or A/B testing
+- Demonstrated interest in high growth, technology, and/or hospitality companies
+- Work authorization for employment in the United States is required (CPT/OPT with 2-year STEM extension is accepted)
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While
+the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states.
+This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another
+Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Equal Employment Opportunity :
+Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered
+without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender
+identity, gender expression, sexual orientation, or any other legally protected characteristic.
+How we’ll take care of you:
+Our job titles may span more than one career or degree level. This role may also be eligible for benefits and Employee Travel Credits.
+Pay Range
+$40 — $40 USD
+Reasonable Accommodations: We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you
+need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+A Note on Recruiting Scams: Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be
+true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @
+airbnb.com or @ ext.airbnb.com email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app
+information while you are interviewing. We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as
+a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you
+do not believe an individual is actually affiliated with Airbnb.

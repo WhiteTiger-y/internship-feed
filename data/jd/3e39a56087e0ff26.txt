@@ -1,0 +1,10 @@
+Working alongside other data scientists, engineers, and product managers, you'll turn product questions into analyses, build models and metrics, and share
+insights that shape what CoreAI builds next. Take ownership of product and business questions, break them down into clear analyses, and choose the right data,
+methods, and algorithms to answer them. Build an understanding of CoreAI products and the customers who use them, and use that context to make your analyses
+relevant and actionable. Explore large datasets, such as product usage data, to find trends, surface new questions and opportunities, and understand what the
+data can and can't tell us. Design and analyze experiments, such as A/B tests, to measure the impact of product changes and help teams decide what to ship.
+Analyze and validate results, and build metrics, dashboards, and automated reports or data pipelines to track outcomes over time. Partner with engineers,
+product managers, and other data scientists to share clear, compelling insights that help improve products and services used by millions of customers.
+Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field OR equivalent
+experience. Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field OR
+Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field

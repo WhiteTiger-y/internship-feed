@@ -1,0 +1,21 @@
+Data Science & AI Analytics - Summer 2027 Internship Program Data Science & AI Analytics Intern Team: Data Engineering & Analytics About the role Our Data
+Engineering & Analytics team builds the data, reporting and AI that help Panera run its cafés and serve its guests. As an intern, you will work on real projects
+with real business impact, not side assignments. You will work alongside our data engineers, BI developers and analytics partners, and you will present what you
+built to leadership at the end of the internship. What you’ll work on Demand forecasting: Help measure how accurate our sales and transaction forecasts are,
+compare models against a baseline, and explain the results in plain English. Conversational analytics and AI agents: Explore how conversational analytics and AI
+agents on Looker can help business users get answers from our data faster. Predictive and prescriptive analytics: Help build and test predictive and
+prescriptive analytics that go beyond reporting what happened to recommending what to do next. Data quality and governance: Profile key datasets, flag gaps or
+anomalies, and help document KPI definitions so everyone uses the same numbers. Insights and storytelling: Turn analysis into clear visuals and recommendations
+for business stakeholders. What we are looking for Must have Pursuing a degree in Data Science, Analytics, Computer Science, Statistics, MIS or a related field
+Working knowledge of SQL and Python Coursework or projects in statistics or machine learning Curiosity, ownership, and the ability to explain technical work
+simply Nice to have Exposure to a cloud data platform (BigQuery, etc.) Experience with Looker or Power BI Familiarity with time-series forecasting Interest in
+restaurants, retail or consumer businesses The actual pay offered will be determined by multiple factors, including but not limited to the candidate’s relevant
+experience, job-related knowledge, skills, and geographical location. Individual compensation decisions are dependent upon the facts and circumstances of each
+position and candidate. Newton Support Center With more than 2,000 Panera LLC and independent franchise bakery-cafes in the Panera Bread® family, and more
+locations opening all the time, it’s no wonder our company has been an excellent source of career and personal growth opportunities for more than 25 years. In
+neighborhoods across the U.S. and Canada, customers enjoy flavorful, handcrafted meals centered around freshly baked artisan bread. To us, that means serving
+food like we serve our own families – free of any of the items on our ‘No No’ List. Along the way, we also like to give back to our community. We enjoy working
+together, shoulder to shoulder with our customers, to confront a serious problem plaguing communities across this country – Hunger. Through our Panera Cares
+community cafes, we offer a dignified dining experience in an uplifting environment. In addition, we support our communities through day-end donations at our
+bakery-cafe locations and partner with local non-profit organizations. It’s this warmth that you’ll find when you join Panera Bread. From our competitive
+compensation and benefits packages to our unique cultural values, we’re confident you’ll find us a rewarding and fun place to work.

@@ -1,0 +1,53 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
+sciences.
+This is a paid 12-week internship opportunity and is a hybrid, in-office role.
+Here’s a glimpse into the Internship experience from some of our TRI interns!
+The Team
+The Prototyping and Research Operations (PROps) team supports and operationalizes TRI’s robotics research to succeed at scale in laboratory and deployment
+environments. We work across engineering and operations disciplines to develop robot hardware and testing setups, as well as operate and deploy robotic research
+systems to collect data for researchers. Our team administers the two prototyping laboratories within TRI and uses those facilities to prototype research
+hardware.
+The Internship
+The intern who joins our team will have the opportunity to contribute to the work of our various research support projects and the daily tasks that keep our
+researchers productive by:
+Maintaining and improving the lab: This will include working with the lab manager on organizational tasks, fulfilling fabrication requests, maintaining and
+fixing the manufacturing equipment and robot systems, and improving lab workflow and tooling, allowing for more efficient use of the lab space.
+Supporting our operations projects: This will require our intern to collaborate with Research Operations Engineers to design and coordinate events, improve data
+collection processes, and maintain testing and deployment documentation to support the research and engineering teams.
+Qualifications
+Engineering, Robotics, or Computer Science student (undergrad junior or senior, or a master’s student).
+Driven to learn new skills and become adept at new systems, processes, and tools.
+Experience with rapid prototyping tools (3D printers, laser cutters, hand tools, etc.. ) and time spent in a lab environment designing, prototyping, and
+manufacturing components and assemblies.
+Experience in creative and novel mechanical, electrical or software design work and employing rapid prototyping techniques to improve your iterative design
+process.
+A safety-first mentality.
+Familiarity with UNIX/Linux systems.
+Experience executing and summarizing system tests and results.
+Bonus Qualifications
+Electronic assembly skills like crimping, soldering, and wire routing.
+Experience with large scale data collection efforts.
+Computer building/commissioning skills such as GPU, Operating System or power supply installation.
+Familiarity with hand tools & hardware. Any service, repair or design work with complex mechanical systems is a plus.
+Familiarity with CAD (preferably OnShape) software.
+Basic machining skills on a lathe or mill.
+Experience designing for small-scale contract manufacturing and assembly.
+Understand software development processes and the tooling required to enact them, such as version control (e.g., Git) and CI/ CD (e.g., Jenkins).
+Working knowledge of Asana and Gsuite.
+Demonstrable communication skills, written and verbal, including utilization of design documents and systems drawings.
+The pay range for this position at commencement of employment is expected to be between $40 and $58/hour for Massachusetts-based roles. Base pay offered will
+depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI
+offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional
+details regarding these benefit plans will be provided if an employee receives an offer of employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status
+protected under federal, state or local laws.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with
+arrest and conviction records for employment.

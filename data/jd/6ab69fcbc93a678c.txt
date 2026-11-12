@@ -1,0 +1,37 @@
+We are hiring for this position in Trinity’s Waltham, MA office or NYC offices. Trinity Life Sciences is looking for a talented, committed, and energetic
+individual to join our team as a Data Science Intern to support our growing Enterprise Analytics Delivery (EAD) function. This position will work side-by-side
+with other consultants and analysts. Opportunity to gain exposure to a wide variety of strategic business issues, as well as the opportunity to gain in-depth
+knowledge of the life sciences industry, ranging from small biotech’s to large pharma. Further, the intern will gain exposure to many of the leading patient-
+level data sources in the industry as well as innovative technology and AI tools. Interns will develop their skills through formal and informal training, as
+well as receiving mentorship that encourages them to build their strategic, analytical, teamwork, and communication skills. This is a 9-week, in-person Summer
+internship and the program will run from June 15 to August 13, 2027. Interns will be paid $35/hour and are expected to work 40 hours/week. Applicants for this
+position must be legally authorized to work in the United States without the need for employer sponsorship. Trinity is unable to consider candidates requiring
+sponsorship for visas, including but not limited to TN, H1-B, F-1, and STEM OPT. Essential Functions: Analyze and interpret secondary data (e.g., real-world
+data) to address the business objectives, leveraging SQL, Python, R or other programing languages Support internal initiatives by creating best practices and
+standardized code modules in SQL/R/Python to help increase efficiency across Trinity offerings Assist senior staff and project managers to adhere to project
+timelines by providing ongoing support to client for existing engagements Develop an understanding of industry secondary data sources available and weigh pros
+and cons of leveraging each data source available Education: Enrolled in a Bachelor’s (must be rising senior) or Master’s program in business, engineering,
+mathematics, biostatistics, data science, economics or life sciences disciplines at a top-tier university. Other Skills: Desire and ability to work in a
+dynamic, fast-paced environment Proficiency in Excel and PowerPoint is required Have strong technical ability in data analysis of large datasets, particularly
+with healthcare data Self-motivated, willing to take initiative, and appropriately independent Enthusiasm for working collaboratively in a team-based
+environment Strong problem solving and logical thinking skill Excellent communication (written and verbal) and interpersonal skills Familiarity with healthcare
+terms (e.g., ICD, HCPCS/CPT, NDC) is a nice to have About Us Trinity powers the future of life sciences commercialization through the fusion of human and
+artificial intelligence. By blending deep therapeutic expertise and trusted human ingenuity with a purpose-built technology platform, Trinity accelerates
+clarity and confidence at every step of the commercialization journey—from pre-launch to scale to loss of exclusivity. For more than 30 years, the world’s
+leading pharmaceutical, biotech, and medtech companies have relied on Trinity’s foresight, execution, and partnership to deliver confident product launches,
+decisive market advantage, and measurable patient impact. During that time, Trinity expanded from its first office in Waltham, MA to 1,300 professionals across
+14 offices and five continents, setting new industry standards in quality, responsiveness, and client partnership. For more information, visit Trinity at
+www.trinitylifesciences.com. Trinity’s Commitment to Inclusion & Engagement (I&E) Trinity Life Sciences is an equal opportunities employer and welcome
+applications from all qualified individuals. At Trinity, inclusion and engagement are at the heart of how we work and grow together. We’ve evolved from a
+traditional “DEI” framework to Inclusion & Engagement (I&E)—a model that moves beyond representation to focus on connection, collaboration, and shared purpose.
+Every role at Trinity plays a part in fostering an environment where all employees feel valued, respected, and empowered to contribute fully. By embedding I&E
+principles into our culture, we ensure that belonging and engagement are not standalone initiatives—they are part of how we build teams, make decisions, and
+deliver excellence every day. Trinity will not tolerate any form of discrimination or harassment and encourages applicants of all ages and identities. For more
+information about Trinity’s commitment to Inclusion and Engagement please visit Inclusion & Engagement | Culture of Belonging at Trinity Life Sciences. Trinity
+powers the future of life sciences commercialization through the fusion of human and artificial intelligence. By blending deep therapeutic expertise and trusted
+human ingenuity with a purpose-built technology platform, Trinity accelerates clarity and confidence at every step of the commercialization journey—from pre-
+launch to scale to loss of exclusivity. For more than 30 years, the world’s leading pharmaceutical, biotech, and medtech companies have relied on Trinity’s
+foresight, execution, and partnership to deliver confident product launches, decisive market advantage, and measurable patient impact. During that time, Trinity
+expanded from its first office in Waltham, MA to 1,300 professionals across 14 offices and five continents, setting new industry standards in quality,
+responsiveness, and client partnership. For more information, visit Trinity at www.trinitylifesciences.com. Early Talent Learning & Development Inclusion &
+Engagement Practice Case Study
