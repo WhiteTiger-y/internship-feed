@@ -1,0 +1,41 @@
+In this Role, You Will…
+- Formulate and build statistical and machine learning models to evaluate system performance and analyze rare, high-consequence safety events.
+- Process and analyze large-scale datasets using SQL, Python, or distributed data frameworks (Spark/Databricks) to extract actionable insights on vehicle
+behavior and operational risk.
+- Apply advanced statistical methods (e.g., Poisson processes, GLMs, Bayesian inference, point process models, or spatial-temporal modeling) to evaluate safety-
+critical metrics.
+- Collaborate with systems engineers and safety leads to translate complex quantitative models into rigorous mission assurance decisions.
+Internship Requirements
+- Currently pursuing a Master's or Ph.D. in Statistics, Data Science, Machine Learning, Computer Science, or a related quantitative engineering/scientific
+discipline.
+- Enrolled in good academic standing at an accredited college or university throughout the internship.
+- Expected to graduate between Fall 2027 and Summer 2028 .
+- Able to commit to a full-time, 12-week internship beginning in May/June 2027 .
+- Ability to relocate to the Bay Area, California, for the duration of the internship.
+- Interns at Zoox may not use any proprietary information they are working on as part of their thesis, any published work with their university, or to be
+distributed to anyone outside of Zoox.
+Qualifications
+- Statistical Foundations: Deep understanding of probability theory, regression, Generalized Linear Models (GLMs), hypothesis testing, and Bayesian methods.
+Experience or coursework in spatial statistics, space-time models, point process models, or causal inference.
+- Machine Learning & Modeling: Strong fundamentals in statistical modeling and ML (supervised and unsupervised learning, model validation, and metric
+evaluation).
+- Data Manipulation & Querying: Proficiency with basic-to-intermediate SQL and Python for data querying, data cleaning, and statistical modeling (or alternative
+data packages such as Spark, dplyr , or R).
+- Communication & Problem Solving: Demonstrated ability to break down ambiguous operational or system questions into structured statistical problems and clearly
+communicate complex quantitative findings to technical stakeholders.
+Bonus Qualifications
+- Large-Scale Data Processing: Experience querying, pipeline-building, and modeling massive datasets using Spark, Databricks, or cloud platforms.
+- Rare-Event Modeling & Domain Experience: Familiarity with autonomous vehicles, transportation network companies (TNCs), quantitative safety/risk modeling, or
+fraud/rare-event detection.
+- AI-Assisted Workflow & Tooling: Experience utilizing AI-assisted data analysis, modern coding agents, or LLM-driven research workflows to accelerate data
+exploration and model development.
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the
+intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking
+for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+Follow us on LinkedIn
+Accommodations
+If you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter.
+A Final Note:
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to
+be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.

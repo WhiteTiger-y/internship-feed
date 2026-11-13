@@ -1,0 +1,45 @@
+T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to
+the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career
+opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop! Get hands-on
+experience, training—and a leg up on a bright future. T-Mobile didn’t become a leader by following the playbook. We got here by breaking it. We’re a disruptor
+that now plays on a higher tier, and we’re still raising the bar for millions of customers nationwide. If you want to work somewhere that sets the standard
+instead of matching it, this is your place. This is an 11-week paid learning experience where you’ll do real work, not busywork. You’ll build relationships with
+other interns and leaders across the company, and you’ll be paired with mentors who will challenge you to grow skills that matter. We’ll give you hands-on
+projects with real stakes, and we expect your creativity and sharp ideas to make an immediate impact. You’ll work alongside T-Mobile employees who have your
+back and who still believe the best ideas can come from anyone. What It’s Like We’re a hands-on team inside T-Mobile’s Data & AI organization. We cover the full
+product lifecycle, from market research and prototyping to delivery and support, so you’ll work with product, engineering, and data science. We move fast and
+help one another. We hold high standards without a culture of fear. A typical week mixes digging into new datasets, building dashboards, chasing down anomalies,
+and sharing findings with the team. What You’ll Do You’ll work with large, diverse datasets that power T-Mobile’s B2B data products, which open new markets and
+revenue streams beyond traditional wireless. You’ll profile new data, document what it can do, and build the dashboards and reporting tables that keep our
+products accurate, complete, and reliable. Your work will help us bring new products to market faster and keep T-Mobile ahead. Key Responsibilities Profile and
+document large datasets, producing data dictionaries that cover schemas, field definitions, completeness, historical availability, and potential use cases.
+Build and maintain interactive dashboards and reporting tables that track data completeness, enrichment progress, quality metrics, and product performance.
+Validate datasets and processing pipelines by reconciling record counts, verifying historical backfills, and investigating anomalies, then document your
+findings. Handle sensitive and proprietary data responsibly. Support product development through requirements, exploratory analysis, feasibility assessments,
+and rapid prototyping of new data products. What It Takes Curiosity and a habit of questioning unexpected results. You investigate, explain, and draw evidence-
+based conclusions instead of just reporting discrepancies. Urgency and ownership. You keep a steady pace without micromanagement and see work through to
+completion. Thoroughness and attention to detail, especially on repetitive or detail-heavy work. Comfort with ambiguity. You can take a loosely defined
+assignment, set a clear scope, and deliver outcome-based results. Collaboration and accountability. You ask questions instead of guessing, raise issues early,
+and focus on root causes instead of blame. Skills in SQL, Python, and data profiling and analysis. Experience with Azure, Snowflake, Streamlit, Tableau, or
+Power BI is a plus, as is a working knowledge of relational concepts (primary and foreign keys, schemas, data mapping). Minimum Qualifications At least 18 years
+of age Legally authorized to work in the United States now and in the future Must have one or more course(s) remaining in a Bachelors or Graduate degree program
+post internship Employees of T-Mobile or Metro by T-Mobile are ineligible for external Summer Internships, please see Magenta Accelerator if interested
+Relocation assistance will be provided to program participants who reside more than 50 miles from the internship location. Intern wages range from $27/hour to
+$50/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation. Never stop growing! As part of the T-Mobile team, you
+know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because
+it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while
+investing in your career growth–and we applaud it. You’re unstoppable! T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the
+employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression,
+genetic information, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental
+disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these
+factors is wholly inconsistent with how we do business and will not be tolerated. Talent comes in all forms at the Un-carrier. If you are an individual with a
+disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing
+ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we
+are unable to respond to non-accommodation related requests. About T-Mobile: T-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is
+America’s supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers
+benefit from an unmatched combination of value, quality, and exceptional service experience. About TMUS Global Solutions: TMUS Global Solutions is a world-class
+technology powerhouse accelerating the company’s global digital transformation. With a culture built on growth, inclusivity, and global collaboration, the teams
+here drive innovation at scale, powered by bold thinking. TMUS India Private Limited operates as TMUS Global Solutions. We take equal opportunity seriously—by
+choice. We are an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color,
+religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status,
+citizenship status, veteran status, the presence of any physical or mental disability, or any other status or charact

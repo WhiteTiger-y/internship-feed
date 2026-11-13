@@ -1,0 +1,48 @@
+Vision & Learning Intern
+Job Description
+Company Overview: CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online
+marketplaces. Included in the S&P 500 Index, CoStar Group is on a mission to digitize the world’s real estate, empowering all people to discover properties,
+insights and connections that improve their businesses and lives. We have been living and breathing the world of real estate information and online marketplaces
+for over 35 years, giving us the perspective to create truly unique and valuable offerings to our customers. We’ve continually refined, transformed, and
+perfected our approach to our business, creating a language that has become standard in our industry, for our customers, and even our competitors. We continue
+that effort today and are always working to improve and drive innovation. This is how we deliver for our customers, our employees, and investors. By equipping
+the brightest minds with the best resources available, we provide an invaluable edge in real estate. Learn more about CoStar. Role Description: We are seeking a
+Vision & Learning Intern to join our team. CoStar Group’s technology internship program provides hands-on experience with enterprise-level projects. Interns
+work alongside full-time engineers, contributing to meaningful business initiatives and gaining exposure to core software engineering principles. Each intern is
+paired with a dedicated mentor to support technical development, career growth, and day-to-day learning throughout the program. This position is located in
+Sunnyvale, CA and offers a schedule of Monday to Thursday in office and the option to work from home on Friday. Areas of Work: 3D Reconstruction Semantic
+Understanding Gaussian Splatting Neural Rendering Responsibilities: Collaborate with our team of researchers and engineers to develop and implement state-of-
+the-art computer vision and machine learning algorithms. Participate in the design, training, and evaluation of deep learning models for various applications,
+including 3D reconstruction, object detection, and semantic segmentation. Contribute to the development and optimization of algorithms for processing and
+analyzing 3D spatial data. Conduct experiments, analyze results, and present findings to stakeholders in a clear and concise manner. Basic Qualifications:
+Currently pursuing a Bachelor's degree or higher from an accredited, not-for-profit, in-person institution in computer science or computer/software engineering,
+or comparable major. Must be planning to return to school following the completion of the Summer 2027 internship. Must have an expected graduation date of
+December 2027 - June 2029 Minimum 3.0 cumulative GPA Available to participate in the full 10-week summer internship program and commit to a 40-hour work week
+throughout the internship. Must have previous, relevant internship experience Strong programming skills in Python and experience with deep learning frameworks
+such as PyTorch. Preferred Qualifications and Skills: Ability to write understandable, maintainable, and well-documented code. Interest in learning new
+technologies and building high-quality software. Demonstrated initiative through academic, internship, project, or extracurricular experiences. Experience
+collaborating on academic, internship, project, or team-based work. Familiarity with Agile development practices and the Software Development Lifecycle Exposure
+to AI, machine learning, data science, or emerging technology concepts through coursework, projects, internships, or personal learning. Experience building or
+contributing to technical projects, such as capstone projects, personal applications, research, open-source contributions, or class-based software projects.
+What's in it for you? When you join CoStar Group, you’ll experience a collaborative and innovative culture working alongside the best and brightest to empower
+our people and customers to succeed. The final salary or hourly rate offered for this role will fall within the range set forth below based on a variety of
+factors, including but not limited to, geographic location, skills, and competencies. Base Compensation: $40 - $50 (Hourly) We welcome all qualified candidates
+who are currently eligible to work full-time in the United States to apply. However, please note that CoStar Group is not able to provide visa sponsorship for
+this position.
+CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing
+CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing
+CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing Founded in 1987,
+CoStar Group, Inc. (Nasdaq:CSGP) is the leading provider of commercial real estate information, analytics and online marketplaces. CoStar conducts expansive,
+ongoing research to produce and maintain the largest and most comprehensive database of commercial real estate information. CoStar data powers the $17 trillion
+world of real estate – delivering the sale, lease, property, tenant, contact, reporting and industry information that makes connections happen. We help our
+clients make smart investments and decisions. Eighty-three percent of the nation’s commercial real estate transactions involve a CoStar subscriber, and the top
+95% of the leading 1,000 brokerage firms use CoStar to inform their decisions. We also help create lasting experiences through our family of marketplaces. In
+addition to CoStar, CoStar Group brands and marketplaces include LoopNet, Apartments.com, BizBuySell, and Lands of America – collectively attracting more than
+25 million monthly unique visitors. The Apartments.com Network is the nation’s #1 most visited apartment listing network, with 45 million monthly visits,
+allowing renters to find their perfect homes. LAND.com connects landowners to their perfect properties, spots and open spaces. BizBuySell allows small business
+owners to bring their dreams to life. And LoopNet connects investors, sellers and brokers with clients who fall in love with their properties. Headquartered in
+Washington, DC, CoStar maintains offices throughout the U.S. and in Europe and Toronto, Canada with a staff of approximately 3,700 worldwide, including the
+industry's largest professional research organization. CoStar is committed to creating a diverse environment and is proud to be an equal opportunity workplace
+and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender
+identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. CoStar is also committed to compliance with all fair
+employment practices regarding citi

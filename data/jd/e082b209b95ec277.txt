@@ -1,0 +1,45 @@
+A little about Capital Power Capital Power (TSX: CPX) is dedicated to Powering Change by Changing Power. This north star guides our ambitions, focus, and
+actions as we transform our energy system. We're a growth-oriented North American energy company headquartered in Edmonton, Alberta. Our team safely delivers,
+builds, and creates balanced energy solutions for customers across North America. Our people are at the core of our journey to deliver reliable, affordable, and
+lower-carbon power solutions. We provide purpose-driven work in a safe and inclusive environment, and we live by our North Star. With us, your contributions
+matter – we want you to be empowered to innovate, collaborate, and ultimately drive results. We're here to partner with you so you can learn, grow, and forge a
+career that's meaningful to you. Join us in powering North America! Your Opportunity One Temporary Full-Time Position Commencing May 2027 As a Data Analytics
+Summer Student, you will support data-driven decision making across Capital Power by transforming complex data into meaningful insights that drive business
+outcomes. Working alongside analysts, data engineers, and business leaders, you will apply analytical, statistical, and visualization techniques to solve real
+business challenges across our operations. This role offers an opportunity to gain hands-on experience with enterprise-scale data, modern cloud analytics
+platforms, and emerging data science practices within the energy industry. What You'll Do: Learn and work with our modern analytics and reporting ecosystem,
+including Azure, Snowflake, Databricks, Power BI, and SQL-based data platforms. Develop and maintain dashboards, reports, and visualizations that support
+business planning, operational performance, and strategic decision-making. Analyze large and complex datasets to identify trends, patterns, risks, and
+opportunities, and communicate insights to business stakeholders. Support predictive analytics, forecasting, statistical analysis, and data science initiatives
+that help improve business performance. Apply SQL, Python, and analytical tools to explore data, answer business questions, and develop practical solutions.
+Support ad hoc analysis, KPI development, executive reporting, and performance measurement activities. Contribute to enterprise data governance initiatives
+through data quality reviews, business rule documentation, and data definition management. Partner with business stakeholders to understand operational
+processes and translate business needs into analytical solutions. Work with subject matter experts to develop accessible data models, visualizations, and
+insights that support informed decision-making. What You'll Bring: Currently pursuing, or recently completed, a Bachelor's or Master's degree in: Data Science
+Business Analytics Analytics Statistics Mathematics Economics Finance Computer Science Engineering A related quantitative discipline Coursework in data
+analysis, statistics, machine learning, predictive analytics, business intelligence, or data visualization is preferred. Experience Academic, internship, coop,
+or project experience in business analytics, reporting, data analysis, or decision support. Experience using data to support business, operational, financial,
+or commercial decision-making is an asset. Exposure to energy, power markets, commodities, finance, or regulated industries is considered an asset, but not
+required. Technical Skills Experience or coursework using SQL for querying and analyzing data. Familiarity with Power BI, Tableau, Excel, or similar BI and
+visualization tools. Comfort working with structured datasets and performing exploratory and descriptive analysis. Interest in modern data platforms and cloud-
+based analytics environments. Professional Skills Strong attention to detail and analytical thinking. Ability to work with ambiguous problem statements and
+translate them into structured analysis. Strong written and verbal communication skills, with the ability to explain insights to nontechnical audiences. Ability
+to prioritize tasks and manage competing deadlines. Strong collaboration and relationship building skills. Curious, proactive, and eager to learn in a business
+environment. What You'll Gain: Hands-on experience working with enterprise-scale data in a leading North American power company. Exposure to modern cloud
+analytics and data platforms, including Azure, Snowflake, Databricks, and Power BI. Opportunities to apply data science, statistical analysis, and visualization
+techniques to real business challenges. Experience supporting operational, commercial, and strategic decision-making across the organization. Mentorship from
+experienced analytics, engineering, technology, and business professionals. Practical experience with data governance, data management, and enterprise reporting
+practices. Opportunities to present insights and recommendations to business stakeholders and leaders. Exposure to the energy industry and the critical role
+data plays in supporting reliable electricity generation, renewable energy development, and a lower-carbon energy future. The opportunity to build a portfolio
+of meaningful projects that create measurable business value and strengthen your technical and professional skills. Additional Details: This position will
+remain open until a suitable candidate is found. In order to be considered for this role you must be legally eligible to work in Canada. The successful
+candidate for this position will undergo an education verification, reference checks and criminal record check. How To Apply and Next Steps Capital Power only
+accepts resumes via online application at www.capitalpower.com/careers. If you choose to submit your resume by any other means, we cannot guarantee that your
+application will be considered for vacancies. Applicants with disabilities who require a reasonable accommodation to complete their application can request
+accessible formats, communication support, or other accessibility assistance by contacting careers@capitalpower.com. Capital Power is committed to providing a
+fair and transparent hiring process. We recognize and embrace the value of diversity and hire employees with the appropriate skills, experience and knowledge
+for each position. Thank you for taking the time to apply and expressing interest in powering a sustainable future with Capital Power! We wish that we could
+personally respond to everyone who applies; however, it is our practice to contact only those individuals selected for interviews. Energize your career with us!
+At Capital Power, our team of experts, operators and innovators is helping deliver the energy that businesses, communities and industries rely on every day.
+We're building the bridge between today's energy realities and tomorrow's possibilities, powered by curiosity, collaboration and a commitment to excellence.
+Join a team where your ideas matter, your growth is supported, and your work contri

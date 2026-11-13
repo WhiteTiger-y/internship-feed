@@ -1,0 +1,79 @@
+Stratolaunch accelerates the development of next-generation aerospace and defense technologies through reusable hypersonic flight testing. Our autonomous, air-
+launched Talon-A vehicles provide access to operationally realistic flight environments at speeds exceeding Mach 5, delivering critical data that helps
+customers validate system performance and advance technologies toward deployment. Our team brings together expertise in engineering, manufacturing, and flight
+operations to solve complex challenges and advance capabilities essential to national security.
+We are seeking a motivated Business Intelligence & Systems Analyst Intern to support the development of analytics capabilities across Stratolaunch’s enterprise
+systems. This role will work with business and technical stakeholders to identify reporting needs, analyze data, and build meaningful reports, dashboards, and
+visualizations across ERP, MES, MRO, and related applications.
+The intern will gain hands-on experience with business intelligence, data analysis, requirements gathering, data validation, and process improvement in an
+aerospace and engineering environment. The ideal candidate is analytical, curious, detail-oriented, and able to translate business questions into clear,
+actionable insights.
+Essential Responsibilities
+- Support the development and maintenance of reports, dashboards, and visualizations using tools such as Microsoft Power BI, IBM Cognos, or similar business
+intelligence platforms.
+- Work with stakeholders across Maintenance, Manufacturing, Engineering, Finance, Supply Chain, and Enterprise Systems & Technology to understand reporting and
+analytics requirements.
+- Analyze data from ERP, MES, MRO, and other business applications to identify trends, gaps, inconsistencies, and opportunities for improvement.
+- Assist with data extraction, transformation, validation, reconciliation, and documentation.
+- Help define key performance indicators, business rules, calculated fields, metrics, and reporting standards.
+- Support the creation of data models, queries, dashboards, and recurring operational reports.
+- Document data sources, definitions, assumptions, report logic, and dashboard functionality.
+- Participate in requirements gathering, user acceptance testing, report validation, and stakeholder reviews.
+- Investigate data-quality issues and coordinate with system owners to identify root causes and corrective actions.
+- Assist with establishing consistent reporting practices, data governance standards, and self-service analytics capabilities.
+- Present findings and recommendations clearly to technical and non-technical stakeholders.
+- Support other business systems, data analysis, and process-improvement initiatives as assigned.
+Qualifications
+Required
+- Currently pursuing a bachelor’s or master’s degree in Business Analytics, Data Analytics, Information Systems, Computer Science, Engineering, Business,
+Mathematics, Statistics, or a related field.
+- Experience creating reports, dashboards, or data visualizations using **Power BI, Cognos, Tableau, Looker, Qlik**, or a comparable business intelligence
+platform.
+- Working knowledge of data analysis concepts, including data validation, aggregation, filtering, calculated fields, and KPI development.
+- Basic experience with SQL, spreadsheet-based analysis, or another data-querying and analysis tool.
+- Strong attention to detail and ability to identify data inconsistencies or reporting issues.
+- Ability to organize work, meet deadlines, and communicate effectively with technical and non-technical stakeholders.
+- Demonstrated curiosity and willingness to learn enterprise systems, business processes, and data relationships.
+Preferred
+- Experience analyzing data from or working with ERP, MES, MRO, manufacturing, maintenance, finance, supply chain, or engineering systems.
+- Familiarity with systems such as Costpoint, Veryon, Manufacturo, ION, Opcenter, Teamcenter, or similar enterprise applications.
+- Experience with SQL queries, data modeling, relational databases, APIs, ETL processes, or data-integration concepts.
+- Familiarity with Microsoft Excel, including pivot tables, lookups, Power Query, or Power Pivot.
+- Understanding of process and data relationships between ERP, MRO, MES, PDM, and PLM systems.
+- Experience documenting requirements, report definitions, data dictionaries, or standard operating procedures.
+- Exposure to aerospace manufacturing, engineering, aircraft maintenance, or other regulated industries.
+- Experience working with confidential, export-controlled, or operationally sensitive information.
+Education & Experience
+- Current enrollment in an accredited undergraduate or graduate program in a relevant discipline.
+- Prior internship, project, coursework, or practical experience involving business intelligence, data analysis, reporting, or information systems is preferred.
+- Relevant equivalent experience may be considered.
+Work Environment
+- This is a remote-eligible internship; occasional on-site work or travel to Mojave, California, may be required based on business needs.
+- The intern will work collaboratively with distributed technical and business teams.
+- Applicants must be a U.S. citizen or Green Card holder to be considered for this role.
+Benefits and Our Location
+- Remote-eligible position
+- Potential access to on-site collaboration in Mojave, CA
+EDUCATION & EXPERIENCE
+- Sophomore, Junior, or Senior going to Graduate School
+Special remarks regarding work environment, if applicable
+- This position is located in Mojave, CA
+- Relocation eligible to local area – Mojave, CA
+- Living accommodations provided in the Antelope Valley
+- 9/80 Schedule
+- $25.00-$28.00 Hourly
+- #intern #LI-Onsite
+Base salary and leveling are established on a case-by-case basis. We consider several factors to ensure a competitive offer, including your location,
+educational background, and a comprehensive assessment of the skills and experience demonstrated during your interviews.
+Benefits and our location(s) :
+- Healthcare ( medical, dental, vision, prescription drugs )
+- Paid Maternity and Parental Leave
+- 50% company match per contributed dollar into 401(k) savings plan, up to $11,500
+- Tuition reimbursement
+This position may involve the operation of company vehicles as part of assigned duties.
+Mojave Air & Spaceport is located just outside of Lancaster/Palmdale and is only 95 miles north of Los Angeles. The area offers both affordability and central
+access to a variety of California's best attractions and landmarks.
+Not much for the outdoors and prefer the city life? You’re within a half day’s drive or less of Los Angeles, San Diego, Las Vegas, and San Francisco where you
+can find a variety of live entertainment, museums, tours, and historical sight-seeing. Theme parks are in abundance, with Six Flags Magic Mountain, Disneyland,
+and Knotts Berry Farm ready to meet the needs of rollercoaster thrill seekers.
+Food and drink fanatics are in a haven of delecta

@@ -1,0 +1,45 @@
+Job Title: Data Engineering Intern - Summer 2027 Job Description: Data Engineering Intern - Summer 2027 Here at Entegris, we use advanced science to enable
+technologies that transform the world, and we are seeking employees who have the drive to continue the mission. The Role: Our site in Aurora, IL is seeking a
+Data Engineering Intern to join our team for the Summer 2027 season. This assignment is intended to be 12-14 weeks in duration. The Data Engineering Intern will
+support Entegris’ AI-ready data platform strategy by working on real-world initiatives spanning cloud data engineering, data products, metadata management,
+automation, and Generative AI enablement. The intern will help build and optimize data pipelines, improve data quality and governance, enrich metadata and
+business context, and contribute to AI-focused initiatives such as document ingestion, knowledge management, and the development of AI-powered data engineering
+agents that automate tasks including metadata discovery, data quality monitoring, lineage documentation, pipeline observability, and engineering productivity
+workflows. Key deliverables include AI-ready datasets, data quality scorecards, metadata enrichment, intelligent automation solutions, engineering agents,
+monitoring dashboards, and reusable data engineering assets. The role will provide immediate value to Entegris by accelerating data platform initiatives,
+increasing engineering efficiency through AI-driven automation, improving data readiness for analytics and AI, and supporting the company’s vision of becoming
+an AI-native enterprise. In turn, the intern will gain hands-on experience with modern data engineering on Google Cloud, SQL, Python, BigQuery, DataOps,
+metadata management, AI agent development, Generative AI, and enterprise-scale data product development while collaborating with business and technology teams
+on strategic initiatives. What You’ll Do: Assist with building, testing, and optimizing data pipelines to ingest, transform, and deliver data from enterprise
+source systems into analytics and AI platforms. Analyze, profile, and validate data to identify data quality issues, support business requirements, and improve
+the accuracy and reliability of enterprise datasets. Develop SQL and Python-based solutions to automate data processing, validation, reporting, and other
+engineering workflows. Support the development and testing of AI-powered data engineering agents that automate activities such as metadata discovery,
+documentation generation, data quality monitoring, lineage tracking, and engineering productivity tasks. Prepare and validate AI-ready datasets and data
+products for analytics, reporting, machine learning, and Generative AI initiatives. Create and maintain technical documentation, metadata, and data lineage
+artifacts to improve data discoverability, governance, and knowledge sharing. Build dashboards and monitoring solutions that provide visibility into pipeline
+performance, data quality metrics, and platform operational health. Collaborate with data engineers, architects, analysts, and business stakeholders using Agile
+development practices to support project delivery. Research and evaluate emerging technologies in data engineering, artificial intelligence, automation, and
+cloud data platforms, and provide recommendations to the team. Present internship accomplishments, findings, and recommendations to Data & AI Engineering
+leadership at the conclusion of the internship. What We Seek: Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Data
+Engineering, Information Systems, Software Engineering.Coursework or academic project experience in data structures, databases, software development, data
+analytics, machine learning, artificial intelligence, or cloud computing. Foundational knowledge of SQL and experience querying relational databases.Basic
+programming experience in Python, Java, or a similar programming language. Familiarity with data engineering, data analytics, or data science concepts through
+coursework, academic projects, internships, or extracurricular activities. Strong analytical and problem-solving skills. Effective verbal and written
+communication skills, including the ability to document technical concepts and present findings. Ability to work independently and collaboratively within a
+team-oriented environment. Interest in modern data platforms, cloud technologies, automation, Generative AI, and AI-powered engineering solutions.Familiarity
+with cloud platforms such as Google Cloud Platform (GCP), Microsoft Azure, or Amazon Web Services (AWS).Exposure to data visualization tools such as Power BI,
+Tableau, or Looker. Familiarity with Git, GitHub, or other source control systems. Exposure to AI technologies such as large language models (LLMs), AI agents,
+prompt engineering, or Generative AI applications. Desired Major(s) & Graduation Year: Desired Major(s)Computer ScienceData EngineeringData ScienceInformation
+SystemsSoftware EngineeringArtificial Intelligence / Machine Learning Undergraduate students graduating between December 2027 and May 2029 Master's students
+graduating between December 2027 and May 2028 Eligibility: Must be a currently enrolled studentAvailable to work 40 hours a week, M-F (8a-5p) beginning in
+January through June Must be familiar with the university’s requirements to participate in an Intern program Entegris is not currently hiring candidates for co-
+ops/internships who will need, now or at any time in the future, Entegris sponsorship through the H1-B lottery. PHYSICAL REQUIREMENTS: Walk and stand for
+extended periods. WHY WORK AT ENTEGRIS? Lead. Inspire. Innovate. Define Your Future.  Not everyone who works for a global company shares the same background,
+experiences and perspectives. We leverage the differences of our employees to bring new ideas to the table. Every employee throughout the company is encouraged
+to share input on projects and initiatives. Our decision-making process is truly a collaborative effort as we realize there are leaders at every level of the
+organization. We put our values at the core of how we operate as an organization — not just when it’s convenient, but in a lasting and meaningful way. We want
+the time and energy you spend here to have a positive impact on your life inside and outside of the office. WHAT WE OFFER Our total rewards package goes above
+and beyond just a paycheck. Whether you’re looking to build your career, improve your health, or protect your wealth, we offer generous benefits to help you
+achieve your goals. Compensation: $20-$30/hour range with actual pay dependent on candidate overall skills for the role Values-driven culture with colleagues
+that rally around People, Accountability, Creativity and ExcellenceCompany anticipates the application window closing approximately 5 days from the date the
+notice was posted. However, factors such as candidate flow and business necessity may require Comp

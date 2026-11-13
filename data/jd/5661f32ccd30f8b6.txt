@@ -1,0 +1,45 @@
+Introduction to the job ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop
+lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these
+advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in
+turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands and we have 18 office locations around the United
+States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon. The Software Engineering
+Foundation at ASML in Wilton, Connecticut is seeking an intern to work in the Data Science team. This internship is during the summer of 2027, lasting
+approximately 12 weeks. This position is located on-site in Wilton, CT. It requires onsite presence to attend in-person work-related events, trainings and
+meetings and to further ensure teamwork, collaboration and innovation. Must be available for for one of these sessions starting with the following dates:
+6/2/2027 or 6/14/2027 Roles and Responsibilities As an intern in the Data Science team, your responsibilities will include: Developing solutions utilizing one
+or more data science or data engineering approaches, such as: Computer vision and image processing algorithms Machine learning methods for optimizing
+engineering processes/physical components/optical metrology Data pipelines, dashboard and data analysis Large language model (LLM) agent (build and evaluate)
+Understanding technical requirements and developing solutions that meets them. Documenting and clearly communicating progress, findings, and insights to
+stakeholders. Education and Experience Currently pursuing a bachelor’s or Master’s or PhD degree in Data Science, Computer Science, Computer Engineering,
+Artificial Intelligence, Software Engineering, Mathematics, or a related field with at least 2 years of undergraduate study completed; Pursuing a master’s or
+PhD doctoral degree in one of these fields. Experience in developing software: Python , C/C++, or MATLAB Familiarity with software version management such as
+Git and code collaboration platforms such as GitHub or Bitbucket. Experience in one of more data science or data engineering areas, such as computer vision,
+image processing algorithm development, data pipelines, data analysis, machine learning, or building AI agents. A strong foundation through course work in
+computer science, mathematics, computational physics, or software engineering, with a focus on topics such as computer vision and image processing, data
+engineering, or machine learning. Demonstrated creativity, initiative, and sound coding practices. Skills Working at the cutting edge of tech, you will always
+have new challenges and new problems to solve – and working together is the only way do that. You will not work in a silo. Instead, you will be part of a
+creative, dynamic work environment where you will collaborate with supportive colleagues. There is always space for creative and unique points of view. You will
+have the flexibility and trust to choose how best to tackle tasks and solve problems. To thrive in this job, you will need the following skills: Must be able to
+read and interpret data, information, and documents. Results-driven; able to demonstrate ownership, accountability, and commitment to achieving results on time.
+Ability to identify bottlenecks and drive improvements. Ability to complete assignments with attention to detail and a high degree of accuracy. Ability to
+respond appropriately to workplace situations and interact effectively with others. Ability to learn and apply new information or skills. Strong customer focus
+and commitment to customer satisfaction through prioritization, quality, efficiency and professionalism. Proficient in the use of Microsoft Office applications.
+Ability to work effectively in a demanding environment with changing workloads. Ability to work independently and collaboratively as part of a team and follow
+through on assignments with minimal supervision. Demonstrate clear, concise and professional written and verbal communication, including effective communication
+within the team. Ability to establish and maintain cooperative working relationships with managers, co-workers and customers. Demonstrated teamwork, commitment
+to quality, strong interpersonal skills and a focus on delivering results on time. Other Information Routinely required to sit; walk; talk; hear; use hands to
+keyboard, finger, handle and feel; stoop, kneel, crouch, twist, reach and stretch Occasionally required to move around the campus Specific vision abilities
+required by this job include close vision, color vision, peripheral vision, depth perception and ability to adjust focus The current base hourly range for this
+role is currently: $18.00 to $48.00 per hour Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined
+through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant
+education and experience, certifications, abilities of the candidate and pay relative to other team members This position may require access to controlled
+technology, as defined in the Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such
+controlled technology prior to beginning work. Business demands may require the Company to proceed with candidates who are immediately eligible to access
+controlled technology. Inclusion and diversity ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive
+workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age,
+national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success
+of our company. Need to know more about applying for a job at ASML? Read our frequently asked questions. Thank you for your interest in ASML! This is your
+personal dashboard where you can easily check the status of your application(s), view jobs that match your profile, and change or delete your personal
+information. You'll also receive notifications through this dashboard about any additional information we may need from you or to let you know when tasks are
+ready for you to complete as part of our hiring process. ASML is a leading supplier of lithography equipment, used by the world’s top chipmakers to print
+microchips that are increasingly powerful, fast and energy efficient. Working at ASML is inspiring, no matter what f
