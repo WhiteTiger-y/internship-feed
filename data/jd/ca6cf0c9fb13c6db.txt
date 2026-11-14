@@ -1,0 +1,73 @@
+It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to
+build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower
+for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster,
+and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.
+Join us to put AI to work for people.
+Who we are:
+Imagine your workday dominated less by emails and spreadsheets, with more time given back to you to do your actual job. At ServiceNow, we are making work life
+more lifelike and changing the way the biggest companies in the world are doing business.
+Our technology helps structure and automate the flow of work to streamline the delivery of services across the modern enterprise so that individuals can have
+everything they need within their fingertips, just like they do in real life.
+Why work @ ServiceNow?
+Here’s what our former interns have to say about working at ServiceNow:
+- I was really glad to have a lot of proper, important work directed my way rather than a bunch of busywork and leftover tasks
+- A great positive work environment. Everyone is always willing to help out when I have a question.
+- I have been able to contribute to my team in a way that doesn’t just feel like I’m doing busy work, but that I’ve been helping make a real impact on the
+company.
+- I have always said the best aspect of ServiceNow is the people, and that has continued to be true in every department and every team with which I have had the
+privilege to work with.
+Your Team:
+ServiceNow has a large and highly skilled security team located at multiple sites globally and as part of a rapidly growing organization ServiceNow is looking
+to recruit students in their final year of education (college or university) to a Security Intern position within Field Security. This role is an opportunity to
+gain real-world experience and work across multiple Security teams, which are growing rapidly, while finishing up your degrees. This is also an opportunity to
+learn ServiceNow’s platform, one of the fastest growing SaaS services amongst large enterprises.
+What you get to do in this role:
+- Represent SSO in Security Incidents, Tasks, Issues, questions & Calls related to Security & Privacy
+- Customer Outreach Communication on Security & escalation handling
+- Support Penetration Test initialization & follow-up / escalations
+- Coordination & support for security related PRBs
+- End of Life & Patching Program
+- Support Facilitate the successful workflow/triage of security related incidents/tasks by interacting with the various security teams and other ServiceNow
+teams as needed.
+- Process Acceptable Use Policy Violations
+- Clone Library support
+- Training, support & enablement to Tech Support / SAM Teams
+To be successful in this role you have:
+- Currently enrolled in an accredited university, working on a Masters degree in, Computer Science, or related field and graduating December 2027, or later.
+- Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-
+powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.
+- General understanding of Cloud Service Providers.
+- Excellent presentation and communication skills (i.e. strong customer-facing skills)
+- Prior RFP and Contract review experience is a plus.
+- General understanding of ITIL and ITSM. Master's degree in Computer Science or a related field and graduating in December 2027
+- General understanding of Cloud Operations is desired.
+- Desired Industry Certifications: CISSP, CISM, CSSP, CEH or equivalent
+- Hands-on Security Incident Handling and remediation experience is desired.
+- General knowledge in internet security protocols and technologies.
+- General knowledge of Threat analysis and enterprise cyber defense techniques
+- Understanding of Security Operations.
+- Ability to articulate complex issues to peers, executives and customers.
+- Strong interpersonal skills.
+- Self-motivated and driven; ability to perform and excel with little supervision.
+- Excellent collaborator and teammate; ability to foster and feed off of coworkers.
+For positions in this location, we offer a base pay of $58.96/hr , plus equity (when applicable), variable/incentive compensation and benefits. Sales positions
+generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual
+total compensation will vary based on factors such as qualifications, skill level, competencies, and work location. We also offer health plans, including
+flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs. Compensation is
+based on the geographic location in which the role is located and is subject to change based on work location.
+Work Personas
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned
+to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here . To determine eligibility for a work persona,
+ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+Equal Opportunity Employer
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex,
+sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified
+applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+Accommodations
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application
+process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+Export Control Regulations
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR),
+ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow
+obtaining any export license or other approval that may be required by relevant export control authorities.
+From Fortune. ©2026 For

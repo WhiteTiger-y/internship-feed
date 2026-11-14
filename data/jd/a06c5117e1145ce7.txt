@@ -1,0 +1,51 @@
+About Nexus
+You don't have an AI story if you don't have your data story. That's where NexusOne comes in.
+We're the converged data platform for the AI era — composable by design, built on an open-source foundation, and AI-native from the ground up. One identity, one
+governance envelope, one operational layer across every mainframe, data lake, warehouse, and streaming system in the business. For the first time, enterprises
+can bring their existing stack along instead of rebuilding it — and still give AI agents full context across the estate.
+What we stand for is simple: sovereign data, interoperable systems, decoupled intelligence — delivered the way modern software should be. No rip-and-replace. No
+multi-year transformation. Our CEO Anu Jain puts it well: we turn the "ball of yarn" of data integrations into a unified engine — less like assembling car
+parts, more like buying the car ready to drive. 85+ open-source tools pre-integrated. AI-native automations that deploy and self-heal the stack without human
+toil. Forward-deployed engineers who build shoulder-to-shoulder with customer teams — hands on keyboards, not just on decks.
+It's working, and fast. We're tripling revenue year over year, backed by Insight Partners, and running in production in environments most vendors won't touch.
+Our platform processes credit risk data for 90%+ of US small businesses — 40M+ — every month. Intent signals for 300M+ subscribers monthly for Africa's largest
+telco. The data and AI layer for a Top 3 US bank.
+We're 100+ people across the US and India, headquartered in Atlanta. We think big, move fast, and don't mistake activity for progress. We hire people who'd
+rather ship the rocket than brief someone on it.
+Check out this podcast of Anu talking about our solution here: https://www.youtube.com/watch?v=g8g50sv5GhQ
+THE OPPORTUNITY:
+We’re looking for Data Engineering Interns to join our product and delivery team in Atlanta for Summer 2027. You should be excited about working where modern
+data engineering meets AI. This is not a shadowing internship. You’ll write real code, build real pipelines, and contribute to features and integrations that
+run in enterprise production environments, including agentic workflows that put data to work on its own.
+You’ll be paired with senior engineers and solution architects, own a defined project for the summer, and present your work to the team at the end. If you’re
+curious, learn quickly, and want to see your code running at scale, this is the right place to spend your summer.
+WHAT YOU WILL DO:
+Help onboard enterprise customer workloads to NexusOne, including data ingestion, transformation, analytics, and AI ops
+Build and test product features with a focus on performance, quality, and scale
+Contribute to agentic data workflows: pipelines and integrations that let AI agents act on enterprise data
+Work hands-on with modern data technologies including Kubernetes, Apache Spark, dbt, Trino, Airflow, and Iceberg
+Write Python, Java, or Scala to implement features and modernize customer workloads
+Analyze datasets to find trends, anomalies, and data quality issues
+Troubleshoot and debug data issues alongside senior engineers
+Take part in team standups, code reviews, and proof-of-concept evaluations
+WHO YOU ARE:
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or a related field, graduating between December 2027 and June
+2029
+Foundational understanding of data structures, algorithms, and coding best practices (flow control, inheritance, separation of concerns, error handling)
+Coursework or project experience with Python, Java/Scala, and/or .NET languages
+Familiarity with backend concepts including object-oriented design, ETL, and REST APIs
+Experience with SQL and a database system such as PostgreSQL, MySQL, SQL Server, or Snowflake
+Real curiosity about AI, agentic systems, and how data infrastructure enables intelligent automation
+Strong problem-solving skills, attention to detail, and a self-directed learning mindset
+Clear communicator who works well on a distributed team
+Preferred: exposure to cloud platforms (AWS, GCP, or Azure), open-source data projects, or personal and hackathon projects you can show us
+Why You’ll Love Working at Nexus
+At Nexus, we value people who want to grow — and support each other while doing so.
+You can expect:
+A collaborative team culture built on curiosity and respect
+Challenging work where your contributions clearly matter
+A leadership team that invests in learning and development
+The opportunity to work at the intersection of cloud, data, and AI innovation
+Ready to Apply?
+If this role sounds like a great fit — or even close to one — we’d love to hear from you. We know that no candidate checks every single box, and we’re excited
+to meet people who bring curiosity, talent, and a desire to build meaningful work together.

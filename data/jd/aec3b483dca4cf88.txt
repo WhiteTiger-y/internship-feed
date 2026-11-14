@@ -1,0 +1,93 @@
+range is a reasonable estimate and may change over time; final compensation may fall above or below the range provided. Grainger reserves the right to amend,
+modify, or discontinue its compensation and benefits programs at any time, in accordance with applicable law.
+This job posting is for an existing vacancy.
+As a member of the Field Operations team, you will work closely with the Senior Reporting and Process Analysts on various tasks that support the efficiency and
+effectiveness of our business. This role will offer the opportunity to gain hands-on experience with critical business functions, system and data management
+tools.
+This position will start in May 2027 and conclude at the end of August 2027. This position will be located in Thornhill, ON and is a full-time role working 40
+hours a week and, on a hybrid (in office/remote) basis.
+Responsibilities:
+Reporting and analytics:
+- Communicate with report stakeholders to gather feedback, identify areas for improvement in reporting, and implement enhancements to drive greater business
+decisions.
+- Execute routine updates and refreshes for various reports across business areas, ensuring data accuracy and timely delivery.
+- Implement adjustments and enhancements to existing reports based on stakeholder requests or business needs.
+- Utilize Snowflake/SQL for data querying, management, and report generation, supporting the team’s efforts in leveraging data for business insights.
+Staffing model:
+- Maintain and improve a staffing model that forecasts staffing needs of the Field Operations team based on business growth, attrition, seasonality, workload,
+etc.
+- Monitor and evaluate the effectiveness and efficiency of the staffing model and make adjustments as necessary.
+Communications:
+- Maintain and update the SharePoint site, ensuring that resources such as standard work, guidelines, and reports are current and easily accessible to team
+members.
+- Create and refine PowerPoint decks for presentations, including data visualizations and report summaries to support meetings.
+Requirements:
+- Currently enrolled in a College or University program and working towards a degree in Business, Data Analytics, or a related field.
+- Strong communication skills, both written and verbal.
+- Detail-oriented with the ability to ensure accuracy in tasks.
+- Basic understanding of data analysis or experience using tools like SQL through coursework.
+- Proficiency in Microsoft Office Suite (Excel, PowerPoint, SharePoint).
+- Team player with a willingness to learn and contribute.
+DEI Statement
+We encourage you to apply even if your experience doesn't perfectly match this job post as you may still be the right candidate for this role or others. We
+aspire to create a culture where everyone is comfortable being who they are, can learn and grow to realize their full potential, and is recognized and rewarded
+for their impact.
+We are proud to be an equal opportunity workplace. All qualified applicants are considered for employment without regard to race, religion, sex, sexual
+orientation, gender identity, national origin, age, or disability. Should you need a reasonable accommodation during the application and selection process,
+please advise us so we can provide appropriate assistance.
+Pre-employment background checks are required for all external candidates. Internal candidates undergo a background check when they move from a non-driving role
+to a driving role.
+Apply now »
+Find similar jobs:
+View All Jobs_Canada_English,
+Veterans,
+Corporate Canada_English
+- View All Jobs
+- Recruitment Fraud Notice
+- Privacy Policy
+- Your Privacy Choices
+- Grainger.ca
+Opens in a new tab.
+Opens in a new tab.
+Opens in a new tab.
+© 2026 W.W. Grainger, Inc. & Acklands-Grainger Inc. All Rights Reserved.
+×
+Consent Manager
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. Because we respect your right to privacy, you
+can choose not to allow some types of cookies. However, blocking some types of cookies may impact your experience of the site and the services we are able to
+offer.
+Performance Cookies
+These cookies are required to use this website and can't be turned off.
+Performance Cookies
+Show More Details
+Performance Cookies
+Provider
+Description
+Enabled
+SAP as service provider
+We use the following session cookies, which are all required to enable the website to function:
+- "route" is used for session stickiness
+- "careerSiteCompanyId" is used to send the request to the correct data center
+- "JSESSIONID" is placed on the visitor's device during the session so the server can identify the visitor
+- "Load balancer cookie" (actual cookie name may vary) prevents a visitor from bouncing from one instance to another
+Cookies from provider SAPasserviceprovider are required and cannot be turned off
+Functional Cookies
+These cookies provide a better customer experience on this site, such as by remembering your login details, optimizing video performance, or providing us with
+information about how our site is used. You may freely choose to accept or decline these cookies at any time. Note that certain functionalities that these
+third-parties make available may be impacted if you do not accept these cookies.
+Consent to all Functional Cookies
+Show More Details
+Functional Cookies
+Provider
+Description
+Enabled
+YouTube
+YouTube is a video-sharing service where users can create their own profile, upload videos, watch, like, and comment on videos. Opting out of YouTube cookies
+will disable your ability to watch or interact with YouTube videos.
+Cookie Policy
+Privacy Policy
+Terms and Conditions
+Consent to cookies from provider YouTube
+Confirm My Choices
+Reject All Cookies
+Accept All Cookies

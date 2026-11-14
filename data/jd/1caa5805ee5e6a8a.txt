@@ -1,0 +1,148 @@
+We use cookies to offer you the best possible website experience. Your cookie preferences will be stored in your browser’s local storage. This includes cookies
+necessary for the website's operation. Additionally, you can freely decide and change any time whether you accept cookies or choose to opt out of cookies to
+improve website's performance, as well as cookies used to display content tailored to your interests. Your experience of the site and the services we are able
+to offer may be impacted if you do not accept all cookies.
+Modify Cookie Preferences
+Accept All Cookies
+Skip to main content
+Why Work With Us
+- Get to Know PACCAR
+- A Great Place to Work
+- Diversity and Inclusion
+- US Benefits
+Job Opportunities
+- Engineering Jobs
+- Finance & Accounting Jobs
+- Human Resources & Admin Jobs
+- Information Technology Jobs
+- Customer Service Jobs
+- Marketing, Sales & Services Jobs
+- Supply Chain & Operations Jobs
+- Facilities & Maintenance Jobs
+- Manufacturing & Distribution Jobs
+- Internship Jobs
+Connect With Us
+- Join Our Talent Community
+Search by Keyword
+Search by Location
+Why Work With Us
+- Get to Know PACCAR
+- A Great Place to Work
+- Diversity and Inclusion
+- US Benefits
+Job Opportunities
+- Engineering Jobs
+- Finance & Accounting Jobs
+- Human Resources & Admin Jobs
+- Information Technology Jobs
+- Customer Service Jobs
+- Marketing, Sales & Services Jobs
+- Supply Chain & Operations Jobs
+- Facilities & Maintenance Jobs
+- Manufacturing & Distribution Jobs
+- Internship Jobs
+Connect With Us
+- Join Our Talent Community
+Language
+English (United Kingdom)
+English (United States)
+Français (Canada)
+Português (Brasil)
+View Profile
+Search by Keyword
+Search by Location
+Show More Options
+Loading...
+Country
+All
+State
+All
+City
+All
+Division
+All
+Language
+All
+Select how often (in days) to receive an alert:
+Create Alert
+×
+Select how often (in days) to receive an alert:
+2027 Summer Internship: Data Engineer
+Apply now »
+Apply now
+Apply Now
+Start applying with LinkedIn
+Start
+Please wait...
+Date: Nov 4, 2026
+Location:
+Denton, TX, US, 76205-7864
+Company:
+PACCAR
+Company Information
+PACCAR is a global technology leader in the design, manufacture and customer support of high-quality light-, medium- and heavy-duty trucks under the Kenworth,
+Peterbilt and DAF nameplates. PACCAR also designs and manufactures advanced power trains, provides financial services and information technology, and
+distributes truck parts related to its principal business.
+Peterbilt Motors Company
+On highways, construction sites, city streets, logging roads - everywhere our customers earn their living - Peterbilt's red oval is a familiar symbol of
+performance, reliability and pride. Peterbilt has reigned as America's premium quality truck manufacturer since the company's founding in 1939. Our dedication
+to deliver products and services focused on improving customers' performance, image, profitability and peace of mind truly makes Peterbilt the Class of the
+Industry.
+Requisition Summary
+Peterbilt Motors Company, a PACCAR Company, has an opening for a Data Engineer Intern to add to our Advanced Analytics team in Denton, Texas.
+Job Responsibilities
+This position will be working on various projects and reports to include but not limited to:
+- Design and implement reporting and analytics features in collaboration with product owners, data analysts, and business partners within an Agile/Scrum
+methodology.
+- Design and implement AI vision solutions for image-based data processing and analytics.
+- Proactively support product health by building solutions that are automated, scalable, and sustainable – be relentlessly focused on minimizing defects and
+technical debt.
+- Provide post-implementation production support for data pipelines.
+- Work closely with the business stakeholders and end users to plan, develop, and implement projects.
+- Build and support automated data pipelines from a wide range of data sources using an AWS and Qlik Replicate-based technology stack with an emphasis on
+automation and scale.
+- Orchestrate complex job sequences across technology stacks using Apache Airflow and other scheduling mechanisms.
+- Contribute to overall architecture, framework, and design patterns to store and process high data volumes.
+- Develop solutions to measure, improve, and monitor data quality based on business requirements.
+Required Qualifications
+The candidate we seek will be currently enrolled in a Bachelor’s or Master’s degree in computer science, Informatics, or a related program.
+Preferred Qualifications
+The qualifications that are important to be successful in this position are as follows:
+- Basic proficiency with SQL and Python for data manipulation, query writing, and script development
+- Experience participating in highly collaborative, multi-disciplinary team environments on complex projects
+- Demonstrated knowledge and hands-on experience with reporting tools such as Tableau or Power BI
+- Understanding of Generative AI models, their applications, and practical implications in business contexts
+- Exceptional proficiency with Microsoft Office suite
+- Excellent verbal and written communication skills for presenting findings to diverse stakeholders
+- Strong ability to multitask and prioritize competing deadlines effectively
+- Self-starter mentality with resourcefulness and independent problem-solving capabilities
+- Strong professionalism and commitment to high-quality, ethical work standards
+- Analytical mindset with the ability to interpret data, identify patterns, and draw actionable insights
+- Interest in collecting, analyzing, and reporting to drive data-informed decisions
+General Description of Internship Benefits
+As a U.S. PACCAR intern, you have a full range of benefit options including:
+- Competitive salary and 401k with up to a 5% company match
+- Medical, dental, and vision plans for you and your family
+- Paid holidays
+- Flexible spending accounts (FSA) and health savings account (HSA)
+- Life and accidental death and dismemberment insurance
+- EAP services including wellness plans, estate planning, financial counseling and more
+- Global Fortune 500 company with a wide array of growth, training, and development opportunities
+- Work alongside experienced goal-oriented colleagues recognized as experts in their field
+- This position may offer stipend assistance benefits
+Additional Job Board Information
+PACCAR is an E-Verify & Equal Opportunity Employer/Protected Veteran/Disability corporation. Peterbilt promotes Diversity and Inclusion through mentorship,
+events, and affinity support groups – The Diversity Council, Peterbilt Women’s Initiative (PBWIN), Veterans Group, Peterbilt Black Organization for Leadership
+and Development (B.O.L.D) and Peterbilt+ (An LGBTQ support group).
+#LI-Onsite
+Job Segment:
+Construction, Database, Computer Science, Summer Internship, Intern, Engineering, Technology, Entry Level
+Apply now »
+Apply now
+Apply Now
+Start applying with LinkedIn
+Start
+Please wait...
+Find similar jobs:
+Internship Jobs
+- Care

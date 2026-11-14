@@ -1,0 +1,75 @@
+Job Description
+Get to Know Us
+Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable
+attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key
+assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all
+sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and
+MSSPs and MSPs.
+We are a fusion of former U.S. Special Operations cyber operators, startup engineers & operators, and formerly frustrated cybersecurity practitioners. We're
+committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, "checkbox”
+security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls,
+committed to a culture of respect, collaboration, ownership, and results.
+An Overview
+We're looking for Research Interns to join Horizon3 AI Research and work on technical problems at the intersection of super intelligence, systems security, and
+agentic systems for security.
+You'll work on a concrete research problem with researchers and engineers at Horizon3. Depending on the project, this may include AI agents for security,
+autonomous pentesting, attack-path reasoning, cyber deception, AI safety and security, security evaluation of AI systems, or new methods for reasoning over
+security data and environments.
+This is a hands-on research internship. You will not only study a problem or read the relevant literature; you will also build, experiment, analyze results, and
+communicate what you learn. Projects may involve research prototypes, experimental infrastructure, AI models or agents, security test environments, attack
+graphs, system telemetry, or other technical artifacts.
+We do not expect every intern to arrive with expertise in both AI and systems security. You should have strong computer science foundations, meaningful
+experience in at least one relevant technical area, and genuine interest in developing expertise across AI and security.
+Interns will receive mentorship and technical guidance throughout the summer, but we also expect curiosity, initiative, and a willingness to investigate
+difficult technical questions independently.
+What You’ll Do
+Work on a defined research project at the intersection of AI, cybersecurity, and computer systems.
+Understand the research problem, relevant technical background, and existing approaches.
+Read and critically evaluate academic papers and technical material related to the project.
+Develop and implement research ideas, algorithms, prototypes, or experimental systems.
+Design and run experiments to evaluate research hypotheses and technical approaches.
+Analyze experimental results carefully and identify limitations, failure modes, and unexpected behavior.
+Work with security data and environments that may include attack paths, graphs, telemetry, configurations, identities, networks, cloud systems, or security
+controls.
+Collaborate with Horizon3 researchers, security engineers, attack engineers, and other technical teams as appropriate for the project.
+Document methods, experiments, and findings clearly so that the work can be reproduced and continued after the internship.
+Present research progress during the internship and communicate final findings to the broader team.
+Contribute, when appropriate, to research outputs such as technical reports, prototypes, open-source artifacts, patent disclosures, or academic publications.
+What You’ll Bring
+Currently pursuing a degree in Computer Science or a related technical field, or equivalent technical experience.
+Strong computer science fundamentals and programming ability.
+Experience or demonstrated interest in systems security, super intelligence / machine learning, computer systems, or a closely related area.
+Ability to translate technical ideas into working implementations.
+Ability to read technical material and learn unfamiliar concepts independently.
+Curiosity about difficult technical problems and willingness to investigate why a system behaves the way it does.
+Interest in both research and engineering. You may be stronger in one area, but you should be comfortable working with both ideas and implementations.
+Ability to receive technical feedback, revise your approach, and learn from mentors and collaborators.
+Ability to communicate technical work clearly in writing and discussion.
+What Sets You Apart
+Experience conducting research through an academic research group, independent project, thesis, capstone, internship, or comparable technical work.
+Experience in systems security, offensive security, defensive security, penetration testing, vulnerability research, operating systems, networks, cloud
+security, identity systems, or related areas.
+Experience with machine learning, deep learning, large language models, AI agents, reinforcement learning, planning, search, graph algorithms, or related AI
+methods.
+Experience building research prototypes, experimental systems, benchmarks, test environments, or evaluation frameworks.
+Familiarity with security concepts such as attack paths, Active Directory, cloud environments, identity systems, security controls, adversarial techniques, or
+autonomous security systems.
+Experience reading and implementing ideas from academic papers.
+Participation in research, security competitions, CTFs, open-source projects, or other technically substantial extracurricular work.
+Research publications, conference presentations, open-source contributions, or other evidence of strong technical work. Publications are valuable but are not
+required.
+Exceptional undergraduate students with strong technical or research experience are encouraged to apply. PhD students whose research interests align with
+Horizon3 AI Research are also strongly encouraged to apply.
+Each intern will be paired with a research mentor and assigned a concrete research problem with clear technical objectives. The exact project will depend on the
+intern's background, interests, and the Lab's active research directions.
+Internship Details
+Duration: 10–12 weeks, Summer 2027
+Timing: Approximately May–August 2027
+Location: Onsite | Chicago, IL (in office) or West Lafayette, IN (Purdue University)
+Compensation: $40–$50/hour
+Travel Required
+We are a fully remote company, and this job may require up to 5% of travel to be successful.
+Perks of Horizon3
+Inclusive Team: We value diversity and promote an inclusive culture where everyone can thrive.
+Growth Opportunities: Be part of a dynamic and growing team with numerous career development opportunities.
+Innovative Culture: Work 

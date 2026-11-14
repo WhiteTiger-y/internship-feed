@@ -1,0 +1,35 @@
+2027 Summer Internship | Data Engineering Intern   School Year: Graduate Students  Dates of the Internship: June 7th-August 13th (10 weeks) Format: Hybrid in
+Lincolnshire, Illinois (Camping World’s hybrid work model allows employees to work in the office Monday, Tuesday and Wednesday, with the option to work from
+home on Thursday and Friday). About the role: Camping World is looking for a Data Engineering intern for the summer of 2027 to work closely with the Data
+Management office. As an intern, you will assist with the daily operations and gain a first-hand Engineering experience. We are looking for someone who is
+driven, has experience in information technology, web development, software development and wants to be immersed in a real-world experience. If you are eager to
+learn, have a strong interest and want to further develop yourself as a professional; this is the ideal role for you.    Candidates must have the ability to
+work in our Chicago or Lincolnshire office on a hybrid basis (3 days in office, 2 days remote) for 10 weeks, beginning in June of 2027. What You’ll Do:  Intern
+will partner with the DMO (Data Management Office) team which would include the following task/assignments.  Data Engineering - engineering tasks which will
+require SQL and Snowflake skills   Data Validation - comparing and verifying source and target data  Business Acumen - This would be a great opportunity to
+learn various aspects of automotive, retail and Digital business.  Complete software development in collaboration with data scientists, data analyst, solution
+architects, data engineers, managerial and leadership roles   Handle new source data requests from the business  Take on individual special projects as needed
+to enhance your knowledge and skills     What You’ll Need to Have for the Role:  In pursuit or a recent graduate with a Master’s degree in Data Science or
+Statistics  Cumulative 3.0 GPA   A graduation date between December 2026-July 2028. Ability to relocate to Chicago for the summer term (June 7-August 13).
+Camping World does not provide relocation or housing stipends. Participate in Capstone Internship Project including a final presentation to Executive Leadership
+Sufficient knowledge of Microsoft Office: Suite: (Word, Excel, PowerPoint, Outlook)  Experience with software and web development   Excellent troubleshooting,
+data interpreting, and technical skills  Knowledge in Information technology (databases, system security, trouble shooting, etc.)   Ability to maintain
+professional demeanor and strict confidentiality   Must be diligent, organized, and extremely detail-oriented  Thrives in a fast-paced, high-growth
+environment   Analytical, critical thinking and problem-solving skills and passion for data analytics  Strong written and verbal communication skills  Strong
+work ethic with research and note-taking skills   Ability to work in fast-paced environment with ability to multitask  General Compensation Disclosure The pay
+range for this role considers several factors in making compensation decisions including but not limited to skill sets; experience and training; licensure and
+certifications; and other business and organizational needs. At Camping World, it is not typical for an individual to be hired at or near the top of the range
+for their role and compensation decisions are dependent on the factors stated. A reasonable estimate of the current range is listed below. Pay Range: In
+addition to competitive pay, we offer Paid Time Off, 401(k), an Employee Assistance Program, Good Sam Roadside Assistance, discounts, paid parental leave (if
+eligibility is met), Tuition Reimbursement (if eligibility is met), and on the job training opportunities. Full-time associates are offered a comprehensive
+benefit package including medical, dental, vision and more! Part-time associates are offered access to dental & vision coverage! For more information please
+visit: www.mycampingworldbenefits.com We are an equal employment opportunity employer. The Company's policy is not to discriminate against any applicant or
+employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age (40 and over), disability, veteran or uniformed service-
+member status, genetic information, or any other basis protected by applicable federal, state, or local laws. Join our talent community! Camping World Holdings,
+Inc., headquartered in Lincolnshire, IL, (together with its subsidiaries) is America's largest retailer of RVs and related products and services. Our vision is
+to build a long-term legacy business that makes RVing fun and easy, and our Camping World and Good Sam brands have been serving RV consumers since 1966. We
+strive to build long-term value for our customers, employees, and shareholders by combining a unique and comprehensive assortment of RV products and services
+with a national network of RV dealerships, service centers and customer support centers along with the industry's most extensive online presence and a highly
+trained and knowledgeable team of employees serving our customers, the RV lifestyle, and the communities in which we operate. We also believe that our Good Sam
+organization and family of programs and services uniquely enable us to connect with our customers as stewards of the RV enthusiast community and the RV
+lifestyle. With RV sales and service locations in 42 states, Camping World has grown to become the prime destinations for everything RV.
