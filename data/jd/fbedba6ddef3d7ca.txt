@@ -1,0 +1,59 @@
+digital sports platform that spans over 900 sports properties and engages more than 81 million fans. Together, we are reimagining every part of the collectibles
+experience for fans, partners, and creators.
+Who We Are
+Fanatics Collectibles is a global product and technology company dedicated to redefining the world of collectibles. Through iconic brands like Topps, we create
+innovative physical and digital products that connect fans and collectors to the sports, entertainment, and culture they love.
+Backed by Fanatics, the world's leading sports merchandise and collectibles company, we operate with the speed and creativity of a startup while leveraging
+unmatched scale, partnerships, and licensing relationships. Our teams collaborate across product, creative, operations, marketing, and licensing to deliver
+best-in-class collectibles to fans around the world.
+About the Role
+Fanatics Collectibles is seeking a People Intelligence Intern to join our team for Summer 2027. This role is part AI engineer, part data engineer: you will
+build AI-powered tools and workflows that connect the dots across workforce data and turn it into insights that inform business decisions, and help build out
+the People Intelligence data foundation in Snowflake that powers them.
+You'll gain hands-on experience in AI-powered automation, analytics, and data engineering, working with AI tools such as Claude, ChatGPT, and Grok alongside
+Snowflake, Oracle HCM, SQL, and Python to build agent workflows, develop reliable data models, and support reporting and AI-driven solutions.
+This role is ideal for someone who is analytically minded, already building with AI rather than just curious about it, and wants to own real work on a small
+team. You'll own a defined project and present it to HR leadership at the end of the summer.
+What You'll Do
+- Build AI-Powered Tools and Workflows: Design, test, and maintain AI agent and automation workflows on top of our people data, including recurring reporting,
+data validation, and stakeholder requests, with outputs that are repeatable and auditable.
+- Connect the Dots with AI: Use AI to join signals across people data, including retention, hiring pipeline health, organizational effectiveness, and employee
+experience, and turn them into analyses and insights leaders can act on.
+- Support Employee Lifecycle Programs: Partner with our Employee Lifecycle team to build tools, trackers, and automations for the HR calendar's tentpole events,
+such as performance and talent reviews, promotion cycles, compensation planning, and engagement surveys, reducing manual work and giving the HR team clearer
+visibility.
+- Build the People Data Foundation: Help extend our People Intelligence data environment in Snowflake, already underway, that powers that AI work, bringing
+workforce data from Oracle HCM and other people systems into governed, well-documented data models.
+- Develop and Maintain Pipelines: Help build new pipelines and harden existing ones that move data from source systems into Snowflake, with validation checks so
+what lands is complete, consistent, and trusted.
+- Validate and Reconcile Data: Use SQL and Python to connect, structure, and reconcile people data across systems, trace data quality issues to their root
+cause, and document the fixes.
+- Document the Work: Create and maintain clear documentation for what you build and the data behind it, including metric definitions, data dictionaries, process
+maps, and standard operating procedures, so the work is repeatable and the team can pick it up after the summer ends.
+- Translate for the Business: Turn technical work into plain language that HR business partners and leaders can use, and partner with the People team to
+understand the real question behind each request.
+What You Bring
+- Currently pursuing a bachelor's or master's degree in Computer Science, Data Science, Information Systems, Business Analytics, Statistics, Economics,
+Industrial/Organizational Psychology, or a related field.
+- Working knowledge of SQL and Python used on real data (coursework and personal projects count), and a foundational understanding of how data moves between
+systems: ETL, pipelines, and data modeling.
+- Hands-on experience building with AI tools such as Claude, ChatGPT, Grok, or similar, beyond everyday use. You have used AI to write code, automate a
+workflow, or analyze data, and you can show us something you made. Experience with AI agents or agentic workflows is a strong plus.
+- Something you built that other people used: a script, an app, a dashboard, an automation, or a class project that went further than it needed to. We will ask
+to see it.
+- Strong analytical and problem-solving skills, with the attention to detail to work through complex datasets and a habit of validating your own work before
+anyone else has to.
+- Comfort handling confidential people data with discretion and good judgment.
+- Curiosity about people, not just data: an interest in what the numbers mean for how an organization works, paired with the initiative to learn new tools
+quickly and collaborate across teams.
+Ensure your Fanatics job offer is legitimate and don’t fall victim to fraud. Fanatics never seeks payment from job applicants. Feel free to ask your recruiter
+for a phone call or other type of communication for interview, and ensure your communication is coming from a Fanatics email address (including
+@collectfanatics.com). For added security, where possible, apply through our company website at www.fanaticsinc.com/careers
+The salary range represents base pay only and does not include short-term or long-term incentive compensation. This salary range is specific to New York City
+and may not be applicable to other locations. When determining base pay, as part of a final compensation package, we consider several factors such as location,
+experience, qualifications, and training. For information about our benefits, please visit https://benefitsatfanatics.com/
+NYC Salary Range
+$27 - $27 USD
+By submitting your application, you agree to our terms of service and acknowledge you have read our Candidate Privacy Policy.
+Fanatics will never ask candidates for money, banking information, or other sensitive personal information as part of the interview process. If you receive a
+suspicious message claiming to be from Fanatics recruiting, please do not respond and report it here .
