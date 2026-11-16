@@ -1,0 +1,46 @@
+Introduction
+Are you passionate about artificial intelligence, software development, and building intelligent user experiences? As a Generation AI Intern, you will help
+advance the integration of large language model (LLM) technologies into engineering software platforms that support semiconductor innovation.
+The Generation AI Intern role focuses on enabling AI-powered interactions within the Tachyon platform by integrating LLM agent systems with graphical user
+interfaces and software services. You will work at the intersection of artificial intelligence, software engineering, and user experience to develop intelligent
+automation capabilities that improve productivity and simplify complex workflows. The Generation AI Intern will collaborate with software developers, AI
+engineers, and product teams to deliver scalable solutions that leverage modern generative AI technologies. This position provides an opportunity to work with
+cutting-edge LLM agents, API development, system integration, and AI-driven automation in a highly technical environment.
+Roles and Responsibilities
+As a Generation AI Intern, you will contribute to the development of AI-enabled software solutions that improve productivity, automation, and user experience
+across engineering workflows.
+- Support the integration of LLM agent systems with the Tachyon graphical user interface to enable intelligent automation capabilities.
+- Develop and maintain RESTful APIs that facilitate communication between AI services and application components.
+- Create and enhance Python APIs that improve platform usability and accessibility.
+- Design and implement Generative AI agents, skills, and workflows for engineering applications.
+- Develop technical documentation, user guides, and reference materials for AI-driven solutions.
+- Create unit tests, sample code, and validation tools to support software quality and maintainability.
+- Analyze system performance and contribute to efforts that improve AI accuracy, efficiency, and reliability.
+Education and Experience
+- Currently pursuing a bachelor's degree or master's degree in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related
+technical field.
+- Experience through coursework, academic projects, research, hackathons, or internships involving software development or artificial intelligence.
+- Familiarity with Python, C++, or other object-oriented programming languages.
+- Exposure to Large Language Models (LLMs), AI agents, machine learning, natural language processing, or Generative AI technologies.
+- Familiarity with RESTful APIs, client-server architectures, or web services is preferred.
+- Experience working in Linux-based development environments is beneficial.
+Skills
+Working at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t
+work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for
+creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.
+To thrive in this job, you’ll need the following skills:
+- Develop software solutions using Python, C++, and modern programming practices.
+- Apply knowledge of Generative AI, LLMs, and AI agent frameworks to solve technical problems.
+- Build and maintain RESTful APIs and service-based software integrations.
+- Work effectively in Linux-based development environments.
+- Design, test, and validate software features with attention to quality and reliability.
+- Analyze software performance and identify opportunities for improvement.
+- Communicate technical concepts clearly through documentation and presentations.
+- Collaborate effectively with software engineers, AI specialists, and cross-functional teams.
+- Demonstrate strong analytical thinking and problem-solving abilities.
+- Show curiosity, initiative, and a willingness to learn emerging AI technologies.
+Inclusion and diversity
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit,
+hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual
+orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+Need to know more about applying for a job at ASML? Read our frequently asked questions.

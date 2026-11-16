@@ -1,0 +1,20 @@
+Who We Are
+Artmac Soft is a technology consulting and service-oriented IT company dedicated to providing innovative technology solutions and services to Customers.
+Job Description
+Job Title : Full-Stack AI Engineering Intern
+Job Type : W2/C2C
+Experience : 0-1 year
+Location : Prosper, TX
+Artmac Soft is seeking a Full-Stack AI Engineering Intern to help build web applications and add AI features that solve practical business problems. You will
+work across the interface, backend, and database, with guidance from the engineering team.
+Responsibilities
+- Build React screens and Python APIs that connect to a database.
+- Help integrate AI features such as document summarization, search, or data extraction.
+- Test and debug features, document your work, and explain how it supports the user's workflow.
+Required Skills
+- Python and React fundamentals, with basic knowledge of REST APIs, SQL, and Git.
+- A hands-on project that connects a web interface to a backend API.
+- Basic hands-on use of an LLM API, such as a small summarization or extraction prototype.
+- Preferred: FastAPI or Django, TypeScript, PostgreSQL, Docker, or cloud deployment.
+Qualification
+- Bachelor's degree or equivalent combination of education and experience

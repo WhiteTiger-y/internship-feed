@@ -1,0 +1,66 @@
+Additional Location(s): N/A
+Diversity - Innovation - Caring - Global Collaboration - Winning Spirit - High Performance
+At Boston Scientific, we’ll give you the opportunity to harness all that’s within you by working in teams of diverse and high-performing employees, tackling
+some of the most important health industry challenges. With access to the latest tools, information and training, we’ll help you in advancing your skills and
+career. Here, you’ll be supported in progressing – whatever your ambitions.
+This role follows a hybrid work model, requiring employees to be in our local office at least three to four days per week.
+Relocation and housing assistance are not available for this role.
+We will consider qualified applicants of all ages who are starting (or restarting) their careers.
+Boston Scientific will not offer sponsorship or take over sponsorship of an employment VISA for this position at this time.
+About The Role
+Boston Scientific's AI Engineering team is focused on applying Generative AI and Agentic AI solutions to improve productivity, accelerate innovation, and
+enhance decision-making across the enterprise.
+As an AI Engineering Intern, you will work with cutting-edge foundational models — including Large Language Models and multimodal models — to design and build
+custom GenAI applications and intelligent agent workflows. Our team does not train foundational models; instead, we leverage leading AI platforms and integrate
+them with enterprise systems, data sources, and tools to deliver scalable, secure, and responsible AI solutions within a regulated medical device environment.
+Your Responsibilities Will Include
+- Assist in designing, building, and deploying custom Generative AI applications using foundational model APIs.
+- Support development of Agentic AI workflows that orchestrate tools, APIs, and enterprise systems.
+- Contribute to prompt engineering, evaluation, and iterative optimization of GenAI solutions.
+- Help implement Retrieval-Augmented Generation (RAG) pipelines integrating structured and unstructured enterprise data.
+- Develop backend services, APIs, and automation components that enable AI-powered workflows.
+- Collaborate with cross-functional stakeholders (Engineering, R&D, Quality, Regulatory, Operations, IT) to identify and prototype high-impact AI use cases.
+- Participate in testing, validation, documentation, and responsible AI governance practices in a regulated environment.
+- Contribute to experimentation with agent orchestration frameworks and emerging enterprise AI technologies.
+Required Qualifications
+- Must graduate between Fall 2027 – Spring 2029 (rising juniors or seniors).
+- Currently pursuing a bachelor's or graduate-level degree in Computer/Data Science, Software Engineering, or Artificial Intelligence Development.
+- 1–2 years of hands-on Python development experience, including writing scripts, building applications, and working with Python libraries (e.g., NumPy, Pandas,
+Requests, or similar).
+- 1+ year of experience working with REST APIs, including consuming and integrating third-party services into applications.
+- 1+ year of demonstrated understanding of Generative AI and Large Language Models, such as through coursework, personal projects, research, or prior internship
+experience.
+- Must be able to commit to one of the following full internship program periods: May 18th – August 7th OR May 26th – August 14th.
+- Must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization.
+- Must have reliable transportation to and from the Marlborough, MA or Maple Grove/Arden Hills, MN Boston Scientific office location.
+Preferred Qualifications
+- 1+ year of experience building LLM-powered applications using APIs such as OpenAI, Anthropic, Azure OpenAI, or similar — including chat systems, RAG
+implementations, or tool-use workflows.
+- Exposure to agent orchestration frameworks (e.g., LangChain, LangGraph, AutoGen, CrewAI) or multi-step AI workflows.
+- Hands-on familiarity with cloud environments: Azure (preferred), AWS, or GCP.
+- 6+ months of experience with backend development, relational or vector databases, or enterprise system integration.
+- Interest in secure AI deployment, human-in-the-loop systems, and responsible AI practices.
+- Strong analytical and problem-solving skills with the ability to break down ambiguous problems independently.
+- Passion for applying AI to meaningful healthcare challenges.
+Requisition ID: 636752
+Minimum Salary: $44616
+Maximum Salary: $75816
+The anticipated compensation listed above and the value of core and optional employee benefits offered by Boston Scientific (BSC) – see
+www.bscbenefitsconnect.com—will vary based on actual location of the position and other pertinent factors considered in determining actual compensation for the
+role. Compensation will be commensurate with demonstrable level of experience and training, pertinent education including licensure and certifications, among
+other relevant business or organizational needs. At BSC, it is not typical for an individual to be hired near the bottom or top of the anticipated salary range
+listed above.
+Compensation for non-exempt (hourly), non-sales roles may also include variable compensation from time to time (e.g., any overtime and shift differential) and
+annual bonus target (subject to plan eligibility and other requirements).
+Compensation for exempt, non-sales roles may also include variable compensation, i.e., annual bonus target and long-term incentives (subject to plan eligibility
+and other requirements).
+For MA positions: It is unlawful to require or administer a lie detector test for employment. Violators are subject to criminal penalties and civil liability.
+Boston Scientific transforms lives through innovative medical technologies that improve the health of patients around the world. As a global medical technology
+leader for more than 45 years, we advance science for life by providing a broad range of high-performance solutions that address unmet patient needs and reduce
+the cost of healthcare. Our portfolio of devices and therapies helps physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological,
+neurological and urological diseases and conditions. Learn more at www.bostonscientific.com and follow us on LinkedIn.
+Boston Scientific Corporation has been and will continue to be an equal opportunity employer. To ensure full implementation of its equal employment policy, the
+Company will continue to take steps to assure that recruitment, hiring, assignment, promotion, compensation, and all other personnel decisions are made and
+administered without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, gender expression, veteran status,
+age, mental or physical disability, genetic information or any other protected class.
+Please be advised that certain US based positions, including without limitati

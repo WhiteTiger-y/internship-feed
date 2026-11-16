@@ -1,0 +1,87 @@
+Description
+Machine Learning Co-Op
+Title of Direct Supervisor: Quality Process Improvement Engineer
+Co-op Duration: 2027; estimated to run from January 2027 - December 2027
+Position Summary
+The Machine Learning Co-Op supports the Quality Engineering team by contributing to machine learning initiatives that improve automated visual inspection,
+defect detection, and manufacturing efficiency.
+During the Co-Op's duration, the Co-op will assist with inspection data preparation, model training and validation, performance analysis, and optimization in
+collaboration with Quality Engineering, Manufacturing, and technical teams. Project deliverables will include documented results, recommendations, and a final
+presentation of measurable improvements.
+Local Primary Duties
+- Support machine learning (ML) initiatives focused on improving automated visual inspection, defect detection, and manufacturing efficiency.
+- Assist in the development, testing, validation, and optimization of machine learning models used in manufacturing quality inspection systems.
+- Collect, organize, label, and analyze manufacturing and inspection data to support model training, retraining, and performance evaluation.
+- Collaborate with Quality Engineering, Manufacturing, and technical teams to troubleshoot model performance and implement improvements.
+- Analyze model performance to identify opportunities to reduce false rejects, improve defect detection accuracy, and optimize inspection processes.
+- Document project progress, analyze results, and present findings, recommendations, and measurable improvements.
+- Perform other duties as assigned.
+Qualifications
+Required Education, Training and Experience
+- High School Diploma, GED or equivalent
+- Must be currently enrolled in a college degree program at a recognized institution of higher learning
+- Must be currently enrolled in a BS or MS Program in a related Systems, Biomedical, or Software Engineering and completed 1 full year.
+- To qualify for this Co-Op position, candidates must be actively enrolled in a participating university's formal Co-Op Program and meet all university
+requirements necessary to receive academic co-op credit. This includes enrollment in any required co-op course, program, or approval process established by the
+university. Students are responsible for maintaining eligibility and obtaining all required university approvals throughout the duration of the assignment.
+- Must be enrolled in a formal Cooperative Education (Co-op) Program at NC State University, Duke University, or NC A&T University.
+Experience
+- No previous experience required
+Education
+- High School Diploma, GED or equivalent
+- Must be currently enrolled in a college degree program at a recognized institution of higher learning
+- Must be currently enrolled in a BS or MS Program in a related Systems, Biomedical, or Software Engineering and completed 1 full year.
+Key Skills, Knowledge And Abilities (KSAs)
+The provided position information identifies the following KSAs:
+- Understanding the Business
+- Intellectual Horsepower
+- Creating the New and Different
+- Maintaining Focus
+- Getting Organized
+- Getting Work Done Through Others
+- Managing Work Processes
+- Dealing with Complex Situations
+- Conflict Management
+- Focusing on the Bottom Line
+- Being Organizationally Savvy
+- Communicating Effectively
+- Relating Skills
+- Developing and Inspiring Others
+- Managing Diverse Relationships
+- Acting with Honor and Being Open
+Working Conditions And Physical Requirements
+- Ability to remain in stationary position, often standing, for prolonged periods. No
+- Ability to ascend/descend stairs, ladders, ramps, and the like. Yes
+- Ability to wear PPE correctly most of the day. Yes
+- Ability to operate heavy machinery. No
+- Ability to adjust or move objects up to 50 pounds in all directions. Yes
+- Domestic travel required: 0%
+- International travel required: 0%
+- Total: 0%
+- List any other physical requirements associated with this job: N/A
+Role
+The pay for this role is $22.00. In addition, bioMérieux offers a competitive Total Rewards package that may include (dependent upon hours worked):
+- A choice of medical (including prescription), dental, and vision plans providing nationwide coverage and telemedicine options
+- Company-Provided Life and Accidental Death Insurance
+- Short and Long-Term Disability Insurance
+- Retirement Plan including a generous non-discretionary employer contribution and employer match.
+- Adoption Assistance
+- Wellness Programs
+- Employee Assistance Program
+- Commuter Benefits
+- Various voluntary benefit offerings
+- Discount programs
+- Parental leaves
+Please be aware that recruitment related scams are on the rise. Fraudulent job postings are being placed on other websites, and individuals posing as bioMérieux
+Talent Acquisition team members are reaching out via email or text message in an attempt to collect your personal and confidential information. In some cases,
+these scammers are also conducting bogus interviews prior to extending fraudulent offers of employment. Beware of individuals reaching out using general phone
+numbers and non-bioMerieux email domains (i.e. Hotmail.com, Gmail.com, Yahoo.com, etc.). If you are concerned that an interview experience or offer of
+employment might be a scam, please make sure you are searching for the posting on our careers site https://careers.biomerieux.com/ or contact us at [email
+protected].
+BioMérieux Inc. and its affiliates are Equal Opportunity/Affirmative Action Employers. All qualified applicants will receive consideration for employment
+without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic
+information. Please be advised that the receipt of satisfactory responses to reference requests and the provision of satisfactory proof of an applicant’s
+identity and legal authorization to work in the United States are required of all new hires. Any misrepresentation, falsification, or material omission may
+result in the failure to receive an offer, the retraction of an offer, or if already hired, dismissal. If you are a qualified individual with a disability, you
+may request a reasonable accommodation in BioMérieux’s or its affiliates’ application process by contacting us via telephone at (385) 770-1132, by email at
+[email protected], or by dialing 711 for access to Telecommunications Relay Services (TRS).

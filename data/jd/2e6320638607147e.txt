@@ -1,0 +1,61 @@
+About Origin Medical Research Lab
+Origin Medical Research Lab is the research arm of Origin Medical. Here, we strive to bring together the best and brightest minds at the intersection of AI and
+healthcare to fulfill Origin Medical’s mission.
+By combining the knowledge of healthcare and AI, it is on a journey to build state-of-the-art solutions aimed at supporting a broad spectrum of healthcare
+providers in rural and urban communities, allowing them to practice at the top of their licenses. With AI in the imaging workflow, clinicians can more
+confidently deliver timely interventions, enhance pregnancy outcomes, identify high-risk pregnancies to reduce maternal mortality, and significantly lower
+infant mortality rates.
+Origin Medical, headquartered in Cambridge, Massachusetts, USA, is driven by a mission to advance maternal health equity by improving access to quality prenatal
+care with artificial intelligence.
+About the Research Team and the Role
+As an AI Research Intern at Origin Medical Research Lab, you will be working with our team of research engineers, AI scientists, leading medical institutions,
+and clinicians in developing the next-generation deep learning algorithms for the automated assessment of fetal ultrasound images. Our internships provide a
+very unique, hands-on first-of-its-kind research experience to solve the most challenging AI problems that push the frontiers of AI in healthcare. You will have
+the opportunity to try and test hypotheses for multiple experiments and be mentored by industry experts to translate your research into a product for real-world
+impact.
+What will you do?
+- AI algorithmic research: Design and implement next-generation deep learning models (e.g., Classification/Segmentation/Object detection/ Landmark detection) to
+build world-class products. This also includes the development of visualization tools and frameworks to create interpretable deep-learning models.
+- AI algorithm validation: Validate deep learning technologies for safety and efficacy at various stages of the product development life cycle.
+- Technology translation: Work with Product, Software, and Regulatory teams to translate technologies developed into products for real-world use.
+- Technology and engineering strategy: Research into the latest technologies (not limited to AI) to provide strategy and direction in product development.
+Who are we looking for?
+- Passionate about developing the next generation of deep-technological healthcare solutions to impact the lives of millions of expecting mothers and their
+families around the world.
+- At least 6 months of hands-on experience in deep learning or machine learning research and development pertaining to image recognition: convolutional neural
+networks, optimization, hyperparameter tuning, model search, etc.
+- Experience in:
+- Language: Python.
+- Frameworks: PyTorch
+- Libraries: OpenCV, Pandas, PIL, Matplotlib, etc.
+- Basic understanding and knowledge of:
+- Medical imaging processing.
+- Real-time model development and deployment frameworks.
+- Git and Git workflow.
+- Analytical thinker with an innate inquisitiveness, relevant interests, and creativity.
+- Ability to quickly read, understand, and implement academic publications.
+- Team player and eager-to-learn attitude.
+- Ability to communicate complex ideas effectively - both verbally and in writing - in English.
+- Previous internship experience in early-stage startups is a plus.
+Working at Origin Medical Research Lab
+You will receive competitive monthly compensation aligned with industry standards. Additionally, we provide a comprehensive benefits package, including:
+- 401(k)
+- Health Insurance
+- Wellness allowance
+- Other related benefits
+You will work with an exceptional team of highly qualified individuals who strive towards a common goal of delivering a product that improves the standard of
+care for expecting mothers everywhere.
+You will also collaborate with renowned clinicians, AI scientists, and business leaders from around the world.
+At Origin Medical Research Lab, we take pride in fostering an inclusive and optimistic company culture that places great value on collaboration, teamwork, and
+work-life balance. As a valued member of our team, you will have the opportunity to join a supportive environment where individuals genuinely care about each
+other's success and well-being.
+This job posting is valid only on our official LinkedIn page and the mentioned URL. We are not responsible for any job postings or advertisements on third-party
+sites not listed above.
+Please note that our company does not charge any fees for internships or job applications. Any such requests for payment should be considered fraudulent. We
+strongly advise you to report any suspicious activity involving our name to the appropriate authorities.
+Any unauthorized use of our job postings, company information, or data by third parties for their business activities is strictly prohibited. Such actions may
+be in violation of the Information Technology Act and will be subject to legal penalties under applicable laws.
+The information provided in this job posting outlines the general nature of the role. It is not an exhaustive list of responsibilities, duties, or skills
+required. The company reserves the right to make changes to this description at any time based on business needs.
+Our company is an Equal Opportunity Employer, and we do not discriminate based on race, color, religion, gender, national origin, age, disability, sexual
+orientation, or any other status protected under federal, state, or local laws.

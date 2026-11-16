@@ -1,0 +1,29 @@
+Introduction
+The TAC AI team is applying Generative AI to computational lithography products to help users create, debug, optimize, and automate complex engineering
+workflows. Our mission is to enable users to go directly from intent to solution using AI agents, knowledge systems, and intelligent automation. Key challenges
+include building reliable agent workflows, managing long-term knowledge and memory, and integrating AI into real engineering applications.
+Your Assignment
+As a Generative AI Development Intern, you will help develop the next generation of AI-powered engineering assistants.
+Your responsibilities include:
+- Designing and implementing agent workflows for different use cases.
+- Developing memory and knowledge systems for AI agents.
+- Building solutions that connect user intent to automated problem solving.
+- Organizing and maintaining knowledge repositories used by AI agents.
+- Experimenting with modern agent frameworks and Generative AI technologies.
+Why this internship is interesting
+- Work on real-world Generative AI applications in computational lithography.
+- Gain hands-on experience with LLMs, AI agents, memory systems, and knowledge management.
+- Help shape the future of AI-assisted engineering products.
+Your Profile
+- Pursuing a Master's, or PhD degree in Computer Science, AI, Software Engineering, or a related field.
+- Strong Python programming skills.
+- Familiarity with agent frameworks such as LangChain, LangGraph, DeepAgents, or similar technologies.
+- Basic knowledge of databases, RAG, and agent memory systems.
+- Strong analytical and problem-solving skills.
+- Self-motivated, curious, and passionate about Generative AI.
+- Good communication and teamwork skills.
+Inclusion and diversity
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit,
+hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual
+orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+Need to know more about applying for a job at ASML? Read our frequently asked questions.

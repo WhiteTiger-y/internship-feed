@@ -1,0 +1,54 @@
+Envita Solutions, formerly known as Heritage Interactive Services, is a leading total waste management partner. The company is dedicated to fostering a
+healthier planet by transforming complex waste challenges into sustainable solutions. Headquartered in Indianapolis, Indiana, Envita Solutions operates in the
+U.S., Mexico, and Canada, has over 300 employees, and a network of over 3,000 supplier partners. A division of The Heritage Group, Envita Solutions is part of a
+portfolio of more than 30 companies specializing in heavy construction and materials, environmental services, and specialty chemicals. With unique access to
+research and development and a leading hard tech corporate venture capital portfolio, Envita Solutions is at the forefront of waste and climate challenge
+innovation.
+At Envita, our guiding principles are the foundation of our company. Our vision is to foster a healthier planet by transforming complex waste challenges into
+sustainable solutions. We exist to protect human health and the environment and build a safer, more sustainable world. We believe in creating enduring value,
+building long-term relationships and mutual trust, betting on our people, keeping our eyes open for opportunity, tackling the big problems, and doing the right
+thing-always.
+We are seeking a versatile Data Scientist Intern to join our digital technology team for the summer. The intern will contribute to real-world projects that
+enhance efficiency, drive digital innovation, and support Envita's sustainability mission. The intern will gain valuable experience by exploring complex, real-
+world production data to analyzing trends, building and maintaining models, assessing data quality, identify gaps, and more. The ideal candidate will take
+initiative in these ventures, ask good questions, practice critical thinking, and be able to work with colleagues on other teams.
+Essential Functions
+- Ensures Health & Safety is the number one goal by following policies, processes, and always acting in a safe manner.
+- Data Analysis & Preparation: Collect, clean, transform, and analyze structured and unstructured datasets to support AI and automation initiatives.
+- Product exploratory data analysis, deliver trends and insights to both technical and non-technical audiences.
+- ML Applications: Fine-tune and evaluate machine learning models for tasks such as classification, regression, forecasting, and anomaly detection.
+- Prototyping Solutions: Deliver proof-of-concept models and automation workflows that demonstrate measurable value.
+- Cross-Team Collaboration: Partner with technology and business transformation teams to contribute to and understand end-to-end data lifecycle.
+- Continuous Research: Stay current on AI/ ML trends; recommend tools and methods that could benefit Envita’s operations.
+- Gain practical experience in AI — from data analysis to workflow deployment.
+- Apply Data Science in real-world business contexts, including sustainability and operational efficiency.
+- Collaborate with product, strategy, and technology leaders on high-impact digital initiatives.
+- Additional duties and responsibilities as assigned, including but not limited to continuously growing in alignment with the Company’s core values,
+competencies, and skills.
+Education Qualifications
+- Required High School or Equivalent.
+- Preferred Bachelor's Degree and open to college sophomore, junior, senior, recent grad, or 1st or 2nd master’s student majoring in Computer Science, Data
+Science, AI/ML, Statistics/Mathematics, or a related field in progress.
+Experience Qualifications
+- Coursework, projects, and/or internships specializing in Computer Science, Mathematics, Machine Learning or AI preferred.
+- Familiarization with data manipulation and visualization tools, including but not limited to numpy, pandas, seaborn, and plotly.
+- Academic, internship, or project-based experience with machine learning frameworks (e.g. scikit-learn, scipy, TensorFlow, PyTorch).
+- Experience using generative AI models and prompt engineering techniques is a plus.
+Skills And Abilities
+- Working knowledge of SQL and comfort working with messy, real-world data.
+- Proficiency in Python, R, or equivalent for both ML and Data Analysis scripting.
+- Strong understanding of AI/ML concepts and practical application in business contexts.
+- Strong problem-solving skills to bridge technical models with business needs.
+- Effective communicator, able to explain technical solutions to non-technical audiences.
+- Code versioning, using Git/Github, SVN, or equivalent, is a plus.
+- Code containerization (Docker) is a plus.
+Working Conditions/Physical Demands
+- Must be able to make in office commute.
+Internships at The Heritage Group
+The Heritage Group Internship Program provides hands-on, paid experiences in a corporate function or within one of our many operating companies. Interns can
+expect to network with other students and professionals, gain useful skills, receive mentoring, and make their own contributions to the organization.
+Additionally, interns can participate in our weekly hosted events focused on professional development, team building, and community service.
+Intern pay is non-negotiable and is calculated based on current academic class standing $18/hour (Freshman) - $21/hour (Senior), etc.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national
+origin, disability, or status as a protected veteran.
+#EnvitaSolutions

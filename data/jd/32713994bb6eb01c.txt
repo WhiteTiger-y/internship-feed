@@ -1,0 +1,87 @@
+Applied Machine Learning Engineering Internships Summer 2027 - Shopify Skip to Content
+Read through our Internships FAQ to help answer any questions you may have about internships at Shopify.
+Being a Shopify Intern
+Our hiring process is unique. We hire interns and place them on teams we think they’d be successful on. We match interns with teams based on their experience,
+interest, and what works best for Shopify.
+Applied Machine Learning Engineers at Shopify tackle the most challenging technical problems in commerce. They work with petabyte-scale data and utilize state-
+of-the-art ML methods to build and deploy models that serve millions of users. As a Machine Learning Intern, you’ll be at the forefront of AI innovation, using
+technologies such as LLM posttraining, reinforcement learning, and model quantization, to redefine what’s possible in e-commerce.
+Working at Shopify
+You must be legally entitled to work in the location you are applying to for the entire duration of the summer internship term (May 10 or June 14 - Aug 27,
+2027). Shopify does not provide immigration support to intern candidates.
+This internship is a 4 month long, full-time, paid experience - interns are expected not to be enrolled in school full-time while working at Shopify.
+As an Intern you must be able to work from one of our offices:
+Montréal, Québec (490 Rue De la Gauchetière O)
+Ottawa, Ontario (151 O’Connor Street)
+Toronto, Ontario (620 King West)
+Please note: if you don’t currently live in one of the above cities, you must be willing and able to relocate for in-office experiences at one of these offices.
+If successful in your application, we will match you to a team when you start at Shopify. We’re unable to accommodate requests for particular teams and location
+changes once an offer is signed.
+Onboarding
+Interns must be located in their office city by the first day of onboarding and be ready to work 9:00am - 5:00pm. Interns cannot work from outside of the
+country they are hired in during their internship.
+Qualifications
+You love challenging yourself with projects or hacking just for fun
+You are a constant learner
+You have a passion for solving tough problems with code
+You take ownership of the projects you work on
+You enjoy research and figuring out how pieces of an entire project work
+You take pride in creating simple solutions to complex problems
+You have a strong commitment to quality
+Compensation
+This role currently has a base pay range of CAD $88,000 to $96,000 for Canada per annum, based on a candidate's experience and qualifications. Interns also
+receive a monthly allowance of CAD $1000 (Canada) to use however best supports them during their internship.
+Additional Information
+In your application
+Include your resume
+Answer all of the application questions
+Once you submit your application, and if you move forward in our process, you’ll then be emailed a series of mandatory assessments to complete. These will help
+assess your technical skills and your likelihood of success at Shopify.
+We know that applying for internships can be time-consuming, and we truly appreciate your effort. The Early Talent Programs Team are actual real live people
+(👋🏻) and we’re looking forward to learning more about you through your application.
+Applications will close on November 30th at 11:59pm EDT.
+–
+Description du poste
+Consultez notre FAQ (questions fréquentes) sur les stages pour répondre à toutes vos questions sur le programme de stages chez Shopify.
+Être stagiaire chez Shopify
+Notre processus de recrutement est unique. Nous embauchons des stagiaires, puis les intégrons aux équipes où ils sont le plus susceptibles de réussir, en
+fonction de leur expérience, de leurs intérêts et des besoins de Shopify.
+Les ingénieurs et ingénieures en apprentissage automatique appliqué (Machine Learning Engineers) chez Shopify s’attaquent aux défis techniques les plus
+complexes du commerce. Ils travaillent sur des volumes de données à l’échelle du pétaoctet et mettent à profit des méthodes d’apprentissage automatique de
+pointe pour concevoir et déployer des modèles au service de millions d’utilisateurs.
+En tant que stagiaire en apprentissage automatique appliqué, vous serez à l’avant-garde de l’innovation en intelligence artificielle. Vous utiliserez notamment
+des technologies comme le post-entraînement de grands modèles de langage (LLM), l’apprentissage par renforcement et la quantification des modèles afin de
+repousser les limites du commerce électronique.
+Travailler chez Shopify
+Vous devez être légalement autorisé à travailler au Canada pendant toute la durée du stage d'été 2027 (du 10 mai ou 14 juin au 27 août 2027). Shopify ne propose
+pas de soutien en matière d’immigration pour les stagiaires.
+Ce stage est une expérience rémunérée à temps plein d’une durée de quatre mois. Les stagiaires doivent être disponibles à temps plein et ne pas être inscrits à
+des études à temps plein pendant leur stage chez Shopify.
+En tant que stagiaire, vous devez être en mesure de travailler depuis l'un de nos bureaux:
+Canada
+Montréal, Québec (490 Rue De la Gauchetière O)
+Ottawa, Ontario (151, rue O'Connor)
+Toronto, Ontario (620 King Ouest)
+Veuillez noter : si vous ne résidez pas actuellement dans l'une des villes mentionnées ci-dessus, vous devez être disposé et en mesure de vous relocaliser pour
+des expériences en présentiel dans l'un de ces bureaux. Si votre candidature est retenue, nous vous assignerons à une équipe au moment de votre arrivée chez
+Shopify. Nous ne sommes pas en mesure d’accepter les demandes de placement dans une équipe précise ni les changements de lieu une fois l’offre signée.
+Intégration
+Les stagiaires doivent être présents dans leur ville de travail dès le premier jour de leur intégration (le 24 mai ou 14 juin 2027) et être prêts à travailler
+de 9 h à 17 h. Vous ne pouvez pas travailler en dehors du pays prévu durant votre stage.
+Profil recherché
+Vous souhaitez vous lancer des défis, que ce soit à travers des projets ou du hacking pour le plaisir.
+Vous avez toujours soif d’apprendre.
+Vous aimez résoudre des problèmes complexes avec du code.
+Vous travaillez de manière autonome et prenez pleinement en charge les projets qui vous sont confiés.
+Vous aimez la recherche et comprendre comment les différentes parties d’un projet s’articulent.
+Vous savez trouver des solutions simples aux problèmes complexes.
+La qualité est au cœur de votre travail.
+Rémunération
+Ce poste offre actuellement une échelle salariale de base de 88 000 $ à 96 000 $ CAD pour le Canada par année, selon l'expérience et les qualifications du
+candidat. Les stagiaires reçoivent également une allocation mensuelle de 1 000 $ CAD (Canada) à utiliser comme bon leur semble pour les soutenir pendant leur
+stage.
+Informations supplémentaires
+Dans votre candidature
+Ajoutez votre CV
+Répondez à toutes les questions indiquées
+Une fois votre candidature soumise, si vous êtes retenu pour la suite du processus, nous vous enverrons par e-mail une liste d’évaluations ob

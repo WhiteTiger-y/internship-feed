@@ -1,0 +1,50 @@
+We Are Bosch.
+At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our areas of activity are
+every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility, or industry.
+Let’s grow together, enjoy more, and inspire each other. Work #LikeABosch
+- Reinvent yourself: At Bosch, you will evolve.
+- Discover new directions : At Bosch, you will find your place.
+- Balance your life: At Bosch, your job matches your lifestyle.
+- Celebrate success: At Bosch, we celebrate you.
+- Be yourself: At Bosch, we value values.
+- Shape tomorrow: At Bosch, you change lives.
+Bosch Research and Technology in Pittsburgh is seeking a motivated student intern to advance foundation models for multimodal sensing. Our research explores how
+models can learn from diverse sensor streams to understand physical environments, recognize events and activities, and transfer knowledge across tasks and
+sensing systems. The position offers opportunities to explore applications across interior and exterior environments, mobility, connected devices, industrial
+systems, and other emerging domains. You will work alongside experienced researchers to develop broadly applicable methods at the intersection of deep learning,
+signal processing, and cyber-physical systems.
+Responsibilities
+- Contribute to the design, training, and evaluation of foundation models for heterogeneous sensor data, such as radar, acoustic, vibration, image, lidar, Wi-
+Fi, inertial, and other time-series signals.
+- Investigate self-supervised learning, multimodal representation learning, and cross-modal alignment to learn from large collections of labeled and unlabeled
+data.
+- Develop methods for sensor fusion and adaptation across tasks, environments, devices, and sensor configurations.
+- Evaluate models on representative tasks such as scene understanding, activity recognition, event detection, tracking, and anomaly detection.
+- Explore robustness to missing modalities, noisy measurements, and changes in operating conditions, along with efficient adaptation and inference.
+- Collaborate with cross-functional teams to prototype sensing solutions and communicate findings through reports, presentations, and potential publications or
+patents.
+Benefits
+- Hands-on experience with multimodal sensing and foundation model research across diverse application domains.
+- Mentorship from researchers in AI, signal processing, and cyber-physical systems.
+- Opportunities to contribute to research publications, intellectual property, and technologies with potential impact on products and processes.
+Required
+- Currently pursuing a PhD in Computer Science, Electrical Engineering, Computer Engineering, Robotics, Data Science, or a related technical field.
+- Strong knowledge of machine learning and deep learning principles.
+- Proficiency in Python and experience with frameworks such as PyTorch or TensorFlow.
+- Experience with multimodal learning, time-series modeling, computer vision, or sensor data analysis.
+- Strong problem-solving and communication skills, with an ability to collaborate in a research environment.
+- Interest in developing transferable learning methods for real-world sensing applications.
+Preferred
+- Research experience in foundation models, self-supervised learning, contrastive learning, masked modeling, or generative modeling.
+- Experience working with raw sensor data, such as radar, audio, lidar, images, vibration, or inertial measurements.
+- Knowledge of signal processing, sensor fusion, or multimodal representation learning.
+- Experience with domain adaptation, few-shot learning, cross-modal transfer, or learning with incomplete sensor inputs.
+- Familiarity with efficient model architectures, edge AI, embedded systems, or deployment constraints.
+- Publications in machine learning, computer vision, robotics, or signal processing venues.
+Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.
+Equal Opportunity Employer, including disability / veterans
+*Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background
+check. Candidates who have been offered the position must pass both screenings before their start date.
+Your well-being matters at Bosch! We offer a competitive compensation and a benefits package designed to empower you in every area of your life. This includes
+premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and
+comprehensive life and disability protection. We're investing in your success!

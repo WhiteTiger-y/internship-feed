@@ -1,0 +1,54 @@
+Company Description
+We Are Bosch.
+At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our areas of activity are
+every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility, or industry.
+Let’s grow together, enjoy more, and inspire each other. Work
+- Reinvent yourself: At Bosch, you will evolve.
+- Discover new directions: At Bosch, you will find your place.
+- Balance your life: At Bosch, your job matches your lifestyle.
+- Celebrate success: At Bosch, we celebrate you.
+- Be yourself: At Bosch, we value values.
+- Shape tomorrow: At Bosch, you change lives.
+Job Description
+Bosch Research and Technology in Pittsburgh is seeking a motivated student intern to advance multimodal sensor foundation models for healthcare. Our research
+explores how models trained on diverse sensor data can learn transferable representations that support health monitoring across people, devices, and
+environments. You will work alongside experienced researchers to develop and evaluate methods that combine ambient and wearable sensing with advances in self-
+supervised learning, multimodal learning, and foundation models. Potential applications include physiological monitoring, activity understanding, aging in
+place, and caregiver support.
+Responsibilities
+- Contribute to the development of foundation models for multimodal sensor data, including physiological signals, motion, radar, acoustics, and other health-
+related measurements.
+- Investigate self-supervised learning, cross-modal alignment, and sensor fusion methods to learn representations from heterogeneous and partially labeled
+datasets.
+- Adapt and evaluate pretrained models for healthcare tasks, with an emphasis on generalization across individuals, sensor configurations, and environments.
+- Explore robustness to missing modalities, noisy signals, limited annotations, and changes in data distributions.
+- Collaborate with researchers to prototype health-sensing solutions and assess model performance, reliability, and practical limitations.
+- Document and communicate findings through internal reports, presentations, and potential publications or patents.
+Benefits
+- Hands-on experience with multimodal sensing and foundation model research for healthcare.
+- Mentorship from researchers in AI, sensing, and cyber-physical systems.
+- Opportunities to contribute to research publications, intellectual property, and technologies with potential real-world impact.
+Qualifications
+Required
+- Currently pursuing a PhD in Computer Science, Electrical Engineering, Computer Engineering, Biomedical Engineering, Data Science, or a related technical
+field.
+- Strong knowledge of machine learning and deep learning principles.
+- Proficiency in Python and experience with frameworks such as PyTorch or TensorFlow.
+- Experience with time-series modeling, multimodal learning, or sensor data analysis.
+- Strong problem-solving and communication skills, with an ability to collaborate in a research environment.
+- Interest in applying machine learning to real-world healthcare challenges.
+Desired
+- Research experience in foundation models, self-supervised learning, contrastive learning, masked modeling, or transfer learning.
+- Experience working with physiological or behavioral sensor data, such as ECG, PPG, IMU, radar, or acoustic signals.
+- Knowledge of signal processing and multimodal representation learning.
+- Experience evaluating model generalization, uncertainty, personalization, or learning with limited labeled data.
+- Familiarity with privacy-aware methods and responsible use of health-related data.
+- Publications in machine learning, signal processing, biomedical engineering, or digital health venues.
+Additional Information
+Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.
+Equal Opportunity Employer, including disability / veterans
+- Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and
+background check. Candidates who have been offered the position must pass both screenings before their start date.
+Your well-being matters at Bosch! We offer a competitive compensation and a benefits package designed to empower you in every area of your life. This includes
+premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and
+comprehensive life and disability protection. We're investing in your success!
