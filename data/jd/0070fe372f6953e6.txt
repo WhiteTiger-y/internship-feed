@@ -1,0 +1,44 @@
+Introduction
+We are seeking a PhD research intern to explore advanced artificial intelligence and machine-learning methods for e-beam defect inspection and SEM image
+analysis. The intern will work with a multidisciplinary team to investigate emerging AI technologies and evaluate their potential for semiconductor inspection
+and scientific imaging applications.
+This internship offers an opportunity to develop innovative AI solutions, conduct applied research, and contribute to future technologies for semiconductor
+defect inspection.
+Role and Responsibilities
+As an AI Research Intern, you will support research initiatives focused on developing and evaluating advanced AI solutions for defect inspection and scientific
+imaging applications.
+- Conduct research on advanced artificial intelligence and machine learning techniques for semiconductor defect inspection and SEM image analysis.
+- Develop, implement, and evaluate proof-of-concept machine learning and deep learning models.
+- Design experiments and apply quantitative and qualitative methods to assess model performance.
+- Analyze results and evaluate model accuracy, robustness, generalization, and limitations.
+- Collaborate with researchers, engineers, and subject matter experts to understand technical challenges and identify innovative solutions.
+- Document research methodologies, experimental results, and technical recommendations.
+- Contribute to technical reports, publications, presentations, patent disclosures, or other research deliverables as appropriate.
+Education and Experience
+- Currently pursuing a PhD in Physics, Chemistry, Electrical Engineering, Computer Science, Artificial Intelligence, Data Science, or a related technical field.
+- Research experience in one or more of the following areas: Machine Learning and Deep Learning Vision-Language Models (VLMs) Computer Vision Image Processing
+and Image Analysis
+- Experience conducting research projects involving experimental design, model development, and performance evaluation.
+- Strong programming skills using Python and common scientific computing or machine learning libraries.
+- Experience with data analysis, model validation, and statistical evaluation techniques.
+- Publications, research presentations, or open-source contributions are beneficial but not required.
+Skills
+Working at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t
+work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for
+creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.
+To thrive in this job, you'll need the following skills:
+- Apply machine learning and deep learning techniques to complex scientific and engineering problems.
+- Develop and evaluate computer vision models for image analysis and defect detection applications.
+- Utilize Vision-Language Models and emerging Generative AI technologies to investigate innovative solutions.
+- Design experiments and apply rigorous methodologies to validate research findings.
+- Program efficiently using Python and modern machine learning frameworks.
+- Analyze large datasets and interpret results using statistical and analytical techniques.
+- Evaluate model accuracy, robustness, explainability, and generalization performance.
+- Communicate technical findings clearly through presentations, reports, and documentation.
+- Collaborate effectively with multidisciplinary teams of researchers and engineers.
+- Demonstrate scientific curiosity, critical thinking, and a strong problem-solving mindset.
+Inclusion and diversity
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit,
+hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual
+orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+Need to know more about applying for a job at ASML? Read our frequently asked questions.

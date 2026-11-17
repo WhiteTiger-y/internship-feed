@@ -1,0 +1,51 @@
+Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers,
+robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an
+NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can
+make a lasting impact on the world.
+NVIDIA is using the power of high-performance computing and AI to accelerate digital biology. Join our applied research team to study agent swarms: coordinated
+teams of AI agents that plan, build, experiment, and check one another’s work. Working with a mentor, you will investigate how these systems can solve hard
+problems in computational biology using NVIDIA’s accelerated computing platform. You will also use swarms as a daily research tool, rapidly turning ideas into
+implementations, experiments, and useful scientific software. We are looking for exceptional researchers who combine deep computational foundations with
+original thinking and careful scientific judgment. Expect a lively, collaborative environment with ambitious questions, short cycles from hypothesis to
+experiment, and the fun of building things that work.
+What You'll Be Doing
+- Work with a mentor to formulate original research questions about how agent swarms can solve difficult computational biology problems, and design a focused
+project to test them.
+- Build and orchestrate agents that divide work, explore approaches in parallel, write and execute scientific code, exchange evidence, and critique or refine
+one another’s solutions.
+- Use agent swarms in your daily research workflow to rapidly implement algorithms, build scientific tools, and run experiments, taking responsibility for
+correctness and scientific interpretation.
+- Design controlled evaluations against single-agent systems and established computational methods; use ablation studies and comparable compute budgets to
+measure solution quality, reliability, and time to solution.
+- Collaborate with biologists, computational scientists, and engineers to connect experiments to meaningful biological questions; share reproducible code,
+benchmarks, and findings through open-source releases and research publications where appropriate.
+What We Need To See
+- Pursuing an MS or PhD in computer science, computational biology, bioinformatics, chemistry, physics, mathematics, or a related quantitative field, or an
+equivalent program area.
+- Strong foundations in algorithms, data structures, numerical methods, and scientific computing, demonstrated through coursework, research, or substantial
+projects.
+- Proficiency in Python and experience implementing, testing, and debugging scientific software, including the ability to inspect and validate agent-generated
+code and numerical results.
+- Hands-on experience using and orchestrating multiple AI agents to solve technical problems, including task decomposition, tool use, parallel execution, and
+verification of outputs.
+- Evidence of research depth and originality through a project, thesis, paper, or software contribution: formulating a question, designing convincing
+experiments, and critically interpreting findings and limitations.
+Ways To Stand Out From The Crowd
+- Experience turning scientific papers or mathematical descriptions into efficient implementations, including profiling, numerical validation, and optimization
+in C/C++, CUDA, or other parallel computing environments.
+- Experience applying computational methods to biological problems, such as sequence or structure analysis, molecular modeling, or genomics.
+- Research on multi-agent systems for scientific discovery, with evidence of when coordination improves results over simpler approaches.
+- Experience building agent systems with shared state, experiment tracking, automated tests, or recovery from failed runs, and an interest in making ambitious
+research workflows reliable.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in
+the world working for us. If you're creative and autonomous, we want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 34 USD – 59 USD.
+You will also be eligible for Intern benefits.
+Applications for this job will be accepted at least until November 20, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+, , JR2029307

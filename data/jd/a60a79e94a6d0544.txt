@@ -1,0 +1,51 @@
+Lightmatter is leading the revolution in AI data center infrastructure, enabling the next giant leaps in human progress. The company invented the world’s first
+3D-stacked photonics engine, Passage™, capable of connecting thousands to millions of processors at the speed of light in extreme-scale data centers for the
+most advanced AI and HPC workloads.
+Lightmatter raised $400 million in its Series D round, reaching a valuation of $4.4 billion. We will continue to accelerate the development of data center
+photonics and grow every department at Lightmatter!
+If you're passionate about tackling complex challenges, making an impact, and being an expert in your craft, join our team of brilliant scientists, engineers,
+and accomplished industry leaders.
+Lightmatter is (re)inventing the future of computing with light!
+About this job
+Are you ready to do meaningful internship work on technology that is changing how AI systems are built? This team is Lightmatter's Central Data Platform, the
+Snowflake foundation that engineering, product, and analytics teams across the company build on. This summer you will help bring AI into that platform: Cortex
+Agents that answer questions over trusted data, semantic views that give those agents a shared definition of business metrics, and AI features built into
+applications already running in Snowflake. The components you build will be documented and reused by engineering teams across Lightmatter.
+Responsibilities:
+- Build and evaluate Cortex Agents that combine Cortex Analyst (structured data) and Cortex Search (documents) to answer engineering and analytics questions in
+natural language.
+- Design semantic views over core data products, defining metrics, dimensions, and relationships so agents and BI tools return consistent answers.
+- Integrate AI into applications already deployed in Snowflake, such as Streamlit apps, using Cortex AI SQL functions and agents exposed through Snowflake's
+managed MCP server.
+- Set up the AI gateway, observability, and orchestration layer: governed model access, evaluations and tracing, cost and usage monitoring, and scheduled
+workflows.
+- Package the work as reusable, documented platform components (templates, Cortex Code skills, runbooks) and demo them to engineering teams at the end of the
+internship.
+Requirements:
+- Currently enrolled in a Master's program in Computer Science, Data Science, or a related field
+- Interest in data engineering, data platforms, and applied AI
+- Demonstrated interest in building and improving AI-based tools, shown through personal projects, coursework, research, or open-source contributions
+- Coursework, projects, or internship experience with SQL, Python and cloud data warehouses
+Preferred Qualifications
+- Proficiency in advanced SQL queries, optimization, and Python scripting for data manipulation
+- Hands-on experience with Snowflake data warehousing or cloud data architecture
+- Familiarity with Git and version control workflows in a collaborative software development setting
+- Strong technical communication skills with experience presenting project findings to engineering teams
+Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.
+Hourly Rate in USD
+$50 - $55 USD
+Benefits
+- Comprehensive Health Care Plan (Medical, Dental & Vision)
+- Retirement Savings Matching Program
+- Life Insurance (Basic, Voluntary & AD&D)
+- Generous Time Off (Vacation, Sick & Public Holidays)
+- Paid Family Leave
+- Short Term & Long Term Disability
+- Training & Development
+- Commuter Benefits
+- Flexible, hybrid workplace model
+- Equity grants (applicable to full-time employees)
+Benefits eligibility may vary depending on your employment status and location. Lightmatter recruits, employs, trains, compensates, and promotes regardless of
+race, religion, color, national origin, sex, disability, age, veteran status, and other protected status as required by applicable law.
+Export Control
+Candidates should have capacity to comply with the federally mandated requirements of U.S. export control laws.

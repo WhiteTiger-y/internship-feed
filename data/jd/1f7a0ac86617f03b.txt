@@ -1,0 +1,60 @@
+About Us
+Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source
+code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!)
+Founded by Feross Aboukhadijeh, a long-time open source maintainer with software downloaded over a billion times a month, Socket has raised $125M in funding
+from top angels, operators, and security leaders.
+About The Role
+You will collaborate with world-class researchers and software engineers to conduct research on the emerging threats against software supply chain. This
+internship offers a unique opportunity to translate cutting-edge research ideas into real-world systems that safeguard millions of developers worldwide. You
+will contribute to the design and implementation of large-scale data collection and analysis pipelines, conduct in-depth investigations of malicious activity in
+open source ecosystems, and prototype novel techniques for detecting fraud and abuse on platforms such as GitHub. We are interested in research on any aspect of
+software supply chain security.
+As one of our research interns, you will not only push the boundaries of software supply chain security but also help shape the culture and direction of a fast-
+growing security company. This role is ideal for PhD students eager to bridge academia and industry and bring innovative research into production environments
+while gaining hands-on development experience in a high-impact, mission-driven setting.
+You can read more about Socket Labs here.
+What You'll Do
+- Conduct applied research on emerging threats in the software supply chain (e.g., self-propagating malware in package ecosystems, dependency hallucinations, AI
+emerging threats) and translate findings into detection prototypes and publish the results.
+- Design and evaluate novel algorithms for identifying malicious or inauthentic activity across ecosystems such as npm, PyPI, and GitHub.
+- Leverage data science and machine learning techniques to model suspicious publishing behaviors, coordinated activity, and fraud campaigns.
+- Develop automated research tools to collect, transform, and analyze large-scale datasets from third-party APIs (e.g., npm, GitHub, PyPI).
+- Prototype and validate detection systems that can be integrated into Socket’s threat intelligence platform, bridging research insights with production impact.
+- Collaborate with engineers and designers to experiment with new ways of surfacing research findings in user-facing interfaces and developer workflows.
+- Publish research outputs internally (dashboards, reports, proofs-of-concept) to influence product strategy and publish papers in conferences/share with the
+broader research community.
+- Contribute to the early team culture, bringing a research-driven perspective to technical discussions, prioritization, and the company’s long-term vision.
+What You'll Bring
+- You must be enrolled in a PhD program in computer science (or related field) and eager to apply your research expertise to real-world problems in software
+supply chain security.
+- Strong background in one or more of the following research areas: software supply chain security, program analysis, or AI security.
+- Proficiency with languages commonly used for prototyping and research (e.g., JavaScript/TypeScript, Python, or similar).
+- Familiarity with software and systems security concepts, such as threat modeling, malware analysis, or adversarial behavior in open ecosystems.
+- Experience conducting research involving data analysis, statistical methods, and experimental evaluation.
+- Strong analytical and creative problem-solving skills; able to explore novel approaches and rigorously evaluate their effectiveness.
+- Self-motivated and comfortable driving independent research while collaborating with an interdisciplinary team.
+- Strong written and verbal communication skills for presenting research findings and collaborating across engineering and design.
+- Experience with publishing research at top-tier academic conferences, like IEEE S&P, USENIX Security, CCS, and NDSS.
+- Prior work in one or more of the following is a plus:
+- Static/dynamic analysis of software or binaries
+- Open source security research
+- Experience with Socket-supported ecosystems
+- Vulnerability discovery
+- Building scalable data pipelines or visualization dashboards
+Hiring is a big decision on both sides. Read more about our Hiring Philosophy and how we approach the process at Socket.
+Benefits: Our benefits are crafted to support you and your family, so you can take care of what matters most and thrive in and outside of work. We offer:
+- Market competitive salary bands
+- Meaningful equity program
+- Comprehensive health benefits for you and your family (99% coverage)
+- Flexible time-off, holidays, and winter shutdown to rest & recharge
+- Paid parental leave
+- Remote-first, with quarterly team off-sites
+At Socket, we
+- Pursue Excellence: We set ourselves apart by consistently delivering work of exceptional quality and distinction.
+- Move with urgency and focus: We prioritize swift, decisive action.
+- Think rigorously: We care about being right and it often takes reasoning from first principles to get there. We value alternative perspectives and have
+constructive discussions.
+- Trust and amplify: We overtrust, always assume good intent, and give specific feedback to help each other improve.
+- Feel a strong sense of ownership: We wear many hats and feel a strong sense of overall ownership of the company and we're non-territorial regarding our
+nominal domains.
+- Are customer obsessed: We relentlessly prioritize the needs of our customers, striving to exceed their expectations and delight them at every interaction.

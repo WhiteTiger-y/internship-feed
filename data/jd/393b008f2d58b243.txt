@@ -1,0 +1,33 @@
+Description
+Location: Durham, NC (will start as remote)
+Department: North American Research Laboratory
+Employment Type: Internship (Part-Time, Temporary)
+About The Opportunity
+We are seeking a motivated and technically curious Research Engineer Intern to join our North American Research Laboratory team. This internship provides an
+opportunity to contribute to cutting-edge research focused on auditory prostheses, cochlear implants, and implantable hearing solutions.
+The ideal candidate will have experience with computer programming and an interest in signal processing, biomedical engineering, auditory neuroscience, or
+hearing sciences. Working alongside engineers, scientists, and audiologists, you will support ongoing research initiatives through software development, data
+analysis, experimental evaluation, and technical documentation.
+Key Responsibilities
+Research & Technical Support
+- Support research activities related to auditory prostheses and hearing technologies.
+- Assist in the development and application of software tools used in hearing research and implantable hearing solution development.
+- Participate in the design, execution, and analysis of bench and behavioral studies.
+- Contribute to research projects involving sound coding, signal processing, and other hearing-related algorithms.
+Software Development & Data Analysis
+- Develop and maintain research software using MATLAB and/or Python.
+- Implement modern signal processing techniques for the analysis of cochlear implant and hearing research data.
+- Optimize existing signal processing and statistical analysis tools.
+- Assist with the processing, visualization, and interpretation of research data.
+Documentation & Reporting
+- Support the preparation and documentation of research protocols.
+- Contribute to technical reports, presentations, and summaries of research findings.
+- Document software development activities, technical approaches, and statistical analyses.
+Requirements
+- Currently enrolled in a Bachelor's, Master's, or PhD program in: Electrical Engineering, Biomedical Engineering, Auditory Neuroscience, Speech and Hearing
+Science, Computer Engineering, Or a related technical discipline
+- Programming experience with MATLAB and/or Python.
+- Strong written and verbal communication skills.
+- Demonstrated organizational and interpersonal skills.
+- Proficiency with standard computer applications and technology tools.
+- Ability to work collaboratively in a multidisciplinary research environment.

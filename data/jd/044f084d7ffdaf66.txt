@@ -1,0 +1,63 @@
+About InterDigital
+InterDigital is a global research and development company focused primarily on wireless, video, artificial intelligence (“AI”), and related technologies. We
+design and develop foundational technologies that enable connected, immersive experiences in a broad range of communications and entertainment products and
+services. We license our innovations worldwide to companies providing such products and services, including makers of wireless communications devices, consumer
+electronics, IoT devices, cars and other motor vehicles, and providers of cloud-based services such as video streaming. As a leader in wireless technology, our
+engineers have designed and developed a wide range of innovations that are used in wireless products and networks, from the earliest digital cellular systems to
+5G and today’s most advanced Wi-Fi technologies. We are also a leader in video processing and video encoding/decoding technology, with a significant AI research
+effort that intersects with both wireless and video technologies. Founded in 1972, InterDigital is listed on Nasdaq. InterDigital is a registered trademark of
+InterDigital, Inc.
+For more information, visit: www.interdigital.com.
+The InterDigital AI Lab is seeking exceptional Ph.D. students for research internships in machine learning, physical AI, robotics, and distributed vision-
+language-action models.
+Our research investigates how models and intelligent systems can learn, communicate, and operate together across architectures, modalities, tasks, and devices
+through shared or interoperable representations. A major focus is physical AI: how intelligent machines (robots, drones, and autonomous vehicles) can perceive,
+reason, and act in the real world when their models run across devices, the edge, and the cloud, and must share limited bandwidth, compute, and power.
+What You Will Do
+- Formulate an original AI/ML research problem in collaboration with one or more research mentors on our team.
+- Develop and implement novel models, learning methods, or evaluation frameworks, and, where it makes sense, see them run on real robots over real networks.
+- Design rigorous experiments and analyze model performance, behavior, and limitations.
+- Present your findings and author publications at leading conferences in machine learning and AI.
+Research Areas
+Potential projects may fall within one or more of the following areas:
+- Interoperable and modular AI: Enabling independently trained models, model components, and learned representations to be composed or exchange information.
+- Multimodal and physical AI: Learning across vision, language, sensing, and action, including vision-language models (VLMs) and vision-language-action (VLA)
+models.
+- Distributed vision-language-action systems: Splitting VLA models and VLMs across robot, edge, and cloud, including “fast/slow” designs where a lightweight on-
+robot policy is guided by a large cloud-hosted model.
+- Latency-robust perception and control: Helping robots perceive and act reliably when network delay, jitter, or bandwidth limits get in the way, using delay-
+aware inference, world models, and future prediction.
+- Efficient learning and representations: Developing semantic and information-efficient representations; compressing features, visual tokens, embeddings, and
+action representations; dataset distillation and data-efficient learning algorithms; real-time world state modeling, motion modeling, action chunking, long-
+context autoregressive diffusion, flow matching, and test-time training (TTT); and making VLA inference fast and frugal enough to run on the robot itself.
+- Collaborative and multi-robot intelligence: Sharing perception and scene understanding across robots and sensors over wireless links, with benchmarks and sim-
+to-real evaluation for networked embodied agents.
+- Egocentric intelligence and memory: Understanding, organizing, and retrieving information from long-term multimodal and egocentric experience.
+We are also open to original research ideas in machine learning that are aligned with the Lab’s broader research interests. Specific projects will be matched to
+your expertise, interests, and research background.
+Qualifications
+- Currently pursuing a Ph.D. in Machine Learning, Computer Science, Robotics, Electrical or Computer Engineering, Statistics, Applied Mathematics, or a related
+technical field.
+- Strong foundations in machine learning and deep learning, including relevant knowledge of probability, statistics, optimization, and representation learning.
+- Background in one or more of the following areas is preferred: robot learning, embodied AI, vision-language and vision-language-action models, computer
+vision, multimodal or representation learning, efficient inference, generative modeling, latent video diffusion, reinforcement learning, or learned compression.
+- Demonstrated research ability through publications at leading peer-reviewed conferences or journals, such as NeurIPS, ICLR, ICML, CVPR, ECCV, ICCV, ACL,
+EMNLP, AAAI, IJCAI, ICASSP, CoRL, ICRA, or closely related venues.
+- Experience with Python and deep-learning frameworks such as PyTorch, Tensorflow or JAX.
+- Experience conducting careful empirical research and analyzing model performance, behavior, and limitations.
+- Ability to work independently, collaborate effectively with other researchers, and communicate technical results clearly.
+- Hands-on experience with robot hardware, simulators (e.g., Isaac Sim, MuJoCo), ROS 2, or open-source VLA frameworks (e.g., LeRobot, OpenVLA) is a plus.
+Why Intern With Us
+- We build long-lasting collaborations with our interns, often well beyond the internship.
+- Publish in leading conferences including CVPR, ICCV, WACV, NeurIPS, ICML, ICLR, ICRA, IJCAI, ICASSP, ICIP, DCC, and PCS.
+- Work side-by-side with leading researchers in machine learning, video, and wireless.
+InterDigital Leads the Way in Video and Wireless Technologies
+- Laser focused on research, with more than 300 engineers and researchers.
+- We invent solutions for efficient wireless networks, better video delivery, and richer multimedia experiences, with more than $1B invested in R&D since 2000.
+- We designed and developed a wide range of technologies used in 4G and 5G wireless, and in many video standards (MPEG, H.265, H.266, and others).
+- 80% of consumer electronics manufacturers integrate our technology.
+Location: This is a full-time, onsite research internship based in Los Altos, California.
+InterDigital is an equal employment opportunity employer. InterDigital will not engage in or tolerate unlawful discrimination with regard to any employment
+decision, policy or practice based on a person’s sex, gender, pregnancy (including childbirth, breastfeeding and related medical conditions), age, race, color,
+religion, creed, national origin, ancestry, citizenship, military status, veteran status, mental or physical disability, medical condition, genetic information,
+sexual orientation, gender iden

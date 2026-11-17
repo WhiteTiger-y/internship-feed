@@ -1,0 +1,47 @@
+Are you passionate about applying machine learning to transform the future of semiconductor design? At Falcomm, we are on a mission to revolutionize
+semiconductor technologies by integrating AI-driven solutions into the design and development of our energy-efficient power amplifier products. As a AI/ML
+Software Engineer Undergraduate Intern in AI/CAD Integration, you will collaborate with our team of experts to develop and deploy AI/ML models that enhance CAD
+workflows, automate design processes, and accelerate innovation in RFIC design. This role offers a unique opportunity to work at the intersection of software
+engineering, machine learning, and semiconductor design, contributing directly to tools and methodologies that drive next-generation hardware solutions.
+We are seeking an intern who thrives in a fast-paced environment, is eager to tackle complex technical challenges, and is motivated to turn AI research into
+practical engineering solutions. If you have a strong foundation in machine learning, software development, and a desire to apply these skills to advance
+semiconductor innovation, we invite you to join us. At Falcomm, your creativity and technical expertise will help shape energy-efficient technologies that set
+new industry standards.
+Responsibilities
+- Design and implement code for training/serving ML models in chip design workflows
+- Automate creation of large datasets for training models
+- Integrate ML models into existing chip design software infrastructure
+- Write comprehensive tests and documentation
+- Collaborate with engineers to understand model requirements and deployment needs
+- Participate in code reviews and follow software engineering best practices
+- Research and evaluate new technologies for ML model serving and deployment
+Requirements
+- Currently pursuing a degree in Computer Science, Electrical Engineering, or related field
+- Availability to work starting in Spring 2027
+- Strong Python programming skills with experience in scripting and automation
+- Understanding of software engineering principles and code organization
+- Experience with data processing libraries (pandas, numpy, scipy)
+- Familiarity with machine learning frameworks (PyTorch, TensorFlow, scikit-learn)
+- Basic understanding of file I/O, data parsing, and format conversion
+- Experience with version control systems (Git) and collaborative development
+Preferred Skills
+- Exposure to CAD tools or EDA software (Cadence, Synopsys, Mentor Graphics, etc.)
+- Knowledge of chip design file formats (GDSII, LEF/DEF, Verilog, SPICE)
+- Experience with shell scripting (bash) and command-line tools
+- Understanding of semiconductor design concepts
+- Familiarity with Linux environments
+- Experience with workflow automation and batch processing systems
+- Knowledge of data visualization tools (matplotlib, plotly) for design analysis
+- Understanding of software testing frameworks and debugging techniques
+Benefits
+- Competitive Salary
+- Sick Leave
+DISCLOSURE
+- Falcomm is an Equal Opportunity Employer; employment with Falcomm is governed on the basis of merit, competence and qualifications and will not be influenced
+in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital
+status, mental or physical disability or any other legally protected status
+- Applicants wishing to view a copy of Falcomm's Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable
+accommodation to the application/interview process should notify Falcomm
+- To conform to U.S. Government export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent
+resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of
+State

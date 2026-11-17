@@ -1,0 +1,51 @@
+Artificial Intelligence Engineer Intern (Intern-to-Hire)
+Location / Workplace Type: Hybrid — Houston, TX / San Francisco Bay Area / Atlanta, GA (Remote flexibility for standout candidates)
+Aligned Recruitment is recruiting on behalf of our client, Searce (https://www.searce.com), a process-first, AI-native technology consultancy that builds cloud,
+data, and applied AI solutions for enterprise clients.
+ABOUT THE ROLE
+Searce is hiring a cohort of paid interns for a 6-month Intern-to-Hire program (40 hours/week) with a clear pathway to a full-time Associate Engineer role for
+strong performers. You will work on real enterprise client problems—primarily in AI engineering, with exposure to data and cloud engineering teams. This is a
+hands-on role for builders who learn fast and take ownership of outcomes.
+Recent Bachelor's graduates and graduating Master's students from Georgia Tech are strongly encouraged to apply.
+WHAT THE 6 MONTHS LOOK LIKE
+- Month 1: Rapid learning. Get up to speed on Searce’s engineering methods, tools, and cloud/AI platforms.
+- Months 2–3: Proof-of-concept builds and certifications (Google Cloud, AWS, Anthropic Claude, and OpenAI paths).
+- Months 4–6: Implementation work on live enterprise client projects, with earlier client exposure for high performers.
+- You will be paired with a dedicated mentor/manager and engineering buddy.
+WHAT YOU'LL DO
+- Build, test, and deploy AI, cloud, and data solutions alongside your project team
+- Complete assigned cloud and AI certifications and learning paths
+- Develop rapid proof-of-concepts and turn them into production-ready solutions
+- Communicate technical decisions and business value clearly to stakeholders and clients
+- Take ownership of deliverables and share proactive progress updates
+WHO WE'RE LOOKING FOR
+Education & Background: Pursuing or recently completed a degree in Computer Science, Artificial Intelligence, Computer Engineering, Data Science, or a related
+technical field (Georgia Tech and other top CS/engineering programs strongly encouraged):
+- Master’s Students: Graduating on or before May 2027 (able to work 40 hours/week during your final semester)
+- Recent Graduates (Master’s or Bachelor’s): Graduated within the past 1–1.5 years (e.g., Dec 2025 – Dec 2026)
+- Bachelor’s Graduates: Graduating in December 2026 (or recent grads) with prior internship, co-op, or applied research experience
+- PhD Candidates: Open to candidates with 1–2+ years of prior industry experience
+- Strong programming and computer science fundamentals with a short learning curve
+- Hands-on exposure to Python, AI/LLMs (RAG, agents, prompt/eval pipelines), application development, and cloud platforms (Google Cloud preferred, AWS welcome)
+- Clear, energetic communicator with the maturity and confidence to work directly with clients
+- Self-starter who thrives with autonomy, ownership, and adaptability
+LOCATION & WORK MODE
+- Hybrid & Flexible: Searce’s primary U.S. hubs are Houston, TX and the San Francisco Bay Area (typically 2–3 days/week hybrid in-office, occasionally up to 5
+days depending on project needs).
+- Atlanta & Remote Flexibility: Local accommodation in Atlanta, GA (especially for Georgia Tech talent) and remote flexibility across the U.S. are available for
+exceptional candidates.
+- Schedule: Full-time 40 hours/week commitment.
+COMPENSATION & CONVERSION
+- Paid 6-month internship ($4,000/month base stipend + up to $1,000/month housing/relocation/living support).
+- High-performing interns convert directly into full-time roles—such as Associate AI Engineer, Associate Cloud Engineer, or Associate Data Engineer—at the end
+of the 6-month program. Candidates must be available to transition to full-time employment upon completion.
+WORK AUTHORIZATION
+- Candidates must be authorized to work in the U.S. without requiring immediate sponsorship or CPT. Candidates on active OPT/STEM OPT may be considered; future
+sponsorship is not guaranteed.
+HIRING PROCESS
+- Resume review and initial screening call with Aligned Recruitment
+- Automated AI Technical Assessment
+- Team & Culture Panel with Searce engineers
+- Final Leadership Connect with Searce leadership
+TIMING
+- Cohort starts early December 2026 / January 2027.

@@ -1,0 +1,68 @@
+Company Description
+See how Epsilon powers connected marketing by unlocking the full potential of data and identity.
+Overview
+Epsilon is seeking a PhD Data Science Intern to join our Decision Sciences Team. As a Data Science Intern, you will apply your academic research and machine
+learning skills to propose effective solutions for our technology and business challenges. Your research background will determine your placement in one of our
+six Decision Sciences teams, each enhancing various aspects of our personalization platform. Epsilon's personalization relies on analyzing vast amounts of
+anonymized data online to assess a trillion advertising opportunities monthly in real-time.
+This is a hybrid role out of the listed locations and may also be offered remotely.
+Epsilon’s PhD Internship Program
+As an intern, you’ll participate in a formal 12-week summer program developed to provide you with a comprehensive grasp of digital marketing and Epsilon’s
+personalization platform. During your internship, you’ll undertake a research project addressing a specific technology or business challenge, allowing you to
+apply your machine learning expertise practically. Lastly, you’ll receive mentorship and feedback to help you successfully present your findings and approach to
+the entire Decision Sciences department.
+Responsibilities
+- Impact: Develop innovative solutions, with a high degree of autonomy, contributing to work that has the possibility of future integration into production
+systems.
+- Career Growth: Apply your field of study to solve real problems with an opportunity to directly impact our business, gaining hands-on experience with
+internet-scale data and industry-level applications.
+Qualifications
+What you’ll bring with you:
+- Currently enrolled in a PhD program with relevant coursework, research, and background in Data Science, Statistics, Computer Science, Mathematics, or related
+quantitative field
+- Hands-on involvement with research projects involving formulating hypotheses, exploring data, and developing models for insights
+- Established track record in developing and validating machine learning models, with a strong understanding of model performance evaluation and optimization
+- Proficiency in one or more programming languages such as Python, Scala, SQL, or R
+Why You Might Stand Out From Other Talent
+- Experience working with big data technologies such as Hadoop, Spark, Cassandra, or MPP databases
+- Proven capacity to communicate complex data science concepts, methodologies, and findings to diverse audiences
+- Ability to conduct independent research to identify and recommend the best approaches for solving complex technology and business problems
+Additional Information
+When you join Epsilon, we’ll create something EPIC together. We’re a global leader in data and identity, with deep expertise in digital media, clean rooms,
+customer data platforms, loyalty and marketing services. Positioned at the center of Publicis Groupe, Epsilon helps brands deliver personalized experiences at
+scale and build lasting customer relationships by unlocking the full potential of data and identity. Epsilon operates in 30+ countries across EMEA, the Americas
+and APAC, with more than 8,000 employees.
+Check out a few of these resources to learn more about what makes Epsilon so EPIC:
+Our Culture: https://www.epsilon.com/us/about-us/our-culture-epsilon
+Life at Epsilon: https://www.epsilon.com/us/about-us/epic-blog
+Epsilon Has Five Values That Define Our Culture And Guide Us As We Create Value For Our Clients, Our People And Consumers. We Seek Candidates Who Align With Our
+Company Values, Demonstrate Them And Make Them Meaningful In Their Day-to-day Work
+- Act with integrity. We are transparent and have the courage to do the right thing.
+- Work together to win together. We believe collaboration is the catalyst that unlocks our full potential.
+- Innovate with purpose. We shape the market with big ideas that drive big outcomes.
+- Respect all voices. We embrace differences and foster a culture of connection and belonging.
+- Empower with accountability. We trust each other to own and deliver on common goals.
+Because You Matter
+Benefits
+As an Epsilon employee, you deserve perks and benefits that put you, your family and your finances first. Our benefits encompass a wide range of offerings,
+including but not limited to:
+- Time to recharge: Flexible time off (FTO), 14 paid holidays, paid sick time
+- Family well-being: Parental/new child leave, childcare & elder care assistance, adoption assistance
+- Extra perks: Comprehensive health coverage, 401(k), tuition assistance, commuter benefits, professional development, employee recognition, charitable donation
+matching, health coaching and counseling
+Epsilon benefits are subject to eligibility requirements and other terms.
+Epsilon is an Equal Opportunity Employer. Epsilon’s policy is not to discriminate against any applicant or employee based on actual or perceived race, age, sex
+or gender (including pregnancy), marital status, national origin, ancestry, citizenship status, mental or physical disability, religion, creed, color, sexual
+orientation, gender identity or expression (including transgender status), veteran status, genetic information or any other characteristic protected by
+applicable federal, state or local law. Epsilon also prohibits harassment of applicants and employees based on any of these protected categories. Epsilon will
+provide accommodations to applicants who need accommodations to complete the application process. Please reach out to LeaveofAbsence@epsilon.com to request an
+accommodation.
+For San Francisco Bay and Los Angeles Areas: Epsilon will consider qualified applicants with criminal histories for employment in a manner consistent with the
+City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance and San Francisco Police Code Sections 4901-4919, commonly referred to as the San Francisco
+Fair Chance Ordinance. Applicants with criminal histories are welcome to apply.
+Compensation Range: USD $55.00 - USD $60.00/Hourly. This is the pay range the Company believes it will pay for this position at the time of this posting.
+Consistent with applicable law, compensation will be determined based on the skills, qualifications, and experience of the applicant along with the requirements
+of the position, and the Company reserves the right to modify this pay range at any time. Temporary roles may be eligible to participate in our
+freelancer/temporary employee medical plan through a third-party benefits administration system once certain criteria have been met. For regular roles, the
+Company will offer medical coverage, dental, vision, disability, 401k, and paid time off. The Company anticipates the application deadline for this job posting
+will be 1/4/2027.

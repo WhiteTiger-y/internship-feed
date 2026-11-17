@@ -22,6 +22,7 @@ papers and releasing open source software where appropriate.
 as model scaling, reinforcement learning (RL)–based preference alignment, and LLM/MLLM knowledge alignment.
 - Collaborate with researchers and cross-functional partners, including communicating research plans, progress, and results.
 Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Artificial Intelligence, or a relevant technical field
 - Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
 - Strong passion for AI and belief in its power to drive business and societal value, including actively following the frontier of large recommendation models
 and large language models and staying current with industry developments
@@ -53,5 +54,4 @@ Meta is committed to providing reasonable accommodations for candidates with dis
 accommodations due to a disability, please let us know at accommodations-ext@meta.com.
 $7,650/month to $12,667/month + benefits
 Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
-rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
-benefits. Learn more about benefits at Meta.
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Met

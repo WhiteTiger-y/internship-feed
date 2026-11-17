@@ -1,0 +1,44 @@
+About Our Group
+In this highly visible role, you will work at the intersection of AI, language, and technology to help develop and optimize Large Language Model-based analytics
+solutions that streamline business operations, improve access to complex data and tools, and enable faster, better-informed decision-making.
+About The Role - You Will
+- Be part of a product team of about 20 data scientists, machine learning engineers, and platform engineers focused on developing and maintaining agentic
+solutions & machine learning solutions and big data platforms.
+- Develop and optimize LLM-based analytics and agentic solutions using commercial (e.g., Azure OpenAI) and open-source (e.g., Google Gemma, Qwen) models to
+transform business operations and streamline daily workflows.
+- Drive seamless integration of LLM models with existing platforms and enterprise systems.
+- Build and scale robust data connectors and knowledge bases for agentic systems.
+- Design, architect, develop, and manage a state-of-the-art enterprise agentic AI platform to support scalable business solutions.
+- Develop and implement agent governance and monitoring protocols to ensure secure, controlled, and reliable operation of agentic AI solutions for business.
+- Collaborate with machine learning engineers to build scalable data pipelines and develop new machine learning models.
+- Design and implement tools and processes across the MLOps lifecycle, including model development, deployment, serving, monitoring, and experimentation.
+- Collaborate with data scientists, data engineers, and business subject matter experts to enhance the end-to-end analytics platform and supporting
+infrastructure.
+About You
+- Detail oriented, well organized with solid time management skills, and you have solid effective verbal and written communications abilities as well
+- Strong appetite for constant learning, thinking out of the box, and questioning problems & solutions with the intent to understand and solve in more creative
+ways
+- Excellent interpersonal skills to develop relationships with different teams and peers in the organization
+Your Experience Includes
+- Proven hands-on or research experience in developing Natural Language Processing models
+- Understanding of generative AI tools and techniques
+- Strong background programming in Python
+- Familiarity with SQL
+- In depth knowledge and working experience on the various aspects of training and deployment of deep learning solutions in TensorFlow or PyTorch
+- Strong understanding of machine learning algorithms & principles
+- Currently pursuing Masters or PhD degree in Computer Science, Machine Learning Engineering, Statistics, or related fields and must be enrolled in Fall 2027
+schooling.
+Location:
+Our Normandale campus spans two suburbs, Edina and Bloomington, and serves as the Recording Head development and manufacturing arm of Seagate. Located in the
+heart of a bustling community, Seagate offers an on-site café, or if you prefer, you can drive to one of many restaurants just minutes away. Need to grab a gift
+over lunchtime? Shopping is abundant in the area. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, outdoor
+activities, tournaments, and group workouts. Looking for something more laid back? Reset in one of our meditation rooms, or simply take a walk around our indoor
+walking path. On-site cultural festivals, celebrations, and community volunteer opportunities also abound.
+The estimated base wage range for this position is $35.00-45.00/hr. The individual base wage is based on work location and additional factors, including job-
+related skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to,
+medical, dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid
+sick leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and
+tenure with the Company.
+#internship
+Location: Normandale, United States
+Travel: None

@@ -62,4 +62,4 @@ projects
 In-office expectations
 Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users.
 This expectation may vary depending on role, team and location. For example, Stripes in Stripe Delivery Center roles in Mexico City, Mexico, Bengaluru, India,
-and Dublin, Ireland work 100% from the office. Also, some teams have greater in-o
+and Dublin, Ireland work 100% from the office. Stripes on the Works in Progress t

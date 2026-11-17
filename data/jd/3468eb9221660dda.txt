@@ -1,0 +1,40 @@
+Meta Reality Labs Research is looking for upcoming scientists and researchers with great interest in designing, modeling, and prototyping advanced vision
+systems for real-time, low-power processing. The goal of this role is to optimize the full-stack vision system spanning from the image sensor, device
+processors, cloud computation, and corresponding algorithms, to help people capture the moments that matter with smart glasses. Ideal candidates will have a
+comprehensive understanding of computational imaging, distributed computation, computer vision, large language models, and machine learning algorithms. Our
+internships are twelve (12), to twenty-four (24) weeks long and we have various start dates throughout the year.
+Research Scientist Intern, Intelligent Camera Systems (PhD) Responsibilities:
+- Research on design / model / execution of vision and multimodal ML algorithms for low-power smart-glasses camera systems.
+- Develop methods that connect large language models with on-device and in-sensor processing.
+- Build datasets, benchmarks, and evaluation protocols for egocentric capture tasks.
+- Prototype and demonstrate novel capture experiences on smart-glasses camera hardware.
+- Collaboration with and support of other researchers and engineers across various disciplines.
+- Communication of research agenda, progress and results.
+Minimum Qualifications:
+- 2+ years of coding experience with programming languages such as Python/C++
+- Advanced experience with computer vision (CV) and modern deep learning research, including algorithm development and optimization
+- Experience with video understanding or vision-language models
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Experience with lightweight machine learning on embedded systems, including model optimization and deployment
+- Experience with LLMs and their APIs is a strong plus
+- Experience with egocentric video or the full machine vision pipeline spanning cameras, ISPs, and high-level algorithms
+- Proven track record of achieving significant results in CV and ML research, as demonstrated by publications, grants, or fellowships
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

@@ -1,0 +1,65 @@
+As an Artificial Intelligence Intern, you will help build, fine-tune, and evaluate generative AI models, machine learning pipelines, and intelligent system
+applications across our enterprise. Working alongside AI researchers and engineers, you will process data streams, refine prompt architectures, and deploy
+intelligent agents. You will solve real AI challenges, including model accuracy, responsible AI guardrails, and automated reasoning, seeing your models
+transform operational workflows. Successful candidates will experiment with novel AI features and continuous process improvements.
+What Success Looks Like (Objectives)
+Our 10-week summer internship offers hands-on, on-site experience in the Greater Denver Area (unless otherwise noted per posting). As part of the cohort, you
+won't just shadow, you will take direct ownership of a real-world business project, solving a critical operational challenge or implementing an innovative
+solution for EchoStar. Through this program, 1:1 mentorship, practical skill building on live enterprise projects, and consideration for future full-time early
+career pathways.
+- Get oriented, meet your team, and scope your summer project with your manager and mentor
+- Partner with AI engineers to develop, fine-tune, and benchmark large language models (LLMs) and custom AI prototypes
+- Assist in processing, structuring, and prompt-engineering data streams for machine learning and AI agent applications
+- Evaluate AI model outputs for performance, factual accuracy, and responsible AI guardrails
+- Collaborate on integrating intelligent AI features into software, customer care, and business operational workflows
+- Leverage modern generative AI frameworks, Python ML libraries, and automated testing tools
+- Present your project and results to peers and leadership
+Core Skills, Competencies, and Key Experiences (What you’ll bring)
+- AI & Machine Learning: Python, PyTorch, TensorFlow, LLMs, Prompt Engineering, Natural Language Processing (NLP), Computer Vision
+- Data & Cloud AI: Vector Databases (Pinecone/Chroma), LangChain/LlamaIndex, AWS Bedrock/SageMaker, API Integration
+- Display a strong continuous-learning mindset, experimenting with novel AI features and emerging tech solutions for continuous process improvement
+- Demonstrate strong critical thinking skills
+- Exhibit clear written/verbal communication
+- Deliver results with full accountability
+- Collaborate effectively with cross-functional partners
+Optional Exposure a Plus But Not Required
+- RAG, vector databases
+- REST APIs/FastAPI, cloud platforms like AWS, Git, or SQL
+Minimum Requirements
+- Minimum Education: Currently enrolled in a Bachelor's or Master's program in Computer Science, Artificial Intelligence, Data Science, Machine Learning,
+Computer Engineering, Information Systems, or a related technical field
+- Minimum 3.3 GPA
+- Expected graduation between December 2027 and May 2028
+- Minimum Experience: Foundational experience in software development, machine learning, data engineering, or AI projects through coursework, research, co-ops,
+or internships
+Visa sponsorship not available for this role
+Salary Range
+Compensation: $24.00/Hour - $35.00/Hour
+About Our Department
+The EchoStar Software Engineering teams build the software platforms and digital applications that power our global network. We are a team of developers,
+architects, and innovators dedicated to delivering reliable, high-performance tech that connects our customers to the world.
+About Our Company
+EchoStar is connecting the world. We expand possibilities for education, healthcare, and industry by connecting people, enterprises, and technology across the
+globe. Together, we’re shaping the future of connectivity, creating opportunities to empower communities and turning the impossible into reality.
+Our brands include DISH, SLING, Boost Mobile, GenMobile, and Hughes.
+Benefits
+We offer meaningful perks, including a 401(k) plan with company match, an employee stock purchase plan, HSA & FSA, a strong internal mobility program, and a
+flexible time away plan. A summary of benefits can be viewed here: EchoStar Benefits
+The base pay range shown is a guideline. Individual total compensation will vary based on factors such as qualifications, skill level, and competencies.
+Compensation is based on the role's location and is subject to change.
+Candidates need to successfully complete a pre-employment screen, which may include a drug test and DMV check. Our company is committed to fostering an
+inclusive and equitable workplace where every individual has the opportunity to succeed. We are dedicated to providing individuals with criminal or arrest
+records a fair chance of employment in accordance with local, state, and federal laws.
+This job posting will be active for a minimum of 3 days and will continue to extend by 3 days until the position is filled.
+We pride ourselves on developing and promoting talent as an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for
+employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. EchoStar
+will accommodate the sincerely held religious beliefs of employees if such accommodations are not undue hardships and are otherwise within the bounds of
+applicable law. All qualified applicants with arrest or conviction records will be considered for employment in accordance with local, state, and federal law.
+You may redact any information that identifies age, date of birth, or dates of school/graduation from your application documents before submission and
+throughout our application process.
+EchoStar will provide reasonable accommodation to otherwise qualified job applicants and employees with known physical or mental disabilities, unless doing so
+poses an undue hardship on the Company, poses a direct threat of substantial harm to others, or is otherwise not required by law. EchoStar has a more detailed
+Accommodation Policy that applies to employees. EchoStar endeavors to make echostar.com and jobs.echostar.com accessible to users. Please contact
+leaves@dish.com if you would like to discuss the accessibility of our website or need assistance completing the application process. This contact information is
+for accommodation requests only; do not use this contact information to inquire about the status of applications.
+EEO Policy Statement, Pay Transparency, EEOC Know Your Rights (English/Spanish)

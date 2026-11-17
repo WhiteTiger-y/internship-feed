@@ -1,0 +1,67 @@
+Overview
+Working at Atlassian
+Atlassians have the flexibility to work where they can collaborate most effectively with their team, whether at home, one of our global offices, or both.
+As a distributed-first company, all interviews are conducted virtually. We hire in any country where we have a legal entity. Learn how we work at
+go.atlassian.com/distributed .
+Your Future Org
+Atlassian’s Intern program combines hands-on technical training, professional growth opportunities, dedicated mentorship, and strong social connections. This
+holistic approach empowers students to hit the ground running and sets them up for a successful and impactful career at Atlassian!
+This role is preferred to be co-located to Seattle or in the Pacific Standard Timezone.
+Our paid internship program typically runs for 12 weeks between May/June - August/September 2027.
+Your Future Team
+Join our cutting-edge Machine Learning Research team at Atlassian as a PhD Research Intern, where you'll have the opportunity to work on advanced machine
+learning (ML) and artificial intelligence (AI) technologies, particularly focusing on areas such as Large language models (LLMs), Generative AI, Conversational
+Agents, and AI Optimization. You’ll be part of a team that pioneers innovations to address complex real-world problems, developing state-of-the-art AI solutions
+that will ultimately drive impact for Enterprises.
+As a PhD intern, you will gain hands-on experience in both foundational research and practical applications, contributing to the training, evaluation and
+optimized inferencing of AI models that could be used by millions of customers. You will collaborate closely with experienced researchers and engineers to push
+the boundaries of what’s possible with AI, while gaining invaluable insights into industrial research and development.
+This internship is designed for individuals passionate about exploring new frontiers in AI and machine learning research. You’ll work in a stimulating
+environment with some of the brightest minds in the field, gaining exposure to both academic and applied research challenges. We are committed to providing a
+supportive and inclusive work environment where interns are empowered to contribute significantly to ongoing research that improves teamwork and collaboration
+in an Enterprise.
+Responsibilities
+Responsibilities
+- Collaborate cross-functionally with Research Scientists and Machine Learning Engineers to design, implement, and evaluate experiments that advance the
+performance, efficiency, and scalability of modern ML and LLM systems for our AI products.
+- Curate, preprocess, and manage large-scale datasets for training and evaluation, ensuring data quality, diversity, and reproducibility across experiments.
+- Conduct continued training, fine-tuning, and alignment of large language models for specialized applications such as conversational AI, summarization,
+generative search, and multimodal agents.
+- Evaluate cutting-edge ML algorithms through rigorous experimentation and provide detailed analyses highlighting performance insights, failure modes, and
+opportunities for improvement.
+- Contribute to publications and presentations at internal workshops or top-tier academic venues, helping to drive innovation in Enterprise AI and large-scale
+ML systems.
+Qualifications
+Required Qualifications
+- Completed Bachelors degree in Computer Science or a related field.
+- Currently pursuing a PhD in Computer Science or a related field at any stage of your doctoral studies. We welcome applications from candidates in all years of
+their PhD program, including those in the early stages. Degree completion date cannot be earlier than September 2026 - June 2027.
+- Strong foundation in AI/ML, LLMs, modeling and/or optimization techniques.
+Preferred Qualifications
+- Exhibit a solid grasp of algorithms and data structures.
+- Demonstrate proficiency in Python programming and ability to write clean, efficient, and well-documented code.
+- Experience working with large-scale datasets, including data preprocessing, augmentation, and scaling techniques.
+- Has expertise in managing data using Python libraries such as NumPy, Pandas, Matplotlib, in addition to leveraging models from Hugging Face and has practical
+knowledge of applied machine learning and deep learning frameworks, like PyTorch.
+- Demonstrated exposure to natural language processing (NLP) and Computer Vision (CV)
+- Familiarity with state-of-the-art research in machine learning and AI, as evidenced by relevant coursework, publications, or projects.
+- Having publications in top-tier AI conferences or journals will be considered an asset or a plus. Include a publications list (if applicable) to help us
+assess depth of research and systematic thinking.
+- Strong communication skills to articulate complex ideas and collaborate with multidisciplinary teams.
+Compensation
+In the United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:
+Zone A: $59/hr - $76/hr
+Zone B: $54/hr - $69/hr
+Zone C: $49/hr - $63/hr
+Benefits And Perks
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include
+health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit .
+About Atlassian
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions
+are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's
+perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital,
+veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment
+team during your conversation with them.
+To learn more about our culture and hiring process, visit go.atlassian.com/crh .

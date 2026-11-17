@@ -1,0 +1,54 @@
+- Balance your life: At Bosch, your job matches your lifestyle.
+- Celebrate success: At Bosch, we celebrate you.
+- Be yourself: At Bosch, we value values.
+- Shape tomorrow: At Bosch, you change lives.
+Come Join us in Farmington Hills, MI and learn how we work #LikeABosch!
+If you'd like to learn more about Bosch, click here:
+Bosch Mobility | Let's shape a new era of mobility. Together. | Careers at Bosch USA
+Bosch | Invented for Life | Careers at Bosch USA
+Job Description
+The internship will be from either January - August 2027, or May - December 2027.
+This internship takes place in Farmington Hills, Michigan, the headquarters of Bosch North America, in the Calibration Engineering group of Power Solutions.
+The successful candidate will be given an 8 -month project, that has been defined in advance by their Engineering Mentor.
+As an AI Application Intern at Bosch, you will work on cutting-edge AI and automation initiatives while collaborating with a dynamic team. You will help design
+and implement solutions that leverage AI, data analytics, and Microsoft technologies to simplify workflows and eliminate repetitive manual tasks.
+Your responsibilities may include:
+- Work within a Python development environment to analyze unfamiliar code, develop scripts that parse files and interact with APIs, and independently
+troubleshoot and debug existing software solutions.
+- Design and develop automation solutions within the Microsoft 365 ecosystem , leveraging tools such as Copilot Studio, Power Automate, Microsoft Graph API,
+VBA, and Office Scripts .
+- Apply AI-assisted development tools (e.g., GitHub Copilot, Claude Code, Cursor) and support automation initiatives using AI agents, RAG pipelines, and agentic
+frameworks such as LangChain, LlamaIndex, or LangGraph .
+- Develop Power BI reports and automation solutions to improve data accessibility, and support business decision-making
+- Create comprehensive technical documentation for developed tools and processes, and deliver user training to support successful adoption. Strong written and
+verbal communication skills are essential, as a significant portion of this role involves explaining technical concepts and automation solutions to non-software
+engineers.
+If you're interested to work in a collaborative, learning culture where interns work on meaningful projects, join our team!
+Qualifications
+- Must be currently enrolled in an accredited university and pursuing a Bachelors or Masters degree in Engineering, with at least one semester completed
+- 1+ year academic or industry experience with software languages and operating systems.
+- A minimum 3.0 GPA
+- Must be a minimum of 18 years of age
+- Must work 35-40 hours per week
+Preferred Qualifications
+- Experience with prompt engineering
+- Strong communication skills
+- Strong Python skills
+- Automotive-related hobby and/or experience working with engines or vehicles.
+Additional Information
+Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.
+Your well-being matters at Bosch! We offer a competitive compensation and a benefits package designed to empower you in every area of your life. This includes
+premium health coverage, a 401(k) with generous matching, resources for financial planning and goal setting, ample paid time off, parental leave, and
+comprehensive life and disability protection. We're investing in your success!
+Equal Opportunity Employer, including disability / veterans
+*Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background
+check. Candidates who have been offered the position must pass both screenings before their start date.
+By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party
+website's terms and privacy policy apply
+Job Location
+Google Maps requires functional cookies to be enabled
+I'm interested I'm interested
+Privacy Notice Imprint
+I'm interested Refer a friend
+Posted by
+Carla Klinger

@@ -1,0 +1,40 @@
+COMPANY OVERVIEW:
+Birdseye’s mission is to help make the world a safer place!
+We are the leader in AI-driven Remote Facility Supervision solutions for the Trucking and Logistics Industry. Our Maximum Telepresence Approach™ delivers
+cutting-edge, data-driven security and operational insights that create a safer working environment for millions of people every year.
+We provide end-to-end, cutting-edge hardware and AI-driven solutions, redefining security beyond traditional gatehouses. By empowering our professionally
+trained monitoring agents, we achieve 99.99% reporting accuracy in mission-critical security, safety, and operational support -24/7/365- for some of the world’s
+largest logistics facilities, as well as small and medium-sized businesses.
+If you're ambitious, thrive in a fast-paced environment, and align with our ICARE values, Birdseye will be the perfect fit for you. If you’re wondering what the
+world will look like in 10 years - join our Team!
+About the Role:
+We are looking for an Intern (Computer Vision) to work on real-world perception and AI problems, with an emphasis on modern approaches, experimentation, and
+turning ideas into practical systems. We are especially interested in M.A.Sc., M.Sc., and Ph.D. students in relevant technical fields. Candidates with a strong
+portfolio of projects are also encouraged to apply.
+What You'll Work On:
+- Modern computer vision and multimodal AI systems
+- OCR and visual recognition
+- Vision-language models and AI agents
+- Algorithm design and optimization
+- Confidence estimation and model reliability
+- Simulation and synthetic data
+- Active and self-learning systems
+- Statistical modelling and experimentation
+- Understanding and improving failure cases in production AI systems
+What We're Looking For:
+- We are looking for someone with a good foundation in modern AI, computer vision, algorithms, mathematics, or statistics, and an interest in learning and
+solving practical problems.
+- Designing algorithms and reasoning through technical problems
+- Understanding modern AI architectures and research
+- Breaking down open-ended problems into testable ideas
+- Designing and running experiments
+- Working with real-world datasets
+- Reading research papers and applying relevant ideas
+- Analyzing why AI systems fail
+- Building and testing ideas independently
+Who Should Apply:
+- We care more about what you have built and how you think about AI systems than your title or degree. Graduate students are ideal, but undergraduates and self-
+taught candidates with strong AI projects are also encouraged to apply
+- To apply: Please include your resume/CV, portfolio or GitHub, and 1-3 projects or research efforts you are particularly proud of.
+This role will require the candidate to complete background checks (includes but not limited to: references, educational verification, criminal check, credit
+check - where applicable). Certain roles may also require testing.
