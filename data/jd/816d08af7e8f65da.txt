@@ -1,0 +1,54 @@
+Job Description Summary
+Are you ready to see your future take flight? At GE Aerospace, we believe the world works better when it flies. We are a world-leading provider of jet engines,
+components, and integrated systems for commercial and military aircraft. We have a relentless dedication to the future of safe and more sustainable flight and
+believe in our talented people to make it happen.
+Job Description
+The Composites team is committed to pushing the boundaries of innovation in polymer and ceramic matrix composite material systems. Our expertise includes the
+development and refinement of processing techniques, the characterization of material properties and behavior, and the integration of processing,
+microstructure, and properties to optimize composite material systems for high-performance applications.
+As a Composites Intern, You Will
+- Work on programs focused on developing process models for polymer matrix composite (PMC) material systems.
+- Design and execute test plans to analyze material behavior using methods such as rheology, thermogravimetric analysis (TGA), differential scanning calorimetry
+(DSC), and X-ray diffraction (XRD).
+- Analyze experimental data and develop numerical models of material behavior and processing.
+- Fabricate test coupons for characterization, including resin mixing, resin castings, and composite layup.
+- Document your work, including materials used, processing details, test and characterization details, and results.
+- Present your work in weekly team meetings with stakeholders to communicate progress, solicit input and guidance, and share results.
+At GE Aerospace Research, scientists, engineers, and technicians innovate for the future of flight. An internship with us will provide valuable hands-on
+experience to help you launch your career and you will have the opportunity to work on really cool things with smart and collaborative people.
+Qualifications/Requirements
+- Current enrollment in a full-time Master’s or PhD degree program at an accredited university, in Materials Science/Engineering, Chemical Engineering, Polymer
+Science/Engineering, Mechanical Engineering, Aerospace Engineering, or a related STEM discipline.
+- Must be willing to work from the GE Aerospace Research office in Niskayuna, NY.
+- Must be available for a 12 - 14 week internship, May-August, 2027.
+- Minimum GPA 3.0 / 4.0 scale
+- This role requires use of Controlled Unclassified Information (CUI) or security clearance to access classified information. Therefore, employment is
+contingent upon your ability to prove that you meet the qualification of being a US Citizen.
+Desired Qualifications
+- Coursework or research experience in polymer or composite materials, including the relationship between processing, microstructure, and properties.
+- Hands-on laboratory experience with materials characterization techniques such as rheology, TGA, DSC, and/or XRD, and the ability to design test plans and
+interpret results.
+- Ability to analyze experimental data and develop numerical or computational models (e.g., in Python, MATLAB, or similar).
+- Ability to work safely in a materials laboratory, including handling resins and chemicals and fabricating test coupons.
+- Strong written and verbal communication skills, with the ability to document work thoroughly and present results to a technical audience.
+- Experience in polymer science and polymer matrix composite materials, including thermoset and thermoplastic resin systems and the relationships between
+chemistry, cure or consolidation behavior, microstructure, and properties.
+- Experience developing process models (e.g., cure kinetics, rheology/viscosity, heat transfer, or resin flow) and fitting models to experimental data.
+- Hands-on experience with composite fabrication methods such as prepreg and wet layup, resin infusion, resin casting, and autoclave or out-of-autoclave
+processing.
+- Proficiency with data analysis and scientific computing tools (e.g., Python, MATLAB) and finite element or multiphysics modeling software.
+- Prior internship or co-op experience in technical research, the aerospace industry or similar.
+- Exceptional academic performance with research orientation.
+- Humble: respectful, inclusive, curious/inquisitive
+- Transparent: clear communicator, collaborator, creative problem solver
+- Focused: sets strategic priorities, uses data to make decisions, critical thinker
+Eligibility Requirements: Any offer of employment is conditioned upon the successful completion of a background investigation and drug screen. Due to the nature
+of our projects, US Citizenship is required.
+The pay range for this position is $1,000-$2,200 USD weekly. The specific weekly rate offered to a candidate may be influenced by a variety of factors including
+the candidate’s experience, their education, and the work location. GE provides travel reimbursement and housing stipend for qualified interns.
+GE Aerospace offers a great work environment, professional development, challenging careers, and competitive compensation. GE Aerospace is an Equal Opportunity
+Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or
+expression, age, disability, protected veteran status or other characteristics protected by law.
+GE Aerospace will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the
+successful completion of a drug screen (as applicable). Employees may also be subject to random and reasonable-suspicion drug and alcohol testing.
+Relocation Assistance Provided: Yes

@@ -1,4 +1,3 @@
-"
 At Relativity Space, we’re building rockets to serve today’s needs and tomorrow’s breakthroughs. Our Terran R vehicle will deliver customer payloads to orbit,
 meeting the growing demand for launch capacity. But that’s just the start. Achieving commercial success with Terran R will unlock new opportunities to advance
 science, exploration, and innovation, pioneering progress that reaches beyond the known.
@@ -38,4 +37,3 @@ Nice To Haves But Not Required
 - Proficiency with databases and SQL
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender,
 sexual orientation, age, marital status, veteran status, or disability status.
-"

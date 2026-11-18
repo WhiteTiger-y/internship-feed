@@ -1,0 +1,54 @@
+Overview
+BISSELL is looking for a motivated student interested in artificial intelligence and automation to join our Data & Analytics team. This is a hands-on learning
+opportunity to explore AI technologies, build intelligent agents, and develop practical automation solutions that solve real business problems.
+You'll work alongside experienced data professionals to learn modern AI development practices, experiment with large language models (LLMs), and create working
+solutions that demonstrate the potential of AI in an enterprise environment. This role is ideal for students curious about AI who want to gain practical
+experience building and deploying intelligent systems.
+The Program will run from May 17th - August 5th 2027. We are only considering candidates with an anticipated graduation date of December 2027 or May 2028.
+Responsibilities
+- Learn and apply AI technologies including large language models (LLMs), prompt engineering, and API integration through hands-on project
+- Build AI agents and automation workflows that assist with business processes such as data analysis, content generation, or information retrieval
+- Develop working prototypes and proof-of-concept solutions that demonstrate practical AI applications for internal stakeholders
+- Experiment with different AI tools, frameworks, and approaches to solve business challenges and document findings
+- Collaborate with team members to understand business needs and translate them into AI-powered solutions
+- Create documentation and presentations to share learnings and demonstrate project outcomes
+- Contribute to the team's AI enablement efforts by exploring emerging technologies and identifying potential use cases
+Qualifications
+Required:
+- Currently enrolled at an accredited four-year university majoring in Computer Science, Data Science, Information Systems, or related technical field
+- Must have an anticipated graduation date of December 2027 or May 2028.
+- 3.0 GPA or greater preferred.
+- Basic programming experience in Python or similar language
+- Curiosity about AI and interest in learning new technologies
+- Strong problem-solving skills and ability to learn independently
+- Good communication skills and comfort explaining technical concepts
+- Willingness to experiment, iterate, and learn from failures
+Preferred:
+- Exposure to AI/ML concepts through coursework or personal projects
+- Experience with APIs or web development
+- Familiarity with ChatGPT, Claude, or other AI tools
+- Interest in automation, data analytics, or business intelligence
+- Self-starter attitude with ability to take initiative on projects
+- Learn and apply AI technologies including large language models (LLMs), prompt engineering, and API integration through hands-on project
+- Build AI agents and automation workflows that assist with business processes such as data analysis, content generation, or information retrieval
+- Develop working prototypes and proof-of-concept solutions that demonstrate practical AI applications for internal stakeholders
+- Experiment with different AI tools, frameworks, and approaches to solve business challenges and document findings
+- Collaborate with team members to understand business needs and translate them into AI-powered solutions
+- Create documentation and presentations to share learnings and demonstrate project outcomes
+- Contribute to the team's AI enablement efforts by exploring emerging technologies and identifying potential use cases
+Required:
+- Currently enrolled at an accredited four-year university majoring in Computer Science, Data Science, Information Systems, or related technical field
+- Must have an anticipated graduation date of December 2027 or May 2028.
+- 3.0 GPA or greater preferred.
+- Basic programming experience in Python or similar language
+- Curiosity about AI and interest in learning new technologies
+- Strong problem-solving skills and ability to learn independently
+- Good communication skills and comfort explaining technical concepts
+- Willingness to experiment, iterate, and learn from failures
+Preferred:
+- Exposure to AI/ML concepts through coursework or personal projects
+- Experience with APIs or web development
+- Familiarity with ChatGPT, Claude, or other AI tools
+- Interest in automation, data analytics, or business intelligence
+- Self-starter attitude with ability to take initiative on projects
+UNAVAILABLE

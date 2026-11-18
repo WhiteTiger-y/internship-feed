@@ -1,0 +1,67 @@
+Company Information
+PACCAR is a global technology leader in the design, manufacture and customer support of high-quality light-, medium- and heavy-duty trucks under the Kenworth,
+Peterbilt and DAF nameplates. PACCAR also designs and manufactures advanced power trains, provides financial services and information technology, and
+distributes truck parts related to its principal business.
+Peterbilt Motors Company
+On highways, construction sites, city streets, logging roads - everywhere our customers earn their living - Peterbilt's red oval is a familiar symbol of
+performance, reliability and pride. Peterbilt has reigned as America's premium quality truck manufacturer since the company's founding in 1939. Our dedication
+to deliver products and services focused on improving customers' performance, image, profitability and peace of mind truly makes Peterbilt the Class of the
+Industry.
+Requisition Summary
+Peterbilt Motors Company, a PACCAR Company, has an internship for students currently enrolled in college. This opening is for a Data Scientist Intern to add to
+our Advanced Analytics team in Denton, Texas.
+Job Responsibilities
+This position will be working on various projects and reports to include but not limited to:
+- Write complex SQL queries, including joins, aggregations, common table expressions, and window functions, to prepare and analyze data.
+- Develop scalable data science solutions, from exploratory analysis, hypothesis testing, and feature engineering through model development, validation,
+deployment, and monitoring.
+- Apply machine learning, statistical methods, decision models, and Generative AI methodologies to transform data into actionable business insights.
+- Collaborate with senior team members to understand business needs, translate those needs into analytical problems, and communicate updates and results
+clearly.
+- Develop Retrieval Augmented Generation (RAG) workflows using embeddings, vector databases, and build harness engineered LLM workflows under the guidance of
+senior team members.
+- Build, test, deploy, and monitor AI solutions using cloud platforms and managed services such as AWS Bedrock, Google Cloud Agent Platform (previously Vertex
+AI), or Azure AI Foundry.
+- Use GitHub for version control and team collaboration and apply Markdown-Driven Development (MDD) best practices to agent-assisted solution development.
+- Document methodologies, assumptions, designs, test results, and operational procedures while following responsible AI, privacy, security, and model governance
+standards.
+Required Qualifications
+The candidate we seek will currently be enrolled in a bachelor’s or master’s degree program in Computer Science, Data Science, Statistics, Business Analytics,
+Information Systems, or a related quantitative program.
+The Candidate Should Also Have
+- Strong analytical, problem-solving, organizational, and written and verbal communication skills.
+- Python Programming experience and its data science ecosystem (e.g., pandas, scikit-learn, plotly, numpy, scipy), including modular development, object-
+oriented programming, testing, exception handling, and logging.
+- Working knowledge of SQL, including the ability to develop queries using joins, aggregations, and window functions.
+- Good Knowledge of Machine Learning, statistical analysis, LLMs and Data Science concepts.
+- Experience developing solutions using one or more cloud platforms, such as AWS, Google Cloud Platform, or Microsoft Azure.
+- Experience analyzing data, evaluating results, and communicating findings to both technical and non-technical audiences.
+- Ability to work collaboratively with team members and stakeholders in a project-based environment.
+- Understanding of responsible AI principles, including privacy, security, bias, explainability, and model governance.
+Preferred Qualifications
+The qualifications that are important to be successful in this position are as follows:
+- Experience working with Snowflake and writing SQL for data preparation and analysis.
+- Experience using Git-based development workflows, including branching, pull requests, and release management.
+- Familiarity with Large Language Models, Decision Models, prompt engineering, embedding, tool-calling workflows, and multi-step agents both using open source
+(Langgraph) and managed cloud AI services.
+- Experience using managed Generative AI services, such as AWS Bedrock, Google Cloud Agent Platform (previously Vertex AI), or Azure AI Foundry.
+- Design solution architectures for machine learning, RAG, and agent-based applications, including model selection, retrieval strategy, orchestration,
+evaluation, observability, version control, testing, and production monitoring.
+- Experience developing Retrieval-Augmented Generation solutions using a vector database, such as pgvector, Pinecone, or an equivalent platform.
+- Familiarity with MLOps practices, including version control (Git), and experiment tracking (MLflow, OpenTelemetry, Arize Phoenix, or similar).
+- Design and execute experiments, including A/B tests and hypothesis tests, and translate findings into clear business recommendations.
+General Description Of Internship Benefits
+As a U.S. PACCAR intern, you have a full range of benefit options including:
+- Competitive salary and 401k with up to a 5% company match
+- Medical, dental, and vision plans for you and your family
+- Paid holidays
+- Flexible spending accounts (FSA) and health savings account (HSA)
+- Life and accidental death and dismemberment insurance
+- EAP services including wellness plans, estate planning, financial counseling and more
+- Global Fortune 500 company with a wide array of growth, training, and development opportunities
+- Work alongside experienced goal-oriented colleagues recognized as experts in their field
+- This position may offer stipend assistance benefits
+Additional Job Board Information
+PACCAR is an E-Verify & Equal Opportunity Employer/Protected Veteran/Disability corporation. Peterbilt promotes Diversity and Inclusion through mentorship,
+events, and affinity support groups – The Diversity Council, Peterbilt Women’s Initiative (PBWIN), Veterans Group, Peterbilt Black Organization for Leadership
+and Development (B.O.L.D) and Peterbilt+ (An LGBTQ support group).

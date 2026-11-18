@@ -25,10 +25,13 @@ Ways To Stand Out From The Crowd
 - Experience with multi-node, multi-GPU training and inference workflows.
 - Familiarity with and interest in modern deep learning models, including working with large-scale, multi-modal foundation models (such as recent LLMs, VLMs).
 - Demonstrated public portfolio (e.g. repositories, OSS contributions, notebooks, packages, or technical blog posts with code).
-Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is
-38 USD - 94 USD.
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rates for this
+position are:
+US, CA, Santa Clara: 38 USD – 94 USD.
+US, MA, Westford: 30 USD – 94 USD.
+US, NC, Durham: 30 USD – 94 USD.
 You will also be eligible for Intern benefits.
-Applications for this job will be accepted at least until October 16, 2026.
+Applications for this job will be accepted at least until November 3, 2026.
 This posting is for an existing vacancy.
 NVIDIA uses AI tools in its recruiting processes.
 NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and

@@ -1,0 +1,73 @@
+The Clinical Informatics group are looking for qualified interns in the penultimate year of their study to support our team in our London office starting Summer
+2027. This is a 12-month University Placement opportunity.
+The Clinical Informatics team works collaboratively with Clinical Operations and other stakeholders to identify data needs and develop innovative solutions that
+support clinical trial design, monitoring, and operational efficiency. The team applies informatics principles and techniques to query, manage, analyse, and
+visualize clinical trial data into actionable insights and developing data products tailored to study-specific and wider business needs. This internship will
+provide hands-on experience in query-based programming and data analytics. Interns will work alongside experienced analysts to explore data requirements,
+evaluate study protocols, and contribute to the development and validation of data products that address operational challenges. The team is highly
+collaborative with members in London and Cincinnati and provides interns the opportunity to work with international colleagues.
+The internship includes a structured onboarding programme followed by a mentored path towards greater independence. Interns will participate in collaborative
+problem-solving sessions, group discussions with the global team, independent data exploration, and programming activities. Medpace offers an open learning
+environment where interns are encouraged to develop their technical skills, contribute ideas, and participate in innovative projects. Throughout the placement,
+interns will develop their proficiency in R and SQL and gain practical experience with tools and technologies including Snowflake, Power BI, and Microsoft
+Excel.
+Responsibilities
+- Assist in developing and refining programming scripts, analytical methods, and algorithms to describe, classify, and explore operational trends and potential
+clinical trial outcomes
+- Query, clean, transform, and analyse relational data at study and enterprise levels to support data exploration, reporting, and decision-making
+- Contribute to the design, development, testing, and validation of data visualisations, dashboards, and other custom data products
+- Work collaboratively with colleagues across the global Clinical Informatics team and software engineering teams to support the delivery and improvement of
+data solutions
+Qualifications
+- Must be pursuing a bachelor’s or master’s degree in computer science/engineering, biomedical engineering, health information, statistics, bioinformatics, or
+related field
+- Excellent verbal and written communication skills
+- Excellent analytical skills
+- Experience programming with R, or other computer language
+- Introductory Microsoft Excel skills
+We kindly request that you attach a cover letter to support your application.
+Medpace Overview
+Medpace is a full-service clinical contract research organization (CRO) providing phase l-lV clinical development services to the biotechnology, pharmaceutical,
+and medical device industries. Our mission is to accelerate the global development of safe and effective medical therapeutics through the advancement of
+clinical research. We leverage in-country regulatory and therapeutic expertise across all major therapeutic areas including oncology, cardiology, metabolic,
+endocrinology, central nervous system, and anti-viral and anti-infective. Headquartered in Cincinnati, Ohio, we employ more than 6,500 people across 40+
+countries.
+Why Medpace?
+When you join Medpace, you become part of an innovative team that brings cutting-edge therapies to market while building a meaningful and rewarding career
+focused on scientific excellence and improving patient outcomes around the world through continuous learning and cross-functional collaboration.
+Purpose-Driven Work
+- Work alongside physicians, scientists, and industry-leading experts committed to advancing the global development of medical therapeutics through clinical
+research excellence
+Collaborative Culture
+- Contribute to an interactive team environment that empowers decision making, creative thinking, and continuous learning through open communication and mutual
+trust.
+- Leadership throughout Medpace is both accessible and approachable
+Continuous Growth & Development
+- Office based environment with on-site mentors
+- Defined career paths with clear advancement opportunities
+- Industry renowned onboarding and training programs designed to accelerate professional development
+- Ongoing training and continuous learning opportunities throughout your career
+- An environment that encourages employees to influence change, contribute ideas, and grow quickly
+Other Employee Benefits
+- Competitive compensation programs that recognize and reward performance
+- Comprehensive health, wellness, retirement, and PTO benefits
+- Office based culture with occasional WFH that provides flexibility for eligible positions after training
+- Company-sponsored social events
+Please note benefits may vary based on country.
+What to Expect Next
+A Medpace team member will review your application and if your profile matches our current needs, you will be contacted for an interview. While we review all
+applications carefully, we are unable to respond to every applicant, and only candidates selected for interviews will be contacted.
+- Assist in developing and refining programming scripts, analytical methods, and algorithms to describe, classify, and explore operational trends and potential
+clinical trial outcomes
+- Query, clean, transform, and analyse relational data at study and enterprise levels to support data exploration, reporting, and decision-making
+- Contribute to the design, development, testing, and validation of data visualisations, dashboards, and other custom data products
+- Work collaboratively with colleagues across the global Clinical Informatics team and software engineering teams to support the delivery and improvement of
+data solutions
+- Must be pursuing a bachelor’s or master’s degree in computer science/engineering, biomedical engineering, health information, statistics, bioinformatics, or
+related field
+- Excellent verbal and written communication skills
+- Excellent analytical skills
+- Experience programming with R, or other computer language
+- Introductory Microsoft Excel skills
+We kindly request that you attach a cover letter to support your application.
+UNAVAILABLE

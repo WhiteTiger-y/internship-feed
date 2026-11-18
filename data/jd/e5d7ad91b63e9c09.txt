@@ -1,0 +1,50 @@
+Meta's Reality Labs is seeking Research Scientist interns to join our Display Systems Research team. These positions aim to advance our understanding of
+computational display, graphics pipelines, and the human visual system, to optimize the design and development of next generation augmented and virtual reality
+systems. As an intern, you will have the unique opportunity to work with the pioneering researchers and engineers working to define the future of these
+technologies, and have an opportunity to contribute to planned product architectures and algorithms.We are accepting applications from students interested in
+(but not limited to) the following areas:Computational display and graphics- Novel display and graphics technologies (VR/AR)- Low Power Display and Graphics
+architectures- Computational imaging (deconvolution/reconstruction)- Tone mapping / gamut mapping- Colorimetry / color correction/mapping- Visual quality
+metricsVision science / Applied perception- Computational modeling of the visual system- Spatio-temporal contrast sensitivity, flicker sensitivity- Perception
+of luminance, color, and contrast- Attention-aware modeling, eye movementsOur internships are twelve (12) to twenty-four (24) weeks long and have various start
+dates throughout the year.
+Research Scientist Intern, Perception, Displays and Graphics (PhD) Responsibilities:
+- Design and implementation of models exploring aspects of visual perception to empower novel display modes, like virtual and augmented reality.
+- Identification of solution space for opportunities to improve display graphics/rendering.
+- Collaboration with and support of other researchers across various disciplines (human factors, optics, graphics, display).
+- Communication of research agenda, progress, and results over the course of the intern project.
+Minimum Qualifications:
+- Currently has, or is in the process of obtaining, a PhD degree in Computer Science, Vision Science, Electrical Engineering, or relevant technical field
+- Programming in C#, Unity, Python, MATLAB, or similar
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience with human perception applied to visual computing
+- Familiarity with one or more of the following: display hardware, display calibration, eye tracking, EMG, GPUs/Graphics APIs
+Preferred Qualifications:
+- Understanding of the display rendering graphics pipeline
+- Familiarity with display hardware, display calibration, eye tracking, EMG, GPUs/Graphics APIs
+- Familiarity with modern deep learning frameworks (e.g. PyTorch, TensorFlow)
+- Experience with visual perception, knowledge of optics, signal processing, mathematical modeling and/or simulation expertise with respect to visual perception
+and/or systems design
+- Ability to design and perform psychophysical experiments
+- Demonstrated software engineering experience via an internship, work experience, coding competitions or scientific publications
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading
+workshops or conferences such as SIGGRAPH, SIGGRAPH Asia, Transactions on Image Processing, CVPR, ICCV, ECCV, Journal of Vision, ICIP, etc.)
+- Experience working and communicating cross functionally in a team environment
+- Intent to return to degree program after the completion of the internship/co-op
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

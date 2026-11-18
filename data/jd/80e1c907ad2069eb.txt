@@ -1,0 +1,4 @@
+PURPOSE & IMPACT Nabors’ Internship Program provides students with meaningful, role-based experience that connects academic learning to business and operational
+priorities. The Intern - AI Center of Excellence supports the AI Center of Excellence through applied artificial intelligence, machine learning, data analysis,
+and AI-enabled solution development. The intern will contribute to defined projects that address business needs, communicate measurable insights, and build
+practical capability in data science, generative AI, and modern development tools.

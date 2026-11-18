@@ -1,0 +1,36 @@
+What We're Building
+Anto is a frontier biology AI lab.
+We develop novel sparsification and tokenization methods to unlock unprecedented amounts of microbiome data, build foundation models for microbial communities,
+and translate discoveries into frontier research and clinical outcomes.
+This is an incredibly ambitious mission, but we believe that a team of ambitious people with high ownership can accomplish incredible things.
+About The Team
+- We’re a team of mission-driven researchers and engineers from MIT, Cambridge, Harvard Medical School and companies like J&J and IBM Research.
+- We work on frontier methods that scale.
+- Everyone on the team is a scientist. Everyone can code.
+- We publish in leading AI x biology x microbiome venues, and are always active at leading AI conferences.
+Requirements
+- Think you can learn almost anything in two weeks, and occasionally prove it, without being insufferable about it.
+- Familiar with modern training pipelines for large models (RL, SFT, evaluation).
+- Comfortable with torchrun/accelerate/multi-node training, or confident you can get comfortable fast.
+- Clever about getting the data you need – whether that’s cleaning, generating, or rethinking the problem.
+- Like simple solutions to hard problems, but are willing to drop into PyTorch internals or CUDA when that fails.
+- Can articulate ideas clearly. Writing docs, technical reports, and internal memos is part of the job, not an afterthought.
+- Turn insights into simple, elegant user flows and polished UI that customers love.
+- You should have read most of our papers (see 'Publications'), specifically:
+- A. E. Gollwitzer, D. A. Subramanian, I. Tucker, and G. Traverso, “Steering the evolutionary game: Hierarchical control of therapeutic resistance in cancer
+treatment,” in Proc. NeurIPS 2025.
+- ‎A. E. Gollwitzer, D. A. Subramanian, I. Tucker, and G. Traverso, “MetaOmics-10T: The foundational dataset to unlock causal modeling of microbial ecosystems,”
+in Proc. NeurIPS 2025 AI for Science Workshop, 2025.
+What we look for
+- We look for people who never quite feel done. Better always seems possible.
+- Startup work is intense and sometimes demoralizing. You can pour weeks into an idea and discover it doesn’t move the needle. The only failure is not learning
+fast enough.
+- Quickly iterating to problem-solve, prototype and test new designs and solutions with Engineering, Product and small, nimble cross-functional teams.
+- Driving clarity by effectively communicating design assets and building empathy for our customers among stakeholders.
+- Working with scrappy teams, ship skateboards not cars.
+Perks
+- Your work connects directly to real patients, not just leaderboard numbers.
+- Work on frontier methods. Everything we do scales in the real world, no toy benchmarks.
+- We work with world-leading researchers and advisors in the space.
+We run a fast interview process. After the initial phone screen, we book a slightly longer 45 minute follow up meeting within 48h. If that goes well, we extend
+an offer contingent on a take-home technical and references. That’s it.

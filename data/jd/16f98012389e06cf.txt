@@ -1,0 +1,84 @@
+Chicago, IL (Hybrid) | 2027 Internship | Summer 2027 | 40hours/week
+Reports to: Manager, BI & AI Solutions
+About The Role
+Camping World is using AI across the customer experience and business operations, and the BI & AI Solutions team builds much of it. As a 2027 AI Engineering
+Intern, you will work with our AI engineers to build and ship AI agents, full stack web applications, and machine learning services on our Azure platform. Each
+project will be scoped with clear goals, and a senior engineer will review your work. Our goal is for you to take at least one feature from development to
+production before your internship ends. We use AI coding tools every day, and we will show you how to use them well and how to check their output.
+What You'll Do
+- Features and fixes for our internal web applications
+- AI agents built on enterprise AI platforms, along with the tools and integrations they use
+- APIs and backend services that connect AI features to our web frontends
+- Data integrations with Snowflake and other databases that give agents and applications the data they need
+- Small containerized services deployed to Kubernetes on Azure through our standard pipelines
+- A final project that you will demo to the team and to leadership
+Key Responsibilities
+- Build scoped features and agent capabilities from a written spec, with a senior engineer reviewing your design and code
+- Write Python and JavaScript/TypeScript for the frontend, backend, and data layers of our internal web applications
+- Build LLM integrations on enterprise AI platforms, including prompts, tool use, and function calling
+- Write SQL against Snowflake and other databases to build and test the data your features depend on
+- Package your services with Docker and deploy them to Kubernetes on Azure through our CI/CD pipelines
+- Write automated tests and follow the team's security and production standards, such as keeping secrets out of code, validating inputs, and using secure
+authentication
+- Monitor your services with our observability tools after they go live and help fix the issues you find
+- Attend code reviews, standups, and sprint planning with the rest of the team
+- Document your work so the team can support it after your internship ends
+What You'll Learn
+- How an AI feature moves from prototype to production at a large company, including code review, testing, deployment, and monitoring
+- How to design AI agents and measure whether they are working
+- How to use AI coding tools productively and review the code they produce
+- How containers, Kubernetes, CI/CD, and API gateways work together on a production platform
+- How to scope your own work, give status updates, and present results to technical and business audiences
+Required
+What You'll Need to Have for the Role:
+- Currently pursuing or recently completed a degree in Computer Science, Engineering, or a related technical field
+- Working knowledge of Python or JavaScript/TypeScript from coursework, projects, or prior internships
+- Basic understanding of software engineering fundamentals such as Git, testing, and how APIs work
+- Some experience with a major LLM platform, even from a class or personal project
+- Familiarity with SQL and relational databases
+- Comfort using AI coding tools and checking the code they produce
+- Open to feedback and comfortable asking questions
+Preferred
+- Coursework or project experience building a web application with React or a similar framework
+- Exposure to Docker, Kubernetes, or a cloud platform (Azure preferred)
+- Familiarity with AI agent frameworks or MCP servers
+- Exposure to RAG, embeddings, or vector search
+- Exposure to Snowflake or another cloud data warehouse
+- Awareness of common security issues such as exposed secrets, injection risks, and insecure dependencies
+- A GitHub profile or portfolio with projects you built yourself
+Education
+Undergraduate or graduate student in Computer Science, Engineering, or a related technical field, or a recent graduate. Class projects, hackathons, open source
+work, and prior internships all count, and we give a strong portfolio a lot of weight. No professional experience required.
+How You'll Work
+You will be part of a small team within BI & AI Solutions and work closely with our AI engineers, data architects, and the business teams that use what we
+build. Your projects will be scoped at the start with clear goals, and a senior engineer will meet with you regularly and review your code. You will own your
+project and be expected to move it forward, and you can ask for help at any time. Hybrid out of Chicago, 3 days per week.
+Why This Role
+Camping World is a $6B+ retailer with 180+ locations, a large customer base, and years of operational data. Our interns work on projects that ship. You will
+write code that people across the company use, work on the same stack as our full time engineers, and finish your internship with production work you can point
+to.
+Department
+BI & AI Solutions
+Reports To
+Manager, BI & AI Solutions
+Location
+Chicago, IL (Hybrid)
+Employment Type
+2027 Internship
+Duration
+10 weeks (June 7th - August 13th
+Hours
+40 hours per week
+Camping World Holdings is an equal opportunity employer.
+General Compensation Disclosure
+The pay range for this role considers several factors in making compensation decisions including but not limited to skill sets; experience and training;
+licensure and certifications; and other business and organizational needs. At Camping World, it is not typical for an individual to be hired at or near the top
+of the range for their role and compensation decisions are dependent on the factors stated. A reasonable estimate of the current range is listed below.
+Pay Range
+In addition to competitive pay, we offer Paid Time Off, 401(k), an Employee Assistance Program, Good Sam Roadside Assistance, discounts, paid parental leave (if
+eligibility is met), Tuition Reimbursement (if eligibility is met), and on the job training opportunities. Full-time associates are offered a comprehensive
+benefit package including medical, dental, vision and more! Part-time associates are offered access to dental & vision coverage! For more information please
+visit: www.mycampingworldbenefits.com
+We are an equal employment opportunity employer. The Company's policy is not to discriminate against any applicant or employee based on race, color, sex, sexual
+orientation, gender identity, religion, national origin, age (40 and over), disability, veteran or uniformed service-member status, genetic information, or any
+other basis protected by applicable federal, state, or local laws.

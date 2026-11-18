@@ -1,0 +1,60 @@
+At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and
+independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.
+Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio
+technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.
+Job Description
+ABOUT BOSE
+You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s
+in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. And we’ve dedicated ourselves to improving it for nearly 60 years. Ever since our founder, Dr.
+Amar Bose, bought a stereo system and thought, “I can make this better,” we’ve been relentlessly pushing forward to the next best thing.
+Innovation is more than what we do. It’s who we are — constantly learning and constantly curious. We never stop imagining what better sound sounds like. We’re
+music fanatics and audio engineers. We’re explorers and inventors and dreamers. And we’re passionate down to our bones about making whatever you’re listening to
+a little more magical.
+THE PROGRAM
+We're looking for students to join our Co-Op Program who are obsessively curious about 'what's next'. You'll get hands on experience with our products and learn
+from the best of the best in the business. You will immerse yourself into Bose for 6 months and get the opportunity to grow the skills your learned in the
+classroom with hands on work experience. By the time you end your time with us, you will have been given the opportunity to truly make a real impact in the
+future of Bose and your career!
+Opportunities don't stop at your day-to-day work. While you're getting an in depth look at your area of expertise, we'll expose you to other areas of the
+company. Our Co-Ops are given the opportunity to connect with senior leadership across the business to understand different perspectives at Bose. You'll network
+with other Co-Ops and colleagues to grow your network for the future!
+Timeframe - January 11- June 25, 2027
+THE ROLE
+Bose is about better sound, but better sound is just the beginning. We are about inventing new technologies that truly benefit people and creating a culture
+where innovation and teamwork are highly valued. Working at Bose, you are encouraged to question conventional thinking in the relentless quest to create
+products and experiences that change people's lives. Data science, ML, and analytics are crucial parts of this mission. These capabilities fuel the creation of
+new and innovative products, help us to bring the right products to the right customers, and allow us to astonish customers with carefully crafted and
+personalized experiences.
+The Data and Analytics Center of Excellence is looking for students to join our Co-Op Program and apply their data science knowledge to real-world challenges.
+In this role, you will be responsible for creating predictive models to analyze structured and unstructured data. You will apply your knowledge of statistics,
+data science, and ML and your willingness to write functional code to explore problems and uncover patterns in data. This role focuses on NLP and GenAI, and
+prior experience is highly recommended.
+Responsibilities Include (but Are Not Limited To)
+- Engage with business partners and stakeholders to understand their challenges and opportunities.
+- Explore large datasets using modeling, analysis, and visualization techniques. Transform the results into insights and recommendations.
+- Contribute to the end-to-end development of predictive and prescriptive models for marketing, sales, finance, supply chain, and other business applications.
+- Design, build, and optimize workflows to streamline and automate the processing and delivery of data.
+- Develop and maintain applications that deliver unique, insightful capabilities to empower end users through interactive and intuitive interfaces.
+Required Qualifications
+- Currently enrolled in a bachelor's or master's degree program in a quantitative field such as Computer Science, Statistics, Applied Mathematics, Engineering,
+Information Science, etc.
+- Good interpersonal, communication, and presentation skills.
+- Developing expertise in analytics, BI, statistics, data science, or a related area.
+- Two years of experience with SQL, Python, pandas, and scikit-learn.
+- Experience fitting and evaluating classical ML models (Logistic Regression, Random Forests, Multi-layer Perceptron, etc.).
+- Prior NLP experience, including working with LLMs, fine-tuning transformer architectures (e.g., BERT, GPT, T5), semantic search, or text summarization.
+Preferred Qualifications
+- Proven data science experience via an internship, work experience, competitions, etc.
+- Knowledge of deep learning basics.
+- Experience with Databricks and Snowflake.
+- Familiarity with LangChain, Hugging Face Transformers, Llama 3.x, OpenAI APIs, Pydantic, MLflow, and Streamlit.
+- Working knowledge of Git and GitHub.
+At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience,
+education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is:
+$22.00-$31.75 per hour.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs,
+comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you
+can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in
+the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for
+people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.
+‎

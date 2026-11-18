@@ -1,0 +1,42 @@
+Role Description & Responsibilities
+As a BIOVIA Strategy: Virtual + Real Scientist Intern, you will work with the biosciences and lab informatics team to support the development of BIOVIA
+scientific software. The project entails the use of various biochemical and structural approaches to understand novel oncology targets. The ideal candidate will
+focus on the mechanism of activation of understudied proteins in cancer. To do so, the candidate will utilize computational approaches offered through in-house
+packages available at BIOVIA. These may involve AI driven structure determination of mutant proteins followed by physics-based molecular dynamics within the
+Discovery Studio suite to investigate how mutations found in the genes of tumors affect structure, function and dynamic equilibrium of the resultant proteins.
+The candidate will utilize these technologies, as well as other software suites to generate testable hypotheses that the candidate will interrogate using wet
+lab based biochemical approaches. Identifying potential mutant proteins and their unique druggable sites as oncology targets will allow the candidate to
+evaluate the impact of BIOVIA’s, generative therapeutics design on discovery of novel small molecule modulators. By taking this cutting-edge AI driven approach
+to drug discovery new molecules will be identified for testing, demonstrating the ability of BIOVIA’s workflows to discovery drugs against novel oncology
+targets.
+The BIOVIA Strategy team continues to look for opportunities to enhance product lines to meet the needs of customers today and tomorrow. Academic collaborators
+with abilities to test and improve product lines in cutting edge research environments while adding value through new insights. This may include, but is not
+limited to;
+- Evaluating offerings versus competitors
+- Looking for collaborative opportunities
+- Developing relationships with thought leaders
+- Identifying opportunities for publications that validate BIOVIA’s contributions to science
+Qualifications
+- Demonstrated experience in both Modeling and Simulations (molecular dynamics of proteins).
+- Strong understanding of biochemistry and biophysics is essential, ideal candidate will have a background in cellular signaling with a focus on structural
+biology.
+- Current doctoral candidate with an ability to work in the San Diego office.
+- Strong communication skills, ability to publish in top tier scientific journals and speak with precision at scientific conferences while retaining an ability
+to distill complex science for communication to lay audiences.
+- Identify and bring to stakeholder’s attention opportunities for enhancements to the workflows that discovered or ideated throughout the process. Our projects
+tend to have a high degree of transparency, so helping others understand your work is crucial. We maintain an internal platform for communication and
+contribution of all stakeholders, contributions from the intern will be critical.
+- Enthusiastic, highly motivated, organized and open to coaching. Finally, a desire to explore and have fun through working with the great tools that we have
+made and you can enhance.
+Shape your career with3DS! #WeAre3DS
+Inclusion statement
+In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and
+abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color,
+religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity,
+gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for
+military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable
+accommodations for qualified individuals with known disabilities, in accordance with applicable law. Qualified applicants with arrest or conviction records will
+be considered for employment in accordance with applicable state laws and local ordinances. We are committed to fair employment practices and will evaluate all
+candidates based on their qualifications, regardless of past arrest or conviction history.
+Salary Pay Transparency
+Compensation for the role will be commensurate with experience. The total expected compensation range will be between $22 and $40 per hour.

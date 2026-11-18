@@ -1,0 +1,62 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
+experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
+sciences.
+This is a paid 12-week internship opportunity and is a hybrid, in-office role.
+Here’s a glimpse into the Internship experience from some of our TRI interns!
+The Vision
+We envision a future with robots that help people in real environments through interactions that allow robots to understand, adapt, and grow with us. We believe
+robots should work well alongside people, helping where wanted and enabling people to spend more time on the activities they enjoy most. Achieving this vision
+requires robots that operate reliably in messy, unstructured environments and that people can understand, collaborate with, and rely on.
+The Team
+Our goal is to revolutionize robotics by enabling long-horizon dexterous behaviors to be efficiently taught, learned, and improved over time in diverse, real-
+world environments with people.
+Our team brings together expertise in hardware, simulation, perception, controls, machine learning, and human-robot interaction. PROps supports this research
+through robot operations, data collection, fleet maintenance, prototyping, lab infrastructure, and the processes that keep this work safe and consistent.
+The Opportunity
+As a Robotics Operations Intern, you will work with the PROps team to learn the end-to-end robotic data collection pipeline and help improve the processes that
+support it. During this internship, you will gain hands-on experience with robot operations while helping to maintain the documentation of our workflows and
+developing practical improvements for the team. This internship is suited to someone who enjoys learning technical systems and making complex work clearer, more
+consistent, and easier to execute.
+Responsibilities
+Learn and support the end-to-end robotic data collection pipeline, including system setup, teleoperation, data handling, validation, and issue reporting.
+Participate in supervised robot operation and data collection to understand operator workflows and operational constraints firsthand.
+Document current workflows and maintain standard operating procedures, checklists, training materials, and other operational resources.
+Help organize operational information and track basic measures that support scheduling, planning, and continuous improvement.
+Collaborate with robot operators, operations specialists, engineers, researchers, and project managers to understand requirements and incorporate feedback.
+Assist with the setup and maintenance of robotic systems and workstations while following all safety protocols.
+Summarize findings, completed improvements, and recommended next steps for the PROps team at the end of the internship.
+Qualifications
+Currently pursuing a bachelor's or master's degree in robotics, mechanical engineering, industrial or systems engineering, computer science, human-robot
+interaction, technical project management, or a related field.
+Strong organization, written communication, and attention to detail.
+Driven to learn new skills and become adept at new systems, processes, and tools.
+Ability to learn technical tools and procedures, ask questions, and incorporate feedback.
+A safety-first mentality.
+Interest in robotics operations, robotics engineering, or technical project management.
+Ability to work both independently and collaboratively while adapting to changing priorities.
+Physical ability to stand or sit for extended periods, perform repetitive tasks, and lift up to 30 lbs.
+This role may require regular use of the Apple Vision Pro headset. Vision must meet the requirements for corrective lens inserts described in the ZEISS
+prescription guide .
+Bonus Qualifications
+Working knowledge of Asana and G suite.
+Experience with robotics or hands-on technical projects.
+Experience with large scale data collection efforts.
+Experience creating technical documentation or training materials.
+Familiarity with UNIX/Linux command-line tools, scripting, or data analysis.
+Familiarity with Git and software development processes such as version control (e.g., Git) and CI/ CD (e.g., Jenkins).
+Experience with VR systems, video games, or other activities requiring strong hand-eye coordination and spatial awareness.
+The pay range for this position at commencement of employment is expected to be between $40 and $58/hour for Massachusetts-based roles. Base pay offered will
+depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI
+offers a generous benefits package including medical, dental, and vision insurance, and paid time off benefits (including holiday pay and sick time). Additional
+details regarding these benefit plans will be provided if an employee receives an offer of employment.
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or
+apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal
+information.
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an
+innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to
+provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation,
+national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status
+protected under federal, state or local laws.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with
+arrest and conviction records for employment.

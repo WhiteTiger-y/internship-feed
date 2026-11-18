@@ -1,0 +1,58 @@
+- Experience conducting applied research in organizations.
+- Topical experience in one of the following areas: performance management, individual and team-level performance and productivity, individual differences
+(e.g., personality traits, behaviors, well-being), selection and assessment (including relevant psychometric methods), decision science and behavior change, or
+quantitative text analysis.
+- Experience using R for statistical analysis and data visualization.
+- Experience in SQL or other scripting languages and experience with future-proofing code to be long-lasting (e.g., detailed documentation).
+- Experience with statistical analyses, including fundamentals (e.g., ANOVAs or regressions) and with one or more advanced approaches (e.g., factor analysis,
+network analysis, HLM, SEM).
+About the job
+We are a group of social scientists who conduct experimental, survey, and archival research to inform people-related business decisions. Example content areas
+include, but are not limited to: decision making, leadership, employee well-being, hiring, performance management, performance development, personality,
+longitudinal data analyses, and social networks. We have strong research backgrounds, with PhDs in I/O Psychology, Organizational Behavior (micro & macro),
+Sociology, Social Psychology, Anthropology, Behavioral Economics, and related fields.
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+US: $99000 - $132000 (USD) + 0% bonus target
+Learn more about benefits at Google .
+Responsibilities
+- Work with the People Analytics team to design and implement new studies, analyze data and report on results of research initiatives to a business audience.
+- Communicate findings and recommendations to influence leaders to take action on the results.
+- Write research briefs.
+- Conduct statistical analysis (e.g., correlation, regression, factor analysis, T-test, ANOVA) using survey and archival data with analyses conducted in R.
+Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's Applicant and
+Candidate Privacy Policy .
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we
+serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation,
+gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including
+breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO
+Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire .
+If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles
+unless stated otherwise in the job posting.
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization
+location. Google is not responsible for any fees related to unsolicited resumes.
+Equity is granted exclusively and discretionarily by Alphabet Inc. on the basis of an agreement concluded between you and Alphabet Inc. Alphabet Inc. is your
+sole contractual partner with respect to equity grants. GSU grants are not guaranteed, are discretionary, are subject to approval by the Alphabet Inc. board of
+directors or its delegate, the terms of the relevant Alphabet Inc. stock plan, and your grant agreement. They have no impact on statutory payments. Current or
+past grants do not confer an acquired right.
+AF_initDataCallback({key: 'ds:1', hash: '2', data:[[["78569338159669958","Software Engineer III, AI/ML GenAI, Workspace Drive","https://www.google.com/about/car
+eers/applications/signin?jobId\u003dCiUAL2FckWdfmDecwT1D87j-Lm1jq8z3mF2W6I2qtf8wl82z_PfDEjsA9yzvgulgI2sKDybv8T72xZ1OM__hdy1JVnc9UnSsuj5rzqb758-
+o0s4bP56bc3UWZQsjI-loRMDk7Q%3D%3D_V2\u0026loc\u003dUS\u0026title\u003dSoftware+Engineer+III",[null,"\u003cul\u003e\n\u003cli\u003eWrite product or system
+development code.\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003eCollaborate with peers and stakeholders through design and code reviews to ensure best practices
+amongst available technologies (e.g., style guidelines, checking code in, accuracy, testability, and
+efficiency).\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003eContribute to existing documentation or educational content and adapt content based on product/program
+updates and user feedback.\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003eTriage product or system issues and debug/track/resolve by analyzing the sources of
+issues and the impact on hardware, network, or service operations and quality.\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003eImplement GenAI solutions, utilize ML
+infrastructure, and contribute to data preparation, optimization, and performance
+enhancements.\u003cbr\u003e\u003c/li\u003e\n\u003c/ul\u003e"],[null,"\u003ch3\u003eMinimum
+qualifications:\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eBachelor’s degree or equivalent practical experience.\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003e2
+years of experience with software development in one or more programming languages, or 1 year of experience with an advanced
+degree.\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003e\u003cdiv\u003e1 year of experience with end-to-end Machine Learning (e.g., model deployment, model
+evaluation, data processing, debugging).\u003c/div\u003e\u003c/li\u003e\n\u003cli\u003eExperience with GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision
+Models) or with GenAI-related concepts (language modeling, computer vision).\u003c/li\u003e\n\u003c/ul\u003e\u003cbr\u003e\u003ch3\u003ePreferred
+qualifications:\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eMaster's degree or PhD in Computer Science, or related technical
+fields.\u003cbr\u003e\u003c/li\u003e\n\u003cli\u003e2 years of experience with data structures and algorithms.\u003c/li\u003e\n\u003cli\u003eExperience in
+software development using general purpose programming languages (e.g., C++, Java, or Python).\u003c/li\u003e\n\u003cli\u003eExperience in developing
+applications utilizing Generative AI and Large Language Models (LLMs).\u003c/li\u003e\n\u003c/ul\u003e"],"projects/gweb-careers-
+proto/tenants/60107626-8e00-0000-0000-0071646e0806/companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",null,"Google","en-US",[["New York, NY, USA",["New York, NY,
+USA"],"New York",null,"NY","US"]],[null,"Google's software engineers develop the next-generation technologies that change how billions of users 

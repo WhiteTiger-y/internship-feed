@@ -1,0 +1,61 @@
+Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone,
+offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions.
+At Siemens Healthineers, we offer you a flexible and dynamic environment with opportunities to go beyond your comfort zone in order to grow personally and
+professionally. Sound interesting? Then come and join our global team as a Research Intern: Generative AI (Diffusion / Flow Matching Models, Agentic AI).
+Responsibilities
+This is a role well suited for a highly motivated student looking to build their skill set and gain hands-on experience. As a Research Intern, you will be
+responsible for:
+- Research, design, and implement algorithms for solving inverse problems in medical imaging (image acquisition, image denoising, image super-resolution, image
+reconstruction etc.) using Foundation Models, Generative AI (Diffusion /Flow Matching Models), Agentic AI
+- Advance the state-of-the-art, including generating patents and top publications
+- Work on large-scale, real-world problems, be entrepreneurial in an environment that’s more startup than big company
+Skills
+This position may suit you best if you are familiar with the areas and concepts below, and would like to develop your skills within Healthineers:
+- Current graduate students in Computer Science, Electrical Engineering, Applied Mathematics, or related disciplines for research interns
+- Experience with machine learning libraries such as PyTorch, TensorFlow, Keras in addition familiarity with image processing in Python and C++
+- Hands-on coding skills and ability to quickly prototype in Python.
+- Strong collaboration skills and ability to thrive in a fast-paced environment
+Required skills and education to have for the success of this role:
+- Currently enrolled in and pursuing studies at a foreign degree- or certificate-granting post-secondary academic institution outside the United States OR Has
+graduated from such an institution no more than 12 months prior to his or her exchange visitor program start date.
+Who we are: We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the
+boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for
+clinical decision-making and treatment pathways.
+How we work: When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled
+specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political
+and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer
+breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+To find out more about Siemens Healthineers businesses, please visit our company page here.
+The Base Pay Range For This Position Is
+$61,600 - $94,820
+Factors which may affect starting pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful
+candidate.
+If this is a commission eligible position the commission eligibility will be in accordance with the terms of the Company's plan. Commissions are based on
+individual performance and/or company performance.
+The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision
+insurance, 401(k) retirement plan. life insurance, long-term and short-term disability insurance, paid parking/public transportation, paid time off, paid sick
+and safe time.
+Equal Employment Opportunity Statement: Siemens Healthineers is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All
+qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status,
+ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual
+orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an
+unfavorable discharge from military service, and other categories protected by federal, state or local law.
+EEO is the Law: Applicants and employees are protected under Federal law from discrimination. To learn more, click here.
+Reasonable Accommodations: Siemens Healthineers is committed to equal employment opportunity. As part of this commitment, we will ensure that persons with
+disabilities are provided reasonable accommodations.
+If you require a reasonable accommodation in completing a job application, interviewing, completing any pre-employment testing, or otherwise participating in
+the employee selection process, please fill out the accommodations form here. If you’re unable to complete the form, you can reach out to our HR People Connect
+People Contact Center for support at peopleconnectvendorsnam.func@siemens-healthineers.com. Please note HR People Connect People Contact Center will not have
+visibility of your application or interview status.
+California Privacy Notice: California residents have the right to receive additional notices about their personal information. To learn more, click here.
+Export Control: “A successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’
+policy to comply fully and completely with all United States export control laws and regulations, including those implemented by the Department of Commerce
+through the Export Administration Regulations (EAR), by the Department of State through the International Traffic in Arms Regulations (ITAR), and by the
+Treasury Department through the Office of Foreign Assets Control (OFAC) sanctions regulations.”
+Data Privacy: We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you
+not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile
+lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register here
+to get started.
+Beware of Job Scams: Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens
+Healthineers re

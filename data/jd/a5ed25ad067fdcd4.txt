@@ -1,0 +1,46 @@
+The Opportunity
+If you are pursuing an advanced degree to bridge the gap between complex data and real-world financial markets, this internship will put you at the center of
+that intersection. Operating within the Data Research & Development Pod, you won't be running basic reports—you will be prototyping next-generation data
+products and leveraging agentic AI to drive measurable revenue. This role is designed to give you hands-on experience with modern cloud stacks and derivatives
+markets, acting as an ideal launchpad for a career as a Quantitative Analyst, Data Scientist, or AI Product Lead.
+Role & Project Scope
+Responsibilities
+As a Quantitative Data & AI Analytics Intern, you will take ownership of critical in-flight projects, working directly with high-margin data offerings. Your key
+responsibilities will include:
+- AI for Process & Revenue (Agentic AI): Utilize Gemini Enterprise for rapid visual prototyping of new data products. You will play a key role in continuing our
+agentic AI building efforts—deploying AI not just to automate workflows, but to actively uncover and drive new revenue opportunities in the derivatives space.
+- Data Product Commercialization: Build out streaming intraday (ITD) and end-of-day (EOD) data suites for volatility analytics, Greeks, and multi-legged option
+valuations by assisting in the commercialization of our Theoretical Pricing System (TPS).
+- Financial Data Migration & Mapping: Oversee the schema mapping, technical specification, and ingestion of critical historical financial datasets (like Spot
+Dairy and Oil auctions dating back to 1997) into CME DataMine. Your work will directly support new commercial offerings and replace legacy pipelines.
+- Predictive Modeling & Strategic Partnerships: Support data ingestion and mapping for our external predictive machine learning partnerships via DataMine
+Machine Learning, calibrating proprietary datasets to build localized forward curves.
+- Research & Publication: Gain visible industry experience by assisting in data extraction, narrative drafting, and quantitative analysis to support the ongoing
+publication of our highly successful Volatility Monthly newsletter (e.g., "The Early Move and the Relentless Climb").
+Qualifications & Requirements
+Core Requirements:
+- Education: Currently pursuing a Master’s degree in Mathematics, Statistics, Physics, Engineering, Computer Science, Quantitative Finance, Econometrics, or a
+related field.
+- Technical Stack: Hands-on familiarity with modern data stacks and AI tools, including GCP, Gemini Enterprise, BigQuery, SQL, Looker, and complex data mapping.
+- Execution & Time Management: Demonstrable ability to balance multiple ongoing technical deliverables and push projects to completion in a fast-paced
+environment.
+Preferred / Helpful Qualifications
+- Financial Knowledge: Familiarity with derivatives and interest rates (e.g., Treasury futures, yield curve dynamics, volatility smoothing).
+- Project Management: Experience with Agile processes and Jira project management to track technical milestones.
+Sponsorship Qualifications
+- Please note that our company is unable to provide employment sponsorship for this position and can only consider candidates who are legally authorized to work
+in the United States without sponsorship assistance (CPT, H1B, F1, L etc.).
+#EarlyCareers
+CME Group is committed to offering a competitive pay package for our employee interns. The pay range typically applicable to our intern roles is $23.84--$39.71.
+Actual pay offered will be dependent on a wide array of factors including but not limited to: relevant experience, skills, education, location of the
+internship, and the internship area of focus. Through our benefits program, we offer our employee interns the opportunity to participate in select offerings.
+This includes our comprehensive health coverage and a mental health benefit.
+CME Group: Where Futures are Made
+CME Group is the world’s leading derivatives marketplace. But who we are goes deeper than that. Here, you can impact markets worldwide. Transform industries.
+And build a career by shaping tomorrow. We invest in your success and you own it – all while working alongside a team of leading experts who inspire you in ways
+big and small. Problem solvers, difference makers, trailblazers. Those are our people. And we’re looking for more.
+At CME Group, we embrace our employees' unique experiences and skills to ensure that everyone’s perspectives are acknowledged and valued. As an equal-
+opportunity employer, we consider all potential employees without regard to any protected characteristic.
+Important Notice: Recruitment fraud is on the rise, with scammers using misleading promises of job offers and interviews to solicit money and personal
+information from job seekers. CME Group adheres to established procedures designed to maintain trust, confidence and security throughout our recruitment
+process. Learn more here.

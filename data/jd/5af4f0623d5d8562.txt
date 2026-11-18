@@ -1,0 +1,56 @@
+Meta was built to help people connect and share, and our technologies play a critical role in how people around the world communicate, create, and experience
+media. A research internship at Meta offers the opportunity to advance the state of the art while working on systems used across global products.Meta is seeking
+Research Scientist Interns to join the Media Foundation Core Audio team. We develop audio technologies used across WhatsApp, Messenger, Instagram, Facebook, and
+Meta AI experiences, spanning real-time calling, conversational AI, voice and media messaging, Live, and video-on-demand.Interns will work on one focused
+research problem at the intersection of machine learning, audio and speech signal processing, human perception, and efficient systems. Potential areas include
+streaming speech and audio enhancement for calling and conversational AI; restoration and super-resolution for creator media and video; neural audio codecs and
+compression for speech, music, and general audio; perceptual and context-aware quality metrics; multimodal evaluation; and efficient on-device or server
+inference through model architecture, distillation, quantization, and runtime optimization. Projects will be selected based on the intern’s expertise and
+current team priorities.The work combines research depth with real-world constraints such as latency, bitrate, compute, memory, power, robustness, and safe
+fallback. Interns will collaborate with research scientists, software engineers, and product partners to define the problem, build and evaluate solutions, and
+identify a credible path from research result to product impact.Our internships are twelve (12) to sixteen (16), or twenty-four (24) weeks long, with various
+start dates throughout the year.
+Research Scientist Intern, Audio AI (PhD) Responsibilities:
+- Perform research to advance audio, speech, multimodal, and machine learning technologies.
+- Design, train, and evaluate models for one or more audio applications, such as enhancement, restoration, compression, generation, or quality understanding.
+- Build reproducible evaluation pipelines using objective metrics, human listening tests, robustness analysis, and system-level measurements.
+- Analyze and improve model quality, efficiency, latency, scalability, and stability under practical device, network, and serving constraints.
+- Collaborate with researchers, software engineers, and cross-functional partners
+- communicate research plans, progress, tradeoffs, and results.
+- Publish research results and contribute to research that can be applied to Meta product development.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Artificial Intelligence, Natural Language Processing, Speech Recognition,
+Sentiment Analysis, Computer Vision, or relevant technical field
+- Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience with Python, C++, C, Java or other related language
+- Experience with deep learning frameworks such as Pytorch or Tensorflow
+- Familiarity with machine learning and common deep learning architectures
+Preferred Qualifications:
+- Intent to return to the degree program after the completion of the internship/co-op
+- Proven track record of solid research achievements as demonstrated by grants, fellowships, patents, as well as publications at leading AI conferences such as
+NeurIPS, ICML, ICLR, ACL, EMNLP and KDD
+- Prior research or project experience in one or more of the following areas: reinforcement learning, pre-training and supervised fine-tuning of large language
+models, sequence modeling, diffusion models, and their applications in recommendation systems
+- Demonstrated software development experience via tech internships, work experience, coding competitions, or widely used contributions in open source machine-
+learning repositories
+- Experience working and communicating cross functionally in a fast-paced team environment. Ideal candidates should have the ability to quickly understand and
+identify the research opportunities behind real-world applications, select the appropriate ML methods to explore, and proactively drive the iterations based on
+clear analysis of the current result
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

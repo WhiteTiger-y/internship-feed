@@ -1,0 +1,72 @@
+About Basis
+Basis is a nonprofit applied AI research organization with two mutually reinforcing goals.
+The first is to understand and build intelligence. This means to establish the mathematical principles of what it means to reason, to learn, to make decisions,
+to understand, and to explain; and to construct software that implements these principles.
+The second is to advance society’s ability to solve intractable problems. This means expanding the scale, complexity, and breadth of problems that we can solve
+today, and even more importantly, accelerating our ability to solve problems in the future.
+To achieve these goals, we’re building both a new technological foundation that draws inspiration from how humans reason, and a new kind of collaborative
+organization that puts human values first.
+About The Role
+Research interns work closely with scientists and engineers at Basis, learning from and contributing to our team. Internships are open to graduate-level
+candidates (or equivalent), pursuing research in technical and scientific domains, including areas of computer science such as machine learning, and programming
+languages.
+We are looking for people who want to grow technically and who value gaining a deeper understanding of concepts at their foundations.
+We expect you to:
+- Have demonstrated an ability to do high-quality scientific research. Possible ways to demonstrate this include publications, technical reports, and software
+projects
+In addition, the following would be an advantage:
+- Excited about solving real world problems and having positive societal impact
+Activities
+- Develop and explore computational theories of intelligence, including reasoning, learning, and decision-making
+- In close collaboration with domain experts inside and especially outside Basis, work as a team member to help solve scientific and societal problems
+- Distill insights from solving problems into more general mathematical and computational theories
+- Contribute to open-source software
+- (Optionally) Publish and present findings in journals and conferences
+- Contribute to the culture and direction of Basis
+Potential projects
+Interns will be placed with one of our active challenge projects or our core tech team, according to project needs and intern fit. In particular, we have
+openings within the following areas, but this list is not exhaustive:
+- Dynamical Systems + Machine Learning at Basis
+- We’re seeking interns interested in developing the theory and methods that let us learn how systems work from data—and quantify what we don’t know. This work
+sits at the intersection of machine learning, dynamical systems, and uncertainty quantification, with the goal of advancing how we represent, infer, and
+forecast complex real-world processes under uncertainty.
+- Projects may be theoretical (developing foundations for learning and reasoning about dynamics), methodological or engineering-focused (building and
+integrating algorithms into our universal reasoning engine), or applied (using our existing toolkits to study systems such as animal behavior and robot co-
+design).
+- Recent blogpost: Introducing Dynestyx, a probabilistic programming library for dynamical systems
+- Interns should have familiarity with differential equations, machine learning, and Bayesian inference.
+- Secure Sensing & Robotics
+- We are starting a new hardware research effort on privacy-centered hardware. The ubiquity of IoT devices and never-ending appetite of large-scale AI models
+have normalized mass data recording and mining of public and private spaces. This motivates numerous research questions: (1) how do we design public interest
+IoT and robotics applications that preserve community members’ privacy? (2) How can we design checks and balances in sensing systems to affirm compliance with
+consent and anti-eavesdropping laws? (3) How do we center trustworthiness in the design of IoT and robotic system? We are looking for candidates with experience
+in at least one of the following: embedded systems, edge computing, robotics, machine learning, security, and computer vision. Please feel free to reach out to
+learn more about the latest work.
+- Formal Methods and Verification
+- Basis is building infrastructure for machine-checkable trust in scientific software and autonomous systems. Our aim is to make it practical to express what a
+system should do, verify that it does it, and maintain that evidence as the system evolves.
+- Recent blogposts: Synthesizing Rollback Systems for Safer Agents, Ship your interpreter, Using LLM-based verification to eliminate bugs in Linux's network
+stack.
+- Collaborative Intelligent Systems
+- We study collaborative intelligent systems in the wild, focusing on how social species coordinate, communicate, and adapt in complex environments. Our work
+spans multiple levels of behavior, from fine-grained group foraging and navigation decisions to city-scale ecological and evolutionary dynamics. Using
+multimodal data (audio, video, environmental, and genetic), we develop probabilistic and dynamical systems models that investigate how communication and
+cooperation shape resilience in changing ecosystems. Interns will contribute to data analysis, modeling, or field data collection for our “behavioral weather
+station” network monitoring social species across cities.
+- Recent blogposts: Reconstructing animal movements in 3D naturalistic environments from field measurements, The hidden sounds of rats: A new way to hear urban
+wildlife
+- Key skills: interest in animal behavior or collective systems; experience with data science, machine learning. Preference will be given to candidates with
+experience in at least one of the following areas: dynamical systems modeling, multimodal data analysis, multi-agent simulation.
+- MARA – Modeling, Abstraction & Reasoning Agents
+- Science advances by discovering useful abstractions. MARA operationalizes this insight into software agents. Instead of passively absorbing data, MARA agents
+propose hypotheses, run physical or simulated experiments, and revise models of the world until a compact, coherent theory emerges. Early results show MARA
+systems solving previously unresolved (ARC) Abstraction and Reasoning Corpus tasks; widely considered among the hardest AI benchmarks today. We are also opening
+a new branch of the project to bring MARA into the physical world, with embodied agents (robots) that learn from experience, build internal representations, and
+apply "everyday science" human-like reasoning to solve problems.
+- Recent blogposts: ExoPredicator: abstracting time and state for robot planning, AutumnBench: world model learning in humans and AI
+Role Details
+- FT/PT: This is a full-time position.
+- Start and end dates: This is typically a summer position but the dates are flexible. The internship should span at least three months.
+- Location: This is an in-person position in either the New York City or Boston/Cambridge area.
+- Salary: $100,000 annually
+- Application clo
