@@ -1,0 +1,47 @@
+About TetraMem
+At TetraMem, we are at the forefront of next-generation in-memory computing technology, revolutionizing the way AI hardware processes data. Our mission is to
+push the boundaries of performance, energy efficiency, and scalability, empowering the future of artificial intelligence and machine learning applications.
+Founded by a team of industry veterans, researchers, and innovators, TetraMem is backed by cutting-edge research and strong partnerships with key players in the
+semiconductor industry. With offices in the U.S. and Singapore we are growing rapidly and expanding our global footprint.
+About The Team
+We are looking for a Machine Learning Engineer Intern to work on how neural networks are trained, compressed, and deployed on TetraMem’s analog compute-in-
+memory chips. You will work on real models from our model zoo. You will take them from a PyTorch checkpoint to a version that runs on our hardware, and you will
+measure the accuracy and efficiency trade-offs along the way. You will work closely with the ML model, compiler, and hardware teams.
+Job Responsibilities
+- Assist in training, fine-tuning, and adapting neural network models, including computer vision, audio/speech, and compact language models for compute-in-
+memory hardware platforms.
+- Implement and evaluate model compression techniques, including post-training quantization (PTQ), quantization-aware training (QAT), mixed-precision
+assignment, pruning, and knowledge distillation.
+- Develop hardware-aware training methods that make models robust to low-precision weights and analog non-idealities.
+- Analyze model graphs for operator coverage, rewrite or replace unsupported operators, and export models for the compiler toolchain.
+- Profile accuracy, latency, and memory on simulation and hardware, and find where accuracy is lost.
+- Write clean, tested Python (and C++ where needed) for model training, quantization, and evaluation toolchain.
+- Document experimental methodologies, analyze results, and technical findings through technical reports and team presentations.
+Required Qualifications
+- Currently pursuing a BS, MS, or PhD in Computer Science, Electrical Engineering, or a related field.
+- Hands-on experience training and evaluating neural networks using PyTorch through research, internships, or substantial projects beyond course tutorials.
+- Familiarity with at least one model optimization technique such as quantization (PTQ or QAT), pruning, distillation, or efficient architecture design.
+- Solid understanding of deep learning fundamentals, including common neural network layers, normalization, attention mechanisms, backpropagation, and numerical
+precision (FP32/FP16/INT8).
+- Strong Python skills and familiarity with software development practices, including vision control, debugging, testing, and writing maintainable code.
+- Ability to read and understand technical research papers, implement published methods, and evaluate their applicability to new problems.
+Preferred Qualifications
+- Experience deploying models to edge or embedded targets (e.g., ONNX Runtime, TFLite/LiteRT, ExecuTorch, TensorRT).
+- Familiarity with ML compilers or graph IRs (ONNX, TVM, MLIR).
+- C++ experience for inference runtimes or performance-critical code.
+- Experience with audio/speech models (keyword spotting, speech enhancement, ASR) or compact vision models.
+- Background in hardware-aware ML, noise-robust training, or analog/in-memory computing.
+- Publications, open-source contributions, or competition results in efficient ML.
+- M.S. or Ph.D. in Computer Science, Electrical Engineering, or a related field.
+Annual Base Salary Range: $34.00 - $45.00 USD/hr
+TetraMem celebrates diversity and is committed to creating an inclusive environment for all employees. We are proud to be an Equal Opportunity Employer and
+welcome applicants from all backgrounds. Qualified candidates will receive consideration for employment without regard
+to race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, age, marital status, medical condition,
+disability, genetic information, military or veteran status, or any other characteristic protected by applicable federal, state, or local law.
+TetraMem is committed to providing reasonable accommodations to qualified applicants with disabilities throughout the recruitment process. Applicants requiring
+accommodation may contact Human Resources for assistance at recruiting@tetramem.com
+To ensure a fair, consistent, and efficient hiring process, all candidates must apply through TetraMem’s official ClearCompany Applicant Tracking System (ATS).
+Applications submitted through the ATS allow our hiring team to evaluate candidates using a standardized process and ensure timely communication throughout the
+recruitment process. To promote equal consideration for all applicants, applications submitted outside of the ClearCompany ATS, including direct emails,
+LinkedIn messages, or unsolicited submissions to employees, may not be reviewed or considered.
+We encourage all interested candidates to apply through the official TetraMem Careers page.

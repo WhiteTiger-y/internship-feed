@@ -1,0 +1,70 @@
+Description
+Leidos is seeking a motivated Software Developer Intern to join an integrated team of software engineers and technical professionals supporting mission-critical
+Missile Warning and Missile Tracking (MW/MT) systems in Colorado Springs, Colorado.
+The selected candidate will support the design, development, integration, and testing of software applications, automation capabilities, and artificial
+intelligence (AI) tools intended to improve engineering efficiency, streamline operational workflows, and enhance program capabilities. Primary responsibilities
+will emphasize Python-based software development, workflow automation, data processing, and AI/machine learning (ML) applications.
+The intern will collaborate with experienced software developers, systems engineers, and cybersecurity professionals, gaining practical experience in software
+engineering, Agile development, and secure software development practices. Leidos will provide technical mentorship and professional development opportunities,
+with the potential for full-time employment consideration upon graduation.
+Location: Colorado Springs, CO. No travel outside the local area is required.
+Primary Responsibilities
+- Software Development and Automation: Design, develop, debug, and test software applications, scripts, and utilities using Python, Java, C, C++, or C# to
+automate engineering processes, improve workflows, and reduce manual effort.
+- Artificial Intelligence and Machine Learning: Support the development, evaluation, and integration of AI/ML capabilities, including automated analysis, data
+classification, computer vision, and decision-support applications.
+- Data Processing: Develop scripts and data pipelines to collect, organize, transform, validate, and analyze structured and unstructured data.
+- Software Integration and Testing: Assist with integrating automation and AI-enabled tools into existing software environments; perform testing,
+troubleshooting, and validation to ensure functionality and reliability.
+- Agile Development: Participate in sprint planning, technical discussions, code reviews, and iterative software development using tools such as Git, GitHub,
+GitLab, and Jira.
+- Secure Software Development: Apply foundational cybersecurity concepts and secure coding practices while developing and testing software in Windows and
+Unix/Linux environments.
+- Technical Documentation: Develop and maintain software documentation, test results, user instructions, and technical procedures.
+Assignments will be tailored to the candidate's technical abilities, academic experience, and professional development goals while supporting program
+priorities.
+Basic Qualifications
+- Currently enrolled in an accredited college or university pursuing a Bachelor's Degree in Computer Science, Software Engineering, Computer Engineering, or a
+closely related technical discipline, preferably within 12–18 months of graduation.
+- Minimum cumulative GPA of 3.2.
+- Foundational programming experience in Python or another language such as Java, C, C++, or C#.
+- Coursework or project experience involving software development, algorithms, data structures, debugging, or software testing.
+- Familiarity with software development tools, integrated development environments (IDEs), or version control systems.
+- Demonstrated interest in software automation, artificial intelligence, machine learning, or data processing.
+- Strong analytical, problem-solving, communication, and teamwork skills, with attention to software quality and technical detail.
+- U.S. Citizenship required. Must be eligible to obtain a U.S. Government-granted Secret security clearance.
+Preferred Qualifications
+- Experience developing Python applications, automation scripts, or software utilities through academic coursework, research, or personal projects.
+- Academic or project experience with AI/ML, computer vision, image classification, or object detection using technologies such as OpenCV, YOLO, or similar
+frameworks.
+- Experience developing data pipelines, processing CSV files, managing structured datasets, or automating repetitive data-processing activities.
+- Familiarity with Agile/Scrum methodologies and development tools such as Git, GitHub, GitLab, Jira, Visual Studio, or VS Code.
+- Experience using Unix/Linux operating systems, command-line utilities, or shell scripting.
+- Foundational understanding of cybersecurity principles, secure coding, or network security; progress toward CompTIA Security+ or a comparable certification is
+beneficial.
+- Coursework in software engineering, computational linear algebra, discrete mathematics, computer architecture, or related technical disciplines.
+- Experience with user interface development, technical documentation, or collaborative software projects.
+- Exposure to DevSecOps, CI/CD, Digital Engineering, or Model-Based Systems Engineering (MBSE) concepts.
+Professional Development
+The selected intern will gain hands-on experience developing software and automation solutions supporting mission-critical defense systems. The position offers
+opportunities to apply academic AI/ML knowledge, strengthen programming and problem-solving skills, participate in Agile development, and collaborate with
+experienced engineering and cybersecurity professionals.
+Successful performance may lead to consideration for future full-time employment opportunities with Leidos.
+If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring
+followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than
+anyone else dares.
+Original Posting
+November 18, 2026
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3
+days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+Pay Range
+Pay Range $48,100.00 - $86,950.00
+The Leidos pay range for this job level is a general guideline onlyand not a guarantee of compensation or salary. Additional factors considered in extending an
+offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity,
+alignment with market data, applicable bargaining agreement (if any), or other law.
+About Leidos
+Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations.
+Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended
+January 3, 2025. For more information, visit www.Leidos.com.
+Pay And Benefits
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the import

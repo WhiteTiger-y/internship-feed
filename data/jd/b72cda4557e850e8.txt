@@ -1,0 +1,68 @@
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine
+connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to
+prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.
+The Position
+2027 Summer Intern - Microfluidic Systems Integration Research
+We advance science so that we all have more time with the people we love.
+Department Summary
+Our Systems Technology Group, a part of Roche Sequencing Solutions, is focused on creating and advancing technologies to significantly enhance DNA sequencing
+workflows. We are seeking a summer intern to help us in evaluating novel fluidic systems and integrating complex chemistry and workflows onto these systems
+during the earliest stages of research and development. This is an exciting, hands-on role for a student who is passionate about pioneering new technologies and
+making them work reliably by spanning the intersection of chemistry, molecular biology, and biochemistry with hardware, surfaces, and materials.
+The ideal candidate thrives at the nexus, capable of rigorously testing system concepts, integrating complex subsystems, and optimizing performance based on
+first principles. This role requires close collaboration with scientific and design teams and will focus on the critical tasks of integrating, characterizing,
+troubleshooting, and optimizing early prototypes. You will also help evaluate the concepts by conducting rigorous testing on breadboards and prototypes,
+identifying failure modes, and providing data-driven feedback to the team.
+This internship position is located in Santa Clara, on-site.
+The Opportunity:
+- Prototype Testing: Set up and run experiments on early-stage fluidic breadboards and prototypes to evaluate feasibility
+- Troubleshooting: Work with the team to identify failure modes and help find root causes
+- Data Analysis: Analyze experimental data and present findings to the technical team
+- Integration: Assist in translating benchtop chemical workflows onto automated fluidic and microfluidic systems
+- Perform orthogonal analyses on a variety of advanced instrumentation to screen for optimal components and conditions
+Program Highlights
+- Intensive 12-week, full-time (40 hours per week) paid internship
+- Program start dates are in May/June (Summer)
+- A stipend, based on location, will be provided to help alleviate costs associated with the internship.
+- Ownership of challenging and impactful business-critical projects
+- Work with some of the most talented people in the biotechnology industry
+Who You Are
+Required Education:
+You meet one of the following criteria:
+- Must be pursuing a Bachelor's Degree (enrolled student)
+- Must have attained a Bachelor's Degree (not currently enrolled in a graduate program)
+- Must be pursuing a Master's Degree (enrolled student)
+- Must have attained a Master's Degree
+- Must be pursuing a PhD (enrolled student)
+- Must have attained a PhD
+Required Majors: Bioengineering, Chemical Engineering, Biophysics or similar/related discipline.
+Required Skills
+- Hands-on experience: You have hands-on experience with biological or chemical workflows and standard lab tools and equipment.
+- Interdisciplinary Knowledge: You possess an understanding of the fundamental principles of molecular biology, biochemistry, chemistry, and physics
+- Problem-Solving Mindset: You have the ability to troubleshoot from a first-principles perspective, using the scientific method.
+Preferred Knowledge, Skills, And Qualifications
+- Excellent communication, collaboration, and interpersonal skills
+- Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion
+- Scientist/Engineer at Heart: You exhibit a high degree of ingenuity, resourcefulness, and scientific curiosity. You are always eager to learn new things and
+have technical hobbies that showcase your love for building things and/or experimentation
+- Data Analysis Tools: You have hands-on experience with common data analysis tools and the appropriate use of AI to help use these tools more effectively and
+efficiently
+- Hands-on experience (Hardware): You have hands-on experience working with prototype instruments, breadboards, or integrated microfluidic devices
+Relocation benefits are not available for this job posting.
+The expected salary range for this position based on the primary location of California is $45.00-$52.00 per hour. Actual pay will be determined based on
+experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off
+benefits.
+Who we are
+A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access
+to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests
+conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver
+life-changing healthcare solutions that make a global impact.
+Let’s build a healthier future, together.
+Roche is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis
+of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of
+Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for
+Applicants.
+Roche is an equal opportunity employer and strictly prohibits unlawful discrimination based upon an individual's race, color, religion, gender, sexual
+orientation, gender identity/expression, national origin/ancestry, age, mental/physical disability, medical condition, marital status, veteran status, or any
+other characteristic protected by law.

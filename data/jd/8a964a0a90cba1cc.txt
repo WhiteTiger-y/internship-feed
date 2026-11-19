@@ -1,0 +1,47 @@
+Title
+Defense & Intel (D&I) - Radar Research Internship
+At KBR, we deliver science, technology and engineering solutions to governments and companies around the world. KBR employs approximately 37,000 people
+worldwide with customers in more than 85 countries and operations in over 28 countries. KBR is proud to work with its customers across the globe to provide
+technology, value-added services, and long-term operations and maintenance services to ensure consistent delivery with predictable results.
+Trinzic is the future independent company to be created through the planned spin-off of KBR's Mission Technology Solutions business, expected in January 2027.
+Our people work at the frontier of what is possible, delivering solutions in challenging environments and advancing some of the world's highest-priority
+national security and space missions.
+Backed by decades of mission success, deep expertise, and trusted partnerships, Trinzic will launch as a global organization with more than 18,000 employees
+supporting customers around the world. Join us at a defining moment and help shape the future of a company built to tackle complex challenges and make a
+meaningful impact.
+Candidates who join KBR's Mission Technology Solutions business before the spin-off will transition to Trinzic when the separation is complete and will not need
+to reapply for employment.
+Project Overview
+Contribute to the development of KBR's Research and Development capabilities supporting geospatial intelligence (GEOINT) including topics in Synthetic Aperture
+Radar (SAR) and Moving Target Indication (MTI). Apply engineering and analytical skills to develop tools and algorithms for modeling, simulation, visualization,
+and assessment of real-world scenarios. Apply modern AI techniques to SAR and RF.
+Key Responsibilities
+- Apply radar engineering and signal processing concepts to solve real-world problems.
+- Develop Radar tools for modeling, simulation, visualization, and analysis.
+- Explore the use of AI, machine learning, and generative AI techniques to enhance radar analytics and decision support.
+- Collaborate with engineers and subject matter experts on research and development initiatives.
+- Present technical findings and recommendations to project stakeholders, which may include KBR staff as well as Government customer staff.
+Learning Outcomes & Impact
+- Hands-on experience developing advanced geospatial intelligence and radar analytic capabilities.
+- Exposure to real-world government mission challenges and engineering workflows.
+- Mentorship from experienced Subject Matter Experts (SMEs).
+- Opportunity to contribute directly to customer programs and KBR internal R&D initiatives and emerging technologies.
+Minimum Qualifications
+- Pursuing degree in engineering (electrical, computer or aerospace), computer science signal processing, or physics.
+- Academic knowledge and experience with radar systems, digital signal processing, RF.
+- Familiarity with one or more programming languages including MATLAB, Python, C++, or Java.
+- Strong analytical, problem-solving, and communication skills.
+- Self-starter capable of working independently and within a team environment.
+Preferred Qualifications
+- Strong coursework or research involving SAR, radar systems, or RF engineering.
+- Pursuing Master’s degree or higher.
+- Experience applying machine learning or AI techniques to technical problems.
+- Familiarity with data analysis, modeling, and visualization tools.
+Belong, Connect and Grow at KBR
+At KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey
+toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect
+and Grow. We Deliver – Together.
+KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability,
+sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other
+characteristic protected by federal, state, or local law.
+R3001173

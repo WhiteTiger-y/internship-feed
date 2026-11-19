@@ -1,0 +1,29 @@
+The Human Health & Performance Systems Group develops human-centered technologies to overcome operational challenges and to enhance human capability in domains
+of interest to national security. Our research programs focus on innovative and objective solutions in the areas of integrated wearable systems, human-machine
+teaming, enhanced communications, neurocognitive analytics, and medical technologies. Our group is highly interdisciplinary and includes scientific experts in
+physiology, cognitive science, neuroscience, psychology, biomechanics, computer science, engineering, and physics. Our core technical competencies include
+system-level modeling and gap analysis, advanced sensing and signal processing, machine learning and artificial intelligence, computational modeling, hardware
+and software prototyping, model-based systems engineering, and human data collection in laboratory and field environments.
+Position Description
+Our team is looking for a Co-Op student with an interest in solving challenging AI/ML problems in multimodal imaging. Through this opportunity, you will work
+with a multidisciplinary team of engineers, including roboticists, optical designers, and electrical engineers with expertise in signal and image processing.
+You will prepare and process multimodal imaging datasets, develop image registration methods to align data across imaging modalities, and develop and evaluate
+algorithms for multimodal analysis and image fusion. The work will also explore physics-informed AI models that incorporate imaging physics into machine
+learning methods to improve image reconstruction and interpretation. We are looking for students who are self-motivated and interested in image processing,
+machine learning, deep learning, and scientific computing.
+Requirements And Skills
+- The candidate is a student in an M.S., or Ph.D. program in Biomedical Engineering, Electrical Engineering, Computer Science, or other relevant degree.
+- Proficiency in Python and experience with standard scientific computing and machine learning libraries, and deep learning frameworks such as PyTorch or
+TensorFlow/Keras, through coursework or practical projects.
+- Familiarity with GPU-accelerated computing using CUDA-enabled deep learning frameworks.
+Preferred Qualifications
+- Experience in biomedical or multimodal image processing, image registration, image fusion, or multimodal analysis.
+- Interest in physics-informed AI models and incorporating physical models or constraints into machine learning methods.
+- Ability to work collaboratively across disciplines and communicate technical results clearly.
+Compensation:
+$30-$43/hour based on education attained at the time of the co-op
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43553

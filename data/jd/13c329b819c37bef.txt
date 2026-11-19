@@ -1,0 +1,73 @@
+Please Note
+To provide the best candidate experience amidst our high application volumes, each candidate is limited to 10 applications across all open jobs within a 6-month
+period.
+Advancing the World’s Technology Together
+Our technology solutions power the tools you use every day--including smartphones, electric vehicles, hyperscale data centers, IoT devices, and so much more.
+Here, you’ll have an opportunity to be part of a global leader whose innovative designs are pushing the boundaries of what’s possible and powering the future.
+We believe innovation and growth are driven by an inclusive culture and a diverse workforce. We’re dedicated to empowering people to be their true selves.
+Together, we’re building a better tomorrow for our employees, customers, partners, and communities.
+What You’ll Learn
+- Project Overview: System level characteristics of agentic benchmarks on distributed memory accelerator servers.
+- Skills You’ll Learn:
+- Workload characterization and performance analysis of agentic AI systems
+- Design space exploration of AI accelerators and memory systems
+What You’ll Do
+The AGI (Artificial General Intelligence) Computing Lab is dedicated to solving the complex system-level challenges posed by the growing demands of future AI/ML
+workloads. Our team is committed to designing and developing scalable platforms that can effectively handle the computational and memory requirements of these
+workloads while minimizing energy consumption and maximizing performance. To achieve this goal, we collaborate closely with both hardware and software engineers
+to identify and address the unique challenges posed by AI/ML workloads and to explore new computing abstractions that can provide a better balance between the
+hardware and software components of our systems. Additionally, we continuously conduct research and development in emerging technologies and trends across
+memory, computing, interconnect, and AI/ML, ensuring that our platforms are always equipped to handle the most demanding workloads of the future. By working
+together as a dedicated and passionate team, we aim to revolutionize the way AI/ML applications are deployed and executed, ultimately contributing to the
+advancement of AGI in an affordable and sustainable manner. Join us in our passion to shape the future of computing!
+Location: Daily onsite presence at our San Jose headquarters in alignment with our Flexible Work policy
+Reports to: Sr. Director
+- Research the system level characteristics of agentic benchmarks (e.g., SWE-bench and WebArena).
+- Develop end-to-end profiling of agents across LLM inference, tool calls, and environment execution.
+- Characterize memory and communication demands of long, multi-turn contexts and KV-cache reuse.
+- Build workload models that drive analytical simulators and DSE tools for future accelerators.
+- Work closely with the compiler and runtime teams on H/W, S/W co-design optimizations.
+- Contribute to workload characterization and architecture research and write research papers.
+- Stay up-to-date with the latest trends and advancements in agentic AI and ML architectures.
+- Complete other responsibilities as assigned.
+What You Bring
+- Pursuing Masters, or PhD in Computer Science or Electrical Engineering preferred.
+- Research experience in workload characterization or performance analysis of CPUs, GPUs, and NPUs.
+- Published papers in Microarchitecture, Systems, or characterization venues (e.g., IISWC) preferred.
+- Experience with profiling tools (e.g., Nsight Systems, PyTorch Profiler) and developing simulators.
+- Understanding of system level characteristics of LLM inference and agentic AI workloads.
+- Familiarity with PyTorch, LLM serving frameworks (e.g., vLLM or SGLang), and agent frameworks.
+- Strong analytical and problem-solving skills
+- Excellent communication and interpersonal skills
+- Ability to work independently and as part of a team
+- You’re inclusive, adapting your style to the situation and diverse global norms of our people.
+- An avid learner, you approach challenges with curiosity and resilience, seeking data to help build understanding.
+- You’re collaborative, building relationships, humbly offering support and openly welcoming approaches.
+- Innovative and creative, you proactively explore new ideas and adapt quickly to change.
+What We Offer
+The pay range below is for all roles at this level across all US locations and functions. Pay within this range varies by work location and may also depend on
+job-related knowledge, skills, and experience.
+This is in addition to our diverse package of benefits centered around the wellbeing of our employees and their loved ones. In addition to the usual
+Medical/Dental/Vision, our inclusive rewards plan empowers our people to care for their whole selves. An investment in your future is an investment in ours.
+Relocation Support Live 50+ miles away from your new office? No worries! We'll provide a stipend to help support your move.
+Housing Stipend Signing a lease on a new place for your summer internship? We'll help you pay your way with a monthly stipend.
+Give Back With a charitable giving match and frequent opportunities to get involved, we take an active role in supporting the community.
+Prioritize Emotional Wellness With on-demand apps and paid therapy sessions, you’ll have support no matter where you are.
+Stay Fit Eating well and being active are important parts of a healthy life. Our onsite Café and gym, plus virtual classes, make it easier.
+Embrace Flexibility Benefits are best when you have the space to use them. That’s why we facilitate a flexible environment so you can find the right balance for
+you.
+Hourly Base Pay Rate
+$28—$68 USD
+Equal Opportunity Employment Policy
+Samsung Semiconductor takes pride in being an equal opportunity workplace dedicated to fostering an environment where all individuals feel valued and empowered
+to excel, regardless of race, religion, color, age, disability, sex, gender identity, sexual orientation, ancestry, genetic information, marital status,
+national origin, political affiliation, or veteran status.
+When selecting team members, we prioritize talent and qualities such as humility, kindness, and dedication. We extend comprehensive accommodations throughout
+our recruiting processes for candidates with disabilities, long-term conditions, neurodivergent individuals, or those requiring pregnancy-related support. All
+candidates scheduled for an interview will receive guidance on requesting accommodations.
+Our Commitment to Innovation and Fairness
+At Samsung Semiconductor, we use Artificial Intelligence (AI) tools in the recruitment process to enhance efficiency. However, AI is used as a support tool, not
+a final decision-maker. All hiring decisions are made by our human recruiting team and hiring managers to ensure every candidate is evaluated fairly and
+holistically.
+Recruiting Agency Policy
+We do not accept unsolicited resumes. Only authorized recruitment agencies that have a cur

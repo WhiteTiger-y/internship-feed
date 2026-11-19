@@ -1,0 +1,53 @@
+Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground
+up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a
+team that is building the future, faster.
+We're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that —
+with an energy-first approach that makes AI infrastructure better for the world and faster for the people innovating with AI.
+We're looking for problem-solving, opportunity-finding teammates with a sense of urgency, who believe in the scale of our ambition and thrive on a path not
+fully paved — people who want to grow their careers alongside a team of experts across energy, manufacturing, data center construction, and cloud services.
+If you want to do the most meaningful work of your career, help our customers and partners advance their AI strategies, and be part of a high-performing team
+that believes in each other, come build with us at Crusoe.
+About the Role:
+Crusoe's Managed AI team builds the services customers use to customize and run large language models without managing infrastructure. On the training side,
+it's a post-training platform where customers adapt models to their own data with supervised fine-tuning (SFT) and reinforcement learning (RL). On the inference
+side, it's managed serving that runs open-weight and fine-tuned models, including LoRA adapters, fast and cost-efficiently on Crusoe's GPU fleet. The two are
+closely connected: models trained on the platform are deployed and served on the same infrastructure, and RL training depends on high-throughput inference for
+rollouts.
+As an AI Applied Research PhD Intern, you'll own a research question somewhere on that path from training to serving. It could be making RL work reliably on
+real customer tasks, or making inference faster and cheaper without losing quality. You'll run experiments on frontier open-weight models (Qwen, GLM, DeepSeek
+and Kimi-class models) on large GPU clusters, turn your findings into recipes and platform features that customers use, and present the results to the team and
+leadership. This is a 12-week, full-time, in-person internship. Candidates who want to see their research run in production, not just in a paper, will find it a
+good fit.
+What You'll Bring to the Team:
+- Education: Currently enrolled in a PhD program in Computer Science, Machine Learning, Electrical Engineering or a related field, with an expected graduation
+date between Fall 2027 and Spring 2029.
+- Research experience: 2+ years of research experience in machine learning or ML systems, including hands-on work with large language models: training or fine-
+tuning (SFT, RLHF, DPO, GRPO/PPO) or inference optimization.
+- Programming: Strong Python and PyTorch; comfortable reading and modifying large ML codebases.
+- Experimental rigor: You design controlled experiments, choose the right baselines and metrics, and can tell a real effect from noise.
+- Systems awareness: Working knowledge of how LLM training and inference run on GPUs, such as batching, memory, mixed precision and parallelism.
+- Communication: You explain complex results clearly in writing and in person, and you work well with engineers turning research into product.
+Bonus Points
+- Publications at venues such as NeurIPS, ICML, ICLR, MLSys, ACL, EMNLP or COLM on RL for LLMs, reward modeling, agents, efficient training or efficient
+inference.
+- Hands-on experience with inference engines (vLLM, SGLang, TensorRT-LLM) or training frameworks (verl, OpenRLHF, TRL, Megatron-LM, DeepSpeed).
+- Experience with quantization, speculative decoding, GPU kernels (CUDA, Triton) or LoRA/PEFT methods.
+- Experience building agent environments, tool-use sandboxes or evaluation harnesses.
+- Open-source contributions to Training/Infernece libraries.
+Our Internship Program
+Our 12-week, in-person program pairs high-impact work with one-on-one mentorship and direct access to leaders across the organization. You'll gain hands-on
+experience that goes beyond the classroom. The program is built to support your professional growth and help you forge valuable connections within Crusoe and
+beyond.
+We're looking for motivated, talented people who are eager to take on real responsibility and make a real impact. Are you ready to join the Future Cru?
+2027 Summer Internship Dates (choose one cohort):
+- May 24 – August 13, 2027
+- June 14 – September 3, 2027
+Benefits:
+- Compensation will be $80/hour
+- One-time housing stipend
+- Access to HealthiestYou and Calm
+- Paid holiday and volunteer days
+- Commuter allowance
+Crusoe is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy,
+citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by
+law or regulation.

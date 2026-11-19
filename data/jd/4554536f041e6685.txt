@@ -1,0 +1,69 @@
+Please Note
+To provide the best candidate experience amidst our high application volumes, each candidate is limited to 10 applications across all open jobs within a 6-month
+period.
+Advancing the World’s Technology Together
+Our technology solutions power the tools you use every day--including smartphones, electric vehicles, hyperscale data centers, IoT devices, and so much more.
+Here, you’ll have an opportunity to be part of a global leader whose innovative designs are pushing the boundaries of what’s possible and powering the future.
+We believe innovation and growth are driven by an inclusive culture and a diverse workforce. We’re dedicated to empowering people to be their true selves.
+Together, we’re building a better tomorrow for our employees, customers, partners, and communities.
+What You’ll Learn
+- Project Overview: In memory-centric AI accelerators, many memory devices each process data in place and only exchange small partial results, which are then
+merged. As LLM attention evolves from grouped-query attention (GQA) to multi-head latent attention (MLA) and sparse top-k attention, the work done locally on
+each device shrinks while cross-device merge and reduction increasingly dominate decode latency. Using the team’s in-house performance model and simulator, you
+will explore the design space of merge/reduction architectures — where reduction happens, how devices are connected, and at what precision partial results are
+exchanged — and propose an architecture that performs well across modern attention workloads.
+- Skills You’ll Learn:
+- Architecture-level performance modeling and design-space exploration for distributed, memory-centric AI accelerators
+- How modern attention variants (GQA, MLA, sparse top-k attention) map onto distributed memory, and how they shift the balance between computation and
+communication
+- Hardware–software co-design of interconnect and reduction (collective) hardware for LLM inference
+What You’ll Do
+The AGI team at Samsung Semiconductor explores memory-centric system architectures for next-generation AI inference, where computation happens close to where
+data lives. We co-design hardware and software to make large-scale LLM inference faster and more efficient, and our work informs Samsung’s future memory and
+accelerator products. As an intern, you will own a research-driven architecture study end to end — from workload modeling to design-space exploration and an
+architecture proposal — working closely with architects and performance-modeling engineers, and you will present your findings to the broader organization at
+the end of the summer.
+Location: Daily onsite presence at our San Jose headquarters in alignment with our Flexible Work polic
+Reports to: Director
+- Extend the team’s in-house performance model and simulator to capture modern attention workloads — GQA, MLA, and sparse top-k attention — during LLM decode.
+- Analyze how each attention variant changes the balance between local computation and cross-device merge/reduction traffic, and pinpoint when merge becomes the
+bottleneck.
+- Explore the merge/reduction design space, including where reduction happens (centralized, in-network, or hierarchical), interconnect topology, link bandwidth
+and latency, and partial-result precision.
+- Characterize token-selection patterns of sparse attention models and design distributed top-k selection and data-placement strategies that minimize
+communication and load imbalance.
+- Estimate first-order area and power costs of proposed reduction hardware and weigh them against performance gains.
+- Validate the numerical accuracy of reduced-precision merging against full-precision reference implementations.
+- Collaborate weekly with your mentor and architecture engineers, and share your results through team meetings, a final presentation, and a technical report
+that inform future accelerator architecture and potential publications or patents.
+- Complete other responsibilities as assigned.
+What You Bring
+- Pursuing a Master’s or PhD in Computer Engineering, Electrical Engineering, Computer Science, or a related field preferred.
+- Must have at least 1 academic quarter/semester remaining
+- Strong background in computer architecture, including memory systems, interconnects/networks-on-chip, and performance analysis.
+- Solid understanding of Transformer inference, including attention variants (MHA/GQA/MLA), the KV cache, and the decode phase.
+- Proficiency in Python and/or C++, with hands-on experience using or building architecture simulators or analytical performance models.
+- Preferred: familiarity with sparse attention (e.g., DeepSeek Sparse Attention, NSA, Quest), online-softmax merging as in FlashAttention/FlashDecoding, or in-
+network reduction; publications in venues such as ISCA, MICRO, HPCA, ASPLOS, or MLSys.
+- You’re inclusive, adapting your style to the situation and diverse global norms of our people.
+- An avid learner, you approach challenges with curiosity and resilience, seeking data to help build understanding.
+- You’re collaborative, building relationships, humbly offering support and openly welcoming approaches.
+- Innovative and creative, you proactively explore new ideas and adapt quickly to change.
+What We Offer
+The pay range below is for all roles at this level across all US locations and functions. Pay within this range varies by work location and may also depend on
+job-related knowledge, skills, and experience.
+This is in addition to our diverse package of benefits centered around the wellbeing of our employees and their loved ones. In addition to the usual
+Medical/Dental/Vision, our inclusive rewards plan empowers our people to care for their whole selves. An investment in your future is an investment in ours.
+Relocation Support Live 50+ miles away from your new office? No worries! We'll provide a stipend to help support your move.
+Housing Stipend Signing a lease on a new place for your summer internship? We'll help you pay your way with a monthly stipend.
+Give Back With a charitable giving match and frequent opportunities to get involved, we take an active role in supporting the community.
+Prioritize Emotional Wellness With on-demand apps and paid therapy sessions, you’ll have support no matter where you are.
+Stay Fit Eating well and being active are important parts of a healthy life. Our onsite Café and gym, plus virtual classes, make it easier.
+Embrace Flexibility Benefits are best when you have the space to use them. That’s why we facilitate a flexible environment so you can find the right balance for
+you.
+Hourly Base Pay Rate
+$28—$68 USD
+Equal Opportunity Employment Policy
+Samsung Semiconductor takes pride in being an equal opportunity workplace dedicated to fostering an environment where all individuals feel valued and empowered
+to excel, regardless of race, religion, color, age, disability, sex, gender identity, sexual orientation, ancestry, genetic information, marital status,
+national origin, political affiliation, or vetera

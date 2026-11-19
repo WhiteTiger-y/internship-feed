@@ -1,0 +1,66 @@
+Job Purpose
+As an AI Intern on the ART team, you’ll help design and prototype AI strategies that interpret complex rail logistics scenarios and recommend (and where
+appropriate, automatically execute) planning actions on top of our optimization and decision support tools. You’ll work at the intersection of large language
+models (LLMs), decision science, and software engineering—building integrations that let LLMs reason over domain data, call specialized tools and services, and
+generate reliable, auditable outputs for planners and operators. You’ll collaborate closely with product, R&D, data engineering, and optimization teams to
+deliver experiments, proofs of concept, and pilot features that improve network velocity, asset utilization, and safety.
+Req ID
+12452BR
+Region
+United States
+City
+Southlake
+State:
+Texas
+Company Description
+Progress Rail stands at the intersection of legacy and innovation—driving the future of rail with a pioneering spirit. Since its founding in 1983, the company
+has grown to become one of the world’s largest and most trusted providers of railroad products, services, and technologies. Today, Progress Rail delivers a
+comprehensive portfolio of cost-effective solutions to railway customers around the globe. From the rails themselves to the EMD® locomotives that ride them, the
+company’s products are in operation across more than 100 countries—powering progress and connecting communities. In 2006, Progress Rail joined Caterpillar Inc.,
+further strengthening its ability to lead the rail industry with cutting-edge technology, unmatched expertise, and a commitment to excellence. At Progress Rail,
+the team is not just building the future of rail—they are making history every day.
+Key Job Elements
+- Prototype LLM-enabled workflows: Build agents, prompts, and tool-use policies that let LLMs interpret timetables, work orders, speed restrictions, and plan
+alternatives, then suggest actions aligned with operating constraints.
+- Integrate with optimization & decision tools: Connect LLM pipelines to solvers, simulators, and rules engines (e.g., scheduling/dispatch optimization, what if
+simulators) and validate that recommendations respect operational and safety rules.
+- Engineering hygiene: Package prototypes as services/notebooks with versioned prompts, config, and unit tests; document assumptions, data contracts, and
+model/solver interfaces.
+- Collaboration: Work with software, optimization, and R&D partners to iterate quickly on requirements; demo progress to stakeholders and capture feedback for
+the next sprint.
+- Compliance & safety: Apply data privacy, access controls, and safety guardrails; follow MLOps and software best practices for deployment-readiness in an
+industrial environment.
+Education / Training
+- Currently enrolled in a Bachelor’s or master’s program in Computer Science, Data Science, Electrical/Computer Engineering, Operations Research, Industrial
+Engineering, Applied Math, or a closely related field.
+- Coursework in at least two of the following: machine learning, natural language processing, optimization/operations research, algorithms, databases, data
+structures, probability/statistics, or software engineering.
+Qualifications And Experience
+Required:
+- Hands on experience (course, project, or internship) with Python for data/ML (e.g., pandas, NumPy) and at least one ML/NLP library (e.g., PyTorch, TensorFlow,
+scikit learn, Hugging Face).
+- Basic understanding of LLMs (prompting, fine tuning/LoRA, RAG, function/tool calling) and how to evaluate them (accuracy, grounding, latency, cost).
+- Familiarity with REST APIs, JSON, and microservice integration; ability to consume/produce structured tool outputs.
+- Strong problem-solving skills, clear written communication, and the ability to collaborate in a fast paced, multidisciplinary environment.
+Preferred:
+- Exposure to optimization/OR (linear/integer programming, heuristics, constraint programming) and integrating AI with solvers/simulators.
+- Experience building RAG pipelines (vector stores, chunking, embeddings), prompt versioning, and guardrails/red teaming.
+- Knowledge of MLOps practices (experimentation tracking, model/data versioning, CI/CD for ML) and containerization (Docker).
+- Domain interest in transportation, rail logistics, supply chain, or cyber physical systems
+Essential and Physical Activities Functions:
+- Strength – This is a traditional office setting and requires the occasional lifting of weight of 50lbs. Lifting boxes of paper.
+- Motion – This is a traditional office setting and requires the use of a computer, keyboard and other equipment. Employee will be sitting the majority of the
+day with occasional walking, climbing, squatting, kneeling and driving.
+- Vision/Hearing Requirements – Must be able to communicate with customers and coworkers and utilize all office equipment.
+- Work Environment – Work is in office sitting and not exposed to extremes of heat and cold. The position may require some exposure on the operation floor that
+could expose candidate to all environmental aspects.
+- Emotional Demands – Employee is expected to quickly pick up tasks in a fast-paced office environment and maybe required to give presentation, speak in public
+and work in teams.
+- Safety – This is not a safety sensitive position. The position will require the use of all site-specific PPE.
+Hourly rate will be determined based on major and credit hours completed at start of internships. Transcripts will be requested.
+EEO
+Progress Rail is an Equal Opportunity Employer, including Veterans and Individuals with Disabilities.
+Job Category
+Administrative / Support / Communications
+PRS Facility Location
+Leased Office - Southlake, TX - 477

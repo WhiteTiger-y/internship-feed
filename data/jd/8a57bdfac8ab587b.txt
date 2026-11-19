@@ -1,0 +1,46 @@
+At Allianz Life, we are driven by our mission – we secure your future – and by our common goal of caring for tomorrow. We care for our employees by promoting an
+inclusive culture where everyone has the opportunity to grow and be rewarded for their success. We care for our customers by creating new products that help
+them protect their families and pursue their retirement goals. We care for our community by giving time, resources, and donations. And we care for the future by
+supporting sustainability, protecting the local environment, and promoting equality in our communities.
+The Data Science team at Allianz Life sits within the Data & Analytics Center of Excellence and is responsible for developing machine learning, automation, NLP,
+generative AI and other data science solutions across the company. The team supports all areas of the business including operations, sales/distribution,
+marketing/growth, HR and compliance.
+The 2027 Graduate Data Science Summer Internship position will provide an opportunity to tackle challenging and meaningful real world business problems using
+cutting edge data science techniques and solutions. You will be working directly with business stakeholders and technical teams on highly visible and highly
+impactful projects. A successful candidate will have a strong technical background in data science and statistics as well as strong communications skills and a
+willingness to work in a collaborative environment.
+What You Do
+- Design and build appropriate data science solutions and/or statistical analyses that will address important business needs
+- Query and prepare relevant data for models and analysis, including performing exploratory data analysis and handling outliers
+- Work closely with business stakeholders and data scientists to understand business problems and develop appropriate solution, including iterating through
+proof-of-concept solutions
+- Implement high quality code and participate in regular code reviews with data scientists
+- Balance working independently and collaborating with other team members on a variety of projects
+- Identify new opportunities for analytical solutions
+- Present results and recommendations to department and senior leadership
+What You Bring
+- Working toward a graduate or doctorate degree in statistics, data science, math, computer science or a related quantitative field
+- Strong programming skills in Python and/or R
+- Solid understanding of statistical methods (e.g. hypothesis testing), machine learning concepts, and data visualization techniques
+- Experience working with databases, including relational databases using SQL
+- Ability to summarize, explore, visualize, and manipulate large data sets
+- Ability to deal with the ambiguity of early-stage scoping and evaluation of new opportunities and the flexibility to change direction as additional
+information becomes available
+- Excellent written and verbal communication skills
+- Curiosity to learn, including an interest in learning about the life insurance and annuities industry
+- You must be legally authorized to work in the U.S. without requiring immigration sponsorship now or in the future. This includes holders of H-1B, H4, L-1,
+L-2, TN, OPT, CPT, and other nonimmigrant visas.
+Job posting range: $45/hour - $49/hour
+Note the job posting range is exclusive of company benefits or other compensation. If you are hired, your final base salary will be determined based on factors
+such as geographic location, experience, skills, competencies, and/or education. In addition to those factors, we will also consider internal equity of our
+current employees. Please keep in mind that the range provided is the full base salary range for the role. Hiring at or near the maximum of the range would not
+be typical to allow for future and continued salary growth.
+Allianz Group is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and
+challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow
+and to shape a better future for our customers and the world around us.
+At Allianz, we stand for unity: we believe that a united world is a more prosperous world, and we are dedicated to consistently advocating for equal
+opportunities for all. And the foundation for this is our inclusive workplace, where people and performance both matter, and nurtures a culture grounded in
+integrity, fairness, inclusion and trust.
+We therefore welcome applications regardless of race, ethnicity or cultural background, age, gender, nationality, religion, social class, disability or sexual
+orientation, or any other characteristics protected under applicable local laws and regulations.
+Join us. Let's care for tomorrow.

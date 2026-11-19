@@ -1,0 +1,33 @@
+About Our Group
+The Advanced Data Storage and Device Physics group within the Seagate Research Group (SRG) is responsible for conducting research on advanced data storage and
+memory technologies through experimentation and physics-based simulation. The work performed by this team directly informs the Company's ten-year storage
+product roadmap.
+About The Role - You Will
+- Design and analyze atomistic and multi-scale simulations of magnetic, ferroelectric, electronic, plasmonic, or photonic materials relevant to future products.
+- Survey the literature to identify and propose novel multi-scale materials modeling workflows that could extend the team's simulation capabilities.
+- Develop simulation workflows that connect density functional theory (DFT) calculations to molecular dynamics (MD) through machine-learned interatomic
+potentials (MLIPs).
+About You
+- Passionate about computational materials science, atomistic simulation, and machine learning for physical modeling.
+- Able to independently drive a research problem while collaborating closely with teammates.
+- Strong technical communications skills across both specialist and non-specialist audiences.
+- Innovative with a growth mindset, willing to learn new concepts and comfortable working outside your comfort zone.
+Your Experience Includes
+- Knowledge of fundamental materials science concepts.
+- Programming experience in Python.
+- Hands-on experience training or fine-tuning MLIPs and using them to connect DFT calculations to MD simulations.
+- Currently pursuing a PhD degree in Materials Science, Chemistry, Physics, Computer Engineering, Electrical Engineering, Computer Science, Data Science, Math,
+or other related areas. Must be enrolled in Fall 2027 classes at a US university.
+Location:
+Our Normandale campus spans two suburbs, Edina and Bloomington, and serves as the Recording Head development and manufacturing arm of Seagate. Located in the
+heart of a bustling community, Seagate offers an on-site café, or if you prefer, you can drive to one of many restaurants just minutes away. Need to grab a gift
+over lunchtime? Shopping is abundant in the area. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, outdoor
+activities, tournaments, and group workouts. Looking for something more laid back? Reset in one of our meditation rooms, or simply take a walk around our indoor
+walking path. On-site cultural festivals, celebrations, and community volunteer opportunities also abound.
+The estimated base wage range for this position is $35 - $43/hr. The individual base wage is based on work location and additional factors, including job-
+related skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to,
+medical, dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid
+sick leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and
+tenure with the Company.
+Location: Normandale, United States
+Travel: None

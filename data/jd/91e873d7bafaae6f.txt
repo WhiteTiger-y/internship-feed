@@ -10,7 +10,11 @@ Research Scientist Intern, AI Research - Speech & Audio (PhD) Responsibilities:
 - Analyze and improve efficiency, scalability, and stability of various deployed systems.
 - Collaborate with team members from prototyping to production.
 Minimum Qualifications:
+- Currently has, or is in the process of obtaining a PhD degree in the field of Computer Science, Artificial Intelligence, Natural Language Processing, or
+related field
 - Research and/or work experience in machine learning, deep learning, and speech technology
+- Experience with training deep neural networks for key speech tasks such as speech recognition, speech translation, speech synthesis, speaker diarization,
+sentiment analysis, acoustic event recognition, wake word, scene understanding, etc
 - Experience in Python
 - Experience in deep learning frameworks (PyTorch, Tensorflow, etc)
 - Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment

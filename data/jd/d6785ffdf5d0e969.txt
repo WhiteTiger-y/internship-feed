@@ -1,0 +1,60 @@
+Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated application window is open until
+February 26, 2027, but may close earlier if all available projects are full.
+Timing on when you can hear back will vary and can take upwards of 90+ days. If you haven’t heard from us in three months about an application, we likely
+proceeded with other candidates for that particular role. However, our recruiters might reach out if we find a different potential match for your skills,
+interests, and experience.
+Participation in the internship program requires that you are located in the United States for the duration of the internship program.
+This internship is intended for students in their penultimate academic year, who are pursuing a PhD degree program in Computer Science or a related field. We
+also encourage you to apply to our Software Engineering PhD internship, where research-focused projects are available. If you are in an earlier academic year,
+we encourage you to apply to the Student Researcher opening.
+Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for this
+internship program.
+To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Click on the “Apply” button
+on this page and provide the required materials in the appropriate sections (PDFs preferred):
+- In the “Resume Section:” attach an updated CV or resume.
+- Please ensure your anticipated graduation date (in MM/YY) is listed on the resume.
+- In the “Education Section:” attach a current or recent unofficial or official transcript in English.
+- Under “Degree Status,” select “Now attending” to upload a transcript.
+San Francisco/Los Angeles applicants: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San
+Francisco/Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based Interns. Benefits
+for this role include:
+- Health, dental, vision insurance
+- Sick Time: Includes 5 discretionary sick days per instance to prioritize your well-being, in addition to all applicable local and state statutory sick leave.
+- Interns receive paid time off for any official company holidays that fall within their internship term.
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Atlanta,
+GA, USA; Austin, TX, USA; Boulder, CO, USA; Cambridge, MA, USA; Bellevue, WA, USA; Chicago, IL, USA; Irvine, CA, USA; Kirkland, WA, USA; Madison, WI, USA; New
+York, NY, USA; Palo Alto, CA, USA; Portland, OR, USA; Pittsburgh, PA, USA; Los Angeles, CA, USA; Raleigh, NC, USA; Durham, NC, USA; Redmond, WA, USA; Redwood
+City, CA, USA; San Diego, CA, USA; Goleta, CA, USA; San Bruno, CA, USA; Seattle, WA, USA; San Francisco, CA, USA; San Jose, CA, USA; Santa Cruz, CA, USA;
+Sunnyvale, CA, USA; Washington D.C., DC, USA.Minimum qualifications:
+- Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural
+Sciences, or related technical field.
+- Experience in one area of computer science (e.g., Natural Language Understanding, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of
+Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
+Preferred qualifications:
+- Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.
+- Penultimate academic year or returning to a degree program after completion of the internship.
+- Experience as a researcher, including internships, full-time, or at a lab.
+- Experience contributing research communities or efforts, including publishing papers in major conferences or journals.
+- Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.).
+About The Job
+Join us for a full-time, 12-14 week paid internship that offers personal and professional development, an executive speaker series, and community-building.
+Research happens across Google everyday, in many different teams. Our research has already impacted user-facing services across Google, including Search, Maps,
+and Google Now, and is central to the success of Google Cloud and our planet-scale computing, storage, and networking infrastructure.
+Research Interns work closely with engineers to discover, invent, and build at the largest scale. From creating experiments and prototyping implementations to
+designing architectures, Research Interns work on challenges in artificial intelligence, machine perception, data mining, machine learning, natural language
+understanding, privacy, computer architecture, networking, operating systems, storage and data management, and more.
+Google Research addresses challenges that define the technology of today and tomorrow. From conducting research to influencing product development, our research
+teams have the opportunity to impact technology used by billions of people every day.
+Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field -- we
+publish regularly in academic journals, release projects as open source, and apply research to Google products.
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+US: $118000 - $157000 (USD) + 0% bonus target
+Responsibilities
+Learn more about benefits at Google .
+- Develop and execute a research agenda.
+- Contribute to a productive and innovative team, including working with peers, managers, and partner teams.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race,
+color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also
+consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have
+a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

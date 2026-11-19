@@ -1,0 +1,31 @@
+Work Location
+Onsite, 4-5 days per week.
+Office Location: 6230 E Stassney Ln, Austin, TX 78744
+Candidates must be local to Austin, TX or surrounding areas.**
+Job Description
+We are currently seeking a contract AI/ML Engineer Intern to be a key resource on a technical services team for our client, the Texas Department of
+Transportation (TxDOT).
+Responsibilities
+The AI Innovation team in ITD undertakes rapid development initiatives using AI/ML tools and platforms with the goal to drive business innovation at the client.
+- Evaluate emerging AI trends, tools, and vendor solutions against business use-cases.
+- Run proof-of-concepts (PoCs) to test feasibility of new ideas.
+- Design and build applications and AI/ML models tailored to specific use cases (e.g., predictive analytics, natural language processing, computer vision)
+prioritized for the AI Program.
+- Create scalable AI pipelines that can be integrated into existing systems.
+- Collaborate with data, engineering, and software development teams.
+Qualifications
+Minimum (Required):
+- Strong Python, familiarity with Java/ C++/ Go for production environments
+- Object-oriented programming & design patterns
+- Unit testing, CI/CD, Git, containerization (Docker)
+- Data pipelines (Airflow, Prefect, or cloud-native equivalents)
+- Model deployment (REST APIs, gRPC, serverless), monitoring, and versioning)
+- AWS/Azure/Google Cloud Platform/OCI AI services
+- Cloud-native training/inference environments (SageMaker, Vertex AI, Azure ML)
+- Kubernetes for scalable inference
+Company Overview
+Allied Consultants has been contracted with the Texas State Government for 34 years, we are a Top Ten ranked vendor, and premier provider of technical and
+business staffing solutions. Allied Consultants offers its family of consultants excellent rates, a local support staff, and an attractive benefits package
+which includes medical insurance (Allied shares a percentage of the cost), life insurance, a matching 401(k) plan and a cafeteria plan. Candidates selected for
+interview will be required to undergo criminal background checks and may be required to complete a drug screen in accordance with Federal and State Law. Offers
+of Employment are contingent on a successful background check. Allied Consultants is an equal opportunities employer.

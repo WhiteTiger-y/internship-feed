@@ -1,0 +1,42 @@
+About Our Group
+This internship provides hands-on experience developing and optimizing our Edge AI Platform, which brings AI inference and intelligent data processing closer to
+storage systems and edge devices. Interns may also explore physical intelligence applications using collaborative robots (cobots) and sensors such as cameras
+and lidar.
+You will work alongside hardware and software technologists and engineers in the Seagate Research Group. Seagate Research develops next-generation technologies
+for future edge and mass-capacity products. Our team of computer and electrical engineers prototypes new edge AI solutions using machine learning, embedded
+systems, robotics, and emerging hardware and software technologies. We also explore AI-powered development tools and new engineering practices to accelerate
+research and prototyping.
+About The Role - You Will
+- Learn the architecture and design of edge AI platforms for storage and embedded systems.
+- Design, prototype, and optimize AI inference pipelines and software for the Edge AI Platform.
+- Explore how AI workloads interact with hardware, operating systems, storage, memory, and accelerators on edge devices.
+- Integrate and experiment with devices and sensors such as cameras, lidar, and robotic systems.
+- Measure and optimize AI inference performance, including latency, throughput, resource utilization, and power efficiency.
+- Develop software using Python, C/C++.
+- Collaborate with hardware and software technologists and engineers on research prototypes and demonstrations.
+- Document designs, experiments, results, and lessons learned.
+About You
+- Self-motivated and able to work independently while collaborating effectively with a technical team.
+- Curious and eager to learn new hardware, software, and AI technologies.
+- Strong problem-solving and debugging skills.
+- Effective verbal and written communication skills.
+- Comfortable working with a diverse group of engineers and researchers.
+Your Experience Includes
+- Programming experience with C or C++ and Python.
+- Experience developing and debugging software in Linux.
+- Understanding of computer architecture, operating systems, or embedded systems.
+- Familiarity with software development tools such as Git, build systems, debuggers, and automated testing.
+- Basic understanding of hardware/software interactions and device communication.
+- Currently pursuing a BS in Computer Science, Computer Engineering, Electrical Engineering, or a related field, with enrollment in Fall 2027 classes.
+Location:
+Our Shakopee campus is located 25 minutes southwest of Minneapolis in a setting with a rural vibe – it overlooks a horse racing track and stables, yet it has
+great entertainment venues close by as well. With wide-open spaces, the campus has plenty of space for running, biking, shooting some hoops or playing
+volleyball over lunch. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, tournaments and group workouts. Hungry?
+Seagate offers an on-site café with freshly sourced foods and specialty coffees, or if you prefer, drive to one of many restaurants just minutes away.
+The estimated base wage range for this position is $22-$30/hr. The individual base wage is based on work location and additional factors, including job-related
+skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to, medical,
+dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid sick
+leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and
+tenure with the Company.
+Location: Shakopee, United States
+Travel: None

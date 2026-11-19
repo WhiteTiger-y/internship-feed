@@ -1,0 +1,63 @@
+At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our
+purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and
+meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work
+that transforms the lives of patients, and the careers of those who do it.
+Position Summary
+Data Science interns will work to extract insight from complex clinical, translational and real-world data. They will have the opportunity to work on complex
+data science problems including modeling techniques to interpret, infer and recommend based on insights from data. The full-time internship will take place in
+the summer of 2027 (Jun – Aug 2027).
+Key Responsibilities
+- Formulates, implements, tests, and validates predictive models and implements efficient automated processes for producing modeling results at scale.
+- Creates robust models based on statistical and data mining techniques to provide insights and recommendations based on large complex data sets.
+- Presents stories told by data in a visually appealing and easy to understand manner.
+Qualifications & Experience
+- Currently in a quantitative sciences program ( Computer Science, Math, Computational Biology), and should not have graduated from the program before the end
+of internship (Aug 2027)
+- Proven data driven problem solving capabilities using AI/ML approaches
+- All candidates must be authorized to work in the US both at the time of hire and for the duration of their employment (Jun – Aug 2027).
+- Please note that immigration or visa sponsorship is not available for this position
+- Prior internship or FTE work experience in data science or biopharma spaces a plus
+- Demonstrated passion for healthcare and/or biopharma
+Core Competencies
+- Strong knowledge of programing languages, with a focus on machine learning (Python, Spark, R, Tensorflow, Sagemaker, etc.) with good knowledge of machine
+learning libraries (scikit in Python, mlr3 in r, etc.)
+- Experience with longitudinal and real-world patient data analysis
+- Experience with next generation sequencing (omics) translational data analysis
+- Experience in using deep learning-based algorithms in one of the following areas - image analysis, clinical Natural Language Processing, omics data, clinical
+datasets
+- Experience building foundation models for biopharma or clinical questions
+- Experience in agentic code/API/app creation workflows using Claude, Copilot, etc.
+If you come across a role that intrigues you but doesn’t perfectly line up with your resume, we encourage you to apply anyway. You could be one step away from
+work that will transform your life and career.
+We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway.
+Compensation Overview
+$36-$45/hour
+Pay for this internship/co‑op position is provided in accordance with local market practices and applicable laws. Pay may be offered as an hourly rate and/or
+monthly stipend, or other locally compliant structure. Pay is determined based on objective factors such as academic level, relevant experience, skills, and
+work location.
+Interns and co‑op participants may be eligible for limited benefits depending on program structure, work location, and local requirements. Eligibility and
+offerings are governed by applicable policies and employment regulations.
+This is a temporary, time‑bound position intended for the duration of the internship or co‑op program and does not guarantee continued or permanent employment
+following program completion.
+How We Work
+Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models site-
+essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https
+//careers.bms.com/ways-of-working.
+Supporting People With Disabilities
+BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments
+and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require
+reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to
+adastaffingsupport@bms.com. Visit careers.bms.com/eeo-accessibility to access our complete Equal Employment Opportunity statement.
+Candidate Rights
+BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.
+For roles based in Los Angeles County only If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for
+important additional information https //careers.bms.com/california-residents/
+For roles based in Washington State only If you live in or expect to work from Washington State if hired for this position, please visit this page for important
+information about the Washington Fair Chance Act.
+Data Protection
+We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting
+yourself at https //careers.bms.com/fraud-protection.
+Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.
+If this posting is missing required information required by local law or incorrect, contact BMS at TAEnablement@bms.com with the Job Title and Requisition
+number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.
+R1608664 Data Science Intern (MS/PhD)-Summer 2027

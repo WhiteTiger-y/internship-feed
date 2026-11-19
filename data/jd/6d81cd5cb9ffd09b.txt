@@ -1,0 +1,29 @@
+What's the role?
+HERE utilizes many disparate and complementary data sources that, only together, can provide the full context needed for HERE's map making. The varied nature of
+the sources requires intelligent, data-driven methods for data fusion involving state-of-the-art approaches in machine learning, artificial intelligence and
+robotics engineering. Interns will provide research, investigation, testing and evaluation of data fusion approaches to elevate the accuracy and coverage of the
+data observations used to build HERE's maps, producing code in Python and/or C++.
+- Interns will work alongside a HERE mentor to address emerging needs for HERE's products
+- Production-level code that meets code review standards
+- Documentation for software functionality
+- Presentation of results to key stakeholders
+Who are you?
+Python and/or C++.
+Education
+This is a full-time paid internship (20 to 40 hours per week) with a fixed hourly rate of depending on your level of education as follows:
+Undergraduate Students: $25/hr
+Graduate Students: $30/hr
+PhD Students: $35/hr
+Life at HERE comes with generous benefits to support your health and overall wellness. Benefits available to US-based HERE employees include health
+(Medical/Dental/Vision) insurance and retirement savings plans.
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, HERE will consider for employment qualified
+applicants with arrest and conviction records.
+HERE is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, age, gender identity, sexual orientation, marital status,
+parental status, religion, sex, national origin, disability, veteran status, and other legally protected characteristics.
+Under Section 503 of the Rehabilitation Act of 1973 and VEVRAA, we have developed an affirmative action program (AAP) for individuals with disabilities and
+protected veterans. Portions of the AAP are available for review by applicants and employees through our People Team.
+Who are we?
+HERE Technologies is a location data and technology platform company. We empower our customers to achieve better outcomes – from helping a city manage its
+infrastructure or a business optimize its assets to guiding drivers to their destination safely.
+At HERE we take it upon ourselves to be the change we wish to see. We create solutions that fuel innovation, provide opportunity and foster inclusion to improve
+people’s lives. If you are inspired by an open world and driven to create positive change, join us. Learn more about us on our YouTube Channel.
