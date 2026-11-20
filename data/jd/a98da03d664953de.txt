@@ -1,0 +1,67 @@
+Job Description
+Change the world. Love your job.
+At TI, Systems engineers focus deeply on understanding the technical needs, and future trends of an industry or end equipment, then create new products and
+innovative forward-looking product roadmaps to solve them. Systems Engineers are an integral part each phase of new product development at TI. In the early
+stages of product development, systems engineers interface with key stakeholders (customer decision-makers, application engineers, marketing, management, sales,
+IC design engineers, technology development) to negotiate specifications, perform trade-offs, understand the competitive landscape, and ultimately develop
+detailed technical definitions for new products. They then collaborate with the full IC development team (design, applications, test, product engineers) to
+deliver products to the market which are compelling, competitive, cost-conscious, manufacturable, and importantly, successful in growing TI’s business.
+We are seeking a highly motivated PhD student to join our Embedded AI team in Kilby Labs this summer to work on synthetic data generation and augmentation for
+edge AI on resource-constrained microcontrollers. Limited availability of high-quality training data is one of the biggest barriers to adopting edge AI, and you
+will help us find and evaluate better ways to address it. As a key member of our team, you will survey the state of the art, develop and test new techniques,
+and rigorously evaluate how well they work on real-world data and on embedded hardware.
+In this systems engineering intern role, you’ll have the chance to:
+- Research and develop synthetic data generation and augmentation techniques that address data scarcity for edge AI on resource-constrained microcontrollers
+- Survey the state of the art and identify the most promising approaches for your problem
+- Work with time-series sensor data from a variety of applications, supporting both classification and regression tasks
+- Design and run rigorous experiments to evaluate whether synthetic data improves model performance on real-world data
+- Evaluate techniques under embedded hardware constraints, including low-precision quantization
+- Analyze the quality, coverage and usefulness of generated data
+- Collaborate with internal research, software and application teams
+- Document findings and present results, trade-offs and recommendations to technical and business stakeholders
+Qualifications
+Minimum Requirements:
+- Currently pursuing a PhD in Electrical Engineering, Computer Engineering, Computer Science, or a related field, with research focused on machine learning,
+signal processing, or embedded AI
+- Cumulative 3.0/4.0 GPA or higher
+Preferred Qualifications
+- Solid background in machine learning for time-series data and signal processing
+- Research experience in synthetic data generation, data augmentation, generative models (e.g., GANs, diffusion models, TimeGAN), or learning from limited and
+imbalanced data, ideally demonstrated by publications
+- Experience with sensor signal analysis (e.g., vibration, motor/line current, PIR, spectral and time-frequency analysis) and an interest in fault detection and
+predictive maintenance
+- Strong programming skills in Python, with deep learning frameworks such as PyTorch or TensorFlow
+- Experience with machine learning model optimization, quantization (including sub-8-bit and quantization-aware training), and deployment on resource-
+constrained devices
+- Rigorous experimental design and statistical evaluation skills, including handling class imbalance and reporting variance across runs
+- Familiarity with embedded ML libraries (e.g., TensorFlow Lite for Microcontrollers, CMSIS-NN) and microcontroller platforms
+- Ability to establish strong relationships with key stakeholders critical to success, both internally and externally
+- Strong verbal and written communication skills to audiences of varied background
+- Ability to simplify complex problems and navigate uncertainty
+- Ability to quickly ramp on new systems and processes
+- Demonstrated strong interpersonal, analytical and problem-solving skills
+- Ability to work in teams and collaborate effectively with people in different functions
+- Ability to take the initiative and drive for results
+- Strong time management skills that enable on-time project delivery
+About Us
+Why TI?
+- The future starts here. As a TIer, you'll play a critical role in defining the next era of semiconductor technology and help create the innovations that shape
+the world around us.
+- Surround yourself with a team of innovators who value your unique perspective and will challenge you to bring your best self to work every day. We believe
+that fostering a culture of collaboration fuels both personal growth and technological breakthroughs. Explore our company culture .
+- At TI, your success goes beyond your work. Take advantage of comprehensive benefits designed to support your total well-being at work and in life, from
+competitive compensation to extensive health coverage and wellness programs. Learn more about our benefits offerings .
+About Texas Instruments
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for
+markets such as industrial, automotive, data center, personal electronics and communications equipment. At our core, we have a passion to create a better world
+by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our
+technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere. Learn more at TI.com .
+Texas Instruments is an equal opportunity employer and supports a diverse, inclusive work environment. All qualified applicants will receive consideration for
+employment without regard to race, color, religion, creed, disability, genetic information, national origin, gender, gender identity and expression, age, sexual
+orientation, marital status, veteran status, or any other characteristic protected by federal, state, or local laws.
+If you are interested in this position, please apply to this requisition.
+About The Team
+TI does not make recruiting or hiring decisions based on citizenship, immigration status or national origin. However, if TI determines that information access
+or export control restrictions based upon applicable laws and regulations would prohibit you from working in this position without first obtaining an export
+license, TI expressly reserves the right not to seek such a license for you and either offer you a different position that does not require an export license or
+decline to move forward with your employment.

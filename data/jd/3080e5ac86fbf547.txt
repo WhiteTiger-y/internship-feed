@@ -1,0 +1,69 @@
+The Informatics group are looking for qualified interns in the penultimate year of their study to support our team in our London office starting Summer 2027.
+This is a 12-month University Placement opportunity.
+The informatics team utilizes informatics principles and techniques to architect, mine, analyse, and visualize clinical trial data to inform study design
+choices for pharmaceutical development. This internship will provide intensive informatics experience in query-based programming, data interpretation, and
+visualization creation.
+The Informatics team is a highly collaborative team with members in both the London and Cincinnati offices, which provides interns the opportunity to work
+directly with international employees.
+The informatics’ internship has a formal intensive onboarding process followed by a mentored path to independence for students. Daily activities include
+whiteboarding sessions, group-think meetings with the global team, independent data exploration, and programming for custom data queries and structures.
+Students have weekly meetings with their supervisor, whom they interact with daily. They also receive the support of analysts on the team for various projects,
+as needed. This team emphasizes an open learning environment for students and employees to learn from each other and accomplish innovative projects. Students
+will become proficient-to-advanced in R and proficient in SQL during this experience. Students will also have the opportunity to work with software and systems
+including PowerBI, Excel and Snowflake.
+Responsibilities
+- Customization of programming scripts for data management
+- Creation of standardized operational procedure documents
+- Contribution to design and delivery of data visualizations
+- Collation of data for proposal support requests
+Qualifications
+- Must be pursuing a bachelor’s or master’s degree in computer science/engineering, biomedical engineering, health information, statistics, bioinformatics, or
+related field
+- Excellent verbal and written communication skills
+- Excellent analytical skills
+- Experience programming with R, or other computer language
+- Introductory Microsoft Excel skills
+We kindly request that you attach a cover letter to support your application.
+Medpace Overview
+Medpace is a full-service clinical contract research organization (CRO) providing phase l-lV clinical development services to the biotechnology, pharmaceutical,
+and medical device industries. Our mission is to accelerate the global development of safe and effective medical therapeutics through the advancement of
+clinical research. We leverage in-country regulatory and therapeutic expertise across all major therapeutic areas including oncology, cardiology, metabolic,
+endocrinology, central nervous system, and anti-viral and anti-infective. Headquartered in Cincinnati, Ohio, we employ more than 6,500 people across 40+
+countries.
+Why Medpace?
+When you join Medpace, you become part of an innovative team that brings cutting-edge therapies to market while building a meaningful and rewarding career
+focused on scientific excellence and improving patient outcomes around the world through continuous learning and cross-functional collaboration.
+Purpose-Driven Work
+- Work alongside physicians, scientists, and industry-leading experts committed to advancing the global development of medical therapeutics through clinical
+research excellence
+Collaborative Culture
+- Contribute to an interactive team environment that empowers decision making, creative thinking, and continuous learning through open communication and mutual
+trust.
+- Leadership throughout Medpace is both accessible and approachable
+Continuous Growth & Development
+- Office based environment with on-site mentors
+- Defined career paths with clear advancement opportunities
+- Industry renowned onboarding and training programs designed to accelerate professional development
+- Ongoing training and continuous learning opportunities throughout your career
+- An environment that encourages employees to influence change, contribute ideas, and grow quickly
+Other Employee Benefits
+- Competitive compensation programs that recognize and reward performance
+- Comprehensive health, wellness, retirement, and PTO benefits
+- Office based culture with occasional WFH that provides flexibility for eligible positions after training
+- Company-sponsored social events
+Please note benefits may vary based on country.
+What to Expect Next
+A Medpace team member will review your application and if your profile matches our current needs, you will be contacted for an interview. While we review all
+applications carefully, we are unable to respond to every applicant, and only candidates selected for interviews will be contacted.
+- Customization of programming scripts for data management
+- Creation of standardized operational procedure documents
+- Contribution to design and delivery of data visualizations
+- Collation of data for proposal support requests
+- Must be pursuing a bachelor’s or master’s degree in computer science/engineering, biomedical engineering, health information, statistics, bioinformatics, or
+related field
+- Excellent verbal and written communication skills
+- Excellent analytical skills
+- Experience programming with R, or other computer language
+- Introductory Microsoft Excel skills
+We kindly request that you attach a cover letter to support your application.
+UNAVAILABLE

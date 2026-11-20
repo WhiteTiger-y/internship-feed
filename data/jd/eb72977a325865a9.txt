@@ -1,0 +1,69 @@
+About Georgian
+Georgian is a Toronto-based venture capital firm that partners with high-growth technology companies across cybersecurity, AI software, robotics, defense. We
+manage about $6B in assets and we have invested in more than 80 companies that we support with capital and technical capability.
+Our in-house AI lab works directly with portfolio companies to provide a differentiated experience across the investment lifecycle, and drives the adoption of
+AI for our internal operations.
+About the Role
+As an intern in Georgian’s AI Lab, you’ll work on the brain of the robot: the models it thinks with, the data it learns from, the simulators it practices in and
+the systems that get all of that onto real machines. You’ll work alongside our scientists and engineers on research, portfolio projects and technical diligence,
+and you’ll own a scoped project of your own. This is a software role. You won’t design hardware, but you’ll learn enough about the body to understand what it
+will and won’t let the brain do.
+Why This Role Exists
+Physical AI is a core investment thesis area for us. Our portfolio includes Bedrock Robotics, Path Robotics, Vention, and other frontier robotics companies. We
+think most of what separates these companies is the brain, not the body: how they collect and use data, the models that see and act, the world models and
+simulators they train against and the tools that get a new behavior from the lab onto a fleet of machines. That’s the part of the stack you’ll work on as an
+intern. You’ll help the AI Lab follow the latest in robot learning, run experiments and build tools, and support our work with portfolio companies and on
+technical diligence. You’ll know how a learned policy behaves on a real robot and what a working sim-to-real pipeline looks like. And you’ll be able to tell a
+system that’s really deployed from a good demo.
+What You'll Own & Deliver
+Support robot learning research. Help the team keep up with what’s new in VLAs, world models, sim-to-real and evaluation. Reproduce results from recent papers,
+run experiments and ablation studies, and contribute to internal tech notes and write-ups.
+Hands-on R&D. Train and evaluate policies in simulation under guidance, using imitation learning or reinforcement learning. Assist in building data pipelines,
+evaluation setups and small tools that make experiments faster and easier to repeat.
+Contribute to portfolio projects. Support AI Lab team members working with portfolio companies on robot-learning software. Assist with code implementation,
+testing and documentation, and help track results the companies care about, like task success rate and how often a person has to step in.
+Support technical diligence. Help the investment team assess physical AI companies by researching the technical landscape and preparing technical question
+lists. Document what we find, including whether a company’s autonomy is learned or scripted and how it holds up beyond the demo.
+Own a scoped project. Take one focused project from idea to result, such as a sim-to-real benchmark, a policy training pipeline or an evaluation of a new model,
+and present it to the AI Lab and the wider Georgian team.
+Communicate technical work. Turn what you learn into clear documentation, demos and short presentations for audiences with different technical backgrounds.
+What We're Looking For
+Ideal Attributes
+Currently pursuing or recently completed a Master’s or PhD in computer science, robotics, electrical engineering or a related field, with a focus on machine
+learning, reinforcement learning or robotics.
+Hands-on experience training deep learning models in a modern framework (PyTorch, JAX or similar), with strong Python and clean, reproducible code.
+Working knowledge of robot learning: imitation learning, reinforcement learning, and the basics of VLAs, world models and sim-to-real transfer.
+Some exposure to robotics systems through coursework, research, a lab or a competition team, even if you haven’t deployed outside a lab
+Comfortable with ambiguity and with asking good questions when you’re stuck; a clear writer and speaker
+Nice-to-Haves
+Experience with simulators (MuJoCo, Isaac Sim, ManiSkill or similar) or LeRobot
+Time on real robot hardware, including research, hobby or competition projects
+Basic C++ and ROS 2, enough to read an on-robot stack
+Classical robotics background: motion planning, state estimation or control
+Published work or open-source contributions in robot learning (CoRL, RSS, ICRA, LeRobot or similar)
+Interest in industries like manufacturing, industrial automation or construction
+Cultural attributes we love
+Ambition and agency: You want to do big things and don’t wait to be told; you’re at your best with little structure and a lot of ownership
+Curiosity: You chase problems to the root cause and keep asking “why,” even when the answer turns out to be a loose cable rather than the model
+Team over ego: You make the people around you better, colleagues and founders alike
+Plain talk: You can explain a hard technical thing briefly enough that a busy CEO gets it the first time
+Builder: You’d rather ship a rough policy to a test cell today than a perfect one next quarter, and you know the difference between a demo and a deployment
+Hiring Process
+We don't hire like a MAG7 or scale up — in fact we rarely hire compared to them.
+You shouldn't expect a cookie-cutter high-volume hiring process with us — but a more boutique one that allows you to see a lot of the organization before
+joining us.
+We build a thesis in what an individual brings to our very small team, versus simply matching qualifications:
+30‑min intro (values & motivations)
+60‑min technical interview (ML fundamentals & problem‑solving)
+Project discussion with team members
+Position Status
+This posting represents an active, future internship vacancy on our team. We are currently interviewing for this role.
+Our Commitment to Accessibility
+Georgian is dedicated to building an inclusive environment where everyone can thrive. We provide reasonable accommodations throughout our recruitment process to
+ensure every candidate has the opportunity to perform at their best. If you require any specific accommodations at any stage, please reach out to us at
+peopleteam [at] georgian.io.
+Use of AI
+Innovation is at our core and we use artificial intelligence (AI) to support parts of our hiring process, such as screening and evaluating applications. These
+tools are designed to assist - not replace - human decision making and all final hiring decisions are made by our team. We regularly review our AI tools to help
+promote fairness and reduce the risk of unintended bias. If you have any questions about how we use AI in our process or would like more information, please
+contact us at careers [at] georgian.io.

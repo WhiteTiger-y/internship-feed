@@ -1,0 +1,65 @@
+Overview
+Systems Planning and Analysis, Inc. (SPA) delivers high-impact, technical solutions to complex national security issues. With over 50 years of business
+expertise and consistent growth, we are known for continuous innovation for our government customers, in both the US and abroad. Our exceptionally talented team
+is highly collaborative in spirit and practice, producing Results that Matter . Come work with the best! We offer opportunity, unique challenges, and clear-
+sighted commitment to the mission. SPA: Objective. Responsive. Trusted.
+The Strategic Division (SD) supports high-reliability organizations including Navy Strategic Systems Programs (SSP), Air Force Nuclear Weapons Center, and the
+Department of Energy (DOE), among others. Our support across our client base is expanding rapidly and encompasses important services, such as data analytics and
+visualization, threat analysis, risk management, modeling and simulation, cost estimating, earned value management, program management, system engineering,
+independent evaluation, and High Consequence Event prevention.
+Strategic Systems Analysis Group (SSAG) provides multiple organizations within the Department of Defense with timely and objective assessments and
+recommendations that integrate technical, operational, programmatic, policy and business analysis. We focus on key clients in the undersea community including
+Navy’s Strategic Systems Programs (SSP). We work to provide integrated solutions based on information and communications throughout the chain of command to
+ensure clear and consistent analysis and recommendations that are aligned to strategic and leadership goals while still being executable by the working level
+technical communities.
+Timeline for intern selection:
+- Applications can be submitted and will be reviewed until 30 November 2026.
+- Interviews will be ongoing and conclude by 13 December 2026.
+- Offers/decisions will be extended by 20 December 2026.
+Responsibilities
+The successful candidate will be expected to provide relevant, objective, timely, and clear analytical support to SSAG customers to help them make better
+decisions. The candidate will be able to work collaboratively to formulate problems, propose solution methods, and conduct analysis for the customer.
+The candidate will be familiar with ideas and techniques in Operations Research, Data Science, and/or Physics-Based Modeling. They will possess an inquisitive
+mind, a desire to broaden their skills, and be open to new, challenging problems that may stretch them to achieve success. They will be able to work with
+autonomy and tenacity to complete tasks and take initiative to support others when needed.
+Tasks include, but are not limited to:
+- Developing and applying operations research techniques such as mathematical optimization, simulation, decision analysis, and statistical analysis.
+- Decomposing complex issues into simplified problem statements and clearly and explicitly connecting analysis to specific aspects of the problem.
+- Developing and maintaining tools and models to support analytic projects and processes.
+- Creating data visualizations in support of decision analysis, model verification, and client communication.
+- Assisting in the development of briefings, memos, and other contract deliverables.
+Qualifications
+Required Qualifications:
+- US Citizenship required and the ability to obtain and maintain a DoD Top Secret Clearance.
+- Working toward a Bachelor's or Master's degree in Mathematics, Operations Research, Data Science, Computer Science, Physics, or a related technical
+discipline.
+- Coursework or other experience with linear optimization, discrete optimization, machine learning, Bayesian statistics, probability theory, or simulation.
+- Experience with Python, R, or a similar programming language.
+- Ability to report to designated work location in Alexandria, VA, up to full time, based on the needs of the customer.
+Desired Qualifications:
+- Experience using Python, R, or a similar programming language to build models, perform statistical analysis, or do other quantitative analysis work.
+- Experience with tools such as Tableau or Power BI that can integrate disparate data sources into visualizations that aid analysis and decision making.
+- Proactive interest in learning new skills and engaging new challenges.
+- Strong customer service skills, with interest in proactively anticipating and addressing client needs.
+Pay Range Information
+At SPA, we strive to deliver a robust total compensation package that will attract and retain top talent. Elements of the compensation package include
+competitive base pay and variable compensation opportunities. SPA provides eligible employees with an opportunity to enroll in a variety of benefit programs,
+generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and
+a number of programs that provide for both paid and unpaid time away from work. The specific programs and options available to any given employee may vary
+depending on eligibility factors such as geographic location, date of hire, etc. Please note that the salary information shown below is a general guideline
+only. Salaries are commensurate with experience and qualifications, as well as market and business considerations. Virginia, Pay Transparency Salary range: USD
+$23.00/Hr. - USD $33.00/Hr.
+The successful candidate will be expected to provide relevant, objective, timely, and clear analytical support to SSAG customers to help them make better
+decisions. The candidate will be able to work collaboratively to formulate problems, propose solution methods, and conduct analysis for the customer.
+The candidate will be familiar with ideas and techniques in Operations Research, Data Science, and/or Physics-Based Modeling. They will possess an inquisitive
+mind, a desire to broaden their skills, and be open to new, challenging problems that may stretch them to achieve success. They will be able to work with
+autonomy and tenacity to complete tasks and take initiative to support others when needed.
+Tasks include, but are not limited to:
+- Developing and applying operations research techniques such as mathematical optimization, simulation, decision analysis, and statistical analysis.
+- Decomposing complex issues into simplified problem statements and clearly and explicitly connecting analysis to specific aspects of the problem.
+- Developing and maintaining tools and models to support analytic projects and processes.
+- Creating data visualizations in support of decision analysis, model verification, and client communication.
+- Assisting in the development of briefings, memos, and other contract deliverables.
+Required Qualifications:
+- US Citizenship required and the ability to obtain and maintain a DoD Top Secret Clearance.
+- Working toward a Bachelor's or Master's degree in Mathematics, Operations Research, Data Science, Computer Science

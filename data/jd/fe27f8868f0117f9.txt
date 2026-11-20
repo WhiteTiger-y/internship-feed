@@ -1,0 +1,12 @@
+About Trener
+Trener is a Physical AI company building software-defined robotics for industrial automation. Our platform is built on the ROS 2 ecosystem, and our product,
+Acteris, is running in production with real customers on real factory floors — not in a demo lab.
+Backed by a $32M Series A, we operate from dual headquarters in San Jose, California and Trondheim, Norway, with teammates across six countries. We work by four
+values: Move Fast Together, Earn Customer Champions, Deliver with Excellence, and Challenge the Possible.
+The role is a full time, month to month consultancy or internship focused on data collection.
+Description of what we are looking for:
+- Collect, organize, and preprocess large-scale robotics datasets.
+- Clean, filter, and validate multimodal data (images, videos, robot trajectories).
+- Develop automated data processing and annotation pipelines.
+- Prepare high-quality datasets for training foundation models.
+- Analyze dataset quality, identify gaps, and improve data diversity and coverage.

@@ -1,0 +1,74 @@
+- Career Track & Grade: ICX/X
+- Department: Engineering
+Company Description
+LinkedIn is the world’s largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people
+make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We’re also committed to providing
+transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that’s built on trust, care, inclusion, and fun
+– where everyone can succeed.
+Join us to transform the way the world works.
+Job Description
+This internship role will be based out of Headquarters in Mountain View, California.
+At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work
+location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of
+the team.
+We’re looking for Artificial Intelligence Engineering interns to join our team and help shape the future of how LinkedIn connects members to opportunity. As an
+AI PhD intern, you’ll work with massive semi-structured text, graph, and user activity data to design and build scalable, intuitive recommender systems that
+power core LinkedIn experiences — including the feed, jobs, and learning platforms.
+You’ll collaborate with world-class engineers and researchers to create next-generation recommendation algorithms that improve personalization, relevance, and
+engagement across millions of users. Our Recommender Systems teams create personalization that enhances the user experience by showing relevant posts, videos,
+and connections, keeping users engaged. We are looking for interns to help ensure that users are presented with fresh and relevant content, encouraging them to
+keep coming back.
+Candidates must be currently enrolled in a PhD program, with an expected graduation date of December 2027 or later.
+Our internships are 12 weeks in length and will have the option of two intern sessions:
+• May 24th, 2027 - August 13th, 2027
+• June 14th, 2027 - September 3rd, 2027
+Responsibilities:
+Conduct research and development on cutting-edge recommender systems, applying techniques such as collaborative filtering, matrix factorization, deep learning,
+and reinforcement learning
+Design and implement scalable algorithms to personalize LinkedIn’s platform, optimizing for relevance, diversity, and fairness in recommendations
+Collaborate with engineering and product teams to integrate solutions into LinkedIn’s ecosystem, impacting millions of users globally
+Leverage large-scale datasets to train and evaluate recommender models, iterating on improvements to ensure optimal performance
+Work in a highly collaborative environment with mentors, business experts, and technologists to conduct independent research and help deliver intuitive
+solutions to our products and services
+Qualifications
+Basic Qualifications:
+- Currently pursuing a PhD in computer science, statistics, mathematics, electrical engineering, machine learning, or related technical field and returning to
+the program after the completion of the internship
+- Knowledge of recommender systems, machine learning, or related areas
+- Proficiency with programming languages such as Python and machine learning libraries like TensorFlow or PyTorch
+- Knowledge of key recommender system techniques, including collaborative filtering, content-based recommendations, hybrid models, and deep learning approaches
+- Knowledge of evaluation metrics for recommendation quality (e.g., precision, recall, AUC, diversity)
+Preferred Qualifications:
+- Proficiency in modern programming languages used in AI and large-scale systems, including Python, Java, C++, and Go
+- Knowledge of modern data processing frameworks such as Apache Spark, Ray, Flink, or Databricks, and familiarity with distributed computing paradigms
+(MapReduce, cloud-native pipelines)
+- Knowledge of building and deploying recommender systems or large-scale ML models in production (e.g., leveraging embeddings, graph neural networks, or multi-
+task learning)
+- Knowledge of Reinforcement Learning (RL) and Reinforcement Learning with Human Feedback (RLHF) techniques applied to recommendation or personalization tasks
+- Knowledge of LLM-based or hybrid retrieval and ranking systems
+- Proficiency with modern ML and deep learning frameworks — TensorFlow, PyTorch, JAX, Hugging Face Transformers, Scikit-Learn, NumPy, Pandas, etc.
+- Knowledge of cloud-based ML infrastructure (AWS SageMaker, GCP Vertex AI, or Azure ML) and MLOps tools (MLflow, Kubeflow, Weights & Biases)
+- Research contributions or publications in top conferences such as NeurIPS, ICML, ICLR, or KDD
+- Strong communication and collaboration skills, with the ability to translate complex technical concepts into business impact
+Suggested Skills:
+- Knowledge or research in machine learning and deep learning
+- Knowledge of large datasets and data mining
+- Strategic thinking and problem-solving capabilities
+LinkedIn is committed to fair and equitable compensation practices.
+The pay range for this role is $62 to $75 per hour. Actual compensation packages are based on several factors that are unique to each candidate, including but
+not limited to skill set, qualifications, certifications, and specific work location. This may be different in other locations due to differences in the cost of
+labor.
+The total compensation package for this position may also include annual performance bonus, stock, benefits, and/or other applicable incentive compensation
+plans. For more information, visit LinkedIn Careers Benefits.
+Additional Information
+Equal Opportunity Statement
+We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified
+applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender
+expression or identity, sexual orientation, citizenship, or any other legally protected class.
+LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an
+inclusive and accessible workplace where everyone has the opportunity to be successful.
+If you need a Reasonable Accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us and describe
+the specific Accommodation requested for a disability-related limitation.
+Fill out an Accommodation request here: https://app.smartsheet.com/b/form/b660a0327d044969abfd7a4e73d15c36
+Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process.
+Examples of reasonable accommod

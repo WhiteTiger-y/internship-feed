@@ -1,0 +1,55 @@
+Overview
+Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized
+scientists and engineers, who pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including
+computing, healthcare, economics, and the environment.
+The Microsoft Applied Sciences Group (ASG) incubates disruptive technologies for Microsoft’s next-generation Windows and Devices products. The team works
+closely with research and product teams to develop new experiences powered by signal processing, computer vision, machine learning, and deep learning.
+We are seeking a Research Intern to work on cutting-edge research in computer vision and deep learning, with a particular interest in image and video
+processing, low-level vision, and visual quality enhancement. The Research Intern will have the opportunity to work with researchers and engineers on novel
+algorithms, models, and prototypes and contribute to research that can advance the state of the art.
+Responsibilities
+Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world’s best researchers, Research Interns learn,
+collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides.
+During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present
+findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though
+they typically begin in the summer.
+Additional Responsibilities
+- Conduct research in computer vision, machine learning, and deep learning , particularly for image and video applications.
+- Develop and evaluate novel algorithms and deep-learning models.
+- Explore research problems in areas such as image/video enhancement, super-resolution, low-level vision, and visual quality .
+- Design experiments, analyze results, and develop research prototypes.
+- Collaborate with researchers and product engineers across Microsoft.
+- Contribute to publications, patents, prototypes, and technology transfer when appropriate.
+Qualifications
+Required Qualifications
+- Currently enrolled in a master’s degree program in Computer Science, Electrical Engineering, Computer Engineering, or a related STEM field.
+Other Requirements
+- Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.
+- In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant
+work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference
+letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates.
+You may wish to alert your letter writers in advance, so they will be ready to submit your letter.
+Preferred Qualifications
+- Currently enrolled in a Doctorate degree program in Computer Science, Electrical Engineering, Computer Engineering, or a related STEM field.
+- At least one additional quarter/semester of school remaining following completion of the internship.
+- Experience with programming in Python and/or C/C++ .
+- Knowledge of computer vision, machine learning, or deep learning .
+- Research experience in computer vision, deep learning, image processing, or video processing .
+- Experience with PyTorch, TensorFlow, or similar deep-learning frameworks .
+- Research experience in low-level vision , especially image/video restoration, enhancement, or super-resolution.
+- Experience conducting research experiments and analyzing quantitative and qualitative results.
+- Publications in major computer vision / machine learning venues are a plus.
+Applied Sciences IC2 - The base pay range for this internship is USD $5,690 - $11,210 per month.
+There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range
+for this role in those locations is USD $7,410 - $12,250 per month.
+Applied Sciences IC3 - The base pay range for this internship is USD $6,810 - $13,480 per month.
+There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range
+for this role in those locations is USD $8,920 - $14,610 per month.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-
+intern-pay
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship,
+color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin,
+physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual
+orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations
+and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

@@ -11,12 +11,11 @@ statistical modeling and machine learning. Aligned and partnering with product v
 use cases, influence and shape the product roadmap and prioritization, build data products and measure impact on our community of players and developers.
 Teams Hiring For This Role
 - Foundation AI: Our AI evaluation team focuses on generating high-quality models and consistently improving our evaluation models.
-- Safety: Managing account relationships and the real-time morphing of linguistic mapping.
 - Economy: Drive creator success and growth by exploring marketplace structure and pricing.
-- Engine: This team is dedicated to enhancing Roblox's overall stability and performance, enabling all its functionalities.
-- Social: Analyze user engagement to identify areas for enhancing the user experience and delivering greater value.
-- Consumer/Growth: Optimize our user’s experience and provide them with UX and content to maximize intention and engagement on the platform.
-- Creator/Ads and Brands: Understand the long term value and contribution Creators have to the health of Roblox’s ecosystem
+- Growth: Optimize our user’s experience and provide them with UX and content to maximize intention and engagement on the platform.
+- Ads and Brands: Understand the long term value and contribution Creators have to the health of Roblox’s ecosystem
+- Infrastructure: Strategic capacity planning and resource optimization for our global infrastructure, ensuring we deploy capital efficiently and maximize the
+ROI of our data center and cloud investments.
 You Will
 - Collaborate with data scientists and engineers to research and develop advanced data analytics, causal inference, experiment design and machine learning
 solutions to power the business and product innovations.

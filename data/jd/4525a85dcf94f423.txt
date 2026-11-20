@@ -1,0 +1,50 @@
+The Position
+2027 Summer Intern - AI for Drug Discovery (AIDD)
+Department Summary
+Join Genentech’s AI for Drug Discovery (AIDD) Frontier Research team for a 3–6 month research internship developing new machine learning methods for molecular
+design. You will investigate open research questions in generative modeling, with applications to protein and antibody design and the opportunity to tackle
+problems relevant to ongoing internal projects.
+The project will explore problems related to the generation of molecular sequences and three-dimensional structures. The emphasis will be on developing methods
+with broader relevance to machine learning, supported by rigorous computational evaluation.
+You will work closely with other ML researchers and collaborate with computational scientists across AIDD. Your goal will be to develop original research
+suitable for publication at leading machine learning venues, with the potential for internal application.
+This internship position is located in New York, on-site.
+The Opportunity
+- Formulate and investigate research questions at the intersection of generative modeling, post-training and molecular design.
+- Design, implement, train, and evaluate new models and algorithms.
+- Develop reproducible experiments, baselines, and ablation studies.
+- Collaborate with ML researchers and domain experts to connect methodological advances with meaningful scientific applications.
+- Contribute to a research manuscript targeting a machine learning / bio venue.
+Program Highlights
+- Intensive 6 months, full-time (40 hours per week) paid internship.
+- Program start dates are in May/June (Summer).
+- A stipend, based on location, will be provided to help alleviate costs associated with the internship.
+- Ownership of challenging and impactful business-critical projects.
+- Work with some of the most talented people in the biotechnology industry.
+Required Education
+Who You Are
+You meet one of the following criteria:
+- Must have attained a Bachelor's degree (recent graduates not currently enrolled in a grad program),
+- Must have attained a Master's Degree.
+- Must be pursuing a PhD (enrolled student).
+Required Majors: Machine Learning, Computational Biology (optional).
+Required Skills
+- Strong foundations in machine learning, deep learning.
+- Experience implementing, training, and evaluating models using Python and a modern deep learning framework such as PyTorch.
+- Ability to formulate research hypotheses, design experiments, and interpret results.
+- Strong communication and collaboration skills, with the ability to work independently on an open-ended research problem.
+Preferred Knowledge, Skills, And Qualifications
+- Research experience in one or more of the following: generative modeling, post-training, multimodal learning, deep learning.
+- Familiarity with generative models (e.g. autoregressive models, diffusion models, flow matching...).
+- Evidence of research contributions through publications, preprints, or research projects.
+- Interest in applying machine learning to scientific discovery. Prior experience in biology or drug discovery is welcome but not required.
+- Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.
+Relocation benefits are not available for this job posting.
+The expected salary range for this position based on the primary location of New York is $34.00-$52.00 per hour. Actual pay will be determined based on
+experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off
+benefits.
+Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the
+basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the
+basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for
+Applicants.

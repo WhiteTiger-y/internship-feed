@@ -1,0 +1,69 @@
+About Lucid
+At Lucid, we are creating exceptional mobility experiences through innovation to drive the world forward. Built on Lucid’s proprietary technology and software-
+defined vehicle architecture, our award-winning vehicles bring our “Compromise Nothing™” approach to the global automotive market. That means refusing to choose
+between performance and sustainability, design and engineering, ambition and integrity. In Lucid Air and Lucid Gravity, we have designed and built vehicles that
+have redefined their segments, combining exceptional range, performance, design, and expansive space in a single experience.
+We achieve this through deep vertical integration, with design, engineering, and production happening in-house across our global offices and manufacturing
+facilities. Our teams come from industries around the world, united by a shared commitment to excellence. By refusing to settle, you can help redefine what’s
+possible and shape the future of mobility.
+As an AI & Data intern, you will work alongside data scientists, data engineers, analysts and AI FDEs to build AI and analytics solutions on real data across
+Lucid. You must possess a strong understanding of machine learning fundamentals and data analysis. Our ideal candidate exhibits a can-do attitude and is curious
+about emerging AI technologies.
+Please note: this role sits within Lucid’s AI & Data team. Based on your skills and interests, you will be matched to projects in at least one of the following
+focus areas:
+- Generative AI and LLM Applications (retrieval-augmented generation, AI agents, and assistants)
+- Machine Learning and Data Science (predictive modeling, forecasting, and anomaly detection)
+- AI Data Engineering and MLOps (data pipelines, model deployment, and monitoring)
+Role and Responsibilities
+- Own one or more AI/ML projects from problem definition through a working prototype or production handoff
+- Build and evaluate LLM-powered applications, such as retrieval-augmented generation (RAG) assistants and AI agents, that help teams across Lucid find and use
+data and documents faster
+- Develop, train, and evaluate machine learning models on real-world vehicle, manufacturing, and business data
+- Explore, clean, and transform large datasets using SQL and Python, and engineer features for modeling
+- Analyze data and build dashboards and reports that turn model results and business data into actionable insights for stakeholders
+- Help deploy models and AI services as APIs or internal tools, and monitor their performance over time
+- Partner with data scientists, data engineers, analysts, and business stakeholders to translate their needs into AI solutions
+- Document your work and present your results to the team and leadership at the end of the internship
+Must Have Skills
+- Proficiency in Python and core data science libraries such as pandas, NumPy, and scikit-learn
+- Working knowledge of SQL and experience exploring and cleaning real-world, messy datasets
+- Experience with data analysis and business intelligence (BI), including building dashboards and reports in tools such as Power BI, Tableau, or Looker, and
+turning data into clear, actionable insights
+- Solid understanding of machine learning fundamentals, including supervised and unsupervised learning, feature engineering, overfitting, and model evaluation
+metrics
+- Familiarity with Git and collaborative software development practices
+- Strong analytical and problem-solving skills, with the ability to apply coursework to real-world scenarios
+- Excellent written and verbal communication skills, including the ability to explain technical results to non-technical audiences
+Nice to Have Skills
+- Experience building with large language models (LLMs), including prompt engineering, RAG, embeddings, and vector databases
+- Familiarity with LLM APIs and frameworks such as OpenAI, Azure OpenAI, Anthropic, Hugging Face, LangChain, or LlamaIndex
+- Experience with at least one deep learning framework, such as PyTorch or TensorFlow
+- Experience fine-tuning or adapting pre-trained models (for example, Hugging Face Transformers or LoRA)
+- Experience evaluating ML or LLM systems, such as building test sets and measuring accuracy, drift, or hallucination rates
+- Exposure to big data and orchestration tools such as Spark, Airflow, or Databricks, and to a cloud platform (AWS, Azure, GCP, or OCI)
+- Basic model deployment and MLOps skills, such as building REST APIs (FastAPI or Flask), Docker, or experiment tracking with MLflow
+- Exposure to knowledge representation techniques such as knowledge graphs
+Education
+- Field(s) of study : Computer Science, Data Science, Artificial Intelligence, Machine Learning, Statistics, Applied Mathematics, Electrical Engineering, or
+related fields
+- Currently enrolled in a Bachelor’s or Master’s Degree program at an accredited university
+- Proof of enrollment in current or into next program (MS, PhD)
+Program Information :
+- Timing : May- August, or June-September pending class schedules.
+- Duration of Internship : Our internship program is 12 weeks; the end date is flexible based on individual needs.
+- Work Location & Environment : This position will be in Newark, CA, and is fully in-person. You must be prepared to start onsite for your first day of
+employment. The working environment will be a mix of lab & office work.
+- Compensation : Student compensation is based on location and current degree level, non-negotiable ranging from $53 to $72 (subject to changes).
+- Relocation : May be provided on a case-to-case basis.
+- Housing/Transportation : You must provide your own living arrangements and transportation in the local area.
+- Background Check : All offers of employment are contingent on clearing a background check.
+- Drug Screening : All offers of employment are contingent on passing a drug screen.
+- Medical benefits : Dental, vision, and medical on day 1 for all interns working full-time.
+- Visa Sponsorship : Lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for U.S employment authorization.
+At Lucid, we don’t just welcome diversity - we celebrate it! Lucid Motors is proud to be an equal opportunity workplace. We are committed to equal employment
+opportunity regardless of race, color, national or ethnic origin, age, religion, disability, sexual orientation, gender, gender identity and expression, marital
+status, and any other characteristic protected under applicable State or Federal laws and regulations.
+Compensation & Benefits: Lucid offers a comprehensive and competitive benefits package including medical, dental, and vision insurance; life and disability
+coverage; paid time off; paid holidays, paid sick leave; and a 401(k) retirement plan. Hourly/non-exempt employees accrue up to 120 hours paid time off, and
+salaried/exempt employee accrue up to 160 hours paid time off. Eligible employees may also participate in Lucid’s equity program and/or a discretionary annual
+cash incentive pr

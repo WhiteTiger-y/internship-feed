@@ -1,0 +1,77 @@
+Labcorp is seeking a remote Bioinformatics Scientist Intern to join our team!
+Work Schedule: Monday-Friday / 40hrs per week
+Job Responsibilities
+- Collaborating with staff scientists to build, configure, and optimize on-premises and cloud-based computing environments
+- Collecting, curating, and integrating data from public resources and proprietary databases
+- Designing, implementing, and evaluating bioinformatics and data analysis pipelines
+- Applying statistical, computational, and machine learning approaches to large-scale biological datasets
+- Testing, validating, and refining analytical workflows and software tools
+- Documenting methods, results, and recommendations
+- Presenting project findings to scientists and colleagues across the organization
+- Application of machine learning and deep learning methods to derive biological and disease insights
+- Development of computational tools and diagnostic pipelines for genomic data analysis
+- Large-scale data mining and integration of genomic, clinical, and population datasets
+- Variant detection in complex and challenging genomic regions
+- Analysis and interpretation of non-coding regulatory variants
+- Structural variant (SV) detection and characterization
+- Copy number variant (CNV) analysis
+Minimum Qualifications
+Current enrollment in a Master's or Ph.D. degree program in Bioinformatics, Computational Biology, Computer Science, Data Science, Genomics or Statistics
+Preferred Qualifications
+- 1-plus year experience programming in Python and/or R
+- 1-plus year experience with data analysis and statistical modeling
+- 1-plus year experience with eMachine learning or artificial intelligence methods
+- 1-plus year experience with Cloud computing platforms (AWS, Azure, or Google Cloud)
+- 1-plus year experience with Linux/Unix environments and command-line tools
+- 1-plus year experience with version control systems; Git
+- 1-plus year experience in genomics, bioinformatics, database systems, or molecular biology concepts
+Additional Job Standards
+- Strong analytical and problem-solving skills, applying computational approaches to biological questions
+- Excellent verbal and written communication skills
+- Ability to work both independently and collaboratively in a multidisciplinary team environment
+- Strong organizational skills and the ability to manage multiple priorities
+- Demonstrated curiosity, initiative, and a desire to learn new technologies and techniques Technical
+Join Labcorp’s 2027 Global Internship Program and take the first step toward a meaningful career in healthcare innovation! We’re looking for motivated students
+to be part of a dynamic 12-week paid internship where you’ll work on impactful projects and gain real-world experience, all while supporting our mission to
+improve health and improve lives.
+Internship 2027 Dates: May 24, 2027-August 13, 2027
+About The Team
+Are you passionate about bioinformatics, artificial intelligence, and data science? Join the Labcorp Clinical Bioinformatics Team for a summer internship where
+you will apply advanced computational methods to solve real-world clinical and operational challenges.
+Working alongside experienced scientists and bioinformatics professionals, you will contribute to projects involving data integration, computational pipeline
+development, machine learning, and AI-driven analytics that support clinical testing and diagnostic innovation. This hands-on experience will provide exposure
+to production-scale clinical genomics workflows while developing practical skills in bioinformatics, software development, and data science.
+As part of our research and development efforts, you will help deliver innovative solutions that improve diagnostic services and ultimately enhance patient
+health outcomes.
+This internship is an opportunity to gain hands-on experience working with real-world genomic and healthcare datasets with exposure to cutting-edge technologies
+in bioinformatics, machine learning, and precision medicine.
+Additional exposure to mentorship from experienced scientists and computational researchers and opportunities to present your work and contribute to impactful
+research and product development initiatives.
+About the Program: As a Labcorp intern, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll
+gain valuable exposure to Labcorp’s global business, culture, and leadership through:
+- Enterprise-wide learning experiences that introduce you to key business functions across Labcorp
+- Leadership exposure and visibility, including direct interaction with senior leaders
+- An immersive, in-person intern event June 8-10, 2027 designed to connect you with peers and deepen your understanding of our mission
+- Senior leader speaker sessions offering insights into strategy, innovation, and career growth
+- Continuous opportunities to connect and grow, from intern cohort communication channels and LinkedIn Learning resources to professional development sessions
+and storytelling opportunities that highlight your internship journey
+- Connection to Labcorp’s inclusive culture through engagement with our employee resource groups (ERGs)and values-driven community initiatives
+- Dedicated mentoring connections to guide your growth, provide career advice, and support your internship journey
+Internship Details
+- Duration: 12 weeks, full-time
+- Dates of Internship: May 24, 2027-August 13, 2027
+- Compensation: Paid internship; relocation assistance available for qualified candidates
+- Eligibility: Preferred candidates are rising juniors and seniors (Dec 2027 through June 2029 graduation) who are currently enrolled in a relevant degree
+program; however, all current students pursuing related studies are encouraged to apply
+- This position is not eligible for visa sponsorship now or in the future
+Apply now to launch your career and create real impact for patients worldwide. #FutureofLabcorp
+Application Window: 11/18/26-11/30/26
+Pay Range: $35-$40/hr
+All job offers will be based on a candidate’s skills and prior relevant experience, applicable degrees/certifications, as well as internal equity and market
+data.
+Benefits: Employees regularly scheduled to work 20 or more hours per week are eligible for comprehensive benefits including: Medical, Dental, Vision, Life,
+STD/LTD, 401(k), Paid Time Off (PTO) or Flexible Time Off (FTO), Tuition Reimbursement and Employee Stock Purchase Plan. Employees regularly scheduled to work
+less than 20 hours, Casual, Intern, and Temporary employees are only eligible to participate in the 401(k) Plan. Employees who are regularly scheduled to work a
+7 on/7 off schedule are eligible to receive all the foregoing benefits except PTO or FTO. For more detailed information, please click here.
+Labcorp Is Proud To Be An Equal Opportunity Employer
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based

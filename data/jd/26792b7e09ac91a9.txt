@@ -1,0 +1,80 @@
+- Career Track & Grade: ICX/X
+- Department: Engineering
+Company Description
+LinkedIn is the world’s largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people
+make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We’re also committed to providing
+transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that’s built on trust, care, inclusion, and fun
+– where everyone can succeed.
+Join us to transform the way the world works.
+Job Description
+This internship role will be based out of Mountain View, CA.
+At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work
+location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of
+the team.
+LinkedIn is seeking innovative and motivated PhD students to join our team as Generative AI Engineering Interns. As part of our AI/ML teams, you will work on
+advancing the frontier of Generative AI, applying cutting-edge techniques in areas such as text generation, image synthesis, multimodal models, evaluation
+frameworks, and reinforcement learning. You’ll collaborate with a dynamic group of AI researchers and engineers to develop scalable, production-ready models
+that impact LinkedIn’s products and user experiences.
+LinkedIn's Machine Learning Engineers combine data/research science and software engineering, developing and implementing machine learning models and
+algorithms. Our engineers work on projects from ideation through implementation.
+Our mission is crystal clear: to elevate the LinkedIn member experience through the implementation of cutting-edge technologies that enable advanced cognitive
+understanding of multimedia content. Whether it’s text, images, videos, ads, or live content, we are developing state-of-the-art large vision-language
+technologies.
+Candidates must be currently enrolled in a PhD program, with an expected graduation date of December 2027 or later.
+Our internships are 12 weeks in length and will have the option of two intern sessions:
+• May 24th, 2027 - August 13th, 2027
+• June 14th, 2027 - September 3rd, 2027
+Responsibilities:
+Conduct research and development on state-of-the-art Generative AI models, including transformers, diffusion models, GANs, and autoregressive architectures
+Apply advanced Generative AI techniques to tasks such as text generation, creative content generation, conversational agents, and multimodal learning
+Develop and implement large-scale, production-quality Generative AI systems that integrate with LinkedIn’s platform
+Design and implement evaluation frameworks for AI models, including metrics, datasets, and pipelines for automated testing and benchmarking
+Collaborate with product teams to build innovative AI-driven user experiences, from personalized content to conversational agents
+Contribute to internal frameworks for human-in-the-loop annotation and preference modeling
+Qualifications
+Basic Qualifications:
+- Currently pursuing a PhD in computer science, statistics, mathematics, electrical engineering, machine learning, or a related technical field and returning to
+the program after the completion of the internship
+- Experience with Generative AI, including LLMs, GANs, VAEs, diffusion models, or similar architectures
+- Background in generative models, neural networks, and probabilistic methods for AI
+- Experience with programming languages such as Python and machine learning libraries such as TensorFlow or PyTorch
+Preferred Qualifications:
+- Knowledge of developing machine learning algorithms for solving computer vision and graphics problems, including generative models for images and videos, as
+well as prototyping algorithms
+- Knowledge of multimodal learning, combining visual and textual data in Generative AI systems
+- Knowledge of reinforcement learning applied to Generative AI tasks
+- Familiarity with deploying generative models in production environments
+- Publications in AI/ML conferences (e.g., NeurIPS, ICML, CVPR, ICCV)
+- Proficiency in Python and deep learning frameworks (e.g., PyTorch, TensorFlow, JAX)
+- Interest in consumer-facing product development and design
+- Understanding of configuration management techniques and tools
+- Strong command of algorithms and data structures
+- Excellent communication skills
+Suggested Skills:
+- Machine learning and deep learning
+- Advanced data mining
+- Strategic thinking and problem-solving capabilities
+LinkedIn is committed to fair and equitable compensation practices.
+The pay range for this role is $62 to $75 per hour. Actual compensation packages are based on several factors that are unique to each candidate, including but
+not limited to skill set, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor.
+The total compensation package for this position may also include annual performance bonus, stock, benefits, and/or other applicable incentive compensation
+plans. For more information, visit LinkedIn Careers Benefits.
+Additional Information
+Equal Opportunity Statement
+We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified
+applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender
+expression or identity, sexual orientation, citizenship, or any other legally protected class.
+LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an
+inclusive and accessible workplace where everyone has the opportunity to be successful.
+If you need a Reasonable Accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us and describe
+the specific Accommodation requested for a disability-related limitation.
+Fill out an Accommodation request here: https://app.smartsheet.com/b/form/b660a0327d044969abfd7a4e73d15c36
+Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process.
+Examples of reasonable accommodations include but are not limited to:
+- Documents in alternate formats or read aloud to you
+- Having interviews in an accessible location
+- Being accompanied by a service dog
+- Having a sign language interpreter present for the interview
+A request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an
+application, will not receive a response.
+LinkedIn will not discharge or in any othe

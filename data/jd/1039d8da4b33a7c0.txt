@@ -1,0 +1,68 @@
+🎨 OpusClip is the world's No.1 AI video agent, built for authenticity on social media.
+We envision a world where everyone can authentically share their story through video, with no expertise needed. Within just 18 months of our launch, over 20
+million creators and businesses have used OpusClip to enhance their social presence.
+We have raised $50 million in total funding and are fortunate to have some of the most supportive investors, including SoftBank Vision Fund, DCM Ventures,
+Millennium New Horizons, Fellows Fund, AI Grant, Jason Lemkin (SaaStr), Samsung Next, GTMfund, Alumni Ventures, and many more.
+Check out our latest coverage by Business Insider featuring our product and funding milestones, and our recognition as one of The Information's 50 Most
+Promising Startups in 2024.
+Headquartered In Mountain View, We Are a Team Of 100 Passionate And Experienced AI Enthusiasts And Video Experts, Driven By Our Core Values
+- Be a Champion Team
+- Prioritize Ruthlessly
+- Ship fast, Quality Follows
+- Obsess over customers
+Be a part of this exciting journey with us!
+About The Role
+We're looking for an AI Research Intern to join our AI team and explore cutting-edge research across multimodal AI, LLMs, computer vision, speech, and agent
+systems.
+You'll work across OpusClip, AgentOpus, and our next-generation AI products, collaborating closely with AI researchers and engineers to investigate emerging
+technologies, build research prototypes, and ship features used by millions of creators worldwide.
+What You'll Do
+AI Research & Model Development
+- Research and develop deep learning models in one or more of the following areas, depending on product priorities:
+- LLM post-training / decision model training
+- Multimodal understanding and generation
+- Computer vision
+Applied AI Engineering
+- Build AI-powered product features by integrating frontier foundation models into production systems through prompt and context engineering strategies and
+Agent workflows (e.g., using LangChain, RAG frameworks).
+- Collaborate with product and engineering teams to rapidly prototype and ship new AI capabilities across OpusClip and AgentOpus.
+Model Evaluation & Benchmarking
+- Design scalable evaluation pipelines for multimodal AI systems.
+- Develop domain-specific benchmarks using automated evaluation methods (e.g. LLM-as-a-Judge) together with task-specific visual, audio, and language quality
+metrics.
+Stay at the Frontier
+- Keep up with the latest AI research and open-source developments.
+- Reproduce state-of-the-art research and translate new advances into production-ready systems.
+Basic Qualifications
+What We're Looking For
+- Education: Currently pursuing or recently completing a Master's degree in Computer Science, Artificial Intelligence, Mathematics, or a related field.
+- Deep Learning Foundation: Solid understanding of Transformer architecture and Attention mechanisms; familiarity with mainstream generative model families
+(GANs, diffusion models, autoregressive models).
+- Media Processing: Familiarity with media processing fundamentals (video and/or audio — e.g., ffmpeg, codecs, signal processing basics).
+- Coding Skills: Strong programming skills in Python. Familiarity with Linux development environments, Git, and data structures.
+- Fluent in English with strong technical reading and writing skills, including the ability to read research papers and write technical documentation.
+Hands-on Experience In One Or More Of The Following
+- LLM fine-tuning: SFT, RLHF / DPO, LoRA / PEFT, or post-training of open-source models.
+- Computer Vision (especially low-level vision): e.g., Real-ESRGAN, SwinIR, BasicVSR++, or diffusion-based SR; NTIRE / AIM challenge participation.
+Preferred Qualifications
+- Experience building Agent Systems or LLM-powered product features with frontier-model APIs (e.g., ChatGPT, Claude, Gemini) . This role contributes to both
+OpusClip and AgentOpus products.
+- Familiarity with TypeScript is a bonus, helpful for shipping product features.
+- Ownership & execution: Involvement in projects from inception to completion, with strong coding fundamentals; open-source contributions are a plus.
+- Research breadth: Academic background or interest in adjacent areas — video understanding and generation, multimodal systems, agents, and model evaluation /
+benchmarking.
+- Publications: Involvement or interest in academic research, with a focus on top-tier venues like CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ICASSP, Interspeech,
+AAAI, MM, TIP, TPAMI, ACL, EMNLP etc.
+Why Join OpusClip?
+- Build AI products used by millions of creators worldwide.
+- Work on cutting-edge multimodal AI, spanning LLMs, computer vision, speech, and AI agents.
+- Own projects end-to-end, from research and experimentation to production deployment.
+- Collaborate closely with experienced AI researchers and engineers in a fast-moving startup environment.
+- Opportunity to publish research while solving real-world AI problems with meaningful product impact.
+- Flexible remote/on-site internship (3 days/week required, 4+ days/week preferred).
+EEO
+OpusClip is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national
+origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information,
+veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristics. OpusClip considers qualified
+applicants with criminal histories, consistent with applicable federal, state and local law. Opus Clip is also committed to providing reasonable accommodations
+for qualified individuals with disabilities and disabled veterans in our job application procedures.

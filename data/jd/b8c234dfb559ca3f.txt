@@ -1,0 +1,45 @@
+under federal, state, or local law. Applicants with disabilities who need assistance with the application process may be entitled to a reasonable accommodation
+in accordance with applicable law. If you need assistance in completing this application or with the application process because of a disability, please contact
+the People and Culture Department (people@barrys.com).
+Barry’s is the Best Workout in the WorldTM®. Founded in West Hollywood in 1998, it’s the original strength and cardio interval fitness experience that provides
+an immersive, high-intensity, one-hour workout that’s as effective as it is fun. Our fitness classes alternate between working out with weights and running on a
+treadmill. Each day focuses on a different muscle group in order to achieve real results and to prevent injuries. Our program is designed to tone muscle and
+maximize fat loss, while spiking the metabolism for up to 48 hours following the class.
+Please be aware that smoking is prohibited in all indoor areas of Barry’s studios and corporate offices.
+About the role
+We are seeking a highly motivated and detail-oriented intern to join our team. This role will dive into our Snowflake data warehouse, extract and analyze client
+data, and perform thorough data validation and cleanup. You will also own a summer special project focused on Marketing or Operations and present your findings
+to senior leadership. This role is ideal for someone passionate about data and analytics and looking to gain hands-on experience with a modern data stack.
+What you'll do
+- Write SQL in Snowflake to extract, join and analyze client, class, membership and sales data
+- Perform data validation and cleanup to ensure accuracy and consistency across source systems (booking, POS, e-commerce and marketing)
+- Identify and resolve data inconsistencies and quality issues with the team, tracing problems back to their source
+- Help add data quality tests and documentation to our dbt models
+- Develop and implement Python scripts to automate recurring data extraction and reporting
+- Validate Tableau reports and dashboards against source data so stakeholders can trust the numbers
+- Create clear documentation for data definitions, processes and recurring workflows
+- Help build out our data context layer (metric definitions, semantic models and dbt documentation) that powers AI-assisted analytics at Barry’s
+- Use AI tools to speed up SQL development, analysis and documentation, and help test new AI use cases for the team
+- Own a summer special project focused on either Marketing (e.g., campaign performance, first-timer conversion, client acquisition and retention) or Operations
+(e.g., class attendance and utilization, studio and instructor performance, membership trends)
+- Define the project’s business question with stakeholders, build the dataset, analyze the results and turn findings into clear recommendations
+- Present your findings to our leadership team and senior executives at the end of the program
+Qualifications
+- Undergraduate student graduating between December 2027 and June 2028 in Computer Science, Data Science, Statistics, Economics, Business Analytics or a related
+field
+- Working SQL skills (joins, aggregations; window functions a plus) from coursework, projects or prior internships
+- Comfortable using Python for data work (e.g., pandas)
+- Strong attention to detail: you notice when numbers don’t tie
+- Able to explain findings clearly to non-technical audiences
+- Exposure to Snowflake or another cloud data warehouse
+- Familiarity with dbt and Git
+- Experience with Tableau or another BI tool
+- Experience using AI tools (e.g., LLM assistants or coding copilots) for analysis or coding
+- Interest in fitness, consumer or subscription businesses
+The pay range for this role is:
+25 - 25 USD per hour (New York)
+Apply now
+Strategy
+New York, NY
+Share on:
+Apply now

@@ -1,0 +1,51 @@
+At Reality Labs Research, our goal is to explore, innovate and design novel interfaces and hardware for the next generation of virtual, augmented, and mixed
+reality experiences. We are driving research towards a vision of natural, seamless experiences in XR environments that are effective, enjoyable, and
+functionally indistinguishable from those in the real world.As a Research Scientist Intern, you will work at the intersection of AI agents, laboratory
+automation, and wearable computing, alongside a world-leading materials innovation and discovery team. Your primary focus will be on building the software layer
+that lets AI agents communicate with and operate laboratory equipment, and on turning first-person capture from smart glasses, together with instrument data,
+into a time-aligned digital record of experiments. This work is a step toward self-driving labs, where knowledge captured from expert researchers becomes
+structured, executable protocols for agents and, eventually, robots.Our internships are twelve (12) to twenty-four (24) weeks long and we have various start
+dates throughout the year.
+Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD) Responsibilities:
+- Design and implement interfaces (for example, MCP servers, APIs, and instrument drivers) that let AI agents query status, issue commands, and retrieve data
+from laboratory equipment used for synthesis, characterization, and crystal growth.
+- Develop agentic workflows that plan and run experimental steps, with safety constraints, human-in-the-loop approval, and full action logging.
+- Build pipelines that convert first-person video, audio, and instrument telemetry from smart glasses into a synchronized experiment timeline and structured,
+machine-readable protocols.
+- Apply and evaluate multimodal foundation models (vision-language, speech) to recognize lab actions, materials, and events, including failures and anomalies.
+- Link captured procedures with characterization and process data in a searchable experiment record.
+- Collaborate with materials scientists, chemists, and AI researchers to define requirements, test with real lab users, and measure impact.
+- Publish research results and contribute to research that can be applied to Meta product development.
+Minimum Qualifications:
+- Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+- Research experience in at least one of the following areas: LLM-based agents and tool use, laboratory automation or self-driving labs, computer vision or
+multimodal learning, instrument control and data acquisition
+- Experience building software systems in Python
+Preferred Qualifications:
+- Experience with agent frameworks and tool-calling protocols, or with evaluating LLM agents
+- Hands-on experience connecting software to lab instruments or robotic platforms
+- Experimental lab experience in chemistry or materials science, such as synthesis, crystallization, or materials characterization
+- Experience with egocentric video, wearable or AR devices, or time-aligning multimodal data streams
+- Experience with electronic lab notebooks, LIMS, data schemas, or knowledge graphs for scientific data
+- Experience with Bayesian optimization or active learning for experimental design
+- Publications at venues such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICRA, IROS, CoRL, CHI, or UIST, or in journals such as Digital Discovery, Nature,
+Science, or JACS
+- Experience working and communicating cross functionally in a team environment
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

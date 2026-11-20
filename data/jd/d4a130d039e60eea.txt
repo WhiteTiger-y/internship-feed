@@ -1,0 +1,34 @@
+Job Description: At Piper Sandler, we connect capital with opportunity to build a better future. We believe diverse teams with unique backgrounds, skills and
+experiences yield more innovative solutions. Our mission is to recruit, develop, retain and engage a diverse, high-performing team. Our business enables bright,
+committed people working in partnership within an environment that allows each person to achieve at a high level. We commit to encouraging and valuing
+inclusivity because every partner brings unique perspectives that help us better serve our clients. Piper Sandler’s Modern Data & AI team is seeking a
+motivated, innovative intern for Summer 2027 to help build and enhance enterprise data platforms and AI-powered solutions. The intern will be based in
+Minneapolis, MN. The role focuses on data engineering, generative AI, intelligent agents, conversational analytics, and automation using Databricks, Python, and
+modern AI technologies. The individual will contribute to real-world projects that help investment bankers access information, generate insights, and streamline
+business workflows. Responsibilities Help develop and maintain data pipelines using Databricks, Python, SQL, and Apache Spark. Support the ingestion,
+transformation, and integration of structured and unstructured data from internal and external sources. Contribute to building AI-powered applications that use
+large language models (LLMs) for information retrieval, summarization, and intelligent automation. Help develop AI agents using frameworks such as LangChain and
+LangGraph to automate workflows and interact with enterprise systems. Explore MCP-based integrations that connect AI agents with enterprise tools, APIs, and
+data sources. Support the development of natural-language interfaces that enable investment bankers to retrieve insights from enterprise data. Explore
+retrieval-augmented generation (RAG) and AI-driven information extraction from business documents, PDFs, and spreadsheets. Work with Delta Lake and Unity
+Catalog to organize and govern data, and contribute to data quality, validation, and automation initiatives. Help evaluate the accuracy and reliability of AI
+responses and monitor application performance. Work alongside engineers, architects, and business stakeholders to develop practical data and AI solutions that
+support investment banking. Qualifications Required Currently pursuing a bachelor’s or master’s degree in Computer Science, Data Science, Artificial
+Intelligence, Engineering, or a related field. Foundational knowledge of Python, SQL, and software development or data engineering concepts. Basic understanding
+of AI, machine learning, or generative AI concepts. Strong analytical, problem-solving, and communication skills. Interest in financial services, investment
+banking, and emerging technologies. Curiosity, creativity, and willingness to learn. Preferred Exposure to LLMs, generative AI applications, or AI agent
+development. Familiarity with LangChain, LangGraph, MCP, or similar AI integration frameworks. Understanding of RAG, embeddings, vector databases, or semantic
+search. Experience with Databricks, PySpark, Delta Lake, or cloud platforms such as Azure, AWS, or GCP. Familiarity with REST APIs, Git, and modern development
+practices. Academic, personal, or internship projects involving AI applications, automation, or data engineering. What You'll Gain Hands-on experience with
+Databricks at enterprise scale, cloud data engineering, and modern AI technologies. Exposure to generative AI, intelligent agents, MCP integrations, and
+conversational analytics. Real-world AI and data projects that directly support investment bankers. Practical experience with data governance, AI evaluation,
+automation, and enterprise application development. Mentorship from, and collaboration with, experienced engineers and technology leaders. The chance to bring
+fresh ideas to Piper Sandler’s Modern Data & AI initiatives. Piper Sandler values a strong culture dedicated to the emotional and physical well-being of our
+employees. Learn more about our commitment to our employee’s health and well-being. Learn more about our benefits program and how we are here for our employees
+and their families today, tomorrow and beyond. The anticipated pay rate for individuals expressing interest in this position is $21 per hour. All qualified
+applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, gender identity, national origin,
+disability, age, marital status, status as a protected veteran or status with regard to public assistance. Explore the career possibilities at Piper Sandler. At
+Piper Sandler, we connect capital with opportunity to build a better future. As a leading investment bank, we enable growth, navigate complexities and support
+the success of our clients by delivering candid advice, deep sector expertise and a comprehensive set of products and capabilities. We transcend transactions to
+define possibilities—enabling clients to achieve their short-term goals while realizing their long-term vision. Founded in 1895, the firm is headquartered in
+Minneapolis with offices across the U.S. and in London, Aberdeen, Zurich, Munich, Abu Dhabi and Paris.

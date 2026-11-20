@@ -1,0 +1,79 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my
+application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application
+is true to the best of my knowledge.
+Job Description:
+At Takeda, the Clinical Data Science (CDS) organization partners across Research and Development (R&D) to apply statistical thinking, quantitative methods, and
+data science to support evidence generation and informed decision-making. The team works collaboratively with clinicians, scientists, programmers, and other
+cross-functional partners to address important drug development questions and advance innovative analytical approaches.
+We are seeking a highly motivated and talented PhD candidate to join our Clinical Data Science team for the 2027 Summer Internship Program.
+This internship offers an opportunity to gain hands-on experience in the pharmaceutical industry while contributing to innovative statistical and AI/ML research
+relevant to clinical drug development.
+The summer intern will work closely with experienced statisticians on an innovative research project focused on advancing quantitative methodologies for
+clinical drug development, with an emphasis on oncology applications. The project will involve methodological development and implementation, statistical
+analyses and simulation studies, and evaluation of the performance and practical applications of proposed approaches, to address complex scientific challenges
+and support data-driven decision-making under uncertainties. The intern will also have opportunities to present research findings to scientific and cross-
+functional audiences and potentially contribute to a manuscript for publication in a peer-reviewed statistical journal.
+How You Will Contribute:
+- Conduct focused literature reviews on advanced statistical methodologies and AI/ML applications in clinical drug development.
+- Develop, implement, and evaluate innovative statistical and AI/ML approaches to address research questions relevant to clinical trials and drug development.
+- Design and conduct simulation studies to assess methodological performance under various scenarios and assumptions.
+- Develop reproducible analytical workflows and implement statistical models using R and/or Python.
+- Collaborate with statisticians and interpret research findings to explore their potential applications.
+- Present key findings and deliver a final presentation to the broader team at the conclusion of the internship
+- Prepare a scientific manuscript summarizing the research methodology and findings for potential publication in a peer-reviewed statistical journal.
+Internship Development Opportunities:
+- Gain practical experience applying advanced statistical and AI/ML methodologies to real-world challenges in pharmaceutical research and development.
+- Develop a deeper understanding of clinical trial design, oncology drug development, and the role of quantitative sciences in clinical decision-making.
+- Receive mentorship and technical guidance from experienced statisticians and data scientists.
+- Strengthen research, programming, problem-solving, and scientific communication skills.
+- Collaborate with multidisciplinary teams and gain exposure to the pharmaceutical drug development process.
+- Explore opportunities to contribute to scientific publications or conference presentations.
+Job Requirements:
+Education:
+- Currently enrolled in a PhD program in Statistics, Biostatistics, or a closely related quantitative discipline.
+- Preferably completed at least two years of doctoral-level coursework or research.
+Required Skills:
+- Strong foundation in statistical theory, statistical modeling, and computational methods.
+- Advanced knowledge and demonstrated hands-on experience in AI/ML methodologies, such as random forests, gradient boosting, Bayesian Additive Regression Trees
+(BART), neural networks/deep learning, and other supervised learning approaches.
+- Strong understanding of AI/ML model development, training, validation, performance evaluation, and interpretation.
+- Solid knowledge of survival analysis, including Kaplan-Meier estimation, Cox proportional hazards models, and other time-to-event modeling approaches.
+- Familiarity with oncology clinical trial endpoints, including overall survival (OS), progression-free survival (PFS), and objective response rate (ORR).
+- Strong programming proficiency in R and/or Python, with experience implementing statistical and AI/ML models and conducting simulation studies.
+Preferred Qualifications:
+- Knowledge of Bayesian statistical methods, causal inference, or advanced predictive modeling.
+- Experience with survival prediction, treatment effect estimation, or analysis of clinical trial data.
+- Familiarity with oncology drug development, clinical trial design, or pharmaceutical research.
+- Experience conducting independent methodological research or developing reproducible analytical workflows.
+Work Location:
+- Onsite (Cambridge, MA) / Hybrid / Remote
+Internship Eligibility:
+- Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship
+- Must be currently enrolled in a degree program graduating December 2027 or later
+- The internship program is 10-12 weeks depending on the two start dates (June 1st -August 20th OR June 14th-August 20th)
+- The intern must be able to commit to one of these time frames
+- Able to work full time 40 hours a week during internship dates
+- Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program
+Program Highlights:
+- Hands-on experience with real projects and responsibilities
+- Dedicated mentorship program pairing interns with experienced professionals
+- Networking opportunities with industry professionals and fellow interns
+- Internship events focused on professional and skills development
+- Exposure to multiple business areas or departments within a Pharmaceutical Organization
+Takeda Compensation and Benefits Summary:
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we
+strive to be more transparent with our pay practices.
+For Location:
+Boston, MA
+U.S. Hourly Wage Range :
+$21.00 - $46.00
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to
+be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job
+location.
+U.S. internship benefits vary by location and may include
+- Paid sick time
+- Civic Duty paid time off
+- Participation at company volunteer events
+- Participation at company sponsored special events
+- Access to on-site fitness center (where available)
+- Commu

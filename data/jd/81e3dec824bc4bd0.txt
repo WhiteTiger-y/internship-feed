@@ -1,0 +1,50 @@
+UMB’s Artificial Intelligence (AI) team is responsible for driving automation, data-driven decision making and software modernization using AI centric tools.
+Currently, we leverage machine learning, natural language processing, predictive analytics, and generative AI to enhance customer experience, and improve
+operational efficiency. This includes utilizing fraud protection software to ensure regulatory and system availability.
+We are looking for a highly motivated and curious AI Intern to join our AI team. In this role, you will work alongside senior AI Engineers and Data Scientists
+to design, test, and deploy AI-driven features that solve real-world problems. This is a hands-on opportunity to move beyond theory and see how AI is integrated
+into production-level products. You will gain experience with cutting-edge technologies like Large Language Models (LLMs), agentic frameworks, and data
+pipelines while receiving mentorship from industry experts.
+This role is hybrid (Mon through Thu on-site / Fri remote) at the UMB Technology & Operations Center located in downtown Kansas City, MO.
+How you will spend your time
+- Model Development & Testing Assist in building, training, and evaluating machine learning and deep learning models to improve product functionality.
+- Generative AI Exploration Experiment with LLMs, prompt engineering, and Retrieval-Augmented Generation (RAG) pipelines to enhance automation and user
+experience.
+- Data Engineering Support data collection, cleaning, and preprocessing efforts to ensure high-quality datasets for model training.
+- Prototyping Collaborate with cross-functional teams to build and iterate on AI-powered prototypes and internal tools.
+- Research & Documentation Stay updated on the latest AI trends and research papers, documenting experimental results and contributing to technical reports.
+- Deployment Support Help integrate AI models into existing software architectures and assist in monitoring their performance in real-world scenarios.
+We are excited to talk if you have
+- Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related technical field.
+- Programming Strong proficiency in Python (familiarity with libraries like NumPy, Pandas, and Scikit-learn).
+- AI Frameworks Basic understanding of machine learning frameworks such as PyTorch, TensorFlow, or Keras.
+- Core Fundamentals Solid grasp of mathematics (linear algebra, statistics) and data structures.
+- Soft Skills Excellent problem-solving abilities, a proactive learning mindset, and the ability to communicate technical concepts to non-technical
+stakeholders.
+Bonus Points if you have
+- Experience with GenAI tools like LangChain, LangGraph, or vector databases (e.g., Pinecone, Weaviate).
+- Prior experience with APIs (FastAPI/REST) and version control systems like Git.
+- A portfolio of personal AI/ML projects or contributions to open-source communities.
+- Familiarity with cloud platforms such as AWS, Azure, or Google Cloud.
+Applicants must have legal authority to work in the United States. Work Visa sponsorship is not available for this position.
+This position was posted on 11/20/2026. The application deadline for this position is 45 days from the posting date unless filled earlier.
+Compensation Range
+$33,786 - $49,698
+The posted compensation range on this listing represents UMB’s good faith and reasonable estimate based on its budget and what it expects to be the starting pay
+for this role, but the actual compensation may vary by geographic location, experience level, and other job-related factors. Please see the description of
+benefits included with this job posting for additional information.
+UMB offers competitive and varied benefits to eligible associates, such as Paid Time Off; a 401(k) matching program; annual incentive pay; paid holidays; a
+comprehensive company sponsored benefit plan including medical, dental, vision, and other insurance coverage; health savings, flexible spending, and dependent
+care accounts; adoption assistance; an employee assistance program; fitness reimbursement; tuition reimbursement; an associate wellbeing program; an associate
+emergency fund; and various associate banking benefits. Benefit offerings and eligibility requirements vary.
+Are you ready to be part of something more?
+You're more than a means to an end—a way to help us meet the bottom line. UMB isn't comprised of workers, but of people who care about their work, one another,
+and their community. Expect more than the status quo. At UMB, you can expect more heart. You'll be valued for exactly who you are and encouraged to support
+causes you care about. Expect more trust. We want you to do the right thing, no matter what. And, expect more opportunities. UMBers are known for having
+multiple careers here and having their voices heard.
+UMB and its affiliates are committed to inclusion and diversity and provide employment opportunities to all employees and applicants for employment without
+regard to race, color, religion, sex (including gender, pregnancy, sexual orientation, and gender identity), national origin, age, disability, military service,
+veteran status, genetic information, or any other status protected by applicable federal, state, or local law. If you need accommodation for any part of the
+employment process because of a disability, please send an e-mail to talentacquisition@umb.com to let us know the nature of your request.
+If you are a California resident, please visit our Privacy Notice for California Job Candidates to understand how we collect and use your personal information
+when you apply for employment with UMB.

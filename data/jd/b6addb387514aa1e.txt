@@ -4,7 +4,7 @@ Office Location: 6230 E Stassney Ln, Austin, TX 78744
 Candidates must be local to Austin, TX or surrounding areas.**
 Job Description
 We are currently seeking a contract AI/ML Engineer Intern to be a key resource on a technical services team for our client, the Texas Department of
-Transportation (TxDOT).
+Transportation (TxDOT). This is a 12 month contract, full time schedule; 8am-5pm CST Monday through Friday.
 Responsibilities
 The AI Innovation team in ITD undertakes rapid development initiatives using AI/ML tools and platforms with the goal to drive business innovation at the client.
 - Evaluate emerging AI trends, tools, and vendor solutions against business use-cases.

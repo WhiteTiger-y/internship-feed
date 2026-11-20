@@ -1,0 +1,41 @@
+What's the role?
+As an Applied AI Research Intern, you will work with outstanding engineering team of AI Engineers, Data Scientists and Research Engineers to gain hands-on
+experience in deriving insight from various data pipeline for the Enterprise organization. You will assist in the design and implementation of algorithms,
+analyze, and leverage sensor data for various applications. As part of our dynamic team, you'll have the opportunity to contribute to the design and development
+of machine learning and AI models and tools for Geospatial AI innovation and improve product quality across products related to Places POI, Logistics, last-mile
+and last-meter delivery, routing and ETA in multi-modal transportation system , Robotics and Physical AI.
+Key Responsibilities
+- Assist in the research and development of AI models for new product innovation in the area of Physical AI to support last meter navigation for package
+delivery.
+- Support the analysis of large data sets and translation of machine learning models into code, build POCs and support their integration into production
+systems.
+- Conduct exploratory data analysis on various automotive sensor data and derive insights for feature engineering and model choices.
+- Review on-going applied research activities and publications and convert them to product use-case and design and implement custom methods for products.
+Who are you?
+You have a strong engineering background, or any quantitative field and you are self-motivated and enthusiastic to research, learning and apply new technologies
+to solving problems.
+- MS or PhD student in a discipline such as Statistics, Computer Science or Engineering.
+- Basic knowledge of Machine Learning, data mining and analytic methods such as regression, classifiers, Clustering, Probabilistic Graphical Models, Deep
+Learning and Graph Neural Networks, etc.
+- Programming experience with Python, C++, Javascript, SQL, Linux, AWS, NVIDIA, etc.
+- Knowledge of foundation models in AI and their application to various downstream tasks. Including LLM, VLM, VLA, Scene Understanding (VQA), BEV and World
+Models.
+- Experience working on GNSS probe sensor data and computer vision data is a plus
+Education
+This is a full-time paid internship (20 to 40 hours per week) with a fixed hourly rate of depending on your level of education as follows:
+Undergraduate Students: $25/hr
+Graduate Students: $30/hr
+PhD Students: $35/hr
+Life at HERE comes with generous benefits to support your health and overall wellness. Benefits available to US-based HERE employees include health
+(Medical/Dental/Vision) insurance and retirement savings plans.
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, HERE will consider for employment qualified
+applicants with arrest and conviction records.
+HERE is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, age, gender identity, sexual orientation, marital status,
+parental status, religion, sex, national origin, disability, veteran status, and other legally protected characteristics.
+Under Section 503 of the Rehabilitation Act of 1973 and VEVRAA, we have developed an affirmative action program (AAP) for individuals with disabilities and
+protected veterans. Portions of the AAP are available for review by applicants and employees through our People Team.
+Who are we?
+HERE Technologies is a location data and technology platform company. We empower our customers to achieve better outcomes – from helping a city manage its
+infrastructure or a business optimize its assets to guiding drivers to their destination safely.
+At HERE we take it upon ourselves to be the change we wish to see. We create solutions that fuel innovation, provide opportunity and foster inclusion to improve
+people’s lives. If you are inspired by an open world and driven to create positive change, join us. Learn more about us on our YouTube Channel.

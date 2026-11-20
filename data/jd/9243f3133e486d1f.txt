@@ -17,9 +17,8 @@ energy technology company.
 With hubs in San Francisco, Reno, and Singapore, our global team is laser focused on building foundational technology to solve the most pressing problems in
 power infrastructure at scale.
 Join us in building the power foundation of the future!
-About Amperesand
-Amperesand is building next-generation power infrastructure systems for Data Centers, EV charging platforms, and future energy applications. Our systems combine
-advanced power electronics, embedded controls, and scalable energy architectures to rethink how power is converted, controlled, and deployed.
+Start Date - Available now
+Accepting applicants local to either Sunnyvale, CA or San Francisco, CA
 About The Role
 This internship is an opportunity to work hands-on with a startup engineering team that builds and experiments with the latest advancements in AI and Machine
 Learning. You will contribute to multiple teams, architecting and implementing AI/ML solutions to help improve reliability, and accelerate the development
@@ -54,13 +53,6 @@ Nice to Have
 - Familiarity with CAD, PLM, simulation tools, or engineering workflows.
 - Interest in energy systems, power electronics, AI infrastructure, or industrial automation.
 - Research, open-source contributions, hackathons, or personal AI/ML projects.
-Working Model
-Employment Type
-- Full-time
-Location:
-Sunnyvale
-Work Model
-- Onsite
 Please note: This role requires working on-site 5 days a week. We do not offer hybrid or remote options.
 While this role is listed for the location above, we may consider candidates in other locations on a case-by-case basis.
 Onsite Collaboration Rationale
@@ -85,4 +77,7 @@ The benefits outlined below apply exclusively to employees located in the United
 The benefits outlined below apply to employees located in Singapore:
 - Competitive Salary + Incentive Stock Options
 - Group medical, hospitalisation and surgical insurance, outpatient or GP coverage, group term life, dental and personal accident insurance
-- Employer and employee Central Provident Fund contributions in accordance with the CPF Act (for Singapore Citiz
+- Employer and employee Central Provident Fund contributions in accordance with the CPF Act (for Singapore Citizens and Permanent Residents)
+- Annual leave, paid sick leave, hospitalisation leave, and all Singapore public holidays, in line with or exceeding the Employment Act
+- Commuter Benefits
+- Government-paid maternity, paternity, shared parental, and childcare leave in accordance with prevailing Singapore s

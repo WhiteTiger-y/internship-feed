@@ -1,0 +1,58 @@
+About Zendar
+Zendar builds physical agents: mobile robots that can go anywhere in the physical world, understand what they see and act on it. We are deploying them to
+automate enterprise sites, doing in the physical world what AI agents already do in software.
+What makes our robots special is the navigation foundation model for autonomous systems that Zendar has developed over the past 9 years. Our radar-centric
+autonomy stack lets mobile robots traverse any environment, from offices and warehouses to roads, in any weather and at high speeds. Our physical agents get
+wherever they need to go, quickly, reliably and safely.
+We are a small team that owns the whole stack, from sensors and perception to planning, AI and the robots in the field. We are scaling deployments rapidly, so
+you will see your work running on real robots at real sites and delivering value to our customers.
+Although AI is central to what we build, our hiring process is intentionally human: every resume is reviewed by a real person.
+The Perception and Machine Learning Team is looking for a final-year PhD student to join us as a Research Intern on learned planning and actuation, on-site in
+Berkeley, CA. This internship offers an opportunity for both the intern and the team to assess mutual fit for a potential full-time research position.
+The Role
+You Will Own One Research Direction On The Production Planner, Working With The Researchers Who Ship It, On Real Fleet Data, And Present Your Results To The
+People Who Decide What Ships. What a Successful Planner Means To Us, And What We Will Measure You Against
+- Understands what is missing: finds the mechanism behind a driving planner's failures and shows which gap matters before changing anything.
+- Handles the long tail, never gets stuck and knows how to get itself unstuck: agile, it commits, launches, re-plans and recovers on its own.
+- Collision- and comfort-aware, and generalizes across structured environments (roads, lanes, intersections) and unstructured ones (lots, yards, sites, robotics
+settings).
+- Knows how to test and evaluate actuation and planning pipelines: open-loop, closed-loop and on-vehicle, with metrics that predict road behavior.
+- Production quality, not a proof of concept: tested code, reproducible results, behavior that holds across checkpoints and scenes. This is our standard and our
+measure of success.
+Potential Projects
+- Generative planning with flow matching: a flow-matching or diffusion policy over ego trajectories with few-step inference and explicit constraint guidance in
+the sampler.
+- The long tail: data balancing and hard-case mining, counterfactual and generative scenario synthesis, or reasoning-augmented planners.
+- Closed-loop evaluation and training that matches our sensors: counterfactual observations faithful to radar and camera features, so closed-loop metrics
+predict road behaviour.
+- Post-training with reinforcement learning: rule-reward or closed-loop fine-tuning, parallel imitation + RL—and whether the gain survives a real sensor stack
+and a safety layer.
+- Your own idea: tokenized planning with learned scoring, a world model as the planner's critic, uncertainty-aware ranking, self-play traffic.
+Every change is evaluated closed-loop and open-loop against the current planner, failures examined and not just counted, and results presented to the team's
+leads. We support publication of non-proprietary findings.
+What We Look For
+- Final-year PhD student (or within 12 months of defending) in computer science, electrical engineering, robotics or a related field, available for an on-site
+internship in Berkeley.
+- First-author work in motion forecasting or planning, generative models for sequential decision making (diffusion, flow matching), reinforcement or imitation
+learning for control, or closed-loop simulation and evaluation.
+- Python and PyTorch: you can read a large model file, change the loss, and prove it did what you intended; a solid grasp of the ML pipeline end to end,
+including real sensor data and its problems.
+- Communication, teamwork and brainstorming matter to us as much as the technical bar: work in the open, take and give review well, bring half-formed ideas to
+the whiteboard early. Research here is a team sport.
+Bonus Points
+- Publications at CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA, CoRL or RSS on end-to-end driving, trajectory generation, world models or RL post-training.
+- Results on a closed-loop benchmark (Bench2Drive, NAVSIM v2, Waymo Sim Agents, nuPlan), and an opinion on where those benchmarks mislead.
+- Radar, lidar or multi-sensor BEV perception; multi-day GPU-cluster training kept honest (checkpoint variance, clean ablations); vision-language-action models
+or constraint-guided sampling.
+What We Offer
+- A research problem with a direct line to the product, and a defined path to a full-time research position on the team.
+- A dedicated multi-GPU cluster allocation and access to Zendar's fleet data, labels and closed-loop evaluation pipeline from day one; mentorship by the team's
+technical lead and a weekly research review with its research leads.
+- 40 hours/week internship position for 3-6 months, flexible start date
+- Compensation of $55.00/hr
+- A young, venture-backed company in an emerging market, with a multidisciplinary team of experts in hardware, signal processing and machine learning.
+- Daily catered lunches and a fully stocked fridge.
+Zendar is committed to creating a diverse environment where talented people come to do their best work. We are proud to be an equal opportunity employer. All
+qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual
+orientation, national origin, genetics, disability, age, or veteran status.
+Zendar participates in E-Verify
