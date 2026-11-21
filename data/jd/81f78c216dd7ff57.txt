@@ -1,0 +1,36 @@
+MERL is seeking a highly motivated Ph.D. student to conduct research on Vision-Language-Action (VLA) models for robotic manipulation. Recent VLA models have
+demonstrated impressive capabilities in general-purpose robotic manipulation. This internship will investigate new methods for improving the reliability and
+effectiveness of VLA policies in real-world manipulation tasks. Potential research directions include exploring VLA-based approaches, multi-arm coordination,
+and adaptive behaviors for industrial manipulation tasks, with particular emphasis on reliability assessment, policy intervention, and corrective-action
+strategies.
+The selected intern will work closely with MERL researchers to develop and implement novel algorithms, deploy and evaluate learning-based policies on robotic
+platforms, and conduct both simulation and real-world experiments. The intern will also disseminate research findings at leading robotics conferences, including
+ICRA, RSS, CoRL, and IROS. The internship start date and duration are flexible. Interested applicants are encouraged to apply with an updated CV and a list of
+relevant publications.
+Required Specific Experience
+- Current enrollment in a Ph.D. program
+- Strong background in robot learning for manipulation
+- Hands-on experience with Vision-Language-Action (VLA) models for robotics, such as pi0, OpenVLA, Octo, GR00T N1, or related state-of-the-art models
+- Proficiency with ROS, Python, and deep learning frameworks such as PyTorch
+- Experience with robotic simulation environments and sim-to-real transfer
+- Experience deploying and evaluating learning-based policies on physical robotic platforms
+- A strong publication record or demonstrated research potential
+The pay range for this internship position will be 6-8K per month.
+Mitsubishi Electric Research Labs, Inc. "MERL" provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to
+race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, MERL complies with applicable state and local
+laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of
+employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+MERL expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national
+origin, age, genetic information, disability, or veteran status. Improper interference with the ability of MERL’s employees to perform their job duties may
+result in discipline up to and including discharge.
+Working at MERL requires full authorization to work in the U.S and access to technology, software and other information that is subject to governmental access
+control restrictions, due to export controls. Employment is conditioned on continued full authorization to work in the U.S and the availability of government
+authorization for the release of these items, which might include without limitation, obtaining an export license or other documentation. MERL may delay
+commencement of employment, rescind an offer of employment, terminate employment, and/or modify job responsibilities, compensation, benefits, and/or access to
+MERL facilities and information systems, as MERL deems appropriate, to ensure practical compliance with applicable employment law and government access control
+restrictions.
+In addition to base pay, interns receive a relocation stipend, covered travel to and from MERL, and a monthly Charlie Card for local commuting. Interns are
+invited to participate in weekly social gatherings and professional development opportunities, including research talks by both internal and external speakers.
+Interns who meet the 90-day waiting period are also eligible for health insurance coverage. MERL provides immigration support for qualified candidates as
+needed. Employment is considered “at-will,” and the Company reserves the right to modify base salary or any other compensation program at any time, including
+for reasons related to individual performance, departmental or Company performance, and market conditions.

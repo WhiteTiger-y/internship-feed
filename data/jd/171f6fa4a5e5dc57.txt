@@ -1,0 +1,20 @@
+Shield is seeking an Operational Analysis Intern to support the modeling, simulation, and analysis of Shield AI’s autonomous systems. This role is pivotal in
+evaluating the mission effectiveness, survivability, and operational impact of our autonomy solutions across multiple platforms and domains. You will work
+closely with engineering, product development, and defense stakeholders to inform design trade-offs, assess system performance, and optimize mission
+capabilities.
+This position requires a deep understanding of military operations, wargaming, modeling & simulation (M&S), analytic techniques, advanced AI tooling and
+operational analysis techniques. Your work will directly shape Shield AI’s strategy by identifying how our AI-powered platforms can best serve the evolving
+needs of the warfighter.
+Required Qualifications:
+Currently pursuing a Bachelor’s, Master’s, or Ph.D. in engineering, computer science, operations research, physics, mathematics, data science, or a related
+technical field.
+Proficiency in at least one programming or analysis tool (such as Python, MATLAB, or C++) for modeling, simulation, or data analysis.
+Strong analytical and problem-solving skills, with the ability to tackle open-ended questions and clearly communicate complex ideas in writing and
+presentations.
+Strong interest in autonomous systems, robotics, aerospace, or defense.
+Eligibility to obtain and maintain a U.S. government security clearance.
+Preferred Qualifications:
+Prior coursework, research, or internship experience in system design, trade studies, modeling and simulation, autonomy, or operations analysis.
+Familiarity with version control, data visualization, and AI-assisted coding and research workflows.
+Familiarity with defense systems, military operations, and Concepts of Operations (CONOPS).
+Active U.S. government security clearance.

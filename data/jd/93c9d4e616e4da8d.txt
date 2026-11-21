@@ -1,0 +1,45 @@
+Team Name: Internships Job Title: Blizzard 2027 Summer Internships - Applied Science (PhD) Requisition ID: R028347 Job Description: Blizzard is looking for
+talented and innovative students to join our teams for summer 2027. All interns will receive a meaningful project and an unparalleled experience. We’ll provide
+the tools and resources you need to learn. The challenging and creative work you do throughout your internship will directly impact the team you are
+contributing to.   All internships will be conducted in-person. Hosting managers will determine when and how often interns work in the office. All interns will
+have the option to opt into relocation services (flights, trains, or car mileage reimbursement). Additionally, all interns will be provided with a living
+stipend to subsidize housing, utility, commuting, and miscellaneous costs.  Program Requirements Currently enrolled in a PhD program and graduating December
+2027 – June 2028 Available to participate in a 12-week internship starting in mid-May or mid-June   Currently residing in the US or open to relocating oneself
+to the US   Exhibits learning agility; has the ability to think differently, and/or grasp and apply new skills and concepts   Approaches problems in a clear,
+well-organized, and solutions-oriented manner   Works well with others and contributes to team tasks   Able to effectively communicate problems, solutions,
+needs, or priorities   Is engaged, seeks to learn, and is able to manage time effectively   A passion for significantly impacting game development   Applicants
+must apply with a resume  Internship Opportunities Applied Science Intern: Blizzard's Global Insights team is looking for an Applied Science Intern to research
+and develop reinforcement learning solutions for game-related applications, including prototyping and evaluating RL algorithms for in-game systems and offline
+game development tools. Requirements: Strong theoretical and practical foundation in reinforcement learning, including policy optimization, value estimation,
+exploration, and RL algorithm design. Proficiency in Python and familiarity with deep learning frameworks such as PyTorch or TensorFlow Familiarity with RL
+training frameworks such as Ray RLlib, Stable-Baselines3, or similar tools Strong analytical and problem-solving skills, with the ability to read and implement
+research papers Passion for applying machine learning and reinforcement learning techniques to gaming applications and game development. Hosting Locations:
+Blizzard (Irvine, CA) Your Platform Best known for iconic video game universes including Warcraft®, Overwatch®, Diablo®, and StarCraft®, Blizzard Entertainment,
+Inc. (www.blizzard.com), a division of Activision Blizzard, which was acquired by Microsoft (NASDAQ: MSFT), is a premier developer and publisher of
+entertainment experiences. Blizzard Entertainment has created some of the industry’s most critically acclaimed and genre-defining games over the last 30 years,
+with a track record that includes multiple Game of the Year awards. Blizzard Entertainment engages tens of millions of players around the world with titles
+available on PC via Battle.net®, Xbox, PlayStation, Nintendo Switch, iOS, and Android.   Our World Activision Blizzard, Inc., is one of the world's largest and
+most successful interactive entertainment companies and is at the intersection of media, technology and entertainment. We are home to some of the most beloved
+entertainment franchises including Call of Duty®, World of Warcraft®, Overwatch®, Diablo®, Candy Crush™ and Bubble Witch™. Our combined entertainment network
+delights hundreds of millions of monthly active users in 196 countries, making us the largest gaming network on the planet! Our ability to build immersive and
+innovative worlds is only enhanced by diverse teams working in an inclusive environment.  We aspire to have a culture where everyone can thrive in order to
+connect and engage the world through epic entertainment. We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every
+World’ - we’ve got our employees covered! The videogame industry and therefore our business is fast-paced and will continue to evolve. As such, the duties and
+responsibilities of this role may be changed as directed by the Company at any time to promote and support our business and relationships with industry
+partners.   We love hearing from anyone who is enthusiastic about changing the games industry. Not sure you meet all qualifications? Let us decide! Research
+shows that women and members of other under-represented groups tend to not apply to jobs when they think they may not meet every qualification, when, in fact,
+they often do! We are committed to creating a diverse and inclusive environment and strongly encourage you to apply.   We are committed to working with and
+providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for
+an open position, please email your request to candidate-accommodations@activisionblizzard.com. General employment questions cannot be accepted or processed
+here. Thank you for your interest.   We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race,
+religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status, among other
+characteristics. Rewards We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees
+covered! Subject to eligibility requirements, the Company offers comprehensive benefits including: Medical, dental, vision, health savings account or health
+reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance; 401(k) with Company match,
+tuition reimbursement, charitable donation matching; Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental
+leave; Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life
+& disability, legal service, ID protection, rental insurance, and others; If the Company requires that you move geographic locations for the job, then you may
+also be eligible for relocation assistance. Eligibility to participate in these benefits may vary for part time and temporary full-time employees and interns
+with the Company. You can learn more by visiting https://www.benefitsforeveryworld.com/. In the U.S., the standard base pay range for this role is $20.00 -
+$50.00 Hourly. These values reflect the expected base pay range of new hires across all U.S. locations. Ultimately, your specific range and offer will be based
+on several factors, including relevant experience, performance, and work l

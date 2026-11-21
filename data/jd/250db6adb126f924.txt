@@ -1,0 +1,95 @@
+ATTACH RESUME/CV Couldn't auto-read resume.
+Analyzing resume...
+Success!
+File exceeds the maximum upload size of 100MB . Please try a smaller size.
+- Full name ✱
+- Email ✱
+- Phone ✱
+- Current location
+No location found. Try entering a different location
+Loading
+- Current company ✱
+Please ensure both First & Last name are included in the 'full name' field above.
+- Home Address Line 1 ✱
+- City ✱
+- State/Territory ✱
+Select... AL AK AR AZ CA CO CT DE DC FL GA GU HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA PR RI SC SD TN TX UT VT VA VI
+WA WV WI WY
+- Zip Code ✱
+- How did you hear about us? ✱
+Please select the source that led you to apply. Facebook Indeed ZipRecruiter Google Search Billboard Radio Direct Mailing Employee Referral LinkedIn Other Job
+Board Job Fair Walk-In
+- If you selected Employee Referral as your source, please list the referring employee's name and how you know them.
+- What is your highest level of education completed? ✱
+Select... Some High School High School Diploma/GED Some College Associate Degree Bachelor Degree Post Graduate Degree
+- Are you at least 18 years or older? ✱
+- Yes
+- No
+- Are you legally authorized to work in the United States? ✱
+- Yes
+- No
+- Do you now or in the future require visa sponsorship to continue working in the US? ✱
+- Yes
+- No
+- Have you been employed at Mom's Meals/PurFoods previously? ✱
+Select... Yes No
+- Do you have any relatives currently employed by Mom's Meals? ✱
+Select... Yes No
+- If yes, please provide name of relative, job title, & location.
+Resume Check
+- Please confirm you have uploaded a resume (PDF or Word format preferred) ✱
+- Yes
+- No
+Academic Standing
+- What will your current academic standing be at the time this internship begins? ✱
+Select... Freshman Sophomore Junior Senior Graduate student Recently graduated Other / Not applicable
+Expected Graduation
+- What is your expected graduation date? ✱
+Grade Point Average
+- What is your current GPA? ✱
+Interns - Hourly Wage Requirement
+- What hourly wage are you seeking for an internship? ✱
+Interns - Location Check
+- This internship has an onsite requirement and will report to the facility listed on the job posting. We are not currently offering a housing stipend or
+relocation assistance. Are you located within a commutable distance to the facility? If not, please explain your housing plans for the duration of this
+internship. ✱
+Data Analytics Intern - Technical Skills
+- This position requires advanced Microsoft Excel skills and prior experience using programming or statistical languages (SQL or Python preferred). Please
+describe your experience using these tools. ✱
+U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)
+Mom's Meals provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, protected veteran status, or disability.
+Mom's Meals is a federal contractor or subcontractor subject to certain governmental recordkeeping and reporting requirements for the administration of civil
+right laws and regulations. Employment decisions are made on the basis of job-related criteria without regard to race, ethnicity, color, religion, sex, sexual
+orientation, gender identity, marital status, age, genetic information, national origin, disability, military, or veteran status, or any other classification
+protected by applicable law.
+We invite all applicants to voluntarily self-identify their race, ethnicity, and/or gender. Submission of the information on this form is strictly voluntary and
+refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel
+records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more
+information about any of the sections, please check with a company representative.
+Gender
+Select ... Male Female Decline to self-identify
+Race
+- Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.
+- White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+- Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.
+- Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific
+Islands.
+- Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including,
+for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+- American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central
+America), and who maintain tribal affiliation or community attachment.
+- Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.
+- Decline to self-identify
+Self-identification of veteran status (Completion is voluntary and will not subject you to adverse treatment)
+Mom's Meals is a Government contractor subject to the Section 4212 of the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, as amended by the Jobs for
+Veterans Act of 2002, which requires Government contractors to take affirmative action to employ and advance in employment: (1) Disabled veterans – A veteran
+who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled
+to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-
+connected disability; (2) Recently separated veteran – A veteran separated during the three-year period beginning on the date of the veteran's discharge or
+release from active duty in the U.S military, ground, naval, or air service; (3) Active duty wartime or campaign badge veteran – A veteran who served on active
+duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department
+of Defense; (4) Armed forces service medal veteran – A veteran who, while serving on active duty in the U.S. military ground, naval, or air service,
+participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209). If
+you believe that you belong to any of the categories of protected veterans, please indicate by making the appropriate selection.
+Veteran stat

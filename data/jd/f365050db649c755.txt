@@ -1,0 +1,21 @@
+Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world's best researchers, Research Interns learn,
+collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides.
+During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present
+findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though
+they typically begin in the summer. The Research Intern will explore chemistry and physics applications for early fault-tolerant quantum computers, contributing
+to the development and evaluation of algorithms and workflows that leverage emerging quantum capabilities, in combination with machine learning and/or AI.
+Potential research directions include: Quantum algorithms and simulation: Develop and analyze algorithms for quantum dynamics and complex quantum systems,
+including Hamiltonian simulation, and study their error and computational resource requirements. Quantum computing for chemistry and materials: Develop
+computational methods, including downfolding techniques, that map complex chemical and materials problems onto efficient representations suitable for quantum
+simulation. Machine learning and quantum systems: Investigate how quantum computing and machine learning can be used together to simulate complex quantum
+systems, this includes exploring the limits of neural networks in capturing and learning many-body quantum complexity, to understand where quantum computers
+provide a true advantage. Working closely with researchers and engineers, the Research Intern will develop new algorithmic techniques and workflows, perform
+theoretical and numerical analysis, and assess their potential for scientifically meaningful applications on fault tolerant quantum computers. Currently
+enrolled in a Doctorate Degree program in computer science, physics, chemistry, applied mathematics, electrical engineering, or a related STEM field. In
+addition to the qualifications below, you'll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work
+or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters
+cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may
+wish to alert your letter writers in advance, so they will be ready to submit your letter. Research experience in one or more of quantum algorithms, quantum
+information, computational physics or chemistry, numerical methods, machine learning, or scientific computing. Experience developing and analyzing mathematical
+or computational methods for scientific problems. Programming experience with a scientific computing language such as Python, C++, or Julia. Demonstrated
+ability to formulate research questions, work independently, and collaborate effectively with researchers and engineers from different technical backgrounds.

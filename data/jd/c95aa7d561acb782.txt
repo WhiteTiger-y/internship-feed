@@ -15,6 +15,7 @@ Research Scientist Intern, Photorealistic Telepresence (PhD) Responsibilities:
 - Collaboration with and support of other researchers across various disciplines
 - Communication of research agenda, progress, and results
 Minimum Qualifications:
+- Currently has, or is in the process of obtaining, a PhD in Computer Science, Computer Vision, Computer Graphics, Robotics, Machine Learning, or related field
 - Experience with solving “inverse problems” in imaging emphasizing modeling and algorithm development
 - 2+ years of experience with Machine Learning for solving computer vision and computer graphics problems
 - Experience with deep learning frameworks such as Pytorch and TensorBoard

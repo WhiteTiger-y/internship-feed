@@ -1,0 +1,81 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my
+application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application
+is true to the best of my knowledge.
+Job Description:
+The Parenteral Drug Product (PDP) group within Takeda’s Pharmaceutical Sciences organization develops formulations and manufacturing processes for synthetic and
+protein therapeutics, supporting clinical development through commercial launch and scale-up to global manufacturing sites.
+Join Takeda’s Parenteral Drug Product (PDP) team to apply AI and data science to real-world pharmaceutical development challenges. In this internship, you will
+help develop an AI-enabled tool that transforms historical drug product development records into structured, validated data for our In-Silico Formulation
+Platform. Working alongside pharmaceutical scientists and data science experts, you will develop AI workflows and agents to extract organized development data
+from unstructured text and tables in Word and PDF reports. You will develop evaluation datasets, design database schema, implement data quality checks, and
+benchmark extraction accuracy, completeness, and efficiency against curated reference data. You will also document the solution and present your findings to the
+team.
+This role offers hands-on experience at the intersection of applied AI, scientific data engineering, and pharmaceutical sciences. You will gain exposure to drug
+product development workflows and the regulatory context in which pharmaceutical research operates.
+How You Will Contribute:
+- Develop Python workflows using AI agents and large language models (LLMs) to extract information from development reports.
+- Map extracted data to the existing formulation database schema.
+- Implement checks for data accuracy, completeness, unit consistency, and schema conformance.
+- Benchmark extraction performance against manually curated reference data and assess time savings.
+- Document the workflow, communicate findings, and contribute validated datasets to expand database coverage.
+Internship Development Opportunities:
+- Collaborate with pharmaceutical scientists on parenteral drug product development.
+- Learn drug product development processes and regulatory requirements.
+- Apply AI agents and advanced LLMs to real-world development data.
+- Build skills in data engineering, validation, benchmarking, and technical communication.
+Job Requirements:
+- Location: Onsite in Lexington, MA.
+- Education: Pursuing a degree in computer science, data science, informatics, pharmaceutical sciences, or a related field. Master’s or PhD candidates
+preferred; qualified undergraduates considered.
+- Required: Proficiency in Python; experience with AI coding agents or assistants such as Claude Code, Codex, or GitHub Copilot; experience with SQL and NoSQL
+databases; understanding of relational database systems; and knowledge of RAG system development.
+- Preferred: NLP experience and background knowledge of drug product development.
+- Strong problem-solving, communication, and collaboration skills, with attention to data quality.
+Internship Eligibility:
+- Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship
+- Must be currently enrolled in a degree program graduating December 2027 or later
+- The internship program is 10-12 weeks depending on the two start dates (June 1st -August 20th OR June 14th-August 20th)
+- The intern must be able to commit to one of these time frames
+- Able to work full time 40 hours a week during internship dates
+- Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program
+Program Highlights:
+- Hands-on experience with real projects and responsibilities
+- Dedicated mentorship program pairing interns with experienced professionals
+- Networking opportunities with industry professionals and fellow interns
+- Internship events focused on professional and skills development
+- Exposure to multiple business areas or departments within a Pharmaceutical Organization
+Takeda Compensation and Benefits Summary:
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we
+strive to be more transparent with our pay practices.
+For Location:
+Lexington, MA
+U.S. Hourly Wage Range :
+$21.00 - $46.00
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to
+be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job
+location.
+U.S. internship benefits vary by location and may include
+- Paid sick time
+- Civic Duty paid time off
+- Participation at company volunteer events
+- Participation at company sponsored special events
+- Access to on-site fitness center (where available)
+- Commuter Benefit To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation
+(transit) or parking.
+EEO Statement:
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment
+without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability,
+citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected
+veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.
+Locations:
+Lexington, MA
+Worker Type:
+Employee
+Worker Sub-Type:
+Paid Intern (Fixed Term) (Trainee)
+Time Type:
+Full time
+Job Exempt:
+No
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability.

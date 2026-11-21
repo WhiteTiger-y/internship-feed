@@ -1,0 +1,70 @@
+Our Internship Program
+Our Internship Program Our summer internship program lasts 10-12 weeks beginning in May/June and ending in August/September. We offer a fast-paced, flexible,
+fun environment where you will have the opportunity to work on meaningful projects and face new challenges every day.
+Our Company
+At Teradata, we believe that people thrive when empowered with better information. Teradata Autonomous Knowledge Platform activates enterprise intelligence by
+unifying data, knowledge and business context to achieve tangible outcomes. With Teradata, organizations can provide agents with full context for impact when it
+matters. Our solution lets businesses connect and scale on premises, in the cloud, or through a hybrid approach. Teradata delivers real business value with AI.
+What You'll Do
+In this role, you will build the full-stack experiences that make Teradata's enterprise agent system usable, transparent, and trustworthy.
+- Build responsive, accessible web interfaces for AI agents, including streaming chat, visibility into tool calls and agent steps, and human-in-the-loop
+approval flows.
+- Prototype AI-driven (generative) UI in which the interface adapts to what the agent returns, rendering tables, charts, forms, and action cards dynamically
+from structured model output instead of fixed screens.
+- Develop backend services and APIs in Java or Go that power agentic experiences, including streaming endpoints, authentication, and integration with LLM APIs,
+tool use, and Model Context Protocol (MCP) servers.
+- Surface sources, citations, and confidence in the UI so users can verify and trust what an agent tells them.
+- Evaluate AI-powered features by defining quality measures such as groundedness, answer quality, latency, and usability, and by building automated evaluations
+alongside conventional unit and end-to-end tests.
+- Direct AI coding agents to accelerate your own development, and document which workflows work and which do not.
+- Collaborate with UX, product management, and platform engineering to turn designs and user journeys into production-quality, secure, multi-tenant experiences,
+with attention to accessibility, governance, and scalability.
+Who You'll Work With
+You will join the engineering team that builds the user experience for Teradata's cloud platform and AI agent system. You'll collaborate with front-end
+engineers, UX designers, product managers, AI architects, ML engineers, and cloud platform teams, working together to build the next generation of enterprise AI
+experiences.
+Required
+What Makes You a Qualified Candidate
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+- Strong front-end fundamentals: JavaScript or TypeScript, HTML, CSS, and a modern framework (Angular preferred; React or similar is welcome), plus a solid
+grasp of HTTP, REST, and JSON.
+- Strong back-end development skills in Java (Spring) or Go, including building REST APIs and services and working with databases, so you can deliver features
+end to end across the full stack.
+- Hands-on experience building with LLMs: prompt design, tool or function calling, and structured outputs, demonstrated through at least one project
+(coursework, internship, hackathon, or personal) that uses an AI agent or LLM-powered app.
+- Familiarity with agent system design, including agent loops, tools, memory, and Model Context Protocol (MCP) servers and tool integrations.
+- Fluency with AI-assisted ("vibe") coding and the ability to direct, supervise, and verify the output of coding agents.
+Preferred
+- Experience building AI-driven UI, such as streaming chat interfaces, rendering of tool calls and agent steps, or dynamic components generated from structured
+LLM output.
+- Experience with agent frameworks (for example LangChain or LangGraph) or multi-agent orchestration.
+- Experience with Angular Material, RxJS, SASS, and web accessibility (WCAG).
+- Familiarity with AWS or another cloud platform, containers (Docker, Kubernetes), and additional backend languages such as Python or Node. js.
+- Experience writing automated tests with frameworks such as Jest, Jasmine, Cypress, or Playwright, and familiarity with TDD, mocking, and stubbing.
+- Exposure to LLM evaluation techniques such as eval sets or LLM-as-judge, or to data and analytics platforms and SQL.
+What You'll Bring
+- User empathy: you think about who is using the product, such as an administrator, developer, or operational user, and you care about how people understand,
+trust, and control AI.
+- Product craft: you take pride in turning wireframes and user journeys into polished, performant, accessible interfaces.
+- Ownership: you turn an open-ended problem into a working prototype and a clear demo without waiting to be told the next step.
+- Healthy skepticism: you verify AI-generated code and model outputs before trusting them, you know when an agent is wrong, and you design interfaces that make
+uncertainty visible.
+- Clear communication: you explain technical decisions to both designers and engineers, partner well with cross-functional teams, and welcome feedback.
+What You'll Gain
+- Hands-on experience building agentic and AI-driven user interfaces on a production enterprise cloud platform.
+- Ownership of an end-to-end feature, from idea through prototype to a team demo.
+- Practical experience building full-stack AI features, from backend services and agent integrations to the user experience.
+- Practical skill in directing AI coding agents on a real engineering workflow.
+- Mentorship from front-end engineers, AI architects, and ML engineers.
+- Exposure to how security, governance, and multi-tenant scale shape enterprise AI products.
+Why We Think You'll Love Teradata
+We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our
+people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both
+personally and professionally. We are committed to actively working to foster an inclusive environment that celebrates people for all of who they are.
+Why We Think You’ll Love Teradata
+We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our
+people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both
+personally and professionally. We are an anti-racist company because our dedication to Diversity, Equity, and Inclusion is more than a statement. It is a deep
+commitment to doing the work to foster an equitable environment that celebrates people for all of who they are.
+Teradata invites all identities and backgrounds in the workplace. We work with deliberation and intent to ensure we are cultivating collaboration and
+inclusivity across 

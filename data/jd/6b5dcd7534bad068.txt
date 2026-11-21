@@ -1,0 +1,46 @@
+Introduction
+Launch your career like an IBMer
+Every IBMer has a story. For many, it started with an internship.
+As an IBM intern, you won't just gain experience - you'll start thinking, working, and growing like an IBMer. From day one, you'll contribute to real client
+projects across diverse industries, including analytics, AI adoption, generative AI, and agentic AI-enabled transformation, working alongside experienced IBMers
+who are invested in your success. You'll be challenged, supported, and inspired, often all in the same day. You'll develop technical expertise and consulting
+skills in a culture built on continuous learning, mentorship, and coaching. High-performing interns have a clear pathway into IBM's Associate Program, launching
+careers at one of the world's most innovative technology and consulting companies.
+To give yourself the best opportunity for success, we advise applying only to roles that align with your skills and experience, rather than applying broadly
+across all entry-level positions. You'll receive a status update email for each application, so be sure to check your IBM Careers account regularly — it's the
+best way to get a centralized view of which roles you have active applications against.
+Your Role And Responsibilities
+During your internship, you can build data science and AI skills by contributing to client projects that use statistics, machine learning, data science, GenAI,
+and agentic AI solution patterns. This role provides an opportunity to build a compelling portfolio, acquire new skills, gain insight into diverse industries,
+and contribute to client-ready analytical and AI solution components with guidance from IBM teams.
+At IBM, we prioritize continuous learning, skill development, and personal growth within a culture of coaching and mentorship. As an intern, you'll strengthen
+technical, analytical, and consulting skills while learning responsible AI practices, and you could advance to our full-time Associates program based on results
+and performance.
+Work Experiences You Could Be Exposed To
+- Mentored Analytical Support: Receive mentorship from data scientists, AI engineers, consultants, and technical mentors while applying analytical rigor,
+statistical methods, and responsible AI practices to client challenges.
+- Data Science and AI Development: Develop skills in writing efficient, reusable code to prepare data, build features, test models, and contribute to GenAI,
+RAG, or agentic AI solution components.
+- Effective Communication: Assisting explaining analytical results, model behavior, assumptions, limitations, and recommendations to both technical and non-
+technical audiences.
+- Tech-Driven Problem Solver: Use tools such as Python, SQL, notebooks, cloud platforms, APIs, data platforms, and AI-assisted coding tools to analyze data and
+help turn ideas into working analytical or AI assets.
+The primary internship program dates are May to July 2027 (10 weeks).
+Preferred Education
+Bachelor's Degree
+Required Technical And Professional Expertise
+- Currently pursuing a quantitative degree in Computer Science, Data Science, Statistics, Mathematics, Engineering, AI/ML, Cognitive Science, or a related
+field.
+- Strong interpersonal skills that enhance collaboration and relationship building, while also managing dynamic workloads in an agile environment.
+- Have initiative and passion to actively seek new knowledge and improve skills while embracing a growth mindset to assimilate diverse viewpoints.
+- Demonstrate leadership experience and ability to communicate effectively through active listening; while also be willing to adapt and have a readiness to take
+ownership of tasks and challenges.
+- Familiarity with programming and analysis tools such as Python, SQL, R, or similar.
+- Willingness to travel as needed.
+Preferred Technical And Professional Experience
+- Demonstrate familiarity or interest in statistical analysis, machine learning, data mining, GenAI, RAG, or agent-based applications through internships,
+coursework, personal or academic projects, hackathons, and/or publications.
+- Experience using machine learning, data science, or AI frameworks such as pandas, NumPy, SciPy, scikit-learn, PyTorch,
+TensorFlow,LangChain,LangGraph,LlamaIndex, MCP-based tooling, or similar tools is a plus.
+- Familiarity with AI-assisted coding and developer tools such as GitHub Copilot, Codex, Claude Code, Cursor, or similar tools for coding, testing, debugging,
+documentation, and code review.

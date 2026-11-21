@@ -1,0 +1,37 @@
+2027 Data Science - Generative AI Internship
+Location: St. Louis, MO (Hybrid) | Remote (Available for MO, IL, or IN residents)
+Commitment: Part-time (Spring 2027) | Full-time (Summer 2027)
+Intern Program Overview
+Join a mentorship-oriented environment designed to fast track your professional career. As a Data Science Intern, you will work alongside a dedicated team of
+experts to solve real-world business problems using Generative and Agentic AI. This program offers a unique blend of technical development, LLM orchestration,
+and business strategy, providing high-performing interns with the opportunity to be considered for full-time roles upon graduation.
+Key Responsibilities
+- Agent Development: Design, test, and deploy autonomous AI agents and multi-agent workflows to automate complex business processes.
+- Tech Stack Integration: Gain hands-on experience with Google Cloud Platform (GCP), BigQuery, and Gemini AI.
+- LLM Implementation: Develop systems utilizing Retrieval-Augmented Generation (RAG), custom tool calling, and prompt engineering to connect LLMs to internal
+data sources and APIs.
+- Professional Presence: Refine your communication skills through bi-weekly presentations to the Data Science department.
+- Change Management: Support the team in training and automation initiatives to drive business value.
+Eligibility & Requirements
+Education & Availability
+- Current Enrollment: Must be a Master’s or PhD student in Data Science, Data Analytics, Computer Science, Statistics, or Mathematics or a related field.
+- Academic Standing: Expected graduation date later than May 2027
+- Schedule: Available for part-time work (20 hours per week) in the Spring 2027 semester and full-time work (40 hours per week) in Summer 2027
+Technical Skills
+- Programming: Proficiency in Python and strong SQL skills. Experience with software engineering best practices and API integrations is highly preferred.
+- Methodology: Solid understanding of generative AI architectures, prompt engineering, and agentic workflows (planning, memory, and tool execution).
+- Cloud & AI: Familiarity with cloud environments (GCP preferred) and demonstrated experience building or experimenting with Large Language Model (LLM)
+applications.
+- Communication: Ability to translate complex technical findings into business insights for non-technical stakeholders.
+Soft Skills
+- High attention to detail and a self-motivated drive to learn.
+- Excellent verbal and written communication.
+- Strong organizational skills with the ability to manage multiple priorities.
+Location & Workplace Model
+- St. Louis-based Interns: This role follows a hybrid schedule. Candidates residing in the St. Louis metropolitan area should expect to work from our central
+office as their schedule allows.
+- Regional Remote: Candidates residing in MO, IL, or IN (outside of the STL metro area) are eligible for fully remote work.
+Why Join Us?
+- Direct Mentorship: You will be paired with one or more dedicated mentors for personalized guidance.
+- Collaboration: Work in a cohort-based model alongside other interns and data scientists.
+- Career Pathing: We are specifically looking for candidates interested in a long-term career in data science post-graduation.

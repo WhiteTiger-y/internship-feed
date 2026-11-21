@@ -1,0 +1,70 @@
+general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate
+goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere.
+The Team
+Our AI research team sits at the heart of our mission to unlock new dimensions of biological understanding. You will leverage state-of-the-art AI to accelerate
+discovery and drive transformative insights in biology—developing novel AI models purpose-built for biological research, engineering robust systems that enable
+breakthrough science at unprecedented scale, and translating these advances into practical tools that empower researchers worldwide.
+Our approach is comprehensive and integrated, bringing together world-class AI model development, exceptional engineering talent, high-quality biological data,
+powerful computing infrastructure, and strategic partnerships.
+The Opportunity
+This is an opportunity to shape the future of biological research by pushing the boundaries of what AI can achieve in science. As an AI Research Scientist
+Intern, you’ll work alongside leading experts in AI and biology, with the resources and mandate to tackle some of the most important questions in human
+health—advancing frontier AI research, accelerating engineering velocity, connecting rich biological data to AI systems, enabling reliable compute across
+environments, and translating models and data into usable, scalable applications that drive scientific impact for the public good.
+From day one, you'll be embedded in one of our flagship AI research efforts — working with experienced researchers and a strong engineering team on the next
+generation of biological foundation models, models with deep biological reasoning capabilities, and AI agents that can formulate hypotheses, design experiments,
+and learn from experimental biological outcomes.
+You will be paired with a dedicated mentor and given scientific ownership of your contributions, with world-class GPU infrastructure to test and scale your
+ideas. Your work will feed into our ambitious research projects that push the frontier of what is possible. We share our progress through leading journals,
+alongside open releases of data, models, and tools used by millions of researchers around the world.
+The internship runs 12 weeks or longer, with a tentative target start of June 1, 2027. Longer durations are welcome, and we’ll work with you on dates that align
+with your academic calendar.
+What You'll Do
+- Conduct research on training deep learning models in biology at the frontier of data, scale, and compute.
+- Contribute to key aspects of our frontier AI systems for biology — including data pipelines, model training, evaluations, and applications to specific
+biological research directions.
+- Implement and iterate on research ideas rapidly, writing clean, production-quality code alongside other researchers and engineers.
+- Collaborate with cross-functional partners, including wet-lab scientists, communicating research ideas, progress, and results across disciplines.
+- Contribute to team publications and open-source releases that advance the field.
+Depending on your project, you may focus on one or more of the following:
+- Training biological world models across modalities and scales.
+- Designing and building agentic systems capable of conducting autonomous biological investigations.
+What You'll Bring
+- Current enrollment in a PhD program in Machine Learning/AI, computational biology, physics, applied math, or a related quantitative field. We’re especially
+excited to hear from students 1-2 years from graduating.
+- A track record of creative, high-quality research demonstrated through publications, fellowships, grants, patents, or equivalent achievements.
+- Experience implementing deep learning models with PyTorch or equivalent frameworks.
+- Ability to work independently and collaboratively on open-ended research problems.
+- Strong communication skills across disciplines.
+- Authorization to work in the US (unable to sponsor current or future work authorization for this position)
+Nice to have:
+- Experience with large-scale model training
+- Familiarity with biological data modalities (sequences, structures, imaging, omics)
+- Experience with dataset curation, evaluation design, or ML infrastructure at scale
+You do not need a biology background — many on our AI team don't. We encourage generalist AI researchers eager to dive into biology to apply!
+Compensation
+The Redwood City, CA, and New York City, NY, base pay range for this role is $64.42-$88.32/hour. New hires are typically hired at the lower end of the range,
+enabling employee growth within it over time. Actual placement in range is based on job-related skills and experience, as evaluated throughout the interview
+process
+AI Research Internship Benefits
+- Hands-on research experience on real problems at the intersection of frontier AI and biology
+- Access to significant compute resources
+- A dedicated mentor and regular career guidance throughout the internship
+- Collaboration with leading researchers across science and AI
+- A cohort of fellow PhD-level researchers
+- Competitive hourly compensation
+Housing & Work Location
+Interns are responsible for securing and covering the cost of their housing for the duration of the internship. Biohub does not provide housing or housing
+stipends.
+This internship follows a hybrid model and requires working onsite at least 60% of each month (approximately three days per week). Specific in-office days will
+be determined by the intern manager and will be discussed during the interview process.
+What to Expect: Application Process & Timeline
+We are committed to a transparent and thoughtful hiring process. Our anticipated timeline for this cycle is outlined below:
+January 3 at 11:59 PM PST — Application Deadline
+All required materials must be submitted by this time to receive full consideration.
+December –January 2027 — Application Review and Interviews
+Applications will be reviewed by our Recruiting and Research teams. Selected candidates will be invited to interview during this period.
+February 2026 — Offers Extended
+Offers will be extended on a rolling basis, with acceptances expected to be finalized by mid February.
+Please note that dates are subject to change. Candidates will be kept informed throughout the process.
+#LI-Hybrid

@@ -1,0 +1,55 @@
+Reality Labs at Meta is building the next generation of wearable and AR/VR devices, and the platforms behind them. Our Trust team keeps the people who use these
+products safe. We work on two connected problems. One is the security of our devices and systems, across hardware, firmware, operating systems and software. The
+other is the integrity of our platforms against abuse, fraud and adversarial actors. We combine research, data and production engineering to find high-risk
+areas, build new detection and mitigation techniques, and prove they work before scaling them.We're looking for PhD researchers in security, privacy, integrity
+or related fields who want to protect people and products at scale. That could mean securing devices and systems against attacks, or detecting and stopping
+abuse and fraud on our platforms. Interns own a well-scoped project from start to finish: defining the problem, building a working prototype or system,
+measuring results, and sharing what they learned.Our internships are fourteen (14) to twenty-four (24) weeks long, with various start dates throughout the
+Spring, Summer and Fall.
+Research Scientist Intern, Security & Integrity (PhD) Responsibilities:
+- Conduct research on security or integrity challenges across Meta's products, platforms and devices.
+- Own a well-scoped research project end to end, from problem definition and baseline measurement through a working prototype, system or launched experiment
+with measurable results.
+- Design, prototype and evaluate new techniques for detecting and mitigating threats.
+- Examples include vulnerability discovery (fuzzing, program analysis, emulation, formal methods) and detecting malicious or adversarial actors (ML models,
+verification systems, data pipelines).
+- Define metrics for measuring harm or risk, and evaluate solutions for precision, coverage and impact against existing defenses.
+- Research and apply state-of-the-art techniques, including AI and agent-based tools, to scale security and integrity analysis.
+- Work with cross-functional partners (engineering, product, policy, data science, hardware, infrastructure) to turn research into practical defenses.
+- Communicate findings through design documents, technical presentations and, where appropriate, publications.
+Minimum Qualifications:
+- Research experience in security, privacy, integrity, trust and safety, adversarial machine learning, or a related area
+- Programming experience in Python, C/C++, Java or a similar language
+- Demonstrated ability to conduct independent research and deliver technical results
+- Strong analytical and problem-solving skills for tackling new adversarial challenges
+- Excellent communication skills for collaborating across interdisciplinary teams
+- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Intent to return to a degree program after the internship
+- Proven track record of interdisciplinary research collaboration and delivering research prototypes
+- Experience with one or more of the following:
+- Systems or hardware security: low-level and embedded systems, ARM architecture, Linux, trusted execution environments (e.g., ARM TrustZone, Intel SGX, AMD
+SEV), secure boot, or emulation (e.g., QEMU)
+- Building or extending security testing tools such as fuzzers, static or dynamic analysis, or binary analysis frameworks
+- Abuse, fraud or adversarial-actor detection, including building ML models and dataset pipelines and handling issues such as data leakage
+- Large-scale data analysis with SQL, and designing or analyzing A/B experiments
+- Demonstrated ability to integrate AI tools into research or engineering workflows to drive measurable impact
+- Track record of significant results, as shown by grants, fellowships, patents, or first-authored publications at leading conferences or workshops
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

@@ -1,0 +1,61 @@
+AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their
+fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.
+About Gusto
+At Gusto, we’re on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on
+their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a
+workplace that reflects the people we serve.
+AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their
+fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.
+About the Role:
+As an Economics Research Intern on the Gusto Insights team, you’ll help us turn Gusto’s platform data into research on the small business economy, including
+hiring, pay, entrepreneurship, and the future of work. Insights publishes widely cited public research, including the monthly Small Business Jobs Report. The
+ideal candidate is a technically strong, curious economist who can turn messy data into a clear story and is passionate about helping small businesses thrive.
+You’ll own at least one well-scoped, high-visibility project from our research roadmap and data-infrastructure backlog, taking it from raw data through analysis
+to a shipped deliverable. You’ll work with mentorship from an established team and partner with colleagues across Communications, Marketing, and Data. You’ll
+also use AI-assisted practices to accelerate your analysis and extend the reach of our research. The internship runs ~10–12 weeks in summer 2027.
+This is a San Francisco-based role with expectations to be in office 2 days per week.
+Here’s what you’ll do day-to-day:
+- Own a Project End-to-End : Take a self-contained project from raw data through analysis to a finished, public-ready deliverable.
+- Analytical Depth: Analyze large-scale, messy administrative data using Python and SQL. Apply econometric methods, including causal inference and regression
+modeling, to separate signal from noise and make defensible claims.
+- Build and Leverage AI: Use Claude Code and other agentic tools in your daily workflow for exploration, code, and drafting. Verify their output with a critical
+eye.
+- Communication: Turn analysis into clear charts and a crisp narrative for non-technical audiences. Our output is public-facing.
+- Collaboration: Work with cross-functional partners to scope your project, get feedback, and deliver insights that matter.
+- Economic Measurement : Sharpen the indicators we publish every month. You might build more detailed cuts of the Small Business Jobs Report by industry,
+region, and company size, test whether Gusto data can predict BLS revisions, or define and validate a new economic metric from scratch.
+- Data Infrastructure: Strengthen the foundation our research runs on. Turn one-off scripts into reproducible, documented pipelines, help move core workflows to
+modern tools like dbt, and bring new datasets into our research environment so the team can answer questions it can’t today.
+- Data Products & AI Interfaces: Build tools that put our research in more people’s hands. This could mean expanding our public economic data page, creating
+interactive visualizations, or extending the AI agents and research assistants that let reporters, partners, and colleagues explore Gusto’s data and findings on
+their own.
+- Present: Share your findings with the Insights team and partners at the end of the internship.
+Here’s what we’re looking for:
+- Currently enrolled in a four year degree or master’s program with an expected graduation date of December 2027 or May 2028. Economics or applied economics is
+the most likely fit, but public policy/economics, computational social science, and statistics or data science programs with strong economics training also
+qualify.
+- Strong Python skills and experience with SQL. You write clean, reproducible code.
+- A foundation in applied economics and econometrics, including causal inference (diff-in-diff, matching, event studies), and a clear sense of the difference
+between correlation and a defensible causal claim.
+- Demonstrated fluency with LLMs and agentic coding tools (Claude Code, Cursor, or similar), and good judgment about when to verify their output.
+- Genuine interest in the small business economy, labor markets, and entrepreneurship.
+- Excellent written and visual communication skills.
+- A proactive, resilient problem-solver who can independently structure ambiguous problems into actionable insights.
+- Nice to have: version control experience and a willingness to build small tools or pipelines.
+- Candidates must be authorized to work in the United States.
+Our cash compensation for this role is targeted at $66.11/hr for San Francisco. Final offer amounts are determined by multiple factors including candidate
+experience and expertise and may vary from the amounts listed above.
+At Gusto, we don't use titles the traditional way, as a signal of rank or hierarchy. Instead, our titles describe two things at once — your craft (what you do,
+e.g. Engineering, Design) and your scope of ownership (what you're accountable for) — which is why you'll see something like "Head of X" instead of a rank word
+like "Director" that tells you neither. Because of this, the title on this posting may look different from what you'd expect based on the scope and seniority of
+the role, and from how similar roles are typically titled elsewhere. If you have questions about how this role compares to your current title or level, your
+recruiter can help translate.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the
+office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto's
+subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office
+days for hybrid employees.
+Reliable, consistent presence: We expect regular and predictable attendance, whether you're working in-office, hybrid, or fully remote, so that you stay closely
+connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve.
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's t

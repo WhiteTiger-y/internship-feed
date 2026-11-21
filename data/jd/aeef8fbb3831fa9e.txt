@@ -1,0 +1,54 @@
+Job Description
+DATA SCIENCE INTERN
+Schedule – 34.5 hours a week, Monday – Friday // May 24 – July 30, 2027
+Location: Raleigh, NC
+Application Deadline: Sunday, December 6, 2026 at 11:59PM EST
+Advance Auto Parts is more than just an auto parts store — we’re a recognized leader in the automotive aftermarket industry. As part of our commitment to
+innovation and growth, we’re excited to welcome a new cohort of interns to join our team.
+This 10-week paid internship offers students the opportunity to gain hands-on experience across various areas of our business. The program begins with a
+comprehensive orientation week, where interns will learn about our company’s history, values, and culture, while connecting with team members across the
+organization. Each intern will be paired with a dedicated mentor to provide guidance and support throughout the program.
+Interns will then transition into their assigned functional teams, where they’ll actively contribute to meaningful projects aligned with key business
+initiatives. This is not a job shadowing experience — it’s a chance to make a real impact, collaborate with professionals, and immerse yourself in our dynamic
+workplace.
+The program fosters a fun, team-oriented environment, encouraging strong peer relationships and professional development. At the conclusion of the internship,
+participants will present their project outcomes and proposed solutions to senior leaders, offering valuable exposure to executive-level decision-making.
+Advance Auto Parts is proud to champion diversity and community engagement. But don’t just take our word for it — apply today and experience it for yourself.
+Summary
+The Data Science & AI/ML Intern joins our Data Science team to tackle real business challenges using machine learning, optimization, and Generative AI, with
+some exposure to MLOps.
+This hands-on role lets you work alongside Data Scientists and cross-functional business and technology teams. You will own project deliverables and present
+your work and recommendations to leadership.
+General Responsibilities
+- Analyze large datasets to identify insights and business opportunities.
+- Develop analytical and machine learning solutions using Python and SQL.
+- Support machine learning, forecasting, optimization, and Generative AI/LLM use cases.
+- Build, test, and enhance ML/MLOps pipelines and prototypes.
+- Gain exposure to cloud technologies including GCP, BigQuery, and Vertex AI.
+- Work under the mentorship of Data Scientist and partner with Data Engineering, Product, Supply Chain, Merchandising, Operations, and other business teams.
+- Present project outcomes and recommendations to D&A and business leaders.
+Qualifications
+- Currently pursuing a bachelor's or master's degree in Data Science, Computer Science, Statistics, Operations Research, Applied Mathematics, Industrial
+Engineering, or a related quantitative field.
+- Rising or Current Senior or master’s student at the time of application (Expected Graduation between December 2027 – May 2028).
+- Strong foundation in Python, SQL, statistics, and machine learning.
+- Familiarity with Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, or similar packages.
+- Exposure to Generative AI/LLMs, MLOps, optimization, GCP, or other cloud platforms is a plus.
+- Strong analytical, problem-solving, communication, and presentation skills.
+- Ability to navigate ambiguity, learn quickly, and collaborate across technical and business teams.
+What You'll Gain
+- Hands-on experience solving real business problems with Data Science and AI.
+- Exposure to modern AI/ML, Generative AI, MLOps, and cloud technologies.
+- Mentorship from experienced Data Scientists and Data Science leadership.
+- Cross-functional experience working with technology and business teams.
+- Opportunity to present your work to leadership.
+- Potential consideration for future full-time opportunities based on performance and business needs.
+This position is located in Raleigh, NC. The program dates are May 24, 2027 – July 30, 2027.
+Application Deadline: Sunday, December 6, 2026 at 11:59PM EST
+Applicants must be legally authorized to work in the United States for ANY employer. This position is ineligible for employment visa sponsorship. This includes
+initial or change of employer filings of any kind, including but not limited to H-1B, TN, or E-3.
+We comply with all applicable federal, state, and local laws.
+California Residents Click Below For Privacy Notice
+https://jobs.advanceautoparts.com/us/en/disclosures
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age national origin,
+religion, sexual orientation, gender identity, status as a veteran and basis of disability or any other federal, state or local protected class.

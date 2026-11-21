@@ -1,0 +1,68 @@
+Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a
+Cisco representative may contact you directly if a relevant position opens.
+Applications are accepted until further notice.
+Meet the team
+Cisco’s AI Defense and Security Intelligence teams design next-generation security safeguards, automated threat intelligence pipelines, and resilient machine
+learning architectures that protect global enterprise data. Our work sits at the center of Cisco’s mission, securing the intelligent connectivity, generative AI
+services, and distributed cloud networks that power the world's most critical organizations. We are a collaborative, forward-thinking community of machine
+learning practitioners, threat researchers, and security engineers who value continuous learning, psychological safety, and active mentorship. What makes our
+team exciting is the unique opportunity to experiment with state-of-the-art AI systems, defend against emerging adversarial machine learning threats, and turn
+cutting-edge security research into real-world platform defenses.
+Your impact
+Role
+As an AI Cybersecurity Engineer Intern, you will collaborate with experienced security researchers and data scientists to develop automated threat detection
+models, analyze adversarial AI risks, and enhance enterprise security tooling. In this role, you will:
+- Build and refine machine learning pipelines using Python and modern data frameworks to automate the classification of high-volume telemetry, suspicious
+network behavior, and vulnerability signals.
+- Investigate emerging AI-specific security risks—such as prompt injection, data poisoning, and model evasion techniques—to help design proactive defensive
+safeguards across our cloud platforms.
+- Evaluate detection metrics and model performance alongside engineering mentors to improve classification accuracy, reduce false positive alerts, and
+accelerate security response workflows.
+- Deliver an impactful capstone project applying machine learning algorithms to real-world cybersecurity telemetry to showcase your innovations to Security &
+Trust Organization (STO) leadership.
+Minimum Qualifications
+- Currently enrolled in an undergraduate degree program (Associate's or Bachelor's).
+- Qualifying education should be in Cybersecurity, Computer Science, Computer Engineering, Artificial Intelligence, Data Science, Information Technology, or a
+related field.
+- Expected to continue enrollment in degree program following completion of the internship.
+- Foundational academic coursework or project experience in Python programming for data analysis, scripting, or algorithm development.
+Preferred Qualifications
+- Academic coursework, laboratory experiments, or student research in machine learning frameworks (such as PyTorch, TensorFlow, Scikit-learn, or Pandas).
+- Foundational knowledge of core cybersecurity concepts, such as network protocols, vulnerability management, threat intelligence, or MITRE ATT&CK frameworks.
+- Hands-on exposure to cloud environments (such as Amazon Web Services, Microsoft Azure, or Google Cloud Platform) or containerization tools like Docker.
+- Participation in collegiate cybersecurity competitions (CTFs), Kaggle data challenges, open-source AI projects, or campus security clubs.
+- Strong analytical curiosity, collaborative communication skills, and an enthusiasm for exploring the intersection of artificial intelligence and defensive
+security operations.
+Why Cisco?
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for
+40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with
+unparalleled security, visibility, and insights across the entire digital footprint.
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and
+you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global
+scale. Because our solutions are everywhere, our impact is everywhere.
+We are Cisco, and our power starts with you.
+Message to applicants applying to work in the U.S. and/or Canada:
+Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications,
+and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about
+compensation for the role in your location during the hiring process.
+U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco
+matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover
+more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for
+defined periods of time.
+U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:
+- 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees
+- 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco
+- Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees
+- Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use
+(subject to availability and some business limitations)
+- 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year
+to the next
+- Additional paid time away may be requested to deal with critical or emergency issues for family members
+- Optional 10 paid days per full calendar year to volunteer
+For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.
+Employees On Sales Plans Earn Performance-based Incentive Pay On Top Of Their Base Salary, Which Is Split Between Quota And Non-quota Components, Subject To The
+Applicable Cisco Plan. For Quota-based Incentive Pay, Cisco Typically Pays As Follows
+- .75% of incentive target for each 1% of revenue attainment up to 50% of quota;
+- 1.5% of incentive target for each 1% of attainment between 50% and 75%;
+- 1% of incentive target for each 1% of attainment between 75% and 100%; and
+- Once performance exceeds 100% attainment, incentive rates

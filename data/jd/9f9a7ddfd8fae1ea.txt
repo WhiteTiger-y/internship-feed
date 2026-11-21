@@ -1,0 +1,58 @@
+Our Internship Program
+Our Internship Program Our summer internship program lasts 10-12 weeks beginning in May/June and ending in August/September. We offer a fast-paced, flexible,
+fun environment where you will have the opportunity to work on meaningful projects and face new challenges every day.
+Our Company
+At Teradata, we believe that people thrive when empowered with better information. Teradata Autonomous Knowledge Platform activates enterprise intelligence by
+unifying data, knowledge and business context to achieve tangible outcomes. With Teradata, organizations can provide agents with full context for impact when it
+matters. Our solution lets businesses connect and scale on premises, in the cloud, or through a hybrid approach. Teradata delivers real business value with AI.
+What You'll Do
+In this role, you will build and evaluate self-improving AI agents that make Teradata's enterprise agent system more capable, adaptive, and reliable over time.
+- Prototype continual learning methods that let agents and models acquire new knowledge and skills from ongoing data and interaction without catastrophic
+forgetting.
+- Build self-learning and recursive self-improvement (RSI) loops in which an agent critiques, revises, and verifies its own prompts, tools, code, or policies.
+- Design and run reinforcement learning experiments, such as RL with verifiable or learned rewards and policy optimization for LLM agents.
+- Develop evaluation harnesses that measure real improvement, robustness, and safety, so each result is reproducible and comparable against baselines.
+- Direct AI coding and research agents to accelerate your own experimentation, and document which workflows work and which do not.
+- Integrate successful prototypes with Teradata's agent system and platform alongside ML engineers and architects, with attention to governance, compliance, and
+scalability.
+Who You'll Work With
+You will join the AI engineering team that builds Teradata's agent system and AI capabilities and turns research into product features. You'll collaborate with
+a world-class team of AI architects, ML engineers, and domain experts in Silicon Valley, working together to build the next generation of enterprise AI systems.
+Required
+What Makes You a Qualified Candidate
+- Currently pursuing a Master's or PhD in Computer Science, Machine Learning, Electrical Engineering, or a related field.
+- Experience with LLM post-training (SFT, DPO, GRPO or similar), reward modeling, or LLM-as-judge evaluation.
+- Working knowledge of modern agent system design, including agent harnesses, skills, and Model Context Protocol (MCP) servers and tool integrations.
+- Demonstrated ability to read academic papers and implement their ideas, with reproducible experiments and clear write-ups.
+- Fluency with AI-assisted ("vibe") coding and the ability to direct, supervise, and verify the output of multiple coding agents.
+Preferred
+- Hands-on reinforcement learning experience (research, coursework with substantial projects, or publications), including familiarity with policy-gradient or
+RLHF-style methods.
+- Prior work or publications in continual or lifelong learning, meta-learning, self-play, or self-improving or agentic systems.
+- Experience building agent frameworks (tool use, memory, planning, multi-agent orchestration) and agent evaluation benchmarks.
+What You'll Bring
+- Experimental rigor: you run ablations and baselines, apply statistical care, and report negative results honestly.
+- Research-to-product mindset: you are curious about enterprise-scale data problems and want your research to become practical systems.
+- Ownership: you turn an open-ended research question into hypotheses, experiments, and a clear result without waiting to be told the next step.
+- Healthy skepticism: you verify AI-generated code and results before trusting them, and you know when an agent is wrong.
+- Clear communication: you explain technical results to both researchers and engineers, and welcome feedback.
+What You'll Gain
+- Hands-on experience building and evaluating self-improving agents on a production enterprise agent system.
+- Ownership of an end-to-end research project, from idea through prototype to a team readout.
+- Practical skill in directing multiple AI coding agents on a real research workflow.
+- Mentorship from AI architects and ML engineers.
+- Exposure to how governance, compliance, and scalability shape enterprise AI systems.
+Why We Think You'll Love Teradata
+We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our
+people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both
+personally and professionally. We are committed to actively working to foster an inclusive environment that celebrates people for all of who they are.
+Why We Think You’ll Love Teradata
+We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our
+people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both
+personally and professionally. We are an anti-racist company because our dedication to Diversity, Equity, and Inclusion is more than a statement. It is a deep
+commitment to doing the work to foster an equitable environment that celebrates people for all of who they are.
+Teradata invites all identities and backgrounds in the workplace. We work with deliberation and intent to ensure we are cultivating collaboration and
+inclusivity across our global organization. We are proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race,
+color, ancestry, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related conditions), national origin, sexual orientation, age,
+citizenship, marital status, disability, medical condition, genetic information, gender identity or expression, military and veteran status, or any other
+legally protected status.

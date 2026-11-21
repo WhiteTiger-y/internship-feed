@@ -1,0 +1,46 @@
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by
+great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts
+as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the
+world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, supportive environment where everyone is inspired to do their best work. Come join the
+team and see how you can make a lasting impact on the world.
+As a Finance AI Engineering Intern, you will join a team at the intersection of financial strategy and cutting-edge technology. NVIDIA's Finance organization is
+more than just a support function; it is a critical engine that leverages data-driven insights to fuel our global innovation. In this role, you will help bridge
+the gap between complex technical solutions and business strategy, utilizing the power of AI and advanced analytics to design and build the applications and
+models that transform how we understand and predict the future of our business. If you are a curious problem-solver with a passion for data science, software
+engineering, finance, and AI, this is your opportunity to drive real-world impact in a dynamic, high-growth environment.
+What You'll Be Doing
+- You will partner with Finance, technical team members, and business leaders to improve the decision insight capabilities of Finance's agentic models and to
+help design, build, and maintain the AI-powered applications, agents, and automation that Finance depends on. Your responsibilities may include Advanced
+Analytics, Machine Learning, Deep Learning, prototyping, feature development, testing, evaluation, DevOps, and/or agentic AI development.
+- Collaborate with finance analysts and managers to understand the business questions behind the data, and work with data engineers, software engineers, and
+data scientists to build, evaluate, and deploy the skills, agents, models, and applications that drive meaningful business results.
+- Translate technical solutions and results into business language, communicating with technical and nontechnical stakeholders so they understand how the
+solutions work and validate what we build meets business needs.
+What We Need To See
+- Currently pursuing a Bachelor's or Master's degree in computer science, software engineering, data science, engineering, or a related technical field.
+Additional finance and accounting coursework are a plus.
+- Strong engineering fundamentals, including strong proficiency in Python and SQL, familiarity with version control (Git), and the ability to write clean,
+testable code.
+- Understanding of machine learning and deep learning concepts (e.g., model training, evaluation, and neural network basics), or experience building
+applications or tools through coursework, internships, or personal projects.
+- Familiarity with LLMs, harnesses, skill development, and agentic tooling.
+- Interest in supporting the Finance organization and curiosity about how AI can help with business decisions and help finance teams work faster.
+- Excellent communication and interpersonal skills, with a desire to build successful partnerships across all levels of the company.
+Ways To Stand Out From The Crowd
+- Experience applying machine learning and/or deep learning to business problems[, including class or personal projects].
+- Experience in finance, accounting, or business operations.
+- Exposure to DevOps and CI/CD practices, such as automated testing, build pipelines, or containerization (e.g., GitHub Actions, Jenkins, Docker).
+- Basic understanding of statistics, such as probability, regression, or forecasting, from coursework or projects.
+- Strong organizational skills, including attention to detail, ownership, and a focus on accuracy. Ability to plan and prioritize work effectively.
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package.
+As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 20 USD – 71 USD.
+You will also be eligible for Intern benefits.
+Applications for this job will be accepted at least until November 23, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+, , JR2029131

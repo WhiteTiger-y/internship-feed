@@ -1,0 +1,68 @@
+Please Note: Interviews for this role will be conducted exclusively on December 9 and 10, 2026. We will not be able to accommodate alternative interview dates.
+Candidates must be available on one of these dates to be considered for this opportunity.
+At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in
+more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this
+together, sustaining the future of our customers, our company, and our planet.
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+These internship opportunities span multiple teams across eBay, including:
+- Customer Analytics & Growth, where you may analyze customer behavior and identify opportunities to improve engagement, retention, and growth
+- Discovery & Personalization, where you may use data science and machine learning to uncover insights and improve product experiences
+- eBay CortexAI, where you may explore Generative AI and large language models to build intelligent analytics tools and solutions
+- eBay Services, where you may analyze marketplace data to identify opportunities for product and business improvements
+- Focused Categories Data Science & Analytics, where you may uncover customer trends and growth opportunities across marketplace categories
+- Shipping Data Science & Analytics, where you may analyze large datasets, develop predictive models, and leverage AI-powered analytics to uncover insights that
+inform product and business decisions.
+Candidates may be considered for opportunities across these teams based on their skills, interests, and business needs.
+Please note that while the summer internship is located in San Jose, CA, full-time return offers following graduation may be located in Austin, TX.
+About the Role
+We're looking for curious, analytical, and innovative Data Science & Analytics Interns to join us for Summer 2027.
+As an intern, you'll have the opportunity to work on meaningful, real-world challenges that directly impact eBay's business and the experiences of millions of
+buyers and sellers. You'll take ownership of projects, turn complex data into actionable insights, and contribute ideas that help shape business and product
+decisions.
+You'll collaborate with experienced Data Scientists, Analysts, Engineers, Product Managers, and business leaders, gaining hands-on experience, mentorship, and
+exposure to how data informs decisions at scale.
+This is an opportunity to grow your technical and problem-solving skills, explore new approaches and technologies, and make a measurable impact while learning
+from teams across eBay.
+What You Will Accomplish
+- Uncover meaningful trends in large-scale customer, transactional, and product data, translating analysis into actionable recommendations that improve
+marketplace experiences and business decisions.
+- Apply statistical methods, predictive modeling, machine learning, and customer segmentation to understand behavior, investigate performance drivers, and
+identify opportunities for growth.
+- Help improve customer engagement, retention, discovery, and personalization by evaluating customer journeys and recommending data-informed product and
+marketplace improvements.
+- Partner with Product, Engineering, Data Science, and business teams to define success metrics, support experiments and A/B tests, and assess the impact of
+product changes and business initiatives.
+- Explore Generative AI and large language models to make analytics workflows more effective, including natural-language-to-SQL and AI-assisted analysis, while
+assessing output accuracy and reliability.
+- Build clear dashboards, visualizations, and data stories; share findings with technical and nontechnical partners, and grow your skills through hands-on work
+and collaboration with experienced teammates.
+What You Will Bring
+Basic Qualifications
+- Currently enrolled full time in a 4-year accredited U.S. Master's program in Data Science, Analytics, Computer Science, Statistics, Mathematics, or a related
+quantitative field, with an expected graduation date between December 2027 and Summer 2028.
+- No more than 3 years of relevant professional experience, excluding internships, co-ops, fellowships, and similar student experiences.
+- Proficiency in SQL and Python to analyze, manipulate, and draw insights from data.
+- A strong foundation in statistics, analytical methods, and data science, with experience using datasets to identify patterns, test hypotheses, and solve
+problems through coursework, research, projects, or work.
+- Familiarity with at least one NoSQL or big data tool, such as Hadoop, Hive, Spark, Pig, or H2O.
+- Familiarity with Generative AI, LLMs, or AI-assisted analytics tools, combined with analytical problem-solving and the ability to communicate findings and
+collaborate with diverse partners.
+Preferred Qualifications
+- Experience with machine learning, predictive modeling, or customer segmentation.
+- Exposure to AI concepts such as prompt engineering, retrieval-augmented generation (RAG), AI agents, or natural-language-to-SQL.
+- Experience using Tableau or similar tools to visualize data and communicate insights.
+- Familiarity with distributed data processing technologies such as Spark, Hadoop, or Hive.
+- Experience with experimentation, A/B testing, or statistical hypothesis testing.
+- Interest in product analytics, customer behavior, e-commerce, personalization, or marketplace dynamics; exposure to R or Java is a plus.
+What Makes You Successful
+- You're naturally curious and enjoy understanding not just what the data shows, but why it matters.
+- You combine strong analytical thinking with a willingness to experiment, learn new technologies, and challenge assumptions.
+- You're comfortable working through ambiguity, collaborating with others, and connecting technical insights to meaningful business outcomes.
+- Most importantly, you're excited to use data, analytics, and emerging AI technologies to solve real-world problems and make an impact at scale.
+If hired, employees will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or
+compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market
+factors.
+Please see the Talent Privacy Notice for information regarding how eBay handles your personal data collected when you use the eBay Careers website or apply for
+a job with eBay.
+eBay is an equal opportunity employer. All qualified applicants will receive consideration f

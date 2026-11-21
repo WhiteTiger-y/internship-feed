@@ -1,0 +1,69 @@
+Job Description
+The intern will develop an AI-enabled competitive intelligence capability that collects, organizes, summarizes, and analyzes publicly available information
+about cruise competitors and relevant travel-market trends. The intern will research competitor pricing, promotional activity, deployments, itineraries, product
+changes, and market developments, then combine those findings with suitable analytical models to identify potential opportunities and risks for revenue
+management.
+Day to day, the intern will conduct AI-assisted research, evaluate source quality, prepare structured datasets, prototype repeatable research and summarization
+workflows, build analytical models, create dashboards, and produce concise executive briefings. The intern will collaborate with Michael Mahoney, Fredrick
+Gardner, Revenue Science, Data Engineering & MLOps, Revenue Management, Pricing, Deployment, and other commercial stakeholders to refine requirements and
+validate outputs.
+By the end of the internship, the student will deliver a working proof of concept, documented competitor-intelligence dataset and workflow, analytical findings,
+executive-ready summaries, and recommendations for future production development.
+Essential Functions:
+- Use AI-enabled research and supporting tools to monitor publicly available competitor pricing, promotions, deployments, itineraries, product changes, and
+industry trends.
+- Assess the relevance, reliability, and completeness of external sources, documenting citations, assumptions, and known limitations.
+- Collect, clean, categorize, and structure competitor and market data for analysis.
+- Develop repeatable workflows that automate research, classification, summarization, and reporting where appropriate.
+- Build statistical, machine learning, or comparative analytical models to evaluate competitive actions and potential revenue management implications.
+- Create dashboards, visualizations, and executive summaries that translate complex findings into clear commercial insights.
+- Collaborate with Revenue Science, Data Engineering & MLOps, Revenue Management, Pricing, Deployment, and commercial stakeholders to define and refine
+requirements.
+- Test model and summary outputs for accuracy, consistency, usefulness, and reproducibility.
+- Present project updates, findings, risks, and recommendations to technical and business leadership.
+- Document methods and identify opportunities to scale successful prototypes into sustainable production capabilities.
+Qualifications:
+- Current undergraduate or graduate student pursuing a quantitative, computing, analytical, economics, or business-related degree.
+Preferred Qualifications:
+- Experience using generative AI, large language models, copilots, research agents, or information-retrieval tools.
+- Coursework or project experience in machine learning, natural language processing, statistics, forecasting, optimization, or econometrics.
+- Experience collecting or integrating data from public websites, APIs, research databases, or other external sources.
+- Experience with Power BI, Tableau, Streamlit, or another visualization and reporting platform.
+- Familiarity with Git, cloud analytics platforms, workflow orchestration, or MLOps concepts.
+- Interest in revenue management, pricing, travel, hospitality, cruise operations, or competitive strategy.
+Knowledge, Skills, and Abilities:
+- Working knowledge of Python, SQL, R, or another analytical programming language.
+- Strong research, analytical, and quantitative problem-solving skills.
+- Ability to evaluate sources critically and distinguish evidence from assumptions or generated content.
+- Strong written and verbal communication skills, including the ability to summarize technical findings for non-technical audiences.
+- Ability to work independently, manage priorities, document work, and collaborate across teams.
+- Strong attention to detail and commitment to accurate, reproducible analysis.
+Summer 2027 Internship Program
+Are you ready to set sail on an exceptional career journey? Carnival Corporation’s North America Internship Program offers students the opportunity to
+contribute to meaningful work, build professional skills, and gain firsthand exposure to the cruise and travel industry.
+Each intern is hired into and works directly with one brand, department, and team while participating in a shared, location-based internship experience with
+interns from across Carnival Corporation’s North America brands.
+Program Details
+- Program Length: 10 weeks
+- Schedule: Full-time, 40 hours per week
+- Work Arrangement: In-office
+- Compensation: Competitive hourly wage provided
+- East Coast Cohort: June 1–August 5, 2027, based in Doral or Fort Lauderdale, Florida
+- West Coast Cohort: June 14–August 20, 2027, based in Seattle, Washington
+Candidates must be available for the full dates of the cohort associated with their internship location. Limited time away may be accommodated, but candidates
+should not anticipate missing more than two to three workdays. Any extended vacation or significant scheduling conflict should be discussed during the
+recruitment process.
+Your Internship Experience
+- Meaningful Work: Contribute to real projects and business priorities while gaining exposure to the day-to-day work of the assigned team.
+- Professional Development: Participate in structured learning opportunities designed to strengthen workplace, career, and leadership skills.
+- Mentorship and Support: Receive guidance, feedback, and support from leaders and professionals throughout the experience.
+- Networking: Build relationships with fellow interns, employees, and leaders across participating brands and functions.
+- Cohort Experience: Participate in location-based programming and activities with interns from across Carnival Corporation.
+- Project Showcase: Present internship work, outcomes, and key learnings as part of a location-based showcase at the conclusion of the program.
+The internship program is designed to develop future talent and provide students with meaningful exposure to the organization. Strong performance may lead to
+consideration for future full-time, rotational, or other Emerging Talent opportunities based on business needs and available positions; however, participation
+does not guarantee future employment.
+This is a hybrid position, based in our Seattle office. Candidates must be comfortable coming into the office 4 days/week (currently Monday - Thursday)
+Base Hourly Range: $25 to $30. The range is applicable for the labor market where the role is intended to be hired. Final base salary is directly related to
+each candidates' qualifications and experience uniquely.
+#HAL

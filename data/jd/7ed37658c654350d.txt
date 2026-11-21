@@ -1,0 +1,53 @@
+Are you a Software Engineering or Computer Science student interested in building with AI and applying it to real engineering problems?
+Tektronix is seeking a 12-week Software Engineering Intern to help explore and develop AI-enabled tools for engineering applications. You’ll work directly with
+experienced engineers, learn emerging AI technologies, and build prototypes that explore new ways to solve engineering problems, find and use technical
+knowledge, and improve engineering workflows.
+What You’ll Do
+- * Develop and experiment with AI-enabled software prototypes for real engineering applications.
+- * Work with technologies such as Python, AI models, APIs, and modern software development tools.
+- * Explore areas such as AI agents, information retrieval, engineering knowledge systems, and workflow automation.
+- * Test ideas, evaluate results, and learn where AI provides value and where it doesn’t.
+- * Collaborate with engineers to understand problems and turn promising ideas into working prototypes.
+- * Document your work and demonstrate your results to the engineering team.
+Requirements
+- * Pursuing a Bachelor’s degree in Computer Science, Software Engineering, Computer Engineering, or a related field.
+- * Junior-level standing preferred.
+- * Programming experience through coursework, projects, internships, or personal development.
+- * Strong curiosity, analytical thinking, and problem-solving skills.
+- * Interest in artificial intelligence and enthusiasm for learning new technologies.
+- * Ability to communicate clearly and work collaboratively with others.
+- * Prior experience with AI technologies is helpful, but not required.
+Ralliant Corporation Overview
+Ralliant, originally part of Fortive, now stands as a bold, independent public company driving innovation at the forefront of precision technology. With a
+global footprint and a legacy of excellence, we empower engineers to bring next-generation breakthroughs to life — faster, smarter, and more reliably. Our high-
+performance instruments, sensors, and subsystems fuel mission-critical advancements across industries, enabling real-world impact where it matters most. At
+Ralliant we're building the future, together with those driven to push boundaries, solve complex problems, and leave a lasting mark on the world.
+About Tektronix
+Tektronix, a wholly owned subsidiary of Ralliant Corporation, is a place where people are challenged to explore the boundaries of what’s possible, bringing the
+digital future one step closer every day. Through precision-engineered measurement solutions, we work with our customers to eliminate the barriers between
+inspiration and realization of world-changing technologies. We believe that cultivating a deeper sense of loyalty and belonging is key to how we attract and
+retain our best people. This reality inspires our Inclusion & Diversity vision, We Are More Together, and guides our approach as we all work toward creating
+great places where our teams work and thrive. Realize your true potential at Tektronix – join us in revolutionizing a better tomorrow!
+We Are an Equal Opportunity Employer. Ralliant Corporation and all Ralliant Companies are proud to be equal opportunity employers. We value and encourage
+diversity and solicit applications from all qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability,
+veteran status, sexual orientation, gender identity or expression, or other characteristics protected by law. Ralliant and all Ralliant Companies are also
+committed to providing reasonable accommodations for applicants with disabilities. Individuals who need a reasonable accommodation because of a disability for
+any part of the employment application process, please contact us at applyassistance@Ralliant.com.
+Pay Range
+The salary range for this position (in local currency) is $25-$35 per hour.
+Is this role subject to ITAR?
+The essential duties of this position require adherence to U.S. Government export control regulations. Accordingly, candidates must either be U.S. Persons
+(i.e., U.S. citizens, U.S. lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3)) or be prepared to collaborate with the
+company in securing the necessary U.S. government export authorizations. While the company encourages all interested applicants to apply, please be aware that
+ongoing employment is dependent upon obtaining the appropriate government export authorizations.
+Tektronix, a wholly owned subsidiary of Ralliant Corporation, is a place where people are challenged to explore the boundaries of what’s possible, bringing the
+digital future one step closer every day. Through precision-engineered measurement solutions, we work with our customers to eliminate the barriers between
+inspiration and realization of world-changing technologies. We believe that cultivating a deeper sense of loyalty and belonging is key to how we attract and
+retain our best people. This reality inspires our Inclusion & Diversity vision, We Are More Together, and guides our approach as we all work toward creating
+great places where our teams work and thrive. Realize your true potential at Tektronix – join us in revolutionizing a better tomorrow!
+We Are an Equal Opportunity Employer. Ralliant Corporation and all Ralliant Companies are proud to be equal opportunity employers. We value and encourage
+diversity and solicit applications from all qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability,
+veteran status, sexual orientation, gender identity or expression, or other characteristics protected by law. Ralliant and all Ralliant Companies are also
+committed to providing reasonable accommodations for applicants with disabilities. Individuals who need a reasonable accommodation because of a disability for
+any part of the employment application process, please contact us at applyassistance@Ralliant.com.
+The salary range for this position (in local currency) is $25-$35 per hour.

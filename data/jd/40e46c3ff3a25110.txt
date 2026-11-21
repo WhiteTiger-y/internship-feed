@@ -1,0 +1,43 @@
+Our Internship Program
+Our Internship Program Our summer internship program lasts 10-12 weeks beginning in May/June and ending in August/September. We offer a fast-paced, flexible,
+fun environment where you will have the opportunity to work on meaningful projects and face new challenges every day.
+Our Company
+At Teradata, we believe that people thrive when empowered with better information. Teradata Autonomous Knowledge Platform activates enterprise intelligence by
+unifying data, knowledge and business context to achieve tangible outcomes. With Teradata, organizations can provide agents with full context for impact when it
+matters. Our solution lets businesses connect and scale on premises, in the cloud, or through a hybrid approach. Teradata delivers real business value with AI.
+What You'll Do
+Are you a curious, motivated individual passionate about the next frontier of AI? Do you envision building intelligent systems that can reason, learn, and act
+autonomously? Join us as an Agentic AI Intern and help shape the future of enterprise intelligence.
+- Build Agentic Systems: Contribute to the design, implementation, and testing of components for robust AI agents and multi-agent orchestration.
+- Leverage Vector Stores: Work with Teradata’s Enterprise Vector Store to develop intelligent retrieval-augmented generation (RAG) pipelines.
+- Integrate LLMs: Explore how Large Language Models (LLMs) and generative AI models enable autonomous agent behavior.
+- Work with Real-World Data: Gain experience processing large-scale, complex datasets within the Teradata ecosystem.
+- Research & Prototype: Engage with the latest research in agentic AI, prompt engineering, and autonomous systems to prototype innovative ideas.
+- Collaborate & Grow: Partner with a dynamic team of engineers and scientists, receive mentorship, and contribute meaningfully from day one.
+- System Integration: Help integrate LLM-based agents with retrieval tools, structured/unstructured inputs, and downstream Teradata products.
+Who You'll Work With
+You’ll collaborate with experienced AI engineers and data scientists on cutting-edge projects that redefine how businesses harness data. This is a hands-on
+opportunity to apply your academic knowledge and contribute to the development of intelligent agents that drive insights and automate complex workflows.
+What Makes You a Qualified Candidate
+- Currently pursuing or recently completed a Master’s or Ph. D. in Computer Science, Artificial Intelligence, or a related field—or have equivalent experience.
+- Interested in intelligent agents, orchestration frameworks, or multi-step reasoning workflows.
+- Curious about data, workflows, and multimodal reasoning.
+- Familiar with LLM APIs (e. g. , OpenAI, Claude, Gemini) and agent toolkits (e. g. , AgentBuilder, AutoGen, LangGraph, CrewAI).
+- Understanding of chain-of-thought reasoning, prompt tuning, or context window management.
+- Knowledge of evaluation metrics for agent performance, latency, and reliability.
+What You’ll Bring
+- Passionate about innovation and advancing the state of AI.
+Why We Think You'll Love Teradata
+We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our
+people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both
+personally and professionally. We are committed to actively working to foster an inclusive environment that celebrates people for all of who they are.
+Why We Think You’ll Love Teradata
+We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our
+people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both
+personally and professionally. We are an anti-racist company because our dedication to Diversity, Equity, and Inclusion is more than a statement. It is a deep
+commitment to doing the work to foster an equitable environment that celebrates people for all of who they are.
+Teradata invites all identities and backgrounds in the workplace. We work with deliberation and intent to ensure we are cultivating collaboration and
+inclusivity across our global organization. We are proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race,
+color, ancestry, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related conditions), national origin, sexual orientation, age,
+citizenship, marital status, disability, medical condition, genetic information, gender identity or expression, military and veteran status, or any other
+legally protected status.

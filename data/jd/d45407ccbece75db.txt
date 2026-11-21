@@ -1,0 +1,66 @@
+About Lucid
+At Lucid, we are creating exceptional mobility experiences through innovation to drive the world forward. Built on Lucid’s proprietary technology and software-
+defined vehicle architecture, our award-winning vehicles bring our “Compromise Nothing™” approach to the global automotive market. That means refusing to choose
+between performance and sustainability, design and engineering, ambition and integrity. In Lucid Air and Lucid Gravity, we have designed and built vehicles that
+have redefined their segments, combining exceptional range, performance, design, and expansive space in a single experience.
+We achieve this through deep vertical integration, with design, engineering, and production happening in-house across our global offices and manufacturing
+facilities. Our teams come from industries around the world, united by a shared commitment to excellence. By refusing to settle, you can help redefine what’s
+possible and shape the future of mobility.
+The Vehicle Infotainment team develops applied AI and machine learning solutions for intelligent vehicle features and engineering applications. Our work spans
+computer vision, machine learning, generative AI, large language models, AI-powered engineering tools, and AI model deployment on embedded automotive platforms.
+As an AI/ML intern, you will work alongside experienced engineers and contribute to a real-world project using production-relevant data, tools, and development
+workflows. You will gain hands-on experience across the AI development lifecycle, including data preparation, model development, training, evaluation,
+optimization, integration, and validation.
+Role and Responsibilities
+- Based on your skills and interests, you will be matched to projects in computer vision, machine learning, generative AI and LLM applications, or edge AI.
+- Prepare datasets and develop, train, fine-tune, and evaluate AI/ML models.
+- Build Python-based AI tools, prototypes, and development workflows.
+- Improve model performance and support integration and validation in automotive or embedded environments.
+- Collaborate with engineers, document results, and present project outcomes.
+Must Have Skills
+- Proficiency in Python and familiarity with libraries such as NumPy, pandas, scikit-learn, or OpenCV.
+- Understanding machine learning fundamentals, data preparation, model training, and evaluation.
+- Experience with at least one deep learning framework, such as PyTorch or TensorFlow.
+- Familiarity with Git and collaborative software development practices.
+- Strong analytical, problem-solving, communication, and teamwork skills.
+Nice to Have Skills
+- Experience with computer vision tasks such as object detection, classification, segmentation, or tracking.
+- Experience with LLMs, prompt engineering, embeddings, retrieval-augmented generation, or AI agents.
+- Familiarity with Hugging Face, LangChain, LlamaIndex, or similar AI frameworks.
+- Experience with C++, ONNX, Docker, model optimization, quantization, or edge AI deployment.
+- Exposure to embedded systems, automotive software, or simulation tools such as CARLA.
+Education
+- Field(s) of study : Computer Science, Data Science, Artificial Intelligence, Machine Learning, Statistics, Applied Mathematics, or related fields
+- Currently enrolled in a Bachelor’s or Master’s Degree program at an accredited university
+- Proof of enrollment in current or into next program (MS, PhD)
+Program Information :
+- Timing : May- August, or June-September pending class schedules.
+- Duration of Internship : Our internship program is 12 weeks; the end date is flexible based on individual needs.
+- Work Location & Environment : This position will be in Newark, CA, and is fully in-person. You must be prepared to start onsite for your first day of
+employment. The working environment will be a mix of lab & office work.
+- Compensation : Student compensation is based on location and current degree level, non-negotiable ranging from $53 to $72 (subject to changes).
+- Relocation : May be provided on a case-to-case basis.
+- Housing/Transportation : You must provide your own living arrangements and transportation in the local area.
+- Background Check : All offers of employment are contingent on clearing a background check.
+- Drug Screening : All offers of employment are contingent on passing a drug screen.
+- Medical benefits : Dental, vision, and medical on day 1 for all interns working full-time.
+- Visa Sponsorship : Lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for U.S employment authorization.
+At Lucid, we don’t just welcome diversity - we celebrate it! Lucid Motors is proud to be an equal opportunity workplace. We are committed to equal employment
+opportunity regardless of race, color, national or ethnic origin, age, religion, disability, sexual orientation, gender, gender identity and expression, marital
+status, and any other characteristic protected under applicable State or Federal laws and regulations.
+Compensation & Benefits: Lucid offers a comprehensive and competitive benefits package including medical, dental, and vision insurance; life and disability
+coverage; paid time off; paid holidays, paid sick leave; and a 401(k) retirement plan. Hourly/non-exempt employees accrue up to 120 hours paid time off, and
+salaried/exempt employee accrue up to 160 hours paid time off. Eligible employees may also participate in Lucid’s equity program and/or a discretionary annual
+cash incentive program. Incentive and equity awards, if applicable, are determined based on individual performance, role scope, market considerations, and
+overall company results, in accordance with the terms of the applicable plans.
+Equal Opportunity: At Lucid, we believe diversity strengthens everything we build. Lucid Motors is proud to be an equal opportunity employer and is committed to
+providing an inclusive workplace for all. We consider all qualified applicants without regard to race, color, national or ethnic origin, age, religion,
+disability, sexual orientation, gender, gender identity or expression, marital status, or any other characteristic protected by applicable state or federal laws
+and regulations.
+Accessibility: Lucid Motors is committed to providing reasonable accommodations for qualified individuals with disabilities. If you need any accommodation to
+participate in the application process, please contact us at TA-Operations <@> lucidmotors.com . This email address is designated solely for accommodation
+requests and is not monitored for job applications or resume submissions. To be considered for employment, all applications must be submitted through the Lucid
+Motors Careers website.
+Candidate Data Privacy: By submitting your application, you understand and agree that your personal data will be processed in accordance with our Candidate
+Privacy Notice .
+To all recruitment agencies: Lucid Motors does not accept agency resumes. Please do not forward resumes to Lucid Motors. L

@@ -1,0 +1,70 @@
+Molex’s Optical Connectivity Group (OCG) is seeking a curious, analytical, and self-motivated Data & Analytics Intern to support business-focused data and
+analytics initiatives during our Summer 2027 internship program.
+This internship is designed for a student who enjoys working with data, solving ambiguous problems, and using technology to turn information into actionable
+insights. You will support real business challenges and build hands-on skills in data analysis, automation, and data engineering.
+We are looking for a self-starter with strong analytical fundamentals who takes ownership of their own learning, understands the purpose behind their work, and
+can quickly pick up new technical skills.
+Our Team
+This role will sit within the Optical Connectivity Group (OCG), the fasting growing group within Molex. Join a global connectivity leader with more than 80
+years of innovation. Molex’s interconnect solutions power the industries shaping tomorrow, including data centers, AI infrastructure, automotive, medical, and
+industrial technology. As demand for connectivity grows, so does our need for data-driven talent.
+What You Will Do
+- Support data analysis and data engineering projects that improve how teams access, organize, and use business data.
+- Help develop and improve data pipelines, data structures, and backend data processes.
+- Use tools such as Snowflake, SQL, Python, Excel, Streamlit, or Power BI to analyze and work with datasets.
+- Explore ways to apply AI, automation, and scripting to make existing processes more efficient.
+- Translate data into clear insights that support business decisions.
+- Develop or enhance dashboards and reporting solutions as needed.
+- Partner with cross-functional teams to understand business problems, define analytical questions, and identify solutions.
+- Evaluate data, test assumptions, and adjust your approach as new information emerges.
+- Present findings, recommendations, and lessons learned to team members and business stakeholders.
+Who You Are (Basic Qualifications)
+- Currently pursuing a bachelor’s or master’s degree in Data Analytics, Data Science, Business Analytics, Computer Science, Economics, Information Systems,
+Statistics, Engineering, or a related field.
+- Foundational experience with at least one data or analytical tool, such as SQL, Python, R, Excel, Power BI, or Tableau (coursework and personal projects
+count).
+- Understanding of basic data analysis concepts and a desire to build deeper technical skills.
+- Ability to clearly explain the problem, approach, analysis, and outcome of an academic, personal, or professional project.
+- Strong problem-solving and critical-thinking skills.
+- Curiosity and willingness to independently learn unfamiliar tools and technologies.
+- Ability to work through ambiguity, take initiative, and change course when data points in a different direction.
+- Strong verbal and written communication skills, including the ability to explain technical findings to non-technical audiences.
+What Will Put You Ahead
+- Exposure to SQL and relational databases.
+- Experience using Python or R for data manipulation, analysis, or automation.
+- Exposure to data engineering concepts, including data pipelines, ETL/ELT processes, APIs, or database structures.
+- Experience with Power BI, Tableau, or another data visualization platform.
+- Coursework or project experience involving AI, machine learning, automation, or advanced analytics.
+- Experience completing a project in which data was used to identify a problem, test a hypothesis, or recommend an improvement.
+For this role, we anticipate paying $28 per hour.
+At Koch companies, we are entrepreneurs. This means we openly challenge the status quo, find new ways to create value and get rewarded for our individual
+contributions. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the
+range provided considering each candidate's knowledge, skills, abilities, and geographic location. If you have questions, please speak to your recruiter about
+the flexibility and detail of our compensation philosophy.
+Hiring Philosophy
+All Koch companies value diversity of thought, perspectives, aptitudes, experiences, and backgrounds. We are Military Ready and Second Chance employers. Learn
+more about our hiring philosophy here .
+Who We Are
+As a Koch company, Molex is a leading supplier of connectors and interconnect components, driving innovation in electronics and supporting industries from
+automotive to health care and consumer to data communications. The thousands of innovators who work for Molex have made us a global electronics leader. Our
+experienced people, groundbreaking products and leading-edge technologies help us deliver a wider array of solutions to more markets than ever before.
+At Koch, employees are empowered to do what they do best to make life better. Learn how our business philosophy helps employees unleash their potential while
+creating value for themselves and the company.
+Our Benefits
+Our goal is for each employee, and their families, to live fulfilling and healthy lives. We provide essential resources and support to build and maintain
+physical, financial, and emotional strength - focusing on overall wellbeing so you can focus on what matters most. Our benefits plan includes - medical, dental,
+vision, flexible spending and health savings accounts, life insurance, ADD, disability, retirement, paid vacation/time off, educational assistance, and may also
+include infertility assistance, paid parental leave and adoption assistance. Specific eligibility criteria is set by the applicable Summary Plan Description,
+policy or guideline and benefits may vary by geographic region. If you have questions on what benefits apply to you, please speak to your recruiter.
+Additionally, everyone has individual work and personal needs. We seek to enable the best work environment that helps you and the business work together to
+produce superior results.
+Equal Opportunities
+Equal Opportunity Employer, including disability and protected veteran status. Except where prohibited by state law, some offers of employment are conditioned
+upon successfully passing a drug test. This employer uses E-Verify. Please click here for additional information. (For Illinois E-Verify information click here
+, aquí , or tu ).
+Apply now
+Share
+Email
+Facebook
+X
+LinkedIn

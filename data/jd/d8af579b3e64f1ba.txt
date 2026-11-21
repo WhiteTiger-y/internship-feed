@@ -1,0 +1,73 @@
+States including Indianapolis, IN; Chicago, IL; Fort Wayne, IN; Denver, CO; Atlanta, GA; and Dallas, TX.
+We’re Resultant. Clients partner with us to see a difference. People join us to make one.
+What to Expect from Your Summer at Resultant
+Spend 10 weeks learning, contributing, and making connections at Resultant. You’ll work alongside Rezzers on meaningful projects, gain exposure to client work,
+and see firsthand how data and technology help our clients make a difference. Beyond your day-to-day work, you’ll connect with Rezzers across the organization
+through coffee chats, client spotlights, and interactive sessions covering topics like AI, consulting, communications, data, sales, and more. You’ll also
+collaborate with your intern cohort on a group project—giving you the opportunity to build new skills, solve a real business challenge, and make an impact of
+your own.
+Job Description
+Launching your career at Resultant means more than just a job title — it means becoming a catalyst for change. As a Data & Analytics Consultant Intern, you
+will:
+- ﻿Collaborate with cross-functional teams to support client projects and move work forward.
+- ﻿﻿Engage with clients and stakeholders by asking thoughtful questions, synthesizing feedback, and presenting findings.
+- ﻿﻿Identify, gather, and prepare data using structured, reproducible methods — including SQL, spreadsheets, basic scripting, and AI-assisted data prep tools.
+- Apply foundational analytical and statistical techniques, including AI-assisted pattern discovery and hypothesis generation, to uncover insights, trends, and
+patterns that address client needs.
+- Build clear data visualizations or reports using tools such as Power BI, Tableau, or spreadsheets, incorporating AI-assisted features where applicable to
+accelerate development.
+- Document business and functional requirements and translate insights into actionable plans and solution designs — including identifying opportunities where AI
+or automation can streamline manual processes.
+- Create process maps, workflow diagrams, and supporting documentation to clarify complex concepts.
+- Participate in testing activities by assisting with test scenarios, validating results (including outputs from AI-assisted tools), and ensuring solution
+quality.
+- Use AI copilots and prompting techniques to accelerate research, documentation, and analysis — while critically evaluating outputs for accuracy and
+applicability.
+- Use project and collaboration tools to stay organized and support team workflows.
+- Communicate status, risks, and insights clearly with teammates, clients, and stakeholders to maintain alignment and ensure project momentum.
+- Gain hands-on exposure to Resultant's AI-native delivery methodology and modern data platform practices.
+Qualifications
+Some of the qualifications and skills we are expecting include the following:
+- ﻿﻿Rising Senior enrolled in a Bachelor's degree program in a relevant field of study, preferably graduating in the Spring of 2028.
+- ﻿﻿Please note, this internship has a start date in June 2027.
+- ﻿﻿Must live in the Indianapolis, IN area during the summer of 2027.
+- Expectation of 3 days in office per week at a minimum.
+- ﻿﻿Must be legally authorized to work in the United States for any employer without sponsorship.
+Core Skills & Competencies
+- ﻿﻿Exceptional written, verbal, and interpersonal communication skills.
+- ﻿﻿Demonstrated ability to problem-solve, think creatively, and deliver results.
+- ﻿﻿Strong organization, prioritization, and time-management abilities.
+- ﻿﻿Ability to work independently and collaboratively within diverse, cross-functional teams.
+- ﻿﻿Deep intellectual curiosity and a willingness to learn new tools, methods, and domains.
+- ﻿﻿Comfortable interacting professionally with stakeholders including executives, managers, subject matter experts, and technical teams.
+- ﻿﻿Experience working in deadline-driven environments.
+Technical & Analytical Skills
+- ﻿﻿Understanding of relational database concepts, such as tables, keys, and simple normalization.
+- ﻿﻿Ability to write basic SQL queries (SELECT, JOIN, WHERE, GROUP BY) to explore and analyze data.
+- ﻿﻿Foundational knowledge of data structures and statistical concepts, including descriptive statistics and simple inferential ideas.
+- ﻿﻿Exposure to ETL/ELT concepts, such as data cleaning, transformation, and preparing datasets for reporting or analysis.
+- ﻿﻿Understanding of data modeling basics, including fact vs. dimension tables and star schema concepts.
+- ﻿﻿Introductory experience with Python or R, especially for data manipulation or exploratory analysis.
+- ﻿﻿Familiarity with data visualization tools (Power BI, Tableau, or similar) to build simple dashboards or charts.
+- ﻿﻿Experience working with spreadsheets (Excel or Google Sheets) for analysis, formulas, pivot tables, and lightweight modeling.
+- ﻿﻿Exposure to version control systems such as Git or GitHub, even at a basic level (e.g., cloning, committing, branching).
+- ﻿﻿Exposure to project/collaboration tools such as Jira. Azure DevOps. Google Workspace, Office 365, etc.
+Additional Information
+What you should know about Resultant:
+- Rezzers are humble, hungry, and smart. We solve big problems, serve lots of clients, and are entirely committed to delivering transformative outcomes.
+- Rezzers are team players, deeply dedicated to the mission of the organization and to helping everyone around us be successful.
+- Resultant compensates well, rewarding performance that delivers positive outcomes for our clients and ensuring incentives are aligned to achieve our goals.
+- Resultant leaders work hard, serving as a shining example of what it means to be a great Rezzer. They are servant leaders, helping their team to be successful
+in all possible ways.
+- We have a great benefits package including unlimited vacation, significant 401k contributions, and several opportunities to develop yourself.
+- We pride ourselves in having the best talent in the industry and hope that you’re up for the challenge!
+What our team members say about us…
+- “I love our true empathy and concern for our clients, it's very rare and appreciated. It is a pleasure to be a part of an organization like Resultant.”
+- “I learn something new every single day, and I feel like I'm a part of building an organization that has legs. I appreciate that I'm consistently humbled by
+the talent and caliber of our team.”
+- “The culture of the company is amazing, and the climate of my team is great. The benefits that employees are offered are better than competitors, and the one-
+on-one presence that my team lead gives is extremely beneficial to me.”
+All qualified applicants will receive consideration for employment without regard to age, color, sex, disability, national origin, race, religion, or veteran
+status.
+Equal Opportunity Employer
+We embrace AI across everything we do, and that includes how you prepare for this interview. Feel free to use AI tools to research the role, practice yo

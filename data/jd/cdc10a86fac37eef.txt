@@ -1,0 +1,18 @@
+Company Description Althais is focused on helping healthcare clinics capture every dollar they earn by turning each patient visit into a paid claim. The
+company’s AI agents code and submit clean claims against real payer rules, working directly inside the EMR systems that practices already use. By automating
+complex billing workflows, Althais reduces errors, accelerates reimbursement, and minimizes revenue loss. As part of Antler’s P27 cohort, Althais is building
+scalable, technology-driven solutions that blend machine learning, healthcare operations, and practical product design.
+Role Description This is a full-time, on-site Software Development & Machine Learning Engineer Intern role based in San Francisco, CA. The intern will help
+design, develop, and test software components that integrate AI agents into existing EMR workflows, with a focus on reliability and performance. Day-to-day
+responsibilities include building and refining machine learning models, implementing pattern recognition and neural network-based solutions, and collaborating
+on algorithms that translate clinical documentation into accurate claims. The intern will work with the engineering team to analyze data, improve model
+accuracy, and assist in deploying production-ready features. The role also involves documenting technical work, participating in code reviews, and contributing
+to the continuous improvement of the product.
+Qualifications
+- Strong foundation in Computer Science and Algorithms, with experience in data structures and efficient code design.
+- Knowledge of Pattern Recognition and Neural Networks, including model training, evaluation, and optimization.
+- Solid understanding of Statistics, probability, and basic data analysis techniques for machine learning.
+- Proficiency in at least one modern programming language commonly used in ML (e.g., Python) and familiarity with ML frameworks (e.g., PyTorch, TensorFlow).
+- Currently pursuing or recently completed a degree in Computer Science, Data Science, Engineering, or a related field.
+- Ability to work collaboratively in an on-site startup environment, with strong problem-solving and communication skills.
+- Interest in healthcare technology and exposure to APIs, cloud services, or data pipelines is a plus.
