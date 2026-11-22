@@ -12,10 +12,13 @@ generative models, video understanding models, unified native video generative m
 - Contribute to publications in top-tier conferences and journals in AI, computer vision, and machine learning.
 - Present findings and share insights that help shape both ongoing research and future directions.
 Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Electrical Engineering, or related field with a focus on generative
+modeling, computer vision, or machine learning
 - Programming experience in Python and hands-on experience in deep learning frameworks such as PyTorch
 - Experience working on generative models e.g. diffusion models, LLM, autoregressive transformers, etc
 - Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
 Preferred Qualifications:
+- Intent to return to the degree program after the completion of the internship/co-op
 - Proven track record of solid research achievements as demonstrated by grants, fellowships, patents, as well as publications at leading AI conferences such as
 CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, or SIGGRAPH
 - Strong track record of contributions to open-source projects, benchmarks, or shared research artifacts

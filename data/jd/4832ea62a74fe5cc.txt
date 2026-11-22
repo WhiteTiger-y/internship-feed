@@ -1,0 +1,59 @@
+Meta is seeking AI Research interns to join our Video Recommendations team within Facebook. Videos (Reels, long videos, and Live streams) are increasingly the
+formats of choice across the social media industry, and making all these formats successful is a top priority for Facebook, and the core mission owned by this
+org. Time spent on Facebook watching videos accounts for 1.2+ Billion hours/day, which is over 56% of time spent globally on the App, and this number is
+expected to continue growing.This team is directly in charge of recommending all sorts of videos to users, powered by our large-scale unified video
+recommendation models. In this role, you will work on Recursive Self-Improvement (RSI): building AI agents that autonomously propose, run, evaluate, and learn
+from improvements to these models, closing the loop between ML experimentation and model quality. Our interns will have the opportunity to frame practical,
+high-impact challenges in recommendation into rigorous machine learning problems, and bring their own expertise to build innovative solutions under the guidance
+of our Research Scientists and Software Engineers.More concretely, you will develop an agent-driven RSI prototype that continuously proposes, evaluates, and
+refines improvements for a selected video recommendation task. The scope spans training data improvement, environment and experiment setup, automated offline
+model evaluation, and feedback collection from model quality signals such as normalized entropy (NE) and recall. You will use experiment outcomes to improve
+both the agent's intervention strategy and its evaluation criteria, and deliver a working end-to-end prototype with evidence against a fixed baseline. Work will
+be mentored by the team, with production changes and online experiments subject to owner review and approval.Our internships are twelve (12) to twenty-four (24)
+weeks long and we have various start dates throughout the year.
+Research Scientist Intern, Video RecSys (PhD) Responsibilities:
+- Design and build an agent-driven Recursive Self-Improvement (RSI) system that continuously proposes, evaluates, and refines improvements to a large-scale
+video recommendation model.
+- Profile training data quality and signal coverage, and implement bounded training-data interventions such as filtering, sampling, and reweighting.
+- Automate environment and experiment setup, including reproducible training configurations, offline model evaluation pipelines, and evaluation benchmarks.
+- Build feedback loops that collect and attribute model quality signals (e.g., NE and recall gains or losses) and use them to improve the agent's intervention
+strategy and evaluation criteria.
+- Measure downstream model quality alongside data-processing and training costs, and maintain versioned experiment records and automated checks.
+- Collaborate with researchers and cross-functional partners including communicating research plans, progress, and results.
+- Publish research results and contribute to research that can be applied to Meta product development.
+Minimum Qualifications:
+- Currently has or is in the process of obtaining a Ph.D. degree in Computer Science, Artificial Intelligence, Machine Learning, or relevant technical field
+- Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment
+- Experience with Python, C++, C, Java or other related language
+- Experience with deep learning frameworks such as Pytorch or Tensorflow
+- Familiarity with machine learning and common deep learning architectures
+Preferred Qualifications:
+- Intent to return to the degree program after the completion of the internship/co-op
+- Proven track record of solid research achievements as demonstrated by grants, fellowships, patents, as well as publications at leading AI conferences such as
+NeurIPS, ICML, ICLR, KDD, RecSys, WWW, ACL and EMNLP
+- Prior research or project experience in one or more of the following areas: LLM-based agents and agentic workflows, recursive self-improvement, automated
+machine learning (AutoML), data-centric AI (data selection, curation, and reweighting), reinforcement learning, and large-scale recommendation systems
+- Experience building reproducible ML experimentation and evaluation pipelines on large-scale distributed training systems
+- Demonstrated software development experience via tech internships, work experience, coding competitions, or widely used contributions in open source machine-
+learning repositories
+- Experience working and communicating cross functionally in a fast-paced team environment. Ideal candidates should have the ability to quickly understand and
+identify the research opportunities behind real-world applications, select the appropriate ML methods to explore, and proactively drive the iterations based on
+clear analysis of the current results
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits a

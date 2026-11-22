@@ -1,0 +1,78 @@
+To help our recruiting team focus on your preference, please submit your application for the practice and location that is your top priority. While you can
+apply to up to three roles within 30 days, prioritizing your top choice is recommended. If you submit a fourth application within the 30 days, you will receive
+a rejection email indicating that you have reached the limit of applications you can submit.
+Launch your consulting journey with West Monroe
+West Monroe is seeking Consulting Interns to join our Data & Analytics team aligned to our Technology & Experience (TechEx) Practice. As businesses accumulate
+vast amounts of data, the challenge lies in extracting actionable insights that drive growth and operational efficiency. Our Data and Analytics Interns play a
+crucial role in helping clients unlock the full potential of their data through advanced analytics, data science, and data engineering.
+As a Data & Analytics Consulting Intern, you will combine business acumen with technical problem-solving skills to deliver impactful solutions. This role
+requires an understanding of business processes, data analysis capabilities, and proficiency in data structures, querying, and programming languages like SQL,
+Python, PySpark, or R.
+Primary Responsibilities
+Functional Responsibilities:
+- Collaborate with client executives and team members to understand organizational needs and recommend appropriate data-driven solutions.
+- Work closely with West Monroe project team members to deliver valuable outcomes.
+- Initiate and complete project tasks under management guidance.
+- Evaluate and document client business processes and requirements.
+- Develop and test investment hypotheses using data science methodologies to drive actionable insights.
+- Assist in the creation of detailed business cases and strategic recommendations.
+Technical Responsibilities
+- Utilize database development and scripting skills, including SQL, Python, PySpark, and R, for data manipulation and analysis.
+- Perform end-to-end data science workflows, from data ingestion and wrangling to analysis and visualization.
+- Design and develop reports, dashboards, and visualization tools using platforms like Tableau and Power BI.
+- Develop and implement data management, integration, and data science tools, including ETL processes and machine learning models.
+- Leverage AI tools to accelerate analysis, synthesize complex information, and support data-driven recommendations for clients, exercising sound judgment in
+evaluating outputs.
+- Apply AI technologies, including generative AI, automation tools, and data models, to enhance insights, improve delivery efficiency, and elevate the quality
+of client outcomes.
+Internal Responsibilities
+- Actively participate in West Monroe’s culture and social events.
+- Expand your knowledge of data science, analytics, and data engineering methodologies by participating in competency teams and attending learning sessions.
+What You’ll Bring To The Team
+- Sharp analytical thinking and an interest in solving complex problems.
+- Effective written and verbal communication skills.
+- A collaborative mindset and enthusiasm for working as part of a team.
+- Ability to stay organized and manage priorities in a dynamic environment.
+- Demonstrated leadership through academics, extracurricular activities, or prior work experience.
+- Curiosity about emerging technologies, including AI, and a passion for continuous learning and innovation.
+Required Qualifications
+- Bachelor’s degree in progress, with an expected graduation date between December 2027 and August 2028.
+- You will be asked to confirm your expected graduation month and year at the offer stage and prior to beginning your internship.
+- We do request and review official transcripts from your school prior to the start of our internship program.
+- If your expected graduation date falls outside of this range or changes, you are not eligible for this internship.
+- Minimum cumulative GPA of 3.0.
+- Legally authorized to work in the United States without limitation or sponsorship now or in the future, including OPT, H-1B, or TN status.
+- Reside within 50 miles of your assigned office prior to your start date; our culture emphasizes team collaboration within a hybrid work model.
+- Ability and willingness to travel up to 50%; travel expenses are covered by West Monroe.
+- Experience integrating AI tools, such as ChatGPT, into day-to-day workflows to enhance productivity and insight generation, coupled with strong critical
+thinking to assess accuracy, mitigate bias, and ensure high-quality outputs.
+Preferred Qualifications
+Majors in:
+- Business Analytics
+- Computer Science
+- Data Engineering
+- Data Science
+- Economics
+- Informatics
+- Information Systems
+- Statistics
+Join our team and make a lasting impact!
+Based on pay transparency guidelines, the pay rate for this role is $40.00.
+Other consultancies talk at you.
+At West Monroe, we work with you.
+We’re a global business and technology consulting firm passionate about creating measurable value for our clients, delivering real-world solutions.
+The combination of business and technology is not new, but how we bring them together is unique. We’re fluent in both. We know that technology alone is not the
+answer, but how we apply it is. We rely on data to constantly adapt and solve new challenges. Actions that work today with outcomes that generate value for
+years to come.
+At West Monroe, we zero in on the heart of the opportunity, getting to results faster and preparing people for what’s next.
+You’ll feel the difference in how we work. We show up personally. We’re right there in the room with you, co-creating through the challenges. With West Monroe,
+collaboration isn’t a lofty promise, but a daily action. We work together with you to turn vision into clear action with lasting impact.
+West Monroe is an Equal Employment Opportunity Employer
+We believe in treating each employee and applicant for employment fairly and with dignity. We base our employment decisions on merit, experience, and potential,
+without regard to race, color, national origin, sex, sexual orientation, gender identity, marital status, age, religion, disability, veteran status, or any
+other characteristic prohibited by federal, state or local law. To learn more about diversity, equity and inclusion at West Monroe,
+visit www.westmonroe.com/inclusion. If you require a reasonable accommodation to participate in our recruiting process, please inquire by sending an email to
+recruiting@westmonroe.com.
+Please review our current policy regarding use of generative artificial intelligence during the application process. Additionally, West Monroe uses the
+BrightHire platform to record live interviews so our team can capture notes more accurately, stay focused on the conversation, and continually improve our
+interview process. You can review our privacy notice for more information about this process and how recordings are used. If you have any questions, reac

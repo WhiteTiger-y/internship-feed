@@ -1,0 +1,51 @@
+ADVANCE YOUR CAREER. ADVANCE THE WORLD.
+At AMD, we believe technology can change lives for the better. It can heal us, entertain us, and make us more connected, productive, and understanding of the
+world around us. And we’re looking for talent who feel the same: people who want to leave the planet better than they found it, those who don’t shy away from
+humanity’s challenges but are determined to help solve them.
+AMD is powering the next generation of supercomputing, high-performance computing, cloud, and AI. Whether you’re designing next-gen processors, enabling AI
+breakthroughs, or creating go-to-market plans, every role at AMD contributes to something bigger — technology that moves the world forward.
+As an AMD co-op, you’ll be placed at the epicenter of the AI ecosystem, working alongside experts and industry pioneers. You’ll do important work, learn new
+skills, expand your network, and gain real-world experience on projects that impact millions of end-users worldwide. Whether you’re an undergrad or a PhD
+student, your contributions matter—and your experience here will be a launchpad for what comes next
+Job Details
+- Location: Austin, TX, USA
+- Onsite/Hybrid: This is a hybrid position. The co-op is required to relocate if necessary and work full-time, 40 hours per week, from the Austin office
+throughout the duration of the term.
+- Duration: January 25, 2027 to August 13, 2027
+What You Will Be Doing
+We are seeking a Thermal Engineering Intern to support the development and evaluation of thermal management solutions for next-generation AI and high-
+performance computing (HPC) systems. As part of the AI Infrastructure Engineering team, you will work alongside experienced thermal, mechanical, platform, and
+data center engineers to analyze cooling technologies, perform thermal modeling, support laboratory testing, and contribute to the design of high-density
+compute environments.
+- We will involve you in evaluating cooling solutions for AI and HPC systems, including air-cooled and liquid-cooled platforms.
+- You will assist with thermal and airflow simulations using engineering analysis tools to study temperature, airflow, coolant flow paths, pressure drops, and
+cooling performance.
+- Your responsibilities will include supporting laboratory testing activities, such as instrumentation setup, sensor deployment, thermal data collection, and
+data analysis.
+- You will help compare test and simulation results against design expectations, identify trends, and support troubleshooting for thermal performance issues.
+- We will involve you in design reviews and technical discussions while you assist in developing engineering reports, presentations, and technical
+documentation.
+- You will collaborate with cross-functional teams, including mechanical, electrical, system, validation, and data center engineers, and conduct technology
+assessments on emerging cooling approaches for AI infrastructure.
+Who We Are Looking For
+- You are currently pursuing a Master's degree in Mechanical Engineering or a closely related discipline, with an expected graduation date within 12 to 24
+months of the internship start date.
+- You have a strong academic background in heat transfer, thermodynamics, fluid mechanics, numerical methods, or engineering analysis.
+- You understand fundamental thermal engineering principles and are interested in applying them to electronics cooling, AI infrastructure, and large-scale
+computing environments.
+- You have experience using MATLAB, Python, or similar tools for technical analysis, data processing, scripting, or data visualization.
+- You have exposure to thermal or CFD simulation tools such as ANSYS Icepak, Fluent, FloTHERM, COMSOL, OpenFOAM, or similar modeling software.
+- You are familiar with electronics cooling concepts such as heat sinks, thermal interface materials, fans and blowers, cold plates, and heat exchangers.
+- Preferred experience includes laboratory testing, instrumentation, data acquisition, academic research, course projects, or prior internships involving
+electronics cooling, thermal-fluid systems, HPC, data centers, or energy systems.
+- Nice to have: exposure to AI, HPC, server, or data center technologies, as well as sustainability topics such as energy efficiency, PUE, water usage
+effectiveness, or advanced cooling technologies.
+This role is not eligible for visa sponsorship.
+Benefits offered are described: AMD benefits at a glance.
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal
+opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical
+disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran
+status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the
+respective laws throughout all stages of the recruitment and selection process.
+AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.
+This posting is for an existing vacancy.

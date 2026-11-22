@@ -1,0 +1,46 @@
+About Ancestry
+When you join Ancestry, you join a human-centered company where every person’s story is important. Ancestry®, the global leader in family history, connects
+everyone with their past so they can discover, preserve, and share their unique family stories. With our unparalleled collection of more than 65 billion
+records, over 3.5 million subscribers, and over 27 million people in our growing DNA network, customers can discover their family story and gain a new level of
+understanding about their lives. Over the past 40 years, we’ve built trusted relationships with millions of people who have chosen us as the platform for
+discovering, preserving, and sharing the most important information about themselves and their families.
+We are committed to our location flexible work approach, allowing you to choose to work in the nearest office, from your home, or a hybrid of both (subject to
+location restrictions and roles that are required to be in the office- see the full list of eligible US locations HERE). We will continue to hire and promote
+beyond the boundaries of our office locations, to enable broadened possibilities for employee diversity.
+Together, we work every day to foster a work environment that's inclusive as well as diverse, and where our people can be themselves. Every idea and perspective
+is valued so that our products and services reflect the global and diverse clients we serve.
+Ancestry encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. Passionate about dedicating your
+work to enriching people’s lives? Join the curious.
+Ancestry seeks an exceptional, passionate, and highly motivated Machine Learning Engineer Co-Op to join our MLE team. As a Machine Learning Engineer Co-Op, you
+will be expected to write production-quality Python code and independently build, test, and debug ML-powered software. You will work on model integration and
+deployment, ML/LLM applications, AI agents, and scalable ML infrastructure. This is an engineering-first role that requires strong software development
+fundamentals and the ability to translate ML capabilities into reliable production systems.
+This is a part-time, work-study-based opportunity for active students in Master's and PhD programs.
+What You Will Do
+- Design, build, test, and deploy production-quality ML software in Python.
+- Build scalable services, pipelines, and APIs that integrate ML models and LLMs.
+- Develop and optimize AI agents and agentic applications.
+- Optimize model inference for performance, reliability, scalability, and cost.
+- Build MLOps workflows for model training, evaluation, deployment, and monitoring.
+- Debug complex technical issues and independently own engineering deliverables.
+- Evaluate and implement emerging ML, LLM, and agent technologies.
+Who You Are
+- Currently pursuing a Master's or PhD in Computer Science, Software Engineering, Computer Engineering, Machine Learning, AI, or a related technical field.
+- Highly proficient in Python with demonstrated ability to independently build, test, and debug software.
+- Strong software engineering fundamentals, including data structures, algorithms, APIs, testing, version control, and code quality.
+- Experience with ML libraries such as PyTorch, TensorFlow, or Scikit-learn.
+- Experience building with GenAI, LLMs, and agentic frameworks such as LangChain, LangGraph, or AutoGen.
+- Experience with cloud platforms, ML development tools, and production deployment workflows.
+- Strong problem-solving and technical communication skills.
+- Nice to have: Experience with Node.js or Java; experience with LLM fine-tuning, RAG, vector databases, Hugging Face, vLLM, inference optimization, or
+reinforcement learning.
+Additional Information
+Ancestry is an Equal Opportunity Employer that makes employment decisions without regard to race, color, religious creed, national origin, ancestry, sex,
+pregnancy, sexual orientation, gender, gender identity, gender expression, age, mental or physical disability, medical condition, military or veteran status,
+citizenship, marital status, genetic information, or any other characteristic protected by applicable law. In addition, Ancestry will provide reasonable
+accommodations for qualified individuals with disabilities.
+All job offers are contingent on a background check screen that complies with applicable law. For candidates who live in San Francisco, CA, pursuant to the San
+Francisco Fair Chance Ordinance, Ancestry will consider for employment qualified applicants with arrest and conviction records.
+Ancestry is not accepting unsolicited assistance from search firms for this employment opportunity. All resumes submitted by search firms to any employee at
+Ancestry via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole
+property of Ancestry. No fee will be paid in the event the candidate is hired by Ancestry as a result of the referral or through other means.

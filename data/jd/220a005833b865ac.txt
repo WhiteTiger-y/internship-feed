@@ -1,0 +1,69 @@
+About This Role
+Quantitative Master’s Internship Program
+This program mirrors the MBA Internship but is tailored for master’s students in quantitative disciplines – giving you the same exposure and impact, with a
+focus on advanced analytics and problem-solving.
+Eligibility: Students enrolled in analytics, computational finance, financial engineering, mathematics and/or a quantitative-disciplined master’s program and
+graduating between September 2027 and July 2028 with relevant pre-master’s work experience
+BlackRock Global Markets and Index Investments (BGM) brings together BlackRock’s Index Investments, Markets, Liquidity & Financing, and Platform & Strategy
+businesses.
+Together, we provide clients with superior market access and index investment outcomes through:
+- World class talent, operating at the intersection of investment insight, markets expertise, risk management and process design
+- Technology at the heart of our processes, with in-business tech teams that create cutting-edge IP, providing an advantage in quality, scale, and risk control
+- A focus on transforming markets, driving and advocating for more accessible, resilient, and transparent markets to deliver more choice and lower costs for
+investors
+We are a global team of 940+ with footprint in all our major offices in each region. Teams include the Index Investments teams as well as additional teams
+within BGM which provide quantitative models to support internal funds and develop analytical tools to support client and product teams.
+This opportunity will give successful candidates a chance to be involved in shaping product strategy and design, navigate markets, and learn about the liquid
+investment ecosystem, as well as the day-to-day management disciplines of any successful business.
+What capabilities are we looking for?
+- Strong analytical and critical thinking skills
+- Intellectual curiosity and a self-starter mindset
+- Strong communication and presentation skills
+- Collaborative and detail-oriented
+- Resourcefulness and initiative
+- Basic to intermediate coding and programming skills
+- Critical thinking
+- Comprehension skills
+- Ability to thrive in fast-paced environments
+For technical roles: Proficient in Python. Basic SQL is a plus
+Business, Finance, Math, Economics Or Another Analytical Major Preferred
+Curiosity, critical thinking, learning agility, and sound judgement in technology-enabled decision making, coupled with an enthusiasm for AI, emerging
+technologies, and continuous innovation
+For San Francisco, CA and New York, NY only: The salary ranges for these positions are below. Please note, salary rates for a role are determined by department
+or team within a Business Area, as well as location of the role.
+Salary Range (Semi-Monthly Rate)
+Investment: $6,500 – $8,500
+Our Benefits
+To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive
+healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+Our hybrid work model
+BlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while
+supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a
+week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments
+that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to
+accelerate your learning and onboarding experience here at BlackRock.
+Guidance on AI use for candidates
+At BlackRock, AI has long been part of how we work – enhancing decision-making, improving operations, and helping us deliver better outcomes for clients. We
+encourage candidates to use AI thoughtfully to learn, prepare, and work more effectively; but during our interview process, we want to focus on getting to know
+you through your own experiences, thinking, and judgment. To support you, we’ve provided guidance on when and how to use AI during our hiring process so you can
+approach each step with confidence and showcase your best self.
+About BlackRock
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are
+saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global
+economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where
+our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+To learn more about BlackRock, please visit Careers.BlackRock.com. We also encourage you to get to know us on LinkedIn, Instagram, YouTube, X, and TikTok.
+BlackRock is proud to be an equal opportunity workplace. We are committed to equal employment opportunity to all applicants and existing employees, and we
+evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual
+orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran
+status, or any other basis protected under applicable federal, state, or local law. View the EEOC’s Know Your Rights poster and its supplement and the pay
+transparency statement.
+BlackRock is committed to full inclusion of all qualified individuals and to providing reasonable accommodations or job modifications for individuals with
+disabilities. If reasonable accommodation/adjustments are needed throughout the employment process, please email Disability.Assistance@blackrock.com. All
+requests are treated in line with our privacy policy.
+We recruit, hire, train, promote, pay, and administer all personnel actions without regard to race, color, religion, sex (including pregnancy, childbirth, and
+medical conditions related to pregnancy, childbirth, or breastfeeding), sex stereotyping (including assumptions about a person’s appearance or behavior, gender
+roles, gender expression, or gender identity), gender, gender identity, gender expression, national origin, age, mental or physical disability, ancestry,
+medical condition, marital status, military or veteran status, citizenship status, sexual orientation, genetic information, or any other status protected by
+applicable law. We interpret these protected

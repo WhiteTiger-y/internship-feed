@@ -1,0 +1,35 @@
+As drones transform the character of warfare, Neros is delivering the systems the West needs to compete on the modern battlefield and deter the adversaries of
+democracy. We’re hiring engineers, operators, and builders who want to move fast, take on extreme ownership, and get capability into the hands of warfighters in
+months, not years.
+What you will be doing
+As an Autonomy Software Engineering Intern at Neros, you will be a key hands-on member of our autonomy team, supporting the design, development, and testing of
+the software that flies our drones. Within our team we tackle a very diverse set of problems from perception, state estimation through guidance and navigation,
+simulation and the system that measures whether our algorithms work on the actual drone. This role is perfect for a current student or early-career engineer who
+is eager to learn and grow. By the end of the summer, you will have your own autonomy code running on a real drone, and you will get to watch it fly.
+Responsibilities
+- Write autonomy software in C++ and Python that runs on the drone
+- Implement, test, and tune algorithms against recorded flight data and in closed loop simulation before they go on the real drone
+- Help build the tooling that lets us validate new functionality, like evaluation on recorded logs and in simulation
+- Take a feature from a design discussion through implementation, code review, simulation, and flight test, and see it fly
+- Debug real failures on real data, tracing a bad flight back to the line of code or the bad assumption that caused it
+- Work directly with senior engineers across perception, estimation, guidance, and platform to integrate your work into a single autonomy stack that runs on
+every drone we build
+You should have the following
+- Currently pursuing a degree in Computer Science, Robotics, Electrical Engineering, Aerospace, or a related field
+- Experience in robotics, such as perception, state estimation, localization, tracking, guidance, navigation, planning, or control
+- Strong programming ability in C++ and/or Python, and the judgment to write code that other engineers can read, review, and keep running
+- Comfort working inside a large existing codebase using Git, and comfort in a Linux development environment
+- A strong desire to learn, a coachable attitude, and sharp problem solving instincts
+Nice to have
+- Hands on experience with robots, drones, autonomous vehicles, or embedded compute
+- Coursework or projects in perception, computer vision, tracking, SLAM or VIO, state estimation, control, planning, or machine learning
+- Experience with a robotics middleware such as ROS or ROS2
+- Familiarity with sensor data: cameras, IMUs, thermal and infrared imagery, calibration, and time synchronization across sensors
+- Experience with numerical and data tooling in Python (NumPy, pandas, matplotlib) for analysis and test automation
+US Salary Range
+$55.00/hr USD
+We’re an equal opportunity employer. We welcome all applicants without attention to race, color, religion, sex, sexual orientation, gender identity, national
+origin, veteran or disability status.
+Create a Job Alert
+Interested in building your career at Neros Technologies? Get future opportunities sent straight to your email.
+Create alert
