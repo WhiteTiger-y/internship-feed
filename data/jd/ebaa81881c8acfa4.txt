@@ -1,0 +1,45 @@
+Overview: Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important
+national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives
+often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-
+fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com. Job Description Summary: The candidate will
+support the development and application of analytical tools, simulation environments, and mission-level models used to evaluate the operational effectiveness of
+emerging technologies and systems. Working alongside experienced engineers and analysts, the intern will contribute to efforts that connect technical system
+performance with broader operational outcomes, helping identify capability gaps, evaluate potential solutions, and inform engineering decisions. Job
+Description: Duties/Responsibilities Design, develop, and enhancement engineering solutions for challenging problems. Implement, test, perform analysis, and
+provide documentation support. Generate and present test reports including plots, tables, evaluation criteria, and conclusions from data collected and analyzed
+throughout the test process. Complete assignments designed to develop a practical knowledge of processes, procedures, equipment, facilities, and systems as well
+as their interrelationships within engineering disciplines. Performs other duties as assigned. Program Requirements Enrolled in an accredited full-time
+undergraduate or graduate degree program required. There is flexibility regarding hours and program duration based on applicant’s school schedule and
+availability. Skills/Abilities Excellent written and oral communication skills. Excellent work ethic with the ability to work independently or in a team
+environment. Ability to adapt to ever-changing environments, risks, and vulnerabilities. Strong computer skills including MS Word, PowerPoint and Excel.
+Additional Job Description: Duties/Responsibilities Support the development, integration, and application of modeling and simulation tools to evaluate system
+and mission performance. Assist in developing representative operational scenarios, mission threads, and analytical frameworks to explore technology performance
+in complex environments. Conduct quantitative analysis of system capabilities, operational constraints, and mission outcomes using engineering and simulation-
+based approaches. Support the development of analytical models that connect individual system performance to broader mission-level effectiveness. Apply
+statistical methods, sensitivity analysis, or Monte Carlo techniques to explore performance variability, uncertainty, and operational tradeoffs. Assist in
+developing scripts, data-processing workflows, and visualizations to support simulation execution and analysis. Collaborate with multidisciplinary engineering
+teams to understand technical capabilities, operational requirements, and analytical objectives. Document methodologies, summarize findings, and contribute to
+technical presentations communicating analytical results to internal stakeholders. Program Requirements Enrolled in an accredited full-time undergraduate or
+graduate degree program required. There is flexibility regarding hours and program duration based on applicant’s school schedule and availability.
+Skills/Abilities Excellent written and oral communication skills. Excellent work ethic with the ability to work independently or in a team environment. Ability
+to adapt to ever-changing environments, risks, and vulnerabilities. Strong computer skills including MS Word, PowerPoint and Excel. Additional Job Description:
+The ideal candidates for this position are enthusiastic about developing new technologies while working alongside experienced engineers and analysts. The intern
+will contribute to efforts that connect technical system performance with broader operational outcomes, helping identify capability gaps, evaluate potential
+solutions, and inform engineering decisions. This internship will be onsite at Draper’s Cambridge, MA campus, with the ability to occasionally work from home.
+Qualifications Demonstrated interest in systems analysis, modeling and simulation, quantitative problem-solving, or engineering applications. Familiarity with
+programming or analytical tools such as Python, MATLAB, C++, or similar environments through coursework or independent projects. Strong analytical and problem-
+solving skills, with an ability to approach complex problems in a structured manner. Effective written and verbal communication skills. Ability to work
+collaboratively within a multidisciplinary technical team. Connect With Draper for Future Opportunities! If you don't find the right posting in our Career
+Opportunities, you may submit your resume for future consideration. Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal
+Code: 02139-3563 The US base salary range for this full-time position is $20.00 - $45.00 Our salary ranges are determined by role, level, and location. The
+range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay
+is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Union ranges will be in
+compliance with the collective bargaining agreement's approved rates by location and role. Your recruiter can share more about the specific salary range for
+your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and does
+not include bonuses or benefits. Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life
+balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to
+local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you,
+apply now www.draper.com/careers. Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-
+performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual
+orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation
+for individuals with disabilities in employment, its services, programs, and activities. To 

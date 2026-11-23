@@ -1,0 +1,53 @@
+About Us
+At HB Wealth, internships are designed to give you more than just a glimpse into wealth management. You'll gain hands-on experience, learn directly from
+seasoned professionals, and see how our team lives out our mission to bring unwavering financial peace of mind to the clients we are privileged to serve.
+Through mentorship, professional development, and firm-wide initiatives, you'll build valuable skills, expand your network, and discover what it means to thrive
+in a purpose-driven firm.
+What We're Looking For
+HB Wealth Management is seeking (1) Investment Research Analyst Intern to work in our Towson, MD corporate office. This position will assist the Investment Team
+in accomplishing the overall goal of serving our clients. This is a fantastic opportunity to work on a strong, fun team! This is a paid internship, beginning
+June 1, 2027, and running through August 6, 2027.
+Candidates must submit a letter of interest to be considered. In no more than one page, the letter should tell us why you have chosen this field for an
+internship and how it will benefit your future studies and career.
+Your Job Responsibilities
+Research Model Development
+Assist Market Strategists By Developing Systematic Models That Help Analyze And Interpret Market Data And Provide Actionable Insights That Guide Strategic And
+Tactical Decisions. Specific Tasks May Include
+- Utilize market data providers to pull, aggregate and analyze market technical, fundamental and quantitative data
+- Work with strategists to identify model needs, determine appropriate model structures for various output desires, and build models utilizing BQuant (python),
+Bloomberg's Query Language (BQL).
+- Construct visuals to articulate model output for deployment in research materials.
+- Develop infrastructure for continuous update and refresh of models for future consumption.
+- Idea generation of statistical techniques that provide insights for further evaluation of research.
+Research Production and Delivery
+Assist market strategists in the production and delivery of differentiated market research covering individual companies, sectors, themes, and asset classes.
+This research supports investment theses and informs client strategies.
+- Support production and delivery of research content with data analysis, chart production, internet uploads, email communications, etc.
+- Work to improve efficiencies of research development and delivery via Bloomberg's Query Language (BQL) and Bloomberg's internal Python system (BQuant).
+- Develop new ideas for automation of data analyses, visualization, and other areas of the Market Strategy Team.
+Miscellaneous Private Investment Support
+- Attend weekly research team meetings and actively engage in idea generation.
+- Attend investment committee to observe questions and analyze impact of output. Develop process improvements accordingly.
+- Develop a capstone project that will be permanently integrated as part of research team output and a presentation on this project
+Requirements
+- Must be a rising senior, working towards a bachelor's degree from an accredited college or university (required).
+- Strong verbal and written communication skills.
+- Must have a genuine interest in investment management, financial markets, and portfolio analysis.
+- Client-focused professional who demonstrates integrity, strong interpersonal skills, and a collaborative, team-oriented attitude.
+- Highly organized and detail-oriented, with strong analytical skills, follow-through, and a proactive mindset suited to fast-paced, entrepreneurial
+environments.
+- Proficiency with the Microsoft Office Suite preferred.
+- Proficiency with Bloomberg, BQuant/BQL, Python, Claude/Copilot.
+- Ability to successfully pass criminal background / credit check required.
+This is not a remote position. Candidates should expect to be in an HB office 5 days per week. Candidates must be local or willing to relocate.
+About HB
+HB Wealth ("HB") is a national, independent, fee-only wealth management firm headquartered in Atlanta, GA, with additional offices in Cocoa Beach, Palm Beach
+Gardens and Tampa, FL; Alpharetta, Augusta, and Sandy Springs, GA; Towson and Columbia, MD; Charlotte, NC; Austin, TX; Nashville, TN; Columbia and Greenville,
+SC.
+Founded in 1989, HB provides wealth advisory services, investment management, and family office services to primarily high-net-worth individuals, families, and
+institutions. With over $34 billion in assets under management as of September 30, 2026, our team collaborates across all locations to deliver The Fiduciary
+Standard, Elevated®-bringing unwavering financial peace of mind to the clients we are privileged to serve.
+At HB Wealth, we foster a healthy, collaborative work environment where every team member is respected and valued. We look for talented individuals who are
+passionate about learning, growing, sharing ideas, and making a meaningful impact for our clients.
+HB is an Equal Employment Opportunity Employer
+$30/hr

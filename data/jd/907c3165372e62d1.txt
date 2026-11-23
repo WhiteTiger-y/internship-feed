@@ -1,0 +1,72 @@
+What Your Job Will Be Like
+We are seeking motivated graduate students in STEM interested in pursuing their passion by working side-by-side with world experts at Sandia's Future Of
+Research for Secure Energy and Earth Systems (FORSEES) Intern Institute. Our interns take on challenges in earth systems, infrastructure modernization, energy
+security, and other related fields at the DOE's leading engineering R&D laboratory.
+Our student interns are offered hands-on, flexible, and cutting-edge research opportunities while being mentored by Sandia National Laboratories scientists and
+engineers. These real-world experiences are supplemented with technical seminars and facility tours which give our students unique insight into the broad range
+of engineering and scientific disciplines represented at Sandia.
+Students will be called upon to apply their skills in computer programming, machine learning, hands-on data collection and reduction, and integrated multi-
+physics simulation environments. Students will work collaboratively over the course of the internship with a mentor and affiliated team members to deliver high-
+impact results ultimately suitable for publication in leading technical journals and conferences. In addition to nurturing the development of analytical acumen,
+the FORSEES intern institute also emphasizes students growth in communication and teamwork through their work in cross-disciplinary teams in support of Sandia's
+overarching mission of delivering exceptional service in the national interest.
+On any given day you might be called on to:
+- Collect and analyze various data sets related to geophysics, geotechnology, atmospheric science, geomechanics, geochemistry, subsurface science, and renewable
+energy technologies, including wind and wave power, geothermal energy, solar photovoltaics, and concentrating solar
+- Present summer research at the end-of-summer FORSEES student symposium
+- Collaborate on research papers, reports, and presentations
+- Run existing modeling codes and developing new models and algorithms.
+Due to the nature of the work, the selected applicant must be able to work onsite.
+Salary Range
+At Sandia, we value the important work done by our interns and its contribution to National Security. Because of this, our interns earn competitive pay rates.
+Our pay structure is based on earned credit hours, classification, and degree level. Your pay rate will be determined during the hire process and included in
+your offer package. You can view the Intern Pay Rate chart here (https://www.sandia.gov/app/uploads/sites/51/2024/12/Student-Rate-Sheet-2025.docx) .
+Qualifications We Require
+You bring the confidence and skills to be eligible for the job by meeting these minimum requirements:
+- Earned bachelor's degree
+- Currently attending and enrolled full time in the spring term immediately preceding the internship (or scheduled to graduate in the spring) in an accredited
+science, engineering, or math graduate program
+- Minimum cumulative GPA of 3.0/4.0
+- Ability to work up to 40 hours per week during the summer
+- U.S. citizens, legal permanent residents, asylees or refugees in the U.S.
+Note: If you have not yet started your graduate program, please apply to an undergraduate intern position.
+Qualifications We Desire
+- B.S. in mathematics, physics, earth sciences, computer science, or a related area
+- Enrolled in a M.S. or Ph.D. program in mathematics, physics, earth sciences, computer science, or a related area
+- Exceptional written, oral, and visual communication skills
+- Proficiency with modern computer languages (e.g. PYTHON, R, MATLAB, C/C++, FORTRAN-XX, MPI, Jupyter, Julia, etc.)
+- Experience with modular computer software development practices
+- Experience with laboratory and/or field procedures and protocols
+- Research documentation with laboratory notebooks or similar archival methods
+- Machine learning analysis
+Posting Duration
+This posting will be open for application submissions for a minimum of three (3) calendar days, including the 'posting date'. Sandia reserves the right to
+extend the posting date at any time.
+About Our Team
+The Deterrence, Science, & Energy division at Sandia is an interdisciplinary collection of researchers in engineering, physics, chemistry, geoscience, computer
+science and applied mathematics united by anticipating and delivering technical solutions to emergent challenges impacting the United States¿ global security
+posture. Specifically, we solve problems in the fundamental sciences with application to global-scale situational awareness, subsurface characterization,
+infrastructure resiliency, and fossil/renewable energy systems. We work closely with research centers across the lab and academia to cultivate broad and agile
+team of subject matter experts to accelerate the path to innovation while delivering impactful technical solutions to our partners in the National Nuclear
+Security Administration, Department of Energy.
+About Sandia
+Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists
+focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+- Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+- Extraordinary co-workers
+- Some of the best tools, equipment, and research facilities in the world
+- Career advancement and enrichment opportunities
+- Flexible work arrangements for many positions include 9/80 (work 80 hours every two weeks, with every other Friday off) and 4/10 (work 4 ten-hour days each
+week) compressed workweeks, part-time work, and telecommuting (a mix of onsite work and working from home)
+- Generous vacation, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid
+work/life balance*
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov
+- These benefits vary by job classification.
+Security Clearance
+This position does not currently require a Department of Energy (DOE) security clearance.
+Sandia will conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement records, and
+employment/education verifications. Furthermore, employees in New Mexico need to pass a U.S. Air Force background screen for access to Kirtland Air Force Base.
+Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause
+access to be denied or terminated, resulting in the inability to perform the duties assigned and subsequent termination of employment. Under federal law,
+citizens and agents of the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of North Korea, and the Russian Federation
+are generally prohibited from accessing Sandia 

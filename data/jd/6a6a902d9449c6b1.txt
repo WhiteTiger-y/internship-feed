@@ -1,0 +1,17 @@
+Evaluate emerging AI trends, tools, and vendor solutions against business use-cases.
+Run proof-of-concepts (PoCs) to test feasibility of new ideas.
+Design and build applications and AI/ML models tailored to specific use cases (e.g., predictive analytics, natural language processing, computer vision)
+prioritized for the AI Program.
+Create scalable AI pipelines that can be integrated into existing systems.
+Collaborate with data, engineering, and software development teams.
+Minimum Yrs of Experience, Skills, and Qualifications
+Possesses raw knowledge and skillset through coursework with some hands on
+work experience in the following areas:
+Strong Python, familiarity with Java / C++ / Go for production environments
+Object-oriented programming & design patterns
+Unit testing, CI/CD, Git, containerization (Docker)
+Data pipelines (Airflow, Prefect, or cloud-native equivalents)
+Model deployment (REST APIs, gRPC, serverless), monitoring, and versioning
+AWS / Azure / Google Cloud Platform / OCI AI services
+Cloud-native training/inference environments (SageMaker, Vertex AI, Azure ML)
+Kubernetes for scalable inference

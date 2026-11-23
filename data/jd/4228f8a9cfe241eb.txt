@@ -1,0 +1,83 @@
+Measurement and Data Science Internship
+June 7 - July 30, 2027
+NBME invites applications for multiple full-time internship positions, all fully remote, for the Summer of 2027. Over an 8-week period, interns will have the
+opportunity to collaborate with NBME staff and interact with fellow graduate students as they complete a research project. The expected deliverable is an
+internal research presentation. Specific projects for the summer of 2027 will be discussed with applicants as part of the interview process; examples of recent
+summer internship projects are listed below.
+Compensation
+- Interns will be compensated a total stipend of $12,600 for full-time interns (35 hours per week).
+- Additionally, all interns are eligible to receive up to $1,000 to support their attendance at a conference. This is not conditional on presenting at the
+conference.
+Requirements
+- Active enrollment in a doctoral program in measurement, statistics, computer science, cognitive science, educational psychology, I/0 psychology, medical
+education, or related field.
+- Completion of at least one year of your PhD program by Summer 2027.
+- Experience or coursework in one or more of the following: statistics, measurement theory, natural language processing, data science, data science, research
+design, IRT, and test development.
+- Working knowledge of statistical software (e.g., R, Python, C#).
+- Interns will be assigned to one or more mentors and must be able to work independently.
+- Must be authorized to work in the US for any employer. If selected, F-1 holders will need to apply for Curricular Practical Training authorization through
+their school's international student office and have a social security number for payroll purposes.
+- Must not have any competing employment throughout the duration of the internship.
+- Must be available between NBME core hours (10am-3pm Eastern Time).
+- Must be eligible to work June 7 - July 30, 2027. We are unable to shift the timeline of the internship program.
+- Cannot be enrolled in a DO or MD granting program.
+Application
+Candidates may apply by going to https://nbme.applicantpro.com/jobs/. A current CV is required. Applications that include a cover letter outlining relevant
+experience and specific research programs or topics of interest will be given priority. When writing your cover letter, please highlight your specific role on
+projects / when working with faculty. It can be difficult to infer this information from short CV entries. Please help us learn more about your skills and
+interests!
+Please note that the deadline for applications is Sunday, January 31, 2027, at midnight PST.
+Applicants will be informed of the selection decisions on or before Friday, February 26, 2027.
+NBME's mission is:
+NBME advances assessment of health care professionals to achieve optimal care for all.
+At NBME, we are dedicated to advancing the assessment of health care professionals to achieve optimal care for all. While centered on assessment of physicians,
+this mission encompasses the spectrum of health professionals along the continuum of education, training and practice and includes research in evaluation as
+well as development of assessment tools.
+Realizing this mission requires several continuous large-scale research projects across multiple divisions at NBME. These research projects usually fall into
+one of the following categories:
+Operational Research
+This research supports NBME's current portfolio of assessments. Utilizing already defined capabilities and focusing on established constructs, this foundational
+programmatic research improves our existing measurement capabilities or gathers validity evidence for our assessments.
+Example projects:
+- Investigation of Response Times in K2 Statistic in Cheating Detection
+- Predicting item survival from authoring to use on live exams
+- Evaluation of Scoring Models for a New Assessment Format
+- Testing Security: Problems and Possible Solutions
+- Using Process Data to Improve Examinee Ability Estimation Precision
+- The Utility of Nonfunctioning Distractors for Credentialing Tests
+- Modeling the Conditions That Influence Response Time and Performance
+- Examining USMLE Step 1 Feature Usage: A Response Process Validity Study
+Capabilities Research
+This research advances NBME's abilities to develop deeper insights into assessment performance and examinee behavior, while improving processes for test
+development and evaluation. NBME has a dedicated Data Science and AI team that utilizes innovative methodologies, technologies, and tools to enhance how
+assessments are designed, delivered, and interpreted. In addition to doing work in data science and artificial intelligence, projects in this area include
+developing score reports and web-based applications.
+Example projects:
+- Investigating the Importance of Prosody in Patient-Centered Communication
+- Automated Short Answer Question Scoring with Adversarial Training
+- Automated distractor generation for clinical MCQs
+- Automatic Item Generation for Medical Assessment with Large Language Models: Challenges of Accuracy and Novelty
+- Using NLP to Explore Item Language Patterns as Part of Test Bias and Test Validity
+- Automatic Enemy Item Detection Using Natural Language Processing: Latent Semantic Analysis
+Constructs Research
+This research focuses on the development of complex constructs for which novel, innovative assessments in medical education are needed to facilitate learning
+and practice. Examples of such constructs include communication, clinical reasoning, and teamwork.
+Example projects:
+- Defining constructs and identifying the underlying skills and behaviors
+- Designing and prototyping new task types
+- Developing theories of action to guide assessment use
+- Articulating arguments and claims related to validity, fairness, and efficacy
+- Conducting qualitative and quantitative studies to gather evidence supporting assessment interpretations and intended uses
+About NBME
+NBME is a not-for-profit organization that specializes in the creation of assessments and learning tools for physicians and health professionals. Our mission is
+to advance assessment of these professionals to achieve optimal care for all, supporting the development of a highly effective, diverse and compassionate health
+care workforce.
+Founded in 1915, NBME develops and manages the United States Medical Licensing Examination® with the Federation of State Medical Boards. We offer a
+comprehensive portfolio of assessment products for every stage of the medical school journey and provide assessment services to various health profession
+organizations.
+We are dedicated to advancing innovative assessment approaches through research, collaboration and contributions to the medical education and assessment
+communities. In 2024, we expanded our assessment capabilities to include simulation through the acquisition of MedVR Education.
+Learn more on NBME's website.
+NBME's Community Collaborations and Contributions
+NBME believes that a

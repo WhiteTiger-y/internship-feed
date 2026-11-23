@@ -1,0 +1,72 @@
+Introduction
+ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are
+key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our
+customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more
+powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices
+in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.
+Job Mission
+The Controls team develops high-speed, real-time control solutions that operate and regulate the EUV light source in a highly automated environment.
+The Data & AI Controls Intern will work with controls, software, firmware, and data/AI engineers to investigate how data-driven modeling, machine learning,
+optimization, and AI-enabled engineering workflows can complement physics-based control approaches.
+The internship will focus on solving real engineering problems using machine and simulation data, while considering the practical requirements needed to move
+algorithms from exploration toward implementation.
+This position may require access to controlled technology, as defined in the Export Administration Regulations (15 C.F.R.
+- 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require the
+Company to proceed with candidates who are immediately eligible to access controlled technology.
+Job Description
+- Work in a multidisciplinary engineering team alongside experienced controls, software, firmware, and data/AI engineers.
+- Analyze experimental, simulation, and high-rate time-series data from complex mechatronic and control systems.
+- Develop and evaluate data-driven or AI/ML models for applications such as {{b}}state estimation, virtual sensing, system modeling, anomaly detection,
+optimization, or control-system performance improvement{{/b}}.
+- Develop reproducible data-processing and analysis workflows using Python and engineering data-science tools.
+- Combine {{b}}physics-based/domain models with data-driven approaches{{/b}} where appropriate, rather than treating machine learning as a standalone solution.
+- Evaluate models not only for predictive accuracy, but also for robustness and engineering constraints such as latency, sampling rate, bandwidth, compute
+requirements, and deployment feasibility.
+- Support prototyping and validation using simulation, test benches and, where appropriate, experimental machine data.
+- Apply optimization techniques to engineering problems and compare data-driven approaches against established baselines.
+- Document assumptions, methods, results and limitations, and communicate findings to technical stakeholders.
+- Present internship results and recommendations to the Controls team at the end of the assignment.
+Education and Experience
+- Pursuing a Bachelor's, Master's or PhD degree in {{b}}Controls, Electrical Engineering, Mechanical Engineering, Computer Science, Data Science, Applied
+Mathematics, Robotics, Physics, Aerospace Engineering, or a related technical discipline{{/b}}.
+- Experience with {{b}}Matlab/Simulink{{/b}} and strong programming skills in {{b}}Python{{/b}}, with experience analyzing numerical or scientific data.
+- Familiarity with foundational machine-learning concepts, including training/validation, regression/classification, model evaluation, overfitting and feature
+engineering.
+- Working knowledge of numerical analysis, statistics, optimization, system modeling, or signal processing.
+- Ability to work with large, multidimensional or time-series datasets.
+- Ability to translate an engineering problem into a quantitative analysis or modeling problem.
+- Strong analytical and problem-solving skills.
+- Exposure to data pipelines, cloud/data platforms, or tools such as {{b}}Databricks{{/b}} is a plus.
+- Experience with control theory, Kalman filtering, virtual sensors or hybrid physics/ML models is a plus.
+- Familiarity with embedded/edge AI, FPGA/SoC, GPU-based inference or real-time systems is a plus.
+- Familiarity with LLM-assisted/software-agent engineering workflows is a plus.
+Skills & Competencies
+- Demonstrates curiosity and ability to rapidly learn and apply emerging AI/data technologies, while critically evaluating model accuracy, robustness,
+explainability and applicability to the underlying engineering problem.
+- Can observe and respond to people and situations and interact with others encountered in the course of work.
+- Can learn and apply new information or skills.
+- Must be able to read and interpret data, information, and documents.
+- Strong customer focus and commitment to customer satisfaction through prioritization, quality, efficiency and professionalism.
+- Ability to complete assignments with attention to detail and high degree of accuracy.
+- Proven ability to perform effectively in a demanding environment with changing workloads.
+- Result driven-demonstrate ownership and accountability.
+- Identifies bottlenecks and drives improvements.
+- Work independently or as part of a team and follow through on assignments with minimal supervision.
+- Demonstrate open, clear, concise and professional communication.
+- Ability to establish and maintain cooperative working relationships with co-workers and customer.
+- Work according to a strict set of procedures within the provided timelines.
+Other Information
+- This position is located on-site in San Diego, CA. It requires onsite presence to attend in-person work-related events, trainings and meetings and to further
+ensure teamwork, collaboration and innovation.
+- Routinely required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch. Occasionally
+required to move around the campus.
+- Occasionally lift and/or move up to 20 pounds.
+- Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.
+- Must be willing to work in a clean room environment, wearing coveralls, hoods, booties, safety glasses and gloves for entire duration of shift.
+- While performing the duties of this job, the employee routinely is required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop,
+kneel, crouch, twist, reach, and stretch.
+EOE AA M/F/Veteran/Disability
+Potential candidates will meet the education and experience requirements provided on the above job description and excel in completing the listed
+responsibilities for this role. All candidates receiving an offer of employment must successfully complete a background check band any other tests that may be
+required.
+P

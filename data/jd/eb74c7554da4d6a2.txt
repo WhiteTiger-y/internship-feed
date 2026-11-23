@@ -1,0 +1,36 @@
+Product Engineer Intern at Nirmata - AI Governance - San Jose
+Internship terms:
+Duration: 3 months minimum
+Start Date: ASAP
+Employment type: full time (40 hours/week)
+Location: hybrid, 1 day in the office (Techmart, Santa Clara)
+About Nirmata:
+Nirmata is the Creator of Kyverno — the Kubernetes-Native Policy Engine — and the innovator behind the AIControls Platform. Nirmata allows enterprises to
+securely scale Kubernetes and govern autonomous software by enabling multi-cluster policy management and continuous compliance. With AIControls, we govern every
+AI agent, LLM, and tool call in Kubernetes clusters, enforced by deterministic policy and logged for audit. Nirmata empowers enterprise DevOps and security
+teams by fully automating the complex operations, governance, and management of cloud-native applications and AI workloads.
+Job Description:
+As an AI/ML Software Engineer Intern, you will define and implement the infrastructure powering Nirmata's AIControls platform. You will contribute to the
+development of robust AI-governance features, ensuring secure, compliant, and cost-effective execution of AI agents across enterprise environments. A critical
+part of this role involves integrating secure runtime environments, specifically leveraging OpenShell (sandboxing) to enforce deterministic runtime controls and
+contain agent behavior safely. This is a unique opportunity to contribute to a rapidly growing domain at the intersection of generative AI and Kubernetes
+security within a fast-moving startup.
+Qualifications:
+Education: Bachelor's or Master's degree student in Computer Science or a related field.
+Focus: Machine learning, data science, and AI governance.
+Languages: Experience with Golang, Rust, Java, Python or similar.
+Technologies:
+AI Agents & Tooling: Hands-on experience with autonomous AI agents, Model Context Protocol (MCP) servers, and agent-to-agent (A2A) communications.
+Sandboxing & Isolation: Familiarity with OpenShell (sandboxing), microVMs, and building secure runtime boundaries for untrusted AI workloads.
+Generative AI & LLMs: Familiarity with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), prompt injection defense, and behavior anomaly
+detection.
+Small Language Models (SLMs): Knowledge of SLM design, fine-tuning, and optimized inference routing.
+Cloud Native: Strong interest in Kubernetes, cloud-native technologies, and policy engines (e.g., Kyverno, CEL).
+What We Offer:
+Build great products and software used by millions around the world.
+Ownership and freedom to innovate.
+Hands-on experience with real-world software development projects in the emerging AI governance and security space.
+Mentorship from experienced software engineers building the AIControls and Kyverno ecosystems.
+An inclusive and collaborative work environment.
+The opportunity to be part of an early-stage startup defining the standard for agentic security.
+This role requires authorization to work in the United States. Students on F-1 visas with valid CPT or OPT work authorization are welcome to apply.

@@ -1,0 +1,72 @@
+Learning begins in the classroom but there’s no better place to gain real-world experience than with Stantec. Interns are an integral part of our teams, working
+to solve some of the world's most complex challenges.
+As an intern, you’ll work alongside our experienced practitioners and with our clients and communities. This hands-on experience will equip you with practical
+skills, build your network, and provide opportunities that set you up for success.
+This Data Science, Machine Learning, and AI Intern will work on a range of projects focused on the implementation and advancement of research and digital tools
+and technologies focused on the water, wastewater, biosolids and energy sectors. The intern will work closely with Water BOU’s data strategy manager, machine
+learning leader, director of innovation and technology and other team members. The intern will contribute to the initiatives such as Water BOU’s Digital
+Transformation and development of digital solutions to support project delivery. Depending on project needs, work may include exploratory data analysis (EDA),
+statistical testing, machine learning, generative AI, data visualization, and the development of reproducible data workflows. The intern will report to an
+Innovation Portfolio Manager in OI&T.
+What You Will Do
+- Clean, explore, and analyze structured and unstructured data from water and infrastructure projects.
+- Build and evaluate statistical, machine learning, or AI prototypes using appropriate validation methods and clearly documented assumptions.
+- Create clear visualizations, summaries, and demonstrations that communicate findings to both technical and nontechnical audiences.
+- Contribute to reproducible workflows using Python, notebooks, version control, and well-organized documentation.
+- Collaborate with ORIT team members and subject-matter experts to define problems, test ideas, and iterate through short proof-of-concept cycles.
+- Research emerging data science, machine learning, generative AI, and low-code/no-code capabilities and assess their relevance to real business needs.
+- Follow responsible AI, data privacy, security, and quality practices when working with project information.
+Knowledge, Skills, And Abilities
+- Strong analytical thinking and a practical approach to problem solving.
+- Working knowledge of Python for data analysis or machine learning. Experience with common libraries such as pandas, NumPy, scikit-learn, PyTorch, or
+TensorFlow is helpful.
+- Foundational understanding of statistics, data preparation, model evaluation, and responsible use of AI.
+- Ability to explain technical work clearly through writing, presentations, visualizations, and well-documented code.
+- Ability to manage assigned work, ask thoughtful questions, and communicate progress or blockers.
+- Curiosity, willingness to experiment, and comfort learning unfamiliar tools or subject areas.
+- Collaborative mindset and willingness to share ideas, receive feedback, and work with multidisciplinary teams.
+- Familiarity with Git/GitHub or Azure DevOps, SQL, cloud analytics platforms, Microsoft Fabric, Azure, Power BI, or low-code/no-code tools is a plus, not a
+requirement.
+Education and/or Experience
+- Currently pursuing a bachelor’s or master’s degree in data science, computer science, statistics, applied mathematics, engineering, environmental science, or
+a related quantitative field.
+- Coursework, research, personal projects, hackathons, or prior work experience involving data analysis, machine learning, AI, or software development.
+- Experience with Python is required.
+\#Student
+What Will Help You Stand Out
+- A portfolio, GitHub repository, class project, research example, or brief work sample that shows how you approached a data or AI problem.
+- Experience comparing models, documenting experiments, or explaining why a method was selected.
+- Exposure to generative AI, natural language processing, time-series forecasting, optimization, MLOps, AgentOps.
+- Interest in developing solutions that are not only technically sound, but also usable, maintainable, and aligned with business needs.
+This description is not a comprehensive listing of activities, duties or responsibilities that may be required of the employee and other duties,
+responsibilities and activities may be assigned or may be changed at any time with or without notice.
+Stantec is a place where the best and brightest come to build on each other's talents, do exciting work, and make an impact on the world around us. Join us and
+redefine your personal best. #FeelingEnergized
+Pay Range
+- $23.47 - $34.50 Hourly
+Pay Transparency: In compliance with pay transparency laws, pay ranges are provided for positions in locations where required. Please note, the final agreed
+upon compensation is based on individual education, qualifications, experience, and work location. At Stantec certain roles are bonus eligible. Actual
+compensation for part-time roles will be pro-rated based on the agreed number of working hours per week.
+Benefits Summary: Regular full-time and part-time employees (working at least 20 hours per week) have access to medical, dental, and vision plans, a wellness
+program, health saving accounts, flexible spending accounts, 401(k) plan, employee stock purchase program, life and accidental death & dismemberment (AD&D)
+insurance, short-term/long-term disability plans, emergency travel benefits, tuition reimbursement, professional membership fee coverage and paid family leave.
+Regular full-time and part-time employees will receive ten paid holidays in each calendar year. In addition, employees will be eligible to accrue vacation
+between 10 and 20 days per year and eligible for paid sick leave (and if more generous, in accordance with state and local law).
+Temporary/casual employees have access to 401(k) plans, employee stock purchase program, and paid leave, in accordance with state and local law.
+The benefits information listed above may not apply to union positions because benefits for such positions are governed by applicable collective bargaining
+agreements
+Primary Location: United States | CA | San Diego
+Other Locations: United States | CO | Denver
+Organization: BC-2567 Water-US Assets
+Employee Status: Temporary
+Management Level: Internship
+Business Justification: New Position
+Travel: No
+Schedule: Full time
+Job Posting: 23/11/2026 01:11:13
+Req ID: 1009005
+\#additional
+Stantec provides equal employment opportunities to all qualified employees and applicants for future and current employment and prohibit discrimination on the
+grounds of race, colour, religion, sex, national origin, age, marital status, genetic information, disability, sexual orientation, gender identity or gender
+expression. We prohibit discrimination in decisions concerning recruitment, hiring, referral, promotion, compensation, fringe benefits, job training,
+terminations or any other condition of employment. Stantec is in compliance with laws and regulations and ensures equitable opp

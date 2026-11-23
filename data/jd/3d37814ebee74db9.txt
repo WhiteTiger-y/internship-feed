@@ -1,0 +1,48 @@
+The Role
+As an AI Engineering Intern, you help build and ship AI applications, agents and platforms for our clients, alongside our AI Applied Engineers, AI Architects
+and AI Product Managers.
+This is a paid internship in New York for students in a Bachelor's or Master's programme. You work on real client missions alongside our Engineering & Deploy
+teams and learn by building.
+What You'll Do
+- Build features of AI applications and agents with guidance: front end, back end or data.
+- Write tested Python code and contribute to evals for model and agent outputs.
+- Help build data pipelines, retrieval or platform components.
+- Turn prototypes into maintainable code, and document what you build.
+- Use AI coding tools daily to ship faster without lowering quality.
+What We're Looking For
+- You are studying computer science, engineering, data science or a related field.
+- You write Python and know the basics of software engineering (Git, tests).
+- You have built something with LLMs, agents or RAG, even a side project.
+- You explain your technical choices clearly, in fluent English.
+You don't need to tick every box to apply. If you match most of these and want to learn the rest, we want to hear from you.
+Recruitment process
+- HR interview (45 min)
+- Technical interview (60 min) with an engineer from your archetype
+- System design (60 min) with two engineers from different archetypes
+- Hands-on build (60 min) with an engineer from your archetype
+- Fit interview (30 min) with a Director
+About Artefact
+Artefact is the trusted AI deployment team to the world's leading companies: 3,000 AI makers in more than 30 countries and more than 1,000 clients. In the US,
+you join the Engineering & Deployment department, in the AI Applied chapter.
+Why you should join us
+We are united by our values and strengthened by our hybrid expertise.
+- There is always a way: We're from the breed of does, of diggers, of makers. Because ideas are valuable only if executed.
+- Client trust is won on the field: Addressing client needs flows better hands on at their side.
+- If not used, it is useless: Our love for technology translates into a steep desire for adoption, true brilliance is about impact.
+- If not shared, our work is not done: Sharing knowledge is the best way to button up a mission, benefitting clients and colleagues.
+- We learn everyday: Tech is a land where everything move at the speed of light, you better be ready to challenge yourself.
+How We Support Our People
+In addition to our values-driven culture, we offer a range of benefits and programs designed to support our employees' growth and well-being, including:
+- Learning and Development: Work alongside a multidisciplinary team of AI, data, and consulting experts who are committed to continuous learning, knowledge
+sharing, and professional growth.
+- Hybrid Flexibility: Our hybrid work model gives you the flexibility to balance collaboration, client needs, and personal commitments.
+- Comprehensive Benefits: We offer a competitive benefits package that includes medical, dental, and vision coverage, a 401(k) plan with company matching, and
+paid parental leave.
+- Time to Recharge: We believe sustainable performance matters. That's why we offer unlimited paid time off, giving you the flexibility to take the time you
+need.
+- Growth Opportunities: As a rapidly growing organization, you'll have the opportunity to expand your skills, take on new challenges, and help shape the future
+of the company.
+Artefact is an equal opportunity employer. We hire on skills and potential, and we welcome applicants of every background, identity and experience. If you need
+an adjustment at any step of the hiring process, tell your recruiter.
+The estimated base compensation for this internship is $45,000 - $55,000 annualized (NYC location), depending on whether the candidate is in a Bachelor's or
+Master's programme. Individual compensation is determined by skills, qualifications, and experience.

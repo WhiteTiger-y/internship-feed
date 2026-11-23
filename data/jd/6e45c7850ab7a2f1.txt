@@ -1,0 +1,74 @@
+Company
+Qualcomm Technologies, Inc.
+Job Area
+Interns Group, Interns Group > Interim Engineering Intern - SW
+General Summary
+About Qualcomm
+Qualcomm relentlessly innovates transforming businesses, enriching lives and fortifying societies. Our solutions are pivotal in crafting a smarter,
+interconnected world. Building on our nearly 40-year history of era-defining technology breakthroughs, we deliver leading-edge AI, high performance, lower-power
+computing, and unrivaled connectivity. We’re proud to be the partner of choice to many of the world’s largest enterprises. Together with our ecosystem partners,
+we enable next-generation digital transformation. At Qualcomm, we are engineering human progress.
+Join Us in Shaping the Future
+At Qualcomm, we're committed to engineering human progress by delivering intelligent computing everywhere. We're passionate about harnessing the power of
+technology to transform industries and improve lives. Our early career programs offer limitless opportunities for growth, mentorship, and meaningful work. By
+joining our team, you'll be part of a community that's pushing the boundaries of what's possible in AI, computing, and connectivity. With a global footprint
+spanning over 30 countries, you'll have the chance to collaborate with diverse talent and contribute to projects that are shaping the future of technology.
+Our early career programs are designed to attract inventive minds, offering a platform to contribute to our long-term innovation pipeline. You'll be part of a
+community that values collaboration, creativity, and continuous learning. Our programs provide real-world experience, technical skills, and professional
+development opportunities, empowering you to make a meaningful impact and achieve your career goals. Join us for our U.S. 2027 summer intern class!
+Maximize Your Opportunities
+Our internship hiring model routes candidates from this application into multiple project specific roles. Your "Profile Visibility" choice will guide how we
+manage your data across our systems. To be considered for the full breadth of internship opportunities, select the option to use your profile data for "Any
+Roles Globally".
+If you choose to limit your data to "Only The Role I'm Applying For", it will restrict the opportunity for you to be considered across matching internship
+opportunities.
+You can update your profile visibility preferences at any time through the Candidate Home Portal.
+Steps
+- Log Into Your Eightfold Candidate Home Account
+- Hover Over The "Profile" Dropdown
+- Open Settings
+- Edit "Profile Visibility"
+Role Overview
+As a Machine Learning / AI Engineering Intern, you will help build best-in-class solutions and tools that enable state-of-the-art technologies for next-
+generation mobile and embedded machine learning platforms. These platforms power smartphones, autonomous vehicles, robotics, and IoT devices. You’ll work in a
+dynamic research environment as part of a multi-disciplinary team of researchers and software developers, collaborating with internal teams, working with
+popular neural network frameworks, and gaining exposure to Qualcomm’s SOC compute and ML hardware accelerators. Projects may also focus on AI systems
+infrastructure, distributed inference platforms, compiler technologies, runtime systems, GPU acceleration, model serving, performance optimization, and large-
+scale deployment of machine learning workloads. You will design, develop, and test software for machine learning tools and frameworks that make models smaller
+and more efficient for edge devices.
+This internship supports the Machine Learning/ AI Engineering track. Based on your resume you will be aligned to projects within this track.
+Minimum Qualifications
+- Currently enrolled in a bachelor’s, master’s, or Ph.D. degree program in computer engineering, computer science, electrical engineering, or a related field
+- Must be available for 11–14 weeks during Summer 2027 (May–September)
+- Expected graduation date of November 2027 or later
+- 1+ years of experience with programming languages such as C, C++, Python
+Preferred Qualifications
+- Currently enrolled in a Master’s or PhD degree program in computer engineering, computer science, electrical engineering, or a related field
+- Candidates actively pursuing a degree with an anticipated graduation between November 2027 and June 2028
+- Proficiency in deep neural networks, machine learning algorithms, and architectures (CNNs, RNNs, LSTMs)
+- Experience with ML frameworks like TensorFlow, TFLite, PyTorch
+- Skills in neural network programming, video/image processing, and application development
+- Knowledge of compiler frameworks (LLVM, GCC, TVM, XLA) and parallel computing
+- Experience with AI infrastructure, inference systems, distributed computing, runtime systems, GPU programming, CUDA, Kubernetes, MLIR, or performance
+optimization of machine learning workloads.
+- Understanding of linear algebra operations and fast math libraries
+- Theoretical knowledge of ML, deep learning, model compression, quantization, and optimization
+- Experience with reinforcement learning, neural architecture search, kernel optimization, Bayesian optimization
+- Familiarity with on-device training, transfer learning, personalization, federated learning, NLP, and ML security/privacy
+- Experience with deep generative models, audio/speech processing, NLP, computer vision, and wireless communication
+- Background in ML data pipelines, data management, backend/frontend applications
+- Research excellence with publications in NeurIPS, CVPR, ICML, ICLR, ICCV
+- Experience in object-oriented software design (OOSD)
+Qualcomm’s Internship Program
+Our interns join world-class teams to help define and build what is next for mobility and the world. You’ll be paired with a mentor with visibility to your
+project and team, receive support from your manager, and have access to the entire Qualcomm employee community to ensure your success. To round out your summer
+internship, we host professional development workshops, social events, cross-functional speaker sessions, and an executive speaker series. In addition to
+competitive hourly pay and accrued vacation time, you will receive relocation coverage and furnished housing accommodations for the duration of your internship.
+Internship opportunities may be available in the following locations, depending on team and project needs: Austin, Boulder, Boxborough, Bridgewater, Chandler,
+Irvine, New York City, Louisville, Raleigh, San Diego, Santa Clara, and Seattle.
+Application Process
+By applying here, you are expressing interest in one of our many 2027 Qualcomm Machine Learning / AI Engineering internships. It is important to note that this
+is not a job posting for a specific project. We will review resumes on an ongoing basis, and a recruiter may reach out to you. Advancing candidates may be
+invited to complete a timed HackerRank challenge to evaluate their technical skill set.
+Export Control Notice
+This role may require

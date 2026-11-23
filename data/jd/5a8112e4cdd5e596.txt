@@ -1,0 +1,47 @@
+ASRC Federal is a leading government contractor furthering missions in space, public health and defense. As an Alaska Native owned corporation, our work helps
+secure an enduring future for our shareholders. Join our team and discover why we are a top veteran employer and Certified Great Place to Work™
+ASRC Federal’s Summer Technology Readiness Intern Development Experience (STRIDE) offers undergraduate college students the chance to apply their technological
+interests and knowledge to exciting real-world missions.
+We are seeking a Data Analyst Intern to support our government customer in Moorestown, NJ. This role is a temporary, hybrid position.
+Work location: Hybrid with an opportunity to go to our office located in Moorestown, NJ. Local intern candidates preferred. Relocation assistance, housing, or
+stipends are not provided.
+Security: Must be a US Citizen to successfully complete a government issued background investigation to access to customer site (must have lived continuously in
+the continental United States for the past three years). Active Secret clearance preferred, not required.
+Program dates: 12-week period, Monday, May 17 (soft start) to August 4, 2027
+Hours: 32 hours per week
+Rate: $23/hour
+Summary: This opportunity is a research and development effort to support the modernization of legacy code with AI. You will be working with a small research
+team to determine the specific techniques being evaluated, evaluation criteria and the methods and tools used.
+Education
+- Currently enrolled in a bachelor’s program in Computer Science or Data Science
+- Must be a current junior, senior or graduate student in college at the time of application.
+Requirements
+- Basic knowledge of UNIX-like Operating Systems (i.e., Linux, Solaris, IRIX) and operating system administration (i.e., Red Hat Enterprise / CentOS Linux)
+- Coursework in areas including software development, object-oriented analysis and design, Python, Java, C/C++
+- Understanding and practical knowledge of Large Language Models (LLMs) and strong understanding of AI
+- Good written and spoken communication including developing technical documentation
+- Persistent and hard-working and enthusiastic outlook
+- Good written and verbal communication skills
+Desired Qualifications
+- Experience with publish/subscribe architectures such as DDS; CI/CD/DevSecOps tools such as Jenkins.
+- Agile systems and/or bug tracking systems such as Atlassian Jira.
+- Experience with AWS
+- Experience with Docker
+- Data analysis skills
+- Experience in cyber security and/or systems/software integration.
+- General understanding of real-time mission critical systems is a plus
+- Background in military systems is a plus
+Interns will work closely with dedicated mentors and managers, fostering meaningful connections within our company while exploring a range of technology
+disciplines. Additionally, interns will have the opportunity to contribute to research projects developed by our tech experts. While extensive work experience
+is not required, a commitment to learning and a genuine passion for emerging technological advancements are essential.
+Company: ASRC Federal is the government services subsidiary of Arctic Slope Regional Corporation, an Alaska Native Corporation owned by over 14,000+ Iñupiat
+shareholders – we bring 9,000+ experts supporting 30+ government agencies. From space exploration to cyber defense to military base operations, our capabilities
+span IT modernization, engineering, mission support, and logistics, driving critical outcomes in national security and public health. Our work helps to secure
+an enduring future for ASRC shareholders.
+We invest in the lives of our employees, both in and out of the workplace, by providing competitive pay and benefits packages. Benefits offered may include
+health care, dental, vision, life insurance; 401(k); education assistance; paid time off including PTO, holidays, and any other paid leave required by law. The
+salary offered will depend on several factors including, but not limited to, relevant experience, skills, education, geographic location, internal equity,
+business needs, and other factors permitted by law. Posted pay ranges are a general guideline only and are not a guarantee of compensation or salary.
+EEO Statement
+ASRC Federal and its Subsidiaries are Equal Opportunity employers. All qualified applicants will receive consideration for employment without regard to race,
+sex, color, age, national origin, religion, disability, protected veteran status, or any other factor prohibited by applicable law.

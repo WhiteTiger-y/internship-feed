@@ -1,0 +1,42 @@
+Job Description
+As an Intern for Energy and Utilities Software Product Design and AI Development supporting Honeywell’s Forge for Utilities software, you will help design,
+prototype, and evaluate AI-enabled capabilities that improve how utilities plan, operate, and optimize the distribution grid. You will work closely with AI
+engineers, power-systems specialists, data scientists, product teams, and utilities to turn utility use cases into practical software solutions.
+In this role, you will contribute to roadmap initiatives such as agentic AI for load-flow analysis, electricity rate design, virtual power plant and distributed
+energy resource management system (DERMS) operations, peak-load reduction, and load and distributed-energy-resource forecasting. Your work will emphasize
+technically sound methods, measurable results, and solutions that can be integrated into trusted utility workflows.
+Responsibilities
+Key Responsibilities
+- Prototype and evaluate AI and machine-learning capabilities for electricity distribution planning and operations
+- Develop agentic AI workflows that can assist with load-flow studies, scenario analysis, and engineering decision support while maintaining traceability and
+appropriate human oversight
+- Explore analytics and optimization approaches for rate design, DERMS and virtual power plant operations, demand flexibility, and peak-load reduction
+- Build and validate forecasting models for load, distributed energy resources, and other grid-relevant time-series data
+- Prepare, analyze, and quality-check utility datasets; define metrics and experiments to assess model accuracy, robustness, and operational value
+- Collaborate with software, product, and domain teams to integrate prototypes into existing platforms, document findings, and communicate recommendations
+Qualifications
+YOU MUST HAVE
+- Pursuing a Master’s or PhD degree in Computer Science, Artificial Intelligence, Data Science, Electrical Engineering, Operations Research, or a related field.
+- Must continue enrollment in degree program upon completion of the internship.
+- Validated academic excellence (3.0 GPA and higher).
+- Coursework or project experience in electrical engineering, electric power systems, distribution networks, load flow, energy markets, demand response, DERMS
+or visual power plants.
+- Experience or coursework in artificial intelligence, machine learning, data science, optimization, or a related technical field
+- Proficiency in Python and experience using data-analysis and machine-learning libraries
+- Ability to design experiments, evaluate models using appropriate metrics, and communicate technical results clearly
+- Familiarity with modern AI frameworks and software-development practices, including version control, testing, and reproducible workflows
+WE VALUE
+- Experience with time-series forecasting, optimization, simulation, reinforcement learning, large language models, or AI agents and tool use
+- Strong analytical and problem-solving skills, curiosity about utility operations, and attention to data quality and model reliability
+- Ability to work collaboratively across engineering, data science, product, and customer-facing teams
+The hourly base range for this position is $34/hr. - $39/hr. Please note that this salary information serves as a general guideline. Honeywell considers various
+factors when extending an offer, including but not limited to the scope and responsibilities of the position, the candidate's work experience, education and
+training, key skills, as well as market and business considerations.
+Honeywell is currently unable to consider applicants who would require current or future sponsorship for employment authorization for this position. Candidates
+must be authorized to legally work in the United States without current or future sponsorship
+About Us
+Honeywell Technologies is a global, pure-play automation company with a legacy of innovating to help solve the world’s most mission-critical challenges,
+enhancing the quality of life for people and communities around the world. We serve the building, industrial and process sectors with a broad portfolio of
+services, solutions and products, underpinned by our Honeywell Technologies Accelerator operating system and Honeywell Technologies Forge intelligence layer. By
+combining the deep domain expertise of our more than 50,000 employees with decades of data from our global installed base, we are uniquely positioned to lead
+the industrial sector’s transition from automation to autonomy.

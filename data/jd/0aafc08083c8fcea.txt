@@ -1,0 +1,63 @@
+MIT Lincoln Laboratory sits at the intersection of academia, industry, and government. Our nationally-recognized staff work collaboratively to solve some of the
+nation’s most challenging problems. As part of the ISR and Tactical Systems Division, we team broadly across MIT Lincoln Laboratory to address a wide variety of
+problems through analysis, design, prototyping, and testing. Our teaming culture energizes our staff and fosters a high level of collaboration among a wide
+array of skills and experience levels. In addition, the group values work-life balance, using hybrid arrangements and flexible schedules to maximize
+productivity.
+The Embedded and AI Systems Group designs and prototypes cutting-edge AI and edge processing systems to meet the most demanding national security challenges.
+Our research team — comprising top experts from MIT Lincoln Laboratory and close collaborators from the DAF-MIT AI Accelerator — applies AI to sensor
+exploitation, human–AI teaming, decision support, and mission autonomy, with a strong emphasis on deploying AI at the tactical edge. In addition, the group
+develops tools and techniques for establishing trust in AI and applying AI to engineering design and scientific discovery. We take technologies from concept to
+prototype, and ultimately to real-world demonstrations on relevant platforms — bridging the gap between research and operational deployment.
+We develop advanced AI capabilities for sensing, edge processing, autonomy, and decision-making systems, with a focus on transitioning early-stage research into
+working prototypes. Our work emphasizes deploying AI in real-world environments with constrained compute, power, and data.
+The group is committed to a diverse and inclusive workspace. We understand that a diverse workplace fosters a creative and productive atmosphere and we are
+dedicated to making sure that every staff member in the group is supported in their work and that every voice is heard. The Laboratory sponsors resource groups
+and events dedicated to a wide variety of identities.
+Position Description
+We are seeking Embedded and AI Research Engineer Interns to develop, optimize, and deploy machine learning models and other algorithms on resource-constrained
+(low size, weight, and power) platforms. This role focuses on bridging cutting-edge AI research with practical implementations that operate reliably under real-
+world constraints, including limited compute, noisy data, and degraded conditions.
+The ideal candidate is motivated to make AI systems work outside of idealized settings—balancing performance, efficiency, and robustness.
+Potential efforts include:
+- Design, implement, and evaluate algorithms for detection, identification, and other AI/ML related capabilities using data from sensors and other sources
+- Real-time implementation and optimization of advanced machine learning and signal processing algorithms onto a variety of computational elements such as CPUs
+and GPUs
+- Implement, evaluate, and benchmark novel algorithms in signal processing, machine learning, scheduling and/or distributed systems
+- Report findings using strict scientific methodology, including quantitative findings and statistical validation of findings
+Requirements:
+- Completed coursework in Software Engineering related areas of study such as Computer Science, Electrical Engineering, and/or Computer Engineering
+- Coursework in computer vision, human-ai interaction, natural language processing, deep learning, or graph algorithms is a plus
+- Project and/or work experience in implementation of software in languages and tools such as C++, Java, Python or commercial Hardware Description Languages
+(HDLs)
+- Familiarity with PyTorch, LLMs, or other AI development libraries is a plus
+- Experience working in a technical project team(s)
+- Effective written and oral communication skills in technical environments
+- Previous applicable internship experience is a plus
+Summer Research Program Overview
+The Summer Research Program offers students the chance to apply their academic knowledge to real-world national security challenges while working alongside
+leading scientists and engineers. As an SRP intern, you’ll engage in hands-on research, receive dedicated mentorship, and take part in professional development
+opportunities including workshops, tech talks, and networking events—all while building connections within a vibrant community of peers.
+- Internships are typically 10–12 weeks, with flexible start and end dates, typically May through early August.
+- Housing support is available for eligible non-local interns, including access to discounted university housing in Boston and a one-time taxable relocation
+payment.
+- Complimentary daily shuttle transportation is provided from Boston-based housing to and from the Lab.
+Learn more about the Summer Research Program at: https://www.ll.mit.edu/careers/student-opportunities/summer-research-program
+Compensation
+Hourly pay rates below are effective January 2027 – December 2027. Rates are based on the highest academic year or degree completed before the internship start
+date.
+- Freshman year completed: $25.50/hour
+- Sophomore year completed: $27.50/hour
+- Junior year completed: $29.50/hour
+- 4th year of 5 year program completed, no degree conferred: $32.50/hour
+- Bachelors completed: $34.50/hour
+- Bachelors + 1, one year of graduate study completed: $36.50/hour
+- Bachelors + 2, two years of graduate study completed: $38.00/hour
+- MS completed: $39.00/hour
+- MS + 1, one year of graduate study completed after the MS: $41.00/hour
+- MS + 2, two years of graduate study completed after the MS: $42.50/hour
+- MS + 3, three years of graduate study completed after the MS: $43.50/hour
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status,
+or genetic information; U.S. citizenship is required.
+Requisition ID: 43770

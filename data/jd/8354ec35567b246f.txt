@@ -1,0 +1,63 @@
+About Precision Neuroscience
+Precision Neuroscience is building a next-generation brain–computer interface (BCI) to heal and empower millions of people living with neurological conditions.
+Our first product, Layer 7, is designed to help people with severe paralysis operate digital devices using only their thoughts—opening up new possibilities for
+daily life.
+Our team brings together experts in neurosurgery, AI and machine learning, microfabrication, electrical engineering, clinical science, and more. We combine deep
+technical rigor with a people-first mindset to turn breakthrough research into real-world medical solutions.
+As a Precision employee, you’ll join one of the fastest-moving and best-capitalized companies in the emerging field of brain–computer interfaces. Since our
+founding in 2021, we have raised more than $430 million, advanced our technology through validation, and initiated human trials with leading hospitals across
+the country.
+Our Values
+We build for human impact, measuring progress by the lives our work can change.
+We do no harm, holding ourselves to the highest standards of safety, integrity, and responsibility.
+We innovate with urgency because the stakes are high and our users can’t wait.
+We bring sharp minds, open ears, pairing expertise with curiosity, humility, and respect.
+And we lead the way, taking ownership of our work and helping to shape the future of our field.
+We are seeking a Machine Learning Research Intern to develop machine learning models that improve the reliability and generalization of our neural decoders
+across time and across subjects.
+In this role you will work with machine learning researchers, neuroscientists and clinicians to build models that decode motor intent and behavioral state from
+high-density neural recordings of our Layer 7 brain–computer interface. You will help design and implement models that will remain reliable over long periods of
+time, with minimal need for recalibration.
+This position will be based in our New York office. We are unable to consider remote workers or individuals who are not currently based in the US and not
+legally authorized to work in the US.
+Key Responsibilities
+- Work with cross-functional teams of neuroscientists, clinicians and software engineers to improve the reliability of our brain–computer interfaces.
+- Analyze large, complex neural datasets.
+- Develop novel machine learning models for reliable and robust neural decoding and behavioral state classification.
+- Design and run experiments to evaluate models against established baselines.
+- Communicate results clearly to technical and non-technical audiences.
+Skills, Knowledge And Expertise
+- Currently pursuing a PhD in machine learning, computational neuroscience, biomedical engineering, electrical engineering, computer science or a related field.
+- Prior experience implementing and training machine learning models, shown through publications or projects.
+- Deep understanding of machine learning fundamentals.
+- Experience analyzing large, complex datasets.
+- Experience with signal processing of time-series data.
+- Fluency in Python and experience with a deep learning framework such as PyTorch.
+- Strong plus: experience with analysis and modeling of neural data.
+- Strong plus: experience with transfer learning and domain adaptation.
+Diverse workforces create the best culture, company, and products. We at Precision are committed to an inclusive culture that celebrates the uniqueness and
+contributions of everyone.
+As an equal opportunity employer, Precision does not discriminate on the basis of sex, race, religion, national origin, disability status, protected veteran
+status, or any other characteristic protected by law.
+The actual base salary offered is determined by a number of variables, including, as appropriate, the applicant's qualifications for the position, years of
+relevant experience, distinctive skills, level of education attained, certifications or other professional licenses held, and the location of residence and/or
+place of employment.
+We prioritize candidate security. Please be aware that job offers will only come from emails ending with @precisionneuro.io
+All official Precision positions direct to https://www.precisionneuro.io/careers. Unauthorized third-party postings are not affiliated with Precision. Apply
+only through our careers page.
+Precision Neuroscience does not accept unsolicited resumes or candidate profiles from recruitment agencies, staffing firms, or third-party recruiters. Any
+resumes submitted without a prior written agreement and an authorized job order will be considered the property of Precision Neuroscience, and no fee will be
+owed in the event a candidate is hired. All qualified candidates should apply directly through our careers page.
+Diverse workforces create the best culture, company, and products. We at Precision are committed to an inclusive culture that celebrates the uniqueness and
+contributions of everyone.
+As an equal opportunity employer, Precision does not discriminate on the basis of sex, race, religion, national origin, disability status, protected veteran
+status, or any other characteristic protected by law.
+The actual base salary offered is determined by a number of variables, including, as appropriate, the applicant's qualifications for the position, years of
+relevant experience, distinctive skills, level of education attained, certifications or other professional licenses held, and the location of residence and/or
+place of employment.
+We prioritize candidate security. Please be aware that job offers will only come from emails ending with @precisionneuro.io
+All official Precision positions direct to https://www.precisionneuro.io/careers. Unauthorized third-party postings are not affiliated with Precision. Apply
+only through our careers page.
+Precision Neuroscience does not accept unsolicited resumes or candidate profiles from recruitment agencies, staffing firms, or third-party recruiters. Any
+resumes submitted without a prior written agreement and an authorized job order will be considered the property of Precision Neuroscience, and no fee will be
+owed in the event a candidate is hired. All qualified candidates should apply directly through our careers page.

@@ -1,0 +1,69 @@
+About Strava
+Strava is the app for active people. With over 200 million athletes in more than 185 countries, it’s more than tracking workouts—it’s where people make progress
+together, from new habits to new personal bests. No matter your sport or how you track it, Strava’s got you covered. Find your crew, crush your goals, and make
+every effort count. Start your journey with Strava today.
+Our mission is simple: to motivate people to live their best active lives. We believe in the power of movement to connect and drive people forward.
+As an Engineering Intern at Strava, you will be embedded in a team working on real projects that ship to our athletes and within the company, treated like a
+full-time member of the engineering team. You'll collaborate with cross functional teams that help us support and deliver to our athletes faster, while keeping
+them inspired and motivated.
+We’ll give you experienced mentors and all the tools you need to make a meaningful impact on our product. To see examples of what past interns have contributed,
+read our Engineering Blog!
+Available Internship:
+- Strava is looking for a Machine Learning Engineering Intern to join the Data Products team for Summer 2027.
+- The overall AI and Machine Learning team at Strava is responsible for sophisticated machine learning models and systems that power key Strava experiences,
+providing value to our athletes through personalization, recommendation, search, and trust and safety. This team also maintains the ML platform and
+infrastructure that lets us iterate on models quickly and deploy them reliably at scale.
+- This internship will specifically support the Data Products team, which sits at the core of Strava’s AI strategy, turning Strava’s unique community and
+activity data into reliable, reusable, enriched datasets that power experiences across the app. The team operates at the intersection of data engineering, ML
+platform engineering, and server engineering, building the pipelines and platform layer that let our proprietary embeddings, algorithms, and models reach
+athletes at scale.
+We follow a flexible hybrid model that requires you in our SF office four days per week.
+What You’ll Do:
+- Contribute to a focused project: Work with your mentor to pick and deliver a scoped piece of the Data Products team’s work. Depending on the team’s needs and
+your interests, this could be building a model that supports one of the team’s data products, designing an evaluation to measure how well our embeddings and
+models perform, or investigating a promising new dataset.
+- Experiment and analyze: Use Python, PyTorch, and SQL to explore Strava’s fitness and Geo data, run experiments, compare results against baselines, and
+document what you learn so the team can build on it.
+- Learn from the team: Work alongside machine learning engineers, data engineers, data scientists, and product managers, and pick up the practices that keep ML
+and data work reliable, like code review, reproducible experiments, and evaluation.
+- Share what you learned: Present your results to the team at the end of the summer.
+We’re excited about you because:
+- You have worked on machine learning problems through coursework, research, internships, or personal projects, and can break a problem down into incremental
+steps.
+- You write clear Python and have used tools like scikit-learn, Pandas, NumPy, and PyTorch or TensorFlow.
+- You are comfortable with SQL and exploratory data analysis.
+- You understand core ML concepts such as supervised learning, train/validation splits, evaluation metrics, and overfitting.
+- You communicate clearly, ask good questions, and enjoy collaborating with people of all experience levels.
+- You are curious about deep learning, and about how fitness and Geo data can improve the athlete experience.
+- You are currently pursuing a Bachelor’s degree in Computer Science or a related field, with an expected graduation date of May 2027, December 2027, or May
+2028, OR have recently completed or are currently enrolled in a coding bootcamp, technical training program, or are transitioning into software engineering
+through equivalent practical experience.
+Bonus points:
+- Experience with transformers, embeddings, or representation learning
+- Experience with large-scale data tools like Spark, or cloud tools like AWS and SageMaker
+- Research, open-source, or hackathon projects involving ML
+The Summer Internship Program:
+- The program will be in our San Francisco, CA office with a hybrid office attendance requirement of 4 days per week
+- Housing Stipend for Summer is provided to live in SF for 3 months
+- Length of program: 10-12 weeks (Summer 2027 roughly June through August).
+- Working Hours: 40 hours per week
+- This is a paid internship.
+California Consumer Protection Act Applicant Notice
+We will be closing applications for this role on Fri, Nov 27 at 5:00pm PST.
+Why Join Us?
+Movement brings us together. At Strava, we’re building the world’s largest community of active people, helping them stay motivated and achieve their goals.
+Our global team is passionate about making movement fun, meaningful, and accessible to everyone. Whether you’re shaping the technology, growing our community,
+or driving innovation, your work at Strava makes an impact.
+When you join Strava, you’re not just joining a company—you’re joining a movement. If you’re ready to bring your energy, ideas, and drive, let’s build something
+incredible together.
+Strava builds software that makes the best part of our athletes’ days even better. Just as we’re deeply committed to unlocking their potential, we’re dedicated
+to providing a world-class, inclusive workplace where our employees can grow and thrive, too. We’re backed by Sequoia Capital, TCV, Madrone Partners and Jackson
+Square Ventures, and we’re expanding in order to exceed the needs of our growing community of global athletes. Our culture reflects our community. We are
+continuously striving to hire and engage teammates from all backgrounds, experiences and perspectives because we know we are a stronger team together.
+Strava is an equal opportunity employer. In keeping with the values of Strava, we make all employment decisions including hiring, evaluation, termination,
+promotional and training opportunities, without regard to race, religion, color, sex, age, national origin, ancestry, sexual orientation, physical handicap,
+mental disability, medical condition, disability, gender or identity or expression, pregnancy or pregnancy-related condition, marital status, height and/or
+weight.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform
+essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+California Consumer Protection Act Applicant Notice

@@ -1,0 +1,62 @@
+Job Details
+Job Description:
+Position Overview We are seeking a highly motivated graduate engineering intern to support SATAS modeling, simulation, digital twin development, and system
+optimization activities. The intern will develop parameter-based engineering models that enable the SATAS team to evaluate manufacturing system capabilities,
+configurations, and design alternatives. These models will support What-If (WIF) scenarios used to assess equipment architecture, system sizing, material flow,
+capacity, throughput, equipment utilization, factory space, automated material handling requirements, energy productivity, and waste-reduction opportunities.
+The role combines analytical modeling, discrete-event simulation, systems engineering, optimization, sustainability analysis, and data analysis. The intern will
+work with engineering subject-matter experts to translate process flows, equipment specifications, operating assumptions, energy and utility inputs, material-
+loss drivers, and facility constraints into reusable decision-support models.
+Qualifications
+Minimum Qualifications
+- Graduate student pursuing an MS or PhD degree in Industrial Engineering, Systems Engineering, Mechanical Engineering, Manufacturing Engineering, Operations
+Research, Computer Science, Data Science, or a related technical discipline.
+- 3+ months of educational, research, laboratory, internship, or industry experience.
+- Strong academic performance with a cumulative GPA of 3.0 or higher preferred
+- Coursework or project experience in modeling and simulation, manufacturing systems, operations research, systems engineering, optimization, or industrial
+engineering.
+- Programming experience using Python, MATLAB, C++, R, or a similar technical language.
+- Experience developing analytical models using spreadsheets, engineering software, simulation tools, or programming environments.
+- Understanding of statistical analysis, data visualization, and structured engineering problem solving.
+- Ability to organize complex technical assumptions into a logical and maintainable model structure.
+- Ability to communicate modeling methods, assumptions, limitations, and results clearly.
+- Demonstrated ability to work independently while collaborating with a multidisciplinary technical team.
+Preferred Qualifications
+- Experience with discrete-event simulation software such as Siemens Plant Simulation, AnyLogic, FlexSim, Simio, Arena, or equivalent.
+- Experience developing digital twin, manufacturing simulation, logistics, or material-flow models.
+- Experience with mathematical optimization, design-space exploration, sensitivity analysis, Monte Carlo simulation, or design of experiments.
+- Knowledge of manufacturing capacity planning, factory physics, queueing theory, production scheduling, or operations research.
+- Coursework or project experience in industrial energy analysis, sustainable manufacturing, life-cycle thinking, material efficiency, yield improvement, or
+waste reduction.
+- Experience developing parameter-driven tools, reusable model libraries, application interfaces, or engineering dashboards.
+- Experience with Python data and optimization libraries, SQL, structured datasets, data pipelines, version control, or similar analytical toolsets.
+- Familiarity with CAD layouts, equipment footprints, facility modeling, or spatial analysis.
+- Knowledge of automated material handling systems, robotics, mobile robots, overhead transport, conveyors, or automated storage systems.
+- Familiarity with semiconductor manufacturing, assembly and test operations, advanced packaging, or high-volume manufacturing.
+- Experience verifying and validating models against physical systems, experimental data, or operational results.
+- Strong technical writing, presentation, and stakeholder communication skills.
+Job Type
+Student / Intern
+Shift
+Shift 1 (United States of America)
+Primary Location:
+US, Arizona, Phoenix
+Additional Locations:
+Posting Statement
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry,
+age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression,
+gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which
+include health, retirement, and vacation. Find out more about the benefits of working at Intel.
+Annual Salary Range for jobs which could be performed in the US: $133,498.00 - 170,602.00 USD
+The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Our standard internship
+rates are based on your degree, location, and the job role. Your recruiter can share more about the specific compensation range for your preferred location and
+job role during the hiring process.
+Work Model for this Role
+This role will require an on-site presence. * Job posting details (such as work model, location or time type) are subject to change.
+ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our
+hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you
+are asked to pay any fees during our hiring process, please report this immediately to your recruiter.
