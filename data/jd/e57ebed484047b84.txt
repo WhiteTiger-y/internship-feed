@@ -15,7 +15,7 @@ burgeoning technical field
 - Develop predictive models and other components of automated trading systems
 - Engage in work ranging from data preparation to model development to production software implementation
 Requirements
-- Current graduate student in a quantitative discipline, expecting to attain a Ph.D. degree in December 2026, or anytime in 2027
+- Current graduate student in a quantitative discipline, expecting to attain a Ph.D. degree in December 2027, or anytime in 2028
 - Background in modern statistical methods and machine learning
 - Key contributions to multiple top tier publications
 - Programming experience and interest in software development techniques

@@ -1,0 +1,33 @@
+Description
+Boehringer Ingelheim is currently seeking a talented and innovative Intern to join our Cardiometabolic Research Department located at our Ridgefield,
+Connecticut facility. As an Intern, you will help develop and implement a novel high content imaging approach to phenotypically characterize human proximal
+tubule epithelial cells from multiple donors under physiological and chronic kidney disease-relevant conditions.
+As an employee of Boehringer Ingelheim, you will actively contribute to the discovery, development, and delivery of our products to our patients and customers.
+Our global presence provides opportunity for all employees to collaborate internationally, offering visibility and opportunity to directly contribute to the
+companies' success. We realize that our strength and competitive advantage lie with our people. We support our employees in several ways to foster a healthy
+working environment, meaningful work, mobility, networking, and work-life balance. Our competitive compensation and benefit programs reflect Boehringer
+Ingelheim's high regard for our employeesDuties & Responsibilities
+- Adapt Cell Painting protocols established in 2D cell cultures to 3D primary proximal tubule epithelial cell cultures to characterize polarity, tight junction
+formation, and functional activity
+- Acquire high-content images to capture morphological features and polarity markers of interest
+- Quantify cellular features using an AI-based image-analysis software module
+- Induce chronic kidney disease-relevant perturbations to identify donor cells suitable for modeling disease biology
+Requirements
+- Must be a current graduate or advanced degree student in good academic standing
+- Student must be enrolled at an accredited college or university for the duration of the intern
+- Overall cumulative minimum GPA from last completed quarter/semester 3.0 GPA (on a 4.0 scale) preferred
+- Major or minor in related field of intern
+- Graduate and advanced degree students must have completed at least 9 credit hours at current college or university
+Eligibility Requirements:
+- Must be legally authorized to work in the United States without restriction
+- Must be willing to take a drug test and post-offer physical (if required)
+- Must be 18 years of age or older
+Compensation Data
+This position offers an hourly rate of $30.00/hr. - $33.00/hr. commensurate with the level of degree program in which an applicant is actively enrolled. We
+continuously review market data and may adjust salary ranges as needed in the future. Benefits include medical coverage, paid time off, paid holidays,
+disability and life insurance benefits, and other company-sponsored benefits. For additional information regarding our benefits and Total Rewards offerings,
+please click here.Desired Skills, Experience and Abilities
+- Academic background in cell biology, molecular biology, biomedical engineering, bioengineering, or a related life-science field
+- Hands-on cell-culture experience and interest in high-content microscopy
+- Experience with either primary / 3D cell-culture models or high-content cellular imaging and analysis is preferred
+- Strong attention to detail, data-analysis and problem-solving skills, and the ability to work collaboratively in a research environment

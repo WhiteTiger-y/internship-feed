@@ -1,0 +1,67 @@
+Job Description
+The Role:
+As a valued Intern in the Mechanics, Materials, and Process Research Lab at General Motors Research and Development, you will advance computational materials
+science at continuum length scales to accelerate the discovery, design, and deployment of materials for next-generation vehicle and manufacturing applications.
+You will propose new research directions, establish technical research plans, and lead collaborative studies that connect material composition, microstructure,
+processing, performance, and engineering requirements.
+You will develop and apply continuum-scale models, simulation workflows, and data-driven methods to generate new insights into materials behavior across
+relevant spatial and temporal scales. Your work will guide experimental research, enable efficient materials down-selection, and help translate computational
+discoveries into practical materials and manufacturing solutions. You will document and communicate results through high-quality technical reports, external
+publications, presentations, software or workflow documentation, and records of invention.
+The Team:
+This position supports the development of advanced materials and manufacturing technologies for future GM products and processes. The intern will work at the
+intersection of continuum-scale simulation, materials discovery, experimental validation, and application-focused engineering.
+What You’ll Do:
+- Plan and execute collaborative research in computational materials science, with emphasis on continuum-scale materials behavior and materials discovery.
+- Develop physics-based models for composition–process–structure–property relationships, including constitutive behavior, phase evolution, transport, damage,
+fracture, fatigue, thermal response, and multiphysics phenomena as appropriate.
+- Build and apply continuum and mesoscale simulation methods such as finite-element, phase-field, crystal-plasticity, computational fluid dynamics,
+reaction–diffusion, cellular automata, or related approaches.
+- Integrate thermodynamics, kinetics, mechanics, processing science, and materials data into predictive computational workflows.
+- Use simulation, high-throughput computation, optimization, and data-driven methods to screen candidate materials, compositions, processing conditions, and
+architectures.
+- Partner closely with experimental researchers to define informative experiments, interpret results, quantify uncertainty, and accelerate materials down-
+selection.
+- Establish model verification, validation, calibration, uncertainty quantification, and sensitivity-analysis practices appropriate for research and engineering
+use.
+- Connect computational materials insights to manufacturing processes and vehicle-relevant performance requirements.
+- Drive internal and external collaborations with GM engineering teams, universities, national laboratories, software developers, and research partners.
+- Maintain awareness of the state of the art in continuum mechanics, computational materials science, materials informatics, scientific machine learning, and
+related disciplines.
+- Prepare timely, high-quality technical reports, presentations, publications, software documentation, and invention disclosures.
+- Generate intellectual property to protect new inventions, computational methods, and research results.
+- Assist and mentor other employees in accomplishing project and research goals.
+Required Qualifications:
+- Pursuit of an Advanced degree (M.S. or Ph.D.) in one of the following areas: Materials Science and Engineering, Mechanical Engineering, Computational Science,
+Applied Mathematics, Physics, Chemistry, or a closely related field.
+- Must be a current student
+- Strong foundation in materials thermodynamics, kinetics, mechanics, transport, numerical methods, and structure–property relationships.
+- Experience developing or applying continuum-scale models to materials, manufacturing processes, or engineering systems.
+- Experience with one or more of the following: finite-element analysis, phase-field modeling, crystal plasticity, constitutive modeling, damage and fracture,
+multiphysics simulation, reaction–diffusion, or process simulation.
+- Experience connecting material chemistry, microstructure, processing history, and performance through computational models.
+- Proficiency in scientific programming and data analysis using tools such as Python, C/C++, Fortran, MATLAB, Julia, or similar languages.
+- Experience with numerical algorithms, high-performance computing, version-controlled software, and reproducible computational workflows.
+- Ability to formulate research questions, translate physical assumptions into models, and communicate model limitations clearly.
+- Experience working in multidisciplinary research teams.
+- Strong written and verbal communication skills to work effectively with GM internal and external collaborators.
+- Able to work fulltime, 40 hours per week during the summer months
+Preferred Qualifications:
+- Ph.D. strongly preferred.
+- Experience with one or more of the following:
+- Integrated Computational Materials Engineering (ICME) and materials process–structure–property modeling.
+- Materials discovery, high-throughput screening, combinatorial design, optimization, Bayesian methods, or active learning.
+- Phase-field, crystal-plasticity, mesoscale, finite-element, multiphysics, or reduced-order modeling.
+- Computational thermodynamics, CALPHAD, kinetics, phase transformation, precipitation, solidification, or microstructure evolution.
+- Scientific machine learning, surrogate modeling, uncertainty quantification, sensitivity analysis, or inverse problems.
+- Digital twins, process–structure–performance linkages, or integration of simulation with manufacturing data.
+- Parallel computing, GPU acceleration, cloud or cluster computing, and scalable simulation workflows.
+- Scientific software development, open-source contributions, workflow automation, or user-defined solver development.
+- Experience coupling continuum-scale predictions with experimental validation and characterization data.
+- Demonstrated publication record and/or intellectual property generation.
+- Experience transitioning computational materials insights into applied engineering or manufacturing solutions.
+- Experience communicating technical results to both specialist research audiences and product-development or manufacturing teams.
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future.
+This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written
+submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc).
+The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident

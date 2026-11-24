@@ -1,0 +1,56 @@
+trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leading growth. In fact, we’re
+the largest and fastest-growing automotive marketplace, and we’ve been profitable for over 15 years.
+What we do
+The market is evolving, and we are too, moving the entire automotive journey online and guiding our customers through every step. That includes everything from
+the sale of an old car to the financing, purchase, and delivery of a new one. Today, tens of millions of consumers visit CarGurus.com each month, and ~30,000
+dealerships use our products. But they're not the only ones who love CarGurus—our employees do, too. We have a people-first culture that fosters kindness,
+collaboration, and innovation, and empowers our Gurus with tools to fuel their career growth. Disrupting a trillion-dollar industry requires fresh and diverse
+perspectives. Come join us for the ride!
+Role overview
+CarGurus is looking for a highly motivated Data Platform Engineer Intern for the Data Engineering team to support evolving our modern data warehousing platform
+to world-class levels! As CarGurus enters the next phase of dramatic growth with new data sources, new business lines, and business acquisitions, we are looking
+for a candidate who is interested in learning and being part of revamping how we do data at the company.
+As a Data Platform Engineer Intern, you will join an 11-week Summer Internship Program designed to give you hands-on experience, expand your professional
+network, and build core industry skills. This full-time opportunity (40 hours per week) runs from June through August 2027. CarGurus operates on a hybrid
+working model, and candidates should expect to work out of our Boston, MA office 60% of the time (approximately three days per week).
+What you'll do
+- Gain a deep understanding of our evolving data and analytics stack
+- Understand and follow the decisions around the Data Engineering domain while providing input into strategic decisions around the overall data pipeline process
+- Help build robust and scalable data integration (ETL/ELT) pipelines using Fivetran, Python, SQL and Airflow
+- Write clean data pipeline code that is easily testable, understood by other developers, and handles errors
+- Partner with stakeholders / leads to develop testing
+- Collaborate with upstream data producers and downstream data consumers, and maintain a healthy work environment
+- Deploy and manage our data infrastructure using Terraform
+What you'll bring
+- Currently pursuing a Bachelor's or Master’s degree in Computer Science, Information Systems, Data Management, or a related field, with eligibility to complete
+a full-time internship.
+- Exposure to data engineering and interest in designing and building scalable and reliable data pipelines and infrastructure
+- Proficiency with Python programming skills and knowledge of SQL
+- Experience working in a cross-functional team environment
+- Good understanding of overall data pipeline system architecture and data modeling
+- Good problem-solving skills and attention to detail
+- Working knowledge of workflow management tools like Airflow, Luigi etc
+- Understanding of requirement gathering, analysis, code review, unit and integration testing
+- Great teammate, interested in sharing knowledge with other team members, and is curious about learning new technologies
+The displayed range represents the expected hourly rate for this position.
+The displayed range represents the expected annual base salary / On-Target Earnings (OTE) for this position. On-Target Earnings (OTE) is inclusive of base
+salary and on-target commission earnings, which applies exclusively to sales roles.
+Individual pay within this range is determined by work location and other factors such as job-related skills, experience, and relevant education or training.
+This annual base salary forms part of a comprehensive Total Rewards Package. In addition to benefits, this role may qualify for discretionary bonuses/incentives
+and Restricted Stock Units (RSUs).
+Position Pay Range
+$30 - $30 USD
+Working at CarGurus
+We reward our Gurus’ curiosity and passion with best-in-class benefits and compensation, including equity for all employees, both when they start and as they
+continue to grow with us. Our career development and corporate giving programs, as well as our employee resource groups (ERGs) and communities, help people
+build connections while making an impact in personally meaningful ways. A flexible hybrid model and robust time off policies encourage work-life balance and
+individual well-being. Thoughtful perks like daily free lunch, a new car discount, meditation and fitness apps, commuting cost coverage, and more help our
+people create space for what matters most in their personal and professional lives.
+CarGurus may require in-person interviews as part of our hiring process, particularly for positions based in our Boston and Dublin offices. Candidates selected
+for an in-person interview will be notified in advance. Please be aware that travel expenses are the responsibility of the candidate.
+We welcome all
+CarGurus strives to be a place to which people can bring the ultimate expression of themselves and their potential—starting with our hiring process. We do not
+discriminate based on race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender
+identity, or sexual orientation. We foster an inclusive environment that values people for their skills, experiences, and unique perspectives. That’s why we
+hope you’ll apply even if you don’t check every box listed in the job description. We also encourage you to tell your recruiter if you require accommodations to
+participate in our hiring process due to a disability so we can provide the appropriate support. We want to know what only you can bring to CarGurus.

@@ -1,0 +1,55 @@
+The Position
+2027 Summer Intern - Software Engineer (Robotics) - Lab Automation
+Department Summary
+At Genentech (gRED) and Roche (pRED), we’re applying software, robotics, and advanced AI to solve one of humanity’s hardest challenges: building fully
+autonomous, self-healing laboratories for lights-out drug discovery. Advances in AI, data, and computational sciences are transforming drug discovery and
+development. The Computational Sciences Center of Excellence (CoE) and the Data and Digital Catalysts (DDC) team are building the foundational platform for
+autonomous labs—turning frontier AI models, rich physical telemetry, and multi-vendor robotics into resilient, intelligent systems that run complex science
+unattended around the clock to deliver life-saving medicines to patients faster than ever before.
+This internship position is located in South San Francisco, on-site.
+The Opportunity
+The global Lab Automation software team is looking for a highly motivated summer intern to join us in applying physical AI and robotics to bridge the gaps
+between automated workflows and truly autonomous laboratories. You will explore how intelligent software and robotic systems can perceive their environment,
+reason about changing conditions, and take action in the physical world. Working alongside software engineers and scientists, you will help develop and evaluate
+capabilities that make laboratory workflows more adaptable, resilient, and capable of operating with less human intervention.
+- Develop software prototypes that connect AI-based reasoning, robotic capabilities, and laboratory instrumentation.
+- Integrate robotic hardware, sensors, and software to enable more flexible and coordinated laboratory workflows.
+- Explore approaches for recognizing and responding to unexpected conditions that limit laboratory autonomy.
+- Test and evaluate integrated systems, with an emphasis on reliable behavior, safe operation, and clear performance measures.
+- Collaborate with scientists and engineers to translate laboratory challenges into working demonstrations, reusable code, and technical documentation.
+Program Highlights
+- Intensive 6 months, full-time (40 hours per week) paid internship.
+- Program start dates are in May/June (Summer).
+- A stipend, based on location, will be provided to help alleviate costs associated with the internship.
+- Ownership of challenging and impactful business-critical projects.
+- Work with some of the most talented people in the biotechnology industry.
+Required Education
+Who You Are
+You meet one of the following criteria:
+- Must be pursuing a Bachelor's Degree (enrolled student).
+- Must have attained a Bachelor's Degree (not currently enrolled in a graduate program).
+- Must be pursuing a Master's Degree (enrolled student).
+- Must have attained a Master's Degree.
+- Must be pursuing a PhD (enrolled student).
+Required Majors: Computer Science, Robotics, Software Engineering, Electrical Engineering, Mechanical Engineering, Bioengineering or a related technical field.
+Required Skills
+- Proficiency in Python demonstrated through coursework, research, personal projects, or prior experience.
+- Foundational software engineering skills, including version control with Git, debugging, testing, and writing modular, maintainable code.
+- Ability to connect software components through APIs and approach technical problems systematically.
+- Interest in robotics, AI, and laboratory automation, with a willingness to work hands-on with physical hardware.
+Preferred Knowledge, Skills, And Qualifications
+- Coursework or projects in robotics, robot kinematics, motion planning, or manipulation; familiarity with tools such as ROS 2.
+- Experience integrating hardware through APIs or vendor SDKs, including robotic arms, grippers, cameras, or liquid handlers.
+- Experience building or evaluating AI agents, including tool use, structured outputs, and validation of generated code or plans.
+- Exposure to computer vision, pose estimation, robotics simulation, imitation learning, or reinforcement learning.
+- Excellent communication, collaboration, and interpersonal skills, and curiosity about applying engineering to scientific research.
+- Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.
+Relocation benefits are not available for this job posting.
+The expected salary range for this position based on the primary location of California is $45.00-$52.00 per hour. Actual pay will be determined based on
+experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off
+benefits.
+Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the
+basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the
+basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for
+Applicants.

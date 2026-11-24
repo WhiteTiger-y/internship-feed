@@ -1,0 +1,49 @@
+Overview
+The Lifeway Internship Program is a unique opportunity designed to provide college students and recent graduates with a valuable learning experience that
+fosters growth both professionally, personally, and spiritually. Our internships go far beyond "busy work"—you’ll engage in meaningful projects, gain hands-on
+experience, and be empowered to make an impact. Interns at Lifeway receive professional development, have opportunities for exposure to senior leaders, and
+benefit from mentoring relationships with experts in their chosen field.
+Job Overview
+Lifeway is seeking a summer intern to build analytics solutions in Power BI. The intern will design reports and dashboards, use Python and SQL in Microsoft
+Fabric notebooks to prepare data, and support Fabric components such as Lakehouses, Dataflows, and Data Pipelines, while documenting the work and following team
+data standards.
+Internship Program Details & Requirements
+- Compensation : Lifeway’s summer internship program offers a competitive hourly pay rate, and all necessary equipment is provided.
+- Work Schedule : Interns work an average of 32 hours per week, with core workdays from Tuesday to Thursday. The expectation is that the internship is the
+primary focus during working hours.
+- Program Duration : June 7 - August 11, 2027 (11 weeks). Interns must commit to participating in the entire program.
+- Eligibility : Candidates must be enrolled in an undergraduate or graduate program and have completed at least two years of study by the internship start date.
+Recent graduates (December 2026 or May 2027) are also eligible.
+- Development Opportunities : Weekly professional development sessions are provided, including specialized training, mentorship, and leadership development.
+- Remote Structure : This is a remote position in the U.S., with required in-person attendance for orientation (June 7 - 11, 2027) and end-of-summer
+presentations (August 9-11, 2027) in Nashville. Travel costs for these events are covered by Lifeway.
+- Application Deadline : Applications are due by December 31, with interviews beginning as soon as possible. Selections are finalized by April 1.
+Explore our culture further at team.lifeway.com/culture-code
+This is a remote position based in the contiguous 48 United States with occasional travel to Nashville for in-person team gatherings. #LI-Remote
+Responsibilities
+- Live out Lifeway’s mission and values, showing deep commitment to Kingdom work
+- Design, build, and maintain Power BI reports and dashboards, including data models, DAX measures, and Power Query transformations
+- Use Jupyter Notebooks in Microsoft Fabric to explore, clean, and transform data with Python and SQL
+- Support the development of Fabric components such as Lakehouses, Dataflows, and Data Pipelines
+- Validate data accuracy and consistency across reports and source systems
+- Work with team members and business stakeholders to understand reporting needs and incorporate feedback
+- Document data sources, calculations, and report logic to support long-term maintenance
+- Follow team standards for naming conventions, governance, and data security
+- Present findings and completed work to the team
+- Overnight travel for Orientation, and Final Presentation weeks
+Qualifications
+Education
+Currently enrolled in an undergraduate or graduate program, or a recent graduate, in Data Science, Information Systems, Computer Science, Business Analytics, or
+a related field (pursuing a bachelor's degree), required
+Skills, Knowledge, & Experiences, required
+- Basic knowledge of Power BI, including creating reports and working with data models
+- Familiarity with Python and SQL
+- Understanding of basic data modeling concepts, such as relationships and star schemas
+- Strong analytical, problem-solving, and communication skills
+- Attention to detail and a willingness to learn
+- Ability to work both independently and as part of a team
+Actively involved in an evangelical Christian church
+Skills, Knowledge, & Experiences, preferred
+- Experience with DAX and Power Query (M)
+- Knowledge of statistical methods, such as descriptive statistics, regression, or hypothesis testing
+- Familiarity with Python libraries such as pandas

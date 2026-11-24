@@ -1,0 +1,82 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my
+application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application
+is true to the best of my knowledge.
+Job Description:
+Join Takeda’s Quantitative Clinical Pharmacology (QCP) team, collaborating with Drug Metabolism and Pharmacokinetics & Modeling (DMPK&M). This internship will
+explore how data-driven methods and pharmacokinetic modeling can support scientific understanding and drug-development decisions.
+We are seeking a motivated summer intern with an interest in applying artificial intelligence, machine learning, and quantitative methods to pharmacology
+research. The intern will contribute to an exploratory project investigating how drug characteristics and patient-related factors influence drug exposure, with
+a focus on impaired organ function.
+Working with scientific mentors, the intern will help organize research data, explore predictive modeling approaches, and evaluate how data-driven methods can
+complement established pharmacokinetic modeling. The project offers an opportunity to translate scientific questions into reproducible analyses and communicate
+findings to a cross-functional audience.
+How You Will Contribute:
+- Review scientific literature and relevant public sources to identify data supporting the research objectives.
+- Compile, clean, and document datasets containing drug properties and pharmacokinetic outcomes.
+- Conduct exploratory analyses and create visualizations to identify patterns and assess data quality.
+- Develop and evaluate statistical or machine-learning computational models with guidance from scientific mentors.
+- Explore how predictive approaches can complement established pharmacokinetic modeling methods.
+- Document methods, assumptions, and limitations, and present findings and recommendations to the team.
+Internship Development Opportunities:
+- Gain experience at the intersection of AI/ML, clinical pharmacology, and drug metabolism and pharmacokinetics.
+- Strengthen skills in scientific data curation, reproducible analysis, model evaluation, and interpretation.
+- Learn how quantitative approaches inform pharmaceutical research and development.
+- Develop scientific communication and collaboration skills through mentorship and a final project presentation.
+Job Requirements:
+- Work arrangement :onsite/hybrid
+- Office location: 500 East Kindall square, Cambridge, USA
+- Currently enrolled in doctoral degree program:in pharmaceutical sciences, pharmacometrics, clinical pharmacology, computational biology, data science,
+statistics, biomedical engineering, or a related discipline.
+- Working knowledge of Python or R for data analysis and an understanding of statistical or machine-learning concepts.
+- Strong analytical, problem-solving, and organizational skills, with attention to data quality and documentation.
+- Interest in pharmacokinetics, drug development, and the responsible application of AI/ML to scientific research.
+- Familiarity with ADME concepts, pharmacokinetic modeling, or physiologically based pharmacokinetic (PBPK) modeling.
+:
+Internship Eligibility:
+- Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship
+- Must be currently enrolled in a degree program graduating December 2027 or later
+- The internship program is 10-12 weeks depending on the two start dates (June 1st -August 20th OR June 14th-August 20th)
+- The intern must be able to commit to one of these time frames
+- Able to work full time 40 hours a week during internship dates
+- Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program
+Program Highlights:
+- Hands-on experience with real projects and responsibilities
+- Dedicated mentorship program pairing interns with experienced professionals
+- Networking opportunities with industry professionals and fellow interns
+- Internship events focused on professional and skills development
+- Exposure to multiple business areas or departments within a Pharmaceutical Organization
+Takeda Compensation and Benefits Summary:
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we
+strive to be more transparent with our pay practices.
+For Location:
+Boston, MA
+U.S. Hourly Wage Range :
+$21.00 - $46.00
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to
+be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job
+location.
+U.S. internship benefits vary by location and may include
+- Paid sick time
+- Civic Duty paid time off
+- Participation at company volunteer events
+- Participation at company sponsored special events
+- Access to on-site fitness center (where available)
+- Commuter Benefit To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation
+(transit) or parking.
+EEO Statement:
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment
+without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability,
+citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected
+veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.
+Locations:
+Boston, MA
+Worker Type:
+Employee
+Worker Sub-Type:
+Paid Intern (Fixed Term) (Trainee)
+Time Type:
+Full time
+Job Exempt:
+No
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this
+law shall be subject to criminal penalties and civil liability.

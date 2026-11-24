@@ -10,19 +10,18 @@ Along the way, Interns and Co-ops are supported through mentorship, professional
 to help them build community and grow their careers. Symbotic offers transportation and housing benefits for students who meet our relocation requirements.
 Continue reading below to learn more about this exciting opportunity!
 What We Need
-Symbotic is looking for an applied scientist intern with a passion for multi-agent planning to improve the performance and reliability of our systems as we
-rapidly scale our product and organization. The Robot Routing team plans highly efficient, collision-free paths between the storage structure and the
-inbound/outbound cells of our system for dozens of robots traversing the transfer deck. The right candidate is excited about concepts like deadlock resolution
-and time-space reservations. This is a hybrid position based at our headquarters in Wilmington, MA.
+Symbotic is looking for an applied scientist intern with a passion for multi-agent motion planning, tasking and motion planning, and inventory optimization to
+improve the performance and reliability of our systems as we rapidly scale our product and organization. The right candidate is excited about concepts like
+deadlock resolution and time-space reservations. This is a hybrid position based at our headquarters in Wilmington, MA.
 What You’ll Do
-- Identify high-impact scenarios where AI Planning and machine learning can be applied to optimize the Symbotic robotics software.
+- Identify high-impact scenarios where AI Planning and machine learning can be applied to optimize the Symbotic robotics software
 - Adapt state-of-the-art approaches or develop high-performance algorithms to solve real-world multi-robot problems.
-- Conduct simulations and experiments to validate the performance of the multi-robot algorithms.
-- Present results in verbal and written communications internally, and in top-tier academic venues.
+- Conduct simulations and experiments to validate the performance of the multi-robot algorithms
+- Present results in verbal and written communications internally, and in top-tier academic venues
 What You’ll Need
 - Pursuing PhD in Computer Science, Electrical Engineering, Mechanical Engineering, Robotics, or a related field.
 - Proficiency in one or more general-purpose programming languages{{:}} C++, Python, Java, or C#.
-- Strong research background in combinatorial optimization, Robotics planning, multi-robot systems, or machine learning.
+- Strong research background in combinatorial optimization, robotics planning, multi-robot systems, or Agentic AI for optimization.
 - Publications at high-impact conferences/journals (e.g., CoRL, ICLR, NeurIPS, ICML, ICLR, RSS, ICRA, IROS, RAL, AAAI, ICAPS, IJCAI, JAIR, etc.) on some of the
 aforementioned topics.
 About Symbotic
@@ -36,5 +35,5 @@ Every perspective matters. We depend on the collective voices of our employees, 
 for you and the world. That’s why we’re proud to be an equal opportunity employer.
 We do not discriminate based on race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status,
 disability, gender identity, gender expression, veteran status, or genetic information.
-The base range for this position in the posted location is $52.00 - $54.00 however, base pay offered may vary depending on job-related knowledge, skills, and
+The base range for this position in the posted location is $52.00 - $58.30 however, base pay offered may vary depending on job-related knowledge, skills, and
 experience. The compensation package includes medical, dental, vision, disability, 401K, PTO and/or other benefits.

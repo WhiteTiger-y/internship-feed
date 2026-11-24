@@ -1,0 +1,54 @@
+trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leading growth. In fact, we’re
+the largest and fastest-growing automotive marketplace, and we’ve been profitable for over 15 years.
+What we do
+The market is evolving, and we are too, moving the entire automotive journey online and guiding our customers through every step. That includes everything from
+the sale of an old car to the financing, purchase, and delivery of a new one. Today, tens of millions of consumers visit CarGurus.com each month, and ~30,000
+dealerships use our products. But they're not the only ones who love CarGurus—our employees do, too. We have a people-first culture that fosters kindness,
+collaboration, and innovation, and empowers our Gurus with tools to fuel their career growth. Disrupting a trillion-dollar industry requires fresh and diverse
+perspectives. Come join us for the ride!
+Role overview
+At CarGurus, we believe data is only as powerful as the decisions it enables.
+CarGurus is looking for a curious, highly driven Data Analytics Engineer Intern who is eager to learn how to clean, efficient data models to drive business
+outcomes.
+In this role, you will gain experience at the intersection of analytics, engineering, and business strategy. You will work alongside senior engineers and data
+analysts to deliver trusted insights that enable smarter decisions across the business. You will be encouraged to grow your engineering skills, contribute to
+shared data infrastructure, and develop an ownership mindset as we build the future of data at CarGurus.
+As a Data Analytics Engineer Intern , you will join an 11-week Summer Internship Program designed to give you hands-on experience, expand your professional
+network, and build core industry skills. This full-time opportunity (40 hours per week) runs from June through August 2027. CarGurus operates on a hybrid
+working model, and candidates should expect to work out of our Boston, MA office 60% of the time (approximately three days per week).
+What you’ll do
+- Build and Maintain: Assist in designing and building data products (scalable, reliable data models) using tools such as dbt, Snowflake, and Omni.
+- Code Quality: Write modular SQL and Python code using version control, and participate in code reviews.
+- Data Quality: Support efforts to improve data infrastructure, testing, documentation, and data reliability.
+- Collaborate: Partner with data analysts and senior engineers to understand business questions and translate them into structured data solutions.
+- Learn and Grow: Learn analytics-engineering best practices, modeling patterns, and code hygiene from experienced teammates.
+- Innovate: Identify opportunities to automate, simplify, and improve team efficiency using CarGurus’ AI data platform.
+What you’ll bring
+- Education/Background: Currently pursuing a bachelor’s degree in Computer Science, Data Analytics, Engineering, Statistics, or a related field.
+- SQL Foundation: Experience writing SQL through coursework, projects, or prior internships; familiarity with joins and performant queries.
+- Problem-Solving Mindset: Curious and analytical, with an interest in understanding business problems and creating useful solutions—not just writing queries.
+- Communication and Collaboration: A clear communicator and collaborative teammate who can work independently and contribute positively to team culture.
+- Work Style: Detail-oriented, highly driven, and comfortable moving quickly in a fast-paced environment.
+- Projects or prior internship experience are a plus, but not required.
+The displayed range represents the expected hourly rate for this position.
+The displayed range represents the expected annual base salary / On-Target Earnings (OTE) for this position. On-Target Earnings (OTE) is inclusive of base
+salary and on-target commission earnings, which applies exclusively to sales roles.
+Individual pay within this range is determined by work location and other factors such as job-related skills, experience, and relevant education or training.
+This annual base salary forms part of a comprehensive Total Rewards Package. In addition to benefits, this role may qualify for discretionary bonuses/incentives
+and Restricted Stock Units (RSUs).
+Position Pay Range
+$30 - $30 USD
+Working at CarGurus
+We reward our Gurus’ curiosity and passion with best-in-class benefits and compensation, including equity for all employees, both when they start and as they
+continue to grow with us. Our career development and corporate giving programs, as well as our employee resource groups (ERGs) and communities, help people
+build connections while making an impact in personally meaningful ways. A flexible hybrid model and robust time off policies encourage work-life balance and
+individual well-being. Thoughtful perks like daily free lunch, a new car discount, meditation and fitness apps, commuting cost coverage, and more help our
+people create space for what matters most in their personal and professional lives.
+CarGurus may require in-person interviews as part of our hiring process, particularly for positions based in our Boston and Dublin offices. Candidates selected
+for an in-person interview will be notified in advance. Please be aware that travel expenses are the responsibility of the candidate.
+We welcome all
+CarGurus strives to be a place to which people can bring the ultimate expression of themselves and their potential—starting with our hiring process. We do not
+discriminate based on race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender
+identity, or sexual orientation. We foster an inclusive environment that values people for their skills, experiences, and unique perspectives. That’s why we
+hope you’ll apply even if you don’t check every box listed in the job description. We also encourage you to tell your recruiter if you require accommodations to
+participate in our hiring process due to a disability so we can provide the appropriate support. We want to know what only you can bring to CarGurus.

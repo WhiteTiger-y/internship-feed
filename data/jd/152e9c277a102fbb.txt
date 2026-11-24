@@ -1,0 +1,61 @@
+About InterDigital
+InterDigital is a global research and development company focused primarily on wireless, video, artificial intelligence (“AI”), and related technologies. We
+design and develop foundational technologies that enable connected, immersive experiences in a broad range of communications and entertainment products and
+services. We license our innovations worldwide to companies providing such products and services, including makers of wireless communications devices, consumer
+electronics, IoT devices, cars and other motor vehicles, and providers of cloud-based services such as video streaming. As a leader in wireless technology, our
+engineers have designed and developed a wide range of innovations that are used in wireless products and networks, from the earliest digital cellular systems to
+5G and today’s most advanced Wi-Fi technologies. We are also a leader in video processing and video encoding/decoding technology, with a significant AI research
+effort that intersects with both wireless and video technologies. Founded in 1972, InterDigital is listed on Nasdaq.
+InterDigital is a registered trademark of InterDigital, Inc.
+For more information, visit: www.interdigital.com.
+We foster a collaborative, innovation-driven culture where researchers translate advanced theory into impactful technologies, standards contributions, and real-
+world solutions.
+Summary
+We are seeking a highly motivated Ph.D. student to join our Wireless Research and Innovation team. This role focuses on next-generation wireless systems
+integrated with AI/ML, including 6G research, and AI-native communication systems.
+The ideal candidate combines strong theoretical foundations with hands-on simulation experience in Python and MATLAB. The candidate will contribute to advanced
+research, AI-native wireless systems and simulations, standards-oriented innovation, publications, and patentable technologies.
+Key Responsibilities
+- Conduct advanced research in wireless communication systems in Physical layer, and AI/ML design
+- Work on internal technology development efforts and ensure alignment with broader project objectives
+- Design and evaluate AI/ML-driven wireless algorithms (e.g., semantic communications, wireless foundation models, token communications)
+- Develop and implement link-level and system-level simulations using tools such as Python, Sionna, MATLAB or equivalent frameworks
+- Analyze and optimize system performance using theoretical and data-driven approaches
+- Contribute to technical reports, publications, and patent filings
+- Contribute to the generation of pre-standard inputs and industry publications in areas of expertise
+- Collaborate with cross-functional research teams across wireless, AI, and standards
+Required Qualifications
+- Pursuing Ph.D. (3rd year or later) in Electrical Engineering, Computer Engineering, Computer Science, or a closely related field.
+- Strong foundation in the following areas:
+- Wireless communications
+- Signal processing
+- Solid knowledge of AI/ML techniques and their application to wireless communication
+- Experience with simulation and programming tools, such as:
+- Sionna, Python, MATLAB, or similar languages
+- Machine learning frameworks (e.g., PyTorch, GPU)
+- Demonstrated ability to translate theory into working simulations
+Preferred Qualifications
+- Hands-on experience with System-level or link-level simulators (e.g., Sionna or equivalent)
+- Research track record including publications, patents, or technical contributions
+- Familiarity with cellular standards (4G/5G/6G evolution)
+- Experience in AI-native wireless systems, semantic communications, wireless foundation models, token communications, etc.
+What You Bring
+- Curiosity and passion for pushing the boundaries of wireless and AI convergence
+- Ability to balance theoretical rigor with practical implementation
+- Strong analytical, problem-solving, and communication skills
+- A collaborative mindset aligned with a global research environment
+Locations: Conshohocken, PA or Melville, NY
+Why Join InterDigital
+- Work at the forefront of 6G, AI-driven networks, and future connectivity paradigms
+- Contribute to technologies that influence global standards and billions of devices
+- Engage in an environment that values innovation, intellectual property, and research excellence
+- Collaborate with world-class experts across wireless, video, and AI domains
+InterDigital is an equal employment opportunity employer. InterDigital will not engage in or tolerate unlawful discrimination with regard to any employment
+decision, policy or practice based on a person’s sex, gender, pregnancy (including childbirth, breastfeeding and related medical conditions), age, race, color,
+religion, creed, national origin, ancestry, citizenship, military status, veteran status, mental or physical disability, medical condition, genetic information,
+sexual orientation, gender identity or expression, or any other factor protected by applicable federal, state or local law. This policy applies to all terms and
+conditions of employment, including, but not limited to, recruiting, hiring, compensation, benefits, training, assignments, evaluations, coaching, promotion,
+discipline, discharge and layoff.
+A reasonable estimate of the current salary range specific to New York/CA is $45.00 - $50.00/hr and may include other forms of compensation components including
+benefits depending on the length of the assignment. Compensation for the role will depend on a number of factors, including a candidate’s qualifications,
+skills, competencies and experience and may fall outside of the range shown.

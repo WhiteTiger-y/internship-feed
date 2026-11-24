@@ -1,0 +1,57 @@
+trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leading growth. In fact, we’re
+the largest and fastest-growing automotive marketplace, and we’ve been profitable for over 15 years.
+What we do
+The market is evolving, and we are too, moving the entire automotive journey online and guiding our customers through every step. That includes everything from
+the sale of an old car to the financing, purchase, and delivery of a new one. Today, tens of millions of consumers visit CarGurus.com each month, and ~30,000
+dealerships use our products. But they're not the only ones who love CarGurus—our employees do, too. We have a people-first culture that fosters kindness,
+collaboration, and innovation, and empowers our Gurus with tools to fuel their career growth. Disrupting a trillion-dollar industry requires fresh and diverse
+perspectives. Come join us for the ride!
+Role overview
+CarGurus is looking for a Data Governance Engineer Intern who will be responsible for small-scale implementations, maintaining, and enhancing data governance
+frameworks across the organization. You will collaborate closely with data architects, engineers, data analysts, and business teams to maintain high standards
+of data integrity, security, and accessibility.
+As a Data Governance Engineer Intern, you will join an 11-week Summer Internship Program designed to give you hands-on experience, expand your professional
+network, and build core industry skills. This full-time opportunity (40 hours per week) runs from June through August 2027. CarGurus operates on a hybrid
+working model, and candidates should expect to work out of our Boston, MA office 60% of the time (approximately three days per week).
+What you’ll do
+- Data Quality Management: Establish processes for data quality monitoring and reporting, ensuring that data is accurate, complete, and consistent across the
+organization.
+- Metadata Management: Support, implement and maintain metadata repositories, ensuring the accurate capture and categorization of data assets.
+- Compliance & Security: Understand the data governance policies that CarGurus has to comply with.
+- Data Lineage: Learn on the job how to develop and maintain data lineage models to map.
+- Continuous Improvement: Opportunity to provide input on our data governance framework to adapt to new business needs, technologies, and regulatory
+requirements.
+- Documentation & Reporting: Create and maintain comprehensive documentation for data governance processes, guidelines, and policies.
+- Automation: Learn to leverage APIs provided by different tools and databases and build automated workflows that make managing metadata, data quality, lineage
+etc. easier.
+What you’ll bring
+- Currently pursuing a Bachelor's or Master’s degree in Computer Science, Information Systems, Data Management, or a related field, with eligibility to complete
+a full-time internship.
+- Interest in Python or similar languages, data quality management tools (e.g., Monte Carlo, Metaplane), and/or data governance tools (e.g., Alation, Atlan,
+data.world, Secoda).
+- Interest in data modeling, data lineage, and data classification and familiarity with Snowflake, dbt, and Looker.
+- Curiosity in problem-solving skills and ability to collaborate with cross-functional teams.
+- Excellent communication skills, with the ability to present complex technical concepts to non-technical stakeholders.
+- Attention to detail and a passion for maintaining high-quality data.
+The displayed range represents the expected hourly rate for this position.
+The displayed range represents the expected annual base salary / On-Target Earnings (OTE) for this position. On-Target Earnings (OTE) is inclusive of base
+salary and on-target commission earnings, which applies exclusively to sales roles.
+Individual pay within this range is determined by work location and other factors such as job-related skills, experience, and relevant education or training.
+This annual base salary forms part of a comprehensive Total Rewards Package. In addition to benefits, this role may qualify for discretionary bonuses/incentives
+and Restricted Stock Units (RSUs).
+Position Pay Range
+$30 - $30 USD
+Working at CarGurus
+We reward our Gurus’ curiosity and passion with best-in-class benefits and compensation, including equity for all employees, both when they start and as they
+continue to grow with us. Our career development and corporate giving programs, as well as our employee resource groups (ERGs) and communities, help people
+build connections while making an impact in personally meaningful ways. A flexible hybrid model and robust time off policies encourage work-life balance and
+individual well-being. Thoughtful perks like daily free lunch, a new car discount, meditation and fitness apps, commuting cost coverage, and more help our
+people create space for what matters most in their personal and professional lives.
+CarGurus may require in-person interviews as part of our hiring process, particularly for positions based in our Boston and Dublin offices. Candidates selected
+for an in-person interview will be notified in advance. Please be aware that travel expenses are the responsibility of the candidate.
+We welcome all
+CarGurus strives to be a place to which people can bring the ultimate expression of themselves and their potential—starting with our hiring process. We do not
+discriminate based on race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender
+identity, or sexual orientation. We foster an inclusive environment that values people for their skills, experiences, and unique perspectives. That’s why we
+hope you’ll apply even if you don’t check every box listed in the job description. We also encourage you to tell your recruiter if you require accommodations to
+participate in our hiring process due to a disability so we can provide the appropriate support. We want to know what only you can bring to CarGurus.

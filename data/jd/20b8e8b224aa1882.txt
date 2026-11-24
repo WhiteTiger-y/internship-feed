@@ -1,0 +1,81 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my
+application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application
+is true to the best of my knowledge.
+Job Description:
+Are you looking for a patient-focused, innovation-driven company that will inspire you and empower you to shine? Join us as a Summer Intern, Computational
+Biology – Agentic AI for Disease Biology, in our Cambridge, MA office.
+At Takeda, we are transforming the pharmaceutical industry through our R&D-driven market leadership and being a value-led company. To do this, we empower our
+people to realize their potential through life-changing work. Certified as a Global Top Employer, we offer stimulating careers, encourage innovation, and strive
+for excellence in everything we do. We foster an inclusive, collaborative workplace, in which our global teams are united by an unwavering commitment to deliver
+Better Health and a Brighter Future to people around the world.
+The Summer Intern will join the Inflammation Computational Biology team for a 12-week research internship focused on developing methods that enable scientists
+to evaluate disease biology, systematically address unmet needs, and support early drug discovery programs. Understanding which biological programs drive a
+disease, and how they relate to severity, patient stratification, treatment response, and related diseases, still depends largely on manual literature review
+and is performed differently across indications. The intern will build agentic AI tools that bring together human omics data, published literature, and
+computational models to answer these questions in a systematic, reproducible, and evidence-linked way. Results will inform target selection, patient selection,
+mechanism of action, and indication expansion across inflammatory and fibrotic diseases such as inflammatory bowel disease (IBD).
+How You Will Contribute:
+- Process and integrate large public and internal human datasets (e.g., single-cell and bulk RNA-seq).
+- Build a working prototype of an AI agent workflow that retrieves data, runs analyses, checks quality, and summarizes the evidence with references.
+- Wrap existing analysis methods and models as callable tools (e.g., via function calling or MCP) that an agent can run, explain, and chain into multi-step
+workflows.
+- Combine these components into an agent prototype that scientists can query in plain language, with every answer linked back to its source data or publication.
+- Deliver reproducible, version-controlled code (Git, containers, documented pipelines), short documentation, and a final presentation to the team and
+leadership at the end of the summer.
+Internship Development Opportunities:
+- Own an end-to-end project that feeds directly into Takeda’s AI-enabled Target Identification & Validation product strategy.
+- Gain hands-on experience applying agentic AI and large language models to target discovery in industry.
+- Learn how computational evidence shapes target selection and portfolio decisions.
+- See how scientific products are scoped, prioritized, and adopted, working alongside product, technical, and subject-matter expert leads.
+Job Requirements
+Work model and location: Hybrid, based in Cambridge, MA, with an expected 3 days per week onsite. Full-time (40 hours/week) for 12 weeks, June through August
+2027.
+Degree requirement: Pursuing a Ph.D. in Computational Biology, Data Science, Computer Science, Statistics, Biology, or a related quantitative field such as
+Applied Mathematics, Physics, or Engineering. Must be enrolled in a degree program during the internship and returning to school afterward.
+Hard skills (required):
+- Experience with data analysis and programming in Python and/or R.
+- Hands-on experience building with LLMs (e.g., API use, prompt design, retrieval-augmented generation, embeddings, or tool calling) or with agent frameworks
+(e.g., LangGraph, Claude Agent SDK, MCP).
+- Experience working with large, high-dimensional datasets and writing efficient, well-structured code.
+- Proficiency with Git and familiarity with Linux, command-line workflows, and Jupyter or R Markdown notebooks.
+Hard skills (preferred):
+- Interest in disease biology, immunology, and applications of AI in biology and medicine.
+- Coursework or research experience in genomics or other areas of biology.
+- Experience with omics data (e.g., single-cell or bulk RNA-seq using Scanpy, Seurat, or DESeq2).
+- Experience with deep learning, knowledge graphs, or literature mining.
+- Familiarity with public scientific databases such as GEO, Open Targets, ChEMBL, or ClinicalTrials.gov.
+- Experience building dashboards, or with cloud computing (e.g., AWS), containers, or workflow managers.
+Soft skills:
+- Strong analytical thinking and problem-solving skills.
+- Clear written and verbal scientific communication for mixed audiences.
+- Curiosity and initiative, with comfort working independently on open-ended problems.
+- Ability to work collaboratively in a multidisciplinary research environment.
+- Good time management and the ability to deliver milestones within a 12-week timeline.
+Internship Eligibility:
+- Authorized to work in the U.S. on a permanent basis without sponsorship.
+- Currently enrolled in a degree program, graduating December 2027 or later.
+- Commit to one full internship window June 1–August 20 OR June 14–August 20 (10–12 weeks, depending on start date).
+- Able to work full-time, 40 hours per week, during the internship dates.
+- Takeda does not provide a housing stipend or relocation support for the U.S. Summer Internship Program.
+Program Highlights:
+- Hands-on experience with real projects and responsibilities.
+- Dedicated mentorship pairing interns with experienced professionals.
+- Networking with industry professionals and fellow interns.
+- Internship events focused on professional and skills development.
+- Exposure to multiple business areas or departments within a pharmaceutical organization
+Takeda Compensation and Benefits Summary:
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we
+strive to be more transparent with our pay practices.
+For Location:
+Boston, MA
+U.S. Hourly Wage Range :
+$21.00 - $46.00
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to
+be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job
+location.
+U.S. internship benefits vary by location and may include
+- Paid sick time
+- Civic Duty paid time off
+- Participation at company volunteer events
+- Participation at company sponsored special events
+- Access to on-site

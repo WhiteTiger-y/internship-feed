@@ -1,0 +1,65 @@
+trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leading growth. In fact, we’re
+the largest and fastest-growing automotive marketplace, and we’ve been profitable for over 15 years.
+What we do
+The market is evolving, and we are too, moving the entire automotive journey online and guiding our customers through every step. That includes everything from
+the sale of an old car to the financing, purchase, and delivery of a new one. Today, tens of millions of consumers visit CarGurus.com each month, and ~30,000
+dealerships use our products. But they're not the only ones who love CarGurus—our employees do, too. We have a people-first culture that fosters kindness,
+collaboration, and innovation, and empowers our Gurus with tools to fuel their career growth. Disrupting a trillion-dollar industry requires fresh and diverse
+perspectives. Come join us for the ride!
+Role overview
+CarGurus Finance is seeking a curious, analytical student to join us as a Finance AI Solutions Intern. You will help Finance teams identify repetitive, data-
+intensive work and pilot responsible AI and automation solutions that improve speed, accuracy, and insight.
+You will own a primary, high-impact project with a Finance partner while gaining exposure to Accounting, FP&A, Tax, Finance Operations, and Procurement. Along
+the way, you will learn how a public-company Finance organization evaluates new technology: not only whether it works, but whether it is accurate, reviewable,
+secure, and scalable.
+This is an opportunity to build a portfolio of practical work at the intersection of finance, data, process improvement, and AI, while receiving mentorship from
+Finance leaders.
+As a Finance AI Solutions Intern, you will join a 11-week Summer Internship Program designed to give you hands-on experience, expand your professional network,
+and build core industry skills. This full-time opportunity (40 hours per week) runs from June through August 2027. CarGurus operates on a hybrid working model,
+and candidates should expect to work out of our Boston, MA office 60% of the time (approximately three days per week).
+What you'll do
+- Partner with a Finance team to map a manual or data-intensive workflow and identify opportunities to improve it through AI, automation, or better analytics.
+- Build and test a scoped prototype using various LLMs and approved tools such as Excel or Google Sheets, SQL, or workflow-automation platforms.
+- Conduct research and analysis to support use cases such as reconciliations, exception review, variance analysis, vendor and spend analysis, contract or
+invoice data extraction, and finance-operations inquiries.
+- Validate outputs with process owners; document assumptions, review steps, limitations, and measurable impact.
+- Support Finance and Internal Controls stakeholders in documenting appropriate guardrails for selected AI-assisted workflows, including human review, evidence
+retention, and audit trails.
+- Work with partners across Finance and, as needed, teams such as Sales Operations, Collections, and Finance Systems to understand data flows and improve
+processes responsibly.
+- Present your project outcomes, recommendations, and measured business impact to Finance leadership at the end of the internship.
+What you'll bring
+- You are currently pursuing a bachelor's degree in Finance, Accounting, Business Analytics, Economics, Computer Science, Information Systems, or a related
+field, and are eligible to complete a full-time summer internship.
+- You have strong analytical and problem-solving skills and enjoy understanding how processes work before improving them.
+- You are proficient in Excel or Google Sheets and comfortable working with structured data.
+- You are curious about AI and automation and interested in applying them responsibly in a business setting.
+- You communicate clearly in writing and in conversation, and can explain an analysis or recommendation to both technical and business audiences.
+- You are organized, detail-oriented, self-directed, and comfortable working through ambiguity with guidance from experienced teammates.
+- You have an interest in finance, accounting, operations, or how businesses use data to make decisions.
+Helpful, but not required
+- Coursework, academic projects, campus employment, or prior internship experience involving data analysis, prompt design, or workflow automation.
+- Experience using AI tools to research, analyze data, draft content, or streamline a recurring task.
+- Familiarity with CRM, ERP, billing, BI, or financial systems such as Salesforce, NetSuite, Zuora, Looker, or similar platforms.
+- Exposure to internal controls, audit, risk, or compliance concepts.
+The displayed range represents the expected hourly rate for this position.
+The displayed range represents the expected annual base salary / On-Target Earnings (OTE) for this position. On-Target Earnings (OTE) is inclusive of base
+salary and on-target commission earnings, which applies exclusively to sales roles.
+Individual pay within this range is determined by work location and other factors such as job-related skills, experience, and relevant education or training.
+This annual base salary forms part of a comprehensive Total Rewards Package. In addition to benefits, this role may qualify for discretionary bonuses/incentives
+and Restricted Stock Units (RSUs).
+Position Pay Range
+$25 - $25 USD
+Working at CarGurus
+We reward our Gurus’ curiosity and passion with best-in-class benefits and compensation, including equity for all employees, both when they start and as they
+continue to grow with us. Our career development and corporate giving programs, as well as our employee resource groups (ERGs) and communities, help people
+build connections while making an impact in personally meaningful ways. A flexible hybrid model and robust time off policies encourage work-life balance and
+individual well-being. Thoughtful perks like daily free lunch, a new car discount, meditation and fitness apps, commuting cost coverage, and more help our
+people create space for what matters most in their personal and professional lives.
+CarGurus may require in-person interviews as part of our hiring process, particularly for positions based in our Boston and Dublin offices. Candidates selected
+for an in-person interview will be notified in advance. Please be aware that travel expenses are the responsibility of the candidate.
+We welcome all
+CarGurus strives to be a place to which people can bring the ultimate expression of themselves and their potential—starting with our hiring process. We do not
+discriminate based on race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender
+identity, or sexual orientation. We foster an inclusive environment that values people for their skills, experiences, and unique perspectives. That’s why we
+hope you’ll apply even if you don’t check 

@@ -1,0 +1,68 @@
+Overview
+Milliman’s Indianapolis Health practice is seeking a curious and motivated early-career Data Scientist to join our growing practice through a 12-week intern-to-
+hire program. This role is focused on applied data science and analytics in healthcare, supporting the enhancement of existing analytical products and the
+development of new AI and ML solutions under the mentorship of experienced data scientists and consultants. The program is designed for candidates who are newer
+in their careers and show strong potential, giving them the opportunity to build hands-on experience and technical depth while demonstrating their capabilities
+on real client and product work. Interns who successfully complete the 12-week internship will receive immediate consideration for a full-time Data Scientist
+position.
+Internship Structure
+The internship runs for 12 weeks. Each intern is assigned to the Indianapolis Data Engineering, Architecture, and Science (IDEAS) team, reports to an
+experienced data scientist, and is paired with a peer guide for day-to-day support. Interns contribute to active client and product work rather than a
+standalone project. Performance is reviewed through regular check-ins with the supervisor and a formal end-of-internship evaluation against the entry-level (1i)
+expectations of Milliman’s Data Science job family, covering technical work, quality and documentation, communication, and teamwork. Interns who meet those
+expectations are considered for conversion to a full-time Data Scientist position immediately following the internship.
+Responsibilities
+In this role, you will support:
+- Analytics & Product Support: Support enhancements to existing AI/analytics products by implementing techniques outlined by project leads, building prototypes,
+and testing new ideas with guidance and review.
+- Data Preparation & Exploration: Use SQL, Python, or R to pull, clean, manipulate, and visualize healthcare data (e.g., claims and enrollment), and conduct
+exploratory analyses that help frame business questions.
+- Model Development: Help build and evaluate statistical and machine learning models, documenting assumptions, inputs, and results so that methods are
+transparent and reproducible.
+- Quality & Reasonability Checks: Incorporate reasonability checks into work files, recognize possible issues with data and results, and raise them promptly
+with the project team.
+- Documentation & QRM: Follow Milliman’s quality and risk management (QRM) standards, accurately document work product, and complete QRM documentation as
+directed.
+- Communication: Prepare clear tables, charts, and short written summaries of analyses for internal review, proactively communicate status updates, and clarify
+task expectations when needed.
+- Cross-Functional Collaboration: Work alongside actuarial, clinical, pharmacy, policy, and data engineering colleagues to understand requirements and see how
+analyses support real client decisions.
+- Engineering Practices: Learn and apply team coding standards, including version control (Git/GitHub), code reviews, and modular, reusable code in shared
+codebases.
+- Learning & Development: Actively participate in training, mentoring, and development opportunities to build knowledge of the US healthcare landscape,
+Medicaid, and data science methods.
+Qualifications
+- Analytical Foundation: Coursework or project experience in statistics, machine learning, predictive modeling, or quantitative problem solving, with the
+ability to explain what you did and why.
+- Programming Skills: Beginner to intermediate experience in Python, R, or SQL to manipulate, analyze, and visualize data.
+- Data Tools: Familiarity with commonly used tools such as Excel, notebooks (e.g., Jupyter), and Git; exposure to Databricks, Spark, or cloud data platforms is
+a plus.
+- Interest in Healthcare: Interest in US healthcare and public programs such as Medicaid, with a basic understanding of how health coverage and financing work
+or a strong desire to learn.
+- Attention to Detail: Sensitivity to accuracy and data quality, including checking results for reasonableness before sharing them.
+- Communication: Clear written and verbal communication, including the ability to summarize findings for both technical and non-technical audiences.
+- Work Management: Ability to stay organized, complete assigned tasks within given timelines, and balance multiple priorities.
+- Collaboration & Coachability: Eagerness to learn and work as part of a team, openness to constructive feedback, and willingness to ask questions.
+- Basic knowledge of Gen AI tools, how to utilize AI to enhance productivity, and potential ethical considerations or concerns.
+Required
+- Bachelor’s degree in Data Science, Computer Science, Statistics, Mathematics, or a related quantitative field, completed before the start of the internship.
+- Hands-on experience programming in Python, R, or SQL through coursework, research, internships, or personal projects. No prior full-time professional
+experience required.
+Preferred
+- Master’s degree (completed or in progress) in Data Science, Computer Science, Statistics, Biostatistics, or a related field.
+- Prior internship, research, or capstone experience applying data science or machine learning to a real-world problem.
+- Exposure to healthcare data, such as claims, encounters, electronic health records, or public health data
+- Experience with common Python data science libraries (e.g., pandas, scikit-learn, matplotlib) or R equivalents (e.g., tidyverse).
+- Familiarity with Git/GitHub and collaborative coding practices such as code reviews.
+- Exposure to distributed or cloud data platforms (e.g., Databricks, Spark/PySpark, Azure).
+- Coursework or project experience in areas such as anomaly detection, time series analysis, natural language processing, or generative AI.
+- Experience presenting project results to classmates, faculty, or other stakeholders.
+Individual(s) must be legally authorized to work in the United States without the need for immigration support or sponsorship from Milliman now or in the
+future.
+The Team
+The Indianapolis Health Practice has 250+ full-time employees from diverse academic and professional backgrounds. Our practice is structured to serve state
+Medicaid and other health and human service agencies through dedicated core teams tailored to each client’s unique needs. As a member of the Indianapolis Data
+Engineering, Architecture, and Science (IDEAS) team, you will provide advanced analytics and data science support to key state clients and their core teams
+under the mentorship of senior data consultants. Our team works cross-functionally with actuarial, policy, finance, pharmacy, clinical, and data management
+professionals to deliver practical, defensible results. You will work on challenging problems, collaborate with experienced colleagues, and contribute across a
+variety of client programs and solution areas with opportunities to learn, grow, and take on increasing ownersh

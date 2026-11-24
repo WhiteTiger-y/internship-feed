@@ -1,0 +1,55 @@
+trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leading growth. In fact, we’re
+the largest and fastest-growing automotive marketplace, and we’ve been profitable for over 15 years.
+What we do
+The market is evolving, and we are too, moving the entire automotive journey online and guiding our customers through every step. That includes everything from
+the sale of an old car to the financing, purchase, and delivery of a new one. Today, tens of millions of consumers visit CarGurus.com each month, and ~30,000
+dealerships use our products. But they're not the only ones who love CarGurus—our employees do, too. We have a people-first culture that fosters kindness,
+collaboration, and innovation, and empowers our Gurus with tools to fuel their career growth. Disrupting a trillion-dollar industry requires fresh and diverse
+perspectives. Come join us for the ride!
+Role overview
+CarGurus is looking for a Product Data Analyst Intern . Our Product Data Analytics organization as a whole supports our Product and Engineering teams, providing
+the final word on all analytics for CarGurus’ user and dealer experiences. We are looking for thoughtful, curious, internally driven candidates who can dive
+into complex data and draw novel, insightful conclusions.
+As a Product Data Analyst Intern , you will join an 11-week Summer Internship Program designed to give you hands-on experience, expand your professional
+network, and build core industry skills. This full-time opportunity (40 hours per week) runs from June through August 2027. CarGurus operates on a hybrid
+working model, and candidates should expect to work out of our Boston, MA office 60% of the time (approximately three days per week).
+What you'll do
+- Embed directly within a Product domain, working closely with a Product Data Analyst, and participating in team meetings, 1:1s, and other mentoring sessions.
+- Dive deep into our data and conduct exploratory data analysis to help inform a specific business problem.
+- Creatively compress sweeping requests into specific insights that address your stakeholders’ underlying needs.
+- Build intuitive dashboards and other visual monitoring tools to guide daily decision-making.
+- Communicate and present complex quantitative findings in easily digestible terms.
+What you'll bring
+- Currently pursuing a degree in an analytics or analytics-adjacent field, ideally involving complex data modeling, quantitative analysis, and applied
+statistics.
+- Strong familiarity with SQL. Experience with a programming language (Python, R, etc) is a plus.
+- Good foundational understanding of core statistical concepts (regression, significance testing, omitted variable bias, independence/dependence, etc.).
+- Knack for creative data visualizations.
+- Strong communication skills. Comfortable presenting an analysis with stakeholders beyond your core team.
+- Great organizational and task management skills. Able to take an unstructured problem and break it down into requisite pieces.
+What you'll learn
+- Hands-on experience with industry standard tools like: Snowflake, dbt, Claude Code, Omni, and more
+- Deep-dives into applied statistics in a real-world business environment using large data
+- How to scope projects, communicate findings, and work cross-functionally.
+The displayed range represents the expected hourly rate for this position.
+The displayed range represents the expected annual base salary / On-Target Earnings (OTE) for this position. On-Target Earnings (OTE) is inclusive of base
+salary and on-target commission earnings, which applies exclusively to sales roles.
+Individual pay within this range is determined by work location and other factors such as job-related skills, experience, and relevant education or training.
+This annual base salary forms part of a comprehensive Total Rewards Package. In addition to benefits, this role may qualify for discretionary bonuses/incentives
+and Restricted Stock Units (RSUs).
+Position Pay Range
+$30 - $30 USD
+Working at CarGurus
+We reward our Gurus’ curiosity and passion with best-in-class benefits and compensation, including equity for all employees, both when they start and as they
+continue to grow with us. Our career development and corporate giving programs, as well as our employee resource groups (ERGs) and communities, help people
+build connections while making an impact in personally meaningful ways. A flexible hybrid model and robust time off policies encourage work-life balance and
+individual well-being. Thoughtful perks like daily free lunch, a new car discount, meditation and fitness apps, commuting cost coverage, and more help our
+people create space for what matters most in their personal and professional lives.
+CarGurus may require in-person interviews as part of our hiring process, particularly for positions based in our Boston and Dublin offices. Candidates selected
+for an in-person interview will be notified in advance. Please be aware that travel expenses are the responsibility of the candidate.
+We welcome all
+CarGurus strives to be a place to which people can bring the ultimate expression of themselves and their potential—starting with our hiring process. We do not
+discriminate based on race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender
+identity, or sexual orientation. We foster an inclusive environment that values people for their skills, experiences, and unique perspectives. That’s why we
+hope you’ll apply even if you don’t check every box listed in the job description. We also encourage you to tell your recruiter if you require accommodations to
+participate in our hiring process due to a disability so we can provide the appropriate support. We want to know what only you can bring to CarGurus.

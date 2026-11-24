@@ -1,0 +1,42 @@
+part of something big: building products or services that reach millions and shaping how people live, work, and connect every day. This is where your ideas turn
+into real impact. You’ll work with world class tools, global platforms, and systems built to operate at an extraordinary scale. You’ll move fast, experiment and
+launch solutions that matter. With endless opportunities to explore across teams and roles, you’ll learn quickly, apply what you know and discover skills you
+didn’t know existed. This is an environment designed for builders who want to see the impact of their work in the world. Ready to start your adventure?
+What’s in it for you?
+An internship at Amazon means real responsibility from day one. You’ll build, test, and learn alongside people who want to see you succeed, while making an
+impact that reaches far beyond campus.
+As you launch your career as a Business Analyst Intern at Amazon, you will focus on improving the success within a business function by analyzing data,
+discovering and solving real world problems, and building metrics and business cases to improve the customer's experience. We are focused on your success and
+want to build future leaders within Amazon.
+A key component of the role is to identify process and system improvement opportunities by monitoring existent metrics, analyzing data and collaborating with
+internal teams. In addition, design and develop automated reporting solutions to enable stakeholders to manage the business and make effective decisions.
+Lastly, enable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format.
+This role is based in one of the following locations: Arlington, VA | Austin, TX | Bellevue, WA | Nashville, TN.
+Please note that we are unable to offer visa sponsorship for this role.
+Basic Qualifications
+- Are 18 years of age or older
+- Work 40 hours/week throughout the course of a 12-week summer internship between May through September
+- Knowledge of SQL
+- Currently enrolled in a bachelor’s degree program with a graduation conferral date between December 2027 and June 2028
+- Able to relocate nationwide - relocation assistance provided if eligible
+Preferred Qualifications
+- Basic to advanced knowledge of TABLEAU/Power Query, intermediate (e.g., VLOOKUP)/advanced Excel skills (e.g., Write/edit VBA), and a basic to advanced
+knowledge of SQL (all join types, group by, order by, calculated columns)
+- Preferred Majors: Business, Computer Science, Data Engineering, Economics, Finance, Engineering, Mathematics, Machine Learning, Science, Statistics, and
+Symbolic Systems
+- Effective interpersonal, written, and oral communication with a keen focus on delivering business results
+- Demonstrated track record in using data and metrics to make decisions and build scalable solutions
+- Ability to act strategically and make decisions under ambiguity
+- Strong academic, leadership, and/or extracurricular record
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or
+adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your
+Recruiting Partner.
+The starting pay for this position is listed below. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k)
+matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits .
+Bellevue, WA, USA - 80,200.00 USD Annually
+Job details
+- USA, WA, Bellevue
+- Internships for students
+- Business Intelligence

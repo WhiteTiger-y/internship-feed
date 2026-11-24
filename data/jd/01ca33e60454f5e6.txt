@@ -1,0 +1,74 @@
+Job Description
+The Team:
+At GM, we look to move humanity forward. We translate breakthrough technologies into vehicles and experience that people love. It all starts with research and
+development.
+In the Connected Experience and Agentic System Research lab, we transform the mobility experience by creating integrated solutions for safe and connected
+vehicles that our customers love. We are looking for R&D Interns to research, design, and develop groundbreaking technologies in autonomous, connectivity,
+vehicle architectures, safety, cybersecurity, user experience, displays and simulation. In this internship, you will plan and execute collaborative research to
+generate new knowledge and sophisticated technology for our vehicles. Our culture of "Innovate Now" gives you the opportunity to be creative and implement
+designs that could possibly be driving around in the near future!
+What You’ll Do:
+- Conduct research and/or experiments to collect required data and validate research ideas in the Connected Experience and Agentics System Research Lab (CEASR)
+- Document and present results. Depending on the assignment, results could lead to external publications and/or intellectual property
+- Execute technical and special assignments related to displays and optics
+- Develop and execute specific research plans, including concept generation, development, implementation, and validation
+- Collaborate effectively with peers, management, operations groups, and outside organizations
+Required Qualifications:
+- Pursuit of a Bachelor’s degree in one of the following areas: engineering or science
+- Must be a current student
+- Able to work fulltime, 40 hours per week during the summer months
+- Must be a current PhD student or second year masters student in engineering or science
+- Research experience in simulation of ray tracing
+- Strong theoretical, experimental and software programming skills
+- Ability to work both independently and in teams
+- Consistently demonstrate critical thinking and strong teamwork
+- Effective verbal and written communication skills
+- Excellent persuasion, active listening, delegation, and leadership skills to work effectively with GM internal and external customers
+Preferred Qualifications:
+- Programming skills in Python or MATLAB
+- Modeling Experience in Zemax, Lumerical
+- Research experience in one or more of the following topics: free form optics, waveguide, displays, spatial light modulation, holography
+- Knowledge of Machine Learning and Deep Learning
+- Outstanding interpersonal and relationship management skills to effectively collaborate with varying levels of the organization as needed
+- Demonstrates leadership in field of study, extra-curricular activities, or service organizations
+- Strong critical thinking and analytical skills, especially the ability to synthesize large amounts of data involving multiple variables into comprehensive,
+impactful insights
+- Ability to work on multiple projects simultaneously, leading deliverables and goals
+- Willingness to ask questions, take initiative and be inventive
+- Excellent written and verbal communication skills with the ability to distill sophisticated subjects to a wider audience
+- Emerging partnership and teamwork skills and ability to learn from and share knowledge with co-workers in a rapidly moving environment
+- High level of integrity, ability to deal with ambiguity, takes initiative/self-directed
+- Evidence of strong character with integrity, honesty, accountability and trust
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future.
+This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written
+submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc).
+The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident, asylee
+or refugee).
+Work Arrangement:
+Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI three times per week, at minimum [or other
+frequency dictated by the business].
+GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of
+relocation benefits, please apply using the permanent address you would move from.
+Start dates for this internship role are May 24th & June 14th of 2027.
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world
+better, safer and more equitable for all.
+Why Join Us
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every
+day, we want every employee to feel they belong to one General Motors team.
+Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career
+that rewards you personally by visiting Total Rewards resources.
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws.
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and
+capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-
+employment screening prior to beginning employment. To learn more, visit How we Hire.
+Accommodations
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job
+search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are
+requesting as well as the job title and requisition number of the position for which you are applying.

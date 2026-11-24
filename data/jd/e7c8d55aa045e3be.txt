@@ -1,0 +1,33 @@
+Join Contoro Robotics – Revolutionizing Warehouse Automation with Cutting-Edge Robotics
+At Contoro Robotics, we're on a mission to solve labor challenges through advanced robotic solutions. Headquartered in Austin, TX, our fast-growing startup is
+transforming the supply chain industry with our flagship warehouse automation technology. Our team is made up of top-tier experts in robotics, AI, and
+logistics, working together to push the boundaries of automation.
+We’re looking for talented and ambitious individuals to join us on this journey—helping shape the future of robotics while growing alongside a world-class team.
+If you're passionate about innovation, problem-solving, and making a real-world impact, we want to hear from you!
+Contoro
+- Internship
+- Austin, TX
+About
+Contoro Robotics is an Austin based startup focused on warehouse automation. We design a state-of-the-art autonomous truck unloading system capable of lifting
+boxes over 60 lbs. As an Autonomy Software Intern, you'll join the team that builds the motion planning and autonomous behavior software running on our fleet of
+unloading robots. You'll help keep that software reliable and easy to build on: you'll investigate issues, discuss improvements, implement well-scope fixes and
+strengthen the tools and processes the team uses every day. You'll work closely with senior autonomy engineers who will review your code and mentor you. This is
+a hands-on software role, and the code you write will run on real robots in real customer environments.
+In this role, you will:
+- Investigate issues reported from robots in the field and in our test facility, using logs, telemetry, and recorded data to narrow down root causes
+- Implement well-scoped fixes and improvements in Python and C++, and take them through code review to deployment
+- Help improve the reliability, coverage, and organization of the team's automated testing
+- Contribute to the internal developer tools that help engineers understand and debug robot behavior
+- Keep documentation, runbooks, and overall code health up to date as the codebase evolves
+- Work with autonomy, perception, hardware, and test engineers to reproduce problems and verify fixes on real robots
+- Share findings clearly in written updates and team discussions
+You might thrive in this role if you:
+- Are pursuing a degree in computer science, robotics, mechanical or electrical engineering, or a related field, with a strong software focus
+- Write clean, readable code in Python and/or C++
+- Are comfortable with the Linux command line and Git-based workflows (branches, pull requests, code review)
+- Enjoy debugging: reading unfamiliar code and logs until you understand what is really happening
+- Can clearly communicate what you found, what you changed, and why
+- Have exposure to ROS, motion planning, or robotic systems
+- Have experience writing automated tests or working with CI pipelines and Docker
+- Can work on-site at Contoro's office in Austin, TX for the duration of the internship
+- Are available throughout two continuous terms (e.g., Spring + Summer or Summer + Fall)

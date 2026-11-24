@@ -1,0 +1,66 @@
+As a Data Science Intern, you will apply your analytical and programming skills to real-world business challenges, from data preparation and modeling to
+presenting insights that drive smarter decisions.
+Allianz Partners, part of the world’s #1 insurance brand, is a global leader in travel insurance and assistance—setting the standard for excellence through
+innovation, compassion, and real help in real life. Recognized for exceptional customer service and digital innovation, we’re redefining what it means to
+protect and support travelers around the world.
+Internships with Allianz Partners consist of a ten-week program focused on giving students the opportunity to gain business knowledge and experience. The
+program generally follows a project-management methodology that allows each intern to manage a project within a specific department. In addition, interns
+participate in learning sessions, networking, and mentoring opportunities.
+Program Details
+- Start Date: Monday, May 31, 2027
+- End Date: Friday, August 6, 2027
+- Work Hours: Monday-Friday 8:00 am – 5:00 pm
+- Work Environment: This is a Hybrid position Monday- Friday to include in-office days on Tuesdays and Thursdays at our headquarters in Richmond, VA.
+- Interns are expected to follow the current hybrid work schedule for the duration of the program.
+What You Will Do
+- Own an end-to-end analytics project in a business area, from problem definition through a final presentation to stakeholders.
+- Apply statistical and machine learning techniques where they fit the problem (for example, forecasting, segmentation, or classification).
+- Collect, clean, and combine data from multiple sources, using SQL and Python/R, to create analysis-ready datasets.
+- Perform exploratory analysis to uncover trends, anomalies, and actionable insights in data that may not look meaningful at first.
+- Build and maintain BI dashboards that turn data into clear, decision-ready views.
+- Develop ETL processes and automated workflows that refresh data sources and deliver scheduled email reports.
+- Partner with business stakeholders to understand their needs and translate findings into recommendations.
+- Present results to technical and non-technical audiences, including senior leaders, and document successes and limitations.
+- Perform other duties as assigned
+- Work effectively in an environment shaped by artificial intelligence (AI), machine learning, data analytics, and cloud‑based tools, using insights responsibly
+and in alignment with our standards for data governance, security, and ethical use
+What You Will Bring
+- Must be a college junior, rising Junior, Senior or rising senior, pursuing a degree. Statistics, Data Science, Math or related fields are welcome.
+Required
+Knowledge Skills and Experience
+- Experience with Python or R through coursework, projects, or work.
+- Foundational knowledge of statistics and data analysis.
+- Natural curiosity and a drive to dig into raw data to find actionable insights.
+- Strong communication skills, with the ability to explain findings to non-technical audiences.
+- Ability to work independently and collaborate with team members and other departments.
+- Ability to apply feedback, take initiative, and be accountable for work produced
+Preferred
+- SQL experience.
+- Exposure to BI tools such as Power BI or Tableau.
+- Exposure to machine learning concepts, data pipelines, or automation.
+- Candidates must be legally authorized to work in the U.S. without requiring immigration sponsorship now or in the future. This includes holders of H-1B, H4,
+L-1, L-2, TN, OPT, CPT, and other nonimmigrant visas.
+What We Offer
+Hourly base pay rate is $24.00
+Our employees play an integral part in our success as a business. We appreciate that each of our employees are unique and have unique needs, ambitions and we
+enjoy being a part of their journey.
+We are there to empower and encourage you with your personal and professional development ensuring that you take control by offering a large variety of courses
+and targeted development programs. All that in a global environment where international mobility and career progression are encouraged. Caring for your health
+and wellbeing is key priority for us. This is why we build Work Well programs to providing you with peace of mind and give the flexibility in planning and
+arranging for a better work-life balance. We offer a comprehensive benefits package that includes health, dental, and vision insurance, retirement savings
+plans, paid time off, and other employee programs. Eligibility for benefits is subject to plan terms and conditions and may vary based on position and/or
+employment status.
+At Allianz we use some AI-assisted technology as part of our recruitment process to help match candidates to roles based on skills, experience, job title, and
+location. AI supports our recruiters by enhancing the efficiency and accuracy of candidate assessments and job recommendations, while all applications are
+reviewed by our recruitment team and final hiring decisions are made by humans.
+This posting is for an existing vacancy.
+109958 | Operations | Student | n.a. | Allianz Partners | Full Time or Part Time | Temporary
+Allianz Group is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and
+challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow
+and to shape a better future for our customers and the world around us.
+At Allianz, we stand for unity: we believe that a united world is a more prosperous world, and we are dedicated to consistently advocating for equal
+opportunities for all. And the foundation for this is our inclusive workplace, where people and performance both matter, and nurtures a culture grounded in
+integrity, fairness, inclusion and trust.
+We therefore welcome applications regardless of race, ethnicity or cultural background, age, gender, nationality, religion, social class, disability or sexual
+orientation, or any other characteristics protected under applicable local laws and regulations.
+Join us. Let's care for tomorrow.

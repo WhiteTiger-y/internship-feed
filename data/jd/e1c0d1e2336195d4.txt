@@ -1,0 +1,70 @@
+Job Description
+The Role:
+As a valued Intern in the Mechanics, Materials and Process Research Lab at General Motors Research and Development, you will innovate in magnetic materials for
+next-generation vehicle and manufacturing applications. You will propose new research directions, establish technical research plans, and lead collaborative
+studies spanning magnetic materials discovery, computational modeling, processing, characterization, and validation.
+You will generate new insights into the relationships among composition, crystal structure, microstructure, magnetic behavior, thermal stability,
+manufacturability, and system performance. Your work will guide experimental efforts, accelerate materials down-selection, and help translate research results
+into practical solutions for motors, sensors, actuators, power systems, and other GM applications. You will document and communicate results through high-
+quality technical reports, external publications, presentations, and records of invention.
+What You’ll Do:
+- Plan and execute collaborative research in magnetic materials, generating new knowledge and enabling innovative materials solutions.
+- Apply physics-based modeling, simulation, and data-driven approaches to magnetic-materials discovery, design, and performance prediction.
+- Investigate structure–property relationships involving magnetization, coercivity, remanence, permeability, loss, temperature dependence, phase stability, and
+degradation.
+- Partner closely with experimental researchers to guide synthesis and processing, interpret characterization data, and accelerate materials down-selection.
+- Evaluate magnetic materials and material systems for applications including electric machines, sensors, actuators, power electronics, and manufacturing
+processes.
+- Connect computational predictions with experimental validation using appropriate magnetic, structural, thermal, electrical, and mechanical measurements.
+- Drive internal and external collaborations with GM engineering teams, universities, national laboratories, suppliers, and research partners.
+- Maintain awareness of the state of the art in magnetic materials, computational materials science, materials characterization, and related disciplines.
+- Prepare timely, high-quality technical reports, presentations, publications, and invention disclosures to communicate research outcomes.
+- Generate intellectual property to protect new inventions and research results.
+- Assist and mentor other employees in accomplishing project and research goals.
+Required Qualifications:
+- Pursuit of an Advanced degree (M.S. or Ph.D.) in one of the following areas: Materials Science and Engineering, Physics, Chemistry, Electrical Engineering,
+Mechanical Engineering, or a closely related field.
+- Must be a current student
+- Strong foundation in materials thermodynamics, kinetics, crystallography, phase transformations, magnetism, and structure–property relationships.
+- Experience with magnetic materials such as permanent magnets, soft magnetic alloys, ferrites, magnetic composites, magnetocaloric materials, or related
+functional materials.
+- Experience with computational modeling and simulation of materials, including electronic-structure, atomistic, mesoscale, micromagnetic, phase-field, finite-
+element, or continuum methods.
+- Proficiency in scientific programming and data analysis using tools such as Python, C/C++, MATLAB, or similar languages.
+- Experience analyzing materials data and connecting composition, processing, microstructure, and magnetic performance.
+- Experience working in multidisciplinary research teams.
+- Strong written and verbal communication skills to work effectively with GM internal and external collaborators.
+- Able to work fulltime, 40 hours per week during the summer months
+Preferred Qualifications:
+- Ph.D. strongly preferred.
+- Experience with DFT/electronic structure, atomistic or micromagnetic modeling, ICME, machine learning, materials informatics, magnetic-property measurement,
+materials synthesis and processing, or microstructural characterization.
+- Experience coupling computational predictions with experimental validation.
+- Demonstrated publication record and/or intellectual property generation.
+- Experience transitioning computational or experimental insights into applied engineering or manufacturing solutions.
+- Knowledge of design-for-manufacturing, supply-chain considerations, critical-materials strategy, or sustainability in magnetic-materials systems.
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future.
+This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written
+submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc).
+Work Arrangement:
+Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI three times per week, at minimum [or other
+frequency dictated by the business].
+The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident, asylee
+or refugee).
+GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of
+relocation benefits, please apply using the permanent address you would move from.
+Start dates for this internship role are May 24th & June 14th of 2027.
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world
+better, safer and more equitable for all.
+Why Join Us
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every
+day, we want every employee to feel they belong to one General Motors team.
+Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career
+that rewards you personally by visiting Total Rewards resources.
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any othe

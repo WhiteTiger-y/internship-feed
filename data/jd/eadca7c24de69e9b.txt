@@ -1,0 +1,47 @@
+Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital
+worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrives is if our people are thriving.
+That’s why we always put our people first. Our global, diverse team would be happy to support you and challenge you to grow in new ways. Who knows where our
+shared journey will take you?
+Transform the everyday with us!
+You will join the Physics x AI research lab within Siemens’ Data and Artificial Intelligence organization — our central research hub for artificial intelligence
+— for a Spring 2027 internship.
+We are looking for a Research Intern in Scientific Machine Learning for Physics and Simulation. This position will be remote.
+You’ll make an impact by:
+- Developing and evaluating neural surrogate models that predict physical fields and engineering quantities on complex geometries.
+- Incorporating physical laws, boundary conditions, and engineering knowledge into artificial intelligence models.
+- Studying model accuracy and generalization across geometries, meshes, and operating conditions.
+- Designing experiments with appropriate baselines, ablation studies, and reproducible evaluation.
+- Implementing research prototypes, data pipelines, and GPU training workflows, and validating predictions together with simulation experts.
+- Communicating findings through technical reports, presentations, and scientific papers.
+You’ll win us over by having the following qualifications:
+Basic Qualifications:
+- Currently enrolled as a PhD student in Computer Science, Machine Learning, Applied Mathematics, Physics, Engineering, or a related field.
+- Research experience in machine learning and deep learning, including developing and evaluating new methods.
+- Hands-on experience developing and training neural networks in Python with PyTorch or a comparable deep-learning framework, including designing experiments
+and comparing models against baselines.
+- A sound foundation in linear algebra, optimization, probability, and numerical computation.
+- A background in physics, engineering, or physical modeling, with the ability to learn new scientific concepts with guidance from domain experts, and clear
+written and verbal communication skills.
+- Minimal travel required (less than 10%).
+- Proficient in English both written and verbal
+- Legally authorized to work in the United States on a continual and permanent basis without company sponsorship.
+Preferred Qualifications:
+- Publications at leading artificial intelligence conferences (for example, NeurIPS, ICML, or ICLR), or in relevant scientific journals.
+- Surrogate modeling, neural operators, geometry-aware machine learning, or graph neural networks for meshes, point clouds, or CAD geometry.
+- Physics-informed machine learning, differentiable simulation, uncertainty quantification, or learning from limited simulation data.
+- Scientific foundation models, multimodal learning, or generative artificial intelligence (pretraining, fine-tuning, diffusion, or flow-based models) for
+physical prediction, geometry generation, or inverse design.
+- Agentic artificial intelligence for tool use and simulation workflows, or reinforcement learning for engineering design, optimization, or control.
+- Computational fluid dynamics, heat transfer, numerical PDE methods, or multiphysics modeling (for example, Simcenter STAR-CCM+, OpenFOAM, or NVIDIA
+PhysicsNeMo), and GPU or distributed computing for large simulation datasets.
+About Siemens:
+We are a global technology company focused on industry, infrastructure, transport, and healthcare. From more resource-efficient factories, resilient supply
+chains, and smarter buildings and grids, to sustainable transportation as well as advanced healthcare, we create technology with purpose adding real value for
+customers.
+Our Commitment to Equity and Inclusion in our Diverse Global Workforce:
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity
+of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and
+transform the everyday with us.
+Protecting the environment, conserving our natural resources, fostering the health and performance of our people as well as safeguarding their working
+conditions are core to our social and business commitment at Siemens. They are an integral part of our Business Conduct Guidelines and our corporate strategy.
+$37-50

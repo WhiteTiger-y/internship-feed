@@ -1,0 +1,57 @@
+T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to
+the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career
+opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!
+Get hands-on experience, training—and a leg up on a bright future.
+T-Mobile didn’t become a leader by following the playbook. We got here by breaking it. We’re a disruptor that now plays on a higher tier, and we’re still
+raising the bar for millions of customers nationwide. If you want to work somewhere that sets the standard instead of matching it, this is your place.
+This is an 11-week paid learning experience where you’ll do real work, not busywork. You’ll build relationships with other interns and leaders across the
+company, and you’ll be paired with mentors who will challenge you to grow skills that matter. We’ll give you hands-on projects with real stakes, and we expect
+your creativity and sharp ideas to make an immediate impact. You’ll work alongside T-Mobile employees who have your back and who still believe the best ideas
+can come from anyone.
+What It’s Like
+Our T-Life Quality Engineering team is small enough that you’ll be seen and big enough that your work will matter. We deliver seamless, reliable, high-quality
+digital experiences for millions of T-Mobile customers, driving end-to-end quality across complex journeys that span T-Life, Retail, Care, and integrated
+backend systems. Our scope covers quality strategy, test automation, regression testing, cross-channel integration validation, and release readiness. We’re also
+building AI-powered quality engineering platforms that enable intelligent testing, predictive insights, faster defect detection, and proactive quality
+assurance. The pace is fast and the problems are real. You’ll be treated like a teammate from day one, with room to share ideas and see them put to use.
+What You’ll Do
+As an intern on the Quality Engineering team, you’ll work on real-world projects focused on AI-powered quality engineering platforms, intelligent test
+automation, and next-generation digital testing solutions. Working alongside experienced engineers and cross-functional partners, you’ll design, develop, and
+enhance AI-driven tools that improve test efficiency, automate complex customer journeys, predict quality risks, and accelerate software delivery. You’ll
+explore Generative AI, Agentic AI, machine learning, and intelligent automation to build scalable solutions that change how T-Mobile delivers quality across
+T-Life, Retail, and Care. Your work will improve developer productivity, release confidence, and the customer experience, and it will help shape the future of
+AI-enabled quality engineering at T-Mobile.
+Key Responsibilities
+- AI-Powered Platform Development: Design, develop, and enhance quality engineering platforms that use Generative AI, Agentic AI, and machine learning to
+improve testing efficiency, engineering productivity, and software quality.
+- Intelligent Test Automation: Build AI-driven automation for test case generation, execution, self-healing scripts, and end-to-end validation of customer
+journeys across T-Life, Retail, and Care applications.
+- AI Innovation & Prototyping: Research emerging AI technologies, develop proofs of concept (POCs), and experiment with intelligent agents, LLMs, and automation
+frameworks to solve real quality engineering challenges.
+- Data Analytics & Predictive Quality Insights: Develop AI-enabled dashboards, quality metrics, and predictive models that identify testing gaps, detect defects
+early, and give engineering teams actionable insights.
+- Cross-Functional Collaboration & Continuous Improvement: Partner with Quality Engineering, Product, and Development teams to integrate AI solutions into
+existing workflows, improve release confidence, and deliver scalable, customer-centric quality solutions.
+What It Takes
+- Programming & Software Development: Strong foundational knowledge of Python, Java, JavaScript, or TypeScript, with experience developing applications, APIs,
+automation scripts, or technical projects.
+- AI & Emerging Technologies: Familiarity with Generative AI, Large Language Models (LLMs), Agentic AI, prompt engineering, Retrieval-Augmented Generation
+(RAG), and AI frameworks such as LangChain, LangGraph, or similar technologies.
+- Mindset: Curiosity and a willingness to challenge assumptions, including your own, plus the urgency to move quickly and manage multiple priorities.
+- At least 18 years of age
+- Legally authorized to work in the United States now and in the future
+- Must have one or more course(s) remaining in a Bachelors or Graduate degree program post internship
+- Employees of T-Mobile or Metro by T-Mobile are ineligible for external Summer Internships, please see Magenta Accelerator if interested
+Relocation assistance will be provided to program participants who reside more than 50 miles from the internship location.
+Intern wages range from $27/hour to $50/hour. The successful candidate’s actual pay will be based on education/STEM vs non-STEM designation.
+Never stop growing!
+As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our
+employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career
+opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!
+T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity,
+color, religion, creed, sex, sexual orientation, gender identity or expression, genetic information, national origin, religious affiliation, marital status,
+citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or
+local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.
+Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or
+interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a
+means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.

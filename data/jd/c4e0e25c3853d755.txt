@@ -1,0 +1,72 @@
+experience.
+In this full-time (~40 hours/week) role, you will create a GIS—that's Geographic Information Systems—map which illustrates the combined impacts of our clean
+transportation incentive programs. The goal is to map our existing dealership relationships in proximity to customers, display the GHG emissions reductions for
+transitioning to zero carbon transportation modes, and develop a white paper comparing program trends to state and local policy goals.
+To complement this project, you will deep-dive peer-reviewed studies to build an analysis on the impacts of incentives on vehicle purchases. You’ll gain a deep
+understanding of complex programs by speaking with program managers and using program data to test theories, forecast economic behavior, measure economic
+relationships, and model the impact of our incentives against a base case.
+This experience will grant you:
+- Hands-on practice using data modeling and visualization tools
+- Knowledge of the CA transportation electrification landscape
+- Daily collaboration with team members to support and understand program design decisions
+Your work will result in:
+- Measurable data on program impacts that can be shared with clients and support business development activities
+- Informative project deliverables that may help shape program design decisions
+To enable you for success, we are seeking candidates with these qualifications:
+- Intermediate Microsoft Excel skills
+- Skill in Python and/or R
+- Currently enrolled or previously completed coursework in an economics or mathematics program
+- Strong research, writing, and analytical skills
+While not required, we love to see candidates with:
+- An interest in renewable energy, clean transportation, and/or incentive program design
+- Experience with ArcGIS or a similar tool
+Compensation:
+- Undergraduate student: $21/hr
+- Graduate student: $24/hr
+In order to be eligible for this position, you must be:
+- Currently enrolled full- or part-time in an undergraduate program as a second to fourth-year student or enrolled in a graduate program
+- Please note we are unable to accept applications from first-year undergraduate students or recent graduates who are not enrolled in a program
+- A US Citizen or permanent resident
+- Please note we are unable to host international students
+- Available to meet your weekly hours requirement between May and August for Summer and between September and November for Fall
+- Motivated by the Energy Solutions’ mission to reduce carbon emissions with an equity lens
+You may apply to up to 2 positions per cycle.
+To apply, please submit:
+- Your updated resume/CV.
+- 2 short essays that meets the criteria below.
+- A work sample that meets the criteria below.
+Your short essays must:
+- Be original documents written by you. We will not accept work written by or with the assistance of ChatGPT or other AI/chatbot programs.
+- Be 500 words or less each.
+- Answer the following prompts:
+- Describe how you have overcome adversity and applied the lessons learned to your academic, professional, or personal life.
+- Describe how the internship you apply for will enhance or help launch your career in an energy related industry.
+Your work sample must:
+- Be an original document written by you. We will not accept work written by or with the assistance of ChatGPT or other AI/chatbot programs. You are permitted
+to submit a section of a larger document, including a document you wrote in collaboration with others, so long as the section you submit is entirely your own
+work.
+- Be between 1 and 3 pages long, single or double spaced, not including sources. You may submit a document longer than 3 pages but we will not read past the 3rd
+page.
+- Demonstrate your ability to communicate your thinking about an idea. This is vague by design; anything that you wrote—whether for a class, a job, or for
+personal reasons—and are proud of will probably suffice.
+- Focus on a topic important to you. The topic does not have to be related to the internship you are applying for, but if it is, all the better.
+Our Summer 2027 Internship opportunities are open until January 8, 2027 at 5:00 PM PST!
+We will not accept late applications or make exceptions regarding the criteria. We reserve the right to close our applications before the deadline.
+Please reach out to internships@energy-solution.com with any questions. Applications sent in via email or past the deadline will not be accepted.
+If you are interested in a Fall position, check back in summer. Our Fall 2026 program application cycle opened in May 2026.
+AI Use
+At Energy Solutions we believe in the importance of authentic interactions and equitable opportunities. We base our candidate selection on one’s own skills,
+knowledge, and experience. To ensure the integrity and fairness of our interview process, the use of artificial intelligence (AI) tools (including Generative
+AI) or other means to generate or assist with responses during interviews is strictly prohibited. This practice supports our commitment to create a transparent
+and equitable space where skills, knowledge and experience can truly shine.
+Background Check Information
+Information will be requested to perform the compulsory background check. A drug screen and authorization to work in the U.S. indefinitely are preconditions of
+employment. Energy Solutions is an equal opportunity employer.
+Reasonable Accommodations
+Energy Solutions is committed to providing access and reasonable accommodation for individuals with disabilities. If you require an accommodation in completing
+this application, interviewing, and/or completing any pre-employment testing, or otherwise participating in the employee selection process, please email
+accommodation@energy-solution.com .
+Privacy Notice for Job Applicants
+Create a Job Alert
+Interested in building your career at Energy Solutions Internships? Get future opportunities sent straight to your email.
+Create alert

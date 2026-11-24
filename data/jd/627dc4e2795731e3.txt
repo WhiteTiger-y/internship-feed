@@ -1,0 +1,82 @@
+Description
+Do you want to design, build, and deploy cutting-edge imaging systems advancing defense, remote sensing, medical tech, space science, and law enforcement
+applications?
+If you are pursuing a Bachelor's, Master's or PhD in Computer Engineering, Mechanical Engineering, Electrical Engineering, Engineering Physics, Computer
+Science, Physics, Mathematics, Optical Science, or a similar major and want to work in an exciting and collaborative environment to solve challenging technical
+national security problems, The Imaging Systems Group is the group for you! If you're passionate about optical sensing, computer vision, and imaging technology,
+this hands-on, innovative lab environment is for you. Our expertise spans sensor design, system miniaturization, real-time AI/ML, embedded hardware, LIDAR,
+smart imaging, and drones, supporting impactful applications across humanitarian aid, defense, and law enforcement.
+Focus Areas
+- Sensor Systems
+- Advanced Algorithms
+- Applied Sensors
+- Intelligence, Surveillance, and Reconnaissance (ISR) Prototypes
+- Advanced Optics
+- Sensor Software
+- Edge Processing
+- Geospatial intelligence
+- Autonomous Systems
+- Robotics and Artificial Intelligence
+- Non-Optical Imaging Systems
+We are seeking an intern(s) to join our Imaging Systems Group to conduct modeling and analysis, data analysis, prototype, work with embedded hardware, develop
+or use AI/ML algorithms, work with an optical sensor, and develop optical test benches.
+As a member of our group, you will…
+- Develop, evaluate, and deploy imaging system hardware, algorithms, and/or software.
+- Assist in the brainstorming and development of new initiatives/concepts in optical imaging through internal research and development (IR&D) efforts.
+- Capture technical contributions in internal memorandum/reports and conference/journal papers, and present findings and recommendations at internal and
+external forums.
+- Support field integration and testing activities of developed systems.
+- Develop various GUI interfaces for sensor integration using serial, TCP/IP protocols.
+- Integrate Embedded systems into low size, weight, and power (SWaP) hardware such as NVIDIA Jetson series.
+- Develop and implement image processing applications for AI and machine learning techniques.
+- Perform digital signal processing tasks, including applications of Fourier Transforms.
+- Engage in modeling and simulation, mechanical design, circuit design, and FPGA tasks, along with hands-on optical design work.
+- Conduct laboratory work in experimental optics, constructing proof-of-concept systems, evaluating performance, performing benchtop testing, and conducting
+digital signal processing analysis.
+Qualifications
+You meet our minimum qualifications for the job if you…
+- Are you pursuing a Bachelor's, Master's or PhD in Computer Engineering, Mechanical Engineering, Electrical Engineering, Engineering Physics, Computer Science,
+Physics, Mathematics, Optical Science, or similar
+- Have a minimum 3.0 GPA on a 4.0 scale.
+- Have demonstrated the ability to work both independently and as part of a multidisciplinary team and possess strong interpersonal, speaking, and technical
+writing skills.
+- Ability to translate, statistically analyze data, and effectively report problems through written and/or graphical formats.
+- Ability to read and interpret technical documentation.
+- Software debugging skills, including using collaborative tools such as GitLab and/or GitHub.
+- Proficient Experience in programming in any or all of the following programming languages:
+- C/C++
+- Python
+- MATLAB
+- JAVA
+- Typescript
+- C#
+- Related programming languages
+- Demonstrated passion for continuous learning and problem-solving, as shown through active involvement in school assignments, personal projects, or
+extracurricular activities that reflect a strong interest in exploring new concepts or technologies
+- Can ultimately obtain a Secret level security clearance. If selected, you will be subject to a government security clearance investigation and must meet the
+requirements for access to classified information. Eligibility requirements include U.S. citizenship.
+You will go above and beyond our minimum requirements if you...
+- Have a Master's or PhD
+- Experience in Linux, GPU, signal processing/image processing, Docker, FPGA, TensorFlow, Circuit-Board Design, Development, and Fabrication, Advanced Image
+Processing, Remote Sensing Processing in and non-imaging LightTools, Fred, or ASAP. Experience/coursework Meta Surface research and testing.
+- Experience in optical sensor software development, Micro-controller software development, image processing, computer science, computer engineering,
+algorithms, agile, software engineering, Graphical User Interface (GUI), and Human Machine Interface.
+- Experience in data analysis, imaging, image processing, synthetic aperture radar, Lidar, infrared, hyperspectral, optics, imaging science, sensors, system
+engineering, systems engineering, computational physics, MATLAB, statistics, modeling and simulation, digital signal processing
+- Have an active Secret level security clearance.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers.
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu.
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less tha

@@ -1,0 +1,51 @@
+Reality Labs (RL) teams is looking for exceptional interns to help us create next generation interaction technologies for virtual and augmented reality. Join a
+full-stack team working on computer vision, machine learning, geometric and appearance simulation, and AI image generation. In particular, we are looking for
+candidates with experience in Computer Vision - specifically generative image/video modeling and synthetic data generation. We welcome students with a passion
+for working in a strongly collaborative team. Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the
+year.
+Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD) Responsibilities:
+- Design and execute algorithms in the domain of computer vision, machine learning, computer graphics, and generative AI.
+- Conduct in-depth literature reviews and build knowledge of the latest advancements in AI-based image generation techniques.
+- Collaborate with our research team to design and implement novel algorithms for synthetic image generation or translation.
+- Experiment with cutting-edge machine learning models and frameworks to enhance image synthesis capabilities.
+- Analyze and evaluate model performance, iterating on approaches to improve image quality, realism, and diversity.
+- Document and share research findings, contribute to technical reports, and potentially publish in academic or industry conferences/journals.
+Minimum Qualifications:
+- Synthetic video generation using deep generative models, computer graphics, or physics-based simulation
+- High-fidelity video synthesis: Generate realistic, high-resolution imagery of eyes and faces with fine detail, geometric accuracy, and 4D consistency
+- Conditional video generation: Guide generation using metadata, text, image masks, or combinations of input modalities
+- Controllable video generation: Control attributes such as appearance, style, pose, and lighting
+- Few-shot and zero-shot generation: Generate imagery from limited or no examples using prior knowledge or meta-learning
+- Experience in Python or C++
+- Experience with ML frameworks such as PyTorch or Tensorflow
+- Experience in one or more of the following: generative AI, computer vision, computer graphics (e.g. appearance, geometry, physically-based modeling), or
+machine learning (e.g. efficient deep learning, domain adaptation, transfer learning)
+- Strong analytical and problem-solving skills with a passion for innovation and cutting-edge research
+- Excellent written and verbal communication skills, with the ability to present complex ideas clearly and concisely
+- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+Preferred Qualifications:
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, or first-authored publications at leading journals or
+conferences such as CVPR, ECCV/ICCV, BMVC, NeurIPS, ICML, ICLR, CHI, SIGGRAPH/SIGGRAPH Asia, ICRA, IROS, RSS, TPAMI, IJCV, etc
+- Contributions to open-source projects, publications, or relevant projects demonstrating expertise in synthetic image generation
+- Experience with cloud computing platforms and distributed computing for large-scale experiments
+- Demonstrated software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories
+(e.g. GitHub)
+- Experiences working on high volume image data processing or synthesis
+About Meta:
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.
+Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
+augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help
+shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin,
+sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual
+stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also
+consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in
+certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with
+applications for employment.
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or
+accommodations due to a disability, please let us know at accommodations-ext@meta.com.
+$7,650/month to $12,667/month + benefits
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly
+rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers
+benefits. Learn more about benefits at Meta.

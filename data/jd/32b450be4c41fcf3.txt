@@ -1,0 +1,44 @@
+Standard Job Description
+The coolest jobs on this planet… or any other… are with Lockheed Martin Space.
+At the dawn of a new space age, Lockheed Martin is a pioneer, partner, innovator and builder. Our amazing people are on a mission to make a difference in the
+world and every single day we use our unique skills and experiences to create, design and build solutions to some of the worlds’ hardest engineering problems.
+Do you want to be part of a culture that inspires employees to think big, perform with excellence and build incredible products? We provide the resources,
+inspiration and focus - if you have the passion and courage to dream big, then we want to build a better tomorrow with you.
+The Advanced Technology Center (ATC) is the research lab for Lockheed Martin Space. Through our own skills and those of our partners—including universities and
+research labs around the world—we are able to put vision in motion. While we are a part of LM's Space division, our technologies are far-reaching across
+domains. Napkin sketches of lasers that can shoot down UAVs—we made it real. Changing molecules so metals behave differently?
+We invented that. ATC’s story is written in the success of missions here on Earth and far, far into space. Our innovation extends beyond incremental change. We
+strive for first-of-a-kind capability with enduring impact. Whatever the application, our charter is to create game-changing technologies. At the ATC, we are
+inspiring change in our endless pursuit of what is next.
+We are searching for a Research Intern to join our extraordinary team. In this role you will perform the research, development, and analysis of algorithms to
+detect, acquire, and track objects of interest. You will apply this research to understanding system-level implications, analyzing new missions and enabling
+cutting-edge technologies to make a real-world impact.
+You will participate on teams implementing this understanding to develop new and novel system architectures, and evaluate performance of existing architectures.
+Basic Qualifications
+Currently enrolled in an accredited degree program such as physics, applied physics, applied mathematics, computer science, computer engineering, chemistry,
+mechanical engineering, or electrical engineering
+- Exposure to or awareness of suitable scientific/engineering disciplines related to algorithms, sensors, image processing, tracking and filtering, and modeling
+& simulation of physical systems.
+- Strong technical writing, presentation and overall communication skills for reports, proposals, technical presentations, and interaction with team members and
+academic/industry collaborators.
+Desired Skills
+- Scientific, data, and information visualization; and data exploitation
+- Experience with software programming: Python, C/C++, MATLAB, and/or Java
+- Image and signal processing
+- Artificial Intelligence / Machine learning
+- Modeling and simulation
+Pay Information
+Full-Time Salary Range: $25.18 - $35.19
+At Lockheed Martin, we know mission success starts with taking care of our people. Our Total Rewards program is designed to attract top talent, support your
+well-being, and help you grow—both professionally and personally.
+The salary range for this position is as listed on the requisition. Please note that the salary information listed is a general guideline only. Lockheed Martin
+considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well
+as market(work location) and business considerations when extending an offer.
+Benefits offered: Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP,
+Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability.
+- Annual short-term and/or long-term incentive compensation programs may be offered depending on the position. Payments under these annual programs are not
+guaranteed and can vary from year to year and are tied to a range of performance metrics.
+- For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for
+incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue
+up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date
+during the calendar year.

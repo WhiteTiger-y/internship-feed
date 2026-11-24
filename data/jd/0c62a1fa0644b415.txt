@@ -1,0 +1,79 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my
+application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application
+is true to the best of my knowledge.
+Job Description:
+The Precision & Translational Medicine (PTM) team, part of Oncology Therapeutic Area (OTAU), is on a mission to deliver transformational cures to patients
+through innovative translational research and development. By translating scientific innovation into the clinic, we aim to de-risk and expedite pre-clinical and
+clinical development, ensuring the right medicines reach the right patients at the right time. The PTM Strategic Innovations (PSI) team drives advancements in
+clinical-decision making by integrating cutting-edge technologies into clinical workflows. PSI’s initiatives are grounded in rigorous scientific evaluation and
+pilot validation, ensuring that innovations are tested in real-world settings and aligned with organizational goals.
+Digital pathology is transforming oncology drug development by enabling high-resolution, AI-powered analysis of histology images. At Takeda, our Digital
+Pathology Accelerator (DPA) team is pioneering efforts to extract spatial and cellular insights from H&E and IHC slides using advanced machine learning models.
+These models help quantify immune cell populations, automate stain scoring, and correlate tissue features with patient response data. This internship will
+explore the development and validation of AI/ML models for digital pathology applications and their expanded use in clinical pipelines.
+How You Will Contribute:
+As a AI/ML Digital Pathology Imaging Intern, you will have the opportunity to…
+- Support development of a reusable end-to-end digital pathology workflow spanning image and metadata preparation, quality control, model deployment,
+standardized outputs, and analytics.
+- Test and evaluate the end-to-end workflow on independent internal and external datasets and different foundation models to assess performance,
+reproducibility, and generalizability across cohorts.
+- Design and implement task-specific downstream prediction heads that adapt pre-trained foundation models for translational pathology questions, such as
+predicting molecular biomarker status from H&E images.
+- Assist in the design and execution of experiments to evaluate and validate AI pathology models and new capabilities, ensuring their efficacy and reliability
+for use in clinical trials
+- Collaborate with scientists, pathologist subject matter experts, and external partners to interpret machine learning model outputs related to disease patterns
+in clinical pathology images.
+- Document methods, findings, limitations, and recommendations in technical documentation and communicate results through a final scientific presentation
+Internship Development Opportunities:
+The intern will learn
+- Interpreting AI/ML outputs from clinical pathology images in collaboration with pathology subject-matter experts and understanding their potential
+implications for patient diagnosis, treatment, and clinical research.
+- Understand the scientific, technical, and operational challenges involved with developing and applying quantitative imaging biomarkers in real-world settings.
+- Working in multidisciplinary teams across translational medicine, clinical development, data science, technology, and external innovation functions within a
+large pharmaceutical company.
+- Help evaluate the translational and clinical utility of AI-powered tissue analytics in precision medicine and oncology drug development.
+- Applying structured, data-driven approaches to real-world problems in drug development
+Job Requirements:
+- This position will be Hybrid out of the Cambridge, MA location
+- Must be pursuing a Doctoral Degree in Computer Science, Bioinformatics, Imaging, Pathology, or a related field
+- A strong foundation in biology, chemistry, biochemistry, histology, immunology, or a related scientific field
+- Demonstrated experience or coursework in machine learning, and data analysis, and/or image analysis (traditional or ML-based techniques)
+- Knowledge and interest in pathology and its application in the healthcare industry
+- Exceptional communication and teamwork abilities
+Internship Eligibility:
+- Authorized to work in the U.S. on a permanent basis without sponsorship.
+- Currently enrolled in a degree program, graduating December 2027 or later.
+- Commit to one full internship window June 1–August 20 OR June 14–August 20 (10–12 weeks, depending on start date).
+- Able to work full-time, 40 hours per week, during the internship dates.
+- Takeda does not provide a housing stipend or relocation support for the U.S. Summer Internship Program.
+Program Highlights:
+- Hands-on experience with real projects and responsibilities.
+- Dedicated mentorship pairing interns with experienced professionals.
+- Networking with industry professionals and fellow interns.
+- Internship events focused on professional and skills development.
+- Exposure to multiple business areas or departments within a pharmaceutical organization
+- Excellent quantitative, analytical, and problem-solving skills
+- Graduate, PhD, MD student with completion of a minimum of one year of graduate studies already completed
+Takeda Compensation and Benefits Summary:
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we
+strive to be more transparent with our pay practices.
+For Location:
+Boston, MA
+U.S. Hourly Wage Range :
+$21.00 - $46.00
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to
+be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job
+location.
+U.S. internship benefits vary by location and may include
+- Paid sick time
+- Civic Duty paid time off
+- Participation at company volunteer events
+- Participation at company sponsored special events
+- Access to on-site fitness center (where available)
+- Commuter Benefit To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation
+(transit) or parking.
+EEO Statement:
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment
+without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability,
+citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected
+veteran in accordance with appl

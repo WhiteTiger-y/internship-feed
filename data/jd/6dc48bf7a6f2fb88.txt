@@ -1,0 +1,38 @@
+Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital
+worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrives is if our people are thriving.
+That’s why we always put our people first. Our global, diverse team would be happy to support you and challenge you to grow in new ways. Who knows where our
+shared journey will take you?
+Transform the everyday with us!
+You will join the Physics-Informed AI research group within Siemens’ Data and Artificial Intelligence organization — our central research hub for artificial
+intelligence — for a Spring 2027 internship.
+We are looking for a Research Intern in Machine Learning for Power Systems. This position will be remote.
+You’ll make an impact by:
+- Developing machine learning algorithms for power systems.
+- Using artificial intelligence to speed up simulations, improve forecasting, and strengthen the cybersecurity posture of the power grid.
+- Exploring foundation models for engineering data modalities such as tabular and time-series data.
+- Embedding physics into generative artificial intelligence models for power system applications.
+- Working on fast-paced co-creation projects with quickly changing requirements at the intersection of machine learning and power systems.
+- Building demonstrators, supporting technology transition to Siemens businesses, and documenting your work through technical reports and academic publications.
+You’ll win us over by having the following qualifications:
+Basic Qualifications:
+- Currently enrolled as a PhD student in Electrical Engineering, Computer Science, or a related discipline.
+- Research experience applying artificial intelligence and machine learning to power systems.
+- Experience designing and applying graph neural networks for power system applications.
+- Proficiency in Python, PyTorch, and PyTorch Geometric (PyG), and in the effective use of agentic coding tools.
+- Minimal travel required (less than 10%).
+- Legally authorized to work in the United States on a continual and permanent basis without company sponsorship.
+Preferred Qualifications:
+- Research experience with foundation models for engineering data modalities beyond language and image, such as tabular or time-series data.
+- Experience embedding physics into generative artificial intelligence models.
+- Publications at leading artificial intelligence venues (for example, NeurIPS, ICML, or ICLR) or power systems venues (for example, IEEE PES).
+About Siemens:
+We are a global technology company focused on industry, infrastructure, transport, and healthcare. From more resource-efficient factories, resilient supply
+chains, and smarter buildings and grids, to sustainable transportation as well as advanced healthcare, we create technology with purpose adding real value for
+customers.
+Our Commitment to Equity and Inclusion in our Diverse Global Workforce:
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity
+of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and
+transform the everyday with us.
+Protecting the environment, conserving our natural resources, fostering the health and performance of our people as well as safeguarding their working
+conditions are core to our social and business commitment at Siemens. They are an integral part of our Business Conduct Guidelines and our corporate strategy.
+$37-50

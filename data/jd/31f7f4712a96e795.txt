@@ -1,0 +1,56 @@
+About Our Group
+The Photonics & Physical Intelligence (PPI) group at Seagate Research explores next-generation technologies at the intersection of photonics, optics, sensing,
+artificial intelligence, and advanced manufacturing. Our team develops innovative optical and photonic systems that can enable future data storage, sensing,
+automation, and intelligent physical systems. We combine simulation, laboratory experimentation, and system-level engineering to transform new scientific
+concepts into practical technologies with long-term business impact.
+We are seeking a highly motivated Photonics Engineering Intern to support the design, modeling, characterization, and experimental validation of advanced
+photonic devices and optical systems. This role offers a unique opportunity to work alongside experienced researchers and engineers while gaining hands-on
+experience with state-of-the-art photonics tools, equipment, and laboratory techniques.
+About The Role - You Will
+- Support the design and simulation of photonic and optical devices using industry-standard modeling tools.
+- Assist with optical system assembly, alignment, and characterization on laboratory optical tables.
+- Perform data collection, analysis, and visualization to evaluate device and system performance.
+- Collaborate with multidisciplinary teams including photonics, optics, electronics, mechanical, and software engineers.
+- Document experimental procedures, simulation results, and technical findings.
+- Exposure to silicon photonics, integrated photonics, optical interconnects, optical sensing, and advanced storage technologies.
+- Opportunity to contribute to patentable innovations and cutting-edge research programs.
+- Experience using tools such as Ansys Lumerical FDTD, MODE, INTERCONNECT, COMSOL, MATLAB, and Python.
+- Participation in technical reviews and presentations with senior researchers and engineering leadership.
+- Potential collaboration across photonics, AI, automation, and physical intelligence initiatives within Seagate Research.
+INTERN PROJECT
+- Complete a unique internship project
+- Complete a unique internship project focused on the simulation and characterization of photonic devices and optical subsystems.
+- Develop simulation models for integrated photonic components such as waveguides, couplers, modulators, grating structures, or other optical devices relevant
+to ongoing research programs.
+- Assist in setting up and conducting laboratory experiments, including optical alignment, laser-based measurements, and performance characterization of
+photonic devices.
+- Compare experimental results with simulation predictions and identify opportunities to improve device performance and modeling accuracy.
+- Present project results and technical recommendations to the Photonics & Physical Intelligence team at the conclusion of the internship.
+About You
+- Strong interest in photonics, optics, physics, or electrical engineering.
+- Hands-on mindset with enthusiasm for laboratory experimentation and problem solving.
+- Effective written and verbal communication skills.
+- Ability to work both independently and collaboratively within a research environment.
+- Strong analytical and organizational skills.
+- Self-motivated learner with attention to detail and curiosity for emerging technologies.
+Ability to thrive in a fast-paced research setting and adapt to changing priorities
+Your Experience Includes
+- Coursework or project experience in optics, photonics, electromagnetics, lasers, optical communications, semiconductor devices, or related fields.
+- Experience with simulation tools such as Lumerical, COMSOL Multiphysics, Ansys, MATLAB, Python, or equivalent modeling environments.
+- Familiarity with optical laboratory equipment such as lasers, optical fibers, detectors, oscilloscopes, spectrometers, power meters, or alignment hardware is
+desirable.
+- Experience with data analysis, scripting, or scientific programming is a plus.
+- Pursuing a BS, MS, or PhD degree in Electrical Engineering, Optical Engineering, Photonics, Physics, or a related technical discipline and must be returning
+to school for the Fall 2027 semester.
+Location:
+Our Shakopee campus is located 25 minutes southwest of Minneapolis in a setting with a rural vibe – it overlooks a horse racing track and stables, yet it has
+great entertainment venues close by as well. With wide-open spaces, the campus has plenty of space for running, biking, shooting some hoops or playing
+volleyball over lunch. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, tournaments and group workouts. Hungry?
+Seagate offers an on-site café with freshly sourced foods and specialty coffees, or if you prefer, drive to one of many restaurants just minutes away.
+The estimated base wage range for this position is $27-$45/hr. The individual base wage is based on work location and additional factors, including job-related
+skills, experience, and relevant education or training.
+Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to, medical, dental, vision, and participation in the employee stock
+purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid sick leave. The benefits for this position are based on a 24 to
+40-hour-per-week schedule for a full calendar year and may differ depending on work location and tenure with the Company.
+Location: Shakopee, United States
+Travel: None
