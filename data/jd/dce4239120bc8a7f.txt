@@ -1,0 +1,67 @@
+Job Description
+The Role:
+As a valued Physical Metallurgist in the Mechanics, Materials and Process Research Lab at General Motors Research and Development, you will innovate in steel
+metallurgy for next-generation vehicle and manufacturing applications. You will propose new research directions, establish technical research plans, and lead
+collaborative studies spanning alloy design, thermo-mechanical processing, heat treatment, microstructure development, characterization, and performance
+validation.
+You will generate new insights into the relationships among steel composition, processing history, phase transformations, microstructure, mechanical properties,
+durability, joining behavior, formability, and manufacturability. Your work will guide experimental efforts, accelerate materials down-selection, and help
+translate metallurgical research into practical solutions for vehicle structures, closures, chassis systems, safety components, and manufacturing processes. You
+will document and communicate results through high-quality technical reports, external publications, presentations, and records of invention.
+What You’ll Do:
+- Plan and execute collaborative research in physical metallurgy and ferrous materials, generating new knowledge and enabling innovative steel solutions.
+- Develop and apply composition–process–structure–property relationships for advanced steels and steel-based material systems.
+- Investigate phase transformations, recrystallization, precipitation, recovery, grain refinement, hardenability, residual stress, and damage mechanisms.
+- Design and evaluate thermo-mechanical processing and heat-treatment strategies, including rolling, forging, annealing, quenching, tempering, aging, and press
+hardening.
+- Characterize steel microstructures and defects using appropriate optical, electron, diffraction, chemical, thermal, and mechanical methods.
+- Evaluate tensile, fatigue, fracture, impact, formability, wear, corrosion, and other performance characteristics as needed for the application.
+- Partner closely with manufacturing and engineering teams to address forming, joining, coating, corrosion, dimensional stability, and production-readiness
+challenges.
+- Connect experimental observations with thermodynamic, kinetic, computational, and data-driven models when appropriate.
+- Drive internal and external collaborations with GM engineering teams, universities, suppliers, national laboratories, and research partners.
+- Maintain awareness of the state of the art in physical metallurgy, advanced high-strength steels, steel processing, characterization, and related disciplines.
+- Prepare timely, high-quality technical reports, presentations, publications, and invention disclosures to communicate research outcomes.
+- Generate intellectual property to protect new inventions and research results.
+- Assist and mentor other employees in accomplishing project and research goals.
+Required Qualifications:
+- Pursuit of an Advanced degree (M.S. or Ph.D.) in one of the following areas: Materials Science and Engineering, Metallurgical Engineering, Physics, Mechanical
+Engineering, or a closely related field.
+- Must be a current student
+- Strong foundation in physical metallurgy, iron–carbon metallurgy, phase diagrams, phase transformations, kinetics, crystallography, and structure–property
+relationships.
+- Experience with steels such as advanced high-strength steels, ultra-high-strength steels, high-strength low-alloy steels, stainless steels, electrical steels,
+press-hardening steels, or related ferrous alloys.
+- Experience with thermo-mechanical processing and heat treatment, including rolling, forging, annealing, quenching, tempering, aging, or press hardening.
+- Experience with metallographic preparation and characterization using techniques such as optical microscopy, SEM, EDS, EBSD, X-ray diffraction, hardness
+testing, dilatometry, or related methods.
+- Experience designing, conducting, and interpreting mechanical or durability testing, including tensile, fatigue, fracture, impact, formability, or corrosion
+testing.
+- Ability to connect alloy chemistry, processing conditions, microstructure, and performance using rigorous scientific methods.
+- Experience working in multidisciplinary research teams.
+- Strong written and verbal communication skills to work effectively with GM internal and external collaborators.
+- Able to work fulltime, 40 hours per week during the summer months
+Preferred Qualifications:
+- Ph.D. strongly preferred.
+- Experience with one or more of the following:
+- Advanced high-strength steels, third-generation steels, press-hardening steels, dual-phase steels, martensitic steels, bainitic steels, TRIP steels, TWIP
+steels, or other emerging steel grades.
+- Thermo-mechanical processing, controlled rolling, recrystallization control, precipitation strengthening, transformation control, or grain-size engineering.
+- CALPHAD, thermodynamic and kinetic modeling, Integrated Computational Materials Engineering (ICME), finite-element simulation, or process modeling.
+- Advanced characterization of crystallographic texture, inclusions, precipitates, retained austenite, martensite, bainite, weld zones, or coating interfaces.
+- Steel forming, stamping, roll forming, forging, welding, joining, coating, galvanizing, or additive manufacturing.
+- Corrosion, hydrogen effects, fatigue, fracture, crash performance, lightweighting, or durability of steel components.
+- Scientific programming, data analysis, machine learning, or materials informatics using Python, MATLAB, C/C++, or similar tools.
+- Experience coupling metallurgical predictions with experimental validation and engineering qualification.
+- Demonstrated publication record and/or intellectual property generation.
+- Experience transitioning metallurgical insights into applied engineering, manufacturing, or production solutions.
+- Knowledge of design-for-manufacturing, steel sustainability, recycled content, critical-materials considerations, or life-cycle performance.
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future.
+This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written
+submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc).
+The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident, asylee
+or refugee).
+Work Arrangement:
+Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI three times per week, at minimum [or other
+frequency dictated by the business].
+GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration

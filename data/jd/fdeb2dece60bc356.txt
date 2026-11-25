@@ -15,6 +15,7 @@ state-of-the-art in AR/VR and AI systems.
 - Work with the team to help design, setup, and run practical experiments and prototype systems related to large-scale high quality sensing and machine
 reasoning.
 Minimum Qualifications:
+- Currently has, or is in the process of obtaining a PhD degree in the domain of computer-vision, computer graphics, 3D machine perception or machine learning
 - Knowledge and hands-on experience working with 3D and projective geometry, in addition to image-space computer vision
 - Hands-on experience implementing 3D computer vision algorithms as well as end-to-end training of ML models from data collection and design to evaluation
 - Experience working within Python environments such as pytorch

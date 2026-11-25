@@ -1,0 +1,56 @@
+Description
+Do you love to use artificial intelligence (AI) and data analysis to process, analyze, and interpret data?
+Are you interested in advanced modeling using AI and mathematics towards understanding and exploring complex systems such as earth systems, materials sciences,
+biology, additive manufacturing, or engineering design?
+If you are pursuing a degree in an AI-related field and interested in working at the intersection of complex systems, we’d love to meet you!
+We are seeking creative problem solvers with varying capabilities and interests, as well as demonstrated initiative, to join our team in taking on technical
+challenges in complex systems. The Complex Systems Group, within the Transformative Intelligence Branch, develops novel AI and mathematics methods to tackle
+complex systems challenges, addressing complex behavior, multi-scale properties, interdependency, and more. These challenges require creative solutions to marry
+physical knowledge of the world with large-scale data-driven models, accelerate scientific experimentation and discovery, or otherwise predict complex behavior.
+As an intern on our research team, you will contribute to projects in a variety of ways, such as designing, training, and developing machine learning (ML)
+algorithms, collecting and processing data, evaluating models, and programming. We are committed to developing exceptional talent and fostering a culture of
+innovation, and as part of our group you will have the chance to grow both within AI and data science, as well as in the complex systems we study.
+Qualifications
+You meet our minimum qualifications for the job if you...
+- Are enrolled in a bachelor’s, master’s, or doctoral STEM program (e.g., AI, Computer Science, Data Science, Mathematics, Statistics, or Physics).
+- Have a passion for learning and a willingness to pick up and apply new skills.
+- Have the ability to work and collaborate effectively in a team environment.
+- Are proficient in Python programming.
+- Have experience in one or more of our core skills: AI/ML algorithms, agentic AI, data science, deep learning, or software development.
+- Have a minimum 3.0 GPA on a 4.0 scale.
+- Are a US citizen or permanent resident. To access APL’s facilities and networks, US Citizenship or permanent resident status is required, subject to
+applicable laws.
+You'll go above and beyond our minimum requirements if you…
+- Have background knowledge in earth systems, materials, biology, or other complex systems.
+- Have experience applying AI/ML to real-world data such as materials data, omics data, or additive manufacturing related data.
+- Have proficiency in developing AI/ML software.
+- Have experience with AI/ML and data science libraries or frameworks such as PyTorch, Hugging Face, NumPy, pandas, SciPy, scikit-learn, or similar tools.
+- Have experience with LLMs, RAG systems, agent frameworks, tool-using AI systems, or multi-step agentic workflows.
+- Have familiarity with, or strong interest in learning, emerging AI paradigms such as LLM-based agents, tool-using AI systems, retrieval-augmented generation,
+or AI-assisted scientific discovery.
+- Are familiar with advanced AI methods like generative adversarial networks, physics-informed neural networks, surrogate models, graph neural networks, and
+foundation models.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers.
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu.
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly

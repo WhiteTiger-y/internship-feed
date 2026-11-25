@@ -1,0 +1,50 @@
+Description
+Are you passionate about solving today’s greatest challenges in robotics?
+Do you enjoy working on meaningful interdisciplinary problems?
+Do you thrive in a collaborative and creative environment?
+If so, we're looking for someone like you to join our team at APL.
+If you are an undergraduate or graduate student pursuing a degree in Robotics, Computer Science, Engineering, or Mathematics, we'd love to have you join our
+team! The Robotics Group in the Research and Exploratory Development Department is an interdisciplinary team of researchers that is inventing the future across
+the broad spectrum of robotics, with applications that strengthen national defense, improve healthcare, advance space exploration, and address critical
+challenges facing the nation.
+We are seeking a highly skilled, highly motivated student intern to join us in taking intelligent robotic systems from concept to reality. We are a
+multidisciplinary team focused on groundbreaking impacts in the areas of robotics control, agentic AI for physical systems, robot perception, human-robot and
+robot-robot teaming, and novel robot design. Our team is committed to excellence in research that has real-world impact. Successful members of our team tend to
+be creative problem solvers who are comfortable working at the edge of their comfort zone. We strive to foster an environment that welcomes a variety of
+backgrounds and academic experience as we aim to solve the hardest problems in robotics.
+Qualifications
+You meet our minimum qualifications for the job if you...
+- Are pursuing a Bachelor's, Master's, or Ph.D. degree in Robotics, Computer Science, Engineering, Mathematics, or a related field.
+- Have a minimum 3.3 GPA on a 4.0 scale.
+- To access APL’s facilities and networks, US citizenship is required, subject to applicable laws.
+You'll go above and beyond our minimum requirements if you…
+- Have taken classes in robotics or robotics applications of AI, computer science, mechanical engineering, electrical engineering, or mathematics.
+- Have experience developing, simulating, and demonstrating algorithms for control of robotic systems.
+- Are skilled in one or more programming languages, particularly Python and C++.
+- Have experience developing AI/ML software that integrates with hardware such as robotic platforms, sensors, or medical devices.
+- Have experience designing, fabricating, and integrating robotics hardware.
+- Have demonstrated proficiency in using one or more common robotics or AI libraries such as ROS, TensorFlow, Pytorch, or OpenCV.
+About Us
+Why Work at APL?
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science
+challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a
+vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+At APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust
+education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro
+area. Learn more about our career opportunities at https://www.jhuapl.edu/careers.
+All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual
+orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political
+opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of
+all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact
+Accessibility@jhuapl.edu.
+The referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic
+location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to
+work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per
+internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance
+or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time
+off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and
+development. Applications are accepted on a rolling basis.
+Minimum Rate
+$22.60 Hourly
+Maximum Rate
+$47.95 Hourly

@@ -1,0 +1,44 @@
+Job Title: 2027 Summer Intern NCES statistician expert in AI
+- Grade: Intern
+- Location: Cambridge, MA
+- Duration: 10 - 12 weeks
+About The Job
+Looking to launch your career at the cutting edge of healthcare? Join Sanofi for a chance to develop with mentoring and guidance from inspirational leaders
+while helping to make an impact on the lives of countless people worldwide. We are seeking a highly motivated Summer Intern to join our NCES Statistician team.
+We are inviting applications for a summer intern (2027) focused on developing AI agents to support innovation in non-clinical biostatistical research. This
+internship will be supervised by experts from the Non-Clinical Efficacy & Safety Statistics team, offering a unique opportunity to work at the intersection of
+data science, artificial intelligence, and pharmaceutical research.
+Ready to grow your skills while helping shape the future of healthcare? At Sanofi, you’ll be empowered to learn, ask questions, and bring your ideas to life –
+all while supported by inspiring mentors and collaborative teams.
+About Sanofi
+We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune
+system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase
+the miracles of science to improve people’s lives.
+Main Responsibilities
+- Design, prototype, and evaluate AI agents to enhance automation and decision-making in non-clinical workflowso
+- Collaborate with statisticians and digital scientists to identify impactful use cases and integrate AI solutions into research pipelines
+- Document development processes and present findings to cross-functional teams
+About You
+Basic Qualifications:
+- Currently enrolled and pursuing a bachelor’s degree or master's in Artificial Intelligence, Computer Science, Computer Engineering, Biostatistics,
+Bioinformatics, or related field at an accredited college or university with the expectation that you will complete your current degree by the Spring of 2028
+- Must be permanently authorized to work in the U.S. and not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or
+in the future. Students currently on CPT, OPT, or STEM OPT usually require future sponsorship for long term employment and do not meet the Internal requirements
+for this program unless eligible for an alternative long-term status that does not require company sponsorship.
+- Must be enrolled in an accredited college or university throughout the duration of the co-op/internship.
+- Must be able to relocate to the office location and work 40hrs/week, Monday to Friday for the full duration of the co-op/internship.
+- Hands-on experience building AI agents, including multi-agent systems or agent orchestration frameworks
+- Familiarity with concepts such as Model Context Protocol (MCP) servers and integrating agents with chat-based interfaces (e.g., Claude Code, OpenAI
+Assistants) for scientific querying
+- Proficiency in Python and experience with AI/ML libraries (e.g., PyTorch, TensorFlow, LangChain , Hugging Face Transformers)
+Preferred Qualifications
+- Strong problem-solving skills and ability to work independently and collaboratively
+- Interest in biomedical research, drug development, or translational science
+Why Choose Us
+- Bring the miracles of science to life alongside a supportive, future focused team.
+- Stretch your skills through apprenticeships, internships, graduate programs, and international experiences that grow with you.
+- Learn from inspiring mentors and collaborative teams while contributing to real projects that shape the future of healthcare.
+- Build your future with access to the latest tools, digital innovation, and continuous learning that keep you ahead of the curve.
+Compensation
+The salary range for this position is $38-47 USD hourly. All compensation will be determined commensurate with demonstrated experience.
+#vhd

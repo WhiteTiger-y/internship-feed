@@ -1,6 +1,6 @@
-At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human
-experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material
-sciences.
+At Toyota Research Institute (TRI), we envision a future where technology helps humanity thrive. Our world-class teams work across disciplines and collaborate
+with leading universities to advance research in AI, human happiness, robotics, driving, and materials science, helping shape the future of mobility, amplify
+human ability, and make our lives safer and more sustainable.
 This is a paid 12-week internship opportunity and is a hybrid, in-office role.
 Here’s a glimpse into the Internship experience from some of our TRI interns!
 The Team/Project
@@ -60,4 +60,4 @@ arrest and conviction records for employment.
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses
 and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment
 team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is
-processed, please contact us.
+processed, please contact u

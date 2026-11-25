@@ -1,0 +1,25 @@
+Description
+Who We Are
+Aptima is a technological leader in the national security industry. Our mission is to drive the future of national security by engineering scalable solutions
+that fuse technological innovation with human potential to transform how individuals and teams train, develop, and perform in mission-critical environments.
+Our culture is rooted in our core values, which have evolved over time and our employees have embraced: Integrity, Ingenuity, Excellence, Respect, Engagement,
+Teamwork. At our core, Aptima researches, develops, and innovates within an area that engineering firms largely ignore, the human component. To impact the world
+in meaningful ways, you must bring those innovations to light, and that is precisely what we do.
+How You’ll Make An Impact
+As a Summer AI Engineer Intern at Aptima, you will contribute to the development of machine learning solutions by supporting data preparation, model training,
+and performance evaluation. You’ll gain hands-on experience applying cutting-edge AI tools and techniques to address real-world challenges while collaborating
+with experienced engineers and researchers.
+Key Responsibilities
+- Researching the latest generation of AI models
+- Obtaining and cleaning training data sets
+- Developing feature encodings
+- Coding and implementation of machine learning methods
+- Analyzing and validating models with statistical techniques
+- Developing interfaces for exploring and utilizing AI
+Requirements
+- The ability to obtain and maintain a Security Clearance
+- B.A./B.S. degree in a relevant engineering discipline (e.g., Mathematics, Artificial Intelligence, Computer Science, Computer Engineering, Data Science).
+Current enrollment in an accredited graduate program working towards a Master's Degree or Ph.D. in a similar or related discipline is a plus, but not required
+- 2 years of relevant experience (including undergraduate school) developing and applying AI/ML technologies
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age,
+national origin, disability, protected veteran status or any other status protected by applicable national, federal, state or local law.

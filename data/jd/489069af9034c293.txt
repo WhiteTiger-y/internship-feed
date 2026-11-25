@@ -1,0 +1,56 @@
+About Marvell
+Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and
+carrier architectures, our innovative technology is enabling new possibilities.
+At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those
+looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
+Your Team, Your Impact
+Marvell is building the silicon that makes AI possible — the custom XPUs, the 224G and 448G SerDes, the Silicon Photonics interconnects, the co-packaged optics
+platforms that hyperscalers depend on to train and deploy the world's most advanced models. Designing that silicon at the pace and complexity the AI era demands
+requires more than engineering talent. It requires intelligence applied to the design process itself. Marvell's AI and machine learning teams are working on
+exactly that — using AI to accelerate how silicon is designed, verified, and deployed, and building the enterprise AI infrastructure that makes Marvell's
+engineering organization faster and smarter at every level.
+What You Can Expect
+As our AI/ML Intern on the hardware track, every day you will apply machine learning research to real chip design problems across Marvell's advanced silicon
+development flow. Specifically, you can expect to:
+- Develop and apply ML models — including graph neural networks, reinforcement learning, and generative approaches — to chip design tasks such as placement,
+routing, timing closure, power estimation, and design rule checking
+- Work directly with production EDA tool flows and real design data from active tapeouts in 3nm and 2nm FinFET and Gate-All-Around processes
+- Build predictive models that reduce design iteration cycles and improve first-pass silicon success rates
+- Collaborate with analog, digital, and physical design engineers to identify high-value automation targets and validate model outputs against ground-truth
+silicon results
+- Present research findings and model performance to engineering leadership and contribute to internal technical documentation
+What We're Looking For
+- Currently enrolled in a Master's program in Computer Science, Electrical Engineering, Data Science, or a related field, with a research focus in machine
+learning, AI systems, or a related area with an expected graduation of December 2027- May 2028.
+- Demonstrate applied experience training, evaluating, and deploying ML models using frameworks such as PyTorch or TensorFlow
+- Write production-quality Python; familiarity with version control (Git) and software development best practices is required
+- Apply rigorous experimental methodology — you design experiments, measure results, and draw defensible conclusions from data
+- Communicate technical work clearly to both research and engineering audiences — you will present your work and defend your approach to the teams you work with
+Preferred Qualifications
+- Coursework or research experience in VLSI design, digital or analog circuit design, computer architecture, or EDA — sufficient to understand the design
+problems your models are solving
+- Familiarity with graph-based ML methods (GNNs), reinforcement learning, or generative models applied to structured engineering data
+- Exposure to EDA tools or chip design flows (Cadence, Synopsys, or equivalent) is a strong plus
+Expected Base Pay Range (USD)
+32 - 63, $ per hour.
+The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions.
+The expected base pay range for this role may be modified based on market conditions.
+Additional Compensation And Benefit Elements
+Marvell is committed to providing exceptional, comprehensive benefits that support our employees at every stage - from internship to retirement and through
+life’s most important moments. Our offerings are built around four key pillars: financial well-being, family support, mental and physical health, and
+recognition. Highlights for our interns: medical, dental, and vision coverage, perks and discounts, robust mental health resources to prioritize emotional well-
+being, and paid holidays. Additional compensation may be available for intern PhD candidates. We look forward to sharing more with you during the interview
+process.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+identity, disability or protected veteran status.
+Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com.
+Interview Integrity
+To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like
+ChatGPT or Copilot, or automated note-taking bots) during interviews.
+These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience,
+thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the
+hiring process.
+This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration
+Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to
+obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents,
+or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.

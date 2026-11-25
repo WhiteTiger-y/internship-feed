@@ -1,0 +1,74 @@
+Location:
+127 Public Square, Cleveland Ohio
+Summer 2027 Analytics & Quantitative Modeling Internship
+What does our Internship Program offer?
+Key’s Enterprise Internship is a 10.5-week in-person program that provides meaningful work that matters, offers feedback and coaching, and creates engaging
+events and conversations that will spark excitement and interest in bringing one’s full-time career to Key.
+Interns are involved in a host of line of business specific projects that directly impact and benefit Key’s business and strategic pillars. The program includes
+networking with Key teammates across all levels of the organization, a series of Learning Labs where internal and external speakers provide insight on Key’s
+competitive landscape, financial wellness, and professional development best practices, and an assigned mentor who shares knowledge, experience, and advice
+Analytics & Quantitative Modeling Overview:
+Analytics & Quantitative Modeling at KeyBank is a cross-functional collective of program areas with the shared goal to use data, analytics, and quantitative
+models to meaningfully impact business performance by identifying solutions which lead to more effective risk management, more profitable business decisions,
+more meaningful client and employee engagements, and more proactive management of credit relationships.
+About The Analytics & Quantitative Modeling Internship Program
+KeyBank’s Analytics & Quantitative Modeling Internship Program is designed to develop analytical and quantitative professionals through training, work
+experiences, and cross-functional exposure. The Intern Program takes place in the Summer of 2027 and is based at one of our area locations in Cleveland, Ohio.
+Interns are assigned to a specific placement area within Analytics & Quantitative Modeling and typically remain in that department for the duration of their
+internship.
+Job Responsibilities:
+- Ability to perform data analysis, research, and draw business and financial insights through analysis with integrity and accuracy
+- Effectively and concisely communicate findings and recommendations for senior management, including effective data visualizations and insights.
+- Aptitude for problem solving using analytical and mathematical techniques across a broad spectrum of business and risk management areas
+- Conduct and leverage market and industry research for peer analytics and strategy.
+- Develop and support reporting functions for financial, regulatory, and business intelligence requirements.
+Internship placement areas may include:
+Quantitative Modeling and Advanced Analytics (QMAA)
+Responsible for ownership and development of predictive models for management of risk, capital, and business insights; these core functions support decisions
+across the duration of a credit relationship, from prospecting to new business volume to portfolio management (including risk management, loss prevention,
+capital, and reserve adequacy).
+Model Risk
+Responsible for assessing predictive models across the enterprise to ensure that the models are designed suitably for the business use, performing as intended,
+and reliable to inform decisions.
+Market Risk
+KeyBank’s trading activities include buying and selling fixed income securities and using derivatives to help customers hedge their exposure to interest rates,
+commodity prices, and foreign exchange rates. Market Risk helps price these instruments and quantify the risk of loss due to changes in markets.
+Client & Employee Experience
+Responsible to help our clients, communities, and colleagues thrive. Applying analytics, visualization, and storytelling to data collected from surveys or
+vendors allows KeyBank to enhance our clients’ experiences on an ongoing basis.
+Commercial Analytics
+Payment solutions are evolving to meet demands of businesses, from streamlining clients’ receivables and payables processes to expertly managing their liquidity
+and funds.
+Fraud Analytics
+Responsible for the enterprise detection and prevention of fraud by using modeling and advanced analytics (Machine Learning and Network Analysis) to protect our
+clients and the institution from bad actors.
+Credit Portfolio Management
+Combines external macroeconomic, industry, and geopolitical research with internal portfolio analytics to identify and mitigate emerging risks to KeyBank’s
+credit portfolio.
+Qualifications
+- Must have completed at least three years toward a four-year, undergraduate degree program with coursework in mathematics, statistics, engineering, finance,
+economics, computer science, business analytics, data science, or other quantitative fields of study, with an anticipated graduation in May 2028 or December
+2027
+- Outstanding academic achievement (minimum undergraduate 3.5 GPA)
+- Demonstrated leadership and teamwork from past work experience and/or extracurricular activities
+- Strong analytical, problem solving, communication, and presentation skills
+- Knowledge of statistical techniques, machine learning approaches, and/or data mining concepts
+- Basic understanding of AI concepts and exposure to AI/ML tools or techniques (e.g., data analysis or simple models)
+- Preferred exposure to programming for data analysis, statistical modeling, machine learning, and data visualization (SQL, SAS, Python, R, Tableau, and others
+as appropriate)
+Compensation And Benefits
+This position is eligible to earn an hourly rate of $25 per hour for students pursuing undergraduate degrees and $28 per hour for students pursuing graduate
+degrees. Compensation also includes a $2,000.00 Summer Internship Sign-on Bonus.
+KeyBank’s Program Internship and Analyst positions are not eligible for employment visa sponsorship (e.g., H-1B visa). This includes, for example, situations
+where a candidate may have temporary work authorization while enrolled in school or upon graduation (e.g., CPT, OPT) but would need H-1B visa sponsorship within
+a few years of employment in order to maintain employment eligibility.
+Compensation And Benefits
+This position is eligible to earn an hourly rate of $25 per hour for students pursuing undergraduate degrees and $28 per hour for students pursuing graduate
+degrees. Compensation also includes a $2,000.00 Summer Internship Sign-on Bonus.
+Please click here for a list of benefits for which this position is eligible.
+Key has implemented an approach to employee workspaces which prioritizes in-office presence, while providing flexible options in circumstances where roles can
+be performed effectively in a mobile environment.
+Job Posting Expiration Date: 11/30/2026 KeyCorp is an Equal Opportunity Employer committed to sustaining an inclusive culture. All qualified applicants will
+receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic
+information, pregnancy, disability, veteran status or any other characteristic protected by law.
+Qualified individuals with disabilities or disabled veterans who ar

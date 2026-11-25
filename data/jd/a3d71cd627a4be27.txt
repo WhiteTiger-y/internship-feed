@@ -3,9 +3,9 @@ Etched is building hardware for frontier intelligence. We co-design chips, racks
 across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and
 staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.
 Job Summary
-We are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer (Kernels) interns to build the agents that accelerate how Etched produces frontier
-tokens. You will embed with our kernels team and work alongside our founders on agentic harnesses, tools, and evals that let agents do long-running engineering
-work people actually rely on. This role is for builders who thrive on ambiguity, have real product sense, and want to own problems end to end.
+We are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer interns to build the agents that accelerate how Etched produces frontier tokens. You will
+embed with our kernels team and work alongside our founders on agentic harnesses, tools, and evals that let agents do long-running engineering work people
+actually rely on. This role is for builders who thrive on ambiguity, have real product sense, and want to own problems end to end.
 Key Responsibilities
 - Embed with our kernels team to find high-leverage bottlenecks and help turn them into tools engineers use every day.
 - Build and deploy LLM agents wired into our engineering workflows via tool-calling and MCP.
@@ -27,7 +27,6 @@ Strong Candidates May Have Some Experience With
 We encourage you to apply even if you do not believe you meet every qualification.
 Program details
 - 12-week paid internship
-- Generous housing support for those relocating
 - Daily lunch and dinner in our office
 - Based at our office in San Jose, CA
 - Direct mentorship from industry leaders and world-class engineers

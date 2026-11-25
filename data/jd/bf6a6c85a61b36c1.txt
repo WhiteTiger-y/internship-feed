@@ -1,0 +1,70 @@
+Please Note
+To provide the best candidate experience amidst our high application volumes, each candidate is limited to 10 applications across all open jobs within a 6-month
+period.
+Advancing the World’s Technology Together
+Our technology solutions power the tools you use every day--including smartphones, electric vehicles, hyperscale data centers, IoT devices, and so much more.
+Here, you’ll have an opportunity to be part of a global leader whose innovative designs are pushing the boundaries of what’s possible and powering the future.
+We believe innovation and growth are driven by an inclusive culture and a diverse workforce. We’re dedicated to empowering people to be their true selves.
+Together, we’re building a better tomorrow for our employees, customers, partners, and communities.
+What You’ll Learn
+- Project Overview: Modern Mixture-of-Experts (MoE) LLMs spend most of their serving cost in the decode phase, where attention is bound by KV-cache memory
+bandwidth while expert FFNs need dense compute. You will investigate Attention–FFN Disaggregation (AFD) — running attention and MoE experts on separately scaled
+resources and pipelining micro-batches between them — on NUMA systems, where memory locality and interconnect topology decide whether disaggregation pays off.
+You will characterize real workloads, build a performance model, prototype NUMA-aware placement and scheduling in an open-source serving framework, and turn the
+results into hardware–software co-design recommendations for memory and interconnect.
+- Skills You’ll Learn:
+- Performance characterization and modeling of LLM inference (roofline, trace-driven simulation) on multi-socket / multi-GPU NUMA systems
+- Disaggregated serving system design: prefill–decode and attention–FFN disaggregation, MoE expert parallelism, and communication–computation overlap
+- Hardware–software co-design: translating workload behavior into memory-hierarchy (HBM, CXL) and interconnect architecture requirements
+What You’ll Do
+The AGI team at Samsung Semiconductor explores system architectures for next-generation AI infrastructure. We co-design memory, interconnect, and software to
+make large-scale LLM inference faster and more cost-efficient, and our work informs Samsung’s future memory and system products. As an intern, you will own a
+research-driven project end to end — from profiling and modeling to prototyping — working closely with architects and systems engineers, and you will present
+your findings to the broader organization at the end of the summer.
+Location: Daily onsite presence at our San Jose headquarters in alignment with our Flexible Work policy
+Reports to: Director
+- Characterize decode-phase behavior of state-of-the-art MoE LLMs (e.g., DeepSeek-V3/R1, Qwen3-MoE class models) on the team’s NUMA testbed, using profilers
+such as Nsight Systems, PyTorch Profiler, and Linux perf.
+- Build and validate an analytical or trace-driven performance model of Attention–FFN Disaggregation, capturing attention:expert ratios, micro-batch pipelining,
+all-to-all communication, and memory placement.
+- Design and prototype NUMA-aware placement and scheduling of attention (KV-cache) and expert workers in an open-source serving framework such as vLLM or
+SGLang.
+- Implement and evaluate communication–computation overlap techniques (e.g., ping-pong micro-batching, expert-parallel dispatch/combine) and measure their
+impact on throughput and latency SLOs.
+- Explore the hardware design space — memory bandwidth and capacity, HBM vs. CXL-attached memory tiers, and interconnect bandwidth/latency — and quantify which
+knobs matter most for disaggregated MoE inference.
+- Collaborate weekly with your mentor and with architecture and systems engineers, sharing results in team meetings and incorporating feedback into the next
+iteration.
+- Communicate your findings through a final presentation and technical report, contributing to Samsung’s AI system architecture roadmap and potential
+publications or patents.
+- Complete other responsibilities as assigned.
+What You Bring
+- Pursuing a Master’s or PhD in Computer Science, Electrical/Computer Engineering, or a related field preferred.
+- Must have at least 1 academic quarter/semester remaining
+- Solid understanding of Transformer/LLM inference, including attention and KV cache, Mixture-of-Experts, and the prefill vs. decode phases.
+- Preferred: background in computer architecture or systems (memory hierarchy, NUMA, interconnects, performance analysis), with strong programming skills in
+Python and C++ and experience with PyTorch.
+- Preferred: hands-on experience with LLM serving frameworks (vLLM, SGLang, TensorRT-LLM), GPU kernel development (CUDA/Triton), or distributed communication
+libraries (NCCL, NVSHMEM, DeepEP).
+- Preferred: experience with performance modeling or architecture simulation, and/or publications in venues such as ISCA, MICRO, HPCA, ASPLOS, OSDI, or MLSys.
+- You’re inclusive, adapting your style to the situation and diverse global norms of our people.
+- An avid learner, you approach challenges with curiosity and resilience, seeking data to help build understanding.
+- You’re collaborative, building relationships, humbly offering support and openly welcoming approaches.
+- Innovative and creative, you proactively explore new ideas and adapt quickly to change.
+What We Offer
+The pay range below is for all roles at this level across all US locations and functions. Pay within this range varies by work location and may also depend on
+job-related knowledge, skills, and experience.
+This is in addition to our diverse package of benefits centered around the wellbeing of our employees and their loved ones. In addition to the usual
+Medical/Dental/Vision, our inclusive rewards plan empowers our people to care for their whole selves. An investment in your future is an investment in ours.
+Relocation Support Live 50+ miles away from your new office? No worries! We'll provide a stipend to help support your move.
+Housing Stipend Signing a lease on a new place for your summer internship? We'll help you pay your way with a monthly stipend.
+Give Back With a charitable giving match and frequent opportunities to get involved, we take an active role in supporting the community.
+Prioritize Emotional Wellness With on-demand apps and paid therapy sessions, you’ll have support no matter where you are.
+Stay Fit Eating well and being active are important parts of a healthy life. Our onsite Café and gym, plus virtual classes, make it easier.
+Embrace Flexibility Benefits are best when you have the space to use them. That’s why we facilitate a flexible environment so you can find the right balance for
+you.
+Hourly Base Pay Rate
+$28—$68 USD
+Equal Opportunity Employment Policy
+Samsung Semiconductor takes pride in being an equal opportunity workplace dedicated to fostering an environment where all individuals feel valued and empowered
+to excel, regardless of race, religion, color, age, disability, sex, gender identity, sexual o

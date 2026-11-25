@@ -1,0 +1,50 @@
+Siemens Corp., IT Americas is seeking a motivated and curious Data Science Intern to join our team in Alpharetta, GA. In this role, you will work alongside
+experienced data and technology professionals to apply data science, machine learning, and generative AI to real business challenges across Siemens.
+Siemens Corp., IT Americas is seeking qualified candidates for its Summer 2027 Internship Program in Data Science beginning in May 2027. This program is based
+in Alpharetta, GA.
+As a Data Science Intern, you will gain hands-on experience working with enterprise data, analytics, machine learning, and emerging AI technologies. You will
+contribute to projects from data preparation and analysis through solution development and visualization while learning how data and AI are applied within a
+global organization.
+The employee responsibilities will include, but will not be limited to:
+- Collect, clean, transform, and analyze data to support analytics, machine learning, and AI use cases.
+- Develop and apply machine learning and GenAI frameworks to help solve real business problems and support data-driven decision-making.
+- Write SQL and Python code to support data engineering, analytics, and machine learning projects.
+- Develop dashboards and data visualizations using tools such as Tableau and Power BI to make complex information easier to understand and act upon.
+- Work with enterprise data platforms such as Snowflake to access, analyze, and prepare data for various use cases.
+- Collaborate with data architects, developers, and subject matter experts to understand business requirements, review solutions, and improve technical
+deliverables.
+- Identify opportunities for automation and process improvement and help develop solutions that improve efficiency and reduce manual effort.
+- Participate in Agile ways of working, including sprint planning, stand-ups, project reviews, and team collaboration.
+- Document solutions, processes, and technical work to support knowledge sharing, scalability, and future development.
+- Research emerging technologies and explore how AI, machine learning, and new data capabilities can be applied to business challenges.
+You’ll win us over by having the following qualifications:
+Basic Qualifications
+- Current undergraduate pursuing a degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, Management Information Systems, or a related
+field.
+- Experience programming in Python or R and working with data.
+- Strong analytical and problem-solving skills with the ability to interpret data and communicate meaningful insights.
+- Familiarity with machine learning concepts, algorithms, and/or large language models and an interest in applying them to real-world problems.
+- Strong written and verbal communication skills and the ability to work effectively within a collaborative team.
+- Eligible candidates must be located within 50 miles of Alpharetta, GA and able to work 40 hours per week from May through August.
+- Applicants must be legally authorized for employment in the United States without need for current or future employer-sponsored work authorization.
+Preferred Qualifications
+- Experience with SQL and data analysis using Python.
+- Familiarity with machine learning libraries or frameworks such as scikit-learn, TensorFlow, or PyTorch.
+- Understanding of model evaluation, validation, feature engineering, and data preparation techniques.
+- Familiarity with generative AI, large language models, or AI-assisted development tools.
+- Experience with data visualization tools such as Tableau or Power BI.
+- Exposure to Snowflake, version control systems such as Git, or cloud-based data platforms.
+- Familiarity with Agile practices such as sprint planning and stand-ups.
+- Strong organizational skills with the ability to manage multiple assignments and priorities.
+- Ability to collaborate effectively within a diverse, global, cross-functional team.
+- Curiosity and a willingness to learn new technologies, experiment with new approaches, and continuously improve.
+About Siemens:
+We are a global technology company specializing in industry, infrastructure, transportation, and healthcare. From more resource-efficient factories and
+resilient supply chains to intelligent buildings and grids, as well as advanced healthcare and sustainable transportation, we create technology with purpose,
+adding real value for our customers. Learn more about Siemens here.
+Our Commitment to Equity and Inclusion in our Diverse Global Workforce:
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity
+of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and
+transform the everyday with us.
+#URDP
+$24 $31

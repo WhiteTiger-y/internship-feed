@@ -1,0 +1,83 @@
+The Data Analytics teams work directly with management and leadership across the organization to conceptualize, design, and produce compelling visualizations to
+help answer key business questions and communicate insights across all facets of the organization. This is a highly impactful team which consistently has direct
+impacts on the bottom line of our business.
+The Clinical Intelligence Internship position within this team provides a unique opportunity for students who are currently pursuing a business, business
+technology, computer information systems, or analytics like degree to get hands on experience working across operational functions and a variety of enterprise
+BI tools, such as Power BI (Visualization tool) and Snowflake (Cloud Database)
+As an intern on our team, you will contribute across the full development spectrum for new and existing reports – from finding data in our cloud-based data
+base, manipulating it through SQL, data modeling within Power BI, and creating the report visualizations in Power BI which our end users will interact with.
+We currently are 1 summer 2027 intern within our Insights & Analytics department.
+Responsibilities
+- Support the business through key Clinical Intelligence
+- Engage and partner with IT organization and its teams as a solution provider in the data warehousing, data analytics and business intelligence areas
+- Create reports & dashboards using Power BI
+- Perform data quality audits
+- Specific tasks will be tailored to experience level and abilities
+- Work under close supervision of other team members, data analysts, and Sr. Data Analysts
+- Accept candid feedback and identify opportunities for ongoing career development
+- Learn core analytics concepts through hands-on experience in report generation in Power BI, data visualization, user interface & user experience, developing
+data models, SQL, and Power Query
+- Learn core business and operational concepts through hands-on experience in process improvement, development of critical thinking, and presentation skills
+Skills and Abilities
+- Ability to work independently and as a member of a high performing cross-functional team
+- Willingness to learn, be mentored, and improve
+- Desire to contribute and improve the design of new and existing reports and dashboards
+- Exceptional customer focus (internal business customers)
+- Desire to teach other team members and colleagues about technology in area of expertise
+- Familiarity with various Microsoft’s Data Platform (e.g., Power BI, Excel, Power Automate)
+- Proficient and adept at data wrangling (SQL) and manipulation
+- Aptitude for quickly learning new technology and software with ability to apply its use
+- Solid communication skills, with ability and confidence to present to an audience of varied leadership levels
+- Ability to work office-based in Cincinnati, OH from May 2027-August 2027 (opportunity to stay on for multiple rotations is determined by performance and team
+need)
+Qualifications
+- Pursuing Bachelor’s or Master's degree in Business, Life Science, Computer Science, or related degree with emphasis (minor or experience) in Analytics
+Medpace Overview
+Medpace is a full-service clinical contract research organization (CRO) providing phase l-lV clinical development services to the biotechnology, pharmaceutical,
+and medical device industries. Our mission is to accelerate the global development of safe and effective medical therapeutics through the advancement of
+clinical research. We leverage in-country regulatory and therapeutic expertise across all major therapeutic areas including oncology, cardiology, metabolic,
+endocrinology, central nervous system, and anti-viral and anti-infective. Headquartered in Cincinnati, Ohio, we employ more than 6,500 people across 40+
+countries.
+Why Medpace?
+When you join Medpace, you become part of an innovative team that brings cutting-edge therapies to market while building a meaningful and rewarding career
+focused on scientific excellence and improving patient outcomes around the world through continuous learning and cross-functional collaboration.
+Purpose-Driven Work
+- Work alongside physicians, scientists, and industry-leading experts committed to advancing the global development of medical therapeutics through clinical
+research excellence
+Collaborative Culture
+- Contribute to an interactive team environment that empowers decision making, creative thinking, and continuous learning through open communication and mutual
+trust.
+- Leadership throughout Medpace is both accessible and approachable
+Continuous Growth & Development
+- Office based environment with on-site mentors
+- Defined career paths with clear advancement opportunities
+- Industry renowned onboarding and training programs designed to accelerate professional development
+- Ongoing training and continuous learning opportunities throughout your career
+- An environment that encourages employees to influence change, contribute ideas, and grow quickly
+Other Employee Benefits
+- Competitive compensation programs that recognize and reward performance
+- Comprehensive health, wellness, retirement, and PTO benefits
+- Office based culture with occasional WFH that provides flexibility for eligible positions after training
+- Company-sponsored social events and intramural sports
+Cincinnati Headquarters Experience
+- A modern corporate campus designed to support collaboration and productivity
+- Multiple on-site dining options in the heart of Madison Square
+- Free on-site parking
+- Convenient access to on-site 24-7 fitness and wellness facilities
+What to Expect Next
+A Medpace team member will review your application and if your profile matches our current needs, you will be contacted for an interview. While we review all
+applications carefully, we are unable to respond to every applicant, and only candidates selected for interviews will be contacted.
+- Support the business through key Clinical Intelligence
+- Engage and partner with IT organization and its teams as a solution provider in the data warehousing, data analytics and business intelligence areas
+- Create reports & dashboards using Power BI
+- Perform data quality audits
+- Specific tasks will be tailored to experience level and abilities
+- Work under close supervision of other team members, data analysts, and Sr. Data Analysts
+- Accept candid feedback and identify opportunities for ongoing career development
+- Learn core analytics concepts through hands-on experience in report generation in Power BI, data visualization, user interface & user experience, developing
+data models, SQL, and Power Query
+- Learn core business and operational concepts through hands-on experience in process improvement, development of critical thinking, and presentation skills
+Skills and Abilities
+- Ability to work independently and as a member of a high performing cross-functional team
+- Willingness to learn, be mentored, and improve
+- Desire to contribute and improve the design of new and existing reports and dashbo

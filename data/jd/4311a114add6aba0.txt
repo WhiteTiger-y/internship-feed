@@ -1,0 +1,37 @@
+Description
+Who We Are
+Aptima is a technological leader in the national security industry. Our mission is to drive the future of national security by engineering scalable solutions
+that fuse technological innovation with human potential to transform how individuals and teams train, develop, and perform in mission-critical environments.
+Our culture is rooted in our core values, which have evolved over time and our employees have embraced: Integrity, Ingenuity, Excellence, Respect, Engagement,
+Teamwork. At our core, Aptima researches, develops, and innovates within an area that engineering firms largely ignore, the human component. To impact the world
+in meaningful ways, you must bring those innovations to light, and that is precisely what we do.
+How You’ll Make An Impact
+As a Research Engineer – Human–AI Systems Intern at Aptima, you will contribute to the development and evaluation of next-generation AI systems designed to
+enhance human decision-making, collaboration, and team performance. You will work alongside experienced researchers and engineers to explore how humans and AI
+systems interact, support research and experimentation, analyze data, and help translate findings into practical solutions for real-world Department of War
+applications. This internship offers the opportunity to gain hands-on experience at the intersection of artificial intelligence, human factors, and behavioral
+science.
+Key Responsibilities
+- Support research and development efforts focused on human–AI interaction, human–AI teaming, and AI-enabled decision support systems.
+- Assist in exploring how factors such as trust, explainability, cognitive workload, and team coordination influence human interactions with AI systems.
+- Contribute to the design and development of human–AI interaction concepts, workflows, and system prototypes.
+- Support the development and execution of experiments, studies, and evaluations examining human performance and AI system effectiveness.
+- Collect, organize, process, and analyze research data to identify trends, patterns, and insights.
+- Assist with developing data analysis scripts, performance metrics, and visualizations using tools such as Python and/or R.
+- Collaborate with multidisciplinary teams of engineers, researchers, and behavioral scientists to support project objectives.
+- Help document research findings, prepare technical reports, presentations, and other project deliverables.
+- Stay current on emerging research, technologies, and best practices in artificial intelligence, human factors, and human–AI systems.
+Requirements
+- Currently pursuing a Master's, or PhD in Human Factors, Cognitive Psychology, Experimental Psychology, Computer Science, Artificial Intelligence, Data
+Science, Systems Engineering, or a related field.
+- Interest in human–AI interaction, artificial intelligence, human cognition, decision-making, or team performance.
+- Foundational knowledge of research methods, experimental design, and/or quantitative data analysis.
+- Familiarity with Python, R, or other programming and data analysis tools is preferred.
+- Strong analytical, problem-solving, and critical-thinking skills.
+- Ability to communicate research findings and technical concepts clearly through written and verbal communication.
+- Strong attention to detail and willingness to learn new tools, technologies, and research methodologies.
+- Ability to work collaboratively in a multidisciplinary team environment.
+- Interest in applying research and technology to real-world challenges.
+- Ability to obtain and maintain a security clearance.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age,
+national origin, disability, protected veteran status or any other status protected by applicable national, federal, state or local law.

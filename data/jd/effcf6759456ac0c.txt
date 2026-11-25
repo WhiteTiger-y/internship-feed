@@ -28,9 +28,9 @@ Ways To Stand Out From The Crowd
 - Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.
 Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity
 Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
-position is 20 USD – 94 USD.
+position is 20 USD – 86 USD.
 You will also be eligible for Intern benefits.
-Applications for this job will be accepted at least until November 6, 2026.
+Applications for this job will be accepted at least until November 23, 2026.
 This posting is for an existing vacancy.
 NVIDIA uses AI tools in its recruiting processes.
 NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and

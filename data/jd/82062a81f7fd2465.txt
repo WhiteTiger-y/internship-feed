@@ -1,0 +1,76 @@
+Job Description
+The Role:
+We are seeking a highly motivated graduate or advanced undergraduate engineering student to support research and development activities focused on advanced
+ultrasonic nondestructive evaluation (NDE) technologies for next-generation manufacturing inspection systems. The intern will contribute to the development of
+next-generation in-line inspection technologies for manufacturing quality assurance and process monitoring through advanced sensing, modeling, and automation
+approaches.
+This position offers an opportunity to work on cutting-edge inspection technologies which may include wave propagation modeling, nonlinear acoustics, guided
+wave techniques, robotic inspection systems, and advanced data analytics. The successful candidate will collaborate with multidisciplinary teams spanning
+materials engineering, manufacturing, robotics, sensing technologies, and computational modeling.
+The intern will gain hands-on experience in:
+- Advanced NDE technologies in a manufacturing environment
+- Wave propagation modeling and simulation
+- Development and validation of manufacturing inspection technologies
+- Robotic inspection and sensor integration
+- Research execution, technical reporting, and cross-functional collaboration.
+- Application of advanced sensing and automation technologies to manufacturing quality challenges
+What You’ll Do:
+- Develop and validate models of wave propagation in engineering materials and manufacturing processes.
+- Support research involving advanced ultrasonic inspection methods, including:
+- Advanced ultrasonic techniques, e.g., nonlinear acoustics, guided wave testing, etc.
+- Advanced manufacturing inspection methodologies
+- Design and conduct laboratory experiments for nondestructive testing and evaluation
+- Analyze nondestructive measurement data and correlate results with manufacturing process conditions, material quality, and defect characteristics.
+- Assist in the development of in-line and automated inspection technologies for manufacturing environments
+- Support the integration of sensing technologies with inspection platforms
+- Participate in data analysis, visualization, and algorithm development for defect detection, characterization, and manufacturing process monitoring
+- Document research findings through technical reports, presentations, and experimental procedures
+- Collaborate with researchers, engineers, and technical specialists on advanced manufacturing and inspection technology projects.
+Required Qualifications:
+- Pursuing a masters or PhD. in Mechanical Engineering, Electrical Engineering, Physics, or a closely related field from a leading university.
+- Must be a current student
+- Able to work fulltime, 40 hours per week during the summer months
+- Strong academic and applied background in acoustics, with experience in nonlinear acoustics wave propagation, experiments, and modeling.
+- Strong modeling skills (COMSOL or similar).
+Preferred Qualifications:
+- Experience with:
+- Guided waves
+- Phased array ultrasound and beamforming laws
+- Integrating quality systems into inline manufacturing processes
+- Other nondestructive modalities, such as electromagnetic techniques
+- Sensor fabrication
+- Experience in industrial or automotive manufacturing environments
+- Publication record in leading conferences (e.g., ASNT, ASA, QNDE, SPIE, etc.
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future.
+This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written
+submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc).
+The position is subject to export control restrictions and requires the successful candidate to be a U.S. Person (U.S. citizen, U.S. permanent resident, asylee
+or refugee).
+Work Arrangement:
+Hybrid: This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI three times per week, at minimum [or other
+frequency dictated by the business].
+GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2027 Student Program - to help facilitate administration of
+relocation benefits, please apply using the permanent address you would move from.
+Start dates for this internship role are May 24th & June 14th of 2027.
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world
+better, safer and more equitable for all.
+Why Join Us
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every
+day, we want every employee to feel they belong to one General Motors team.
+Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career
+that rewards you personally by visiting Total Rewards resources.
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We
+strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age,
+disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected
+status in accordance with federal, state and local laws.
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and
+capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-
+employment screening prior to beginning employment. To learn more, visit How we Hire.
+Accommodations
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job
+search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are
+requesting as well as the job title and requisition number of the position for which you are applying.

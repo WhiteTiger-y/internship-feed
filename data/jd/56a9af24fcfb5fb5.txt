@@ -1,0 +1,30 @@
+We are seeking an AI Developer Technology (DevTech) Engineering Intern to accelerate the frontier of generative AI training and inference. Our team is the
+bridge connecting the NVIDIA platform with developers worldwide. We dive deep into customer projects to accelerate performance, eliminate bottlenecks, and
+partner with a vibrant developer community to deliver outstanding performance on NVIDIA systems.
+If you are passionate about accelerating the world's most advanced AI models, we want you to be on our team.
+What You Will Be Doing
+- Develop cutting-edge techniques to GPU-accelerate complex workloads across state-of-the-art generative AI (including LLMs, diffusion models, and multimodal
+systems), deep learning, and machine learning domains.
+- Build and optimize algorithms to deliver the best performance, and contribute to training and inference frameworks, low-level software libraries, and open-
+source projects.
+- Partner directly with top technical experts to perform in-depth analysis and optimization of complex AI algorithms on modern CPU and GPU architectures.
+What We Need To See
+- Currently pursuing BS, MS, or BS in engineering or Computer Science related discipline
+- Programming fluency in C/C++ with a deep understanding of algorithms and software development.
+- Foundational understanding of modern CPU and GPU architectures.
+- A background in accelerated computing, with comprehensive knowledge of parallel programming and linear algebra, performance analysis and optimization.
+Ways To Stand Out From The Crowd
+- Hands on experience doing low-level performance optimizations.
+- Experience with training and inference stacks, serving frameworks, pre-training, and post-training pipelines.
+NVIDIA is widely considered to be one of the technology world’s most desirable employers with some of the most forward-thinking, inventive, and hardworking
+people working here - we need your help to build our future. Are you creative, ambitious, and love challenges? We want to hear from you!
+Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this
+position is 20 USD – 86 USD.
+You will also be eligible for Intern benefits.
+Applications for this job will be accepted at least until November 28, 2026.
+This posting is for an existing vacancy.
+NVIDIA uses AI tools in its recruiting processes.
+NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and
+future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender,
+gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+, , JR2030178

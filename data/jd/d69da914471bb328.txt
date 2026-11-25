@@ -1,0 +1,57 @@
+Discipline/Focus
+Transportation/TPTO
+Overview
+Kimley-Horn is looking for Data Science students to join our Transportation Planning/Traffic Operations team in the Mesa, Arizona (AZ) office in 2027! This is
+not a remote position.
+Responsibilities
+- Utilize technical software programs on a regular basis to analyze, produce, and QC deliverables for our clients.
+- Analyzing transportation datasets such as traffic volumes, speeds, travel times, crashes, probe/connected-vehicle data, signal data, and other roadway or
+mobility datasets.
+- Supporting development of analytical tools, performance measures, and methods for evaluating transportation system performance using Microsoft Power BI and
+other visualization tools such as web apps.
+- Use Python, SQL, and other data analysis tools to clean, process, integrate, and analyze large or complex datasets and support automated workflows.
+- Collaborating with engineers, planners, and other technical staff to identify opportunities where data science and automation can improve project workflows
+and decision-making.
+- Solve complex problems, assist project managers, and collaborate across disciplines to translate data into meaningful insights, tools, and recommendations for
+clients.
+- Develop familiarity with the federal, state, and local regulations, as well as Kimley-Horn’s and our client’s practices, procedures, and standards.
+- Work with a variety of technical tools and platforms, which may include Power BI, Python, SQL, ArcGIS, VISSIM, Synchro, SimTraffic, and Microsoft Office.
+Qualifications
+- In the process of receiving a degree (Bachelors or Masters) in one of the following majors:
+- Civil and/or Environmental Engineering
+- Mechanical, Electrical, or Biosystems Engineering
+- Engineering Technology
+- Computer Science or Data Science
+Why Kimley-Horn?
+At Kimley-Horn, we do things differently. People, clients, and employees are at the forefront of who we are. Clients know we prioritize achieving their goals
+and growing their success. Employees know our culture and approach to business are built on a desire to provide an environment for everyone to flourish. Our
+commitment to quality is only as good as the people behind it— that’s why we welcome and develop passionate, hardworking, and proactive employees. We take pride
+in how our employee retention, robust benefits package, and company values have led to Kimley-Horn’s placement on the Fortune “100 Best Companies to Work” list
+for 19 years!
+Key Benefits at Kimley-Horn
+- Exceptional Retirement Plan: 2-to1- company match on up to 4% of eligible compensation (salary + bonus) and additional profit-sharing contribution.
+- Comprehensive Health Coverage: Low-cost medical, dental, and vision insurance options.
+- Time Off: Personal leave, flexible scheduling, floating holidays, and half-day Fridays.
+- Financial Wellness: Student loan matching in our 401(k), and performance-based bonuses.
+- Professional Development: Tuition reimbursement and extensive internal training programs.
+- Family-Friendly Benefits: New Parent Leave, family building benefits, and childcare resources.
+Position Type
+Internship
+- Utilize technical software programs on a regular basis to analyze, produce, and QC deliverables for our clients.
+- Analyzing transportation datasets such as traffic volumes, speeds, travel times, crashes, probe/connected-vehicle data, signal data, and other roadway or
+mobility datasets.
+- Supporting development of analytical tools, performance measures, and methods for evaluating transportation system performance using Microsoft Power BI and
+other visualization tools such as web apps.
+- Use Python, SQL, and other data analysis tools to clean, process, integrate, and analyze large or complex datasets and support automated workflows.
+- Collaborating with engineers, planners, and other technical staff to identify opportunities where data science and automation can improve project workflows
+and decision-making.
+- Solve complex problems, assist project managers, and collaborate across disciplines to translate data into meaningful insights, tools, and recommendations for
+clients.
+- Develop familiarity with the federal, state, and local regulations, as well as Kimley-Horn’s and our client’s practices, procedures, and standards.
+- Work with a variety of technical tools and platforms, which may include Power BI, Python, SQL, ArcGIS, VISSIM, Synchro, SimTraffic, and Microsoft Office.
+- In the process of receiving a degree (Bachelors or Masters) in one of the following majors:
+- Civil and/or Environmental Engineering
+- Mechanical, Electrical, or Biosystems Engineering
+- Engineering Technology
+- Computer Science or Data Science
+UNAVAILABLE

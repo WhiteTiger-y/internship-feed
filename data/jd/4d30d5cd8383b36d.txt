@@ -1,0 +1,35 @@
+AI Intern (Artificial Intelligence)
+Brea, CA (Remote)
+6-Month Contract
+SGX20902
+We are looking for enthusiastic and technically strong AI Interns who love coding, have a solid foundation in Computer Science, and possess strong Python
+programming skills. The ideal candidate should have a passion for problem-solving, Artificial Intelligence, Machine Learning, Generative AI, and emerging
+technologies.
+The intern will work closely with the engineering team to design, code, develop, test, and implement AI-driven solutions and automation initiatives.
+Qualifications:
+- Junior or Senior students pursuing a Bachelor’s degree in Computer Science or Computer Science Engineering.
+- Strong proficiency in Python programming and hands-on coding (Mandatory).
+- Passion for coding, technology, and solving complex problems.
+- Strong understanding of Computer Science fundamentals, including data structures, algorithms, and object-oriented programming (OOP).
+- Ability to write clean, efficient, and reusable code.
+- Ability to develop, debug, test, and troubleshoot Python applications.
+- Basic understanding of Artificial Intelligence, Machine Learning, and Generative AI concepts.
+- Knowledge of database concepts and SQL.
+- Experience with academic or personal coding projects using Python.
+- Strong analytical, logical reasoning, and problem-solving skills.
+- Good communication and collaboration skills.
+- Willingness to learn and explore emerging AI technologies.
+- Ability to commit to 20 hours per week.
+Pay Range for CA, CO, IL, NJ, NY, WA, and DC: $20/hour to $24/hour. Starting rate of pay offered may vary depending on factors including but not limited to,
+position offered, location, education, training, and/or experience.
+Solugenix will consider qualified applicants with a criminal history pursuant to the California Fair Chance Act and Ordinance. Applicants do not need to
+disclose their criminal history or participate in a background check until a conditional job offer is made to you. After making a conditional offer and running
+a background check, if we are concerned about conviction that is directly related to the job, applicants will be given the chance to explain the circumstances
+surrounding the conviction, provide mitigating evidence, or challenge the accuracy of the background report.
+About Solugenix
+Solugenix is a leader in IT services, delivering cutting-edge technology solutions, exceptional talent, and managed services to global enterprises. With
+extensive expertise in highly regulated and complex industries, we are a trusted partner for integrating advanced technologies with streamlined processes. Our
+solutions drive growth, foster innovation, and ensure compliance—providing clients with reliability and a strong competitive edge.
+Recognized as a 2024 Top Workplace, Solugenix is proud of its inclusive culture and unwavering commitment to excellence. Our recent expansion, with new offices
+in the Dominican Republic, Jakarta, and the Philippines, underscores our growing global presence and ability to offer world-class technology solutions.
+Partnering with Solugenix means more than just business—it means having a dedicated ally focused on your success in today's fast-evolving digital world.

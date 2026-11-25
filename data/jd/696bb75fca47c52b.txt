@@ -1,9 +1,3 @@
-Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical
-companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we
-advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are
-leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver
-greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make
-a real impact on people’s health around the world. Together, we’re improving health and improving lives.
 Labcorp is seeking an Agentic AI Developer Co-op to join our Office of the Chief AI Officer (CAIO) Team located in Burlington, NC or Durham, NC with the
 flexibility of a Hybrid work schedule!
 Work Schedule
@@ -58,4 +52,13 @@ and emerging technology partners to bring the best capabilities into the enterpr
 This is not a research exercise. You will contribute to agents that run in production, and you will help make sure they do not break things when they get there.
 Agentic AI is the most important shift in enterprise software since the cloud. The companies that figure out how to deploy autonomous AI systems safely, at
 scale, inside regulated industries will define the next decade. This co-op puts you inside that work at a company where it actually matters: a Fortune 500 life
-sciences company that touches nearly half the U.S. population every year. You will not be building demos. You will be contributing to
+sciences company that touches nearly half the U.S. population every year. You will not be building demos. You will be contributing to real agents that automate
+real workflows, with real guardrails, in a real production environment.
+About The Co-op Program
+As a Labcorp Co-op, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll gain valuable
+exposure to Labcorp’s global business through:
+- How a Fortune 500 life sciences company architects and deploys agentic AI systems at enterprise scale using the latest frameworks and cloud infrastructure
+- How AI agents are designed to automate real business workflows with tool-calling, function-calling, and multi-step orchestration patterns
+- How AI red teaming works in practice: adversarial testing, prompt injection, jailbreak resistance, and how vulnerabilities are identified and mitigated before
+production deployment
+- How defense-in-depth architectures enforce safe agent behavior through guardrails, 
