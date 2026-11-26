@@ -12,6 +12,7 @@ Research Scientist Intern, Egocentric Vision-Language Models (PhD) Responsibilit
 systems.
 - Publish research findings in top-tier conferences and effectively present research outcomes to internal and external audiences.
 Minimum Qualifications:
+- Currently has, or is in the process of obtaining a PhD degree in the domain of Computer Vision, Natural Language, Reinforcement Learning or related field
 - Knowledge in deep learning, computer vision, generative modeling, LLMs and VLMs
 - Hands-on experience with implementing deep learning algorithms, large-scale training, benchmark and evaluation
 - Programming experience in Python, deep learning frameworks such as Pytorch

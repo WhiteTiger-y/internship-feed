@@ -1,0 +1,55 @@
+Overview:
+Revvity’s In Vivo Imaging group develops preclinical instrumentation, software, and imaging solutions used by researchers studying cancer, cardiopulmonary
+conditions, metabolic disorders, infectious disease, and other areas of biomedical research. Our interdisciplinary team combines software, engineering, biology,
+physics, and imaging expertise to transform new ideas into reliable research tools and workflows.
+As a Software Engineering Intern, you will work with the R&D team on a defined project supporting in vivo imaging research or product development. Depending on
+project needs, the work may include image processing, 3D image analysis and visualization, scientific data analysis, workflow automation, software prototyping,
+or machine-learning experimentation. You will receive guidance from experienced engineers while gaining hands-on experience with professional software-
+development practices.
+Responsibilities:
+- Develop and test software components or prototypes for in vivo imaging applications.
+- Assist with scientific image processing, quantitative image analysis, data visualization, or workflow automation.
+- Write readable, maintainable code and participate in code reviews.
+- Develop unit tests, evaluation scripts, or other tools to assess software performance and reliability.
+- Work with imaging datasets to evaluate algorithms, identify issues, and summarize results.
+- Investigate technical approaches and present findings and recommendations to the project team.
+- Troubleshoot software defects and document technical findings.
+- Use version control and the team’s development and project-tracking tools.
+- Collaborate with software engineers, scientists, and other members of the interdisciplinary team.
+- Prepare technical documentation and provide periodic demonstrations or progress updates.
+Basic qualifications:
+- Currently enrolled in an undergraduate degree program in computer science, biomedical engineering, electrical engineering, computer engineering, data science,
+or a related technical field.
+- Completed introductory coursework or equivalent project experience in software development.
+- Programming experience in at least one general-purpose language, such as Python, C++, C#, Java, or JavaScript.
+Preferred qualifications:
+- Strong analytical, problem-solving, and communication skills.
+- Ability to work independently on defined assignments and collaboratively within a technical team.
+- Coursework or project experience in scientific computing, medical imaging, computer vision, machine learning, data analysis, or visualization.
+- Experience with Python and scientific-computing libraries such as NumPy, pandas, scikit-learn, PyTorch, or similar tools.
+- Experience with C++ or object-oriented software development.
+- Familiarity with image-processing or medical-imaging tools such as 3D Slicer, VTK, ITK, MONAI, or OpenCV.
+- Familiarity with 2D or 3D image data, segmentation, quantitative image analysis, or visualization.
+- Experience using Git or another version-control system.
+- Experience with software testing, debugging, and development environments.
+- Demonstrated initiative through coursework, research, open-source contributions, internships, or independent projects.
+- Interest in learning the scientific principles and user needs that drive life-science imaging products.
+The base salary range for this full-time position is $20/hr - $25/hr. This range reflects the minimum and maximum target for a new hire in this position. The
+base pay actually offered to the successful candidate will take into account internal equity, work location, and additional factors, including job-related
+skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the
+hiring process.
+Please note that base pay is only one part of our total compensation package and is determined within a range. This range allows for the successful candidate to
+have an opportunity to progress within the position and develop at our company. This base pay range does not take into account bonuses, equity, or other
+benefits which may be applicable and are dependent on the level and position offered.
+What do we offer?
+We provide competitive and comprehensive benefits to our employees. Below are some highlights of our benefits:
+- Medical, Dental, and Vision Insurance Options
+- Life and Disability Insurance
+- Paid Time-Off
+- Parental Benefits
+- Compassionate Care Leave
+- 401k with Company Match
+- Employee Stock Purchase Plan
+Learn more about Revvity’s benefits by visiting our Bswift page. Log-In instructions are provided towards the bottom of the Bswift page.
+For benefit-eligible roles only. Part-time and temporary roles may not be eligible for all benefits listed. Please reach out to your recruiter for more
+information.

@@ -1,0 +1,63 @@
+Are you ready to be part of something Extraordinary? Look no further than Harvard is the largest family-owned provider of premier commercial janitorial and
+professional security services in the United States. We believe in the power of our people. Here, every team member is valued, empowered, and trained to
+contribute their best. We foster an inclusive workplace culture where diversity is celebrated and every voice matters.
+A day in the life
+Harvard Maintenance is investing in data and AI to modernize how we deliver service across our national operations. Our AI Team is building the analytics,
+workflows, and tools that help our operators, supervisors, and back-office teams work smarter — from how operational performance is measured and reported, to
+how we surface insights from our work order and financial data, to how we use AI to accelerate the analytics we deliver to the business and to our clients.
+We are looking for an AI Engineering Intern to join the team and work directly with the AI Solutions Architect on real initiatives that touch the business. This
+is a hands-on, data-centric internship you will write Python scripts, work with operational and financial data, build dashboards and analytical models, and
+learn how AI is applied to accelerate analytics work in an enterprise environment.
+What You Will Work On
+Your projects will be drawn from our active data and AI roadmap and matched to your skills. Expect to spend the majority of your time on data and analytics
+work, with meaningful exposure to AI engineering on top of that foundation
+- Operational data analytics — Work hands-on with our operational data (work orders, labor, schedules, financials) to answer real business questions. Build
+queries, transformations, and analyses that go directly to operations leaders and finance partners.
+- Dashboards and reporting — Design and build dashboards and recurring reports in Power BI. Translate stakeholder requirements into clear, well-modeled,
+performant visualizations.
+- Data modeling and pipelines — Help shape how we structure operational and financial data for analytics. Contribute to data models, transformations, and
+lightweight pipelines that feed reporting and AI use cases.
+- AI-augmented analytics — Build LLM-driven workflows that accelerate analytics work automated data summaries, natural-language querying of operational data,
+document understanding (contracts, specs, inspection reports), and assistants that help internal teams self-serve information.
+- Agentic workflows and AI tooling — Learn alongside the team how to use modern AI engineering tools (Claude Code, Codex, MCP-based integrations) to ship
+analytical work and prototypes faster and more reliably.
+- Deployment and integration — Help take analytical prototypes from concept to a deployed internal service or scheduled job basic CI/CD, APIs, and integration
+with existing platforms.
+- Data governance and security — Learn how analytics and AI get built responsibly inside a corporate environment secure handling of operational and financial
+data, access controls, and alignment with our security and compliance requirements.
+What You Will Get
+- Direct mentorship from the AI Solutions Architect, with real ownership of analytical work that touches the business.
+- Exposure to how data and AI are adopted inside a large, established services company — not a hypothetical exercise, but a real transformation in motion.
+- Hands-on training in modern analytics and AI engineering practices SQL, Python, dashboarding, agentic coding, evaluation, and production deployment.
+- Competitive paid internship.
+- Strong consideration for a full-time analyst, data engineering, or AI engineering role for high-performing interns.
+What We Are Looking For
+You are a current undergraduate or graduate student pursuing one of the following (or a closely related field)
+- Data Analytics
+- Data Science / Statistics
+- Computer Science / Software Engineering
+- Cybersecurity
+- Business Analytics / Management Information Systems
+You should bring most of the following
+- Part-time availability — Availability to work approximately 25 hours per week.
+- Strong SQL — Comfortable writing complex queries, joins, aggregations, window functions, and CTEs. Able to reason about query performance on large tables.
+- Solid Python — Specifically for data work pandas, basic data wrangling, and reading/writing common data formats.
+- Analytical mindset — You can take an ambiguous business question, break it down, and figure out what data and what analysis would actually answer it.
+- Dashboarding exposure — Coursework, internships, or personal projects using Power BI, Tableau, Looker, or a similar tool.
+- Curiosity about LLMs and AI tools — You have built something with the OpenAI or Anthropic API, experimented with retrieval-augmented generation, written
+prompts that do useful work, or tried an agent framework. You do not need to have trained a model from scratch.
+- Git fundamentals — Branching, pull requests, and working in a real shared codebase.
+- Clear written communication — You can explain your analysis to people who are not engineers or data scientists.
+- Professional maturity — You will be working with operational and financial data from a real business. Discretion, reliability, and attention to detail matter.
+Nice to Have (Not Required)
+- Exposure to data warehouses or analytical databases (Snowflake, BigQuery, Redshift, Synapse, or SQL Server).
+- Experience with dbt, Airflow, or similar transformation and orchestration tools.
+- Familiarity with statistical methods hypothesis testing, regression, basic forecasting.
+- Exposure to LangChain, LlamaIndex, or similar AI orchestration frameworks.
+- Coursework or projects in cybersecurity, identity, or cloud security.
+- Background in facilities, services, or any operational/industrial context.
+Join our team of Extraordinary People committed to delivering Exceptional Service. Together, we'll redefine industry standards and create a workplace where your
+talent thrives. Discover your potential with Harvard Maintenance. This is a paid internship opportunity designed to provide hands-on experience and professional
+development. Learn more about our company and culture, apply today and be part of something extraordinary.
+An Equal Opportunity Employer --- M/F/D/V
+USD $20.00/Hr.

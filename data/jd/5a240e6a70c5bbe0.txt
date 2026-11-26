@@ -1,0 +1,27 @@
+About the role:
+As a full-time Data Science and Analytics Intern at TQL, you will help identify and resolve business problems with data. You will apply analytical techniques to
+solve complex business questions.  You will gain experience building scalable reports, visualizations, models and analytics within TQL’s award-winning IT
+department.
+What’s in it for you:
+* Paid internship at $22.00/hour
+* Gain first-hand knowledge and experience within a robust IT department
+* Grow your professional network and develop your skillset alongside industry experts
+* Access to the latest emerging technologies
+* Certified Great Place to Work and voted a 2019-2026 Computerworld Best Places to Work in IT
+What you’ll be doing:
+* Conduct exploratory data analysis using summary statistics and time series analysis to identify trends and patterns in historical data
+* Develop and maintain data visualizations that effectively communicate insights and support data-driven decision-making
+* Ensure the accuracy and quality of data used in reports and dashboards
+* Collaborate cross-functionally with internal stakeholders to understand their data needs. Utilizing a data-driven analytic approach, develop a solution to aid
+in their decision making
+* Provide great customer service to all stakeholders
+What you need:
+* Current student graduating between December 2027 to May 2028
+* Experience with PowerBI or other data visualization tools like Tableau, Qlik, Matplotlib, Seaborn, Shiny, ggplot2, Anaconda, etc.
+* Coding experience (SQL, R or Python) preferred, but not required
+* Pursuing a degree in Statistics, Information Systems, Computer Science, Data Science, Data Analytics, Economics or a related field
+* Excellent verbal and written communication skills
+* Exceptional aptitude for applied mathematical concepts like Statistics, Linear Regressions and/or Predictive and Descriptive Analytics
+Where you'll be: 4289 Ivy Pointe Blvd., Cincinnati, Ohio 45245
+Employment visa sponsorship is unavailable for this position. Applicants requiring employment visa sponsorship now or in the future (e.g., F-1 STEM OPT, H-1B,
+TN, J1 etc.) will not be considered.

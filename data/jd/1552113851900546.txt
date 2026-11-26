@@ -1,0 +1,89 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my
+application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application
+is true to the best of my knowledge.
+Job Description:
+Takeda is seeking a PhD summer research intern to evaluate and advance statistical machine learning methods for identifying clinically meaningful patient
+subgroups with heterogeneous treatment responses. The primary project will systematically evaluate existing algorithms and benchmark in-house machine learning
+methods against established approaches for patient subgroup identification, heterogeneous treatment effect (HTE) estimation, and uplift modeling.
+The intern will design rigorous, reproducible experiments across diverse benchmark datasets and will also have the opportunity to apply selected methodologies
+to Takeda clinical trial datasets, exploring their potential to identify clinically meaningful patient subgroups and inform precision medicine strategies. This
+work will bridge methodological research and practical applications in drug development.
+How You Will Contribute:
+By the end of the internship, the intern is expected to deliver
+- Algorithm review A structured review of relevant methods for patient subgroup identification, HTE estimation, and uplift modeling.
+- Benchmarking framework Reproducible code and experimental protocols for comparing algorithms across datasets.
+- Comparative evaluation A systematic assessment of predictive performance, treatment-effect modeling, subgroup stability, interpretability, and computational
+efficiency.
+- Scientific recommendations Evidence-based conclusions about the strengths, limitations, and most promising use cases of the evaluated methods.
+- Applying of selected methods to Takeda clinical trial datasets.
+- (Optional) Methodological extension A proposal or prototype for improving an in-house method or developing a new approach, where feasible.
+- Final presentation and report A clear summary of results, conclusions, and recommendations, with potential for scientific publication.
+Internship Development Opportunities:
+The intern will collaborate with researchers applying advanced statistical and machine learning methods to pharmaceutical research questions. The project offers
+opportunities to
+- Apply methodological research to precision medicine and personalized treatment.
+- Work on interpretable machine learning approaches for identifying clinically meaningful patient subgroups.
+- Gain experience in reproducible algorithm benchmarking and research software development.
+- Contribute to research with potential applications in clinical development and biomarker-driven treatment strategies.
+- Explore opportunities for scientific publication and further methodological development.
+Required Qualifications:
+- Currently pursuing a PhD in Statistics, Biostatistics, Computer Science, Machine Learning, Data Science, Biomedical Informatics, or a related quantitative
+discipline.
+- Strong foundation in statistical modeling, machine learning, experimental design, and quantitative research.
+- Proficiency in Python or R, including experience implementing, evaluating, or comparing analytical methods.
+- Experience with cross-validation, model selection, hyperparameter tuning, and out-of-sample evaluation.
+- Familiarity with predictive modeling methods, including classification, regression, and decision trees.
+- Ability to design rigorous experiments, interpret quantitative results, and communicate methodological strengths and limitations.
+- Strong analytical thinking, scientific writing, and presentation skills.
+Preferred Qualifications:
+- Experience with causal inference, heterogeneous treatment effects, uplift modeling, or treatment-effect estimation.
+- Familiarity with causal trees, causal forests, meta-learners, or other subgroup discovery approaches.
+- Experience designing large-scale benchmarking studies across multiple datasets and algorithms.
+- Prior research publications or evidence of independent methodological research.
+Internship Eligibility:
+- Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship
+- Must be currently enrolled in a degree program graduating December 2027 or later
+- The internship program is 10-12 weeks depending on the two start dates (June 1st -August 20th OR June 14th-August 20th)
+- The intern must be able to commit to one of these time frames
+- Able to work full time 40 hours a week during internship dates
+- Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program
+Program Highlights:
+- Hands-on experience with real projects and responsibilities
+- Dedicated mentorship program pairing interns with experienced professionals
+- Networking opportunities with industry professionals and fellow interns
+- Internship events focused on professional and skills development
+- Exposure to multiple business areas or departments within a Pharmaceutical Organization
+Takeda Compensation and Benefits Summary:
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we
+strive to be more transparent with our pay practices.
+For Location:
+Boston, MA
+U.S. Hourly Wage Range :
+$21.00 - $46.00
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to
+be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job
+location.
+U.S. internship benefits vary by location and may include
+- Paid sick time
+- Civic Duty paid time off
+- Participation at company volunteer events
+- Participation at company sponsored special events
+- Access to on-site fitness center (where available)
+- Commuter Benefit To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation
+(transit) or parking.
+EEO Statement:
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment
+without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability,
+citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected
+veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.
+Locations:
+Boston, MA
+Worker Type:
+Employee
+Worker Sub-Type:
+Paid Intern (Fixed Term) (Trainee)
+Time Type:
+Full time
+Job Exempt:
+No
+It is unlawful in Massachusetts to require or adm

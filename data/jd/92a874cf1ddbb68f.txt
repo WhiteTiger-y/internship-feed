@@ -1,0 +1,29 @@
+About Helm
+Helm develops economic world models and large-scale simulations of human and organizational behavior, and uses them to forecast how people, firms and markets
+will respond. Our systems are used to evaluate high-stakes decisions before they are made, and to train and test AI agents before they are deployed. A decision
+is a bet on what happens next, so we hold our models to one standard: how well they predict real outcomes. We are a small team of engineers and researchers.
+About the internship
+Research scientist interns own one research question in economic world models, simulation, forecasting or evaluation and see it through to a result, working
+alongside our research staff. The work is empirical, and time is the judge: models make predictions using only what was known at that moment, and are scored
+when the outcome arrives. Part-time and full-time internships are available, in person.
+What you'll do
+• Define a research question with our research staff and own it through to a result.
+• Design and run experiments that compare simulated and forecast behavior with observed outcomes.
+• Build point-in-time evaluations and backtests in which a model sees only what was known at the time, with no leakage from the future.
+• Train and evaluate forecasting models and agents, scored for accuracy and calibration once outcomes resolve.
+• Develop new methods where existing ones fall short, and evaluate them rigorously.
+• Analyze results carefully and report them plainly, including when they are negative.
+• Write up your work so that others can build on it, and present it to the team.
+You may be a fit if
+• You are a current PhD student or hold a PhD in machine learning, computer science, economics, econometrics, statistics, computational social science,
+cognitive science or a related field.
+• You have carried out independent research and can show it: a paper, preprint, thesis chapter or public project.
+• You have trained or evaluated machine learning models and write your own research code.
+• You have a sound grounding in probability and statistics.
+Strong candidates may also
+• Have research experience in forecasting, time-series or macroeconomic modeling, agent-based modeling, multi-agent systems, reinforcement learning or causal
+inference.
+• Have a track record in forecasting competitions or prediction markets, or publications at a major venue in machine learning, economics or a quantitative
+social science.
+Location
+This is an in-person internship at our office in South Park, San Francisco.
