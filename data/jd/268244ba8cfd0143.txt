@@ -30,6 +30,7 @@ Preferred Qualifications:
 - Previous experience with large generative models: large scale training and tuning, large scale data, large scale inference, model post-training, model
 efficiency.
 - A passion for research and Snap Inc. products.
+If you have a disability or special need that requires accommodation, please provide us some information.
 "Default Together" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our
 community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members
 to work in an office 4+ days per week.

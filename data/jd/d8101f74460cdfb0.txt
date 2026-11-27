@@ -18,7 +18,7 @@ customers.
 - Optimize the deployment pipeline for Generative AI models.
 - Part of a team of experts with different specialized skill sets including machine learning, deep learning, natural language processing, computer vision etc.
 Required Qualifications
-- You are currently pursuing your Master's or PhD and enrolled in an accredited program, not graduating before December 2027.
+- You are currently pursuing your Master's degree in an accredited program, not graduating before December 2027.
 - Currently studying Computer Science, Electrical Engineering, or closely related field.
 - Experience with Python, Generative AI foundation models like GPT or Claude models.
 - Strong communication skills – both written and verbal.

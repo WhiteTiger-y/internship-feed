@@ -32,5 +32,8 @@ generation, especially controllable video generation, are strongly preferred.
 or interactive video generation.
 - Experience with large-scale video model training, distributed training, or training and inference optimization.
 - Contributions to influential open-source video generation projects or research implementations.
+Compensation
+- Hourly pay ranges from $50 - $80 USD (Mountain View only). Actual pay is based on location and may vary depending on relevant knowledge, skills, and
+experience from the candidate.
 We are an equal opportunity employer that believes diverse backgrounds are key to bringing our concepts to life. If you're looking to play a key role in
 creating the best immersive virtual world experience for our users, we invite you to join our team.

@@ -1,0 +1,76 @@
+Posting Title
+Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity
+Location
+CO - Golden
+Position Type
+Intern (Fixed Term)
+Hours Per Week
+40
+Working at NLR
+NLR is located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for energy systems research and development.
+Join the National Laboratory of the Rockies (NLR), where world-class scientists, engineers, and experts are accelerating energy innovation through breakthrough
+research and systems integration. From our mission to our collaborative culture, NLR stands out in the research community for its commitment to an affordable
+and secure energy future. Spanning foundational science to applied systems engineering and analysis, we focus on solving complex challenges to deliver advanced,
+secure, reliable, and cost-effective energy solutions. Our work helps strengthen U.S. industries, support job creation, and promote national economic growth.
+At NLR, you'll find a mission-driven environment supported by state-of-the-art facilities, multidisciplinary research teams, and strong collaborations with
+industry, academia, and other national laboratories. We offer robust professional development opportunities, and a competitive benefits package designed to
+support your career and well-being.
+Job Description
+The intern will conduct hands-on research at the intersection of machine learning, statistics, and critical energy infrastructure security. The position focuses
+on enhancing the reliability, transparency, and operator-readiness of AI-driven cybersecurity tools used to secure power grid substations and physical assets,
+with a primary focus on explainability and robust uncertainty bounds.
+- Explainable AI (XAI): Design and implement XAI methods (e.g., attribution maps, rule extraction, root-cause analyses) to make complex ML models transparent
+and auditable for control-room operators and system administrators.
+- Confidence & Uncertainty Quantification: Apply statistical techniques and frameworks (e.g., conformal prediction, Bayesian neural networks, or ensemble
+methods) to quantify model confidence and measure predictive uncertainty in real-time.
+- Grid Dataset Analysis: Analyze cyber-physical power system security datasets (such as 9-Bus system baseline and cyber-physical anomaly runs) to extract
+feature patterns and validate anomaly detection model behavior.
+- Model Safety & Robustness: Explore machine learning safety techniques, including model steering, to ensure grid security models behave predictably under
+distribution shifts or input corruptions.
+- Visualization & Alert Design: Support research into visualization methods and alert design that present explainability and confidence metrics clearly to
+operators, assisting with alert prioritization.
+- Collaboration & Reporting: Partner with cybersecurity researchers and AI development teams to integrate explainability modules, document results, and compile
+guidelines for deploying reliable AI models.
+Basic Qualifications
+Minimum of a 3.0 cumulative grade point average.
+Undergraduate: Must be enrolled as a full-time student in a bachelor’s degree program from an accredited institution.
+Post Undergraduate: Earned a bachelor’s degree within the past 12 months. Eligible for an internship period of up to one year.
+Graduate: Must be enrolled as a full-time student in a master’s degree program from an accredited institution.
+Post Graduate: Earned a master’s degree within the past 12 months. Eligible for an internship period of up to one year.
+Graduate + PhD: Completed master’s degree and enrolled as PhD student from an accredited institution.
+Please Note
+- Applicants are responsible for uploading official or unofficial school transcripts, as part of the application process.
+- If selected for position, a letter of recommendation will be required as part of the hiring process.
+- Must meet educational requirements prior to employment start date.
+- Must meet educational requirements prior to employment start date.
+Additional Required Qualifications
+- Education: Currently pursuing or completed a Bachelor’s, Master’s, or Ph.D. in Computer Science, Cybersecurity, Electrical Engineering, AI, Applied
+Mathematics, or Statistics.
+- Programming & ML Frameworks: Strong proficiency in Python; hands-on experience with PyTorch, TensorFlow, or Hugging Face.
+- Core Research Competency: Substantial coursework or project experience in Explainable AI (XAI), machine learning safety, confidence calibration, or
+statistical uncertainty modeling.
+- Generative AI / LLMs: Practical experience working with Large Language Models (LLMs) or Foundation Models or other complex deep neural networks.
+Preferred Qualifications
+- Active research/publications in top-tier conferences (e.g., NeurIPS, ICML, ICLR, AAAI, IEEE S&P, USENIX Security, or ACM CCS) with a focus on XAI, robust ML,
+or cyber-physical energy systems.
+- Experience with specialized explainability libraries (such as Captum, SHAP, or LIME) and uncertainty calibration methods.
+- Familiarity with multi-sensor data fusion, power systems modeling, or grid anomaly detection.
+- Contributions to open-source software libraries focusing on AI transparency, reliability, or security.
+Job Application Submission Window
+The anticipated closing window for application submission is up to 30 days and may be extended as needed.
+Annual Salary Range (based on full-time 40 hours per week)
+Job Profile: Graduate / Annual Salary Range: $51,200 - $81,900
+NLR takes into consideration a candidate’s education, training, and experience, expected quality and quantity of work, required travel (if any), external market
+and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In
+compliance with the Colorado Equal Pay for Equal Work Act, a potential new employee’s salary history will not be used in compensation decisions.
+Benefits Summary
+Benefits include medical, dental, and vision insurance; 403(b) Employee Savings Plan with employer match*; and sick leave (where required by law). NLR employees
+may be eligible for, but are not guaranteed, performance-, merit-, and achievement- based awards that include a monetary component. Some positions may be
+eligible for relocation expense reimbursement. Internships projected to be less than 20 hours per week are not eligible for medical, dental, or vision benefits.
+- Based on eligibility rules
+Badging Requirement
+NLR is subject to Department of Energy (DOE) access restrictions. All employees must also be able to obtain and maintain a federal Personal Identity
+Verification (PIV) card as required by Homeland Security Presidential Directive 12 (HSPD-12), which includes a favorable background investigation. Intern
+assignments extending beyond six months will be subject to this requirement.
+Drug Free Workplace
+NLR is committed to maintaining a drug-free workplace in accordance with the federal Drug-Free Workplace Act 

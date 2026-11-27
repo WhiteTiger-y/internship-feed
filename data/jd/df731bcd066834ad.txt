@@ -1,0 +1,51 @@
+About Propopia
+Propopia is building the intelligence layer for real estate — connecting fragmented data, client context and AI to help professionals make better decisions.
+We leverage artificial intelligence, data and automation to transform how real estate professionals access information, understand opportunities and make
+informed decisions.
+About The Role
+As an AI Engineer Intern, you will contribute to building and improving AI-powered capabilities across the Propopia platform. You will work on practical
+applications of artificial intelligence, large language models (LLMs), machine learning, intelligent agents and automation to transform complex real estate
+information into actionable intelligence.
+You will have the opportunity to experiment with modern AI technologies, develop intelligent workflows, integrate AI models and build real-world applications.
+This is an opportunity to gain hands-on experience developing AI-powered products at an early-stage technology company while working on real-world engineering
+challenges at the intersection of AI, data and real estate.
+What You'll Work On
+- LLM Application Development: Build and experiment with applications powered by large language models (LLMs), including OpenAI, Anthropic Claude, Google Gemini
+and open-source models.
+- AI Agents & Automation: Develop intelligent AI agents and multi-step workflows to automate research, information processing and real estate intelligence
+tasks.
+- Retrieval-Augmented Generation (RAG): Build systems that connect LLMs with structured and unstructured data to enable context-aware responses, semantic search
+and intelligent information retrieval.
+- Prompt Engineering: Design, test and optimize prompts and model interactions to improve the accuracy, consistency and usefulness of AI-generated outputs.
+- AI-Powered Data Processing: Develop solutions for extracting, classifying, summarizing and structuring information from various data sources.
+- AI Integration: Integrate AI models, APIs and services into Propopia's applications and backend systems.
+- Machine Learning: Explore machine learning techniques for classification, prediction, recommendation and other real estate intelligence applications.
+- Research & Experimentation: Evaluate emerging AI technologies, frameworks and tools to identify opportunities to improve Propopia's products and technical
+capabilities.
+Responsibilities
+- Assist in designing, developing and testing AI-powered applications and intelligent workflows.
+- Build integrations with LLM APIs, AI services and third-party data sources.
+- Develop and experiment with RAG pipelines, vector search, embeddings and knowledge retrieval systems.
+- Support the development of AI agents and automated workflows using modern AI frameworks.
+- Process, clean and structure data for AI and machine learning applications.
+- Evaluate model performance, test outputs and improve AI application reliability.
+- Collaborate on backend development and API integrations supporting AI-powered product features.
+- Research and prototype new AI capabilities that can be incorporated into Propopia's platform.
+- Document technical implementations, experiments and development processes.
+Qualifications
+Interest in artificial intelligence, software engineering, machine learning or applied AI.
+- Programming Languages: Familiarity with Python; experience with JavaScript or TypeScript is a plus.
+- LLMs & AI APIs: Exposure to OpenAI, Anthropic Claude, Google Gemini, Meta Llama, Mistral or Hugging Face models and APIs.
+- AI Frameworks: Familiarity with LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen or similar AI agent and orchestration frameworks.
+- RAG & Vector Databases: Understanding of Retrieval-Augmented Generation (RAG), embeddings, semantic search and vector databases such as Pinecone, Weaviate,
+Chroma, FAISS or pgvector.
+- Machine Learning: Exposure to PyTorch, TensorFlow, scikit-learn or other machine learning libraries.
+- Backend & API Development: Familiarity with FastAPI, Flask, Django, REST APIs or Node.js.
+- Databases & Data Processing: Basic understanding of PostgreSQL, MongoDB, Supabase, Redis or data processing libraries such as Pandas and NumPy.
+- Cloud & Deployment: Exposure to AWS, Google Cloud, Microsoft Azure, Docker, Vercel or serverless deployment environments is a plus.
+- AI Evaluation & Observability: Interest in prompt engineering, model evaluation, LLM observability and tools such as LangSmith, Ragas or Langfuse.
+- Development Tools: Familiarity with Git, GitHub, Jupyter Notebook and modern software development environments.
+What You'll Gain
+Hands-on experience developing AI-powered products at an early-stage technology company, working on real-world engineering challenges at the intersection of AI,
+data and real estate.
+Apply Now ↗

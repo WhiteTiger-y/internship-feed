@@ -1,0 +1,25 @@
+About The Role
+At WorldEngine, we’re building the data infrastructure for Physical AGI. Real-world experience is central to that effort: the scenes robots operate in, the
+objects they interact with, and the data that captures what happens.
+As a Research Intern, you’ll investigate how real-world observations and robot interactions can be converted into high-quality datasets and simulation-ready
+environments. You’ll work closely with our engineering and research teams on 3D reconstruction, real-to-sim workflows, and experiments that measure how data and
+simulation quality affect robot learning and evaluation.
+What You'll Do
+- Develop real-to-sim workflows that turn real-world images, video, and sensor data into simulation-ready scenes, objects, and environments
+- Build tools to process, align, and validate robotics data, including visual observations, 3D geometry, and robot trajectories
+- Investigate how reconstruction fidelity, scene coverage, and physical properties affect the usefulness of reconstructed environments for robot learning
+- Design experiments and benchmarks to compare reconstructed environments with real-world reference data and measure their impact on robot learning and task
+performance
+- Work with engineers to turn research prototypes into reproducible data pipelines, datasets, and evaluation tools
+- Document methods, experiments, and findings, and contribute to technical reports or research publications where appropriate
+What We're Looking For
+- Currently pursuing a degree in computer science, robotics, electrical engineering, or a related field, or equivalent hands-on research experience
+- Strong Python programming skills and experience implementing and testing machine learning or computer vision methods
+- A foundation in 3D geometry, computer vision, or robot learning, with the ability to turn research ideas into working prototypes
+- Comfortable working with imperfect real-world data, debugging pipelines, and designing clear, controlled experiments
+- Clear technical communication and the ability to take ownership of a scoped research project in an early-stage team
+Nice to Have
+- Research or project experience in 3D reconstruction, neural rendering, or scene understanding
+- Experience with robotics simulators or tools for scene and asset generation
+- Hands-on experience training or evaluating robot policies in simulation or on physical systems
+- Experience building reproducible experiments, processing multimodal datasets, or contributing to open-source projects

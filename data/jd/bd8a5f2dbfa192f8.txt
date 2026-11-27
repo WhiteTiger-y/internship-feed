@@ -1,0 +1,41 @@
+Back to jobs
+2027 Data & Analytics (Science) Intern
+San Francisco
+Apply
+About ICONIQ Capital
+ICONIQ Capital is a global investment firm elevated by an extraordinary community. With over $80B assets under management, we seek to build resilient investment
+portfolios, partner with inspired entrepreneurs transforming industries, manage our clients’ lives and legacies, and create uncommon opportunities across
+sectors and society.
+The Opportunity: Data Science & Applied AI 2027 Intern
+ICONIQ Capital is seeking a talented undergraduate to intern this summer within the Data & Analytics team, including its Data & Business Intelligence group. The
+team sets and executes ICONIQ’s data strategy and maintains firmwide reporting that helps leaders make key decisions.
+The Data Science & Applied AI Intern will scope, build, and demonstrate a working prototype of an AI application or machine learning project that solves a real
+problem for internal users. The intern will work across ICONIQ’s modern data and analytics stack, including Snowflake, Tableau, Python, and related AI tooling,
+from discovery through deployment. The intern will take responsibility for defined projects and collaborate with experienced Data Science and Applied AI
+professionals.
+Principal Responsibilities:
+- Problem Definition: Partner with business stakeholders to define the problem, success metrics, and evaluation criteria for your prototype.
+- AI Application Prototyping: Design and build an end-to-end AI application prototype, such as a RAG or chat workflow, summarization, or task automation, using
+Python and modern AI tooling.
+- Machine Learning & LLMs: Where appropriate, develop, train, and validate ML models (for example regression, classification, gradient-boosted trees, or time-
+series) and/or fine-tune LLMs, engineering features, running experiments, and documenting results.
+- Data Pipelines: Support the design, build, and optimization of data pipelines that move data reliably across systems.
+- Prototype Demonstration: Demonstrate the working prototype to stakeholders and internal users.
+- Product Lifecycle: Contribute across the product lifecycle, from use-case discovery to deployment.
+Qualifications:
+- Undergraduate student pursuing a bachelor’s degree with working proficiency in Python and SQL.
+- Experience building analytical workflows, prototypes, or applications through class projects, research, hackathons, or internships.
+- Familiarity with machine learning or LLM concepts, such as prompting, embeddings, vector search, and evaluation.
+- Strong analytical and problem-solving skills, with a product mindset and intellectual curiosity.
+- Excellent written and verbal communication skills, including the ability to collaborate with non-technical partners.
+- Organized and detail oriented, with a self-starter’s bias to ship.
+- Nice to have: experience with Tableau or similar BI tools, and exposure to frameworks such as LangChain, OpenAI or Anthropic SDKs, or vector databases.
+Location: San Francisco
+Compensation Range: ICONIQ is required by law to include a reasonable estimate of the salary range for this role, together with other compensation being offered
+such as a discretionary bonus, health insurance, and other perks. There are several factors taken into consideration in making compensation decisions including
+but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At ICONIQ, we apply a total
+reward philosophy where all aspects of compensation and benefits are taken into consideration in determining compensation terms. This role is an hourly
+position. A reasonable estimate of the current hourly pay is $50.00 per hour.
+Interns who perform well may be considered for full-time opportunities in 2028 as roles become available. We welcome rising seniors graduating in Spring 2028 to
+apply for this internship. Applicants must have legal authorization to work in the United States now and in the future. We do not offer visa sponsorship at this
+time.

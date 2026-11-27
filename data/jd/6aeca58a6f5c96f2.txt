@@ -10,6 +10,8 @@ Research Scientist Intern, Generative AI & Computational Photography (PhD) Respo
 scalability, and stability of currently deployed technologies to identify opportunities for impact through novel research.
 - Collaborate with team members throughout the lifetime of a project, from research to prototyping to deploying products.
 Minimum Qualifications:
+- Currently is in the process of obtaining a PhD degree in computer science, electrical engineering, or related fields. Experience in one or more areas of
+Computer Science, such as Computer Vision, Machine Learning, Computer Graphics, Image Processing, and Computational Photography
 - Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as co-authored publications at top-tier
 conferences
 - Experience with modern C++ and/or Python. Experience with deep learning frameworks such as PyTorch

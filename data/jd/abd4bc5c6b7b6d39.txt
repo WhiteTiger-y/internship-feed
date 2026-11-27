@@ -1,0 +1,38 @@
+Back to jobs
+2027 Data & Analytics Intern
+New York
+Apply
+About ICONIQ Capital
+ICONIQ Capital is a global investment firm elevated by an extraordinary community. With over $80B assets under management, we seek to build resilient investment
+portfolios, partner with inspired entrepreneurs transforming industries, manage our clients’ lives and legacies, and create uncommon opportunities across
+sectors and society.
+The Opportunity: Data & Analytics 2027 Intern
+ICONIQ Capital is seeking a talented undergraduate to intern this summer within the Data & Analytics team. The team sets and executes ICONIQ’s data strategy and
+maintains the firmwide reporting and data insights that leaders use to make decisions.
+The Data & Analytics Intern will contribute to technical initiatives across the full development cycle, from scoping and design through testing and deployment.
+The intern will solve real business problems on a modern technology stack that includes Snowflake, Tableau, and Python. The intern will take responsibility for
+defined projects and collaborate with experienced Data & Analytics professionals.
+Principal Responsibilities:
+- Data Extraction & Transformation: Use SQL to extract, clean, and transform data from multiple sources, ensuring accuracy and relevance for business needs.
+- Dashboard Development: Design and build dashboards that communicate insights and key performance indicators to stakeholders.
+- Requirement Gathering & Translation: Collaborate with business teams to gather requirements and translate them into BI solutions.
+- Data Analysis & Reporting: Conduct ad hoc analyses and develop reports that identify trends, patterns, and actionable insights to support strategic decisions.
+- Data Pipelines: Support the design, build, and optimization of data pipelines that move data reliably across systems.
+- Solution Delivery: Contribute to project scoping, design, development, testing, and deployment of solutions to real business problems.
+Qualifications:
+- Undergraduate student pursuing a bachelor’s degree.
+- SQL experience and skills, developed through coursework, projects, or prior experience.
+- Experience building business reports and dashboards. Familiarity with Tableau is a plus.
+- Familiarity with data pipeline concepts and tools, including ETL/ELT, scheduling, and data validation, along with strong data management skills.
+- Experience with a scripting language such as Python or R. Knowledge of Python analytical libraries such as Pandas, scikit-learn, and NumPy is a plus.
+- Strong analytical and problem-solving skills, with excellent written and verbal communication.
+- Self-starter who is organized, detail oriented, and quick to learn.
+Location: New York
+Compensation Range: ICONIQ is required by law to include a reasonable estimate of the salary range for this role, together with other compensation being offered
+such as a discretionary bonus, health insurance, and other perks. There are several factors taken into consideration in making compensation decisions including
+but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At ICONIQ, we apply a total
+reward philosophy where all aspects of compensation and benefits are taken into consideration in determining compensation terms. This role is an hourly
+position. A reasonable estimate of the current hourly pay is $50.00 per hour.
+Interns who perform well may be considered for full-time opportunities in 2028 as roles become available. We welcome rising seniors graduating in Spring 2028 to
+apply for this internship. Applicants must have legal authorization to work in the United States now and in the future. We do not offer visa sponsorship at this
+time.
