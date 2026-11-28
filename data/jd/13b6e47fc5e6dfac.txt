@@ -1,0 +1,41 @@
+We believe power is a promise - a shared commitment to be there for others when it matters most. For more than 65 years, we've turned big ideas into solutions
+that help protect homes, strengthen businesses and build a more resilient, efficient, sustainable energy future. Ready to Power a Smarter World with us? Generac
+Home is hiring an Intern focused on Data Analytics to support the Consumer Experience organization through reporting, dashboard development, data validation,
+trend analysis, and business requirements gathering. This role will help deliver accurate, actionable insights that support data-driven decisions and identify
+opportunities to improve how our teams serve consumers. This role will be onsite on a flexible schedule in our Pewaukee Office. You must be local to work onsite
+part time starting in January 2027, work fulltime during the summer and potentially part time for the fall 2027 semester.   Major Responsibilities: Support the
+development and maintenance of reports, dashboards, scorecards, and business health metrics used to monitor Consumer Experience performance Validate data
+accuracy, identify inconsistencies, and support data quality activities to ensure reporting outputs are reliable. Support data quality activities by validating
+reporting accuracy, reviewing source data, and investigating inconsistencies.  Analyze operational trends, performance patterns, and business results to
+identify risks, opportunities, and areas for improvement Gather and document stakeholder requirements to support reporting improvements and analytic
+deliverables. Gather and document stakeholder requirements, business metric definitions, and reporting needs to support analytics improvements.  Assist with
+analytics projects by preparing data, summarizing trends, and developing presentation-ready insights for leaders and business partners. Assist with analytics
+and system improvement projects through data preparation, reporting validation, testing support, and presentation-ready insights.  Demonstrate strong attention
+to detail with the ability to review data, identify inconsistencies, and follow through on assigned tasks.   Minimum Requirements: Education Currently enrolled
+in a bachelor’s degree or masters program in business analytics, data analytics, data science, information systems, operations management, business
+administration or statistics, Basic experience with SQL, Python, or similar tools through coursework, projects, or prior experience to support data extraction,
+validation, analysis, or automation. Microsoft office suite including proficiency with Microsoft Excel: formulas, tables, data organization, and basic analysis
+and analysis. Work Experience: Experience creating, editing, and presenting data visualizations through coursework, projects, internships, or prior work
+experience.   Knowledge / Skills / Abilities: Foundational SQL skills, including querying, filtering, joining, and aggregating data, gained through coursework,
+projects, or prior experience. Basic understanding of relational data structures, data relationships, and techniques for exploring and validating datasets.
+Foundational understanding of data analytics concepts, including data collection, cleansing, validation, interpretation, and visualization.   Preferred Job
+Requirements:   Exposure to Databricks, data Lakehouse concepts, or similar cloud-based data platforms. Familiarity with Power BI, Tableau, or similar business
+intelligence/dashboarding tools.  Analytical and problem-solving skills with the ability to work with operational data, recognize patterns, and summarize key
+findings. Ability to communicate data-driven findings clearly and concisely for both technical and non-technical audiences. (~ability to translate technical
+findings into understandable business information.) Strong attention to detail with the ability to review data, identify inconsistencies, and follow through on
+assigned tasks.   Knowledge / Skills / Abilities Ability to translate data into dashboards, scorecards, trend summaries, or visual reporting that supports
+business decisions.   What You’ll Gain This internship will give you hands-on experience with real business data, reporting tools, and operational performance
+metrics that support a large Consumer Experience team. You will strengthen your analytical, dashboarding, data validation, and storytelling skills while
+learning how data is used to identify trends, improve processes, and support leader decision-making in a fast-paced business environment.   At Generac, you'll
+have the opportunity to make an impact, learn from experienced leaders, and build practical experience that can help you stand out as you begin your career.  
+While performing the duties of this job, the employee is regularly required to talk and hear; and use hands to manipulate objects or controls.  The employee is
+regularly required to stand and walk.  On occasion, the incumbent may be required to stoop, bend, or reach above the shoulders.  The employee must occasionally
+lift up to 25 pounds. Specific conditions of this job are typical of frequent and continuous computer-based work requiring periods of sitting, close vision, and
+the ability to adjust focus. #LI-HR1 “We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard
+to race, color, religion, sex, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law.”
+We believe power is a promise - a shared commitment to be there for others when it matters most. For more than 65 years, we've turned big ideas into solutions
+that help protect homes, strengthen businesses and build a more resilient, efficient, sustainable energy future. Ready to Power a Smarter World with us? As one
+of the leaders and largest suppliers of power generation equipment and technology, the work we do touches millions of lives. Employees at Generac are encouraged
+to be innovative and are valued as an integral part of our global team. Our challenging goals develop knowledgeable employees dedicated to helping continue
+Generac’s success. Generac provides individuals the opportunity to work in a fast-paced agile work environment where their work makes a difference in people’s
+lives and their own.

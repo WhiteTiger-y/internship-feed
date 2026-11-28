@@ -41,6 +41,11 @@ competencies, relevant education, qualifications, certifications, experience, sk
 We offer a comprehensive package of benefits including but not limited to paid vacation, paid sick leave, and medical insurance benefits. Internship positions
 are not eligible for retirement benefits. More information about benefits is available at rivianbenefits.com.
 You can apply for this role through careers.rivian.com (or through internal-careers-rivian.icims.com if you are a current employee).
+Interview Integrity & AI Policy
+Our interview process is designed to evaluate your personal technical foundation, real-time problem-solving logic, and structured capabilities. Therefore, the
+use of assistive generative AI tools to formulate or deliver your solutions during live interview sessions is not permitted. We care most about how you think —
+how you make sense of unclear requirements, weigh trade-offs, and explain why you chose one approach over another. We value your unique human perspective, your
+authenticity, and the journey it takes to reach a solution.
 Equal Opportunity
 Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will
 receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression,
@@ -56,8 +61,4 @@ professional, employment, social media/website, network/device, recruiting syste
 Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and
 recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment
 relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v)
-recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.
-Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including
-individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s
-service providers, including providers of background checks, staffing services, and cloud services.
-Rivian may transfer or store internationally your Candidate Personal Data,
+recordkeeping; (vi) ensuring network and information security and 

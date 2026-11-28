@@ -1,0 +1,39 @@
+Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links
+vehicle sellers to more than 750,000 buyers in over 190 countries. We believe in providing an unmatched experience, every day and everywhere, driven by our
+people, processes, and technology.
+AI/ML Engineering Intern — Copart
+Copart is building the next generation of AI-driven applications to power our global operations and expansion. We're looking for a passionate Software
+Engineering Intern with a strong interest in Artificial Intelligence and Machine Learning to help design, build, and ship these systems. You'll work closely
+with Product Managers, AI Architects, and Tech Leads to turn requirements into real, scalable AI features — from LLM-powered agents to production ML pipelines.
+Core Duties & Responsibilities
+- AI/ML Development: Design and implement features powered by Large Language Models (LLMs), Generative AI, and machine learning models, integrating them into
+our core applications.
+- Agent & Workflow Orchestration: Build and optimize conversational agents, Retrieval-Augmented Generation (RAG) pipelines, and prompt engineering workflows.
+- Model Integration & Evaluation: Work with model APIs and open-source models, and help evaluate quality, latency, and cost trade-offs across approaches.
+- Full-Stack Integration: Develop efficient, secure, real-time services that surface AI capabilities to end users; peer-review code and document solutions in an
+agile environment.
+- Collaboration: Communicate proactively with teammates across AI research, infrastructure, security, and QA to continuously improve processes and engineering
+quality.
+Required Skills
+- Education: Currently pursuing a Bachelor's or higher in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related quantitative
+field.
+- AI & LLM Foundations: Hands-on experience or academic projects with LLM APIs (Anthropic, OpenAI, Hugging Face, Ollama); familiarity with RAG architectures and
+prompt engineering; understanding of vector databases (e.g., pgvector, Pinecone, Chroma, Milvus).
+- Programming: Strong Python skills for data/AI work; solid foundation in data structures and algorithms.
+- Data: Comfortable with SQL and working with relational (PostgreSQL, MySQL) and/or NoSQL databases.
+- Mindset: Excellent problem-solving with a strong mathematical/logical foundation; self-motivated, curious, and eager to master emerging AI tools quickly;
+capable technical writer able to document AI architectures and data flows.
+Nice to Have
+- Experience with AI orchestration frameworks (LangChain, LlamaIndex, or Spring AI).
+- ML/data science libraries (PyTorch, TensorFlow, scikit-learn, pandas).
+- Full-stack exposure: JavaScript/TypeScript with React or Next.js for AI chat interfaces and dashboards; real-time streaming (WebSockets, Server-Sent Events);
+or Java/Spring Boot backend services.
+- DevOps: Git, CI/CD (GitHub Actions, Jenkins), Docker, and a cloud platform (AWS, Azure, or GCP).
+- Basic Unix/Linux familiarity.
+At Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and
+unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and
+contribute meaningfully.
+E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S.
+applicants and employees only). Please click below to learn more about the E-Verify program:
+- E-verify Participation
+- Right to Work

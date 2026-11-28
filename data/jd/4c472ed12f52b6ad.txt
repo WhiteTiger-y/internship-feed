@@ -1,0 +1,45 @@
+When you join Sallie Mae, you become a champion for all students. We’re on a mission to power confidence as students begin their unique journey. To help them
+plan their higher education, successfully finish, and prepare for life after school. To help them Start smart. Learn big. Students need guidance navigating this
+important time in their life. They need someone who acknowledges that their education path is unique. They need a partner willing to evolve and not only meet
+but surpass their expectations. We’re changing. Because students need a better way. We’re looking for people who are excited to drive this transformation. To
+break barriers and think of new ways to adapt, help, and create better experiences for students—and for each other. This is where diverse backgrounds, beliefs,
+and perspectives matter. It’s where you’re empowered to bring your authentic self to work. Feeling your best allows you to do your best. Our benefits take care
+of the whole you—from physical and mental to financial and professional. You’ll get opportunities to further your education and career, support for you and your
+family (including your pets!), paid time off to volunteer for the things that matter to you, and more. We’re obsessed with impact and making a real difference.
+For us, that means putting relationships first, asking “why not?” when tackling challenges, and continuously learning new skills. Come do more than join
+something, change something. For students, for future generations, for the future of education. Sallie Mae is proud to help Americans aspiring to create the
+life they want--whether that means helping them make college happen, or something more. Our colleagues across departments and across the country are united in
+our passion and our customer-first approach. Whether you want to join a growing company, be part of an agile workforce, or gain new skills--you're in the right
+place. Program Overview: The Sallie Mae Internship program seeks to attract and develop exceptional early talent while adding value to our organization. Our
+goal is to tie academic learning into a practical business setting while fostering professional and personal growth within a student’s area of focus. Over the
+course of the summer, interns will gain exposure to senior leaders, attend meetings, work alongside mentors, and receive valuable performance feedback. What
+You'll Contribute: The Information Lifecycle Management (ILM) Summer Intern will support strategic initiatives within the Chief Data Office (CDO) focused on
+managing data across its lifecycle—from creation and usage to archival and secure disposal. This role involves various types of analysis, data mining, and data
+visualization, to gain insights from data sets collaborating with colleagues, including data analysts, data scientists, and business stakeholders. This role
+offers a unique opportunity to explore the intersection of data governance, architecture, and AI enablement, while contributing to enterprise-wide efforts that
+drive data usage, consumption, compliance, and business value. Interns will gain hands-on experience with frameworks and tools that support data lake ingestion,
+digital journey mapping, data classification, and readiness for AI technologies. This may include working with data analysis tools, programming languages (e.g.,
+Python, R), database systems, and data visualization tools. Presenting the results of analysis in a clear and understandable way is important. Data analysis is
+a dynamic field, and as an intern, you'll have the opportunity to learn and grow. What You'll Do: Data Classification & Inventory: Assist in requirements
+gathering to identifying, tagging, and categorizing data assets across platforms to support lifecycle management and governance. Usage & Consumption Analysis:
+Analyze usage patterns (Snowflake, SAS, visualization tools etc.,) to inform lifecycle management decisions and AI readiness. Process Optimization: Evaluate
+workflows and build improvements or automation opportunities. Records Management Support: Help assess retention schedules and automate process to update and
+monitor schedule and purge process. Technical Analysis & Reporting: Use tools such as SQL, Python, Power BI to support data tracking, reporting, and
+visualization. AI Enablement Support: Contribute to foundational AI initiatives through data discovery, classification and governance requirements. Effective
+Communication: Presenting your findings and recommendations is a critical aspect of the role. Clarity and the ability to translate technical insights into
+actionable business recommendations are vital. Adaptability: The role may involve a variety of tasks and projects. Being adaptable and open to working on
+different types of analyses or projects, as assigned by your supervisor, is important. It demonstrates your flexibility and willingness to learn. The above
+information is intended to describe the general nature and level of work performed by employees assigned to this job; it is not designed to contain or be
+interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees in this role. What You Have: Minimum
+education, skills and experience required. Currently enrolled in an accredited university pursuing a degree in Business Information Systems, Computer Science,
+Information Technology, Software Engineering, Artificial Intelligence, or related technical field Open to students with expected graduation dates of Dec 2027 -
+May 2028 Availability: This is a 12 week paid internship and expectations for a 40 hour work week for the following dates 6/7/2027 – 8/27/2027. We follow a 3
+day flexible in office policy in our Newark, DE office Knowledge, Skills, and Abilities: Previous internship experience in technology or data management role
+preferred. Experience (please list any languages or technical proficiencies required or preferred) Please list any platforms/tools required or preferred. Self-
+motivated with strong initiative and curiosity about technology Adaptability and openness to learning Interest in enterprise-scale technology challenges and
+solutions Professional demeanor suitable for interaction with IT leadership and business stakeholders The Americans with Disabilities Act The Americans with
+Disabilities Act of 1990 (ADA) prohibits discrimination by employers, in compensation and employment opportunities, against qualified individuals with
+disabilities who, with or without reasonable accommodation, can perform the “essential functions” of a job. A function may be essential for any of several
+reasons, including: the job exists to perform that function, the employee holding the job was hired for his/her expertise in performing the function, or only a
+limited number of employees are available to perform that function. Feeling your best helps you do your best: Our benefits take care of the whole you—so you can
+build your work around your life (not the other way around!). Comp

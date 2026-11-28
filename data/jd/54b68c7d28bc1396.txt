@@ -1,0 +1,32 @@
+Overview
+Our Machine Learning Engineering Internship is a 10-week immersive experience designed for students who are passionate about building the systems at the
+intersection of machine learning, large-scale data, and markets.
+As a Machine Learning Engineering Intern, you'll work on high-impact projects that closely reflect the challenges and workflows of our full-time engineering
+team. You'll apply your software engineering skills to real machine learning systems while developing a deep understanding of how machine learning integrates
+into Susquehanna's research and trading systems. A model is useful only if it can be trained quickly, fed reliably, and run fast enough to act on - our
+engineers own the systems that make that true, and we scope intern projects the same way.
+Susquehanna's proprietary datasets and computing infrastructure - including a rapidly growing cluster of thousands of high-end GPUs - support computationally
+intensive training, simulation, and rapid experimentation. Engineering teams here are small and highly collaborative, ideas are debated openly, and work that
+proves out reaches production quickly.
+What You Can Expect
+- Build and optimize training pipelines that run across our GPU infrastructure, including distributed training for large models
+- Work on inference and deployment — the latency, throughput, and cost of models running in production trading systems
+- Develop the data infrastructure behind our research, moving large and noisy market datasets through ingestion, storage, and transformation
+- Profile and benchmark machine learning workloads, and contribute to the internal libraries and open-source tools our researchers rely on every day
+- One-on-one mentorship from experienced engineers and researchers
+- Participate in a comprehensive education program with deep dives into Susquehanna's ML, quant, and trading practices
+- No prior finance background required
+What We're Looking For
+- Currently pursuing a Bachelor's, Master's, or PhD in computer science, machine learning, electrical engineering, mathematics, physics, statistics, or a
+related technical field. Intention to graduate and begin full time employment by August 2028
+- Strong programming skills in Python, working comfort in a systems language such as C++, a plus
+- Hands-on experience with machine learning frameworks such as PyTorch or JAX that goes beyond calling the API - training at scale, extending a library, or
+making an existing workflow measurably faster
+- Exposure to the systems machine learning runs on: distributed training, GPU programming, orchestration, or large-scale data processing. We're more interested
+in what you did with a tool and what it changed than in seeing it named on a list
+- Experience with GPU kernel programming in CUDA, Triton, or CuTe DSL
+- Solid computer science fundamentals: data structures, algorithms, concurrency, and an understanding of how software behaves on real hardware
+- A project, system, or open-source contribution you can walk through in detail - what you designed, what you decided, and what you specifically did
+- Deep interest in solving complex problems and a drive to innovate in a fast-paced, competitive environment
+If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed
+agreement will not be eligible for an agency fee.

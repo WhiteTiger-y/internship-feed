@@ -1,0 +1,60 @@
+Job Description
+As an AI Innovation Intern, you will be immersed in a dynamic, innovative environment where you can apply your academic knowledge to real-world challenges. This
+position offers the opportunity to explore enterprise AI enablement under the mentorship of experienced professionals, gaining hands-on experience supporting
+responsible AI adoption, use case intake and prioritization, enablement content, and basic value/impact measurement. Ideal candidates are pursuing a degree in
+Computer Science, Data Science, Information Systems, Business Analytics, or a related field and are passionate about helping teams apply AI tools safely and
+effectively.
+Responsibilities
+- Working with a technical mentor, provide support for key strategic projects.
+- Support AI enablement initiatives by helping document and organize enterprise AI use cases, including basic intake details, objectives, stakeholders, and
+expected outcomes.
+- Assist in gathering and synthesizing data to support AI adoption and value tracking (e.g., usage trends, qualitative feedback, simple time-saved or quality
+proxy measures).
+- Help develop and refine enablement materials such as quick-start guides, FAQs, office-hours content, and “safe-use” reminders aligned to internal guidance.
+- Contribute to lightweight testing of AI solutions and workflows (e.g., prompt patterns, failure mode identification, and documentation of recommended
+practices) under supervision.
+- Provide ad hoc project work support as needed.
+- All Interns will participate in pre-planned intern events such as Senior Leader Meetings, Goal Setting, Team Building, Tour, and Final Presentations.
+Core Competencies To Be Successful
+- Technical and problem-solving skills.
+- Ability to effectively communicate and organize across levels and departments.
+- Strong ability to concisely and logically deliver analyses and proposals.
+- Strong initiative to seek out information and solutions.
+- Strong focus on quality and timely work.
+- Excellent verbal and written communication skills.
+Qualifications
+- Current student in, or recent graduate of, a Computer Science, Data Science, Statistics, Mathematics, or other STEM-related program.
+- Basic understanding of AI concepts, including generative AI and common limitations/risks (e.g., hallucinations, bias, privacy considerations).
+- Familiarity with productivity and analytics tools (e.g., Excel), and exposure to data querying languages such as SQL; familiarity with Python or similar
+scripting tools is a plus.
+- Ability to work independently and to exercise strong technical judgment.
+- Excellent problem solving and trouble-shooting skills.
+ADA Physical/Mental/Workplace Requirements
+- Occasional lifting up to 25 lbs.
+- Sitting, working at desk/personal computer for extended periods of time.
+- Primary work environment is within a corporate office setting.
+- Ability to travel commercially and internationally.
+The Salary Range For This Role Is
+$19.00- $32.00 an hour
+This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. We may ultimately pay more or less than
+the posted range, and the range may be modified in the future. An employee’s pay position within the salary range will be based on several factors including,
+but limited to, the prevailing minimum wage for the location, relevant education, qualifications, certifications, experience, skills, seniority, geographic
+location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs.
+We offer comprehensive package of benefits including paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any
+bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid
+and may be modified at the Company’s sole discretion, consistent with the law
+Location
+Rochester, New York
+Additional Locations
+Chicago, Illinois
+Job Type
+Full time
+Job Area
+Internships
+Equal Opportunity
+Constellation Brands is committed to a continuing program of equal employment opportunity. All persons have equal employment opportunities with Constellation
+Brands, regardless of their sex, race, color, age, religion, creed, sexual orientation, national origin or citizenship, ancestry, physical or mental disability,
+medical condition (cancer or genetic characteristics), marital status, gender (including gender identity or gender expression), familial status, military or
+veteran status, genetic information, pregnancy, childbirth, breastfeeding, or related conditions (or any other group or category within the framework of the
+applicable discrimination laws and regulations).

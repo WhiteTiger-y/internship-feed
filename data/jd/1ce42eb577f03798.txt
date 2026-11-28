@@ -48,8 +48,8 @@ theoretical/mathematical analysis, user studies, experimental design, ethnograph
 - Key toolkits, if applicable: web development (e.g., JavaScript, React.js, D3.js, etc.), analytic toolsets (e.g., R, Python, etc.), etc.
 - If appropriate, a link to any online code repositories (e.g., GitHub, OSF, Hugging Face)
 - Any researchers you are particularly interested in working with (and explain why in one sentence)
-To submit your cover letter, please navigate to the Action Center in your Careers Profile. You can upload other documents under the “Resume Manager” tab in the
-top right.
+To submit your cover letter, please navigate to your profile on the Careers site. You can upload other documents under the “Resume Manager” tab in the top
+right.
 Preferred Qualifications
 - Demonstrated ability to conduct original research.
 - Ability to collaborate effectively with other researchers and product development teams.
@@ -62,4 +62,4 @@ Certain roles may be eligible for benefits and other compensation. Find addition
 intern-pay
 Microsoft accepts applications and processes offers for these roles on an ongoing basis throughout the academic calendar (September - April).
 This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
-Microsoft is an equal opportunity employer. All q
+Microsoft is an equal opportunity employer. All qualified 

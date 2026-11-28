@@ -1,0 +1,52 @@
+Position Summary
+This role is not eligible for immigration sponsorship
+Headquartered in Englewood Cliffs, N.J., Samsung Electronics America, Inc. (SEA), the U.S. Sales and Marketing subsidiary, is a leader in mobile technologies,
+consumer electronics, home appliances, enterprise solutions and networks systems. For more than four decades, Samsung has driven innovation, economic growth and
+workforce opportunity across the United States—investing over $100 billion and employing more than 20,000 people nationwide. By integrating our large portfolio
+of products, services and AI technology, we’re creating smarter, sustainable and more connected experiences that empower people to live better. SEA is a wholly
+owned subsidiary of Samsung Electronics Co., Ltd. To learn more, visit Samsung.com. For the latest news, visit news.samsung.com/us.
+The Care – MX, Strategic Planning team at Samsung Electronics America is dedicated to delivering America’s best customer service, operational excellence, and
+data-driven strategy for Samsung's flagship mobile ecosystem.
+As a Business Intelligence & Data Analytics Intern, you will partner directly with business leaders and operational teams to transform complex customer service
+and operational data into actionable strategic insights. During this 10-week summer internship, you will lead a capstone analytics project focused on designing,
+developing, and deploying automated Power BI dashboards and robust SQL data models. You will evaluate key performance indicators (KPIs), identify operational
+bottlenecks, and explore machine learning/AI techniques to improve service performance, streamline business reporting, and uncover cost-saving opportunities. At
+the end of the internship, you will present your findings and strategic recommendations directly to executive leadership.
+The Care – MX, Strategic Planning team at Samsung Electronics America is dedicated to delivering America’s best customer service, operational excellence, and
+data-driven strategy for Samsung's flagship mobile ecosystem.
+As a Business Intelligence & Data Analytics Intern, you will partner directly with business leaders and operational teams to transform complex customer service
+and operational data into actionable strategic insights. During this 10-week summer internship, you will lead a capstone analytics project focused on designing,
+developing, and deploying automated Power BI dashboards and robust SQL data models. You will evaluate key performance indicators (KPIs), identify operational
+bottlenecks, and explore machine learning/AI techniques to improve service performance, streamline business reporting, and uncover cost-saving opportunities. At
+the end of the internship, you will present your findings and strategic recommendations directly to executive leadership.
+Role And Responsibilities
+- Data Querying & Management: Advanced proficiency in SQL for extracting, cleansing, aggregating, and organizing complex datasets from relational databases and
+cloud data warehouses.
+- Business Intelligence & Data Visualization: Strong hands-on experience designing intuitive, interactive dashboards and automated reports in Microsoft Power BI
+(including DAX and Power Query) and/or Tableau.
+- Advanced Data Analysis & Scripting: Strong skills in Python or R (utilizing libraries such as Pandas, NumPy, Scikit-learn) for exploratory data analysis, data
+manipulation, and predictive analytics.
+- Familiarity with Enterprise Data Platforms: Understanding of data warehousing principles, ETL/ELT pipelines, and familiarity with enterprise systems (e.g.,
+SAP, ERP environments) or cloud environments (AWS, Azure, GCP) is a strong plus.
+- Demonstrated experience in building end-to-end BI solutions—from raw data extraction to front-end executive visualizations.
+- Strong problem-solving mindset with the ability to structure ambiguous business problems into measurable, data-driven analytical frameworks.
+- Excellent written and verbal communication skills, with proven ability to present complex technical findings and strategic insights to non-technical
+stakeholders and leadership.
+- High attention to detail, strong organizational skills, and a proactive, collaborative approach to teamwork.
+- Prior internship or professional experience in business intelligence, operations analytics, or data science is highly desirable.
+Skills And Qualifications
+Academic Major Preferred: Master's
+Master of Science in Data Analytics, Business Analytics, Artificial Intelligence, Computer Science, Statistics, or related STEM discipline.
+- Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page.
+If you are European Economic Resident, please click here.
+At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone
+belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and
+communities.
+- Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all
+individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected
+veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.
+Reasonable Accommodations for Qualified Individuals with Disabilities During the Application Process
+Samsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If
+you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation
+Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general
+employment inquiries.

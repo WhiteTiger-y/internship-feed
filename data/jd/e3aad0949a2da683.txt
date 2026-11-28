@@ -1,0 +1,42 @@
+2027 Summer Intern - AI for Drug Discovery Department Summary The Foundation Models team is seeking exceptional graduate interns with strong research experience
+in machine learning (ML) and a passion for applying advanced algorithms to scientific discovery. Our team develops state-of-the-art generative models,
+autonomous scientific agents, and foundational ML methods to accelerate drug design. Autonomous agents increasingly run long scientific workflows in which they
+must decide, round after round, whether to continue a promising strategy, explore a new one, stop an unproductive experiment, or revisit an earlier hypothesis.
+Yet we know little about whether these agents learn from experimental evidence the way a good scientist would. This internship will study that question
+rigorously, using real multi-round drug discovery campaigns. The intern will test whether agents make decisions for the right scientific reasons: whether they
+learn across rounds, distinguish strong evidence from weak or confounded evidence, and account for epistemic uncertainty from limited knowledge and aleatoric
+uncertainty from inherent outcome variability. They will also study how different representations of prior experience (raw history, compaction, structured
+summaries, self-reflection) shape this behavior. A central open question is which failures can be addressed through how evidence is presented to the agent, and
+which require changing the model itself through post-training, and how to tell the two apart in a principled way. Intern candidates should have a strong
+interest in LLM agents, evaluation methodology, decision-making under uncertainty, and post-training. The ideal intern is comfortable conducting independent
+research, rapidly prototyping ideas, and collaborating with multidisciplinary scientists. This internship position is located in South San Francisco, on-site.
+The Opportunity Design and build a benchmark of real and controlled counterfactual decision points from multi-round scientific design campaigns Develop
+quantitative metrics for decision quality under varying evidence strength, uncertainty, and cost Characterize recurring agent failure modes and develop a
+principled method for deciding whether each is best addressed through harness or context changes or through post-training Explore post-training (e.g.,
+supervised fine-tuning on historical trajectories and counterfactual examples) of smaller specialized models, and compare against prompting and context-
+engineering baselines on held-out targets Develop well-documented, reproducible evaluation and training code and curated datasets, and present results for
+potential publication at internal or external scientific conferences or workshops. Program Highlights Intensive 12-week, full-time (40 hours per week) paid
+internship. Program start dates are May/Summer (Summer). A stipend, based on location, will be provided to help alleviate costs associated with the internship.
+Who You Are Required Education Must be pursuing a PhD (enrolled student). Required Majors: Computer Science, Engineering, Statistics, Applied Mathematics,
+Computational Biology, Computational Chemistry, Physics, or related technical field. Required Skills Strong publication record or evidence of impactful research
+contributions (e.g., NeurIPS, ICML, ICLR, AISTATS, TMLR). Proficiency in Python and modern ML frameworks (PyTorch, JAX, Hugging Face). Experience in at least
+one of the following areas: LLM agents, tool use, or agent evaluation and benchmarking. Post-training of language models (e.g., SFT, RLHF, RLVR). Sequential
+decision-making, Bayesian optimization, active learning, or uncertainty quantification. Preferred Skills Experience with agent memory and context management
+(e.g., summarization, compaction, self-reflection). Familiarity with protein design, structural biology, or drug discovery applications. Background in
+experimental design, causal reasoning, or counterfactual evaluation. Contributions to open-source ML frameworks or reproducible research environments. Excellent
+communication, collaboration, and interdisciplinary working skills Complements our culture and the standards that guide our daily behavior & decisions:
+Integrity, Courage, and Passion. Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary
+location of California is $47.00-$52.00 per hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related
+factors permitted by law. This position also qualifies for paid holiday time off benefits. Genentech is an equal opportunity employer. It is our policy and
+practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's
+policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities
+status, and consistent with all federal, state, or local laws. If you have a disability and need an accommodation in relation to the online application process,
+please contact us by completing this form Accommodations for Applicants. Who We Are Genentech, a member of the Roche group and founder of the biotechnology
+industry, is dedicated to pursuing groundbreaking science to discover and develop medicines for people with serious and life-threatening diseases. To solve the
+world's most complex health challenges, we ask bigger questions that challenge our industry and the boundaries of science to transform society. Our
+transformational discoveries include the first targeted antibody for cancer and the first medicine for primary progressive multiple sclerosis. The next step is
+yours. To apply today, click on the "Apply for this job" button. Genentech is an equal opportunity employer. It is our policy and practice to employ, promote,
+and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful
+discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with
+all federal, state, or local laws. If you have a disability and need an accommodation in relation to the online application process, please contact us by
+completing this form Accommodations for Applicants.

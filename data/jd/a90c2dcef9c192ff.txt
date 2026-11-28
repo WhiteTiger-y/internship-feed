@@ -1,0 +1,27 @@
+We are looking for a software engineer with a strong background in parallel processing and GPU architecture to push the limits of performance at the
+intersection of AI, high-performance computing, and financial markets. In this role, you will dive deep into parallel algorithms, GPUs, and sophisticated
+systems, identifying and eliminating bottlenecks to unlock the full power of the world’s most advanced processing hardware. You will collaborate with top
+experts across industry and academia, influence next-generation platforms, and share your insights with the global developer community. Do you enjoy solving
+hard technical problems, love performance tuning, and want your work to have a visible impact across an entire industry? If so, we'd love for you to consider
+this role. What you will be doing: ● Designing and developing groundbreaking techniques to accelerate high-performance workloads at the intersection of AI,
+math, and financial systems. ● Working hands-on with leading technical experts to analyze, optimize, and scale complex AI and HPC workloads for modern CPU and
+GPU architectures. ● Profiling and eliminating performance bottlenecks across the stack—from algorithms to kernels to system-level behavior. ● Publishing and
+presenting your work in conferences, talks, and blogs to educate and inspire the broader developer community. ● Influencing the design of future hardware
+architectures, system software, libraries, and programming models by collaborating closely with NVIDIA research, hardware, compiler, and tools teams. What we
+need to see:  ● Pursuing a Master’s or PhD degree in Computer Science, Computer Engineering, or Electrical and Computer Engineering or related field. ● Relevant
+work or research experience. ● Experience with low-level parallel programming (e.g., CUDA). ● Deep understanding of CPU/GPU architecture fundamentals and how
+they impact performance. ● Fluency in C/C++ and solid foundations in algorithms and software design. ● Experience improving the performance of large-scale
+computational applications on GPUs. ● Good understanding of linear algebra. ● Strong communication and organization skills, with a logical approach to problem
+solving and solid prioritization abilities. Ways to stand out from the crowd: ● Prior internship experience in a related field. ● Experience with inference
+optimization techniques and deploying optimized AI models in production. ● Experience with TensorRT, TensorRT-LLM, and cuTile. ● Background in capital markets
+with exposure to systematic/algorithmic strategies or quantitative trading. ● Experience parallelizing and optimizing machine learning methods such as decision
+trees, time series models, and Monte Carlo simulations. ● Knowledge of financial data models, pricing and risk simulation algorithms, portfolio optimization, or
+other finance-focused applications and services. NVIDIA is widely considered to be one of the technology world’s most desirable employers with some of the most
+forward-thinking, inventive, and hardworking people working here - we need your help to build our future. Are you creative, ambitious, and love challenges? We
+want to hear from you! Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected
+hourly rate for this position is 20 USD – 86 USD. You will also be eligible for Intern benefits. Applications for this job will be accepted at least until
+November 29, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work
+environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including
+in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital
+status, veteran status, disability status or any other characteristic protected by law. NVIDIA pioneered accelerated computing. Today, our AI infrastructure
+powers global intelligence, transforming every industry. Learn more about NVIDIA.

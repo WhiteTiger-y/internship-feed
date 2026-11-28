@@ -1,0 +1,49 @@
+Overview
+Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized
+scientists and engineers, who pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including
+computing, healthcare, economics, and the environment.
+You'll join the Compute System Architecture (CSA) team in the System Planning and Architecture (SPARC) organization, part of Azure Hardware Systems &
+Infrastructure (AHSI). CSA evaluates new server technologies for Azure across compute, memory, storage and interconnect.
+We're looking for a Research Intern to study memory pooling and sharing with Compute Express Link (CXL). Pooling memory across servers can improve memory use
+and let applications on different servers share data. You'll run workloads on CXL memory pools in our lab and measure how operating systems, file systems and
+applications perform. You'll then document the tradeoffs to help shape future Azure platforms.
+Responsibilities
+Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world’s best researchers, Research Interns learn,
+collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides.
+During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present
+findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though
+they typically begin in the summer.
+Additional Responsibilities
+- Set up and characterize CXL memory pools: latency, bandwidth, and behavior when multiple hosts compete for the pool.
+- Run and profile memory-intensive workloads, such as in-memory databases and analytics, on pooled and shared memory. Compare their performance and cost with
+local DRAM.
+- Evaluate how operating-system, file-system and application choices affect performance, keeping shared data consistent across hosts, and reliability. Examples
+include memory tiering, data placement, and memory-mapped and shared-memory interfaces.
+- Prototype software and configuration optimizations and recommend joint hardware/software design changes.
+- Work with workload owners across Microsoft and with industry partners. Document and present your findings, with opportunities to publish.
+Qualifications
+Required Qualifications
+- Currently enrolled in a Doctorate Degree program in Computer Science, STEM, or a relevant field.
+Other Requirements
+- Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.
+- In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant
+work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference
+letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates.
+You may wish to alert your letter writers in advance, so they will be ready to submit your letter.
+Preferred Qualifications
+- Research experience in computer architecture, memory systems, operating systems or databases; publications at top venues are a plus.
+- Hands-on experience with CXL, tiered or disaggregated memory, or NUMA performance tuning.
+- Proficient in C/C++ and Python; experience with Linux memory management or kernel work.
+- Experience with performance tools such as perf, VTune or Intel Memory Latency Checker, and with workload benchmarking.
+- Clear communication, curiosity and a bias for hands-on experimentation.
+The base pay range for this internship is USD $6,810 - $13,480 per month. There is a different range applicable to specific work locations, within the San
+Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $8,920 - $14,610 per month.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-
+intern-pay
+Microsoft accepts applications and processes offers for these roles on an ongoing basis throughout the academic calendar (September - April).
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship,
+color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin,
+physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual
+orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations
+and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

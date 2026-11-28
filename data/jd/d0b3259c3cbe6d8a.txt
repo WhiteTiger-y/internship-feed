@@ -1,0 +1,27 @@
+Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries
+of American Financial Group. We combine a "small company" culture where your ideas will be heard with "big company" expertise to help you succeed. With over 30
+specialty and property and casualty operations, there are always opportunities here to learn and grow. At Great American, we value and recognize the benefits
+derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees
+feel included, empowered, and enabled to perform at their best. P&C IT Services provides professional services to help our business units and corporate
+functions use technology to create, manage, and optimize information and business processes. IT Services can include a wide range of activities such as:
+software development, data management, Cloud services, IT security, network security, technical support, establishing and overseeing access rights, procuring
+and maintaining equipment or software, managing the infrastructure, and defining security procedures, The overall goal of IT Services is to provide technology
+solutions that increase efficiency, reduce costs, and give our company a competitive advantage over our competitors. Great American’s culture is built on
+connection, shared learning, and strong relationships. This is a hybrid role that combines in-office and remote work. Employees are expected to maintain a
+meaningful on-site presence to support collaboration, relationship building, and business success. The Master Data Management team is seeking a Data Engineering
+Intern for summer 2027. This is an opportunity to gain hands-on experience in position with exposure to many different platforms and technologies. The intern
+will also have shadowing and training experiences with knowledgeable professionals, and the opportunity to attend networking events and company meetings.
+Responsibilities: AI-facilitated data profiling and data analysis Broker good data management via setup of data quality rules and related data models Implement
+best practices within master data management (Informatica) and reference data management (Kalido) Development and coding with scripting (e.g. Python), database
+PL/SQL, and stored procedures Varied weekly assignments with exposure to additional technologies (e.g. Snowflake database, GitHub CI/CD,…) Requirements: Ability
+to work in the office at minimum three days a week. Education: Pursuing a degree in Computer Science, Computer Engineering, Information Technology, Information
+Systems, or related 2028 graduation year preferred 3.0 GPA Experience/skills: Strong verbal and written communication Excellent analytical and problem-solving
+skills Ability to work well in teams Strong initiative, work ethic, and attention to detail Willingness to learn data migration processes, internal support
+tools, and new technologies Business Unit: Property & Casualty IT Services Benefits: Compensation varies by role, position level, and location. Individual pay
+is influenced by skills, education, training, certifications, experience, and the role's scope and complexity, along with business needs. Your recruiter can
+provide more details about specific compensation ranges during the hiring process. Great American Insurance Group understands the importance of choosing a
+financially strong company. We are an organization built for the long term and are committed to giving you that strength. Why can you trust Great American
+Insurance Group? For nearly 150 years, Americans have trusted us to protect them. Our innovative insurance solutions and specialization serves niche
+marketplaces that we know well. This expertise gives us a successful foundation that spans generations. You never know where a career in insurance will take
+you. Whether you are starting your career or are looking for a company to grow your experience, at Great American Insurance Group, you can join our more than
+8,500 employees to “Be Here. Be GREAT!” To learn more, visit our Career Page

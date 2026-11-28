@@ -1,0 +1,35 @@
+Job Description At Revelyst Adventure Sports, our purpose is to amplify Impact by bringing together iconic brands on one powerful platform. Through industry-
+leading brands including Fox Racing, Bell, Giro, CamelBak, and Blackburn, we create products, experiences, and innovations that inspire people to ride, race,
+explore, and push their limits outdoors. We are seeking an IT (Business Intelligence) AI Process Innovation Intern to join our team for a 90-day paid summer
+internship beginning June 1, 2027. This intern will support innovation program focused on governed data analysis, reporting, dashboard development, and AI-
+assisted business intelligence workflows. The intern will partner with IT, Business Intelligence, business stakeholders, and the Program Administrator to
+translate reporting needs into documented requirements, trusted datasets, prototypes, dashboards, and reusable analytical solutions. This position reports to
+the Vice President of Transformation and is based out of our Irvine, CA headquarters. As the IT (Business Intelligence) AI Process Innovation Intern, you will
+have an opportunity to: Interview business users, analysts, and data owners to understand reporting needs, data sources, metrics, definitions, recurring
+analyses, and decision points. Document current-state and future-state reporting workflows, data lineage, business rules, transformations, dependencies, and
+access requirements. Assist with data profiling, cleansing, validation, modeling, reconciliation, and preparation using approved systems and non-production or
+authorized data. Develop proof-of-concept dashboards, reports, semantic models, queries, AI-assisted analytical workflows, documentation, or lightweight
+applications. Identify opportunities where AI can summarize trends, classify requests, generate narratives, detect exceptions, document metadata, or improve
+report development while maintaining human review. Partner with IT to follow approved architecture, source-control, data classification, security, privacy,
+retention, monitoring, and role-based access requirements. Validate metrics, calculations, filters, data quality, performance, and usability with business and
+technical subject matter experts. Create technical documentation, data dictionaries, test results, user guidance, handoff materials, and measurable benefit
+statements. You have: Currently pursuing a degree or recent academic experience in information systems, business intelligence, data analytics, computer science,
+statistics, engineering, or a related field. Interest in business intelligence, data visualization, analytics, artificial intelligence, automation, and
+enterprise problem solving. Working knowledge of spreadsheets, relational data, data visualization, structured requirements, and analytical methods. Ability to
+learn new systems quickly and translate business questions into defined metrics, data requirements, and prototype concepts. Strong written and verbal
+communication skills with the ability to explain data and technical concepts to non-technical audiences. Strong attention to detail, logical reasoning,
+accountability, and willingness to work in a cross-functional team environment. Pay Range: Starting Hourly Rate: $35.00 The actual annual salary offered to a
+candidate will be based on variables including experience, geographic location, education, and skills/achievements, and will be mutually agreed upon at the time
+of offer. We offer a highly competitive salary, comprehensive benefits including: medical and dental, vision, disability and life insurance, 401K, PTO, paid
+holidays, gear discounts and the ability to add value to an exciting mission! Our Postings are not intended for distribution to or use in any jurisdiction,
+country or territory where such distribution or use would violate local law or would subject us to any regulations in another jurisdiction, country or
+territory. We reserve the right to limit our Postings in any jurisdiction, country or territory. Equal Opportunity Employer Protected Veteran/Disabled Revelyst
+is a collective of makers that design and manufacture performance gear and precision technologies. Our category-defining brands leverage meticulous
+craftsmanship and cross-collaboration to pursue new innovations that redefine what is humanly possible in the outdoors. Portfolio brands include Foresight
+Sports, Bushnell Golf, Fox, Bell, Giro, CamelBak, Bushnell, Simms Fishing and more. Revelyst is an equal opportunity employer. All applicants are considered for
+employment without regard to race, color, sex (including pregnancy and related conditions, sexual orientation, or transgender status), national origin,
+religion, age (40 and older), equal pay, disability or genetic information (including family medical history or genetic tests or services), and retaliation for
+filing a charge, reasonably opposing discrimination, or participating in a discrimination lawsuit, investigation, or proceeding, and any other characteristics
+protected by law. The EEO Law poster is available here: https://www.eeoc.gov/poster. If you need a reasonable accommodation because of a disability for any part
+of the employment process, please send an e-mail to careers@revelyst.com. Please note that this email address is for accommodation purposes only. Revelyst will
+not respond to inquiries for other purposes.

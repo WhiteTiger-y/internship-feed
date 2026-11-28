@@ -1,0 +1,32 @@
+Introduction
+Join the pioneering AI Foundations Research team at IBM Research and contribute to shaping the future foundations of artificial intelligence. Our group of
+scientists, engineers, and designers is dedicated to conducting end-to-end research that delivers real-world AI impact through a rigorous, responsible, and open
+innovation framework. We are the team behind IBM's Granite open-source models, and our work spans multi-modal (vision, speech, language, code) and multi-lingual
+systems, data quality, data generation, novel model architectures, training recipes, governance and trustworthiness, and programming models for interacting with
+models. As an intern, you will explore cutting-edge research areas, including new algorithms for training, fine-tuning, reinforcement learning, and inference
+time scaling, alongside pioneering work in generative computing and generative programming for language, code, and other modalities, all within a collaborative
+environment that bridges fundamental science and transformative engineering.
+Your Role And Responsibilities
+As an AI Research Scientist Intern, you will engage in the full research lifecycle to pioneer new advancements in artificial intelligence. Your role will
+involve identifying core challenges, designing novel prototype solutions, and validating them through rigorous experimentation. You will conduct foundational
+research in critical areas such as novel training algorithms, efficient fine-tuning, reinforcement learning, and inference-time scaling for multi-modal models.
+Collaborating in small, mentored teams, you will be responsible for shepherding projects from ideation to completion. A key objective is to disseminate
+significant results through publications in leading conferences and patent applications, contributing to both the academic community and IBM's open innovation
+initiatives.
+Preferred Education
+Master's Degree
+Required Technical And Professional Expertise
+- Research Experience with Modern ML: Hands-on experience with and a deep theoretical understanding of Large Language Models (LLMs), Vision-Language Models
+(VLMs), and Transformer-based architectures.
+- Strong Programming & Prototyping Skills: Proficiency in Python for rapid prototyping, experimental setup, and implementing large-scale machine learning
+systems.
+- Rigorous Analytical & Problem-Solving Abilities: Demonstrated strength in quantitative analysis, designing experiments, and deconstructing complex research
+problems.
+- Proven Research & Communication Skills: A track record of innovation (evidenced by peer-reviewed publications or strong preprints) and the ability to clearly
+articulate complex technical concepts in both writing and presentations.
+- Collaborative Research Mindset: A team-oriented approach with a commitment to rigorous, reproducible, and well-documented research practices.
+Preferred Technical And Professional Experience
+- Research Excellence: Strong publication record in top-tier conferences (e.g., NeurIPS, ICML, ICLR, CVPR, AAAI).
+- Technical Proficiency: Advanced expertise in ML frameworks (PyTorch) and full-cycle development of algorithms and systems.
+- Specialized Skills: Hands-on experience with generative AI (LLMs) and multimodal models, from training to testing.
+- Communication: Demonstrated ability to present complex research and build high-impact technical demonstrations.

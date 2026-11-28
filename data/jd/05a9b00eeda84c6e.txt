@@ -1,0 +1,45 @@
+BI & AI Analyst Intern Chicago, IL (Hybrid) | 2027 Internship | Summer 2027 | 40hrs/week Reports to: Manager, BI & AI Solution About the Role Camping World and
+Good Sam are rolling out AI across the company. That includes the AI tools used across the business and the AI agents our team builds and supports. We want to
+know who is using them, how often, what they use them for, and whether they are helping the business. As a 2027 BI & AI Analyst Intern, you will help build the
+reporting that answers those questions. The role combines BI, data, and AI work. You will pull and prepare usage data in Snowflake, build Data Analytics
+dashboards on AI adoption and agent performance, and share what you find with stakeholders and leadership. What You'll Do Data Analytics dashboards that track
+use of AI tools and agents by department and location A set of adoption metrics such as active users, usage frequency, top use cases, and retention over time,
+each with a documented definition Agent performance reporting on measures like accuracy, resolution rate, escalation rate, and cost to serve, built with the
+teams that run those agents Simple value and ROI estimates for AI initiatives, such as time saved or cost avoided A final readout on AI adoption across the
+company that you will present to the team and to leadership Key Responsibilities Write and troubleshoot SQL in Snowflake to pull, clean, and validate AI usage
+and agent data Work with our AI engineers to understand what usage and log data each tool or agent produces and where it is stored Help define adoption and
+usage KPIs and document how each one is calculated Build and maintain Data Analytics dashboards, and review drafts with business users to get their feedback
+Look for adoption trends, such as which teams use AI tools, which teams do not, and where usage drops off, and share what you find Support ROI and business
+value analysis for AI tools and agents with help from senior team members Write short summaries and presentations of your analysis for business stakeholders
+Find and document data quality issues and escalate them when needed Use approved AI tools for your own analysis, documentation, and SQL What You'll Learn How to
+measure AI adoption and agent performance at a large company How to work with enterprise data in Snowflake and build actionable reports that people use How to
+write KPI definitions that every team reads the same way How to build a simple ROI case and explain the assumptions behind it How to present findings to
+stakeholders and leadership in a short, clear format What You'll Need to Have for the Role: Required Currently pursuing or recently completed a degree in
+Business, Data Analytics, Information Systems, Computer Science, Statistics, or a related field Working knowledge of SQL from coursework, projects, or prior
+internships Basic familiarity with a BI tool or willingness to learn quickly Comfortable using data and spreadsheets to answer business questions Good written
+and verbal communication, including explaining numbers to people who don't work with data every day Careful with details and checks work before sharing it
+Interest in AI tools and how companies adopt them Preferred Exposure to Snowflake or another cloud data warehouse Experience using AI assistants for school or
+work Coursework or projects involving KPI design, product analytics, or user adoption metrics Familiarity with Python for data analysis Basic understanding of
+how AI agents or chatbots work and how their quality is measured A portfolio of dashboards or analysis projects Education & Experience Undergraduate or graduate
+student in Business, Data Analytics, Information Systems, Computer Science, Statistics, or a related field, or a recent graduate. Class projects, case
+competitions, and prior internships all count. We will consider a strong portfolio of dashboards or analysis regardless of major. No professional experience
+required. How You'll Work You will work within BI & AI Solutions with the AI engineers who build our agents, the data teams who own the underlying data, and the
+business users who rely on AI tools in their daily work. Your projects will be scoped at the start with clear goals, and the team will meet with you regularly
+to review your dashboards and findings. You will own your analysis and be expected to move it forward, and you can ask for help at any time. Hybrid out of
+Chicago 3 days per week. Why This Role Camping World and Good Sam are a $6B+ enterprise with 180+ locations, and the company is investing in AI across the
+business. Leadership wants to know which AI efforts are paying off. Your dashboards and findings will help answer that question and will be used by stakeholders
+across the business. Department BI & AI Solutions Reports To Manager, BI & AI Solutions Location Chicago, IL (Hybrid) Employment Type 2027 Internship Duration
+10 weeks, June 7th-August 13th Hours 40 hours per week Camping World Holdings is an equal opportunity employer. General Compensation Disclosure The pay range
+for this role considers several factors in making compensation decisions including but not limited to skill sets; experience and training; licensure and
+certifications; and other business and organizational needs. At Camping World, it is not typical for an individual to be hired at or near the top of the range
+for their role and compensation decisions are dependent on the factors stated. A reasonable estimate of the current range is listed below. Pay Range: In
+addition to competitive pay, we offer Paid Time Off, 401(k), an Employee Assistance Program, Good Sam Roadside Assistance, discounts, paid parental leave (if
+eligibility is met), Tuition Reimbursement (if eligibility is met), and on the job training opportunities. Full-time associates are offered a comprehensive
+benefit package including medical, dental, vision and more! Part-time associates are offered access to dental & vision coverage! For more information please
+visit: www.mycampingworldbenefits.com We are an equal employment opportunity employer. The Company's policy is not to discriminate against any applicant or
+employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age (40 and over), disability, veteran or uniformed service-
+member status, genetic information, or any other basis protected by applicable federal, state, or local laws. Join our talent community! Camping World Holdings,
+Inc., headquartered in Lincolnshire, IL, (together with its subsidiaries) is America's largest retailer of RVs and related products and services. Our vision is
+to build a long-term legacy business that makes RVing fun and easy, and our Camping World and Good Sam brands have been serving RV consumers since 1966. We
+strive to build long-term value for our customers, employees, and shareholders by combining a unique and comprehensive assortment of RV products and services
+with a national network of RV dealerships, service centers and customer

@@ -1,0 +1,40 @@
+Title: Defense & Intel (D&I) - Computer Science Internship At KBR, we deliver science, technology and engineering solutions to governments and companies around
+the world. KBR employs approximately 37,000 people worldwide with customers in more than 85 countries and operations in over 28 countries. KBR is proud to work
+with its customers across the globe to provide technology, value-added services, and long-term operations and maintenance services to ensure consistent delivery
+with predictable results. Trinzic is the future independent company to be created through the planned spin-off of KBR's Mission Technology Solutions business,
+expected in January 2027. Our people work at the frontier of what is possible, delivering solutions in challenging environments and advancing some of the
+world's highest-priority national security and space missions.  Backed by decades of mission success, deep expertise, and trusted partnerships, Trinzic will
+launch as a global organization with more than 18,000 employees supporting customers around the world. Join us at a defining moment and help shape the future of
+a company built to tackle complex challenges and make a meaningful impact.  Candidates who join KBR's Mission Technology Solutions business before the spin-off
+will transition to Trinzic when the separation is complete and will not need to reapply for employment.  The Opportunity KBR is seeking highly motivated and
+talented students to join our Defense & Intel Internship Program for Summer 2027. This internship offers hands-on experience, professional development, and the
+opportunity to contribute to meaningful projects that support national security and advanced technology initiatives. Interns will work alongside experienced
+professionals on real-world assignments, gaining exposure to technical and operational challenges while building valuable skills and industry knowledge. Whether
+your interests are in engineering, software, cyber, data analytics, science, business, or mission operations, KBR provides an environment where you can learn,
+contribute, and grow. Why Join KBR? Mentorship from experienced subject matter experts. Cutting edge projects, relevant to real world challenges. Work in a
+collaborative and dynamic team environment. Networking opportunities with other technologists and executives. Competitive pay and great company culture. As a
+Defense & Intel – Computer Science Intern, you will: Build a Python-based pipeline that ingests requirement text (sanitized), scores it against rule sets
+(ambiguity, atomicity, verifiability), and produces dashboards Implement rules (e.g., weak words, passive voice) + simple ML classifier Create a scoring rubric
+and web dashboard (Streamlit/Dash) Export CSV/JSON for trace into models and test cases Dashboard and visualization development NLP and rule-based text
+analytics Selected interns for this paid opportunity will be provided with the opportunity to mentor with experienced professionals, gain experience and
+establish a name for themselves in this high demand career field. Required Skillset: Full-time rising junior, senior or graduate student pursuing a degree in
+Computer Science, Computer Engineering or Technical Related field. Proficient in Python, NLP (spaCy), regex, pandas, data viz; UX sensibility. Experience
+collaborating in Git/GitLab. Strong work ethics and interpersonal skills. Strong analytical and problem-solving skills. Excellent written and verbal
+communication skills. Work Schedule: Average 40 hours per week. 12 weeks in duration during the period of Summer 2027. Security Requirements: Security
+Clearance: Ability to obtain a U.S. Government Secret Security Clearance. Compensation: $18 - $35 per hour The offered rate will be based on the selected
+candidate’s location, degree type and area of study, and year in school. Belong, Connect and Grow at KBR At KBR, we are passionate about our people and our Zero
+Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is
+central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal
+opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual
+orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic
+protected by federal, state, or local law. Trinzic is the future independent company to be created through the planned spin-off of KBR's Mission Technology
+Solutions business, expected in January 2027. Our people work at the frontier of what is possible, delivering solutions in challenging environments and
+advancing some of the world's highest-priority national security and space missions. Backed by decades of mission success, deep expertise, and trusted
+partnerships, Trinzic will launch as a global organization with more than 18,000 employees supporting customers around the world. Join us at a defining moment
+and help shape the future of a company built to tackle complex challenges and make a meaningful impact Fraud Alert As Trinzic prepares to launch as an
+independent company through the planned spin-off of KBR's Mission Technology Solutions business, job seekers may encounter fraudulent recruiting activity that
+improperly uses the names, logos, or branding of either Trinzic or KBR. Bad actors may mix in fake job advertisements with legitimate postings. These ads can
+include contact instructions and require job seekers to send sensitive personal information or money to pay for visa applications, processing fees, etc., in
+exchange for consideration for a high-paying position.    Neither Trinzic nor KBR will ever ask for any sort of advance payment as part of the recruiting or
+hiring process. Candidate profiles are carefully managed to protect personal information.  If you experience fraud in a job offer, we encourage you to contact
+the KBR ethics hotline (fhoukbrcode@kbr.com) and report it to the Federal Trade Commission by clicking here.

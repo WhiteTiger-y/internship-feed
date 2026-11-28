@@ -1,0 +1,41 @@
+Job Title: 2027 Summer Intern NCES statistician expert in AI Grade: Intern Location: Cambridge, MA Duration: 10 - 12 weeks About the Job Looking to launch your
+career at the cutting edge of healthcare? Join Sanofi for a chance to develop with mentoring and guidance from inspirational leaders while helping to make an
+impact on the lives of countless people worldwide. We are seeking a highly motivated Summer Intern to join our NCES Statistician team. We are inviting
+applications for a summer intern (2027) focused on developing AI agents to support innovation in non-clinical biostatistical research. This internship will be
+supervised by experts from the Non-Clinical Efficacy & Safety Statistics team, offering a unique opportunity to work at the intersection of data science,
+artificial intelligence, and pharmaceutical research. Ready to grow your skills while helping shape the future of healthcare? At Sanofi, you’ll be empowered to
+learn, ask questions, and bring your ideas to life – all while supported by inspiring mentors and collaborative teams. About Sanofi We’re an R&D-driven, AI-
+powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative
+pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to
+improve people’s lives. Main Responsibilities Design, prototype, and evaluate AI agents to enhance automation and decision-making in non-clinical workflowso
+Collaborate with statisticians and digital scientists to identify impactful use cases and integrate AI solutions into research pipelines Document development
+processes and present findings to cross-functional teams About you Basic Qualifications: Currently enrolled and pursuing a bachelor’s degree or master's in
+Artificial Intelligence, Computer Science, Computer Engineering, Biostatistics, Bioinformatics, or related field at an accredited college or university with the
+expectation that you will complete your current degree by the Spring of 2028 Must be permanently authorized to work in the U.S. and not require sponsorship of
+an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM OPT usually require future
+sponsorship for long term employment and do not meet the Internal requirements for this program unless eligible for an alternative long-term status that does
+not require company sponsorship. Must be enrolled in an accredited college or university throughout the duration of the co-op/internship. Must be able to
+relocate to the office location and work 40hrs/week, Monday to Friday for the full duration of the co-op/internship. Hands-on experience building AI agents,
+including multi-agent systems or agent orchestration frameworks Familiarity with concepts such as Model Context Protocol (MCP) servers and integrating agents
+with chat-based interfaces (e.g., Claude Code, OpenAI Assistants) for scientific querying Proficiency in Python and experience with AI/ML libraries (e.g.,
+PyTorch, TensorFlow, LangChain , Hugging Face Transformers) Preferred Qualifications: Strong problem-solving skills and ability to work independently and
+collaboratively Interest in biomedical research, drug development, or translational science Why Choose Us Bring the miracles of science to life alongside a
+supportive, future focused team. Stretch your skills through apprenticeships, internships, graduate programs, and international experiences that grow with you.
+Learn from inspiring mentors and collaborative teams while contributing to real projects that shape the future of healthcare. Build your future with access to
+the latest tools, digital innovation, and continuous learning that keep you ahead of the curve. Compensation The salary range for this position is $38-47 USD
+hourly. All compensation will be determined commensurate with demonstrated experience. #LI-Onsite #vhd Pursue progress, discover extraordinary Better is out
+there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different
+locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people. Sanofi US endeavours to make our career
+center accessible to any and all users. If you are experiencing difficulty and need assistance applying online, please call 1-866-SANOFI2 (1-866-726-6342) or
+click here US and Puerto Rico Residents Only Sanofi Inc. and its U.S. affiliates are Equal Opportunity employers committed to a culturally inclusive workforce.
+All qualified applicants will receive consideration for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality;
+marital, domestic partnership or civil union status; sex, gender, gender identity or expression; affectional or sexual orientation; disability; veteran or
+military status or liability for military status; domestic violence victim status; atypical cellular or blood trait; genetic information (including the refusal
+to submit to genetic testing) or any other characteristic protected by law. We are an R&D driven, AI-powered biopharma company committed to improving people’s
+lives and creating compelling growth. Our team is guided by one purpose: we chase the miracles of science to improve people’s lives. We want to build a
+healthier, more resilient world, and turn the impossible into the possible by discovering, developing, and delivering medicines and vaccines for millions of
+people around the world. Discover more about us visiting www.sanofi.com or via our movie We are Sanofi Start a career that makes a difference. Reinvention is in
+our DNA. It’s what drove our evolution from a small French enterprise to one of the world’s leading biopharma companies. Whether it’s using AI to shorten drug-
+discovery times or building trust in healthcare, you could be helping our teams make life better for patients, partners, and communities. This is where you grow
+your career. We open the door for you to explore new opportunities, push your limits, and connect with people who are driven by a shared purpose: we chase the
+miracles of science to improve people’s lives.

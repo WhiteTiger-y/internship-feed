@@ -1,0 +1,69 @@
+Responsibilities
+"Business Risk Integrated Control (BRIC) is a global team protecting ByteDance users, platform health, and the authenticity of community and business
+ecosystems. We build the risk control algorithms, AI technologies, platforms, and infrastructure behind that work, across products including TikTok, CapCut,
+Lemon8, and Lark.
+Our work spans account and content integrity, and safety across advertising and e-commerce. We apply machine learning across areas such as graph learning,
+anomaly detection, and multimodal models to understand users, content, behavior, and the relationships between them. The challenge is recognizing genuine
+activity accurately, so the people using our products never notice the systems working.
+You will shape the trust, safety, and sustainable growth of ByteDance's global platforms, applying advanced AI to some of the hardest real-world problems in the
+field."
+Program Intern (Conversion-Oriented): for graduating students who are looking for full-time conversion as the primary objective.
+The TikTok Agentic Arch team is building AI-native engineering infrastructure that transforms how software is designed, built, and operated at TikTok scale. We
+research and deploy reliable long-horizon agents that can reason over large codebases, interact with complex tools and environments, and complete consequential
+engineering work across distributed production systems.
+Our environment provides a unique opportunity to advance agent research through real-world execution feedback.
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively
+contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry
+experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End
+date).
+Responsibilities:
+- Engine performance, continuously improved by Agents: Build agent workflows that profile the risk engine, identify performance bottlenecks (latency, CPU,
+memory, cost), propose and verify optimizations, and detect performance regressions. Explore RSI (Recursive Self-Improvement) loops — propose, benchmark,
+evaluate, iterate — so optimization becomes a sustained, closed-loop process rather than one-off tuning.
+- Proactive rule governance by Agents: Design agents that actively audit the rule base across its lifecycle — detecting redundant, conflicting, expired, or low-
+value rules, analyzing online impact, and generating safe change or decommission proposals with human-in-the-loop approval, rollback, and audit trails.
+- Agent platform and evaluation foundations: Contribute to the shared capabilities these agents depend on: tool use and workflow orchestration, evaluation
+benchmarks and guardrails, observability, and safety controls — and take prototypes to production landing with measurable impact.
+Qualifications
+Minimum Qualifications:
+- Currently pursuing a PhD in Computer Science, Artificial Intelligence, Machine Learning, Software Engineering, Data Science or a related technical discipline.
+- Solid programming skills, proficient in one of the languages (Python / Go / C++ / Java), with good software engineering practices.
+- Hands-on experience of building with LLMs/Agents is a big plus — e.g., tool and function calling, RAG, multi-step agent workflows, prompt and context
+engineering — through research, projects, or prior internships.
+- Strong foundation in machine learning and data analysis; rigorous experimental methodology — defining metrics, running controlled comparisons, and drawing
+defensible conclusions.
+- Strong sense of ownership, proactive, and effective in communication; able to work in an English-speaking, cross-functional environment.
+Preferred Qualifications:
+- Research or engineering experience in LLM agents, self-improving / self-evolving systems (RSI), automated code or performance optimization, program synthesis,
+or reinforcement learning; Publications at top venues are a plus.
+- Experience with large-scale backend or infrastructure systems — performance profiling and optimization, distributed systems, rule engines, feature / factor
+platforms, or risk control systems.
+- Experience building agent evaluation, observability, or safety / guardrail mechanisms for production LLM systems.
+- Open-source contributions, competition results, or prior research internships in related areas.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here:
+https://careers.tiktok.com/legal/privacy
+Job Information
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+The hourly rate range for this position in the selected city is $60- $60.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance,
+wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second
+half of year). Interns who are not working 100% remote may also be eligible for housing allowance.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los
+Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and
+negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+- Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+- Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems;
+and
+- Exercising sound judgment.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are
+in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect –
+and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards
+every day.
+We 

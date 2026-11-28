@@ -1,0 +1,37 @@
+About GlobalFoundries GlobalFoundries (GF) is a leading manufacturer of essential semiconductors, enabling AI at scale from the cloud to the physical world.
+Through deep partnerships with customers, GF delivers differentiated, power‑efficient and high‑performance solutions for high‑growth markets. GF is a trusted
+and holistic technology partner for customers around the world. GF’s talented, global team remains focused every day on security, longevity and sustainability.
+For more information, visit www.gf.com. Internship Program Overview: Our Interns & Co-ops are our entry-level talent pipeline for GF across the globe. Our goal
+is to provide students with a meaningful work experience that will equip them with the skills to embark on a career in the fast-paced and growing semiconductor
+industry after graduation. As an intern at GF, you’ll experience one-on-one mentorship, work assignments that prioritize your growth and potential, professional
+development opportunities, and the chance to network with executives. Summary of Role: GlobalFoundries is seeking an intern to support AI-enabled Process Design
+Kit (PDK) development. The intern will work with PDK technical experts to apply artificial intelligence, machine learning, and software-development methods to
+coding, testing, debugging, documentation, and automation across design-enablement workflows. Essential Responsibilities include: Support the development of AI-
+assisted software and automation for generating, reviewing, debugging, and testing PDK code and technical content. Work with PDK technical experts to translate
+approved requirements for LVS, DRC, PEX, OPC, and Design Manuals into structured data, code, test cases, and documentation. Apply machine learning, large
+language models, natural-language processing, retrieval-augmented generation, and code-generation techniques to PDK development workflows. Build and validate
+reproducible Python-based pipelines for requirements traceability, automated test generation, regression testing, quality reporting, and responsible AI
+deployment. Other Responsibilities: Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security
+requirements and programs. Required Qualifications: Education – At least a sophomore at time of application and actively pursuing a Bachelor’s, Master’s, or PhD
+in Computer Science, Computer Engineering, Electrical Engineering, Data Science, Applied Mathematics, Physics, or related field through an accredited degree
+program during the time of internship. Must have at least an overall 3.0 GPA and be in good academic standing. Language Fluency - English (Written & Verbal)
+Travel - Up to 10% Ability to work at least 40 hours per week during the internship. Preferred Qualifications: Prior related internship or co-op experience
+Demonstrated prior leadership experience in the workplace, school projects, competitions, etc. Strong interest in leveraging AI tools and emerging technologies
+to enhance productivity, streamline workflows, and support effective decision-making. Project management skills, i.e., the ability to innovate and execute on
+solutions that matter; the ability to navigate ambiguity. Strong written and verbal communication skills Strong planning & organizational skills Academic,
+internship, research, or project experience in artificial intelligence, machine learning, large language models, natural-language processing, code generation,
+software engineering, or data science. Strong Python programming skills and familiarity with software-development practices such as debugging, automated
+testing, version control, documentation, Linux, Git, or reproducible workflows. #InternshipProgramUS Expected Salary Range $20.00 - $40.00 Expected Salary Range
+$0.00 - $0.00 The exact Salary will be determined based on qualifications, experience and location. If you need a reasonable accommodation for any part of the
+employment process, please contact us by email at usaccommodations@gf.com and let us know the nature of your request and your contact information. Requests for
+accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to
+from this email address. An offer with GlobalFoundries is conditioned upon the successful completion of pre-employment conditions, as applicable, and subject to
+applicable laws and regulations. GlobalFoundries is fully committed to equal opportunity in the workplace and believes that cultural diversity within the
+company enhances its business potential. GlobalFoundries goal of excellence in business necessitates the attraction and retention of highly qualified people.
+Artificial barriers and stereotypic biases detract from this objective and may be illegally discriminatory. All policies and processes which pertain to
+employees including recruitment, selection, training, utilization, promotion, compensation, benefits, extracurricular programs, and termination are created and
+implemented without regard to age, ethnicity, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race,
+religion, political and/or third-party affiliation, sex, sexual orientation, gender identity or expression, veteran status, or any other characteristic or
+category specified by local, state or federal law We shape what's essential At GlobalFoundries you will find a vibrant work environment where collaboration and
+innovation thrive. Our diverse and global team shares a culture of respect and inclusivity, representing the best in the industry. We celebrate success together
+and are united by our dedication to excellence and our desire to improve and empower the world.

@@ -14,9 +14,6 @@ Research Scientist Intern, Monetization Ranking & AI Foundations (PhD) Responsib
 - Collaborate with researchers and engineers across varied disciplines, including communicating research plans, progress, and results.
 - Publish research results and contribute to research that can be applied to Meta product development.
 Minimum Qualifications:
-- Currently has or is in the process of obtaining a Ph.D. degree in Machine Learning, Artificial Intelligence, Computer Science, Information or Multimedia
-Retrieval, Computer Vision, Natural Language Processing, Reinforcement Learning, Optimization, Computational Statistics, Applied Mathematics, or related
-technical fields
 - Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
 - Experience with deep learning frameworks such as Pytorch or Tensorflow
 - Experience with Python, C++, C, Java, or other related languages

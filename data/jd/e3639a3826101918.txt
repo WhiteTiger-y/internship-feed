@@ -1,0 +1,39 @@
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine
+connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to
+prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The
+Position 2027 Summer Intern - Service Data and Analytics Department Summary The Service Data and Analytics team within the Roche Support Network (RSN) powers
+operational excellence and customer support across North America. We are a specialized, agile product squad uniting Data Scientists, an AI Full-Stack Engineer,
+and Business Systems Analysts to evolve our organization from traditional reporting to predictive, driver-based software tools. Our squad builds modern web
+applications, scalable data pipelines, and machine learning models that analyze service records and operational workflows. By turning complex diagnostic service
+data into real-time tools, we help ensure laboratory instruments nationwide remain running and reliable—directly supporting patient care when it matters most.
+This internship position is located in Indianapolis, IN, On-Site. The Opportunity Data Exploration & Feature Engineering: Analyze large-scale field service,
+instrument performance, and work order datasets to uncover operational trends and root-cause drivers. Model & Metric Prototyping: Partner with Data Scientists
+to prototype statistical analyses, predictive models, or driver-based algorithms using Python. Pipeline & Application Support: Assist in building data
+transformation pipelines (ETL) and connecting analytics endpoints to our modern cloud-hosted web applications in AWS. Cross-Functional Scoping: Collaborate
+closely with our Business Systems Analyst to understand field service workflows and translate business rules into technical requirements. Executive Showcase:
+Own an end-to-end project deliverable and present your findings, software features, and measurable business impact to senior leadership. Program Highlights
+Intensive 12-weeks, full-time (40 hours per week) paid internship. Program start dates are in May/June (Summer). A stipend, based on location, will be provided
+to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects. Work with some of the most talented
+people in the biotechnology industry. Who You Are (Required) Required Education: You meet one of the following criteria: Must be pursuing a Bachelor's Degree
+(enrolled student). Must be pursuing a Master's Degree (enrolled student). Required Majors: Data Science, Computer Science, Business Analytics, Statistics,
+Informatics, Industrial Engineering, Applied Mathematics, or a related quantitative STEM discipline. Required Skills Academic or hands-on experience using
+Python and/or SQL for data extraction, manipulation, and analysis. Foundational understanding of statistical concepts, exploratory data analysis, or machine
+learning principles. Demonstrated problem-solving ability with a structured, analytical mindset. Ability to work on-site at our Indianapolis, IN campus for the
+duration of the 12-week program. Preferred Knowledge, Skills, and Qualifications Excellent communication, collaboration, and interpersonal skills. Complements
+our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion. Experience with version control systems. Familiarity
+with modern data and cloud technologies. Exposure to data visualization tools or lightweight application frameworks. Eagerness to learn in an Agile team
+environment and a genuine interest in healthcare and biotechnology. Relocation benefits are not available for this job posting. The expected salary range for
+this position based on the primary location of Indiana is $45 -$52. Actual pay will be determined based on experience, qualifications, geographic location, and
+other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits. Who we are A healthier future drives us to
+innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for
+generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics
+products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare
+solutions that make a global impact. Let’s build a healthier future, together. Roche is an equal opportunity employer. It is our policy and practice to employ,
+promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful
+discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with
+all federal, state, or local laws. If you have a disability and need an accommodation in relation to the online application process, please contact us by
+completing this form Accommodations for Applicants. We believe it’s urgent to deliver medical solutions right now – even as we develop innovations for the
+future. We are passionate about transforming patients’ lives. We are courageous in both decision and action. And we believe that good business means a better
+world. That is why we come to work each day. We commit ourselves to scientific rigor, unassailable ethics, and access to medical innovations for all. We do this
+today to build a better tomorrow. We are proud of who we are, what we do, and how we do it. We are many, working as one across functions, across companies, and
+across the world. We are Roche.

@@ -1,0 +1,29 @@
+Area Of Accountability
+- Partner with stakeholders to define problems, requirements, and success metrics (KPIs).
+- Deliver reliable datasets, analyses, dashboards, and ML prototypes that address those needs.
+- Communicate progress, risks, and results clearly to technical and non-technical audiences.
+- Maintain data quality, documentation, and reproducibility standards.
+Major Responsibilities (may Vary Depending On Project)
+- Run discovery (interviews, process mapping) and translate findings into clear requirements.
+- Build and maintain clean datasets with SQL/Python; create visuals/dashboards (e.g., Power BI).
+- Prototype and evaluate predictive/time-series models; document methods and results.
+- Demo work, gather feedback, iterate, and prepare simple handoffs for reuse.
+- Perform other duties as assigned.
+Minimum Qualifications
+- Working toward a bachelor's degree in a major related to machine learning (e.g. computer science, statistics, mathematics, engineering, or a closely related
+field).
+- Strong communicator and facilitator; comfortable writing clear docs.
+- Familiar with Python and SQL; solid grasp of basic statistics and model evaluation.
+- Organized, curious, and able to manage multiple projects and deadlines.
+Nice To Have
+- Experience with time-series/forecasting, Power BI/DAX, or introductory deep learning/LLMs.
+- Familiarity with version control (Git/GitHub) and basic cloud data tools.
+- This is not a comprehensive list of duties. Duties may change without notice in management’s sole discretion. Hendrickson is an at-will employer, each
+employee is free to resign at any time, just as Hendrickson is free to terminate employment at any time without cause or notice.
+We are an Equal Opportunity Employer.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran
+status, or other characteristics protected by law.
+, We offer a full complement of benefits that include medical, dental, and vision insurance; life, travel, and disability insurance; a flexible spending
+account; 401K plans; a pension plan; paid holidays and vacation. We also offer financial assistance programs if you decide to adopt a child or want to pursue
+further education. We have a comprehensive wellness program and an Employee Assistance Program, that supports individuals in the proactive management of their
+overall health and wellness.

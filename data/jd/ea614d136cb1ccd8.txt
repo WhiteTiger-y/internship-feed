@@ -1,0 +1,37 @@
+About GlobalFoundries GlobalFoundries (GF) is a leading manufacturer of essential semiconductors, enabling AI at scale from the cloud to the physical world.
+Through deep partnerships with customers, GF delivers differentiated, power‑efficient and high‑performance solutions for high‑growth markets. GF is a trusted
+and holistic technology partner for customers around the world. GF's talented, global team remains focused every day on security, longevity and sustainability.
+For more information, visit www.gf.com. Internship Overview: Our summer internships give students hands-on experience on real projects in a fast-paced
+semiconductor manufacturing environment. Interns work alongside experienced engineers and data scientists, receive day-to-day mentorship, and build networking
+connections and practical skills they can carry back to school and into their careers. Summary of Role: GlobalFoundries is seeking a summer intern with a data
+science background to join the Digital Manufacturing team and help develop data-driven solutions for semiconductor manufacturing. Working under the guidance of
+a Digital Manufacturing mentor and alongside Fab teams, the intern will help prepare manufacturing datasets, apply statistical and machine learning methods,
+prototype AI and agentic tools for a well-scoped project, and share findings with the team at the end of the summer. Essential Responsibilities include: Work
+with a Digital Manufacturing mentor to scope a summer project with clear deliverables, milestones, and success measures; document code, methods, and results so
+the work can be reused after the internship. Learn how manufacturing and engineering teams use data in their daily work and, with mentor support, help translate
+their questions into focused analyses. Collect, clean, and prepare datasets from multiple sources; apply statistical analysis, data visualization, and machine
+learning techniques to identify patterns, trends, and improvement opportunities. Help build and test prototypes of analytics or AI/agentic tools for a real
+manufacturing use case, and present findings, limitations, and recommendations to the team in a final internship presentation. Other Responsibilities: Perform
+all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs. Required Qualifications:
+Education: Currently pursuing a Bachelor's degree in Data Science, Computer Science, Statistics, Industrial Engineering, Electrical Engineering, Computer
+Engineering, or a related field from an accredited degree program, and entering junior or senior year in Fall 2027. Completed coursework in programming (Python
+or R or similar) and introductory statistics or probability. Must have at least an overall 3.0 GPA and proven good academic standing. Language Fluency: English
+(Written & Verbal) Preferred Qualifications: Coursework, class projects, research, or hackathon experience involving data analysis, statistics, machine
+learning, or data visualization. Familiarity with Python data tools (such as pandas, NumPy, or scikit-learn), R, or SQL; exposure to Jupyter notebooks or Git is
+a plus. Strong interest in leveraging AI tools and emerging technologies to enhance productivity, streamline workflows, and support effective decision-making.
+Curiosity and eagerness to learn, with the ability to work through open-ended problems with guidance. Good written and verbal communication skills. Good
+planning and organizational skills. Prior internship, research, or leadership experience (school organizations, team projects, competitions, etc.) is a plus but
+not required. #InternshipProgramUS Expected Salary Range $20.00 - $40.00 Expected Salary Range $0.00 - $0.00 The exact Salary will be determined based on
+qualifications, experience and location. If you need a reasonable accommodation for any part of the employment process, please contact us by email at
+usaccommodations@gf.com and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case
+basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address. An offer with
+GlobalFoundries is conditioned upon the successful completion of pre-employment conditions, as applicable, and subject to applicable laws and regulations.
+GlobalFoundries is fully committed to equal opportunity in the workplace and believes that cultural diversity within the company enhances its business
+potential. GlobalFoundries goal of excellence in business necessitates the attraction and retention of highly qualified people. Artificial barriers and
+stereotypic biases detract from this objective and may be illegally discriminatory. All policies and processes which pertain to employees including recruitment,
+selection, training, utilization, promotion, compensation, benefits, extracurricular programs, and termination are created and implemented without regard to
+age, ethnicity, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party
+affiliation, sex, sexual orientation, gender identity or expression, veteran status, or any other characteristic or category specified by local, state or
+federal law We shape what's essential At GlobalFoundries you will find a vibrant work environment where collaboration and innovation thrive. Our diverse and
+global team shares a culture of respect and inclusivity, representing the best in the industry. We celebrate success together and are united by our dedication
+to excellence and our desire to improve and empower the world.

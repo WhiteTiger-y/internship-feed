@@ -1,0 +1,39 @@
+Who we are looking for We are looking for a motivated AI Engineering Intern to join the our team. The candidate will work with experienced engineers to design,
+develop, and test end-to-end AI applications powered by Large Language Models (LLMs). This is a hands-on engineering role for students who are passionate about
+AI and interested in turning emerging AI technologies into practical applications. What you will be responsible for The candidate will be involved in: Design
+and develop LLM-powered applications and AI agents using Python. Work on key components of end-to-end AI solutions, including prompt engineering, RAG
+(Retrieval-Augmented Generation), agent workflows, tool integration, and APIs. Explore and evaluate AI frameworks and technologies such as LangChain, LangGraph,
+vector databases, and LLM APIs. Write clean, maintainable code and develop unit tests to ensure solution quality and reliability. Participate in debugging,
+testing, and performance improvement of AI applications. Collaborate with senior developers, QA engineers, and other team members throughout the software
+development lifecycle. Research and experiment with new AI/LLM technologies and contribute ideas to prototypes and production solutions. What we value Strong
+interest in AI, Large Language Models, and Agentic AI. Solid problem-solving skills and willingness to learn new technologies quickly. Ability to work with
+senior developers on AI application development, testing, and troubleshooting. Hands-on mindset and curiosity about how AI systems work beyond simply calling an
+LLM API. Good communication skills and ability to collaborate effectively within an engineering team. Education & Preferred Qualifications Currently pursuing a
+BS/MS in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related field. Good programming skills in Python. Basic
+understanding of software engineering concepts, including APIs, Git, unit testing, and debugging. Basic understanding of Large Language Models (LLMs) and
+generative AI concepts. Experience with one or more of the following is a plus: LangChain / LangGraph or similar AI frameworks RAG and vector databases Prompt
+engineering Cloud platforms such as AWS or Azure Machine Learning / NLP Previous AI/LLM projects, coursework, hackathons, or open-source contributions are a
+plus, but not required. Most importantly, a strong passion for AI and eagerness to learn and build. Salary Range: $41,600 - $65,000 Annual The range quoted
+above applies to the role in the primary location specified. If the candidate would ultimately work outside of the primary location above, the applicable range
+could differ. Employees are eligible to participate in State Street’s comprehensive benefits program, which includes: our retirement savings plan (401K) with
+company match; insurance coverage including basic life, medical, dental, vision, long-term disability, and other optional additional coverages; paid-time off
+including vacation, sick leave, short term disability, and family care responsibilities; access to our Employee Assistance Program; incentive compensation
+including eligibility for annual performance-based awards (excluding certain sales roles subject to sales incentive plans); and, eligibility for certain tax
+advantaged savings plans. For a full overview, visit https://hrportal.ehr.com/statestreet/Home. About State Street Across the globe, institutional investors
+rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and
+smart, engaged employees are essential to our continued success. We are committed to fostering an environment where every employee feels valued and empowered to
+reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support,
+paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future. As an Equal Opportunity
+Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age,
+disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union
+status, familial status, military and veteran status, and other characteristics protected by applicable law. Discover more information on jobs at
+StateStreet.com/careers Read our CEO Statement Job Application Disclosure: It is unlawful in Massachusetts to require or administer a lie detector test as a
+condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Across the globe,
+institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of
+everything we do, and smart, engaged employees are essential to our continued success. We are committed to fostering an environment where every employee feels
+valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities,
+flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future. As
+an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry,
+ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or
+civil union status, familial status, military and veteran status, and other characteristics protected by applicable law. Discover more information on jobs at
+StateStreet.com/careers Read our CEO Statement

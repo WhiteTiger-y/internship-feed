@@ -1,0 +1,39 @@
+The 2027 Summer Internship Program will run from May 17, 2027, through August 6, 2027. Candidates must be available to start on May 17 and participate through
+the duration of the program. Applicants must be legally authorized to work in the United States. We are unable to sponsor or take over sponsorship of a
+school/employment or any other visa, regardless of expiration date, now or in the future. Who Are We? The Toro Company (TTC) has delivered market-leading,
+innovative products and outstanding customer care for more than 100 years. With over 11,000 employees worldwide, TTC is headquartered in Bloomington, Minnesota,
+USA. Our company designs and manufactures turf maintenance equipment; turf irrigation systems; landscape and lighting products; snow and ice management
+solutions; agricultural irrigation systems; rental, specialty and underground construction equipment; and residential turf and snow equipment. We market and
+sell TTC products worldwide through a network of distributors, dealers, mass retailers, hardware retailers, equipment rental center and home centers—as well as
+online direct to end users. What Will You Do? In order to grow and build a successful career with The Toro Company, you will be responsible for: Design,
+Develop, test and deploy AI and machine learning models for predictive analytics, classification, recommendation, anomaly detection, forecasting and other
+business use cases. Validate, optimize, and continuously improve models for roll-out and analyze the performance of existing models. Assess and implement the
+usefulness of new data sources, transformations, and modeling techniques. Mine large datasets in multiple databases to draw patterns and inferences to build
+models and support leaders with information that will help make business decisions. Support end-users to design strategies based on newly developed machine
+learning models. Conduct advanced analysis and identify business opportunities. Test, evaluate, and deploy new models and features to achieve better outcomes
+for key metrics. Work collaboratively with other team members, data engineering team, and business stakeholders to craft solutions with a holistic view of the
+problem. Present work to all levels of the organization including senior leadership. Translate data and models into compelling stories. What Do You Need? To be
+considered for this role, an individual should meet the following minimal requirements: Pursuing a Bachelor’s degree in Data Science, Information Science,
+Machine Learning, Statistics, Computer Science, Data Mining, Applied Mathematics, Engineering, or other technology/quantitative program. Must be proficient in
+one/or more of the following: Python, R, Spark, Scala, SQL, or other analytical/statistical programming environment. Understanding of AI Engineering, Gen AI,
+RAG, MCP, supervised and unsupervised model building techniques, such as: neural networks, extreme gradient boosting (XGBoost), support vector machines (SVM),
+gradient boosted models (GBM), and random forest. Hands on experience with information retrieval from high dimensional data, dimensionality reduction and
+feature extraction. Demonstrated ability to work independently and collaboratively as a team. Preferred Qualifications: Graduate degree in Data Science, Machine
+Learning, Statistics, Computer Science, Data Mining, Applied Mathematics or other quantitative program. Strong analytical skills to extract, manipulate,
+analyze, and interpret trends or patterns in complex and diverse datasets like, customer data, product data, IOT data. Experience in advanced
+analytics/statistics, predictive modeling, machine learning and data visualization. Proficient in Python/R, Spark, SQL, and ML Ops. Experience with A/B testing.
+What Can We Give You? At The Toro Company, we are always working to make sure our interns know just how valued they are. In addition to a competitive pay- The
+Toro Company offers interns a variety of perks, including: Dress for your day – We know you're more productive when you're comfortable, which is why TTC
+employees are encouraged to take advantage of our casual, corporate environment. Volunteerism – The Toro Company is proud to provide interns 8 hours of paid
+time to volunteer in the community. Summer Hours *Based on Location* – Enjoy a flexible schedule during the summer! By working a little more during the first
+few days of the week, TTC employees at certain locations are able to start their weekends early and leave by noon on Friday. Competitive Pay – Competitive
+compensation with an anticipated hourly rate of $22–$28. Actual rates may vary based on factors such as academic standing, business function, and other relevant
+considerations. The Toro Company is an Equal Opportunity Employer. We consider all qualified applicants based on merit and do not discriminate on the basis of
+race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic
+information, military service, or other non-merit factors. We are committed to creating a welcoming environment for all employees. With roots dating back to
+1914, The Toro Company was built on a tradition of quality and caring relationships. Today, the company is a leading worldwide provider of innovative solutions
+for the outdoor environment including turf and landscape maintenance, snow and ice management, underground utility construction, rental and specialty
+construction, and irrigation and outdoor lighting solutions. Through a strong network of professional distributors, dealers, rental stores and retailers in more
+than 125 countries, we proudly offer a wide range of products across a family of global brands to help golf courses, professional contractors, underground
+construction professionals, groundskeepers, agricultural growers, rental companies, government and educational institutions, and homeowners – in addition to
+many leading sports venues and historic sites around the world.

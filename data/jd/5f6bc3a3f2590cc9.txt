@@ -1,0 +1,44 @@
+About Marvell Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud
+and AI, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the arc of individual lives, lift the
+trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation,
+above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Your Team, Your Impact The rapid growth of cloud computing, AI/ML, generative
+AI, 5G wireless, and high-performance data centers is driving unprecedented demand for higher bandwidth, lower power consumption, and efficient connectivity
+solutions. Marvell delivers industry-leading semiconductor technologies, including high-speed optical interconnects and transceivers, that power next-generation
+cloud, enterprise, and networking infrastructure. Our team leverages large language models (LLMs), agentic AI, machine learning, and cloud-based data platforms
+to improve hardware testing, debugging, and performance optimization through intelligent automation and data-driven engineering. What You Can Expect Design and
+develop scalable AI infrastructure, cloud-based data pipelines, and backend services to support engineering applications. Build and integrate LLM-powered
+applications, retrieval-augmented generation (RAG) systems, and multi-agent AI frameworks for intelligent hardware testing, debugging, and automation. Develop
+AI-driven test harnesses to automate test execution, evaluate AI agent performance, and validate system reliability. Integrate AI agents with engineering tools,
+databases, APIs, and hardware test environments to enable autonomous workflows. Collaborate with AI, software, and hardware engineers to improve system
+performance, scalability, and reliability. Gain hands-on experience building production-oriented AI solutions that address real-world semiconductor engineering
+challenges. Work with emerging technologies in generative AI, cloud computing, and intelligent automation while contributing to impactful engineering projects.
+What We're Looking For Minimum Qualifications: Currently pursuing a bachelor's or master's degree in Computer Science, Data Science, Artificial Intelligence,
+Electrical Engineering, Computer Engineering, or a related technical field, with an anticipated graduation date between Fall 2027 and Spring 2028. Proficiency
+in Python and familiarity with software development fundamentals. Foundational understanding of AI/ML, LLMs, or generative AI technologies. Familiarity with
+databases, APIs, and data processing workflows. Strong analytical, debugging, and problem-solving skills, with the ability to work independently and
+collaboratively. Preferred Qualifications: Experience with LLM APIs, retrieval-augmented generation (RAG), vector databases, or agentic AI frameworks such as
+LangChain, LangGraph, or CrewAI. Familiarity with multi-agent architectures, AI agent evaluation, automated test harnesses, or AI workflow orchestration.
+Experience with cloud platforms such as AWS or Azure and data platforms such as Snowflake or Databricks. Familiarity with backend development, REST APIs,
+Docker, or CI/CD pipelines. Experience with machine learning frameworks such as PyTorch, TensorFlow, or scikit-learn. Knowledge of DSP, semiconductor hardware,
+connectivity systems, or hardware validation is a plus but not required. Expected Base Pay Range (USD) 34 - 68, $ per hour. The successful candidate’s starting
+base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this
+role may be modified based on market conditions. Additional Compensation and Benefit Elements Marvell is committed to providing exceptional, comprehensive
+benefits that support our employees at every stage - from internship to retirement and through life’s most important moments. Our offerings are built around
+four key pillars: financial well-being, family support, mental and physical health, and recognition. Highlights for our interns: medical, dental, and vision
+coverage, perks and discounts, robust mental health resources to prioritize emotional well-being, and paid holidays. Additional compensation may be available
+for intern PhD candidates. We look forward to sharing more with you during the interview process. All qualified applicants will receive consideration for
+employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Any
+applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com. Interview Integrity To
+support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real-time answer generators like ChatGPT
+or Copilot, or automated note-taking bots) during interviews. These tools must not be used to record, assist with, or enhance responses in any way. Our
+interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior
+instruction from the interviewer will result in disqualification from the hiring process. This position may require access to technology and/or software subject
+to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-
+controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or
+the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants
+may be subject to an export license review process prior to employment. #LI-JY1 Join our talent community to hear about company news, job openings and events.
+Join our Talent Community! Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across
+enterprise, cloud and AI, automotive, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the arc of
+individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on
+purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Recruitment fraud is a well-known way that
+third parties try to get personal information or to steal money from you. Please review Marvell’s guidance here to learn more on how you can protect yourself.
